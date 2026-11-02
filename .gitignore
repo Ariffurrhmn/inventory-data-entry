@@ -32,3 +32,16 @@ Dataset/external_candidates/roboflow_purchase_order_set2/*/
 
 # Supervisor-meeting audio recording (contains a third party's voice)
 docs/meetings/*.mp4
+
+# ---- Large files (>= 10 MB) hosted on Google Drive instead ------------------
+# Listed with Drive locations in docs/LARGE_FILES.md. The signed deliverables
+# are the one exception: they stay in git so the submitted report is verbatim.
+classifier/engine/runs/printed_v2_contrastive/step20/model.safetensors
+classifier/engine/runs/printed_v2_contrastive/step40/model.safetensors
+classifier/engine/runs/printed_v1_transformers/bert_epoch4/model.safetensors
+classifier/engine/runs/printed_v1_transformers/bert_epoch8/model.safetensors
+classifier/engine/runs/printed_v1_transformers/bert_epoch12/model.safetensors
+classifier/engine/.cache/tessdata/eng.traineddata
+research/literature/On-Device _ Quantized LLM Deployment/AWQ ACTIVATION-AWARE WEIGHT QUANTIZATION FOR.pdf
+research/literature/Multilingual  or Handwritten OCR/Enhancement of Bengali OCR by Specialized Models and Advanced Techniques.pdf
+ChatGPT_Bridge/print/1_MUST_PRINT.pdf
