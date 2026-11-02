@@ -1,0 +1,84 @@
+<svg viewBox="0 0 1180 640" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>System architecture</title>
+<desc>Mobile app captures a document and uploads it to a cloud pipeline that performs OCR and document structure/type classification, schema-constrained extraction, and arithmetic self-validation with confidence scoring. The result is a standardized JSON output, delivered via API to an authorized ERP or inventory system. A record failing verification or falling below the confidence threshold is flagged review_required in the JSON; there is no human-in-the-loop actor in this diagram.</desc>
+<defs>
+<marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+<path d="M0,0 L10,5 L0,10 z" fill="#64748b"/>
+</marker>
+<marker id="arrowg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+<path d="M0,0 L10,5 L0,10 z" fill="#16a34a"/>
+</marker>
+</defs>
+<style>
+  text { font-family: 'Segoe UI', Arial, sans-serif; }
+  .title { font-size: 15px; font-weight: 600; }
+  .sub { font-size: 11.5px; }
+  .lbl { font-size: 11px; }
+  .grouplabel { font-size: 13px; font-weight: 700; letter-spacing: 0.3px; }
+  .edge { stroke: #64748b; stroke-width: 1.6; fill: none; marker-end: url(#arrow); }
+  .edge-g { stroke: #16a34a; stroke-width: 1.6; fill: none; marker-end: url(#arrowg); }
+</style>
+<rect width="1180" height="640" fill="#ffffff"/>
+<text x="590" y="26" text-anchor="middle" font-size="16" font-weight="700" fill="#1e293b">Proposed System Architecture</text>
+
+<!-- Mobile App -->
+<rect x="24" y="90" width="180" height="180" rx="10" fill="#fefce8" stroke="#ca8a04" stroke-width="1.5"/>
+<text x="114" y="76" text-anchor="middle" class="grouplabel" fill="#854d0e">MOBILE APP</text>
+<rect x="44" y="140" width="140" height="80" rx="8" fill="#fef9c3" stroke="#ca8a04"/>
+<text x="114" y="168" text-anchor="middle" class="title" fill="#713f12">Capture</text>
+<text x="114" y="187" text-anchor="middle" class="sub" fill="#854d0e">photo / scan of</text>
+<text x="114" y="202" text-anchor="middle" class="sub" fill="#854d0e">invoice or receipt</text>
+<text x="114" y="236" text-anchor="middle" font-size="10" fill="#854d0e" font-style="italic">capture only —</text>
+<text x="114" y="249" text-anchor="middle" font-size="10" fill="#854d0e" font-style="italic">no inference on device</text>
+
+<!-- Cloud group -->
+<rect x="240" y="65" width="700" height="535" rx="10" fill="#eff6ff" stroke="#2563eb" stroke-width="1.5"/>
+<text x="590" y="59" text-anchor="middle" class="grouplabel" fill="#1e3a8a">CLOUD (server-side processing)</text>
+
+<rect x="270" y="80" width="640" height="60" rx="8" fill="#dbeafe" stroke="#2563eb"/>
+<text x="590" y="106" text-anchor="middle" class="title" fill="#1e3a8a">API Gateway</text>
+<text x="590" y="124" text-anchor="middle" class="sub" fill="#1e40af">authentication + idempotency-key check</text>
+
+<rect x="270" y="164" width="640" height="70" rx="8" fill="#dbeafe" stroke="#2563eb"/>
+<text x="590" y="192" text-anchor="middle" class="title" fill="#1e3a8a">OCR + Document Structure / Type Classification</text>
+<text x="590" y="212" text-anchor="middle" class="sub" fill="#1e40af">reads text with bounding boxes; classifies document type and locates structural regions</text>
+
+<rect x="270" y="258" width="640" height="60" rx="8" fill="#dbeafe" stroke="#2563eb"/>
+<text x="590" y="284" text-anchor="middle" class="title" fill="#1e3a8a">Schema-Constrained Extraction</text>
+<text x="590" y="302" text-anchor="middle" class="sub" fill="#1e40af">LLM converts recognized content into line items conforming to Table 3.4</text>
+
+<rect x="270" y="342" width="640" height="72" rx="8" fill="#ecfdf5" stroke="#16a34a" stroke-width="1.5"/>
+<text x="590" y="368" text-anchor="middle" class="title" fill="#14532d">Arithmetic Self-Validation + Confidence Scoring</text>
+<text x="590" y="387" text-anchor="middle" class="sub" fill="#166534">qty × unit price = line total, line totals vs. grand total; confidence threshold applied</text>
+<text x="590" y="404" text-anchor="middle" class="sub" fill="#166534" font-style="italic">fails check or below threshold → flagged, not blocked</text>
+
+<rect x="270" y="438" width="640" height="60" rx="8" fill="#dcfce7" stroke="#16a34a" stroke-width="1.5"/>
+<text x="590" y="464" text-anchor="middle" class="title" fill="#14532d">JSON Output</text>
+<text x="590" y="483" text-anchor="middle" class="sub" fill="#166534">standardized record per Table 3.4, incl. review_required flag — stateless, per-submission</text>
+
+<rect x="270" y="522" width="640" height="58" rx="8" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.2"/>
+<text x="590" y="546" text-anchor="middle" class="sub" fill="#334155">Only persistent state: the Submission log (Section 3.4.6) — enforces idempotency, no inventory state, no product catalog</text>
+<text x="590" y="565" text-anchor="middle" class="sub" fill="#334155" font-style="italic">Item-name reconciliation across suppliers is left to the consuming ERP</text>
+
+<!-- Consumer -->
+<rect x="984" y="150" width="172" height="150" rx="10" fill="#f0fdf4" stroke="#16a34a" stroke-width="1.5"/>
+<text x="1070" y="136" text-anchor="middle" class="grouplabel" fill="#14532d">AUTHORIZED CONSUMER</text>
+<rect x="1004" y="190" width="132" height="80" rx="8" fill="#dcfce7" stroke="#16a34a"/>
+<text x="1070" y="220" text-anchor="middle" class="title" fill="#14532d">ERP / Inventory</text>
+<text x="1070" y="239" text-anchor="middle" class="sub" fill="#166534">system</text>
+<text x="1070" y="257" text-anchor="middle" class="sub" fill="#166534">pulls result via API</text>
+
+<!-- edges -->
+<path class="edge" d="M204,170 L270,112"/>
+<text x="210" y="150" class="lbl" fill="#475569">upload</text>
+
+<path class="edge" d="M590,140 L590,164"/>
+<path class="edge" d="M590,234 L590,258"/>
+<path class="edge" d="M590,318 L590,342"/>
+<path class="edge" d="M590,414 L590,438"/>
+
+<path class="edge-g" d="M910,468 L984,230"/>
+<text x="930" y="330" class="lbl" fill="#166534">API pull</text>
+<text x="930" y="345" class="lbl" fill="#166534">GET result</text>
+
+</svg>

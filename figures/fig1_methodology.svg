@@ -1,0 +1,62 @@
+<svg viewBox="0 0 900 700" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Iterative, evaluation-driven methodology workflow</title>
+<desc>Five-phase iterative development lifecycle: requirement analysis and document collection; data model and API contract design; recognition pipeline; verification and digitization API core; and evaluation and benchmarking, with a feedback loop from evaluation back into the API contract and extraction design.</desc>
+<defs>
+<marker id="arrow2" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+<path d="M0,0 L10,5 L0,10 z" fill="#475569"/>
+</marker>
+<marker id="arrow2-orange" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+<path d="M0,0 L10,5 L0,10 z" fill="#c2410c"/>
+</marker>
+</defs>
+<style>
+  text { font-family: 'Segoe UI', Arial, sans-serif; }
+  .num { font-size: 13px; font-weight: 700; }
+  .title { font-size: 15px; font-weight: 700; }
+  .sub { font-size: 12px; }
+  .edge { stroke: #475569; stroke-width: 1.8; fill: none; marker-end: url(#arrow2); }
+  .loop { stroke: #c2410c; stroke-width: 1.8; fill: none; stroke-dasharray: 6 5; marker-end: url(#arrow2-orange); }
+</style>
+<rect width="900" height="700" fill="#ffffff"/>
+<text x="450" y="28" text-anchor="middle" font-size="17" font-weight="700" fill="#1e293b">Iterative, Evaluation-Driven Development Lifecycle</text>
+<text x="450" y="48" text-anchor="middle" font-size="12" fill="#64748b">Five phases, not a strict sequence — the evaluation phase feeds back into the API contract and extraction design</text>
+
+<rect x="140" y="70" width="620" height="100" rx="10" fill="#eef2ff" stroke="#4f46e5" stroke-width="1.5"/>
+<text x="170" y="100" class="num" fill="#3730a3">1</text>
+<text x="196" y="100" class="title" fill="#1e1b4b">Requirement Analysis &amp; Document Collection</text>
+<text x="196" y="124" class="sub" fill="#3730a3">Interview shop/business staff on current process;</text>
+<text x="196" y="146" class="sub" fill="#3730a3">collect real supplier invoices, receipts, delivery notes (English)</text>
+
+<rect x="140" y="190" width="620" height="100" rx="10" fill="#eef2ff" stroke="#4f46e5" stroke-width="1.5"/>
+<text x="170" y="220" class="num" fill="#3730a3">2</text>
+<text x="196" y="220" class="title" fill="#1e1b4b">Data Model &amp; API Contract Design</text>
+<text x="196" y="244" class="sub" fill="#3730a3">Define the JSON output schema (Table 3.4) and the</text>
+<text x="196" y="266" class="sub" fill="#3730a3">document-type taxonomy; design the submission data model</text>
+
+<rect x="140" y="310" width="620" height="100" rx="10" fill="#eef2ff" stroke="#4f46e5" stroke-width="1.5"/>
+<text x="170" y="340" class="num" fill="#3730a3">3</text>
+<text x="196" y="340" class="title" fill="#1e1b4b">Recognition Pipeline</text>
+<text x="196" y="364" class="sub" fill="#3730a3">Cloud OCR plus document structure / type classification</text>
+<text x="196" y="386" class="sub" fill="#3730a3">(purchase order, customer copy, delivery note, receipt)</text>
+
+<rect x="140" y="430" width="620" height="100" rx="10" fill="#eef2ff" stroke="#4f46e5" stroke-width="1.5"/>
+<text x="170" y="460" class="num" fill="#3730a3">4</text>
+<text x="196" y="460" class="title" fill="#1e1b4b">Verification &amp; Digitization API Core</text>
+<text x="196" y="484" class="sub" fill="#3730a3">Schema-constrained extraction; arithmetic self-validation and</text>
+<text x="196" y="506" class="sub" fill="#3730a3">confidence scoring; stateless, idempotent submission endpoint</text>
+
+<rect x="140" y="550" width="620" height="100" rx="10" fill="#eef2ff" stroke="#4f46e5" stroke-width="1.5"/>
+<text x="170" y="580" class="num" fill="#3730a3">5</text>
+<text x="196" y="580" class="title" fill="#1e1b4b">Evaluation &amp; Benchmarking</text>
+<text x="196" y="604" class="sub" fill="#3730a3">Recognition accuracy, extraction accuracy, and the rate at</text>
+<text x="196" y="626" class="sub" fill="#3730a3">which arithmetic self-validation catches extraction errors</text>
+
+<path class="edge" d="M450,170 L450,190"/>
+<path class="edge" d="M450,290 L450,310"/>
+<path class="edge" d="M450,410 L450,430"/>
+<path class="edge" d="M450,530 L450,550"/>
+
+<path class="loop" d="M140,600 C58,600 58,240 140,240"/>
+<text x="28" y="425" font-size="12" fill="#c2410c" text-anchor="middle" transform="rotate(-90 28 425)">feeds back into API contract / extraction design</text>
+
+</svg>

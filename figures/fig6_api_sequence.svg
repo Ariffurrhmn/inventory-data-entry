@@ -1,0 +1,98 @@
+<svg viewBox="0 0 1000 720" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>API sequence diagram</title>
+<desc>Sequence of interactions between the mobile client, API gateway, processing pipeline, and consuming ERP: normal submission with idempotency key, asynchronous processing through OCR, structure recognition, extraction, and arithmetic validation, result retrieval by the consuming ERP, and the duplicate-submission path that returns the original result without reprocessing. There is no human-reviewer actor.</desc>
+<defs>
+<marker id="a6" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+<path d="M0,0 L10,5 L0,10 z" fill="#475569"/>
+</marker>
+<marker id="a6o" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+<path d="M0,0 L10,5 L0,10 z" fill="#ea580c"/>
+</marker>
+<marker id="a6g" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+<path d="M0,0 L10,5 L0,10 z" fill="#16a34a"/>
+</marker>
+</defs>
+<style>
+  text { font-family: 'Segoe UI', Arial, sans-serif; }
+  .actor { font-size: 12.5px; font-weight: 700; }
+  .msg { font-size: 11px; }
+  .note { font-size: 10.5px; font-style: italic; }
+  .ph { font-size: 11.5px; font-weight: 700; }
+  .line { stroke: #94a3b8; stroke-width: 1.3; stroke-dasharray: 5 4; }
+  .arr { stroke: #475569; stroke-width: 1.6; fill: none; marker-end: url(#a6); }
+  .arr-o { stroke: #ea580c; stroke-width: 1.6; fill: none; marker-end: url(#a6o); }
+  .arr-g { stroke: #16a34a; stroke-width: 1.6; fill: none; marker-end: url(#a6g); }
+</style>
+<rect width="1000" height="720" fill="#ffffff"/>
+<text x="500" y="28" text-anchor="middle" font-size="16" font-weight="700" fill="#1e293b">API Interaction Sequence, Including Duplicate Submission</text>
+
+<!-- actors -->
+<rect x="40" y="50" width="150" height="42" rx="7" fill="#fef9c3" stroke="#ca8a04" stroke-width="1.5"/>
+<text x="115" y="76" text-anchor="middle" class="actor" fill="#713f12">Mobile Client</text>
+<line class="line" x1="115" y1="92" x2="115" y2="705"/>
+
+<rect x="280" y="50" width="150" height="42" rx="7" fill="#dbeafe" stroke="#2563eb" stroke-width="1.5"/>
+<text x="355" y="76" text-anchor="middle" class="actor" fill="#1e3a8a">API Gateway</text>
+<line class="line" x1="355" y1="92" x2="355" y2="705"/>
+
+<rect x="520" y="50" width="150" height="42" rx="7" fill="#dbeafe" stroke="#2563eb" stroke-width="1.5"/>
+<text x="595" y="76" text-anchor="middle" class="actor" fill="#1e3a8a">Pipeline</text>
+<line class="line" x1="595" y1="92" x2="595" y2="705"/>
+
+<rect x="800" y="50" width="160" height="42" rx="7" fill="#dcfce7" stroke="#16a34a" stroke-width="1.5"/>
+<text x="880" y="76" text-anchor="middle" class="actor" fill="#14532d">Consuming ERP</text>
+<line class="line" x1="880" y1="92" x2="880" y2="705"/>
+
+<!-- phase 1: normal submission -->
+<rect x="30" y="108" width="940" height="22" rx="4" fill="#f1f5f9"/>
+<text x="45" y="124" class="ph" fill="#334155">Normal submission</text>
+
+<path class="arr" d="M115,152 L352,152"/>
+<text x="128" y="146" class="msg" fill="#334155">POST /submissions  { image, idempotency_key }</text>
+
+<path class="arr" d="M355,182 L592,182"/>
+<text x="368" y="176" class="msg" fill="#334155">key unseen → enqueue for processing</text>
+
+<path class="arr" d="M355,210 L118,210"/>
+<text x="150" y="204" class="msg" fill="#334155">202 Accepted  { submission_id, status: processing }</text>
+
+<rect x="470" y="230" width="240" height="26" rx="4" fill="#eff6ff" stroke="#93c5fd" stroke-width="1"/>
+<text x="590" y="248" text-anchor="middle" class="note" fill="#1e40af">OCR → structure/type recognition → extraction</text>
+
+<rect x="470" y="264" width="240" height="26" rx="4" fill="#ecfdf5" stroke="#86efac" stroke-width="1"/>
+<text x="590" y="282" text-anchor="middle" class="note" fill="#14532d">→ arithmetic self-validation + confidence scoring</text>
+
+<!-- phase 2: result delivery -->
+<rect x="30" y="316" width="940" height="22" rx="4" fill="#f0fdf4"/>
+<text x="45" y="332" class="ph" fill="#14532d">Result delivery</text>
+
+<path class="arr" d="M595,362 L358,362"/>
+<text x="380" y="356" class="msg" fill="#334155">result ready, stored against submission_id</text>
+<text x="380" y="378" class="note" fill="#64748b">(review_required set per Table 3.4 if verification failed)</text>
+
+<path class="arr" d="M880,406 L358,406"/>
+<text x="470" y="400" class="msg" fill="#334155">GET /submissions/{id}  (authorized consuming ERP)</text>
+
+<path class="arr" d="M355,440 L877,440"/>
+<text x="470" y="434" class="msg" fill="#334155">200 OK  { standardized JSON per Table 3.4 }</text>
+
+<!-- phase 3: duplicate -->
+<rect x="30" y="480" width="940" height="22" rx="4" fill="#fff7ed"/>
+<text x="45" y="496" class="ph" fill="#7c2d12">Duplicate submission (network retry) — idempotency guarantee</text>
+
+<path class="arr-o" d="M115,528 L352,528"/>
+<text x="128" y="522" class="msg" fill="#7c2d12">POST /submissions  { same idempotency_key }</text>
+
+<rect x="240" y="544" width="230" height="24" rx="4" fill="#fff7ed" stroke="#fdba74" stroke-width="1"/>
+<text x="355" y="561" text-anchor="middle" class="note" fill="#7c2d12">key already seen — original result returned, no reprocessing</text>
+
+<path class="arr-o" d="M355,592 L118,592"/>
+<text x="140" y="586" class="msg" fill="#7c2d12">200 OK  { original result }  — no duplicate emitted</text>
+
+<!-- legend / footnote -->
+<rect x="30" y="624" width="940" height="76" rx="8" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.2"/>
+<text x="46" y="646" class="ph" fill="#334155">Idempotency guarantee (Section 2.1.4 / 3.4.5)</text>
+<text x="46" y="666" class="note" fill="#475569">The service records each submission_id it has processed. A submission arriving with a previously seen key returns</text>
+<text x="46" y="684" class="note" fill="#475569">the original result rather than reprocessing the document — no human confirmation step intervenes at any point.</text>
+
+</svg>

@@ -1,0 +1,98 @@
+<svg viewBox="0 0 1120 580" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Evaluation framework</title>
+<desc>Each pipeline module mapped to its evaluation metrics and comparison baseline: character recognition, structure and type recognition, schema-constrained extraction, verification, and the digitization API. The headline evaluation is the silent-error-rate-versus-confidence-threshold curve for the verification module.</desc>
+<defs>
+<marker id="a8" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+<path d="M0,0 L10,5 L0,10 z" fill="#94a3b8"/>
+</marker>
+</defs>
+<style>
+  text { font-family: 'Segoe UI', Arial, sans-serif; }
+  .mod { font-size: 12px; font-weight: 700; }
+  .met { font-size: 10.5px; }
+  .hd { font-size: 12px; font-weight: 700; }
+  .arr { stroke: #94a3b8; stroke-width: 1.4; fill: none; marker-end: url(#a8); }
+</style>
+<rect width="1120" height="580" fill="#ffffff"/>
+<text x="560" y="28" text-anchor="middle" font-size="16" font-weight="700" fill="#1e293b">Evaluation Framework: Module → Metrics → Baseline</text>
+
+<!-- column headers -->
+<rect x="40" y="50" width="250" height="30" rx="6" fill="#1e293b"/>
+<text x="165" y="70" text-anchor="middle" class="hd" fill="#ffffff">Pipeline Module</text>
+<rect x="310" y="50" width="430" height="30" rx="6" fill="#1e293b"/>
+<text x="525" y="70" text-anchor="middle" class="hd" fill="#ffffff">Metrics</text>
+<rect x="760" y="50" width="320" height="30" rx="6" fill="#1e293b"/>
+<text x="920" y="70" text-anchor="middle" class="hd" fill="#ffffff">Baseline for Comparison</text>
+
+<!-- row 1 OCR -->
+<rect x="40" y="92" width="250" height="56" rx="6" fill="#dbeafe" stroke="#2563eb" stroke-width="1.4"/>
+<text x="55" y="115" class="mod" fill="#1e3a8a">3.4.2  Character Recognition</text>
+<text x="55" y="135" class="met" fill="#1e40af">reads the document text</text>
+<rect x="310" y="92" width="430" height="56" rx="6" fill="#eff6ff" stroke="#93c5fd" stroke-width="1.2"/>
+<text x="325" y="114" class="met" fill="#1e40af">Character Error Rate (CER), Word Error Rate (WER)</text>
+<text x="325" y="134" class="met" fill="#1e40af">CER on numeric fields reported separately</text>
+<rect x="760" y="92" width="320" height="56" rx="6" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.2"/>
+<text x="775" y="124" class="met" fill="#475569">Off-the-shelf cloud OCR output</text>
+<text x="775" y="140" class="met" fill="#475569">without project-specific handling</text>
+<path class="arr" d="M292,120 L308,120"/>
+<path class="arr" d="M742,120 L758,120"/>
+
+<!-- row 2 structure -->
+<rect x="40" y="158" width="250" height="56" rx="6" fill="#dbeafe" stroke="#2563eb" stroke-width="2.4"/>
+<text x="55" y="181" class="mod" fill="#1e3a8a">3.4.3  Document Type &amp; Structure</text>
+<text x="55" y="201" class="met" fill="#1e40af">primary project objective</text>
+<rect x="310" y="158" width="430" height="56" rx="6" fill="#eff6ff" stroke="#93c5fd" stroke-width="1.2"/>
+<text x="325" y="180" class="met" fill="#1e40af">Classification accuracy, macro-averaged F1, full confusion matrix</text>
+<text x="325" y="200" class="met" fill="#1e40af">Region-detection IoU</text>
+<rect x="760" y="158" width="320" height="56" rx="6" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.2"/>
+<text x="775" y="190" class="met" fill="#475569">Rule / keyword heuristic classifier</text>
+<path class="arr" d="M292,186 L308,186"/>
+<path class="arr" d="M742,186 L758,186"/>
+
+<!-- row 3 extraction -->
+<rect x="40" y="224" width="250" height="56" rx="6" fill="#dbeafe" stroke="#2563eb" stroke-width="1.4"/>
+<text x="55" y="247" class="mod" fill="#1e3a8a">3.4.4  Schema-Constrained Extraction</text>
+<text x="55" y="267" class="met" fill="#1e40af">structured line-item records</text>
+<rect x="310" y="224" width="430" height="56" rx="6" fill="#eff6ff" stroke="#93c5fd" stroke-width="1.2"/>
+<text x="325" y="246" class="met" fill="#1e40af">Schema-validity rate</text>
+<text x="325" y="266" class="met" fill="#1e40af">Field-level precision, recall, F1</text>
+<rect x="760" y="224" width="320" height="56" rx="6" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.2"/>
+<text x="775" y="246" class="met" fill="#475569">Unconstrained LLM decoding with</text>
+<text x="775" y="262" class="met" fill="#475569">post-hoc JSON parsing</text>
+<path class="arr" d="M292,252 L308,252"/>
+<path class="arr" d="M742,252 L758,252"/>
+
+<!-- row 4 verification -->
+<rect x="40" y="290" width="250" height="66" rx="6" fill="#ecfdf5" stroke="#16a34a" stroke-width="2.4"/>
+<text x="55" y="313" class="mod" fill="#14532d">Verification</text>
+<text x="55" y="333" class="met" fill="#166534">arithmetic self-validation +</text>
+<text x="55" y="349" class="met" fill="#166534">confidence scoring — headline contribution</text>
+<rect x="310" y="290" width="430" height="66" rx="6" fill="#f0fdf4" stroke="#86efac" stroke-width="1.2"/>
+<text x="325" y="312" class="met" fill="#166534">Silent-error rate at varying confidence thresholds</text>
+<text x="325" y="332" class="met" fill="#166534">Arithmetic-check catch rate</text>
+<rect x="760" y="290" width="320" height="66" rx="6" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.2"/>
+<text x="775" y="318" class="met" fill="#475569">No verification</text>
+<text x="775" y="334" class="met" fill="#475569">(extracted values returned as-is)</text>
+<path class="arr" d="M292,323 L308,323"/>
+<path class="arr" d="M742,323 L758,323"/>
+
+<!-- row 5 API -->
+<rect x="40" y="366" width="250" height="56" rx="6" fill="#dcfce7" stroke="#16a34a" stroke-width="1.4"/>
+<text x="55" y="389" class="mod" fill="#14532d">3.4.5  Digitization API</text>
+<text x="55" y="409" class="met" fill="#166534">stateless, idempotent</text>
+<rect x="310" y="366" width="430" height="56" rx="6" fill="#f0fdf4" stroke="#86efac" stroke-width="1.2"/>
+<text x="325" y="388" class="met" fill="#166534">End-to-end latency (median, 95th percentile)</text>
+<text x="325" y="408" class="met" fill="#166534">Correctness under duplicate submission</text>
+<rect x="760" y="366" width="320" height="56" rx="6" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.2"/>
+<text x="775" y="398" class="met" fill="#94a3b8">— (no baseline)</text>
+<path class="arr" d="M292,394 L308,394"/>
+<path class="arr" d="M742,394 L758,394"/>
+
+<!-- headline box -->
+<rect x="40" y="440" width="1040" height="125" rx="8" fill="#fffbeb" stroke="#d97706" stroke-width="1.8"/>
+<text x="58" y="464" class="hd" fill="#78350f">Headline evaluation — the silent-error-rate-versus-confidence-threshold curve</text>
+<text x="58" y="487" class="met" fill="#92400e">The central empirical claim is that arithmetic self-validation and confidence scoring measurably reduce the silent-error rate relative to</text>
+<text x="58" y="505" class="met" fill="#92400e">unverified extraction. The confidence threshold is swept; at each setting both the review-flag rate and the resulting silent-error rate are recorded.</text>
+<text x="58" y="529" class="met" fill="#78350f" font-style="italic">A caution on validity: a threshold tuned on clean public benchmarks would likely not transfer to real supplier documents — this is why the</text>
+<text x="58" y="547" class="met" fill="#78350f" font-style="italic">corpus described in Section 3.2 is collected, and the verification evaluation is conducted on it rather than on public data.</text>
+</svg>

@@ -1,0 +1,57 @@
+<svg viewBox="0 0 1080 620" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Entity-relationship diagram</title>
+<desc>Data model showing the single Submission entity the gateway persists, alongside an explicit callout of the Shop, CatalogEntry, ConfirmedMapping, Stock, Transaction, and Valuation entities deliberately excluded because they belong to the consuming ERP.</desc>
+<style>
+  text { font-family: 'Segoe UI', Arial, sans-serif; }
+  .ent { font-size: 14px; font-weight: 700; }
+  .attr { font-size: 11.5px; }
+  .pk { font-size: 11.5px; font-weight: 700; }
+  .note { font-size: 11px; }
+  .hd { font-size: 12px; font-weight: 700; }
+</style>
+<rect width="1080" height="620" fill="#ffffff"/>
+<text x="540" y="32" text-anchor="middle" font-size="16" font-weight="700" fill="#1e293b">Data Model: Persistent State Maintained by the Gateway</text>
+<text x="540" y="54" text-anchor="middle" font-size="12" fill="#64748b">A single entity — the system owns no inventory state and no product catalog</text>
+
+<!-- Submission entity, centered -->
+<rect x="365" y="90" width="350" height="270" rx="9" fill="#ecfdf5" stroke="#16a34a" stroke-width="1.8"/>
+<rect x="365" y="90" width="350" height="36" rx="9" fill="#16a34a"/>
+<text x="540" y="114" text-anchor="middle" class="ent" fill="#ffffff">Submission</text>
+<text x="385" y="152" class="pk" fill="#14532d">PK  submission_id</text>
+<text x="385" y="176" class="attr" fill="#166534">shop</text>
+<text x="385" y="200" class="attr" fill="#166534">received_at</text>
+<text x="385" y="224" class="attr" fill="#166534">processing_status</text>
+<text x="385" y="248" class="attr" fill="#166534">result_json_ref</text>
+<line x1="385" y1="264" x2="695" y2="264" stroke="#86efac" stroke-width="1"/>
+<text x="385" y="286" class="attr" fill="#475569" font-style="italic">the idempotency and audit record</text>
+<text x="385" y="304" class="attr" fill="#475569" font-style="italic">referenced by the Digitization API</text>
+<text x="385" y="322" class="attr" fill="#475569" font-style="italic">module (Section 3.4.5)</text>
+<text x="385" y="344" class="attr" fill="#475569" font-style="italic">the only persistent state the system holds</text>
+
+<!-- deliberately excluded callout -->
+<rect x="80" y="400" width="920" height="195" rx="8" fill="#fef2f2" stroke="#dc2626" stroke-width="1.5" stroke-dasharray="6 4"/>
+<text x="100" y="428" class="ent" fill="#7f1d1d">Deliberately excluded — these belong to the consuming ERP, not this system</text>
+
+<rect x="100" y="446" width="140" height="34" rx="6" fill="#fee2e2" stroke="#dc2626" stroke-width="1.2"/>
+<text x="170" y="468" text-anchor="middle" class="note" fill="#7f1d1d">Shop</text>
+
+<rect x="255" y="446" width="150" height="34" rx="6" fill="#fee2e2" stroke="#dc2626" stroke-width="1.2"/>
+<text x="330" y="468" text-anchor="middle" class="note" fill="#7f1d1d">CatalogEntry</text>
+
+<rect x="420" y="446" width="180" height="34" rx="6" fill="#fee2e2" stroke="#dc2626" stroke-width="1.2"/>
+<text x="510" y="468" text-anchor="middle" class="note" fill="#7f1d1d">ConfirmedMapping</text>
+
+<rect x="615" y="446" width="120" height="34" rx="6" fill="#fee2e2" stroke="#dc2626" stroke-width="1.2"/>
+<text x="675" y="468" text-anchor="middle" class="note" fill="#7f1d1d">Stock</text>
+
+<rect x="750" y="446" width="140" height="34" rx="6" fill="#fee2e2" stroke="#dc2626" stroke-width="1.2"/>
+<text x="820" y="468" text-anchor="middle" class="note" fill="#7f1d1d">Transaction</text>
+
+<rect x="100" y="492" width="140" height="34" rx="6" fill="#fee2e2" stroke="#dc2626" stroke-width="1.2"/>
+<text x="170" y="514" text-anchor="middle" class="note" fill="#7f1d1d">Valuation</text>
+
+<text x="100" y="548" class="note" fill="#991b1b">Item-name reconciliation across suppliers (e.g. "Coke" vs. "Coca-Cola") and inventory state both belong to the consuming ERP.</text>
+<text x="100" y="568" class="note" fill="#991b1b">A reviewer checking whether the architectural boundary of Section 3.1 (no owned inventory state, no product catalog) is</text>
+<text x="100" y="586" class="note" fill="#991b1b">genuinely respected can verify it against this data model: no Shop-owned catalog, Stock, Transaction, or Valuation entity exists here.</text>
+
+</svg>
