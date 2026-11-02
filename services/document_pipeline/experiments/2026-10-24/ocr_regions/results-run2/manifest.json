@@ -1,0 +1,955 @@
+{
+  "kind": "bounded_development_ocr_region_diagnostic",
+  "python": "C:\\Users\\Windows 11\\.codex\\visualizations\\2026\\10\\19\\01a1538b-89e3-71b2-b8ed-50b13effb160\\classifier-env\\Scripts\\python.exe",
+  "script_sha256": "82e1509ffaf209dc52d50cce6d97fc532e11b794d8b4513682ecae7e9540f780",
+  "tesseract_executable": "C:\\Users\\Windows 11\\scoop\\shims\\tesseract.EXE",
+  "tesseract_version": "tesseract v5.5.3.20260724\n leptonica-1.87.0\n  libgif 5.2.2 : libjpeg 8d (libjpeg-turbo 3.1.3) : libpng 1.6.58 : libtiff 4.7.2 : zlib 1.3.1 : libwebp 1.6.0 : libopenjp2 2.5.4\n Found AVX2\n Found AVX\n Found FMA\n Found SSE4.1\n Found libarchive 3.8.8 zlib/1.3.2 liblzma/5.8.3 bz2lib/1.0.8 liblz4/1.10.0 libzstd/1.5.7 expat/expat_2.8.2 cng/1.0 libb2/system\n Found libcurl/8.21.0 Schannel zlib/1.3.2 brotli/1.2.0 zstd/1.5.7 libidn2/2.3.8 libpsl/0.21.5 libssh2/1.11.1 WinLDAP\n",
+  "tessdata": "E:\\.shortcut-targets-by-id\\1yOBXNuSORBcOSWDhEg-YF1MEWIDvc8J2\\Capstone- Inventory Management System\\classifier\\engine\\.cache\\tessdata",
+  "eng_traineddata_sha256": "8280aed0782fe27257a68ea10fe7ef324ca0f8d85bd2fd145d1c2b560bcb66ba",
+  "observation_sha256": "3c8b92a02e32e4ffc593b7b54069bea923e0e1daaf0f84724062129a49aa8629",
+  "diagnostic_reference": "AI image-assisted observation; human_verified=false; not ground truth",
+  "manual_regions": {
+    "76cc99d39da4": {
+      "table": [
+        0.07,
+        0.389,
+        0.905,
+        0.566
+      ],
+      "rows": [
+        [
+          0.456,
+          0.497
+        ],
+        [
+          0.509,
+          0.551
+        ]
+      ],
+      "columns": [
+        [
+          0.095,
+          0.394
+        ],
+        [
+          0.414,
+          0.507
+        ],
+        [
+          0.531,
+          0.682
+        ],
+        [
+          0.703,
+          0.886
+        ]
+      ]
+    },
+    "f9918570b903": {
+      "table": [
+        0.104,
+        0.394,
+        0.944,
+        0.75
+      ],
+      "rows": [
+        [
+          0.462,
+          0.511
+        ],
+        [
+          0.518,
+          0.568
+        ],
+        [
+          0.576,
+          0.625
+        ],
+        [
+          0.634,
+          0.681
+        ],
+        [
+          0.69,
+          0.74
+        ]
+      ],
+      "columns": [
+        [
+          0.132,
+          0.222
+        ],
+        [
+          0.244,
+          0.747
+        ],
+        [
+          0.775,
+          0.92
+        ]
+      ]
+    }
+  },
+  "limits": [
+    "Two deliberately selected exposed development documents; no independent accuracy.",
+    "Manual image-specific crops are not deployed region detection.",
+    "Token presence cannot establish row or column assignment.",
+    "All twelve candidates, including failures, retained; no model promotion."
+  ],
+  "inputs": {
+    "76cc99d39da4": {
+      "path": "classifier\\demo\\images\\76cc99d39da4.jpg",
+      "sha256": "c008a22c1f76dc1b9d9e89cf948d589ec7bc9d64e8119a640c6a8c6af6fd626a",
+      "size": [
+        1244,
+        1800
+      ]
+    },
+    "f9918570b903": {
+      "path": "classifier\\demo\\images\\f9918570b903.jpg",
+      "sha256": "bc4e1f5f2758199a5b77f34cba6bedf0a71d78335a9eb2c0a8a6d0e8af7cc60c",
+      "size": [
+        1350,
+        1800
+      ]
+    }
+  },
+  "candidates": [
+    {
+      "id": "76cc99d39da4",
+      "variant": "table_gray_psm6",
+      "psm": 6,
+      "command": [
+        "C:\\Users\\Windows 11\\scoop\\shims\\tesseract.EXE",
+        "E:\\.shortcut-targets-by-id\\1yOBXNuSORBcOSWDhEg-YF1MEWIDvc8J2\\Capstone- Inventory Management System\\services\\document_pipeline\\experiments\\2026-10-24\\ocr_regions\\results-run2\\76cc99d39da4_table_gray_psm6.png",
+        "E:\\.shortcut-targets-by-id\\1yOBXNuSORBcOSWDhEg-YF1MEWIDvc8J2\\Capstone- Inventory Management System\\services\\document_pipeline\\experiments\\2026-10-24\\ocr_regions\\results-run2\\76cc99d39da4_table_gray_psm6",
+        "--tessdata-dir",
+        "E:\\.shortcut-targets-by-id\\1yOBXNuSORBcOSWDhEg-YF1MEWIDvc8J2\\Capstone- Inventory Management System\\classifier\\engine\\.cache\\tessdata",
+        "-l",
+        "eng",
+        "--psm",
+        "6",
+        "-c",
+        "tessedit_create_txt=1",
+        "-c",
+        "tessedit_create_tsv=1"
+      ],
+      "seconds": 0.8132,
+      "returncode": 0,
+      "stderr": "",
+      "image": "76cc99d39da4_table_gray_psm6.png",
+      "image_sha256": "653b25f5a6026507592a437772aab175b2a5b62e70e1c08d58a9e5dc65cdcdac",
+      "ocr_text": "EE\n",
+      "ocr_text_file": "76cc99d39da4_table_gray_psm6.txt",
+      "tsv_file": "76cc99d39da4_table_gray_psm6.tsv",
+      "numeric_tokens": [],
+      "ai_observation_token_diagnostic": [
+        {
+          "ai_observed_values": {
+            "quantity": "24",
+            "unit_price": "1850",
+            "line_total": "44400"
+          },
+          "token_present_somewhere": {
+            "quantity": false,
+            "unit_price": false,
+            "line_total": false
+          }
+        },
+        {
+          "ai_observed_values": {
+            "quantity": "20",
+            "unit_price": "65",
+            "line_total": "1300"
+          },
+          "token_present_somewhere": {
+            "quantity": false,
+            "unit_price": false,
+            "line_total": false
+          }
+        }
+      ]
+    },
+    {
+      "id": "76cc99d39da4",
+      "variant": "table_normalized_psm6",
+      "psm": 6,
+      "command": [
+        "C:\\Users\\Windows 11\\scoop\\shims\\tesseract.EXE",
+        "E:\\.shortcut-targets-by-id\\1yOBXNuSORBcOSWDhEg-YF1MEWIDvc8J2\\Capstone- Inventory Management System\\services\\document_pipeline\\experiments\\2026-10-24\\ocr_regions\\results-run2\\76cc99d39da4_table_normalized_psm6.png",
+        "E:\\.shortcut-targets-by-id\\1yOBXNuSORBcOSWDhEg-YF1MEWIDvc8J2\\Capstone- Inventory Management System\\services\\document_pipeline\\experiments\\2026-10-24\\ocr_regions\\results-run2\\76cc99d39da4_table_normalized_psm6",
+        "--tessdata-dir",
+        "E:\\.shortcut-targets-by-id\\1yOBXNuSORBcOSWDhEg-YF1MEWIDvc8J2\\Capstone- Inventory Management System\\classifier\\engine\\.cache\\tessdata",
+        "-l",
+        "eng",
+        "--psm",
+        "6",
+        "-c",
+        "tessedit_create_txt=1",
+        "-c",
+        "tessedit_create_tsv=1"
+      ],
+      "seconds": 1.6396,
+      "returncode": 0,
+      "stderr": "",
+      "image": "76cc99d39da4_table_normalized_psm6.png",
+      "image_sha256": "0ad868db6cb89dbf805a7cfb20424a36e85ec240b261e6ea77ecfd2984cdb3b0",
+      "ocr_text": "BRE i I\nItem Qty Rate (Tk) 1 Amount (Tk)\nEE a\n{ Miniket Rice 25kg 1 24 i Tk 1,850 i Tk 44,400 i\nOs A A ————— a 1\n| Onion 1kg i 20 | Tk 65 | Tk 1,300 |\na Set Se ad\n",
+      "ocr_text_file": "76cc99d39da4_table_normalized_psm6.txt",
+      "tsv_file": "76cc99d39da4_table_normalized_psm6.tsv",
+      "numeric_tokens": [
+        "1",
+        "1",
+        "24",
+        "1,850",
+        "44,400",
+        "1",
+        "20",
+        "65",
+        "1,300"
+      ],
+      "ai_observation_token_diagnostic": [
+        {
+          "ai_observed_values": {
+            "quantity": "24",
+            "unit_price": "1850",
+            "line_total": "44400"
+          },
+          "token_present_somewhere": {
+            "quantity": true,
+            "unit_price": true,
+            "line_total": true
+          }
+        },
+        {
+          "ai_observed_values": {
+            "quantity": "20",
+            "unit_price": "65",
+            "line_total": "1300"
+          },
+          "token_present_somewhere": {
+            "quantity": true,
+            "unit_price": true,
+            "line_total": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "76cc99d39da4",
+      "variant": "table_normalized_psm11",
+      "psm": 11,
+      "command": [
+        "C:\\Users\\Windows 11\\scoop\\shims\\tesseract.EXE",
+        "E:\\.shortcut-targets-by-id\\1yOBXNuSORBcOSWDhEg-YF1MEWIDvc8J2\\Capstone- Inventory Management System\\services\\document_pipeline\\experiments\\2026-10-24\\ocr_regions\\results-run2\\76cc99d39da4_table_normalized_psm11.png",
+        "E:\\.shortcut-targets-by-id\\1yOBXNuSORBcOSWDhEg-YF1MEWIDvc8J2\\Capstone- Inventory Management System\\services\\document_pipeline\\experiments\\2026-10-24\\ocr_regions\\results-run2\\76cc99d39da4_table_normalized_psm11",
+        "--tessdata-dir",
+        "E:\\.shortcut-targets-by-id\\1yOBXNuSORBcOSWDhEg-YF1MEWIDvc8J2\\Capstone- Inventory Management System\\classifier\\engine\\.cache\\tessdata",
+        "-l",
+        "eng",
+        "--psm",
+        "11",
+        "-c",
+        "tessedit_create_txt=1",
+        "-c",
+        "tessedit_create_tsv=1"
+      ],
+      "seconds": 1.3881,
+      "returncode": 0,
+      "stderr": "Estimating resolution as 733\r\nDetected 38 diacritics\r\n",
+      "image": "76cc99d39da4_table_normalized_psm11.png",
+      "image_sha256": "0ad868db6cb89dbf805a7cfb20424a36e85ec240b261e6ea77ecfd2984cdb3b0",
+      "ocr_text": "GS PRR + a\n\nI\n\n| Item\n\nI\n\n|\n\ni\n\nQty\n\nRate To | Amount |\n\ni Miniket Rice 25kg {\n\n24\n\npr me Au —\"———— i RSS\n\nbreil; fom——————————— BE ee. ee =}\n\ni Tk 1, 850 | Tk 44,400 i\n\n|\n\n| Onion 1kg\n\n20\n\ni\n\nl\n\nTk 65\n\n|\n\nTk 1,300 i\n",
+      "ocr_text_file": "76cc99d39da4_table_normalized_psm11.txt",
+      "tsv_file": "76cc99d39da4_table_normalized_psm11.tsv",
+      "numeric_tokens": [
+        "24",
+        "1",
+        "850",
+        "44,400",
+        "20",
+        "65",
+        "1,300"
+      ],
+      "ai_observation_token_diagnostic": [
+        {
+          "ai_observed_values": {
+            "quantity": "24",
+            "unit_price": "1850",
+            "line_total": "44400"
+          },
+          "token_present_somewhere": {
+            "quantity": true,
+            "unit_price": false,
+            "line_total": true
+          }
+        },
+        {
+          "ai_observed_values": {
+            "quantity": "20",
+            "unit_price": "65",
+            "line_total": "1300"
+          },
+          "token_present_somewhere": {
+            "quantity": true,
+            "unit_price": true,
+            "line_total": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "76cc99d39da4",
+      "variant": "table_binary190_psm6",
+      "psm": 6,
+      "command": [
+        "C:\\Users\\Windows 11\\scoop\\shims\\tesseract.EXE",
+        "E:\\.shortcut-targets-by-id\\1yOBXNuSORBcOSWDhEg-YF1MEWIDvc8J2\\Capstone- Inventory Management System\\services\\document_pipeline\\experiments\\2026-10-24\\ocr_regions\\results-run2\\76cc99d39da4_table_binary190_psm6.png",
+        "E:\\.shortcut-targets-by-id\\1yOBXNuSORBcOSWDhEg-YF1MEWIDvc8J2\\Capstone- Inventory Management System\\services\\document_pipeline\\experiments\\2026-10-24\\ocr_regions\\results-run2\\76cc99d39da4_table_binary190_psm6",
+        "--tessdata-dir",
+        "E:\\.shortcut-targets-by-id\\1yOBXNuSORBcOSWDhEg-YF1MEWIDvc8J2\\Capstone- Inventory Management System\\classifier\\engine\\.cache\\tessdata",
+        "-l",
+        "eng",
+        "--psm",
+        "6",
+        "-c",
+        "tessedit_create_txt=1",
+        "-c",
+        "tessedit_create_tsv=1"
+      ],
+      "seconds": 1.0727,
+      "returncode": 0,
+      "stderr": "",
+      "image": "76cc99d39da4_table_binary190_psm6.png",
+      "image_sha256": "3b5c6416f5a38580df37489beb34a8a482a4f7fa77e828d5b8bb6070d74d9487",
+      "ocr_text": "Item Qty 1 Rate (Tk) 1 Amount (Tk)\ni Miniket Rice 25kg 1 24 i ik 1,850 1 Tk 44,400 [\na a a —— 1\n| Onion 1kg { 20 | Tk65 | Tk 1,300 |\nfmm mm tm mma mm fm mmm pm mm mr mm om fr mr mr mr mom\n",
+      "ocr_text_file": "76cc99d39da4_table_binary190_psm6.txt",
+      "tsv_file": "76cc99d39da4_table_binary190_psm6.tsv",
+      "numeric_tokens": [
+        "1",
+        "1",
+        "1",
+        "24",
+        "1,850",
+        "1",
+        "44,400",
+        "1",
+        "20",
+        "1,300"
+      ],
+      "ai_observation_token_diagnostic": [
+        {
+          "ai_observed_values": {
+            "quantity": "24",
+            "unit_price": "1850",
+            "line_total": "44400"
+          },
+          "token_present_somewhere": {
+            "quantity": true,
+            "unit_price": true,
+            "line_total": true
+          }
+        },
+        {
+          "ai_observed_values": {
+            "quantity": "20",
+            "unit_price": "65",
+            "line_total": "1300"
+          },
+          "token_present_somewhere": {
+            "quantity": true,
+            "unit_price": false,
+            "line_total": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "76cc99d39da4",
+      "variant": "row_interiors_psm6",
+      "psm": 6,
+      "command": [
+        "C:\\Users\\Windows 11\\scoop\\shims\\tesseract.EXE",
+        "E:\\.shortcut-targets-by-id\\1yOBXNuSORBcOSWDhEg-YF1MEWIDvc8J2\\Capstone- Inventory Management System\\services\\document_pipeline\\experiments\\2026-10-24\\ocr_regions\\results-run2\\76cc99d39da4_row_interiors_psm6.png",
+        "E:\\.shortcut-targets-by-id\\1yOBXNuSORBcOSWDhEg-YF1MEWIDvc8J2\\Capstone- Inventory Management System\\services\\document_pipeline\\experiments\\2026-10-24\\ocr_regions\\results-run2\\76cc99d39da4_row_interiors_psm6",
+        "--tessdata-dir",
+        "E:\\.shortcut-targets-by-id\\1yOBXNuSORBcOSWDhEg-YF1MEWIDvc8J2\\Capstone- Inventory Management System\\classifier\\engine\\.cache\\tessdata",
+        "-l",
+        "eng",
+        "--psm",
+        "6",
+        "-c",
+        "tessedit_create_txt=1",
+        "-c",
+        "tessedit_create_tsv=1"
+      ],
+      "seconds": 0.5775,
+      "returncode": 0,
+      "stderr": "",
+      "image": "76cc99d39da4_row_interiors_psm6.png",
+      "image_sha256": "990692ab4efc22d6605c0a1cf81bfc4f508699e806b9f1b67035afdb3231341c",
+      "ocr_text": "| Miniket Rice 25kg{ 24 | Tk 1,850 | Tk 44,400\n| Onion 1kg i 20 | Tk 65 | Tk 1,300\n",
+      "ocr_text_file": "76cc99d39da4_row_interiors_psm6.txt",
+      "tsv_file": "76cc99d39da4_row_interiors_psm6.tsv",
+      "numeric_tokens": [
+        "24",
+        "1,850",
+        "44,400",
+        "20",
+        "65",
+        "1,300"
+      ],
+      "ai_observation_token_diagnostic": [
+        {
+          "ai_observed_values": {
+            "quantity": "24",
+            "unit_price": "1850",
+            "line_total": "44400"
+          },
+          "token_present_somewhere": {
+            "quantity": true,
+            "unit_price": true,
+            "line_total": true
+          }
+        },
+        {
+          "ai_observed_values": {
+            "quantity": "20",
+            "unit_price": "65",
+            "line_total": "1300"
+          },
+          "token_present_somewhere": {
+            "quantity": true,
+            "unit_price": true,
+            "line_total": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "76cc99d39da4",
+      "variant": "cell_interiors_psm6",
+      "psm": 6,
+      "command": [
+        "C:\\Users\\Windows 11\\scoop\\shims\\tesseract.EXE",
+        "E:\\.shortcut-targets-by-id\\1yOBXNuSORBcOSWDhEg-YF1MEWIDvc8J2\\Capstone- Inventory Management System\\services\\document_pipeline\\experiments\\2026-10-24\\ocr_regions\\results-run2\\76cc99d39da4_cell_interiors_psm6.png",
+        "E:\\.shortcut-targets-by-id\\1yOBXNuSORBcOSWDhEg-YF1MEWIDvc8J2\\Capstone- Inventory Management System\\services\\document_pipeline\\experiments\\2026-10-24\\ocr_regions\\results-run2\\76cc99d39da4_cell_interiors_psm6",
+        "--tessdata-dir",
+        "E:\\.shortcut-targets-by-id\\1yOBXNuSORBcOSWDhEg-YF1MEWIDvc8J2\\Capstone- Inventory Management System\\classifier\\engine\\.cache\\tessdata",
+        "-l",
+        "eng",
+        "--psm",
+        "6",
+        "-c",
+        "tessedit_create_txt=1",
+        "-c",
+        "tessedit_create_tsv=1"
+      ],
+      "seconds": 0.5633,
+      "returncode": 0,
+      "stderr": "",
+      "image": "76cc99d39da4_cell_interiors_psm6.png",
+      "image_sha256": "950ddefa3fbbc15377442021e57dca36ebd47501e9663ad36fd94dffd2f3a859",
+      "ocr_text": "Miniket Rice 25kg 24 Tk 1,850 Tk 44,400\nOnion 1kg 20 Tk 65 Tk 1,300\n",
+      "ocr_text_file": "76cc99d39da4_cell_interiors_psm6.txt",
+      "tsv_file": "76cc99d39da4_cell_interiors_psm6.tsv",
+      "numeric_tokens": [
+        "24",
+        "1,850",
+        "44,400",
+        "20",
+        "65",
+        "1,300"
+      ],
+      "ai_observation_token_diagnostic": [
+        {
+          "ai_observed_values": {
+            "quantity": "24",
+            "unit_price": "1850",
+            "line_total": "44400"
+          },
+          "token_present_somewhere": {
+            "quantity": true,
+            "unit_price": true,
+            "line_total": true
+          }
+        },
+        {
+          "ai_observed_values": {
+            "quantity": "20",
+            "unit_price": "65",
+            "line_total": "1300"
+          },
+          "token_present_somewhere": {
+            "quantity": true,
+            "unit_price": true,
+            "line_total": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "f9918570b903",
+      "variant": "table_gray_psm6",
+      "psm": 6,
+      "command": [
+        "C:\\Users\\Windows 11\\scoop\\shims\\tesseract.EXE",
+        "E:\\.shortcut-targets-by-id\\1yOBXNuSORBcOSWDhEg-YF1MEWIDvc8J2\\Capstone- Inventory Management System\\services\\document_pipeline\\experiments\\2026-10-24\\ocr_regions\\results-run2\\f9918570b903_table_gray_psm6.png",
+        "E:\\.shortcut-targets-by-id\\1yOBXNuSORBcOSWDhEg-YF1MEWIDvc8J2\\Capstone- Inventory Management System\\services\\document_pipeline\\experiments\\2026-10-24\\ocr_regions\\results-run2\\f9918570b903_table_gray_psm6",
+        "--tessdata-dir",
+        "E:\\.shortcut-targets-by-id\\1yOBXNuSORBcOSWDhEg-YF1MEWIDvc8J2\\Capstone- Inventory Management System\\classifier\\engine\\.cache\\tessdata",
+        "-l",
+        "eng",
+        "--psm",
+        "6",
+        "-c",
+        "tessedit_create_txt=1",
+        "-c",
+        "tessedit_create_tsv=1"
+      ],
+      "seconds": 0.599,
+      "returncode": 0,
+      "stderr": "",
+      "image": "f9918570b903_table_gray_psm6.png",
+      "image_sha256": "43e1d1cc46732812aa870bb259042c9ecc347864419afe8ee7a57b20e87d710d",
+      "ocr_text": "",
+      "ocr_text_file": "f9918570b903_table_gray_psm6.txt",
+      "tsv_file": "f9918570b903_table_gray_psm6.tsv",
+      "numeric_tokens": [],
+      "ai_observation_token_diagnostic": [
+        {
+          "ai_observed_values": {
+            "quantity": "6"
+          },
+          "token_present_somewhere": {
+            "quantity": false
+          }
+        },
+        {
+          "ai_observed_values": {
+            "quantity": "20"
+          },
+          "token_present_somewhere": {
+            "quantity": false
+          }
+        },
+        {
+          "ai_observed_values": {
+            "quantity": "12"
+          },
+          "token_present_somewhere": {
+            "quantity": false
+          }
+        },
+        {
+          "ai_observed_values": {
+            "quantity": "12"
+          },
+          "token_present_somewhere": {
+            "quantity": false
+          }
+        },
+        {
+          "ai_observed_values": {
+            "quantity": "2"
+          },
+          "token_present_somewhere": {
+            "quantity": false
+          }
+        }
+      ]
+    },
+    {
+      "id": "f9918570b903",
+      "variant": "table_normalized_psm6",
+      "psm": 6,
+      "command": [
+        "C:\\Users\\Windows 11\\scoop\\shims\\tesseract.EXE",
+        "E:\\.shortcut-targets-by-id\\1yOBXNuSORBcOSWDhEg-YF1MEWIDvc8J2\\Capstone- Inventory Management System\\services\\document_pipeline\\experiments\\2026-10-24\\ocr_regions\\results-run2\\f9918570b903_table_normalized_psm6.png",
+        "E:\\.shortcut-targets-by-id\\1yOBXNuSORBcOSWDhEg-YF1MEWIDvc8J2\\Capstone- Inventory Management System\\services\\document_pipeline\\experiments\\2026-10-24\\ocr_regions\\results-run2\\f9918570b903_table_normalized_psm6",
+        "--tessdata-dir",
+        "E:\\.shortcut-targets-by-id\\1yOBXNuSORBcOSWDhEg-YF1MEWIDvc8J2\\Capstone- Inventory Management System\\classifier\\engine\\.cache\\tessdata",
+        "-l",
+        "eng",
+        "--psm",
+        "6",
+        "-c",
+        "tessedit_create_txt=1",
+        "-c",
+        "tessedit_create_tsv=1"
+      ],
+      "seconds": 1.8783,
+      "returncode": 0,
+      "stderr": "",
+      "image": "f9918570b903_table_normalized_psm6.png",
+      "image_sha256": "85b82ab0d87fcb3dd4b6bfed8fe9992ed785f4534545bcec45451e6ea0f03786",
+      "ocr_text": "EC\nEN [rT\n3 [wromsrson |\n5 [oneson | uw\nEN Ci Sn RE\nERE EE\n",
+      "ocr_text_file": "f9918570b903_table_normalized_psm6.txt",
+      "tsv_file": "f9918570b903_table_normalized_psm6.tsv",
+      "numeric_tokens": [
+        "3",
+        "5"
+      ],
+      "ai_observation_token_diagnostic": [
+        {
+          "ai_observed_values": {
+            "quantity": "6"
+          },
+          "token_present_somewhere": {
+            "quantity": false
+          }
+        },
+        {
+          "ai_observed_values": {
+            "quantity": "20"
+          },
+          "token_present_somewhere": {
+            "quantity": false
+          }
+        },
+        {
+          "ai_observed_values": {
+            "quantity": "12"
+          },
+          "token_present_somewhere": {
+            "quantity": false
+          }
+        },
+        {
+          "ai_observed_values": {
+            "quantity": "12"
+          },
+          "token_present_somewhere": {
+            "quantity": false
+          }
+        },
+        {
+          "ai_observed_values": {
+            "quantity": "2"
+          },
+          "token_present_somewhere": {
+            "quantity": false
+          }
+        }
+      ]
+    },
+    {
+      "id": "f9918570b903",
+      "variant": "table_normalized_psm11",
+      "psm": 11,
+      "command": [
+        "C:\\Users\\Windows 11\\scoop\\shims\\tesseract.EXE",
+        "E:\\.shortcut-targets-by-id\\1yOBXNuSORBcOSWDhEg-YF1MEWIDvc8J2\\Capstone- Inventory Management System\\services\\document_pipeline\\experiments\\2026-10-24\\ocr_regions\\results-run2\\f9918570b903_table_normalized_psm11.png",
+        "E:\\.shortcut-targets-by-id\\1yOBXNuSORBcOSWDhEg-YF1MEWIDvc8J2\\Capstone- Inventory Management System\\services\\document_pipeline\\experiments\\2026-10-24\\ocr_regions\\results-run2\\f9918570b903_table_normalized_psm11",
+        "--tessdata-dir",
+        "E:\\.shortcut-targets-by-id\\1yOBXNuSORBcOSWDhEg-YF1MEWIDvc8J2\\Capstone- Inventory Management System\\classifier\\engine\\.cache\\tessdata",
+        "-l",
+        "eng",
+        "--psm",
+        "11",
+        "-c",
+        "tessedit_create_txt=1",
+        "-c",
+        "tessedit_create_tsv=1"
+      ],
+      "seconds": 1.7385,
+      "returncode": 0,
+      "stderr": "Estimating resolution as 938\r\n",
+      "image": "f9918570b903_table_normalized_psm11.png",
+      "image_sha256": "85b82ab0d87fcb3dd4b6bfed8fe9992ed785f4534545bcec45451e6ea0f03786",
+      "ocr_text": "Item Description\n\n9\n\n1 [wewson | 6\n\nBr\n\n5 oven | un\n\nJoss [wo\n\nig Salt 1kg\n\n52\n",
+      "ocr_text_file": "f9918570b903_table_normalized_psm11.txt",
+      "tsv_file": "f9918570b903_table_normalized_psm11.tsv",
+      "numeric_tokens": [
+        "9",
+        "1",
+        "6",
+        "5",
+        "52"
+      ],
+      "ai_observation_token_diagnostic": [
+        {
+          "ai_observed_values": {
+            "quantity": "6"
+          },
+          "token_present_somewhere": {
+            "quantity": true
+          }
+        },
+        {
+          "ai_observed_values": {
+            "quantity": "20"
+          },
+          "token_present_somewhere": {
+            "quantity": false
+          }
+        },
+        {
+          "ai_observed_values": {
+            "quantity": "12"
+          },
+          "token_present_somewhere": {
+            "quantity": false
+          }
+        },
+        {
+          "ai_observed_values": {
+            "quantity": "12"
+          },
+          "token_present_somewhere": {
+            "quantity": false
+          }
+        },
+        {
+          "ai_observed_values": {
+            "quantity": "2"
+          },
+          "token_present_somewhere": {
+            "quantity": false
+          }
+        }
+      ]
+    },
+    {
+      "id": "f9918570b903",
+      "variant": "table_binary190_psm6",
+      "psm": 6,
+      "command": [
+        "C:\\Users\\Windows 11\\scoop\\shims\\tesseract.EXE",
+        "E:\\.shortcut-targets-by-id\\1yOBXNuSORBcOSWDhEg-YF1MEWIDvc8J2\\Capstone- Inventory Management System\\services\\document_pipeline\\experiments\\2026-10-24\\ocr_regions\\results-run2\\f9918570b903_table_binary190_psm6.png",
+        "E:\\.shortcut-targets-by-id\\1yOBXNuSORBcOSWDhEg-YF1MEWIDvc8J2\\Capstone- Inventory Management System\\services\\document_pipeline\\experiments\\2026-10-24\\ocr_regions\\results-run2\\f9918570b903_table_binary190_psm6",
+        "--tessdata-dir",
+        "E:\\.shortcut-targets-by-id\\1yOBXNuSORBcOSWDhEg-YF1MEWIDvc8J2\\Capstone- Inventory Management System\\classifier\\engine\\.cache\\tessdata",
+        "-l",
+        "eng",
+        "--psm",
+        "6",
+        "-c",
+        "tessedit_create_txt=1",
+        "-c",
+        "tessedit_create_tsv=1"
+      ],
+      "seconds": 1.0572,
+      "returncode": 0,
+      "stderr": "",
+      "image": "f9918570b903_table_binary190_psm6.png",
+      "image_sha256": "f15b0dd7b77b1aab7cf3ecfbaf6716dc37690f38f881e0f23f19d43f2951e4be",
+      "ocr_text": "S| wemmn | ao\n1 [eso [0\nTo [wars | a0\n5 [ones | 0\ni owns | n\nfem | a\n",
+      "ocr_text_file": "f9918570b903_table_binary190_psm6.txt",
+      "tsv_file": "f9918570b903_table_binary190_psm6.tsv",
+      "numeric_tokens": [
+        "1",
+        "0",
+        "5",
+        "0"
+      ],
+      "ai_observation_token_diagnostic": [
+        {
+          "ai_observed_values": {
+            "quantity": "6"
+          },
+          "token_present_somewhere": {
+            "quantity": false
+          }
+        },
+        {
+          "ai_observed_values": {
+            "quantity": "20"
+          },
+          "token_present_somewhere": {
+            "quantity": false
+          }
+        },
+        {
+          "ai_observed_values": {
+            "quantity": "12"
+          },
+          "token_present_somewhere": {
+            "quantity": false
+          }
+        },
+        {
+          "ai_observed_values": {
+            "quantity": "12"
+          },
+          "token_present_somewhere": {
+            "quantity": false
+          }
+        },
+        {
+          "ai_observed_values": {
+            "quantity": "2"
+          },
+          "token_present_somewhere": {
+            "quantity": false
+          }
+        }
+      ]
+    },
+    {
+      "id": "f9918570b903",
+      "variant": "row_interiors_psm6",
+      "psm": 6,
+      "command": [
+        "C:\\Users\\Windows 11\\scoop\\shims\\tesseract.EXE",
+        "E:\\.shortcut-targets-by-id\\1yOBXNuSORBcOSWDhEg-YF1MEWIDvc8J2\\Capstone- Inventory Management System\\services\\document_pipeline\\experiments\\2026-10-24\\ocr_regions\\results-run2\\f9918570b903_row_interiors_psm6.png",
+        "E:\\.shortcut-targets-by-id\\1yOBXNuSORBcOSWDhEg-YF1MEWIDvc8J2\\Capstone- Inventory Management System\\services\\document_pipeline\\experiments\\2026-10-24\\ocr_regions\\results-run2\\f9918570b903_row_interiors_psm6",
+        "--tessdata-dir",
+        "E:\\.shortcut-targets-by-id\\1yOBXNuSORBcOSWDhEg-YF1MEWIDvc8J2\\Capstone- Inventory Management System\\classifier\\engine\\.cache\\tessdata",
+        "-l",
+        "eng",
+        "--psm",
+        "6",
+        "-c",
+        "tessedit_create_txt=1",
+        "-c",
+        "tessedit_create_tsv=1"
+      ],
+      "seconds": 1.0402,
+      "returncode": 0,
+      "stderr": "",
+      "image": "f9918570b903_row_interiors_psm6.png",
+      "image_sha256": "b27a135f93de1c94fb257bee9de6a44df324e171244810493008830bde8d9c1c",
+      "ocr_text": "1 | Mustard oil 1L |e)\n2 | Milk Powder 500g | 20\n3 | Detergentsoog [4 12\n4 |onionikg | 12\n5 | salt 1kg | % 2\n",
+      "ocr_text_file": "f9918570b903_row_interiors_psm6.txt",
+      "tsv_file": "f9918570b903_row_interiors_psm6.tsv",
+      "numeric_tokens": [
+        "1",
+        "2",
+        "20",
+        "3",
+        "4",
+        "12",
+        "4",
+        "12",
+        "5",
+        "2"
+      ],
+      "ai_observation_token_diagnostic": [
+        {
+          "ai_observed_values": {
+            "quantity": "6"
+          },
+          "token_present_somewhere": {
+            "quantity": false
+          }
+        },
+        {
+          "ai_observed_values": {
+            "quantity": "20"
+          },
+          "token_present_somewhere": {
+            "quantity": true
+          }
+        },
+        {
+          "ai_observed_values": {
+            "quantity": "12"
+          },
+          "token_present_somewhere": {
+            "quantity": true
+          }
+        },
+        {
+          "ai_observed_values": {
+            "quantity": "12"
+          },
+          "token_present_somewhere": {
+            "quantity": true
+          }
+        },
+        {
+          "ai_observed_values": {
+            "quantity": "2"
+          },
+          "token_present_somewhere": {
+            "quantity": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "f9918570b903",
+      "variant": "cell_interiors_psm6",
+      "psm": 6,
+      "command": [
+        "C:\\Users\\Windows 11\\scoop\\shims\\tesseract.EXE",
+        "E:\\.shortcut-targets-by-id\\1yOBXNuSORBcOSWDhEg-YF1MEWIDvc8J2\\Capstone- Inventory Management System\\services\\document_pipeline\\experiments\\2026-10-24\\ocr_regions\\results-run2\\f9918570b903_cell_interiors_psm6.png",
+        "E:\\.shortcut-targets-by-id\\1yOBXNuSORBcOSWDhEg-YF1MEWIDvc8J2\\Capstone- Inventory Management System\\services\\document_pipeline\\experiments\\2026-10-24\\ocr_regions\\results-run2\\f9918570b903_cell_interiors_psm6",
+        "--tessdata-dir",
+        "E:\\.shortcut-targets-by-id\\1yOBXNuSORBcOSWDhEg-YF1MEWIDvc8J2\\Capstone- Inventory Management System\\classifier\\engine\\.cache\\tessdata",
+        "-l",
+        "eng",
+        "--psm",
+        "6",
+        "-c",
+        "tessedit_create_txt=1",
+        "-c",
+        "tessedit_create_tsv=1"
+      ],
+      "seconds": 0.9736,
+      "returncode": 0,
+      "stderr": "",
+      "image": "f9918570b903_cell_interiors_psm6.png",
+      "image_sha256": "26970a9bc2511664a4659162d2568d56ef2cf8aca91a0b644572981001876d63",
+      "ocr_text": "1 Mustard Oil 1L | 6\n\n2 Milk Powder 500g 20\n3 Detergent 5008 . 12\n4 Onion 1kg = 12\n5 Salt 1kg a 2\n",
+      "ocr_text_file": "f9918570b903_cell_interiors_psm6.txt",
+      "tsv_file": "f9918570b903_cell_interiors_psm6.tsv",
+      "numeric_tokens": [
+        "1",
+        "6",
+        "2",
+        "20",
+        "3",
+        "5008",
+        "12",
+        "4",
+        "12",
+        "5",
+        "2"
+      ],
+      "ai_observation_token_diagnostic": [
+        {
+          "ai_observed_values": {
+            "quantity": "6"
+          },
+          "token_present_somewhere": {
+            "quantity": true
+          }
+        },
+        {
+          "ai_observed_values": {
+            "quantity": "20"
+          },
+          "token_present_somewhere": {
+            "quantity": true
+          }
+        },
+        {
+          "ai_observed_values": {
+            "quantity": "12"
+          },
+          "token_present_somewhere": {
+            "quantity": true
+          }
+        },
+        {
+          "ai_observed_values": {
+            "quantity": "12"
+          },
+          "token_present_somewhere": {
+            "quantity": true
+          }
+        },
+        {
+          "ai_observed_values": {
+            "quantity": "2"
+          },
+          "token_present_somewhere": {
+            "quantity": true
+          }
+        }
+      ]
+    }
+  ]
+}

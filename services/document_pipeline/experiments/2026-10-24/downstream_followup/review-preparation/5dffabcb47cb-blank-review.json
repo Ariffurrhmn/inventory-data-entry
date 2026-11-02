@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "image_sha256": "e51375a245dde8dacc6e43ae9f83726a17363e9cc5cb5210e1c7ed5ab345e2c0",
+  "candidate_sha256": "80269b94786168efa9578556b1c363d157b00509447b3569ab67ac5f682f6fc2",
+  "reviewer": "",
+  "reviewer_type": "ai",
+  "human_verified": false,
+  "independent_reference": false,
+  "reference_first_attestation": false,
+  "rows_complete": false,
+  "fields": {
+    "document_type": {
+      "status": "unreviewed",
+      "value": null,
+      "note": ""
+    },
+    "document_number": {
+      "status": "unreviewed",
+      "value": null,
+      "note": ""
+    },
+    "date": {
+      "status": "unreviewed",
+      "value": null,
+      "note": ""
+    },
+    "currency": {
+      "status": "unreviewed",
+      "value": null,
+      "note": ""
+    }
+  },
+  "totals": {
+    "subtotal": {
+      "status": "unreviewed",
+      "value": null,
+      "note": ""
+    },
+    "tax": {
+      "status": "unreviewed",
+      "value": null,
+      "note": ""
+    },
+    "discount": {
+      "status": "unreviewed",
+      "value": null,
+      "note": ""
+    },
+    "grand_total": {
+      "status": "unreviewed",
+      "value": null,
+      "note": ""
+    }
+  },
+  "rows": [],
+  "spurious_candidate_rows": [],
+  "note": ""
+}

@@ -1,0 +1,4079 @@
+{
+  "source": "E:\\.shortcut-targets-by-id\\1yOBXNuSORBcOSWDhEg-YF1MEWIDvc8J2\\Capstone- Inventory Management System\\services\\document_classifier\\data\\images\\76cc99d39da4.jpg",
+  "source_sha256": "c008a22c1f76dc1b9d9e89cf948d589ec7bc9d64e8119a640c6a8c6af6fd626a",
+  "human_verified": false,
+  "module_sha256": "36545e9e899932a2106f06251a322fe89ba511d844b5d5b65e4a209059fa26e3",
+  "candidates": [
+    {
+      "method": "axis_grid",
+      "layout": {
+        "version": "ruled-layout-v1",
+        "source_size": [
+          1244,
+          1800
+        ],
+        "working_size": [
+          968,
+          1400
+        ],
+        "scale": 0.7777777777777778,
+        "rotation_degrees": 0,
+        "rotation_scores": [],
+        "coordinate_system": "EXIF-oriented source scaled by scale, then rotated about image center; inverse affine provided",
+        "inverse_affine": [
+          [
+            1.2857142857142856,
+            -0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.2857142857142856,
+            0.0
+          ]
+        ],
+        "tables": [
+          {
+            "box": [
+              74,
+              540,
+              876,
+              795
+            ],
+            "horizontal_rules": [
+              558,
+              630,
+              704,
+              784
+            ],
+            "vertical_rules": [
+              84,
+              386,
+              502,
+              671,
+              865
+            ],
+            "rows": [
+              [
+                [
+                  95,
+                  568,
+                  375,
+                  620
+                ],
+                [
+                  394,
+                  568,
+                  494,
+                  620
+                ],
+                [
+                  510,
+                  568,
+                  663,
+                  620
+                ],
+                [
+                  679,
+                  568,
+                  857,
+                  620
+                ]
+              ],
+              [
+                [
+                  95,
+                  640,
+                  375,
+                  694
+                ],
+                [
+                  394,
+                  640,
+                  494,
+                  694
+                ],
+                [
+                  510,
+                  640,
+                  663,
+                  694
+                ],
+                [
+                  679,
+                  640,
+                  857,
+                  694
+                ]
+              ],
+              [
+                [
+                  95,
+                  714,
+                  375,
+                  774
+                ],
+                [
+                  394,
+                  714,
+                  494,
+                  774
+                ],
+                [
+                  510,
+                  714,
+                  663,
+                  774
+                ],
+                [
+                  679,
+                  714,
+                  857,
+                  774
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "mapping": [
+        {
+          "table": 0,
+          "row": 0,
+          "column": 0,
+          "working_box": [
+            95,
+            568,
+            375,
+            620
+          ],
+          "montage_box": [
+            35,
+            35,
+            315,
+            87
+          ]
+        },
+        {
+          "table": 0,
+          "row": 0,
+          "column": 1,
+          "working_box": [
+            394,
+            568,
+            494,
+            620
+          ],
+          "montage_box": [
+            350,
+            35,
+            450,
+            87
+          ]
+        },
+        {
+          "table": 0,
+          "row": 0,
+          "column": 2,
+          "working_box": [
+            510,
+            568,
+            663,
+            620
+          ],
+          "montage_box": [
+            485,
+            35,
+            638,
+            87
+          ]
+        },
+        {
+          "table": 0,
+          "row": 0,
+          "column": 3,
+          "working_box": [
+            679,
+            568,
+            857,
+            620
+          ],
+          "montage_box": [
+            673,
+            35,
+            851,
+            87
+          ]
+        },
+        {
+          "table": 0,
+          "row": 1,
+          "column": 0,
+          "working_box": [
+            95,
+            640,
+            375,
+            694
+          ],
+          "montage_box": [
+            35,
+            142,
+            315,
+            196
+          ]
+        },
+        {
+          "table": 0,
+          "row": 1,
+          "column": 1,
+          "working_box": [
+            394,
+            640,
+            494,
+            694
+          ],
+          "montage_box": [
+            350,
+            142,
+            450,
+            196
+          ]
+        },
+        {
+          "table": 0,
+          "row": 1,
+          "column": 2,
+          "working_box": [
+            510,
+            640,
+            663,
+            694
+          ],
+          "montage_box": [
+            485,
+            142,
+            638,
+            196
+          ]
+        },
+        {
+          "table": 0,
+          "row": 1,
+          "column": 3,
+          "working_box": [
+            679,
+            640,
+            857,
+            694
+          ],
+          "montage_box": [
+            673,
+            142,
+            851,
+            196
+          ]
+        },
+        {
+          "table": 0,
+          "row": 2,
+          "column": 0,
+          "working_box": [
+            95,
+            714,
+            375,
+            774
+          ],
+          "montage_box": [
+            35,
+            251,
+            315,
+            311
+          ]
+        },
+        {
+          "table": 0,
+          "row": 2,
+          "column": 1,
+          "working_box": [
+            394,
+            714,
+            494,
+            774
+          ],
+          "montage_box": [
+            350,
+            251,
+            450,
+            311
+          ]
+        },
+        {
+          "table": 0,
+          "row": 2,
+          "column": 2,
+          "working_box": [
+            510,
+            714,
+            663,
+            774
+          ],
+          "montage_box": [
+            485,
+            251,
+            638,
+            311
+          ]
+        },
+        {
+          "table": 0,
+          "row": 2,
+          "column": 3,
+          "working_box": [
+            679,
+            714,
+            857,
+            774
+          ],
+          "montage_box": [
+            673,
+            251,
+            851,
+            311
+          ]
+        }
+      ],
+      "ocr": {
+        "command": [
+          "C:\\Users\\Windows 11\\scoop\\shims\\tesseract.EXE",
+          "E:\\.shortcut-targets-by-id\\1yOBXNuSORBcOSWDhEg-YF1MEWIDvc8J2\\Capstone- Inventory Management System\\services\\document_pipeline\\experiments\\2026-10-24\\automatic_localization\\run5\\76cc99d39da4\\axis_grid.png",
+          "E:\\.shortcut-targets-by-id\\1yOBXNuSORBcOSWDhEg-YF1MEWIDvc8J2\\Capstone- Inventory Management System\\services\\document_pipeline\\experiments\\2026-10-24\\automatic_localization\\run5\\76cc99d39da4\\axis_grid",
+          "--tessdata-dir",
+          "E:\\.shortcut-targets-by-id\\1yOBXNuSORBcOSWDhEg-YF1MEWIDvc8J2\\Capstone- Inventory Management System\\classifier\\engine\\.cache\\tessdata",
+          "-l",
+          "eng",
+          "--psm",
+          "6",
+          "-c",
+          "tessedit_create_txt=1",
+          "-c",
+          "tessedit_create_tsv=1"
+        ],
+        "returncode": 0,
+        "seconds": 0.6613,
+        "stderr": "",
+        "ocr_text": "Item Qty Rate (Tk) Amount (Tk)\nMiniket Rice 25kg 24 Tk 1,850 Tk 44,400\nOnion 1kg 20 Tk 65 Tk 1,300\n",
+        "words": [
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "1",
+            "word_num": "1",
+            "left": "98",
+            "top": "85",
+            "width": "120",
+            "height": "47",
+            "conf": "96.040695",
+            "text": "Item"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "1",
+            "word_num": "2",
+            "left": "750",
+            "top": "96",
+            "width": "88",
+            "height": "55",
+            "conf": "92.034767",
+            "text": "Qty"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "1",
+            "word_num": "3",
+            "left": "998",
+            "top": "97",
+            "width": "118",
+            "height": "45",
+            "conf": "96.233925",
+            "text": "Rate"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "1",
+            "word_num": "4",
+            "left": "1153",
+            "top": "98",
+            "width": "101",
+            "height": "52",
+            "conf": "95.650558",
+            "text": "(Tk)"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "1",
+            "word_num": "5",
+            "left": "1380",
+            "top": "99",
+            "width": "177",
+            "height": "45",
+            "conf": "95.823639",
+            "text": "Amount"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "1",
+            "word_num": "6",
+            "left": "1593",
+            "top": "96",
+            "width": "103",
+            "height": "53",
+            "conf": "95.823639",
+            "text": "(Tk)"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "2",
+            "word_num": "1",
+            "left": "99",
+            "top": "307",
+            "width": "217",
+            "height": "48",
+            "conf": "89.333344",
+            "text": "Miniket"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "2",
+            "word_num": "2",
+            "left": "344",
+            "top": "309",
+            "width": "131",
+            "height": "48",
+            "conf": "93.252174",
+            "text": "Rice"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "2",
+            "word_num": "3",
+            "left": "507",
+            "top": "311",
+            "width": "116",
+            "height": "57",
+            "conf": "92.423416",
+            "text": "25kg"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "2",
+            "word_num": "4",
+            "left": "770",
+            "top": "314",
+            "width": "61",
+            "height": "46",
+            "conf": "95.181488",
+            "text": "24"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "2",
+            "word_num": "5",
+            "left": "1011",
+            "top": "315",
+            "width": "58",
+            "height": "46",
+            "conf": "69.023453",
+            "text": "Tk"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "2",
+            "word_num": "6",
+            "left": "1104",
+            "top": "316",
+            "width": "145",
+            "height": "52",
+            "conf": "95.587868",
+            "text": "1,850"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "2",
+            "word_num": "7",
+            "left": "1397",
+            "top": "318",
+            "width": "57",
+            "height": "46",
+            "conf": "96.055168",
+            "text": "Tk"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "2",
+            "word_num": "8",
+            "left": "1481",
+            "top": "316",
+            "width": "182",
+            "height": "53",
+            "conf": "96.370522",
+            "text": "44,400"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "3",
+            "word_num": "1",
+            "left": "96",
+            "top": "532",
+            "width": "159",
+            "height": "48",
+            "conf": "91.957542",
+            "text": "Onion"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "3",
+            "word_num": "2",
+            "left": "314",
+            "top": "532",
+            "width": "91",
+            "height": "58",
+            "conf": "87.656693",
+            "text": "1kg"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "3",
+            "word_num": "3",
+            "left": "772",
+            "top": "534",
+            "width": "58",
+            "height": "47",
+            "conf": "97.016991",
+            "text": "20"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "3",
+            "word_num": "4",
+            "left": "1008",
+            "top": "533",
+            "width": "57",
+            "height": "49",
+            "conf": "95.866173",
+            "text": "Tk"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "3",
+            "word_num": "5",
+            "left": "1100",
+            "top": "536",
+            "width": "59",
+            "height": "45",
+            "conf": "96.143364",
+            "text": "65"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "3",
+            "word_num": "6",
+            "left": "1397",
+            "top": "539",
+            "width": "57",
+            "height": "43",
+            "conf": "93.267471",
+            "text": "Tk"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "3",
+            "word_num": "7",
+            "left": "1518",
+            "top": "538",
+            "width": "145",
+            "height": "51",
+            "conf": "93.267471",
+            "text": "1,300"
+          }
+        ],
+        "image_sha256": "32473645f92d340b86f1fcfce2d41b957d3f2239d55ad1176a6a4346946fa829",
+        "text_sha256": "cb5bf821715bb1d12d4f7150be186a7e73b258dc54b7575e6d02f73d4d1dcbf8"
+      },
+      "mapping_scale_to_ocr": 2
+    },
+    {
+      "method": "deskew_grid",
+      "layout": {
+        "version": "ruled-layout-v1",
+        "source_size": [
+          1244,
+          1800
+        ],
+        "working_size": [
+          968,
+          1400
+        ],
+        "scale": 0.7777777777777778,
+        "rotation_degrees": 0.5,
+        "rotation_scores": [
+          [
+            -4.0,
+            0
+          ],
+          [
+            -3.5,
+            0
+          ],
+          [
+            -3.0,
+            0
+          ],
+          [
+            -2.5,
+            137
+          ],
+          [
+            -2.0,
+            161
+          ],
+          [
+            -1.5,
+            175
+          ],
+          [
+            -1.0,
+            0
+          ],
+          [
+            -0.5,
+            229
+          ],
+          [
+            0.0,
+            229
+          ],
+          [
+            0.5,
+            242
+          ],
+          [
+            1.0,
+            161
+          ],
+          [
+            1.5,
+            68
+          ],
+          [
+            2.0,
+            69
+          ],
+          [
+            2.5,
+            0
+          ],
+          [
+            3.0,
+            0
+          ],
+          [
+            3.5,
+            0
+          ],
+          [
+            4.0,
+            0
+          ]
+        ],
+        "coordinate_system": "EXIF-oriented source scaled by scale, then rotated about image center; inverse affine provided",
+        "inverse_affine": [
+          [
+            1.2856653296539344,
+            -0.0112198313550522,
+            7.877576681746493
+          ],
+          [
+            0.0112198313550522,
+            1.2856653296539344,
+            -5.396129133599434
+          ]
+        ],
+        "tables": [
+          {
+            "box": [
+              74,
+              511,
+              891,
+              799
+            ],
+            "horizontal_rules": [
+              557,
+              630,
+              704,
+              783
+            ],
+            "vertical_rules": [
+              83,
+              386,
+              501,
+              671,
+              864,
+              885
+            ],
+            "rows": [
+              [
+                [
+                  94,
+                  567,
+                  375,
+                  620
+                ],
+                [
+                  394,
+                  567,
+                  493,
+                  620
+                ],
+                [
+                  509,
+                  567,
+                  663,
+                  620
+                ],
+                [
+                  679,
+                  567,
+                  856,
+                  620
+                ],
+                [
+                  872,
+                  567,
+                  877,
+                  620
+                ]
+              ],
+              [
+                [
+                  94,
+                  640,
+                  375,
+                  694
+                ],
+                [
+                  394,
+                  640,
+                  493,
+                  694
+                ],
+                [
+                  509,
+                  640,
+                  663,
+                  694
+                ],
+                [
+                  679,
+                  640,
+                  856,
+                  694
+                ],
+                [
+                  872,
+                  640,
+                  877,
+                  694
+                ]
+              ],
+              [
+                [
+                  94,
+                  714,
+                  375,
+                  773
+                ],
+                [
+                  394,
+                  714,
+                  493,
+                  773
+                ],
+                [
+                  509,
+                  714,
+                  663,
+                  773
+                ],
+                [
+                  679,
+                  714,
+                  856,
+                  773
+                ],
+                [
+                  872,
+                  714,
+                  877,
+                  773
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "mapping": [
+        {
+          "table": 0,
+          "row": 0,
+          "column": 0,
+          "working_box": [
+            94,
+            567,
+            375,
+            620
+          ],
+          "montage_box": [
+            35,
+            35,
+            316,
+            88
+          ]
+        },
+        {
+          "table": 0,
+          "row": 0,
+          "column": 1,
+          "working_box": [
+            394,
+            567,
+            493,
+            620
+          ],
+          "montage_box": [
+            351,
+            35,
+            450,
+            88
+          ]
+        },
+        {
+          "table": 0,
+          "row": 0,
+          "column": 2,
+          "working_box": [
+            509,
+            567,
+            663,
+            620
+          ],
+          "montage_box": [
+            485,
+            35,
+            639,
+            88
+          ]
+        },
+        {
+          "table": 0,
+          "row": 0,
+          "column": 3,
+          "working_box": [
+            679,
+            567,
+            856,
+            620
+          ],
+          "montage_box": [
+            674,
+            35,
+            851,
+            88
+          ]
+        },
+        {
+          "table": 0,
+          "row": 0,
+          "column": 4,
+          "working_box": [
+            872,
+            567,
+            877,
+            620
+          ],
+          "montage_box": [
+            886,
+            35,
+            891,
+            88
+          ]
+        },
+        {
+          "table": 0,
+          "row": 1,
+          "column": 0,
+          "working_box": [
+            94,
+            640,
+            375,
+            694
+          ],
+          "montage_box": [
+            35,
+            143,
+            316,
+            197
+          ]
+        },
+        {
+          "table": 0,
+          "row": 1,
+          "column": 1,
+          "working_box": [
+            394,
+            640,
+            493,
+            694
+          ],
+          "montage_box": [
+            351,
+            143,
+            450,
+            197
+          ]
+        },
+        {
+          "table": 0,
+          "row": 1,
+          "column": 2,
+          "working_box": [
+            509,
+            640,
+            663,
+            694
+          ],
+          "montage_box": [
+            485,
+            143,
+            639,
+            197
+          ]
+        },
+        {
+          "table": 0,
+          "row": 1,
+          "column": 3,
+          "working_box": [
+            679,
+            640,
+            856,
+            694
+          ],
+          "montage_box": [
+            674,
+            143,
+            851,
+            197
+          ]
+        },
+        {
+          "table": 0,
+          "row": 1,
+          "column": 4,
+          "working_box": [
+            872,
+            640,
+            877,
+            694
+          ],
+          "montage_box": [
+            886,
+            143,
+            891,
+            197
+          ]
+        },
+        {
+          "table": 0,
+          "row": 2,
+          "column": 0,
+          "working_box": [
+            94,
+            714,
+            375,
+            773
+          ],
+          "montage_box": [
+            35,
+            252,
+            316,
+            311
+          ]
+        },
+        {
+          "table": 0,
+          "row": 2,
+          "column": 1,
+          "working_box": [
+            394,
+            714,
+            493,
+            773
+          ],
+          "montage_box": [
+            351,
+            252,
+            450,
+            311
+          ]
+        },
+        {
+          "table": 0,
+          "row": 2,
+          "column": 2,
+          "working_box": [
+            509,
+            714,
+            663,
+            773
+          ],
+          "montage_box": [
+            485,
+            252,
+            639,
+            311
+          ]
+        },
+        {
+          "table": 0,
+          "row": 2,
+          "column": 3,
+          "working_box": [
+            679,
+            714,
+            856,
+            773
+          ],
+          "montage_box": [
+            674,
+            252,
+            851,
+            311
+          ]
+        },
+        {
+          "table": 0,
+          "row": 2,
+          "column": 4,
+          "working_box": [
+            872,
+            714,
+            877,
+            773
+          ],
+          "montage_box": [
+            886,
+            252,
+            891,
+            311
+          ]
+        }
+      ],
+      "ocr": {
+        "command": [
+          "C:\\Users\\Windows 11\\scoop\\shims\\tesseract.EXE",
+          "E:\\.shortcut-targets-by-id\\1yOBXNuSORBcOSWDhEg-YF1MEWIDvc8J2\\Capstone- Inventory Management System\\services\\document_pipeline\\experiments\\2026-10-24\\automatic_localization\\run5\\76cc99d39da4\\deskew_grid.png",
+          "E:\\.shortcut-targets-by-id\\1yOBXNuSORBcOSWDhEg-YF1MEWIDvc8J2\\Capstone- Inventory Management System\\services\\document_pipeline\\experiments\\2026-10-24\\automatic_localization\\run5\\76cc99d39da4\\deskew_grid",
+          "--tessdata-dir",
+          "E:\\.shortcut-targets-by-id\\1yOBXNuSORBcOSWDhEg-YF1MEWIDvc8J2\\Capstone- Inventory Management System\\classifier\\engine\\.cache\\tessdata",
+          "-l",
+          "eng",
+          "--psm",
+          "6",
+          "-c",
+          "tessedit_create_txt=1",
+          "-c",
+          "tessedit_create_tsv=1"
+        ],
+        "returncode": 0,
+        "seconds": 0.79,
+        "stderr": "",
+        "ocr_text": "Item Qty Rate (Tk) Amount (Tk)\nMiniket Rice 25kg 24 Tk 1,850 Tk 44,400\nOnion 1kg 20 Tk 65 Tk 1,300\n",
+        "words": [
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "1",
+            "word_num": "1",
+            "left": "98",
+            "top": "94",
+            "width": "120",
+            "height": "46",
+            "conf": "94.815079",
+            "text": "Item"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "1",
+            "word_num": "2",
+            "left": "751",
+            "top": "99",
+            "width": "87",
+            "height": "54",
+            "conf": "94.031982",
+            "text": "Qty"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "1",
+            "word_num": "3",
+            "left": "998",
+            "top": "99",
+            "width": "118",
+            "height": "44",
+            "conf": "96.255234",
+            "text": "Rate"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "1",
+            "word_num": "4",
+            "left": "1153",
+            "top": "98",
+            "width": "102",
+            "height": "52",
+            "conf": "96.915001",
+            "text": "(Tk)"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "1",
+            "word_num": "5",
+            "left": "1380",
+            "top": "97",
+            "width": "177",
+            "height": "45",
+            "conf": "96.176788",
+            "text": "Amount"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "1",
+            "word_num": "6",
+            "left": "1593",
+            "top": "92",
+            "width": "103",
+            "height": "54",
+            "conf": "82.061005",
+            "text": "(Tk)"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "2",
+            "word_num": "1",
+            "left": "100",
+            "top": "315",
+            "width": "218",
+            "height": "48",
+            "conf": "86.112488",
+            "text": "Miniket"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "2",
+            "word_num": "2",
+            "left": "346",
+            "top": "315",
+            "width": "131",
+            "height": "48",
+            "conf": "93.219254",
+            "text": "Rice"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "2",
+            "word_num": "3",
+            "left": "508",
+            "top": "315",
+            "width": "117",
+            "height": "57",
+            "conf": "92.581268",
+            "text": "25kg"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "2",
+            "word_num": "4",
+            "left": "772",
+            "top": "317",
+            "width": "60",
+            "height": "46",
+            "conf": "94.625122",
+            "text": "24"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "2",
+            "word_num": "5",
+            "left": "1013",
+            "top": "316",
+            "width": "57",
+            "height": "46",
+            "conf": "80.487434",
+            "text": "Tk"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "2",
+            "word_num": "6",
+            "left": "1105",
+            "top": "315",
+            "width": "145",
+            "height": "53",
+            "conf": "96.340904",
+            "text": "1,850"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "2",
+            "word_num": "7",
+            "left": "1398",
+            "top": "317",
+            "width": "57",
+            "height": "45",
+            "conf": "96.640053",
+            "text": "Tk"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "2",
+            "word_num": "8",
+            "left": "1482",
+            "top": "312",
+            "width": "182",
+            "height": "54",
+            "conf": "95.893913",
+            "text": "44,400"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "3",
+            "word_num": "1",
+            "left": "99",
+            "top": "540",
+            "width": "159",
+            "height": "47",
+            "conf": "92.287132",
+            "text": "Onion"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "3",
+            "word_num": "2",
+            "left": "317",
+            "top": "539",
+            "width": "91",
+            "height": "57",
+            "conf": "88.761497",
+            "text": "1kg"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "3",
+            "word_num": "3",
+            "left": "775",
+            "top": "537",
+            "width": "58",
+            "height": "47",
+            "conf": "96.852371",
+            "text": "20"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "3",
+            "word_num": "4",
+            "left": "1011",
+            "top": "534",
+            "width": "57",
+            "height": "49",
+            "conf": "95.862007",
+            "text": "Tk"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "3",
+            "word_num": "5",
+            "left": "1103",
+            "top": "537",
+            "width": "59",
+            "height": "45",
+            "conf": "96.980415",
+            "text": "65"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "3",
+            "word_num": "6",
+            "left": "1400",
+            "top": "537",
+            "width": "56",
+            "height": "43",
+            "conf": "96.158150",
+            "text": "Tk"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "3",
+            "word_num": "7",
+            "left": "1521",
+            "top": "534",
+            "width": "145",
+            "height": "52",
+            "conf": "94.208801",
+            "text": "1,300"
+          }
+        ],
+        "image_sha256": "e606f8fa4b0bf9eea1ae04da5acbfa791fd94eae36976e84fabc2c508d26c04e",
+        "text_sha256": "cb5bf821715bb1d12d4f7150be186a7e73b258dc54b7575e6d02f73d4d1dcbf8"
+      },
+      "mapping_scale_to_ocr": 2
+    }
+  ],
+  "word_box_fallback": {
+    "command": [
+      "C:\\Users\\Windows 11\\scoop\\shims\\tesseract.EXE",
+      "E:\\.shortcut-targets-by-id\\1yOBXNuSORBcOSWDhEg-YF1MEWIDvc8J2\\Capstone- Inventory Management System\\services\\document_pipeline\\experiments\\2026-10-24\\automatic_localization\\run5\\76cc99d39da4\\word_boxes_psm11.png",
+      "E:\\.shortcut-targets-by-id\\1yOBXNuSORBcOSWDhEg-YF1MEWIDvc8J2\\Capstone- Inventory Management System\\services\\document_pipeline\\experiments\\2026-10-24\\automatic_localization\\run5\\76cc99d39da4\\word_boxes_psm11",
+      "--tessdata-dir",
+      "E:\\.shortcut-targets-by-id\\1yOBXNuSORBcOSWDhEg-YF1MEWIDvc8J2\\Capstone- Inventory Management System\\classifier\\engine\\.cache\\tessdata",
+      "-l",
+      "eng",
+      "--psm",
+      "11",
+      "-c",
+      "tessedit_create_txt=1",
+      "-c",
+      "tessedit_create_tsv=1"
+    ],
+    "returncode": 0,
+    "seconds": 1.8216,
+    "stderr": "Estimating resolution as 380\r\nDetected 40 diacritics\r\n",
+    "ocr_text": "LJ\n\nFrom: Al- ~Madina Traders, Badda, Dhaka.\n\nTo:\n\nDhaka Trade House.\n\nOrder No: ORD 9953\n\nOrder Date: 04/07/2026.\n\nRequired By: 09/07/2026\n\nPlease supply the following goods:\n\nmmm \u2014\u2014\u2014\u2014 a\n\n1\n\n1 Item\n\nQty\n\n| Go. | Amount a)\n\ner ret SU\n\nbd te rm me re em oe\n\n24\n\nTk 44,400 1\n\nt\n\n{ Miniket Rice 25kg |\n\ni Tk 1, 850 |\n\nSe min on]\n\ni Onion 1kg\n\n20\n\nTk 65\n\nTk 1,300 |\n\nLo. eo\n\nTotal: Tk 45,700\n\nAuthorized by\n\nFotutd\u2014\n\nfor Al-Madina Traders.\n\nLEN\n\ni |\n\nLN\n",
+    "words": [
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "1",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "1147",
+        "top": "46",
+        "width": "46",
+        "height": "20",
+        "conf": "47.319878",
+        "text": "LJ"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "2",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "108",
+        "top": "195",
+        "width": "105",
+        "height": "38",
+        "conf": "92.439072",
+        "text": "From:"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "2",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "2",
+        "left": "247",
+        "top": "207",
+        "width": "65",
+        "height": "31",
+        "conf": "48.671257",
+        "text": "Al-"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "2",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "3",
+        "left": "294",
+        "top": "211",
+        "width": "149",
+        "height": "34",
+        "conf": "8.306053",
+        "text": "~Madina"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "2",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "4",
+        "left": "469",
+        "top": "218",
+        "width": "159",
+        "height": "41",
+        "conf": "96.163841",
+        "text": "Traders,"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "2",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "5",
+        "left": "657",
+        "top": "227",
+        "width": "118",
+        "height": "36",
+        "conf": "91.403938",
+        "text": "Badda,"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "2",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "6",
+        "left": "804",
+        "top": "232",
+        "width": "120",
+        "height": "29",
+        "conf": "96.024673",
+        "text": "Dhaka."
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "3",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "107",
+        "top": "260",
+        "width": "59",
+        "height": "34",
+        "conf": "95.201881",
+        "text": "To:"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "4",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "247",
+        "top": "270",
+        "width": "108",
+        "height": "34",
+        "conf": "96.644783",
+        "text": "Dhaka"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "4",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "2",
+        "left": "381",
+        "top": "278",
+        "width": "104",
+        "height": "33",
+        "conf": "96.192635",
+        "text": "Trade"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "4",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "3",
+        "left": "508",
+        "top": "284",
+        "width": "120",
+        "height": "33",
+        "conf": "93.565643",
+        "text": "House."
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "5",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "105",
+        "top": "366",
+        "width": "109",
+        "height": "35",
+        "conf": "54.129833",
+        "text": "Order"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "5",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "2",
+        "left": "241",
+        "top": "374",
+        "width": "58",
+        "height": "31",
+        "conf": "95.859322",
+        "text": "No:"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "5",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "3",
+        "left": "331",
+        "top": "379",
+        "width": "65",
+        "height": "31",
+        "conf": "96.160187",
+        "text": "ORD"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "5",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "4",
+        "left": "423",
+        "top": "383",
+        "width": "82",
+        "height": "31",
+        "conf": "96.887306",
+        "text": "9953"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "6",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "102",
+        "top": "430",
+        "width": "111",
+        "height": "36",
+        "conf": "96.631981",
+        "text": "Order"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "6",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "2",
+        "left": "238",
+        "top": "438",
+        "width": "103",
+        "height": "33",
+        "conf": "95.052032",
+        "text": "Date:"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "6",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "3",
+        "left": "371",
+        "top": "443",
+        "width": "227",
+        "height": "37",
+        "conf": "95.952011",
+        "text": "04/07/2026."
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "7",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "104",
+        "top": "496",
+        "width": "175",
+        "height": "41",
+        "conf": "96.682838",
+        "text": "Required"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "7",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "2",
+        "left": "304",
+        "top": "505",
+        "width": "61",
+        "height": "39",
+        "conf": "96.355972",
+        "text": "By:"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "7",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "3",
+        "left": "396",
+        "top": "509",
+        "width": "214",
+        "height": "36",
+        "conf": "96.505623",
+        "text": "09/07/2026"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "8",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "103",
+        "top": "611",
+        "width": "133",
+        "height": "36",
+        "conf": "96.648590",
+        "text": "Please"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "8",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "2",
+        "left": "261",
+        "top": "619",
+        "width": "132",
+        "height": "39",
+        "conf": "96.177155",
+        "text": "supply"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "8",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "3",
+        "left": "420",
+        "top": "622",
+        "width": "60",
+        "height": "30",
+        "conf": "96.782692",
+        "text": "the"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "8",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "4",
+        "left": "505",
+        "top": "623",
+        "width": "185",
+        "height": "40",
+        "conf": "95.361832",
+        "text": "following"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "8",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "5",
+        "left": "714",
+        "top": "627",
+        "width": "115",
+        "height": "36",
+        "conf": "95.361832",
+        "text": "goods:"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "9",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "99",
+        "top": "698",
+        "width": "77",
+        "height": "20",
+        "conf": "26.141197",
+        "text": "mmm"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "9",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "2",
+        "left": "202",
+        "top": "708",
+        "width": "93",
+        "height": "6",
+        "conf": "10.779663",
+        "text": "\u2014\u2014\u2014\u2014"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "9",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "3",
+        "left": "301",
+        "top": "710",
+        "width": "185",
+        "height": "8",
+        "conf": "21.323456",
+        "text": "a"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "10",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "105",
+        "top": "724",
+        "width": "7",
+        "height": "21",
+        "conf": "54.141521",
+        "text": "1"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "11",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "106",
+        "top": "746",
+        "width": "5",
+        "height": "23",
+        "conf": "79.144455",
+        "text": "1"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "11",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "2",
+        "left": "140",
+        "top": "740",
+        "width": "77",
+        "height": "30",
+        "conf": "95.566452",
+        "text": "Item"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "12",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "538",
+        "top": "747",
+        "width": "57",
+        "height": "35",
+        "conf": "86.029160",
+        "text": "Qty"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "13",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "640",
+        "top": "734",
+        "width": "8",
+        "height": "66",
+        "conf": "44.091457",
+        "text": "|"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "13",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "2",
+        "left": "773",
+        "top": "710",
+        "width": "95",
+        "height": "72",
+        "conf": "33.395340",
+        "text": "Go."
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "13",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "3",
+        "left": "858",
+        "top": "736",
+        "width": "6",
+        "height": "42",
+        "conf": "90.230011",
+        "text": "|"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "13",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "4",
+        "left": "894",
+        "top": "749",
+        "width": "114",
+        "height": "29",
+        "conf": "92.103775",
+        "text": "Amount"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "13",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "5",
+        "left": "1031",
+        "top": "709",
+        "width": "88",
+        "height": "89",
+        "conf": "58.298573",
+        "text": "a)"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "14",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "98",
+        "top": "793",
+        "width": "60",
+        "height": "50",
+        "conf": "27.532341",
+        "text": "er"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "14",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "2",
+        "left": "209",
+        "top": "799",
+        "width": "297",
+        "height": "21",
+        "conf": "18.115860",
+        "text": "ret"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "14",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "3",
+        "left": "489",
+        "top": "799",
+        "width": "145",
+        "height": "21",
+        "conf": "2.766098",
+        "text": "SU"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "15",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "636",
+        "top": "779",
+        "width": "229",
+        "height": "70",
+        "conf": "0.000000",
+        "text": "bd"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "15",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "2",
+        "left": "872",
+        "top": "811",
+        "width": "53",
+        "height": "5",
+        "conf": "25.520638",
+        "text": "te"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "15",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "3",
+        "left": "935",
+        "top": "795",
+        "width": "23",
+        "height": "30",
+        "conf": "49.981277",
+        "text": "rm"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "15",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "4",
+        "left": "965",
+        "top": "795",
+        "width": "28",
+        "height": "30",
+        "conf": "32.240845",
+        "text": "me"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "15",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "5",
+        "left": "1003",
+        "top": "795",
+        "width": "20",
+        "height": "30",
+        "conf": "31.919601",
+        "text": "re"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "15",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "6",
+        "left": "1055",
+        "top": "810",
+        "width": "43",
+        "height": "4",
+        "conf": "40.030167",
+        "text": "em"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "15",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "7",
+        "left": "1105",
+        "top": "795",
+        "width": "15",
+        "height": "30",
+        "conf": "40.639149",
+        "text": "oe"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "16",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "552",
+        "top": "842",
+        "width": "39",
+        "height": "30",
+        "conf": "88.918144",
+        "text": "24"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "17",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "905",
+        "top": "845",
+        "width": "37",
+        "height": "29",
+        "conf": "94.766846",
+        "text": "Tk"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "17",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "2",
+        "left": "959",
+        "top": "844",
+        "width": "117",
+        "height": "34",
+        "conf": "94.766846",
+        "text": "44,400"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "17",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "3",
+        "left": "1105",
+        "top": "851",
+        "width": "10",
+        "height": "21",
+        "conf": "79.045273",
+        "text": "1"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "18",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "1109",
+        "top": "829",
+        "width": "7",
+        "height": "19",
+        "conf": "67.712685",
+        "text": "t"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "19",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "100",
+        "top": "821",
+        "width": "13",
+        "height": "69",
+        "conf": "76.612419",
+        "text": "{"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "19",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "2",
+        "left": "141",
+        "top": "838",
+        "width": "139",
+        "height": "31",
+        "conf": "76.134247",
+        "text": "Miniket"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "19",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "3",
+        "left": "299",
+        "top": "839",
+        "width": "84",
+        "height": "31",
+        "conf": "96.754890",
+        "text": "Rice"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "19",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "4",
+        "left": "403",
+        "top": "840",
+        "width": "69",
+        "height": "37",
+        "conf": "87.488129",
+        "text": "25kg"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "19",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "5",
+        "left": "490",
+        "top": "827",
+        "width": "12",
+        "height": "65",
+        "conf": "82.961487",
+        "text": "|"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "20",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "638",
+        "top": "828",
+        "width": "12",
+        "height": "65",
+        "conf": "87.302444",
+        "text": "i"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "20",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "2",
+        "left": "682",
+        "top": "843",
+        "width": "37",
+        "height": "29",
+        "conf": "58.451286",
+        "text": "Tk"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "20",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "3",
+        "left": "741",
+        "top": "843",
+        "width": "30",
+        "height": "34",
+        "conf": "86.364845",
+        "text": "1,"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "20",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "4",
+        "left": "774",
+        "top": "843",
+        "width": "56",
+        "height": "30",
+        "conf": "95.864326",
+        "text": "850"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "20",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "5",
+        "left": "856",
+        "top": "830",
+        "width": "10",
+        "height": "63",
+        "conf": "74.433022",
+        "text": "|"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "21",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "490",
+        "top": "873",
+        "width": "163",
+        "height": "43",
+        "conf": "13.311600",
+        "text": "Se"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "21",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "2",
+        "left": "655",
+        "top": "904",
+        "width": "197",
+        "height": "5",
+        "conf": "29.541504",
+        "text": "min"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "21",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "3",
+        "left": "860",
+        "top": "874",
+        "width": "262",
+        "height": "71",
+        "conf": "30.983231",
+        "text": "on]"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "22",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "99",
+        "top": "893",
+        "width": "18",
+        "height": "100",
+        "conf": "75.987488",
+        "text": "i"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "22",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "2",
+        "left": "139",
+        "top": "937",
+        "width": "102",
+        "height": "31",
+        "conf": "88.195656",
+        "text": "Onion"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "22",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "3",
+        "left": "279",
+        "top": "937",
+        "width": "58",
+        "height": "38",
+        "conf": "88.195656",
+        "text": "1kg"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "23",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "553",
+        "top": "939",
+        "width": "37",
+        "height": "30",
+        "conf": "96.722588",
+        "text": "20"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "24",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "680",
+        "top": "938",
+        "width": "36",
+        "height": "31",
+        "conf": "96.724442",
+        "text": "Tk"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "24",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "2",
+        "left": "739",
+        "top": "940",
+        "width": "38",
+        "height": "29",
+        "conf": "96.562065",
+        "text": "65"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "25",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "905",
+        "top": "942",
+        "width": "37",
+        "height": "27",
+        "conf": "94.225166",
+        "text": "Tk"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "25",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "2",
+        "left": "983",
+        "top": "941",
+        "width": "93",
+        "height": "28",
+        "conf": "94.225166",
+        "text": "1,300"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "25",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "3",
+        "left": "1110",
+        "top": "924",
+        "width": "6",
+        "height": "45",
+        "conf": "95.109436",
+        "text": "|"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "26",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "98",
+        "top": "970",
+        "width": "196",
+        "height": "49",
+        "conf": "34.780190",
+        "text": "Lo."
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "26",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "2",
+        "left": "331",
+        "top": "997",
+        "width": "360",
+        "height": "20",
+        "conf": "20.989227",
+        "text": "eo"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "27",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "759",
+        "top": "1086",
+        "width": "96",
+        "height": "30",
+        "conf": "95.105743",
+        "text": "Total:"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "27",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "2",
+        "left": "900",
+        "top": "1086",
+        "width": "39",
+        "height": "30",
+        "conf": "95.572289",
+        "text": "Tk"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "27",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "3",
+        "left": "961",
+        "top": "1085",
+        "width": "123",
+        "height": "32",
+        "conf": "96.710701",
+        "text": "45,700"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "28",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "92",
+        "top": "1300",
+        "width": "214",
+        "height": "36",
+        "conf": "96.114799",
+        "text": "Authorized"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "28",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "2",
+        "left": "335",
+        "top": "1299",
+        "width": "40",
+        "height": "38",
+        "conf": "96.762100",
+        "text": "by"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "29",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "131",
+        "top": "1351",
+        "width": "350",
+        "height": "111",
+        "conf": "0.000000",
+        "text": "Fotutd\u2014"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "30",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "96",
+        "top": "1485",
+        "width": "63",
+        "height": "30",
+        "conf": "93.298141",
+        "text": "for"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "30",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "2",
+        "left": "182",
+        "top": "1480",
+        "width": "190",
+        "height": "33",
+        "conf": "90.963646",
+        "text": "Al-Madina"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "30",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "3",
+        "left": "399",
+        "top": "1477",
+        "width": "159",
+        "height": "32",
+        "conf": "96.006401",
+        "text": "Traders."
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "31",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "1170",
+        "top": "1651",
+        "width": "71",
+        "height": "27",
+        "conf": "45.217289",
+        "text": "LEN"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "32",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "1215",
+        "top": "1684",
+        "width": "4",
+        "height": "11",
+        "conf": "24.633636",
+        "text": "i"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "32",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "2",
+        "left": "1239",
+        "top": "1686",
+        "width": "3",
+        "height": "15",
+        "conf": "41.881027",
+        "text": "|"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "33",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "1215",
+        "top": "1717",
+        "width": "27",
+        "height": "15",
+        "conf": "7.929955",
+        "text": "LN"
+      }
+    ],
+    "image_sha256": "20e9ef085ff38d96c8ddf0a5afb69ce4e055b445b9b3db9bfdad7044276d23bb",
+    "text_sha256": "11eea778e54be981fdebb3e5c05ac86af16ad35722fbdbea248d3963d88fae9d",
+    "line_groups": {
+      "1:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "1",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "1147",
+          "top": "46",
+          "width": "46",
+          "height": "20",
+          "conf": "47.319878",
+          "text": "LJ"
+        }
+      ],
+      "2:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "2",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "108",
+          "top": "195",
+          "width": "105",
+          "height": "38",
+          "conf": "92.439072",
+          "text": "From:"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "2",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "2",
+          "left": "247",
+          "top": "207",
+          "width": "65",
+          "height": "31",
+          "conf": "48.671257",
+          "text": "Al-"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "2",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "3",
+          "left": "294",
+          "top": "211",
+          "width": "149",
+          "height": "34",
+          "conf": "8.306053",
+          "text": "~Madina"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "2",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "4",
+          "left": "469",
+          "top": "218",
+          "width": "159",
+          "height": "41",
+          "conf": "96.163841",
+          "text": "Traders,"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "2",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "5",
+          "left": "657",
+          "top": "227",
+          "width": "118",
+          "height": "36",
+          "conf": "91.403938",
+          "text": "Badda,"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "2",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "6",
+          "left": "804",
+          "top": "232",
+          "width": "120",
+          "height": "29",
+          "conf": "96.024673",
+          "text": "Dhaka."
+        }
+      ],
+      "3:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "3",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "107",
+          "top": "260",
+          "width": "59",
+          "height": "34",
+          "conf": "95.201881",
+          "text": "To:"
+        }
+      ],
+      "4:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "4",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "247",
+          "top": "270",
+          "width": "108",
+          "height": "34",
+          "conf": "96.644783",
+          "text": "Dhaka"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "4",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "2",
+          "left": "381",
+          "top": "278",
+          "width": "104",
+          "height": "33",
+          "conf": "96.192635",
+          "text": "Trade"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "4",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "3",
+          "left": "508",
+          "top": "284",
+          "width": "120",
+          "height": "33",
+          "conf": "93.565643",
+          "text": "House."
+        }
+      ],
+      "5:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "5",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "105",
+          "top": "366",
+          "width": "109",
+          "height": "35",
+          "conf": "54.129833",
+          "text": "Order"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "5",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "2",
+          "left": "241",
+          "top": "374",
+          "width": "58",
+          "height": "31",
+          "conf": "95.859322",
+          "text": "No:"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "5",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "3",
+          "left": "331",
+          "top": "379",
+          "width": "65",
+          "height": "31",
+          "conf": "96.160187",
+          "text": "ORD"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "5",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "4",
+          "left": "423",
+          "top": "383",
+          "width": "82",
+          "height": "31",
+          "conf": "96.887306",
+          "text": "9953"
+        }
+      ],
+      "6:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "6",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "102",
+          "top": "430",
+          "width": "111",
+          "height": "36",
+          "conf": "96.631981",
+          "text": "Order"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "6",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "2",
+          "left": "238",
+          "top": "438",
+          "width": "103",
+          "height": "33",
+          "conf": "95.052032",
+          "text": "Date:"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "6",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "3",
+          "left": "371",
+          "top": "443",
+          "width": "227",
+          "height": "37",
+          "conf": "95.952011",
+          "text": "04/07/2026."
+        }
+      ],
+      "7:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "7",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "104",
+          "top": "496",
+          "width": "175",
+          "height": "41",
+          "conf": "96.682838",
+          "text": "Required"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "7",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "2",
+          "left": "304",
+          "top": "505",
+          "width": "61",
+          "height": "39",
+          "conf": "96.355972",
+          "text": "By:"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "7",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "3",
+          "left": "396",
+          "top": "509",
+          "width": "214",
+          "height": "36",
+          "conf": "96.505623",
+          "text": "09/07/2026"
+        }
+      ],
+      "8:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "8",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "103",
+          "top": "611",
+          "width": "133",
+          "height": "36",
+          "conf": "96.648590",
+          "text": "Please"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "8",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "2",
+          "left": "261",
+          "top": "619",
+          "width": "132",
+          "height": "39",
+          "conf": "96.177155",
+          "text": "supply"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "8",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "3",
+          "left": "420",
+          "top": "622",
+          "width": "60",
+          "height": "30",
+          "conf": "96.782692",
+          "text": "the"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "8",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "4",
+          "left": "505",
+          "top": "623",
+          "width": "185",
+          "height": "40",
+          "conf": "95.361832",
+          "text": "following"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "8",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "5",
+          "left": "714",
+          "top": "627",
+          "width": "115",
+          "height": "36",
+          "conf": "95.361832",
+          "text": "goods:"
+        }
+      ],
+      "9:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "9",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "99",
+          "top": "698",
+          "width": "77",
+          "height": "20",
+          "conf": "26.141197",
+          "text": "mmm"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "9",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "2",
+          "left": "202",
+          "top": "708",
+          "width": "93",
+          "height": "6",
+          "conf": "10.779663",
+          "text": "\u2014\u2014\u2014\u2014"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "9",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "3",
+          "left": "301",
+          "top": "710",
+          "width": "185",
+          "height": "8",
+          "conf": "21.323456",
+          "text": "a"
+        }
+      ],
+      "10:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "10",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "105",
+          "top": "724",
+          "width": "7",
+          "height": "21",
+          "conf": "54.141521",
+          "text": "1"
+        }
+      ],
+      "11:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "11",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "106",
+          "top": "746",
+          "width": "5",
+          "height": "23",
+          "conf": "79.144455",
+          "text": "1"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "11",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "2",
+          "left": "140",
+          "top": "740",
+          "width": "77",
+          "height": "30",
+          "conf": "95.566452",
+          "text": "Item"
+        }
+      ],
+      "12:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "12",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "538",
+          "top": "747",
+          "width": "57",
+          "height": "35",
+          "conf": "86.029160",
+          "text": "Qty"
+        }
+      ],
+      "13:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "13",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "640",
+          "top": "734",
+          "width": "8",
+          "height": "66",
+          "conf": "44.091457",
+          "text": "|"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "13",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "2",
+          "left": "773",
+          "top": "710",
+          "width": "95",
+          "height": "72",
+          "conf": "33.395340",
+          "text": "Go."
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "13",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "3",
+          "left": "858",
+          "top": "736",
+          "width": "6",
+          "height": "42",
+          "conf": "90.230011",
+          "text": "|"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "13",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "4",
+          "left": "894",
+          "top": "749",
+          "width": "114",
+          "height": "29",
+          "conf": "92.103775",
+          "text": "Amount"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "13",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "5",
+          "left": "1031",
+          "top": "709",
+          "width": "88",
+          "height": "89",
+          "conf": "58.298573",
+          "text": "a)"
+        }
+      ],
+      "14:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "14",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "98",
+          "top": "793",
+          "width": "60",
+          "height": "50",
+          "conf": "27.532341",
+          "text": "er"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "14",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "2",
+          "left": "209",
+          "top": "799",
+          "width": "297",
+          "height": "21",
+          "conf": "18.115860",
+          "text": "ret"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "14",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "3",
+          "left": "489",
+          "top": "799",
+          "width": "145",
+          "height": "21",
+          "conf": "2.766098",
+          "text": "SU"
+        }
+      ],
+      "15:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "15",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "636",
+          "top": "779",
+          "width": "229",
+          "height": "70",
+          "conf": "0.000000",
+          "text": "bd"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "15",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "2",
+          "left": "872",
+          "top": "811",
+          "width": "53",
+          "height": "5",
+          "conf": "25.520638",
+          "text": "te"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "15",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "3",
+          "left": "935",
+          "top": "795",
+          "width": "23",
+          "height": "30",
+          "conf": "49.981277",
+          "text": "rm"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "15",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "4",
+          "left": "965",
+          "top": "795",
+          "width": "28",
+          "height": "30",
+          "conf": "32.240845",
+          "text": "me"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "15",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "5",
+          "left": "1003",
+          "top": "795",
+          "width": "20",
+          "height": "30",
+          "conf": "31.919601",
+          "text": "re"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "15",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "6",
+          "left": "1055",
+          "top": "810",
+          "width": "43",
+          "height": "4",
+          "conf": "40.030167",
+          "text": "em"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "15",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "7",
+          "left": "1105",
+          "top": "795",
+          "width": "15",
+          "height": "30",
+          "conf": "40.639149",
+          "text": "oe"
+        }
+      ],
+      "16:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "16",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "552",
+          "top": "842",
+          "width": "39",
+          "height": "30",
+          "conf": "88.918144",
+          "text": "24"
+        }
+      ],
+      "17:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "17",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "905",
+          "top": "845",
+          "width": "37",
+          "height": "29",
+          "conf": "94.766846",
+          "text": "Tk"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "17",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "2",
+          "left": "959",
+          "top": "844",
+          "width": "117",
+          "height": "34",
+          "conf": "94.766846",
+          "text": "44,400"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "17",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "3",
+          "left": "1105",
+          "top": "851",
+          "width": "10",
+          "height": "21",
+          "conf": "79.045273",
+          "text": "1"
+        }
+      ],
+      "18:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "18",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "1109",
+          "top": "829",
+          "width": "7",
+          "height": "19",
+          "conf": "67.712685",
+          "text": "t"
+        }
+      ],
+      "19:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "19",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "100",
+          "top": "821",
+          "width": "13",
+          "height": "69",
+          "conf": "76.612419",
+          "text": "{"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "19",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "2",
+          "left": "141",
+          "top": "838",
+          "width": "139",
+          "height": "31",
+          "conf": "76.134247",
+          "text": "Miniket"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "19",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "3",
+          "left": "299",
+          "top": "839",
+          "width": "84",
+          "height": "31",
+          "conf": "96.754890",
+          "text": "Rice"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "19",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "4",
+          "left": "403",
+          "top": "840",
+          "width": "69",
+          "height": "37",
+          "conf": "87.488129",
+          "text": "25kg"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "19",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "5",
+          "left": "490",
+          "top": "827",
+          "width": "12",
+          "height": "65",
+          "conf": "82.961487",
+          "text": "|"
+        }
+      ],
+      "20:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "20",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "638",
+          "top": "828",
+          "width": "12",
+          "height": "65",
+          "conf": "87.302444",
+          "text": "i"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "20",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "2",
+          "left": "682",
+          "top": "843",
+          "width": "37",
+          "height": "29",
+          "conf": "58.451286",
+          "text": "Tk"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "20",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "3",
+          "left": "741",
+          "top": "843",
+          "width": "30",
+          "height": "34",
+          "conf": "86.364845",
+          "text": "1,"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "20",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "4",
+          "left": "774",
+          "top": "843",
+          "width": "56",
+          "height": "30",
+          "conf": "95.864326",
+          "text": "850"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "20",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "5",
+          "left": "856",
+          "top": "830",
+          "width": "10",
+          "height": "63",
+          "conf": "74.433022",
+          "text": "|"
+        }
+      ],
+      "21:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "21",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "490",
+          "top": "873",
+          "width": "163",
+          "height": "43",
+          "conf": "13.311600",
+          "text": "Se"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "21",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "2",
+          "left": "655",
+          "top": "904",
+          "width": "197",
+          "height": "5",
+          "conf": "29.541504",
+          "text": "min"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "21",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "3",
+          "left": "860",
+          "top": "874",
+          "width": "262",
+          "height": "71",
+          "conf": "30.983231",
+          "text": "on]"
+        }
+      ],
+      "22:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "22",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "99",
+          "top": "893",
+          "width": "18",
+          "height": "100",
+          "conf": "75.987488",
+          "text": "i"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "22",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "2",
+          "left": "139",
+          "top": "937",
+          "width": "102",
+          "height": "31",
+          "conf": "88.195656",
+          "text": "Onion"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "22",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "3",
+          "left": "279",
+          "top": "937",
+          "width": "58",
+          "height": "38",
+          "conf": "88.195656",
+          "text": "1kg"
+        }
+      ],
+      "23:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "23",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "553",
+          "top": "939",
+          "width": "37",
+          "height": "30",
+          "conf": "96.722588",
+          "text": "20"
+        }
+      ],
+      "24:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "24",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "680",
+          "top": "938",
+          "width": "36",
+          "height": "31",
+          "conf": "96.724442",
+          "text": "Tk"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "24",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "2",
+          "left": "739",
+          "top": "940",
+          "width": "38",
+          "height": "29",
+          "conf": "96.562065",
+          "text": "65"
+        }
+      ],
+      "25:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "25",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "905",
+          "top": "942",
+          "width": "37",
+          "height": "27",
+          "conf": "94.225166",
+          "text": "Tk"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "25",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "2",
+          "left": "983",
+          "top": "941",
+          "width": "93",
+          "height": "28",
+          "conf": "94.225166",
+          "text": "1,300"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "25",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "3",
+          "left": "1110",
+          "top": "924",
+          "width": "6",
+          "height": "45",
+          "conf": "95.109436",
+          "text": "|"
+        }
+      ],
+      "26:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "26",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "98",
+          "top": "970",
+          "width": "196",
+          "height": "49",
+          "conf": "34.780190",
+          "text": "Lo."
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "26",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "2",
+          "left": "331",
+          "top": "997",
+          "width": "360",
+          "height": "20",
+          "conf": "20.989227",
+          "text": "eo"
+        }
+      ],
+      "27:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "27",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "759",
+          "top": "1086",
+          "width": "96",
+          "height": "30",
+          "conf": "95.105743",
+          "text": "Total:"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "27",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "2",
+          "left": "900",
+          "top": "1086",
+          "width": "39",
+          "height": "30",
+          "conf": "95.572289",
+          "text": "Tk"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "27",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "3",
+          "left": "961",
+          "top": "1085",
+          "width": "123",
+          "height": "32",
+          "conf": "96.710701",
+          "text": "45,700"
+        }
+      ],
+      "28:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "28",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "92",
+          "top": "1300",
+          "width": "214",
+          "height": "36",
+          "conf": "96.114799",
+          "text": "Authorized"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "28",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "2",
+          "left": "335",
+          "top": "1299",
+          "width": "40",
+          "height": "38",
+          "conf": "96.762100",
+          "text": "by"
+        }
+      ],
+      "29:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "29",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "131",
+          "top": "1351",
+          "width": "350",
+          "height": "111",
+          "conf": "0.000000",
+          "text": "Fotutd\u2014"
+        }
+      ],
+      "30:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "30",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "96",
+          "top": "1485",
+          "width": "63",
+          "height": "30",
+          "conf": "93.298141",
+          "text": "for"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "30",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "2",
+          "left": "182",
+          "top": "1480",
+          "width": "190",
+          "height": "33",
+          "conf": "90.963646",
+          "text": "Al-Madina"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "30",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "3",
+          "left": "399",
+          "top": "1477",
+          "width": "159",
+          "height": "32",
+          "conf": "96.006401",
+          "text": "Traders."
+        }
+      ],
+      "31:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "31",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "1170",
+          "top": "1651",
+          "width": "71",
+          "height": "27",
+          "conf": "45.217289",
+          "text": "LEN"
+        }
+      ],
+      "32:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "32",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "1215",
+          "top": "1684",
+          "width": "4",
+          "height": "11",
+          "conf": "24.633636",
+          "text": "i"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "32",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "2",
+          "left": "1239",
+          "top": "1686",
+          "width": "3",
+          "height": "15",
+          "conf": "41.881027",
+          "text": "|"
+        }
+      ],
+      "33:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "33",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "1215",
+          "top": "1717",
+          "width": "27",
+          "height": "15",
+          "conf": "7.929955",
+          "text": "LN"
+        }
+      ]
+    },
+    "limitation": "Tesseract line grouping does not establish table cells or row roles."
+  }
+}

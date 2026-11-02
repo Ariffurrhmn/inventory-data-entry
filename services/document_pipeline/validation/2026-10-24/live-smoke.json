@@ -1,0 +1,89 @@
+{
+  "scope": "Live development smoke, no recognition accuracy claim",
+  "results": [
+    {
+      "id": "76cc99d39da4",
+      "mode": "recorded_OCR_live_classification",
+      "input_sha256": "21efb0e84f322eaceb7b7fe3c109c9a66ec11292097a31e79a2d94bd8ec432e8",
+      "prediction": "purchase_order",
+      "expected_existing_development_label": "purchase_order",
+      "recorded_prediction": "purchase_order",
+      "submission_state": "awaiting_extraction",
+      "same_key_replayed": true,
+      "changed_payload_conflict": true,
+      "elapsed_seconds": 3.21
+    },
+    {
+      "id": "5dffabcb47cb",
+      "mode": "recorded_OCR_live_classification",
+      "input_sha256": "48625af5c91a701566489a6a4dbc57d9c46edf47ee176e637970daaa51a8c8d4",
+      "prediction": "receipt",
+      "expected_existing_development_label": "receipt",
+      "recorded_prediction": "receipt",
+      "submission_state": "awaiting_extraction",
+      "same_key_replayed": true,
+      "changed_payload_conflict": true,
+      "elapsed_seconds": 0.053
+    },
+    {
+      "id": "f9918570b903",
+      "mode": "recorded_OCR_live_classification",
+      "input_sha256": "14699d44aaa60c89a32bb0c24ec124c41a8d17e10312e03b525fe889fd39251d",
+      "prediction": "delivery_note",
+      "expected_existing_development_label": "delivery_note",
+      "recorded_prediction": "delivery_note",
+      "submission_state": "awaiting_extraction",
+      "same_key_replayed": true,
+      "changed_payload_conflict": true,
+      "elapsed_seconds": 0.072
+    },
+    {
+      "id": "e396ade11def",
+      "mode": "recorded_OCR_live_classification",
+      "input_sha256": "6449cc419027b97bed89a7a33e8dbdfaa4aa86d4f81c0d465246909635c60ed6",
+      "prediction": "customer_copy",
+      "expected_existing_development_label": "customer_copy",
+      "recorded_prediction": "customer_copy",
+      "submission_state": "awaiting_extraction",
+      "same_key_replayed": true,
+      "changed_payload_conflict": true,
+      "elapsed_seconds": 0.09
+    },
+    {
+      "id": "cdd7aaa9004d",
+      "mode": "recorded_OCR_live_classification",
+      "input_sha256": "86e76385a771113d1f03273175b3c1b018583d0b4671721dd80e15ae42227d5e",
+      "prediction": "purchase_order",
+      "expected_existing_development_label": "customer_copy",
+      "recorded_prediction": "purchase_order",
+      "submission_state": "awaiting_extraction",
+      "same_key_replayed": true,
+      "changed_payload_conflict": true,
+      "elapsed_seconds": 0.084
+    },
+    {
+      "id": "76cc99d39da4",
+      "mode": "live_image_OCR_classification",
+      "source_sha256": "c008a22c1f76dc1b9d9e89cf948d589ec7bc9d64e8119a640c6a8c6af6fd626a",
+      "prediction": "purchase_order",
+      "expected_existing_development_label": "purchase_order",
+      "ocr_characters": 556,
+      "elapsed_seconds": 21.234,
+      "submission_state": "awaiting_extraction"
+    },
+    {
+      "id": "f9918570b903",
+      "mode": "live_image_OCR_classification",
+      "source_sha256": "bc4e1f5f2758199a5b77f34cba6bedf0a71d78335a9eb2c0a8a6d0e8af7cc60c",
+      "prediction": "delivery_note",
+      "expected_existing_development_label": "delivery_note",
+      "ocr_characters": 168,
+      "elapsed_seconds": 7.096,
+      "submission_state": "awaiting_extraction"
+    }
+  ],
+  "historical_test_inputs_opened": false,
+  "paid_api_calls": 0,
+  "invalid_image_failure_persisted": true,
+  "passed": true
+}

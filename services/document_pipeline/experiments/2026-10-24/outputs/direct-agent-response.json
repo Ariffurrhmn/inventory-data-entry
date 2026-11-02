@@ -1,0 +1,177 @@
+{
+  "76cc99d39da4": {
+    "schema_version": "1.0",
+    "document_type": "purchase_order",
+    "document_number": "ORD-9953",
+    "date": "04/07/2026",
+    "currency": "Tk",
+    "line_items": [
+      {
+        "raw_text": "Miniket Rice 25kg",
+        "quantity": "24",
+        "unit_price": "1850",
+        "line_total": "44400"
+      }
+    ],
+    "totals": {
+      "subtotal": null,
+      "tax": null,
+      "discount": null,
+      "grand_total": "45700"
+    },
+    "evidence": {
+      "/document_number": "Order No: ORD-9953",
+      "/date": "Order Date: 04/07/2026",
+      "/currency": "Rate (Tk)",
+      "/line_items/0/raw_text": "Miniket Rice 25kg",
+      "/line_items/0/quantity": "Miniket Rice 25kg{ 24 |",
+      "/line_items/0/unit_price": "Tk 1,850",
+      "/line_items/0/line_total": "Tk 44,400",
+      "/totals/grand_total": "Total: Tk 45,700"
+    },
+    "uncertainties": [
+      "Additional item rows may be present, but their descriptions and amounts are unreadable in the OCR.",
+      "Subtotal, tax, and discount are not clearly present.",
+      "The readable line total does not account for the full stated total; missing amounts were not inferred."
+    ],
+    "corrections": []
+  },
+  "5dffabcb47cb": {
+    "schema_version": "1.0",
+    "document_type": "receipt",
+    "document_number": null,
+    "date": null,
+    "currency": null,
+    "line_items": [
+      {
+        "raw_text": "Kimchi p",
+        "quantity": "1",
+        "unit_price": null,
+        "line_total": null
+      },
+      {
+        "raw_text": "Fre ice grentea",
+        "quantity": "1",
+        "unit_price": null,
+        "line_total": null
+      }
+    ],
+    "totals": {
+      "subtotal": null,
+      "tax": null,
+      "discount": null,
+      "grand_total": null
+    },
+    "evidence": {
+      "/line_items/0/raw_text": "Kimchi p",
+      "/line_items/0/quantity": "1x 36.000 + 36.000",
+      "/line_items/1/raw_text": "Fre ice grentea",
+      "/line_items/1/quantity": "1x 0.000 Rr0. 000"
+    },
+    "uncertainties": [
+      "Document number, date, and currency are not clearly present.",
+      "The periods in amounts such as 36.000 and 0.000 have an uncertain decimal or thousands interpretation; numeric amounts remain null.",
+      "The second item's amount text Rr0. 000 is malformed.",
+      "The apparent total appears as 1 o*x=[0TAL © 36.000; its amount remains null because separator interpretation is uncertain.",
+      "Item associations follow the OCR sequence of each quantity/amount line followed by its description; the original layout is unavailable.",
+      "Subtotal, tax, and discount are not clearly present."
+    ],
+    "corrections": []
+  },
+  "f9918570b903": {
+    "schema_version": "1.0",
+    "document_type": "delivery_note",
+    "document_number": "DC-968",
+    "date": "27/07/2026",
+    "currency": null,
+    "line_items": [],
+    "totals": {
+      "subtotal": null,
+      "tax": null,
+      "discount": null,
+      "grand_total": null
+    },
+    "evidence": {
+      "/document_number": "Challan No: DC-968",
+      "/date": "Date: 27/07/2026"
+    },
+    "uncertainties": [
+      "No readable item rows, quantities, prices, or totals appear in the OCR.",
+      "Currency is not present."
+    ],
+    "corrections": []
+  },
+  "e396ade11def": {
+    "schema_version": "1.0",
+    "document_type": "customer_copy",
+    "document_number": "INV-9957",
+    "date": "10/09/2026",
+    "currency": "Tk",
+    "line_items": [
+      {
+        "raw_text": "Toothpaste 100g",
+        "quantity": "10",
+        "unit_price": "120",
+        "line_total": "1200"
+      },
+      {
+        "raw_text": "Exercise Book",
+        "quantity": null,
+        "unit_price": "45",
+        "line_total": "45"
+      }
+    ],
+    "totals": {
+      "subtotal": null,
+      "tax": null,
+      "discount": null,
+      "grand_total": "1245"
+    },
+    "evidence": {
+      "/document_number": "Invoice No: INV-9957",
+      "/date": "Date: 10/09/2026",
+      "/currency": "Rate (Tk)",
+      "/line_items/0/raw_text": "Toothpaste 100g",
+      "/line_items/0/quantity": "Toothpaste 100g | 10 |",
+      "/line_items/0/unit_price": "Tk 120",
+      "/line_items/0/line_total": "Tk 1,200",
+      "/line_items/1/raw_text": "Exercise Book",
+      "/line_items/1/unit_price": "Tk45",
+      "/line_items/1/line_total": "Tx 45",
+      "/totals/grand_total": "Total: Tk 1,245"
+    },
+    "uncertainties": [
+      "Input document_type is customer_copy, while the OCR visibly states OFFICE COPY; the supplied document_type was preserved.",
+      "Exercise Book quantity appears in the malformed text 1] and remains null.",
+      "The Exercise Book line-total currency marker appears as Tx; the readable amount 45 was preserved without correcting that marker.",
+      "Subtotal, tax, and discount are not clearly present."
+    ],
+    "corrections": []
+  },
+  "cdd7aaa9004d": {
+    "schema_version": "1.0",
+    "document_type": "purchase_order",
+    "document_number": "INV-9335",
+    "date": "13/08/2026",
+    "currency": "Tk",
+    "line_items": [],
+    "totals": {
+      "subtotal": null,
+      "tax": null,
+      "discount": null,
+      "grand_total": "45340"
+    },
+    "evidence": {
+      "/document_number": "Invoice No: INV-9335",
+      "/date": "Date: 13/08/2026",
+      "/currency": "Tk45,340",
+      "/totals/grand_total": "Total:  Tk45,340"
+    },
+    "uncertainties": [
+      "Input document_type is purchase_order, while the OCR states Invoice and Invoice No; the supplied document_type was preserved.",
+      "No readable item rows, quantities, or unit prices appear in the OCR.",
+      "Subtotal, tax, and discount are not clearly present."
+    ],
+    "corrections": []
+  }
+}

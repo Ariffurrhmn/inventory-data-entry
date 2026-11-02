@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.0",
+  "document_type": "delivery_note",
+  "document_number": "DC-968",
+  "date": "27/07/2026",
+  "currency": null,
+  "line_items": [
+    {
+      "raw_text": "1 Mustard Oil 1L 6",
+      "quantity": "6",
+      "unit_price": null,
+      "line_total": null
+    },
+    {
+      "raw_text": "2 Milk Powder 500g 20",
+      "quantity": "20",
+      "unit_price": null,
+      "line_total": null
+    },
+    {
+      "raw_text": "3 Detergent 500g 12",
+      "quantity": "12",
+      "unit_price": null,
+      "line_total": null
+    },
+    {
+      "raw_text": "4 Onion 1kg 12",
+      "quantity": "12",
+      "unit_price": null,
+      "line_total": null
+    },
+    {
+      "raw_text": "5 Salt 1kg 2",
+      "quantity": "2",
+      "unit_price": null,
+      "line_total": null
+    }
+  ],
+  "totals": {
+    "subtotal": null,
+    "tax": null,
+    "discount": null,
+    "grand_total": null
+  },
+  "evidence": {
+    "/document_number": "Challan No: DC-968.",
+    "/date": "Date: 27/07/2026.",
+    "/line_items/0/raw_text": "1 Mustard Oil 1L 6",
+    "/line_items/0/quantity": "1 Mustard Oil 1L 6",
+    "/line_items/1/raw_text": "2 Milk Powder 500g 20",
+    "/line_items/1/quantity": "2 Milk Powder 500g 20",
+    "/line_items/2/raw_text": "3 Detergent 500g 12",
+    "/line_items/2/quantity": "3 Detergent 500g 12",
+    "/line_items/3/raw_text": "4 Onion 1kg 12",
+    "/line_items/3/quantity": "4 Onion 1kg 12",
+    "/line_items/4/raw_text": "5 Salt 1kg 2",
+    "/line_items/4/quantity": "5 Salt 1kg 2"
+  },
+  "uncertainties": [],
+  "corrections": []
+}

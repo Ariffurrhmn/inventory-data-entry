@@ -1,0 +1,95 @@
+{
+  "76cc99d39da4": {
+    "schema_version": "1.0",
+    "document_type": "purchase_order",
+    "document_number": "ORD-9953",
+    "date": "04/07/2026",
+    "currency": "Tk",
+    "line_items": [
+      {
+        "raw_text": "Miniket Rice 25kg",
+        "quantity": "24",
+        "unit_price": null,
+        "line_total": null
+      }
+    ],
+    "totals": {
+      "subtotal": null,
+      "tax": null,
+      "discount": null,
+      "grand_total": null
+    },
+    "evidence": {
+      "/document_number": "Order No: ORD-9953",
+      "/date": "Order Date: 04/07/2026",
+      "/currency": "Rate (Tk)",
+      "/line_items/0/raw_text": "Miniket Rice 25kg",
+      "/line_items/0/quantity": "Miniket Rice 25kg{ 24 |"
+    },
+    "uncertainties": [
+      "Six OCR views are alternative observations of one document; repeated content was not counted as additional rows.",
+      "No additional item description or numeric row association is clearly supported across the views. Isolated tokens such as 20, 65, and 300 in a noisy view cannot establish a row or amount role.",
+      "The visible unit price 1,850, line total 44,400, and stated total 45,700 require comma removal to meet the decimal-string schema. Their normalized forms are not literal substrings of their corresponding evidence quotes, so extraction is withheld under the strict literal evidence policy.",
+      "Subtotal, tax, and discount are not clearly present.",
+      "Clear views corroborate document number ORD-9953 and date 04/07/2026; other views contain fragmented or malformed header readings.",
+      "The proposed correction of Om: to From: is corroborated by another OCR view and has not been applied to extracted content."
+    ],
+    "corrections": [
+      {
+        "before": "1,850",
+        "after": "1850",
+        "reason": "Thousands-comma normalization requires an explicit formatting policy; extraction withheld under literal evidence contract."
+      },
+      {
+        "before": "44,400",
+        "after": "44400",
+        "reason": "Thousands-comma normalization requires an explicit formatting policy; extraction withheld under literal evidence contract."
+      },
+      {
+        "before": "45,700",
+        "after": "45700",
+        "reason": "Thousands-comma normalization requires an explicit formatting policy; extraction withheld under literal evidence contract."
+      },
+      {
+        "before": "Om:",
+        "after": "From:",
+        "reason": "Another OCR view contains From: Al-Madina Traders, supporting this textual repair as a proposal only."
+      }
+    ]
+  },
+  "f9918570b903": {
+    "schema_version": "1.0",
+    "document_type": "delivery_note",
+    "document_number": "DC-968",
+    "date": "27/07/2026",
+    "currency": null,
+    "line_items": [
+      {
+        "raw_text": "Onion 1Kg",
+        "quantity": null,
+        "unit_price": null,
+        "line_total": null
+      }
+    ],
+    "totals": {
+      "subtotal": null,
+      "tax": null,
+      "discount": null,
+      "grand_total": null
+    },
+    "evidence": {
+      "/document_number": "Challan No: DC-968",
+      "/date": "Date: 27/07/2026",
+      "/line_items/0/raw_text": "Onion 1Kg"
+    },
+    "uncertainties": [
+      "Six OCR views are alternative observations of one document; repeated content was not counted as additional rows.",
+      "One view exposes the item description Onion 1Kg; it is not corroborated by a second readable item view.",
+      "The leading 4] in 4] Onion 1Kg may be a row marker; it cannot establish quantity. The 1Kg text is part of the item description and was not treated as ordered or delivered quantity.",
+      "No readable quantities, unit prices, line totals, or document totals are supported.",
+      "Currency is not present.",
+      "Other item rows may be missing from the OCR; their content and number are unknown."
+    ],
+    "corrections": []
+  }
+}

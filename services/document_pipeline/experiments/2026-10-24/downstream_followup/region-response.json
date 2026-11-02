@@ -1,0 +1,81 @@
+{
+  "76cc99d39da4": {
+    "schema_version":"1.0","document_type":"purchase_order","document_number":"ORD-9953","date":"04/07/2026","currency":"Tk",
+    "line_items":[
+      {"raw_text":"Miniket Rice 25kg 24 Tk 1,850 Tk 44,400","quantity":"24","unit_price":"1850","line_total":"44400"},
+      {"raw_text":"Onion 1kg 20 Tk 65 Tk 1,300","quantity":"20","unit_price":"65","line_total":"1300"}
+    ],
+    "totals":{"subtotal":null,"tax":null,"discount":null,"grand_total":"45700"},
+    "evidence":{
+      "/document_number":"Order No: ORD-9953,","/date":"Order Date: 04/07/2026.","/currency":"Rate (Tk)",
+      "/line_items/0/raw_text":"Miniket Rice 25kg 24 Tk 1,850 Tk 44,400","/line_items/0/quantity":"Miniket Rice 25kg 24 Tk 1,850 Tk 44,400","/line_items/0/unit_price":"Tk 1,850","/line_items/0/line_total":"Tk 44,400",
+      "/line_items/1/raw_text":"Onion 1kg 20 Tk 65 Tk 1,300","/line_items/1/quantity":"Onion 1kg 20 Tk 65 Tk 1,300","/line_items/1/unit_price":"Tk 65","/line_items/1/line_total":"Tk 1,300",
+      "/totals/grand_total":"Total: Tk 45,700."
+    },
+    "uncertainties":["Comma groups interpreted as thousands separators; locale is not explicitly specified.","The Miniket row repeats in the primary and automatic-region OCR and is represented once.","Other primary-view table text is corrupted; automatic-region rows provide the readable entries."],"corrections":[]
+  },
+  "5dffabcb47cb": {
+    "schema_version":"1.0","document_type":"receipt","document_number":null,"date":null,"currency":null,
+    "line_items":[
+      {"raw_text":"1x 36.000 + 36.000","quantity":"1","unit_price":null,"line_total":null},
+      {"raw_text":"1x 0.000 Rr0. 000","quantity":"1","unit_price":null,"line_total":null}
+    ],
+    "totals":{"subtotal":null,"tax":null,"discount":null,"grand_total":null},
+    "evidence":{
+      "/line_items/0/raw_text":"1x 36.000 + 36.000","/line_items/0/quantity":"1x 36.000 + 36.000",
+      "/line_items/1/raw_text":"1x 0.000 Rr0. 000","/line_items/1/quantity":"1x 0.000 Rr0. 000"
+    },
+    "uncertainties":["The dot in 36.000 and 15.000 may be a decimal or thousands separator; monetary fields remain null.","The second numeric row is corrupted as 0.000 Rr0. 000; its monetary interpretation remains unresolved.","Kimchi p and Fre ice grentea occur on separate lines; item-name association with numeric rows is not established.","The apparent total label is corrupted as o*x=[0TAL; no monetary total is normalized.","CASH Re51. 000 and CHANGE % 15.000 contain unclear symbols; currency is not established."],"corrections":[]
+  },
+  "f9918570b903": {
+    "schema_version":"1.0","document_type":"delivery_note","document_number":"DC-968","date":"27/07/2026","currency":null,
+    "line_items":[
+      {"raw_text":"1 Mustard Oil 1L 6","quantity":"6","unit_price":null,"line_total":null},
+      {"raw_text":"2 Milk Powder 500g 20","quantity":"20","unit_price":null,"line_total":null},
+      {"raw_text":"3 Detergent 500g 12","quantity":"12","unit_price":null,"line_total":null},
+      {"raw_text":"4 Onion 1kg 12","quantity":"12","unit_price":null,"line_total":null},
+      {"raw_text":"5 Salt 1kg 2","quantity":"2","unit_price":null,"line_total":null}
+    ],
+    "totals":{"subtotal":null,"tax":null,"discount":null,"grand_total":null},
+    "evidence":{
+      "/document_number":"Challan No: DC-968.","/date":"Date: 27/07/2026.",
+      "/line_items/0/raw_text":"1 Mustard Oil 1L 6","/line_items/0/quantity":"1 Mustard Oil 1L 6",
+      "/line_items/1/raw_text":"2 Milk Powder 500g 20","/line_items/1/quantity":"2 Milk Powder 500g 20",
+      "/line_items/2/raw_text":"3 Detergent 500g 12","/line_items/2/quantity":"3 Detergent 500g 12",
+      "/line_items/3/raw_text":"4 Onion 1kg 12","/line_items/3/quantity":"4 Onion 1kg 12",
+      "/line_items/4/raw_text":"5 Salt 1kg 2","/line_items/4/quantity":"5 Salt 1kg 2"
+    },"uncertainties":[],"corrections":[]
+  },
+  "e396ade11def": {
+    "schema_version":"1.0","document_type":"customer_copy","document_number":"INV-9957","date":"10/09/2026","currency":"Tk",
+    "line_items":[
+      {"raw_text":"Toothpaste 100g | 10 | Tk 120 | Tk 1,200","quantity":"10","unit_price":"120","line_total":"1200"},
+      {"raw_text":"Exercise Book 1] Tk45 | Tx 45 |","quantity":null,"unit_price":"45","line_total":"45"}
+    ],
+    "totals":{"subtotal":null,"tax":null,"discount":null,"grand_total":"1245"},
+    "evidence":{
+      "/document_number":"Invoice No: INV-9957.","/date":"Date: 10/09/2026.","/currency":"Rate (Tk)",
+      "/line_items/0/raw_text":"Toothpaste 100g | 10 | Tk 120 | Tk 1,200","/line_items/0/quantity":"Toothpaste 100g | 10 | Tk 120 | Tk 1,200","/line_items/0/unit_price":"Tk 120","/line_items/0/line_total":"Tk 1,200",
+      "/line_items/1/raw_text":"Exercise Book 1] Tk45 | Tx 45 |","/line_items/1/unit_price":"Tk45","/line_items/1/line_total":"Tx 45",
+      "/totals/grand_total":"Total: Tk 1,245."
+    },
+    "uncertainties":["Input type customer_copy conflicts with the OCR label OFFICE COPY; supplied type is preserved.","Exercise Book quantity is unclear in the source fragment 1]; quantity remains null.","Exercise Book amount has the OCR prefix Tx; numeric value 45 is retained without repairing that prefix.","Comma groups interpreted as thousands separators; locale is not explicitly specified."],"corrections":[]
+  },
+  "cdd7aaa9004d": {
+    "schema_version":"1.0","document_type":"purchase_order","document_number":"INV-9335","date":"13/08/2026","currency":"Tk",
+    "line_items":[
+      {"raw_text":"Red Lentils 1kg 4 Tk 110 Tk 440","quantity":"4","unit_price":"110","line_total":"440"},
+      {"raw_text":"Miniket Rice 25kg 24 Tk 1,850 Tk 44,400","quantity":"24","unit_price":"1850","line_total":"44400"},
+      {"raw_text":"Ball Pen box 5 Tk 100 Tk 500","quantity":"5","unit_price":"100","line_total":"500"}
+    ],
+    "totals":{"subtotal":null,"tax":null,"discount":null,"grand_total":"45340"},
+    "evidence":{
+      "/document_number":"Invoice No: INV-9335.","/date":"Date: 13/08/2026.","/currency":"Rate (Tk)",
+      "/line_items/0/raw_text":"Red Lentils 1kg 4 Tk 110 Tk 440","/line_items/0/quantity":"Red Lentils 1kg 4 Tk 110 Tk 440","/line_items/0/unit_price":"Tk 110","/line_items/0/line_total":"Tk 440",
+      "/line_items/1/raw_text":"Miniket Rice 25kg 24 Tk 1,850 Tk 44,400","/line_items/1/quantity":"Miniket Rice 25kg 24 Tk 1,850 Tk 44,400","/line_items/1/unit_price":"Tk 1,850","/line_items/1/line_total":"Tk 44,400",
+      "/line_items/2/raw_text":"Ball Pen box 5 Tk 100 Tk 500","/line_items/2/quantity":"Ball Pen box 5 Tk 100 Tk 500","/line_items/2/unit_price":"Tk 100","/line_items/2/line_total":"Tk 500",
+      "/totals/grand_total":"Total:  Tk45,340."
+    },
+    "uncertainties":["Input type purchase_order conflicts with the OCR labels Invoice and Invoice No; supplied type is preserved.","Comma groups interpreted as thousands separators; locale is not explicitly specified."],"corrections":[]
+  }
+}

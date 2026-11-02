@@ -1,0 +1,47 @@
+{
+  "schema_version": "1.0",
+  "document_type": "customer_copy",
+  "document_number": "INV-9957",
+  "date": "10/09/2026",
+  "currency": "Tk",
+  "line_items": [
+    {
+      "raw_text": "Toothpaste 100g | 10 | Tk 120 | Tk 1,200",
+      "quantity": "10",
+      "unit_price": "120",
+      "line_total": "1200"
+    },
+    {
+      "raw_text": "Exercise Book 1] Tk45 | Tx 45 |",
+      "quantity": null,
+      "unit_price": "45",
+      "line_total": "45"
+    }
+  ],
+  "totals": {
+    "subtotal": null,
+    "tax": null,
+    "discount": null,
+    "grand_total": "1245"
+  },
+  "evidence": {
+    "/document_number": "Invoice No: INV-9957.",
+    "/date": "Date: 10/09/2026.",
+    "/currency": "Rate (Tk)",
+    "/line_items/0/raw_text": "Toothpaste 100g | 10 | Tk 120 | Tk 1,200",
+    "/line_items/0/quantity": "Toothpaste 100g | 10 | Tk 120 | Tk 1,200",
+    "/line_items/0/unit_price": "Tk 120",
+    "/line_items/0/line_total": "Tk 1,200",
+    "/line_items/1/raw_text": "Exercise Book 1] Tk45 | Tx 45 |",
+    "/line_items/1/unit_price": "Tk45",
+    "/line_items/1/line_total": "Tx 45",
+    "/totals/grand_total": "Total: Tk 1,245."
+  },
+  "uncertainties": [
+    "Input type customer_copy conflicts with the OCR label OFFICE COPY; supplied type is preserved.",
+    "Exercise Book quantity is unclear in the source fragment 1]; quantity remains null.",
+    "Exercise Book amount has the OCR prefix Tx; numeric value 45 is retained without repairing that prefix.",
+    "Comma groups interpreted as thousands separators; locale is not explicitly specified."
+  ],
+  "corrections": []
+}

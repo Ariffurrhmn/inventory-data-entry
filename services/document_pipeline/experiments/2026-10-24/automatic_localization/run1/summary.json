@@ -1,0 +1,177 @@
+[
+  {
+    "id": "76cc99d39da4",
+    "split": "val",
+    "historical_split": "train",
+    "source_sha256": "c008a22c1f76dc1b9d9e89cf948d589ec7bc9d64e8119a640c6a8c6af6fd626a",
+    "seconds": 11.8427,
+    "candidates": [
+      {
+        "method": "axis_grid",
+        "tables": 0,
+        "rows": 0,
+        "ocr_text": "",
+        "seconds": null,
+        "rotation": 0
+      },
+      {
+        "method": "deskew_grid",
+        "tables": 0,
+        "rows": 0,
+        "ocr_text": "",
+        "seconds": null,
+        "rotation": -4.0
+      }
+    ]
+  },
+  {
+    "id": "f9918570b903",
+    "split": "val",
+    "historical_split": "train",
+    "source_sha256": "bc4e1f5f2758199a5b77f34cba6bedf0a71d78335a9eb2c0a8a6d0e8af7cc60c",
+    "seconds": 15.2134,
+    "candidates": [
+      {
+        "method": "axis_grid",
+        "tables": 1,
+        "rows": 6,
+        "ocr_text": "| si Item Description\n1 Mustard Oil 1L\n\n2 Milk Powder 500g\n\n3 | Detergent 500g\n\n4 | Onion 1kg\n\n5 | saltikg\n",
+        "seconds": 0.7211,
+        "rotation": 0
+      },
+      {
+        "method": "deskew_grid",
+        "tables": 1,
+        "rows": 6,
+        "ocr_text": "| si Item Description\n1 Mustard Oil 1L\n\n2 Milk Powder 500g\n\n3 | Detergent 500g\n\n4 | Onion 1kg\n\n5 | saltikg\n",
+        "seconds": 0.7368,
+        "rotation": 0.0
+      }
+    ]
+  },
+  {
+    "id": "5dffabcb47cb",
+    "split": "val",
+    "historical_split": "val",
+    "source_sha256": "e51375a245dde8dacc6e43ae9f83726a17363e9cc5cb5210e1c7ed5ab345e2c0",
+    "seconds": 8.6167,
+    "candidates": [
+      {
+        "method": "axis_grid",
+        "tables": 0,
+        "rows": 0,
+        "ocr_text": "",
+        "seconds": null,
+        "rotation": 0
+      },
+      {
+        "method": "deskew_grid",
+        "tables": 0,
+        "rows": 0,
+        "ocr_text": "",
+        "seconds": null,
+        "rotation": -1.0
+      }
+    ]
+  },
+  {
+    "id": "e396ade11def",
+    "split": "val",
+    "historical_split": "train",
+    "source_sha256": "b9f12f27d77447b831b0976cf9e4fd4265fb6f17e158cd85528c4bdde5053c00",
+    "seconds": 15.0588,
+    "candidates": [
+      {
+        "method": "axis_grid",
+        "tables": 0,
+        "rows": 0,
+        "ocr_text": "",
+        "seconds": null,
+        "rotation": 0
+      },
+      {
+        "method": "deskew_grid",
+        "tables": 0,
+        "rows": 0,
+        "ocr_text": "",
+        "seconds": null,
+        "rotation": 0.0
+      }
+    ]
+  },
+  {
+    "id": "cdd7aaa9004d",
+    "split": "val",
+    "historical_split": "train",
+    "source_sha256": "3a782087b6f7af63728eddc13354e6be20247ab1b24e0cb01b6168ffee2287b3",
+    "seconds": 12.6354,
+    "candidates": [
+      {
+        "method": "axis_grid",
+        "tables": 1,
+        "rows": 4,
+        "ocr_text": "Qty\n4\n24\n5\n",
+        "seconds": 0.512,
+        "rotation": 0
+      },
+      {
+        "method": "deskew_grid",
+        "tables": 1,
+        "rows": 4,
+        "ocr_text": "Qty\n4\n24\n5\n",
+        "seconds": 0.4466,
+        "rotation": 0.0
+      }
+    ]
+  },
+  {
+    "id": "cc6e515ae67f",
+    "split": "val",
+    "historical_split": "val",
+    "source_sha256": "ee87c1d82b9e27bd2cb5d96743b2e647d59672bee36c4b1da03854473210b4a1",
+    "seconds": 9.3536,
+    "candidates": [
+      {
+        "method": "axis_grid",
+        "tables": 0,
+        "rows": 0,
+        "ocr_text": "",
+        "seconds": null,
+        "rotation": 0
+      },
+      {
+        "method": "deskew_grid",
+        "tables": 0,
+        "rows": 0,
+        "ocr_text": "",
+        "seconds": null,
+        "rotation": 0.5
+      }
+    ]
+  },
+  {
+    "id": "398c6ef688e4",
+    "split": "val",
+    "historical_split": "train",
+    "source_sha256": "180eeab99e09a484252eb3c4c78e46dd880ad60d4c80c03b9e234302b14d0f7b",
+    "seconds": 14.4206,
+    "candidates": [
+      {
+        "method": "axis_grid",
+        "tables": 1,
+        "rows": 4,
+        "ocr_text": "Sl Item Description Qy. |\n\n1 Soybean Oil 5L 12\n2 Tea 400g 4\n3 Saltikg 12\n",
+        "seconds": 0.7142,
+        "rotation": 0
+      },
+      {
+        "method": "deskew_grid",
+        "tables": 1,
+        "rows": 4,
+        "ocr_text": "Sl Item Description Qy. |\n\n1 Soybean Oil 5L 12\n2 Tea 400g 4\n3 Saltikg 12\n",
+        "seconds": 0.7166,
+        "rotation": 0.0
+      }
+    ]
+  }
+]

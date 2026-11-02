@@ -1,0 +1,1395 @@
+{
+  "source": "E:\\.shortcut-targets-by-id\\1yOBXNuSORBcOSWDhEg-YF1MEWIDvc8J2\\Capstone- Inventory Management System\\services\\document_classifier\\data\\images\\5dffabcb47cb.jpg",
+  "source_sha256": "e51375a245dde8dacc6e43ae9f83726a17363e9cc5cb5210e1c7ed5ab345e2c0",
+  "human_verified": false,
+  "module_sha256": "7157adda1a8729cae46431a562acd24f723f8b35a6130b6884efb1d027dac42a",
+  "candidates": [
+    {
+      "method": "axis_grid",
+      "layout": {
+        "version": "ruled-layout-v1",
+        "source_size": [
+          864,
+          1296
+        ],
+        "working_size": [
+          864,
+          1296
+        ],
+        "scale": 1.0,
+        "rotation_degrees": 0,
+        "rotation_scores": [],
+        "coordinate_system": "EXIF-oriented source scaled by scale, then rotated about image center; inverse affine provided",
+        "inverse_affine": [
+          [
+            1.0,
+            -0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.0,
+            0.0
+          ]
+        ],
+        "tables": []
+      },
+      "mapping": [],
+      "failure": "No eligible ruled grid detected; no invented cells."
+    },
+    {
+      "method": "deskew_grid",
+      "layout": {
+        "version": "ruled-layout-v1",
+        "source_size": [
+          864,
+          1296
+        ],
+        "working_size": [
+          864,
+          1296
+        ],
+        "scale": 1.0,
+        "rotation_degrees": -1.0,
+        "rotation_scores": [
+          [
+            -4.0,
+            1588
+          ],
+          [
+            -3.5,
+            1732
+          ],
+          [
+            -3.0,
+            1677
+          ],
+          [
+            -2.5,
+            1762
+          ],
+          [
+            -2.0,
+            1822
+          ],
+          [
+            -1.5,
+            1776
+          ],
+          [
+            -1.0,
+            1979
+          ],
+          [
+            -0.5,
+            1908
+          ],
+          [
+            0.0,
+            1938
+          ],
+          [
+            0.5,
+            1873
+          ],
+          [
+            1.0,
+            1949
+          ],
+          [
+            1.5,
+            1874
+          ],
+          [
+            2.0,
+            1880
+          ],
+          [
+            2.5,
+            1945
+          ],
+          [
+            3.0,
+            1796
+          ],
+          [
+            3.5,
+            1855
+          ],
+          [
+            4.0,
+            1860
+          ]
+        ],
+        "coordinate_system": "EXIF-oriented source scaled by scale, then rotated about image center; inverse affine provided",
+        "inverse_affine": [
+          [
+            0.9998476951563913,
+            0.01745240643728351,
+            -11.24336367892072
+          ],
+          [
+            -0.01745240643728351,
+            0.9998476951563913,
+            7.638133119564941
+          ]
+        ],
+        "tables": []
+      },
+      "mapping": [],
+      "failure": "No eligible ruled grid detected; no invented cells."
+    }
+  ],
+  "word_box_fallback": {
+    "command": [
+      "C:\\Users\\Windows 11\\scoop\\shims\\tesseract.EXE",
+      "E:\\.shortcut-targets-by-id\\1yOBXNuSORBcOSWDhEg-YF1MEWIDvc8J2\\Capstone- Inventory Management System\\services\\document_pipeline\\experiments\\2026-10-24\\automatic_localization\\run1\\5dffabcb47cb\\word_boxes_psm11.png",
+      "E:\\.shortcut-targets-by-id\\1yOBXNuSORBcOSWDhEg-YF1MEWIDvc8J2\\Capstone- Inventory Management System\\services\\document_pipeline\\experiments\\2026-10-24\\automatic_localization\\run1\\5dffabcb47cb\\word_boxes_psm11",
+      "--tessdata-dir",
+      "E:\\.shortcut-targets-by-id\\1yOBXNuSORBcOSWDhEg-YF1MEWIDvc8J2\\Capstone- Inventory Management System\\classifier\\engine\\.cache\\tessdata",
+      "-l",
+      "eng",
+      "--psm",
+      "11",
+      "-c",
+      "tessedit_create_txt=1",
+      "-c",
+      "tessedit_create_tsv=1"
+    ],
+    "returncode": 0,
+    "seconds": 1.4419,
+    "stderr": "Estimating resolution as 503\r\n",
+    "ocr_text": "\u2122 STORE\n\nww\n\n!\n\nmoa\n\ni\u00bb\n\nLEE LE\n\nul OBE\n\nFH CE\n\nen\n\n8 bie\n\nEI\n\n1x 36.000\n\n\u00bb 36.000\n\nKimchi p\n\n1x 0.000\n\nRr0. 000\n\nFre ice grentea\n\nxx 0TAL\n\n#36. 000\n\nRe51.000\n\nCHANGE\n\n#15.000\n\nheel T EE\n\nLh Ee Xl\n",
+    "words": [
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "1",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "146",
+        "top": "49",
+        "width": "106",
+        "height": "61",
+        "conf": "16.994133",
+        "text": "\u2122"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "1",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "2",
+        "left": "307",
+        "top": "81",
+        "width": "127",
+        "height": "30",
+        "conf": "28.533386",
+        "text": "STORE"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "2",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "145",
+        "top": "127",
+        "width": "67",
+        "height": "32",
+        "conf": "20.711517",
+        "text": "ww"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "3",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "265",
+        "top": "139",
+        "width": "4",
+        "height": "13",
+        "conf": "55.914513",
+        "text": "!"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "4",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "315",
+        "top": "135",
+        "width": "108",
+        "height": "23",
+        "conf": "27.350723",
+        "text": "moa"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "5",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "518",
+        "top": "127",
+        "width": "34",
+        "height": "25",
+        "conf": "9.758484",
+        "text": "i\u00bb"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "6",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "183",
+        "top": "181",
+        "width": "56",
+        "height": "30",
+        "conf": "46.730766",
+        "text": "LEE"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "6",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "2",
+        "left": "295",
+        "top": "181",
+        "width": "216",
+        "height": "31",
+        "conf": "29.982651",
+        "text": "LE"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "7",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "103",
+        "top": "286",
+        "width": "84",
+        "height": "30",
+        "conf": "33.946999",
+        "text": "ul"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "7",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "2",
+        "left": "202",
+        "top": "288",
+        "width": "35",
+        "height": "24",
+        "conf": "30.100410",
+        "text": "OBE"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "8",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "310",
+        "top": "289",
+        "width": "167",
+        "height": "28",
+        "conf": "24.045303",
+        "text": "FH"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "8",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "2",
+        "left": "439",
+        "top": "284",
+        "width": "42",
+        "height": "42",
+        "conf": "26.418213",
+        "text": "CE"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "9",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "566",
+        "top": "286",
+        "width": "74",
+        "height": "25",
+        "conf": "64.434830",
+        "text": "en"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "10",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "102",
+        "top": "339",
+        "width": "26",
+        "height": "27",
+        "conf": "38.402943",
+        "text": "8"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "10",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "2",
+        "left": "170",
+        "top": "339",
+        "width": "116",
+        "height": "29",
+        "conf": "26.450577",
+        "text": "bie"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "11",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "578",
+        "top": "338",
+        "width": "114",
+        "height": "30",
+        "conf": "0.000000",
+        "text": "EI"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "12",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "96",
+        "top": "489",
+        "width": "35",
+        "height": "42",
+        "conf": "86.479927",
+        "text": "1x"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "12",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "2",
+        "left": "154",
+        "top": "490",
+        "width": "118",
+        "height": "41",
+        "conf": "86.479927",
+        "text": "36.000"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "13",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "479",
+        "top": "460",
+        "width": "50",
+        "height": "71",
+        "conf": "41.813179",
+        "text": "\u00bb"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "13",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "2",
+        "left": "536",
+        "top": "494",
+        "width": "118",
+        "height": "40",
+        "conf": "81.192139",
+        "text": "36.000"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "14",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "90",
+        "top": "541",
+        "width": "115",
+        "height": "41",
+        "conf": "91.872650",
+        "text": "Kimchi"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "14",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "2",
+        "left": "232",
+        "top": "552",
+        "width": "18",
+        "height": "31",
+        "conf": "91.872650",
+        "text": "p"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "15",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "91",
+        "top": "593",
+        "width": "36",
+        "height": "42",
+        "conf": "88.502106",
+        "text": "1x"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "15",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "2",
+        "left": "149",
+        "top": "593",
+        "width": "99",
+        "height": "41",
+        "conf": "88.502106",
+        "text": "0.000"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "16",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "514",
+        "top": "597",
+        "width": "71",
+        "height": "40",
+        "conf": "25.794098",
+        "text": "Rr0."
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "16",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "2",
+        "left": "596",
+        "top": "598",
+        "width": "60",
+        "height": "40",
+        "conf": "96.283768",
+        "text": "000"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "17",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "86",
+        "top": "644",
+        "width": "60",
+        "height": "44",
+        "conf": "96.911522",
+        "text": "Fre"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "17",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "2",
+        "left": "171",
+        "top": "645",
+        "width": "55",
+        "height": "39",
+        "conf": "93.292206",
+        "text": "ice"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "17",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "3",
+        "left": "249",
+        "top": "651",
+        "width": "140",
+        "height": "37",
+        "conf": "92.424896",
+        "text": "grentea"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "18",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "82",
+        "top": "762",
+        "width": "69",
+        "height": "40",
+        "conf": "9.278336",
+        "text": "xx"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "18",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "2",
+        "left": "165",
+        "top": "762",
+        "width": "76",
+        "height": "42",
+        "conf": "18.068245",
+        "text": "0TAL"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "19",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "322",
+        "top": "764",
+        "width": "188",
+        "height": "42",
+        "conf": "23.791931",
+        "text": "#36."
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "19",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "2",
+        "left": "535",
+        "top": "766",
+        "width": "122",
+        "height": "44",
+        "conf": "71.973068",
+        "text": "000"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "20",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "492",
+        "top": "821",
+        "width": "171",
+        "height": "46",
+        "conf": "44.698368",
+        "text": "Re51.000"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "21",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "81",
+        "top": "866",
+        "width": "119",
+        "height": "47",
+        "conf": "96.914131",
+        "text": "CHANGE"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "22",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "492",
+        "top": "876",
+        "width": "172",
+        "height": "46",
+        "conf": "0.000000",
+        "text": "#15.000"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "23",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "164",
+        "top": "1097",
+        "width": "413",
+        "height": "45",
+        "conf": "0.000000",
+        "text": "heel"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "23",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "2",
+        "left": "447",
+        "top": "1093",
+        "width": "40",
+        "height": "53",
+        "conf": "0.000000",
+        "text": "T"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "23",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "3",
+        "left": "508",
+        "top": "1093",
+        "width": "72",
+        "height": "53",
+        "conf": "0.000000",
+        "text": "EE"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "24",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "203",
+        "top": "1160",
+        "width": "102",
+        "height": "29",
+        "conf": "0.000000",
+        "text": "Lh"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "24",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "2",
+        "left": "363",
+        "top": "1165",
+        "width": "97",
+        "height": "29",
+        "conf": "23.299057",
+        "text": "Ee"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "24",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "3",
+        "left": "490",
+        "top": "1156",
+        "width": "86",
+        "height": "46",
+        "conf": "0.000000",
+        "text": "Xl"
+      }
+    ],
+    "image_sha256": "ed07296f13da6a19528a3935afd701a59a64401ccc105c1f5160719eb4f683eb",
+    "text_sha256": "c937be530de9f39a210154ab5e9643c316b51f90a18efaace49bb15f8767710a",
+    "line_groups": {
+      "1:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "1",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "146",
+          "top": "49",
+          "width": "106",
+          "height": "61",
+          "conf": "16.994133",
+          "text": "\u2122"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "1",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "2",
+          "left": "307",
+          "top": "81",
+          "width": "127",
+          "height": "30",
+          "conf": "28.533386",
+          "text": "STORE"
+        }
+      ],
+      "2:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "2",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "145",
+          "top": "127",
+          "width": "67",
+          "height": "32",
+          "conf": "20.711517",
+          "text": "ww"
+        }
+      ],
+      "3:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "3",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "265",
+          "top": "139",
+          "width": "4",
+          "height": "13",
+          "conf": "55.914513",
+          "text": "!"
+        }
+      ],
+      "4:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "4",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "315",
+          "top": "135",
+          "width": "108",
+          "height": "23",
+          "conf": "27.350723",
+          "text": "moa"
+        }
+      ],
+      "5:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "5",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "518",
+          "top": "127",
+          "width": "34",
+          "height": "25",
+          "conf": "9.758484",
+          "text": "i\u00bb"
+        }
+      ],
+      "6:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "6",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "183",
+          "top": "181",
+          "width": "56",
+          "height": "30",
+          "conf": "46.730766",
+          "text": "LEE"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "6",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "2",
+          "left": "295",
+          "top": "181",
+          "width": "216",
+          "height": "31",
+          "conf": "29.982651",
+          "text": "LE"
+        }
+      ],
+      "7:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "7",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "103",
+          "top": "286",
+          "width": "84",
+          "height": "30",
+          "conf": "33.946999",
+          "text": "ul"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "7",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "2",
+          "left": "202",
+          "top": "288",
+          "width": "35",
+          "height": "24",
+          "conf": "30.100410",
+          "text": "OBE"
+        }
+      ],
+      "8:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "8",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "310",
+          "top": "289",
+          "width": "167",
+          "height": "28",
+          "conf": "24.045303",
+          "text": "FH"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "8",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "2",
+          "left": "439",
+          "top": "284",
+          "width": "42",
+          "height": "42",
+          "conf": "26.418213",
+          "text": "CE"
+        }
+      ],
+      "9:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "9",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "566",
+          "top": "286",
+          "width": "74",
+          "height": "25",
+          "conf": "64.434830",
+          "text": "en"
+        }
+      ],
+      "10:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "10",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "102",
+          "top": "339",
+          "width": "26",
+          "height": "27",
+          "conf": "38.402943",
+          "text": "8"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "10",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "2",
+          "left": "170",
+          "top": "339",
+          "width": "116",
+          "height": "29",
+          "conf": "26.450577",
+          "text": "bie"
+        }
+      ],
+      "11:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "11",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "578",
+          "top": "338",
+          "width": "114",
+          "height": "30",
+          "conf": "0.000000",
+          "text": "EI"
+        }
+      ],
+      "12:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "12",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "96",
+          "top": "489",
+          "width": "35",
+          "height": "42",
+          "conf": "86.479927",
+          "text": "1x"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "12",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "2",
+          "left": "154",
+          "top": "490",
+          "width": "118",
+          "height": "41",
+          "conf": "86.479927",
+          "text": "36.000"
+        }
+      ],
+      "13:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "13",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "479",
+          "top": "460",
+          "width": "50",
+          "height": "71",
+          "conf": "41.813179",
+          "text": "\u00bb"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "13",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "2",
+          "left": "536",
+          "top": "494",
+          "width": "118",
+          "height": "40",
+          "conf": "81.192139",
+          "text": "36.000"
+        }
+      ],
+      "14:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "14",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "90",
+          "top": "541",
+          "width": "115",
+          "height": "41",
+          "conf": "91.872650",
+          "text": "Kimchi"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "14",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "2",
+          "left": "232",
+          "top": "552",
+          "width": "18",
+          "height": "31",
+          "conf": "91.872650",
+          "text": "p"
+        }
+      ],
+      "15:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "15",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "91",
+          "top": "593",
+          "width": "36",
+          "height": "42",
+          "conf": "88.502106",
+          "text": "1x"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "15",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "2",
+          "left": "149",
+          "top": "593",
+          "width": "99",
+          "height": "41",
+          "conf": "88.502106",
+          "text": "0.000"
+        }
+      ],
+      "16:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "16",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "514",
+          "top": "597",
+          "width": "71",
+          "height": "40",
+          "conf": "25.794098",
+          "text": "Rr0."
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "16",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "2",
+          "left": "596",
+          "top": "598",
+          "width": "60",
+          "height": "40",
+          "conf": "96.283768",
+          "text": "000"
+        }
+      ],
+      "17:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "17",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "86",
+          "top": "644",
+          "width": "60",
+          "height": "44",
+          "conf": "96.911522",
+          "text": "Fre"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "17",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "2",
+          "left": "171",
+          "top": "645",
+          "width": "55",
+          "height": "39",
+          "conf": "93.292206",
+          "text": "ice"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "17",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "3",
+          "left": "249",
+          "top": "651",
+          "width": "140",
+          "height": "37",
+          "conf": "92.424896",
+          "text": "grentea"
+        }
+      ],
+      "18:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "18",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "82",
+          "top": "762",
+          "width": "69",
+          "height": "40",
+          "conf": "9.278336",
+          "text": "xx"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "18",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "2",
+          "left": "165",
+          "top": "762",
+          "width": "76",
+          "height": "42",
+          "conf": "18.068245",
+          "text": "0TAL"
+        }
+      ],
+      "19:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "19",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "322",
+          "top": "764",
+          "width": "188",
+          "height": "42",
+          "conf": "23.791931",
+          "text": "#36."
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "19",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "2",
+          "left": "535",
+          "top": "766",
+          "width": "122",
+          "height": "44",
+          "conf": "71.973068",
+          "text": "000"
+        }
+      ],
+      "20:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "20",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "492",
+          "top": "821",
+          "width": "171",
+          "height": "46",
+          "conf": "44.698368",
+          "text": "Re51.000"
+        }
+      ],
+      "21:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "21",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "81",
+          "top": "866",
+          "width": "119",
+          "height": "47",
+          "conf": "96.914131",
+          "text": "CHANGE"
+        }
+      ],
+      "22:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "22",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "492",
+          "top": "876",
+          "width": "172",
+          "height": "46",
+          "conf": "0.000000",
+          "text": "#15.000"
+        }
+      ],
+      "23:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "23",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "164",
+          "top": "1097",
+          "width": "413",
+          "height": "45",
+          "conf": "0.000000",
+          "text": "heel"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "23",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "2",
+          "left": "447",
+          "top": "1093",
+          "width": "40",
+          "height": "53",
+          "conf": "0.000000",
+          "text": "T"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "23",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "3",
+          "left": "508",
+          "top": "1093",
+          "width": "72",
+          "height": "53",
+          "conf": "0.000000",
+          "text": "EE"
+        }
+      ],
+      "24:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "24",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "203",
+          "top": "1160",
+          "width": "102",
+          "height": "29",
+          "conf": "0.000000",
+          "text": "Lh"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "24",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "2",
+          "left": "363",
+          "top": "1165",
+          "width": "97",
+          "height": "29",
+          "conf": "23.299057",
+          "text": "Ee"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "24",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "3",
+          "left": "490",
+          "top": "1156",
+          "width": "86",
+          "height": "46",
+          "conf": "0.000000",
+          "text": "Xl"
+        }
+      ]
+    },
+    "limitation": "Tesseract line grouping does not establish table cells or row roles."
+  }
+}

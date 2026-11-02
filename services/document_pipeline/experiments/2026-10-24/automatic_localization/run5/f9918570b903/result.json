@@ -1,0 +1,2717 @@
+{
+  "source": "E:\\.shortcut-targets-by-id\\1yOBXNuSORBcOSWDhEg-YF1MEWIDvc8J2\\Capstone- Inventory Management System\\services\\document_classifier\\data\\images\\f9918570b903.jpg",
+  "source_sha256": "bc4e1f5f2758199a5b77f34cba6bedf0a71d78335a9eb2c0a8a6d0e8af7cc60c",
+  "human_verified": false,
+  "module_sha256": "36545e9e899932a2106f06251a322fe89ba511d844b5d5b65e4a209059fa26e3",
+  "candidates": [
+    {
+      "method": "axis_grid",
+      "layout": {
+        "version": "ruled-layout-v1",
+        "source_size": [
+          1350,
+          1800
+        ],
+        "working_size": [
+          1050,
+          1400
+        ],
+        "scale": 0.7777777777777778,
+        "rotation_degrees": 0,
+        "rotation_scores": [],
+        "coordinate_system": "EXIF-oriented source scaled by scale, then rotated about image center; inverse affine provided",
+        "inverse_affine": [
+          [
+            1.2857142857142856,
+            -0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.2857142857142856,
+            0.0
+          ]
+        ],
+        "tables": [
+          {
+            "box": [
+              106,
+              549,
+              991,
+              1051
+            ],
+            "horizontal_rules": [
+              561,
+              644,
+              721,
+              798,
+              877,
+              957,
+              1039
+            ],
+            "vertical_rules": [
+              115,
+              242,
+              798,
+              978
+            ],
+            "rows": [
+              [
+                [
+                  123,
+                  571,
+                  234,
+                  634
+                ],
+                [
+                  257,
+                  571,
+                  783,
+                  634
+                ],
+                [
+                  806,
+                  571,
+                  970,
+                  634
+                ]
+              ],
+              [
+                [
+                  123,
+                  654,
+                  234,
+                  711
+                ],
+                [
+                  257,
+                  654,
+                  783,
+                  711
+                ],
+                [
+                  806,
+                  654,
+                  970,
+                  711
+                ]
+              ],
+              [
+                [
+                  123,
+                  731,
+                  234,
+                  788
+                ],
+                [
+                  257,
+                  731,
+                  783,
+                  788
+                ],
+                [
+                  806,
+                  731,
+                  970,
+                  788
+                ]
+              ],
+              [
+                [
+                  123,
+                  808,
+                  234,
+                  867
+                ],
+                [
+                  257,
+                  808,
+                  783,
+                  867
+                ],
+                [
+                  806,
+                  808,
+                  970,
+                  867
+                ]
+              ],
+              [
+                [
+                  123,
+                  887,
+                  234,
+                  947
+                ],
+                [
+                  257,
+                  887,
+                  783,
+                  947
+                ],
+                [
+                  806,
+                  887,
+                  970,
+                  947
+                ]
+              ],
+              [
+                [
+                  123,
+                  967,
+                  234,
+                  1029
+                ],
+                [
+                  257,
+                  967,
+                  783,
+                  1029
+                ],
+                [
+                  806,
+                  967,
+                  970,
+                  1029
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "mapping": [
+        {
+          "table": 0,
+          "row": 0,
+          "column": 0,
+          "working_box": [
+            123,
+            571,
+            234,
+            634
+          ],
+          "montage_box": [
+            35,
+            35,
+            146,
+            98
+          ]
+        },
+        {
+          "table": 0,
+          "row": 0,
+          "column": 1,
+          "working_box": [
+            257,
+            571,
+            783,
+            634
+          ],
+          "montage_box": [
+            181,
+            35,
+            707,
+            98
+          ]
+        },
+        {
+          "table": 0,
+          "row": 0,
+          "column": 2,
+          "working_box": [
+            806,
+            571,
+            970,
+            634
+          ],
+          "montage_box": [
+            742,
+            35,
+            906,
+            98
+          ]
+        },
+        {
+          "table": 0,
+          "row": 1,
+          "column": 0,
+          "working_box": [
+            123,
+            654,
+            234,
+            711
+          ],
+          "montage_box": [
+            35,
+            153,
+            146,
+            210
+          ]
+        },
+        {
+          "table": 0,
+          "row": 1,
+          "column": 1,
+          "working_box": [
+            257,
+            654,
+            783,
+            711
+          ],
+          "montage_box": [
+            181,
+            153,
+            707,
+            210
+          ]
+        },
+        {
+          "table": 0,
+          "row": 1,
+          "column": 2,
+          "working_box": [
+            806,
+            654,
+            970,
+            711
+          ],
+          "montage_box": [
+            742,
+            153,
+            906,
+            210
+          ]
+        },
+        {
+          "table": 0,
+          "row": 2,
+          "column": 0,
+          "working_box": [
+            123,
+            731,
+            234,
+            788
+          ],
+          "montage_box": [
+            35,
+            265,
+            146,
+            322
+          ]
+        },
+        {
+          "table": 0,
+          "row": 2,
+          "column": 1,
+          "working_box": [
+            257,
+            731,
+            783,
+            788
+          ],
+          "montage_box": [
+            181,
+            265,
+            707,
+            322
+          ]
+        },
+        {
+          "table": 0,
+          "row": 2,
+          "column": 2,
+          "working_box": [
+            806,
+            731,
+            970,
+            788
+          ],
+          "montage_box": [
+            742,
+            265,
+            906,
+            322
+          ]
+        },
+        {
+          "table": 0,
+          "row": 3,
+          "column": 0,
+          "working_box": [
+            123,
+            808,
+            234,
+            867
+          ],
+          "montage_box": [
+            35,
+            377,
+            146,
+            436
+          ]
+        },
+        {
+          "table": 0,
+          "row": 3,
+          "column": 1,
+          "working_box": [
+            257,
+            808,
+            783,
+            867
+          ],
+          "montage_box": [
+            181,
+            377,
+            707,
+            436
+          ]
+        },
+        {
+          "table": 0,
+          "row": 3,
+          "column": 2,
+          "working_box": [
+            806,
+            808,
+            970,
+            867
+          ],
+          "montage_box": [
+            742,
+            377,
+            906,
+            436
+          ]
+        },
+        {
+          "table": 0,
+          "row": 4,
+          "column": 0,
+          "working_box": [
+            123,
+            887,
+            234,
+            947
+          ],
+          "montage_box": [
+            35,
+            491,
+            146,
+            551
+          ]
+        },
+        {
+          "table": 0,
+          "row": 4,
+          "column": 1,
+          "working_box": [
+            257,
+            887,
+            783,
+            947
+          ],
+          "montage_box": [
+            181,
+            491,
+            707,
+            551
+          ]
+        },
+        {
+          "table": 0,
+          "row": 4,
+          "column": 2,
+          "working_box": [
+            806,
+            887,
+            970,
+            947
+          ],
+          "montage_box": [
+            742,
+            491,
+            906,
+            551
+          ]
+        },
+        {
+          "table": 0,
+          "row": 5,
+          "column": 0,
+          "working_box": [
+            123,
+            967,
+            234,
+            1029
+          ],
+          "montage_box": [
+            35,
+            606,
+            146,
+            668
+          ]
+        },
+        {
+          "table": 0,
+          "row": 5,
+          "column": 1,
+          "working_box": [
+            257,
+            967,
+            783,
+            1029
+          ],
+          "montage_box": [
+            181,
+            606,
+            707,
+            668
+          ]
+        },
+        {
+          "table": 0,
+          "row": 5,
+          "column": 2,
+          "working_box": [
+            806,
+            967,
+            970,
+            1029
+          ],
+          "montage_box": [
+            742,
+            606,
+            906,
+            668
+          ]
+        }
+      ],
+      "ocr": {
+        "command": [
+          "C:\\Users\\Windows 11\\scoop\\shims\\tesseract.EXE",
+          "E:\\.shortcut-targets-by-id\\1yOBXNuSORBcOSWDhEg-YF1MEWIDvc8J2\\Capstone- Inventory Management System\\services\\document_pipeline\\experiments\\2026-10-24\\automatic_localization\\run5\\f9918570b903\\axis_grid.png",
+          "E:\\.shortcut-targets-by-id\\1yOBXNuSORBcOSWDhEg-YF1MEWIDvc8J2\\Capstone- Inventory Management System\\services\\document_pipeline\\experiments\\2026-10-24\\automatic_localization\\run5\\f9918570b903\\axis_grid",
+          "--tessdata-dir",
+          "E:\\.shortcut-targets-by-id\\1yOBXNuSORBcOSWDhEg-YF1MEWIDvc8J2\\Capstone- Inventory Management System\\classifier\\engine\\.cache\\tessdata",
+          "-l",
+          "eng",
+          "--psm",
+          "6",
+          "-c",
+          "tessedit_create_txt=1",
+          "-c",
+          "tessedit_create_tsv=1"
+        ],
+        "returncode": 0,
+        "seconds": 1.0252,
+        "stderr": "",
+        "ocr_text": "Si Item Description Qty.\n1 Mustard Oil 1L 6\n2 Milk Powder 500g 20\n3 Detergent 500g 12\n4 Onion 1kg 12\n5 Salt 1kg 2\n",
+        "words": [
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "1",
+            "word_num": "1",
+            "left": "154",
+            "top": "90",
+            "width": "66",
+            "height": "85",
+            "conf": "68.449997",
+            "text": "Si"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "1",
+            "word_num": "2",
+            "left": "639",
+            "top": "103",
+            "width": "141",
+            "height": "56",
+            "conf": "56.673676",
+            "text": "Item"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "1",
+            "word_num": "3",
+            "left": "800",
+            "top": "104",
+            "width": "354",
+            "height": "71",
+            "conf": "96.370224",
+            "text": "Description"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "1",
+            "word_num": "4",
+            "left": "1574",
+            "top": "103",
+            "width": "132",
+            "height": "70",
+            "conf": "96.939140",
+            "text": "Qty."
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "2",
+            "word_num": "1",
+            "left": "169",
+            "top": "335",
+            "width": "33",
+            "height": "55",
+            "conf": "95.909523",
+            "text": "1"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "2",
+            "word_num": "2",
+            "left": "391",
+            "top": "334",
+            "width": "262",
+            "height": "58",
+            "conf": "95.904884",
+            "text": "Mustard"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "2",
+            "word_num": "3",
+            "left": "675",
+            "top": "335",
+            "width": "83",
+            "height": "57",
+            "conf": "92.883820",
+            "text": "Oil"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "2",
+            "word_num": "4",
+            "left": "782",
+            "top": "338",
+            "width": "68",
+            "height": "55",
+            "conf": "85.699944",
+            "text": "1L"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "2",
+            "word_num": "5",
+            "left": "1625",
+            "top": "339",
+            "width": "39",
+            "height": "55",
+            "conf": "96.782501",
+            "text": "6"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "3",
+            "word_num": "1",
+            "left": "165",
+            "top": "559",
+            "width": "37",
+            "height": "58",
+            "conf": "96.945015",
+            "text": "2"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "3",
+            "word_num": "2",
+            "left": "389",
+            "top": "556",
+            "width": "133",
+            "height": "59",
+            "conf": "96.069054",
+            "text": "Milk"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "3",
+            "word_num": "3",
+            "left": "546",
+            "top": "557",
+            "width": "237",
+            "height": "57",
+            "conf": "96.729111",
+            "text": "Powder"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "3",
+            "word_num": "4",
+            "left": "804",
+            "top": "560",
+            "width": "153",
+            "height": "69",
+            "conf": "96.654114",
+            "text": "500g"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "3",
+            "word_num": "5",
+            "left": "1609",
+            "top": "563",
+            "width": "77",
+            "height": "56",
+            "conf": "97.011971",
+            "text": "20"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "4",
+            "word_num": "1",
+            "left": "163",
+            "top": "787",
+            "width": "37",
+            "height": "59",
+            "conf": "96.982841",
+            "text": "3"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "4",
+            "word_num": "2",
+            "left": "382",
+            "top": "785",
+            "width": "325",
+            "height": "69",
+            "conf": "95.769180",
+            "text": "Detergent"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "4",
+            "word_num": "3",
+            "left": "729",
+            "top": "783",
+            "width": "154",
+            "height": "70",
+            "conf": "94.372894",
+            "text": "500g"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "4",
+            "word_num": "4",
+            "left": "1615",
+            "top": "789",
+            "width": "73",
+            "height": "57",
+            "conf": "96.720306",
+            "text": "12"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "5",
+            "word_num": "1",
+            "left": "157",
+            "top": "1021",
+            "width": "40",
+            "height": "56",
+            "conf": "95.902771",
+            "text": "4"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "5",
+            "word_num": "2",
+            "left": "381",
+            "top": "1015",
+            "width": "191",
+            "height": "60",
+            "conf": "93.272865",
+            "text": "Onion"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "5",
+            "word_num": "3",
+            "left": "596",
+            "top": "1012",
+            "width": "109",
+            "height": "74",
+            "conf": "92.929085",
+            "text": "1kg"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "5",
+            "word_num": "4",
+            "left": "1618",
+            "top": "1021",
+            "width": "73",
+            "height": "56",
+            "conf": "96.888176",
+            "text": "12"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "6",
+            "word_num": "1",
+            "left": "158",
+            "top": "1252",
+            "width": "38",
+            "height": "58",
+            "conf": "96.816460",
+            "text": "5"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "6",
+            "word_num": "2",
+            "left": "379",
+            "top": "1246",
+            "width": "124",
+            "height": "62",
+            "conf": "93.247604",
+            "text": "Salt"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "6",
+            "word_num": "3",
+            "left": "527",
+            "top": "1245",
+            "width": "110",
+            "height": "74",
+            "conf": "92.573967",
+            "text": "1kg"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "6",
+            "word_num": "4",
+            "left": "1639",
+            "top": "1251",
+            "width": "37",
+            "height": "57",
+            "conf": "96.857124",
+            "text": "2"
+          }
+        ],
+        "image_sha256": "a89474393a5b6d69302ba657ce7a2f480e91d86d933396bc57ce971941877995",
+        "text_sha256": "1af7abbfa162966072f4c95d8def145c0dac40014c0d6ffc1433dc239e96d609"
+      },
+      "mapping_scale_to_ocr": 2
+    },
+    {
+      "method": "deskew_grid",
+      "layout": {
+        "version": "ruled-layout-v1",
+        "source_size": [
+          1350,
+          1800
+        ],
+        "working_size": [
+          1050,
+          1400
+        ],
+        "scale": 0.7777777777777778,
+        "rotation_degrees": 0.0,
+        "rotation_scores": [
+          [
+            -4.0,
+            14937
+          ],
+          [
+            -3.5,
+            26067
+          ],
+          [
+            -3.0,
+            33868
+          ],
+          [
+            -2.5,
+            34820
+          ],
+          [
+            -2.0,
+            37480
+          ],
+          [
+            -1.5,
+            38356
+          ],
+          [
+            -1.0,
+            38793
+          ],
+          [
+            -0.5,
+            39063
+          ],
+          [
+            0.0,
+            39932
+          ],
+          [
+            0.5,
+            38184
+          ],
+          [
+            1.0,
+            37521
+          ],
+          [
+            1.5,
+            37534
+          ],
+          [
+            2.0,
+            38062
+          ],
+          [
+            2.5,
+            37671
+          ],
+          [
+            3.0,
+            36610
+          ],
+          [
+            3.5,
+            31066
+          ],
+          [
+            4.0,
+            20722
+          ]
+        ],
+        "coordinate_system": "EXIF-oriented source scaled by scale, then rotated about image center; inverse affine provided",
+        "inverse_affine": [
+          [
+            1.2857142857142856,
+            -0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.2857142857142856,
+            0.0
+          ]
+        ],
+        "tables": [
+          {
+            "box": [
+              106,
+              549,
+              991,
+              1051
+            ],
+            "horizontal_rules": [
+              561,
+              644,
+              721,
+              798,
+              877,
+              957,
+              1039
+            ],
+            "vertical_rules": [
+              115,
+              242,
+              798,
+              978
+            ],
+            "rows": [
+              [
+                [
+                  123,
+                  571,
+                  234,
+                  634
+                ],
+                [
+                  257,
+                  571,
+                  783,
+                  634
+                ],
+                [
+                  806,
+                  571,
+                  970,
+                  634
+                ]
+              ],
+              [
+                [
+                  123,
+                  654,
+                  234,
+                  711
+                ],
+                [
+                  257,
+                  654,
+                  783,
+                  711
+                ],
+                [
+                  806,
+                  654,
+                  970,
+                  711
+                ]
+              ],
+              [
+                [
+                  123,
+                  731,
+                  234,
+                  788
+                ],
+                [
+                  257,
+                  731,
+                  783,
+                  788
+                ],
+                [
+                  806,
+                  731,
+                  970,
+                  788
+                ]
+              ],
+              [
+                [
+                  123,
+                  808,
+                  234,
+                  867
+                ],
+                [
+                  257,
+                  808,
+                  783,
+                  867
+                ],
+                [
+                  806,
+                  808,
+                  970,
+                  867
+                ]
+              ],
+              [
+                [
+                  123,
+                  887,
+                  234,
+                  947
+                ],
+                [
+                  257,
+                  887,
+                  783,
+                  947
+                ],
+                [
+                  806,
+                  887,
+                  970,
+                  947
+                ]
+              ],
+              [
+                [
+                  123,
+                  967,
+                  234,
+                  1029
+                ],
+                [
+                  257,
+                  967,
+                  783,
+                  1029
+                ],
+                [
+                  806,
+                  967,
+                  970,
+                  1029
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "mapping": [
+        {
+          "table": 0,
+          "row": 0,
+          "column": 0,
+          "working_box": [
+            123,
+            571,
+            234,
+            634
+          ],
+          "montage_box": [
+            35,
+            35,
+            146,
+            98
+          ]
+        },
+        {
+          "table": 0,
+          "row": 0,
+          "column": 1,
+          "working_box": [
+            257,
+            571,
+            783,
+            634
+          ],
+          "montage_box": [
+            181,
+            35,
+            707,
+            98
+          ]
+        },
+        {
+          "table": 0,
+          "row": 0,
+          "column": 2,
+          "working_box": [
+            806,
+            571,
+            970,
+            634
+          ],
+          "montage_box": [
+            742,
+            35,
+            906,
+            98
+          ]
+        },
+        {
+          "table": 0,
+          "row": 1,
+          "column": 0,
+          "working_box": [
+            123,
+            654,
+            234,
+            711
+          ],
+          "montage_box": [
+            35,
+            153,
+            146,
+            210
+          ]
+        },
+        {
+          "table": 0,
+          "row": 1,
+          "column": 1,
+          "working_box": [
+            257,
+            654,
+            783,
+            711
+          ],
+          "montage_box": [
+            181,
+            153,
+            707,
+            210
+          ]
+        },
+        {
+          "table": 0,
+          "row": 1,
+          "column": 2,
+          "working_box": [
+            806,
+            654,
+            970,
+            711
+          ],
+          "montage_box": [
+            742,
+            153,
+            906,
+            210
+          ]
+        },
+        {
+          "table": 0,
+          "row": 2,
+          "column": 0,
+          "working_box": [
+            123,
+            731,
+            234,
+            788
+          ],
+          "montage_box": [
+            35,
+            265,
+            146,
+            322
+          ]
+        },
+        {
+          "table": 0,
+          "row": 2,
+          "column": 1,
+          "working_box": [
+            257,
+            731,
+            783,
+            788
+          ],
+          "montage_box": [
+            181,
+            265,
+            707,
+            322
+          ]
+        },
+        {
+          "table": 0,
+          "row": 2,
+          "column": 2,
+          "working_box": [
+            806,
+            731,
+            970,
+            788
+          ],
+          "montage_box": [
+            742,
+            265,
+            906,
+            322
+          ]
+        },
+        {
+          "table": 0,
+          "row": 3,
+          "column": 0,
+          "working_box": [
+            123,
+            808,
+            234,
+            867
+          ],
+          "montage_box": [
+            35,
+            377,
+            146,
+            436
+          ]
+        },
+        {
+          "table": 0,
+          "row": 3,
+          "column": 1,
+          "working_box": [
+            257,
+            808,
+            783,
+            867
+          ],
+          "montage_box": [
+            181,
+            377,
+            707,
+            436
+          ]
+        },
+        {
+          "table": 0,
+          "row": 3,
+          "column": 2,
+          "working_box": [
+            806,
+            808,
+            970,
+            867
+          ],
+          "montage_box": [
+            742,
+            377,
+            906,
+            436
+          ]
+        },
+        {
+          "table": 0,
+          "row": 4,
+          "column": 0,
+          "working_box": [
+            123,
+            887,
+            234,
+            947
+          ],
+          "montage_box": [
+            35,
+            491,
+            146,
+            551
+          ]
+        },
+        {
+          "table": 0,
+          "row": 4,
+          "column": 1,
+          "working_box": [
+            257,
+            887,
+            783,
+            947
+          ],
+          "montage_box": [
+            181,
+            491,
+            707,
+            551
+          ]
+        },
+        {
+          "table": 0,
+          "row": 4,
+          "column": 2,
+          "working_box": [
+            806,
+            887,
+            970,
+            947
+          ],
+          "montage_box": [
+            742,
+            491,
+            906,
+            551
+          ]
+        },
+        {
+          "table": 0,
+          "row": 5,
+          "column": 0,
+          "working_box": [
+            123,
+            967,
+            234,
+            1029
+          ],
+          "montage_box": [
+            35,
+            606,
+            146,
+            668
+          ]
+        },
+        {
+          "table": 0,
+          "row": 5,
+          "column": 1,
+          "working_box": [
+            257,
+            967,
+            783,
+            1029
+          ],
+          "montage_box": [
+            181,
+            606,
+            707,
+            668
+          ]
+        },
+        {
+          "table": 0,
+          "row": 5,
+          "column": 2,
+          "working_box": [
+            806,
+            967,
+            970,
+            1029
+          ],
+          "montage_box": [
+            742,
+            606,
+            906,
+            668
+          ]
+        }
+      ],
+      "ocr": {
+        "command": [
+          "C:\\Users\\Windows 11\\scoop\\shims\\tesseract.EXE",
+          "E:\\.shortcut-targets-by-id\\1yOBXNuSORBcOSWDhEg-YF1MEWIDvc8J2\\Capstone- Inventory Management System\\services\\document_pipeline\\experiments\\2026-10-24\\automatic_localization\\run5\\f9918570b903\\deskew_grid.png",
+          "E:\\.shortcut-targets-by-id\\1yOBXNuSORBcOSWDhEg-YF1MEWIDvc8J2\\Capstone- Inventory Management System\\services\\document_pipeline\\experiments\\2026-10-24\\automatic_localization\\run5\\f9918570b903\\deskew_grid",
+          "--tessdata-dir",
+          "E:\\.shortcut-targets-by-id\\1yOBXNuSORBcOSWDhEg-YF1MEWIDvc8J2\\Capstone- Inventory Management System\\classifier\\engine\\.cache\\tessdata",
+          "-l",
+          "eng",
+          "--psm",
+          "6",
+          "-c",
+          "tessedit_create_txt=1",
+          "-c",
+          "tessedit_create_tsv=1"
+        ],
+        "returncode": 0,
+        "seconds": 0.7771,
+        "stderr": "",
+        "ocr_text": "Si Item Description Qty.\n1 Mustard Oil 1L 6\n2 Milk Powder 500g 20\n3 Detergent 500g 12\n4 Onion 1kg 12\n5 Salt 1kg 2\n",
+        "words": [
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "1",
+            "word_num": "1",
+            "left": "154",
+            "top": "90",
+            "width": "66",
+            "height": "85",
+            "conf": "68.449997",
+            "text": "Si"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "1",
+            "word_num": "2",
+            "left": "639",
+            "top": "103",
+            "width": "141",
+            "height": "56",
+            "conf": "56.673676",
+            "text": "Item"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "1",
+            "word_num": "3",
+            "left": "800",
+            "top": "104",
+            "width": "354",
+            "height": "71",
+            "conf": "96.370224",
+            "text": "Description"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "1",
+            "word_num": "4",
+            "left": "1574",
+            "top": "103",
+            "width": "132",
+            "height": "70",
+            "conf": "96.939140",
+            "text": "Qty."
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "2",
+            "word_num": "1",
+            "left": "169",
+            "top": "335",
+            "width": "33",
+            "height": "55",
+            "conf": "95.909523",
+            "text": "1"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "2",
+            "word_num": "2",
+            "left": "391",
+            "top": "334",
+            "width": "262",
+            "height": "58",
+            "conf": "95.904884",
+            "text": "Mustard"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "2",
+            "word_num": "3",
+            "left": "675",
+            "top": "335",
+            "width": "83",
+            "height": "57",
+            "conf": "92.883820",
+            "text": "Oil"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "2",
+            "word_num": "4",
+            "left": "782",
+            "top": "338",
+            "width": "68",
+            "height": "55",
+            "conf": "85.699944",
+            "text": "1L"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "2",
+            "word_num": "5",
+            "left": "1625",
+            "top": "339",
+            "width": "39",
+            "height": "55",
+            "conf": "96.782501",
+            "text": "6"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "3",
+            "word_num": "1",
+            "left": "165",
+            "top": "559",
+            "width": "37",
+            "height": "58",
+            "conf": "96.945015",
+            "text": "2"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "3",
+            "word_num": "2",
+            "left": "389",
+            "top": "556",
+            "width": "133",
+            "height": "59",
+            "conf": "96.069054",
+            "text": "Milk"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "3",
+            "word_num": "3",
+            "left": "546",
+            "top": "557",
+            "width": "237",
+            "height": "57",
+            "conf": "96.729111",
+            "text": "Powder"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "3",
+            "word_num": "4",
+            "left": "804",
+            "top": "560",
+            "width": "153",
+            "height": "69",
+            "conf": "96.654114",
+            "text": "500g"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "3",
+            "word_num": "5",
+            "left": "1609",
+            "top": "563",
+            "width": "77",
+            "height": "56",
+            "conf": "97.011971",
+            "text": "20"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "4",
+            "word_num": "1",
+            "left": "163",
+            "top": "787",
+            "width": "37",
+            "height": "59",
+            "conf": "96.982841",
+            "text": "3"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "4",
+            "word_num": "2",
+            "left": "382",
+            "top": "785",
+            "width": "325",
+            "height": "69",
+            "conf": "95.769180",
+            "text": "Detergent"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "4",
+            "word_num": "3",
+            "left": "729",
+            "top": "783",
+            "width": "154",
+            "height": "70",
+            "conf": "94.372894",
+            "text": "500g"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "4",
+            "word_num": "4",
+            "left": "1615",
+            "top": "789",
+            "width": "73",
+            "height": "57",
+            "conf": "96.720306",
+            "text": "12"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "5",
+            "word_num": "1",
+            "left": "157",
+            "top": "1021",
+            "width": "40",
+            "height": "56",
+            "conf": "95.902771",
+            "text": "4"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "5",
+            "word_num": "2",
+            "left": "381",
+            "top": "1015",
+            "width": "191",
+            "height": "60",
+            "conf": "93.272865",
+            "text": "Onion"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "5",
+            "word_num": "3",
+            "left": "596",
+            "top": "1012",
+            "width": "109",
+            "height": "74",
+            "conf": "92.929085",
+            "text": "1kg"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "5",
+            "word_num": "4",
+            "left": "1618",
+            "top": "1021",
+            "width": "73",
+            "height": "56",
+            "conf": "96.888176",
+            "text": "12"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "6",
+            "word_num": "1",
+            "left": "158",
+            "top": "1252",
+            "width": "38",
+            "height": "58",
+            "conf": "96.816460",
+            "text": "5"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "6",
+            "word_num": "2",
+            "left": "379",
+            "top": "1246",
+            "width": "124",
+            "height": "62",
+            "conf": "93.247604",
+            "text": "Salt"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "6",
+            "word_num": "3",
+            "left": "527",
+            "top": "1245",
+            "width": "110",
+            "height": "74",
+            "conf": "92.573967",
+            "text": "1kg"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "6",
+            "word_num": "4",
+            "left": "1639",
+            "top": "1251",
+            "width": "37",
+            "height": "57",
+            "conf": "96.857124",
+            "text": "2"
+          }
+        ],
+        "image_sha256": "a89474393a5b6d69302ba657ce7a2f480e91d86d933396bc57ce971941877995",
+        "text_sha256": "1af7abbfa162966072f4c95d8def145c0dac40014c0d6ffc1433dc239e96d609"
+      },
+      "mapping_scale_to_ocr": 2
+    }
+  ],
+  "word_box_fallback": {
+    "command": [
+      "C:\\Users\\Windows 11\\scoop\\shims\\tesseract.EXE",
+      "E:\\.shortcut-targets-by-id\\1yOBXNuSORBcOSWDhEg-YF1MEWIDvc8J2\\Capstone- Inventory Management System\\services\\document_pipeline\\experiments\\2026-10-24\\automatic_localization\\run5\\f9918570b903\\word_boxes_psm11.png",
+      "E:\\.shortcut-targets-by-id\\1yOBXNuSORBcOSWDhEg-YF1MEWIDvc8J2\\Capstone- Inventory Management System\\services\\document_pipeline\\experiments\\2026-10-24\\automatic_localization\\run5\\f9918570b903\\word_boxes_psm11",
+      "--tessdata-dir",
+      "E:\\.shortcut-targets-by-id\\1yOBXNuSORBcOSWDhEg-YF1MEWIDvc8J2\\Capstone- Inventory Management System\\classifier\\engine\\.cache\\tessdata",
+      "-l",
+      "eng",
+      "--psm",
+      "11",
+      "-c",
+      "tessedit_create_txt=1",
+      "-c",
+      "tessedit_create_tsv=1"
+    ],
+    "returncode": 0,
+    "seconds": 1.8112,
+    "stderr": "Estimating resolution as 493\r\n",
+    "ocr_text": "Surma Food Supply\n\nChallan\n\nChallan No: DC-968.\n\nDate: 27/07/2026.\n\nFrom: Surma Food Supply.\n\nTo: Meghna Store, Savar, Dhaka.\n\nItem Description\n\n8 |\n\n[won | 6\n\na [wry | wm\n\n\"3 [owen [wn\n\nEN CE\n\nis Salt 1kg\n\nReceived By\n\nDelivered By\n\n- oo \u2014 o_o.\"\n",
+    "words": [
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "1",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "324",
+        "top": "60",
+        "width": "273",
+        "height": "85",
+        "conf": "91.558601",
+        "text": "Surma"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "1",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "2",
+        "left": "624",
+        "top": "68",
+        "width": "183",
+        "height": "81",
+        "conf": "96.597778",
+        "text": "Food"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "1",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "3",
+        "left": "831",
+        "top": "73",
+        "width": "259",
+        "height": "103",
+        "conf": "96.481422",
+        "text": "Supply"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "2",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "574",
+        "top": "260",
+        "width": "265",
+        "height": "62",
+        "conf": "90.510216",
+        "text": "Challan"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "3",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "197",
+        "top": "372",
+        "width": "156",
+        "height": "41",
+        "conf": "81.384010",
+        "text": "Challan"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "3",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "2",
+        "left": "367",
+        "top": "378",
+        "width": "69",
+        "height": "37",
+        "conf": "91.952347",
+        "text": "No:"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "3",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "3",
+        "left": "452",
+        "top": "379",
+        "width": "169",
+        "height": "39",
+        "conf": "91.952347",
+        "text": "DC-968."
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "4",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "196",
+        "top": "432",
+        "width": "112",
+        "height": "39",
+        "conf": "96.082634",
+        "text": "Date:"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "4",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "2",
+        "left": "330",
+        "top": "437",
+        "width": "248",
+        "height": "43",
+        "conf": "96.110901",
+        "text": "27/07/2026."
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "5",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "196",
+        "top": "538",
+        "width": "119",
+        "height": "40",
+        "conf": "93.300598",
+        "text": "From:"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "5",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "2",
+        "left": "336",
+        "top": "543",
+        "width": "134",
+        "height": "38",
+        "conf": "92.679977",
+        "text": "Surma"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "5",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "3",
+        "left": "487",
+        "top": "546",
+        "width": "101",
+        "height": "37",
+        "conf": "96.384911",
+        "text": "Food"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "5",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "4",
+        "left": "604",
+        "top": "548",
+        "width": "145",
+        "height": "46",
+        "conf": "95.842842",
+        "text": "Supply."
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "6",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "194",
+        "top": "606",
+        "width": "62",
+        "height": "39",
+        "conf": "95.372459",
+        "text": "To:"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "6",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "2",
+        "left": "279",
+        "top": "608",
+        "width": "165",
+        "height": "48",
+        "conf": "95.372459",
+        "text": "Meghna"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "6",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "3",
+        "left": "460",
+        "top": "613",
+        "width": "116",
+        "height": "43",
+        "conf": "93.298019",
+        "text": "Store,"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "6",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "4",
+        "left": "593",
+        "top": "615",
+        "width": "119",
+        "height": "42",
+        "conf": "91.757996",
+        "text": "Savar,"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "6",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "5",
+        "left": "729",
+        "top": "615",
+        "width": "133",
+        "height": "37",
+        "conf": "96.930000",
+        "text": "Dhaka."
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "7",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "504",
+        "top": "751",
+        "width": "86",
+        "height": "54",
+        "conf": "91.155067",
+        "text": "Item"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "7",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "2",
+        "left": "612",
+        "top": "755",
+        "width": "228",
+        "height": "46",
+        "conf": "95.515854",
+        "text": "Description"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "8",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "154",
+        "top": "718",
+        "width": "159",
+        "height": "106",
+        "conf": "22.117821",
+        "text": "8"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "8",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "2",
+        "left": "274",
+        "top": "714",
+        "width": "38",
+        "height": "149",
+        "conf": "80.237816",
+        "text": "|"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "9",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "152",
+        "top": "826",
+        "width": "1102",
+        "height": "100",
+        "conf": "47.593761",
+        "text": "[won"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "9",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "2",
+        "left": "998",
+        "top": "781",
+        "width": "45",
+        "height": "176",
+        "conf": "40.602947",
+        "text": "|"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "9",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "3",
+        "left": "1116",
+        "top": "781",
+        "width": "132",
+        "height": "176",
+        "conf": "40.602947",
+        "text": "6"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "10",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "151",
+        "top": "928",
+        "width": "86",
+        "height": "97",
+        "conf": "32.911079",
+        "text": "a"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "10",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "2",
+        "left": "296",
+        "top": "928",
+        "width": "961",
+        "height": "98",
+        "conf": "21.320541",
+        "text": "[wry"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "10",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "3",
+        "left": "997",
+        "top": "876",
+        "width": "60",
+        "height": "179",
+        "conf": "51.377129",
+        "text": "|"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "10",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "4",
+        "left": "1101",
+        "top": "876",
+        "width": "150",
+        "height": "179",
+        "conf": "19.891190",
+        "text": "wm"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "11",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "145",
+        "top": "976",
+        "width": "91",
+        "height": "181",
+        "conf": "38.747849",
+        "text": "3\n5\t1\t11\t1\t1\t2\t295\t976\t393\t181\t17.116531\t[owen\n5\t1\t11\t1\t1\t3\t884\t976\t375\t181\t23.238907\t[wn\n2\t1\t12\t0\t0\t0\t148\t1128\t1114\t104\t-1\t\n3\t1\t12\t1\t0\t0\t148\t1128\t1114\t104\t-1\t\n4\t1\t12\t1\t1\t0\t148\t1128\t1114\t104\t-1\t\n5\t1\t12\t1\t1\t1\t148\t1073\t127\t196\t18.136070\tEN\n5\t1\t12\t1\t1\t2\t311\t1128\t951\t104\t26.588272\tCE\n2\t1\t13\t0\t0\t0\t143\t1231\t364\t112\t-1\t\n3\t1\t13\t1\t0\t0\t143\t1231\t364\t112\t-1\t\n4\t1\t13\t1\t1\t0\t143\t1231\t364\t112\t-1\t\n5\t1\t13\t1\t1\t1\t143\t1231\t159\t112\t10.893829\tis\n5\t1\t13\t1\t1\t2\t342\t1265\t79\t40\t92.699768\tSalt\n5\t1\t13\t1\t1\t3\t436\t1265\t71\t47\t86.337532\t1kg\n2\t1\t14\t0\t0\t0\t283\t1588\t213\t39\t-1\t\n3\t1\t14\t1\t0\t0\t283\t1588\t213\t39\t-1\t\n4\t1\t14\t1\t1\t0\t283\t1588\t213\t39\t-1\t\n5\t1\t14\t1\t1\t1\t283\t1588\t213\t39\t96.606186\tReceived\n5\t1\t14\t1\t1\t2\t455\t1584\t44\t48\t96.633690\tBy\n2\t1\t15\t0\t0\t0\t924\t1591\t217\t45\t-1\t\n3\t1\t15\t1\t0\t0\t924\t1591\t217\t45\t-1\t\n4\t1\t15\t1\t1\t0\t924\t1591\t217\t45\t-1\t\n5\t1\t15\t1\t1\t1\t924\t1591\t217\t45\t96.576080\tDelivered\n5\t1\t15\t1\t1\t2\t1096\t1587\t50\t53\t96.754959\tBy\n2\t1\t16\t0\t0\t0\t50\t1783\t1014\t11\t-1\t\n3\t1\t16\t1\t0\t0\t50\t1783\t1014\t11\t-1\t\n4\t1\t16\t1\t1\t0\t50\t1783\t1014\t11\t-1\t\n5\t1\t16\t1\t1\t1\t50\t1789\t43\t3\t19.746971\t-\n5\t1\t16\t1\t1\t2\t207\t1783\t857\t11\t8.854813\too\n5\t1\t16\t1\t1\t3\t480\t1774\t16\t26\t8.854813\t\u2014\n5\t1\t16\t1\t1\t4\t534\t1783\t460\t11\t1.798363\to_o."
+      }
+    ],
+    "image_sha256": "a5807b46ea0e04fb8a7e60dc1178886dc1bbe71713407b02dc254fc5091a38b9",
+    "text_sha256": "34a5d8572df426ef60a8997d724c796ac7b6c24d4207f349c910773e848f6213",
+    "line_groups": {
+      "1:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "1",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "324",
+          "top": "60",
+          "width": "273",
+          "height": "85",
+          "conf": "91.558601",
+          "text": "Surma"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "1",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "2",
+          "left": "624",
+          "top": "68",
+          "width": "183",
+          "height": "81",
+          "conf": "96.597778",
+          "text": "Food"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "1",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "3",
+          "left": "831",
+          "top": "73",
+          "width": "259",
+          "height": "103",
+          "conf": "96.481422",
+          "text": "Supply"
+        }
+      ],
+      "2:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "2",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "574",
+          "top": "260",
+          "width": "265",
+          "height": "62",
+          "conf": "90.510216",
+          "text": "Challan"
+        }
+      ],
+      "3:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "3",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "197",
+          "top": "372",
+          "width": "156",
+          "height": "41",
+          "conf": "81.384010",
+          "text": "Challan"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "3",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "2",
+          "left": "367",
+          "top": "378",
+          "width": "69",
+          "height": "37",
+          "conf": "91.952347",
+          "text": "No:"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "3",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "3",
+          "left": "452",
+          "top": "379",
+          "width": "169",
+          "height": "39",
+          "conf": "91.952347",
+          "text": "DC-968."
+        }
+      ],
+      "4:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "4",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "196",
+          "top": "432",
+          "width": "112",
+          "height": "39",
+          "conf": "96.082634",
+          "text": "Date:"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "4",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "2",
+          "left": "330",
+          "top": "437",
+          "width": "248",
+          "height": "43",
+          "conf": "96.110901",
+          "text": "27/07/2026."
+        }
+      ],
+      "5:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "5",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "196",
+          "top": "538",
+          "width": "119",
+          "height": "40",
+          "conf": "93.300598",
+          "text": "From:"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "5",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "2",
+          "left": "336",
+          "top": "543",
+          "width": "134",
+          "height": "38",
+          "conf": "92.679977",
+          "text": "Surma"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "5",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "3",
+          "left": "487",
+          "top": "546",
+          "width": "101",
+          "height": "37",
+          "conf": "96.384911",
+          "text": "Food"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "5",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "4",
+          "left": "604",
+          "top": "548",
+          "width": "145",
+          "height": "46",
+          "conf": "95.842842",
+          "text": "Supply."
+        }
+      ],
+      "6:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "6",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "194",
+          "top": "606",
+          "width": "62",
+          "height": "39",
+          "conf": "95.372459",
+          "text": "To:"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "6",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "2",
+          "left": "279",
+          "top": "608",
+          "width": "165",
+          "height": "48",
+          "conf": "95.372459",
+          "text": "Meghna"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "6",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "3",
+          "left": "460",
+          "top": "613",
+          "width": "116",
+          "height": "43",
+          "conf": "93.298019",
+          "text": "Store,"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "6",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "4",
+          "left": "593",
+          "top": "615",
+          "width": "119",
+          "height": "42",
+          "conf": "91.757996",
+          "text": "Savar,"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "6",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "5",
+          "left": "729",
+          "top": "615",
+          "width": "133",
+          "height": "37",
+          "conf": "96.930000",
+          "text": "Dhaka."
+        }
+      ],
+      "7:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "7",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "504",
+          "top": "751",
+          "width": "86",
+          "height": "54",
+          "conf": "91.155067",
+          "text": "Item"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "7",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "2",
+          "left": "612",
+          "top": "755",
+          "width": "228",
+          "height": "46",
+          "conf": "95.515854",
+          "text": "Description"
+        }
+      ],
+      "8:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "8",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "154",
+          "top": "718",
+          "width": "159",
+          "height": "106",
+          "conf": "22.117821",
+          "text": "8"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "8",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "2",
+          "left": "274",
+          "top": "714",
+          "width": "38",
+          "height": "149",
+          "conf": "80.237816",
+          "text": "|"
+        }
+      ],
+      "9:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "9",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "152",
+          "top": "826",
+          "width": "1102",
+          "height": "100",
+          "conf": "47.593761",
+          "text": "[won"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "9",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "2",
+          "left": "998",
+          "top": "781",
+          "width": "45",
+          "height": "176",
+          "conf": "40.602947",
+          "text": "|"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "9",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "3",
+          "left": "1116",
+          "top": "781",
+          "width": "132",
+          "height": "176",
+          "conf": "40.602947",
+          "text": "6"
+        }
+      ],
+      "10:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "10",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "151",
+          "top": "928",
+          "width": "86",
+          "height": "97",
+          "conf": "32.911079",
+          "text": "a"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "10",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "2",
+          "left": "296",
+          "top": "928",
+          "width": "961",
+          "height": "98",
+          "conf": "21.320541",
+          "text": "[wry"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "10",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "3",
+          "left": "997",
+          "top": "876",
+          "width": "60",
+          "height": "179",
+          "conf": "51.377129",
+          "text": "|"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "10",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "4",
+          "left": "1101",
+          "top": "876",
+          "width": "150",
+          "height": "179",
+          "conf": "19.891190",
+          "text": "wm"
+        }
+      ],
+      "11:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "11",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "145",
+          "top": "976",
+          "width": "91",
+          "height": "181",
+          "conf": "38.747849",
+          "text": "3\n5\t1\t11\t1\t1\t2\t295\t976\t393\t181\t17.116531\t[owen\n5\t1\t11\t1\t1\t3\t884\t976\t375\t181\t23.238907\t[wn\n2\t1\t12\t0\t0\t0\t148\t1128\t1114\t104\t-1\t\n3\t1\t12\t1\t0\t0\t148\t1128\t1114\t104\t-1\t\n4\t1\t12\t1\t1\t0\t148\t1128\t1114\t104\t-1\t\n5\t1\t12\t1\t1\t1\t148\t1073\t127\t196\t18.136070\tEN\n5\t1\t12\t1\t1\t2\t311\t1128\t951\t104\t26.588272\tCE\n2\t1\t13\t0\t0\t0\t143\t1231\t364\t112\t-1\t\n3\t1\t13\t1\t0\t0\t143\t1231\t364\t112\t-1\t\n4\t1\t13\t1\t1\t0\t143\t1231\t364\t112\t-1\t\n5\t1\t13\t1\t1\t1\t143\t1231\t159\t112\t10.893829\tis\n5\t1\t13\t1\t1\t2\t342\t1265\t79\t40\t92.699768\tSalt\n5\t1\t13\t1\t1\t3\t436\t1265\t71\t47\t86.337532\t1kg\n2\t1\t14\t0\t0\t0\t283\t1588\t213\t39\t-1\t\n3\t1\t14\t1\t0\t0\t283\t1588\t213\t39\t-1\t\n4\t1\t14\t1\t1\t0\t283\t1588\t213\t39\t-1\t\n5\t1\t14\t1\t1\t1\t283\t1588\t213\t39\t96.606186\tReceived\n5\t1\t14\t1\t1\t2\t455\t1584\t44\t48\t96.633690\tBy\n2\t1\t15\t0\t0\t0\t924\t1591\t217\t45\t-1\t\n3\t1\t15\t1\t0\t0\t924\t1591\t217\t45\t-1\t\n4\t1\t15\t1\t1\t0\t924\t1591\t217\t45\t-1\t\n5\t1\t15\t1\t1\t1\t924\t1591\t217\t45\t96.576080\tDelivered\n5\t1\t15\t1\t1\t2\t1096\t1587\t50\t53\t96.754959\tBy\n2\t1\t16\t0\t0\t0\t50\t1783\t1014\t11\t-1\t\n3\t1\t16\t1\t0\t0\t50\t1783\t1014\t11\t-1\t\n4\t1\t16\t1\t1\t0\t50\t1783\t1014\t11\t-1\t\n5\t1\t16\t1\t1\t1\t50\t1789\t43\t3\t19.746971\t-\n5\t1\t16\t1\t1\t2\t207\t1783\t857\t11\t8.854813\too\n5\t1\t16\t1\t1\t3\t480\t1774\t16\t26\t8.854813\t\u2014\n5\t1\t16\t1\t1\t4\t534\t1783\t460\t11\t1.798363\to_o."
+        }
+      ]
+    },
+    "limitation": "Tesseract line grouping does not establish table cells or row roles."
+  }
+}

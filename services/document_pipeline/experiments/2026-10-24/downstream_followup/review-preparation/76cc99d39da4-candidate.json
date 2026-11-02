@@ -1,0 +1,47 @@
+{
+  "schema_version": "1.0",
+  "document_type": "purchase_order",
+  "document_number": "ORD-9953",
+  "date": "04/07/2026",
+  "currency": "Tk",
+  "line_items": [
+    {
+      "raw_text": "Miniket Rice 25kg 24 Tk 1,850 Tk 44,400",
+      "quantity": "24",
+      "unit_price": "1850",
+      "line_total": "44400"
+    },
+    {
+      "raw_text": "Onion 1kg 20 Tk 65 Tk 1,300",
+      "quantity": "20",
+      "unit_price": "65",
+      "line_total": "1300"
+    }
+  ],
+  "totals": {
+    "subtotal": null,
+    "tax": null,
+    "discount": null,
+    "grand_total": "45700"
+  },
+  "evidence": {
+    "/document_number": "Order No: ORD-9953,",
+    "/date": "Order Date: 04/07/2026.",
+    "/currency": "Rate (Tk)",
+    "/line_items/0/raw_text": "Miniket Rice 25kg 24 Tk 1,850 Tk 44,400",
+    "/line_items/0/quantity": "Miniket Rice 25kg 24 Tk 1,850 Tk 44,400",
+    "/line_items/0/unit_price": "Tk 1,850",
+    "/line_items/0/line_total": "Tk 44,400",
+    "/line_items/1/raw_text": "Onion 1kg 20 Tk 65 Tk 1,300",
+    "/line_items/1/quantity": "Onion 1kg 20 Tk 65 Tk 1,300",
+    "/line_items/1/unit_price": "Tk 65",
+    "/line_items/1/line_total": "Tk 1,300",
+    "/totals/grand_total": "Total: Tk 45,700."
+  },
+  "uncertainties": [
+    "Comma groups interpreted as thousands separators; locale is not explicitly specified.",
+    "The Miniket row repeats in the primary and automatic-region OCR and is represented once.",
+    "Other primary-view table text is corrupted; automatic-region rows provide the readable entries."
+  ],
+  "corrections": []
+}

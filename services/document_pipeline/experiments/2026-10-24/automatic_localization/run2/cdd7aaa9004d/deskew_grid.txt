@@ -1,0 +1,4 @@
+| Item Qty Rate (Tk) | Amount (Tk) |
+Red Lentils 1kg 4 Tk 110 Tk 440
+Miniket Rice 25kg 24 Tk 1,850 Tk 44,400
+Ball Pen box 5 Tk 100 | Tk 500

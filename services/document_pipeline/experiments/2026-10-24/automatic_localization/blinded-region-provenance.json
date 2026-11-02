@@ -1,0 +1,72 @@
+[
+  {
+    "id": "76cc99d39da4",
+    "source_sha256": "c008a22c1f76dc1b9d9e89cf948d589ec7bc9d64e8119a640c6a8c6af6fd626a",
+    "primary_input_file_sha256": "c3149c6139d0844a87ca3a511aa4c2073ea909abb15f2e985724c2f2adc3e960",
+    "primary_ocr_utf8_sha256": "21efb0e84f322eaceb7b7fe3c109c9a66ec11292097a31e79a2d94bd8ec432e8",
+    "result_file": "run6\\76cc99d39da4\\result.json",
+    "result_file_sha256": "f29940e6c7bde10402584fd73b93bab606fa213dec377d7e194f2e35bd02a6dc",
+    "selection_policy": "First candidate in fixed [axis_grid,deskew_grid] order with >=1 grid. Geometry only; no expected values or OCR scoring. No grid => primary alone. Word-box fallback is saved separately and not appended.",
+    "selected_method": "axis_grid",
+    "region_ocr_utf8_sha256": "cb5bf821715bb1d12d4f7150be186a7e73b258dc54b7575e6d02f73d4d1dcbf8",
+    "region_start_character": 585,
+    "extraction_source_utf8_sha256": "f2177187d3d7bc64485cff0d1109318ab76b64ed0b4c06135ac3746a8cd5323f",
+    "human_verified": false
+  },
+  {
+    "id": "5dffabcb47cb",
+    "source_sha256": "e51375a245dde8dacc6e43ae9f83726a17363e9cc5cb5210e1c7ed5ab345e2c0",
+    "primary_input_file_sha256": "c3149c6139d0844a87ca3a511aa4c2073ea909abb15f2e985724c2f2adc3e960",
+    "primary_ocr_utf8_sha256": "48625af5c91a701566489a6a4dbc57d9c46edf47ee176e637970daaa51a8c8d4",
+    "result_file": "run6\\5dffabcb47cb\\result.json",
+    "result_file_sha256": "92b802bdab7fa7583195c1226394ccbb7b5b83bbfc2704d78952caeb1d721d3d",
+    "selection_policy": "First candidate in fixed [axis_grid,deskew_grid] order with >=1 grid. Geometry only; no expected values or OCR scoring. No grid => primary alone. Word-box fallback is saved separately and not appended.",
+    "selected_method": null,
+    "region_ocr_utf8_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "region_start_character": null,
+    "extraction_source_utf8_sha256": "48625af5c91a701566489a6a4dbc57d9c46edf47ee176e637970daaa51a8c8d4",
+    "human_verified": false
+  },
+  {
+    "id": "f9918570b903",
+    "source_sha256": "bc4e1f5f2758199a5b77f34cba6bedf0a71d78335a9eb2c0a8a6d0e8af7cc60c",
+    "primary_input_file_sha256": "c3149c6139d0844a87ca3a511aa4c2073ea909abb15f2e985724c2f2adc3e960",
+    "primary_ocr_utf8_sha256": "14699d44aaa60c89a32bb0c24ec124c41a8d17e10312e03b525fe889fd39251d",
+    "result_file": "run6\\f9918570b903\\result.json",
+    "result_file_sha256": "1f91ab8262091be06c58d05f60ba2968c80cbcb0b4a812fafa68da89f3b0730b",
+    "selection_policy": "First candidate in fixed [axis_grid,deskew_grid] order with >=1 grid. Geometry only; no expected values or OCR scoring. No grid => primary alone. Word-box fallback is saved separately and not appended.",
+    "selected_method": "axis_grid",
+    "region_ocr_utf8_sha256": "1af7abbfa162966072f4c95d8def145c0dac40014c0d6ffc1433dc239e96d609",
+    "region_start_character": 197,
+    "extraction_source_utf8_sha256": "169f26579ffe0a58bde1f10f645a47e619e70ef4ca5499ea1569e48c7054a164",
+    "human_verified": false
+  },
+  {
+    "id": "e396ade11def",
+    "source_sha256": "b9f12f27d77447b831b0976cf9e4fd4265fb6f17e158cd85528c4bdde5053c00",
+    "primary_input_file_sha256": "c3149c6139d0844a87ca3a511aa4c2073ea909abb15f2e985724c2f2adc3e960",
+    "primary_ocr_utf8_sha256": "6449cc419027b97bed89a7a33e8dbdfaa4aa86d4f81c0d465246909635c60ed6",
+    "result_file": "run6\\e396ade11def\\result.json",
+    "result_file_sha256": "c515fd661cca2101acbd789ef912291d9d1037bc9c19c559bb3406773af02a5c",
+    "selection_policy": "First candidate in fixed [axis_grid,deskew_grid] order with >=1 grid. Geometry only; no expected values or OCR scoring. No grid => primary alone. Word-box fallback is saved separately and not appended.",
+    "selected_method": null,
+    "region_ocr_utf8_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "region_start_character": null,
+    "extraction_source_utf8_sha256": "6449cc419027b97bed89a7a33e8dbdfaa4aa86d4f81c0d465246909635c60ed6",
+    "human_verified": false
+  },
+  {
+    "id": "cdd7aaa9004d",
+    "source_sha256": "3a782087b6f7af63728eddc13354e6be20247ab1b24e0cb01b6168ffee2287b3",
+    "primary_input_file_sha256": "c3149c6139d0844a87ca3a511aa4c2073ea909abb15f2e985724c2f2adc3e960",
+    "primary_ocr_utf8_sha256": "86e76385a771113d1f03273175b3c1b018583d0b4671721dd80e15ae42227d5e",
+    "result_file": "run6\\cdd7aaa9004d\\result.json",
+    "result_file_sha256": "eeb608d8fa78b8257177eb1f31f1b2af891539a093792af634329fced40d7253",
+    "selection_policy": "First candidate in fixed [axis_grid,deskew_grid] order with >=1 grid. Geometry only; no expected values or OCR scoring. No grid => primary alone. Word-box fallback is saved separately and not appended.",
+    "selected_method": "axis_grid",
+    "region_ocr_utf8_sha256": "bfe173dee1784fe40cc196894a1327b240453dedb05dbee6a10d79e1122a1a9f",
+    "region_start_character": 246,
+    "extraction_source_utf8_sha256": "50811b0de2bdd72c031d048196063858699969100d6f6aa3d59d7edbcc9ce0af",
+    "human_verified": false
+  }
+]

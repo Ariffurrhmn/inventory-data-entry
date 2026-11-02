@@ -1,0 +1,98 @@
+{
+  "76cc99d39da4": {
+    "schema_version": "1.0",
+    "document_type": "purchase_order",
+    "document_number": "ORD-9953",
+    "date": "04/07/2026",
+    "currency": "Tk",
+    "line_items": [
+      {"raw_text": "o | Miniket Rice 25kg{ 24 | Tk 1,850 | Tk 44,400 { |", "quantity": "24", "unit_price": "1850", "line_total": "44400"},
+      {"raw_text": "fotos 5g. | B I%m 1% Low jig", "quantity": null, "unit_price": null, "line_total": null}
+    ],
+    "totals": {"subtotal": null, "tax": null, "discount": null, "grand_total": "45700"},
+    "evidence": {
+      "/document_number": "Order No: ORD-9953, ol",
+      "/date": "Order Date: 04/07/2026. ik",
+      "/currency": "Tk 1,850",
+      "/line_items/0/raw_text": "o | Miniket Rice 25kg{ 24 | Tk 1,850 | Tk 44,400 { |",
+      "/line_items/0/quantity": "Miniket Rice 25kg{ 24 | Tk 1,850",
+      "/line_items/0/unit_price": "Tk 1,850",
+      "/line_items/0/line_total": "Tk 44,400",
+      "/line_items/1/raw_text": "fotos 5g. | B I%m 1% Low jig",
+      "/totals/grand_total": "Total: Tk 45,700. |."
+    },
+    "uncertainties": ["Comma-separated amounts are interpreted as thousands grouping (1,850; 44,400; 45,700); OCR alone does not establish locale.", "The second apparent item row is corrupted; its item identity and numeric fields cannot be reliably extracted.", "The date spelling is preserved; day/month ordering is not resolved."],
+    "corrections": []
+  },
+  "5dffabcb47cb": {
+    "schema_version": "1.0",
+    "document_type": "receipt",
+    "document_number": null,
+    "date": null,
+    "currency": null,
+    "line_items": [
+      {"raw_text": "© 1x 36.000 + 36.000", "quantity": "1", "unit_price": null, "line_total": null},
+      {"raw_text": "© 1x 0.000 Rr0. 000", "quantity": "1", "unit_price": null, "line_total": null}
+    ],
+    "totals": {"subtotal": null, "tax": null, "discount": null, "grand_total": null},
+    "evidence": {
+      "/line_items/0/raw_text": "© 1x 36.000 + 36.000",
+      "/line_items/0/quantity": "© 1x 36.000 + 36.000",
+      "/line_items/1/raw_text": "© 1x 0.000 Rr0. 000",
+      "/line_items/1/quantity": "© 1x 0.000 Rr0. 000"
+    },
+    "uncertainties": ["Periods in 36.000, 0.000, and 15.000 may represent decimal marks or thousands grouping; monetary fields are left null.", "The apparent total line reads '1 o*x=[0TAL © 36.000'; its label is corrupted and its amount is locale-ambiguous.", "The cash line reads '. CASH Re51. 000 :' and contains an uncertain currency marker and amount.", "The separate text lines '© Kimchi p' and '| Fre ice grentea' cannot be reliably associated with either numeric row; raw_text preserves only each numeric source row."],
+    "corrections": []
+  },
+  "f9918570b903": {
+    "schema_version": "1.0",
+    "document_type": "delivery_note",
+    "document_number": "DC-968",
+    "date": "27/07/2026",
+    "currency": null,
+    "line_items": [],
+    "totals": {"subtotal": null, "tax": null, "discount": null, "grand_total": null},
+    "evidence": {"/document_number": "Challan No: DC-968.", "/date": "Date: 27/07/2026."},
+    "uncertainties": ["No item rows or monetary totals are present in the supplied OCR.", "The date spelling is preserved."],
+    "corrections": []
+  },
+  "e396ade11def": {
+    "schema_version": "1.0",
+    "document_type": "customer_copy",
+    "document_number": "INV-9957",
+    "date": "10/09/2026",
+    "currency": "Tk",
+    "line_items": [
+      {"raw_text": "of | Toothpaste 100g | 10 | Tk 120 | Tk 1,200 Po", "quantity": "10", "unit_price": "120", "line_total": "1200"},
+      {"raw_text": "' ® | Exercise Book 1] Tk45 | Tx 45 |", "quantity": null, "unit_price": "45", "line_total": "45"}
+    ],
+    "totals": {"subtotal": null, "tax": null, "discount": null, "grand_total": "1245"},
+    "evidence": {
+      "/document_number": "Invoice No: INV-9957. Date: 10/09/2026. |",
+      "/date": "Invoice No: INV-9957. Date: 10/09/2026. |",
+      "/currency": "Rate (Tk)",
+      "/line_items/0/raw_text": "of | Toothpaste 100g | 10 | Tk 120 | Tk 1,200 Po",
+      "/line_items/0/quantity": "Toothpaste 100g | 10 | Tk 120",
+      "/line_items/0/unit_price": "Tk 120",
+      "/line_items/0/line_total": "Tk 1,200",
+      "/line_items/1/raw_text": "' ® | Exercise Book 1] Tk45 | Tx 45 |",
+      "/line_items/1/unit_price": "Tk45",
+      "/line_items/1/line_total": "Tx 45",
+      "/totals/grand_total": "Total: Tk 1,245."
+    },
+    "uncertainties": ["Input document_type is customer_copy, but OCR explicitly says 'OFFICE COPY'; the input type is retained.", "Comma-separated amounts are interpreted as thousands grouping (1,200; 1,245); OCR alone does not establish locale.", "Exercise Book quantity appears as '1]' without a clear separator and is left null. The following Tk45 and Tx 45 occupy the rate and amount positions in the same row; the 'Tx' marker is preserved in evidence without correction.", "The date spelling is preserved; day/month ordering is not resolved."],
+    "corrections": []
+  },
+  "cdd7aaa9004d": {
+    "schema_version": "1.0",
+    "document_type": "purchase_order",
+    "document_number": "INV-9335",
+    "date": "13/08/2026",
+    "currency": "Tk",
+    "line_items": [],
+    "totals": {"subtotal": null, "tax": null, "discount": null, "grand_total": "45340"},
+    "evidence": {"/document_number": "Invoice No: INV-9335. :", "/date": "Date: 13/08/2026.", "/currency": "Total:  Tk45,340.", "/totals/grand_total": "Total:  Tk45,340."},
+    "uncertainties": ["Input document_type is purchase_order, while OCR says 'Invoice' and 'Invoice No'; the input type is retained.", "The text 'TOMER COPY' is truncated and is not silently repaired.", "45,340 is interpreted as thousands grouping; OCR alone does not establish locale.", "No item rows are present in the supplied OCR.", "The date spelling is preserved."],
+    "corrections": []
+  }
+}

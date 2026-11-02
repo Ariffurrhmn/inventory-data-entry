@@ -1,0 +1,145 @@
+{
+  "predictor_startup_seconds": 11.541791199997533,
+  "human_verified": false,
+  "accuracy_measured": false,
+  "records": {
+    "76cc99d39da4": {
+      "ocr_and_regions_seconds": 29.386193400016055,
+      "state": "completed",
+      "label": "purchase_order",
+      "region_method": "axis_grid",
+      "review_required": true,
+      "evidence_findings": [
+        {
+          "path": "/document_number",
+          "status": "supported",
+          "quote": "Order No: ORD-9953,"
+        },
+        {
+          "path": "/date",
+          "status": "supported",
+          "quote": "Order Date: 04/07/2026."
+        },
+        {
+          "path": "/currency",
+          "status": "supported",
+          "quote": "Rate (Tk)"
+        },
+        {
+          "path": "/line_items/0/line_total",
+          "status": "value_not_in_evidence",
+          "quote": "Tk 44,400"
+        },
+        {
+          "path": "/line_items/0/quantity",
+          "status": "supported",
+          "quote": "Miniket Rice 25kg 24 Tk 1,850 Tk 44,400"
+        },
+        {
+          "path": "/line_items/0/raw_text",
+          "status": "supported",
+          "quote": "Miniket Rice 25kg 24 Tk 1,850 Tk 44,400"
+        },
+        {
+          "path": "/line_items/0/unit_price",
+          "status": "value_not_in_evidence",
+          "quote": "Tk 1,850"
+        },
+        {
+          "path": "/line_items/1/line_total",
+          "status": "value_not_in_evidence",
+          "quote": "Tk 1,300"
+        },
+        {
+          "path": "/line_items/1/quantity",
+          "status": "supported",
+          "quote": "Onion 1kg 20 Tk 65 Tk 1,300"
+        },
+        {
+          "path": "/line_items/1/raw_text",
+          "status": "supported",
+          "quote": "Onion 1kg 20 Tk 65 Tk 1,300"
+        },
+        {
+          "path": "/line_items/1/unit_price",
+          "status": "supported",
+          "quote": "Tk 65"
+        },
+        {
+          "path": "/totals/grand_total",
+          "status": "value_not_in_evidence",
+          "quote": "Total: Tk 45,700."
+        }
+      ]
+    },
+    "f9918570b903": {
+      "ocr_and_regions_seconds": 18.623470399994403,
+      "state": "completed",
+      "label": "delivery_note",
+      "region_method": "axis_grid",
+      "review_required": false,
+      "evidence_findings": [
+        {
+          "path": "/document_number",
+          "status": "supported",
+          "quote": "Challan No: DC-968."
+        },
+        {
+          "path": "/date",
+          "status": "supported",
+          "quote": "Date: 27/07/2026."
+        },
+        {
+          "path": "/line_items/0/quantity",
+          "status": "supported",
+          "quote": "1 Mustard Oil 1L 6"
+        },
+        {
+          "path": "/line_items/0/raw_text",
+          "status": "supported",
+          "quote": "1 Mustard Oil 1L 6"
+        },
+        {
+          "path": "/line_items/1/quantity",
+          "status": "supported",
+          "quote": "2 Milk Powder 500g 20"
+        },
+        {
+          "path": "/line_items/1/raw_text",
+          "status": "supported",
+          "quote": "2 Milk Powder 500g 20"
+        },
+        {
+          "path": "/line_items/2/quantity",
+          "status": "supported",
+          "quote": "3 Detergent 500g 12"
+        },
+        {
+          "path": "/line_items/2/raw_text",
+          "status": "supported",
+          "quote": "3 Detergent 500g 12"
+        },
+        {
+          "path": "/line_items/3/quantity",
+          "status": "supported",
+          "quote": "4 Onion 1kg 12"
+        },
+        {
+          "path": "/line_items/3/raw_text",
+          "status": "supported",
+          "quote": "4 Onion 1kg 12"
+        },
+        {
+          "path": "/line_items/4/quantity",
+          "status": "supported",
+          "quote": "5 Salt 1kg 2"
+        },
+        {
+          "path": "/line_items/4/raw_text",
+          "status": "supported",
+          "quote": "5 Salt 1kg 2"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "created_utc": "2026-10-24T05:29:24.7337829Z",
+  "method": "fresh sub-agent, raw OCR only, all five recorded development examples",
+  "model_identity": "Inherited Codex session model; provider model ID not independently exposed",
+  "api_calls": false,
+  "cost": "not measured",
+  "accuracy": "not measured: no independently reviewed field truth",
+  "records": [
+    {
+      "id": "76cc99d39da4",
+      "source_record": "classifier/demo/records/76cc99d39da4.json",
+      "source_record_sha256": "0f54308533115928e71af06fc469fd8220d4985ce1f3ec78696af3473300ee35",
+      "ocr_field": "result.ocr_text",
+      "ocr_utf8_sha256": "21efb0e84f322eaceb7b7fe3c109c9a66ec11292097a31e79a2d94bd8ec432e8",
+      "document_type_source": "result.label",
+      "split": "val",
+      "provenance": "Photograph of a printed synthetic document · recorded OCR analysis",
+      "image_used": false,
+      "expected_answers_used": false
+    },
+    {
+      "id": "5dffabcb47cb",
+      "source_record": "classifier/demo/records/5dffabcb47cb.json",
+      "source_record_sha256": "ec605e438d732de9f77e7b072a300791e57a5aab03f15e0e907695cf94e5a4f6",
+      "ocr_field": "result.ocr_text",
+      "ocr_utf8_sha256": "48625af5c91a701566489a6a4dbc57d9c46edf47ee176e637970daaa51a8c8d4",
+      "document_type_source": "result.label",
+      "split": "val",
+      "provenance": "Existing development document · recorded OCR analysis",
+      "image_used": false,
+      "expected_answers_used": false
+    },
+    {
+      "id": "f9918570b903",
+      "source_record": "classifier/demo/records/f9918570b903.json",
+      "source_record_sha256": "5927382170feb9544eaf27c6786469625844c27360916219c8aedeeb1a8c8d7c",
+      "ocr_field": "result.ocr_text",
+      "ocr_utf8_sha256": "14699d44aaa60c89a32bb0c24ec124c41a8d17e10312e03b525fe889fd39251d",
+      "document_type_source": "result.label",
+      "split": "val",
+      "provenance": "Photograph of a printed synthetic document · recorded OCR analysis",
+      "image_used": false,
+      "expected_answers_used": false
+    },
+    {
+      "id": "e396ade11def",
+      "source_record": "classifier/demo/records/e396ade11def.json",
+      "source_record_sha256": "415c384a00504bf4a803ae7bd100f14f6acc3c00cadb1040285271c1176d068e",
+      "ocr_field": "result.ocr_text",
+      "ocr_utf8_sha256": "6449cc419027b97bed89a7a33e8dbdfaa4aa86d4f81c0d465246909635c60ed6",
+      "document_type_source": "result.label",
+      "split": "val",
+      "provenance": "Photograph of a printed synthetic document · recorded OCR analysis",
+      "image_used": false,
+      "expected_answers_used": false
+    },
+    {
+      "id": "cdd7aaa9004d",
+      "source_record": "classifier/demo/records/cdd7aaa9004d.json",
+      "source_record_sha256": "0981e2f4f72677d51737e402aa4a0f971be85edbe8f284c9c054804be6a20d33",
+      "ocr_field": "result.ocr_text",
+      "ocr_utf8_sha256": "86e76385a771113d1f03273175b3c1b018583d0b4671721dd80e15ae42227d5e",
+      "document_type_source": "result.label",
+      "split": "val",
+      "provenance": "Photograph of a printed synthetic document · recorded OCR analysis",
+      "image_used": false,
+      "expected_answers_used": false
+    }
+  ]
+}

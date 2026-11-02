@@ -1,0 +1,3080 @@
+{
+  "accuracy_measured": false,
+  "human_verified": false,
+  "contract_sha256": "bdfc0a60c9da0ed888f61301e8df7edca299307f6d745ac8f05379d1ee03a006",
+  "trials": {
+    "primary": {
+      "input_sha256": "c3149c6139d0844a87ca3a511aa4c2073ea909abb15f2e985724c2f2adc3e960",
+      "response_sha256": "f7f1a1f4c208f557c7c6036f2f4a8dc9c3dbe9bd02d5664f96be81757344dbdd",
+      "prompt_sha256": "c675b215b568641e4f6ad7efedccc85cf6052248ac828a52ebb309ad86c7fa26",
+      "human_verified": false,
+      "records": {
+        "76cc99d39da4": {
+          "rows": 2,
+          "populated_quantities": 1,
+          "complete_numeric_rows": 1,
+          "proposed_corrections": [],
+          "literal": {
+            "schema_valid": true,
+            "classification_preserved": true,
+            "record": {
+              "schema_version": "1.0",
+              "document_type": "purchase_order",
+              "document_number": "ORD-9953",
+              "date": "04/07/2026",
+              "currency": "Tk",
+              "line_items": [
+                {
+                  "raw_text": "o | Miniket Rice 25kg{ 24 | Tk 1,850 | Tk 44,400 { |",
+                  "quantity": "24",
+                  "unit_price": "1850",
+                  "line_total": "44400"
+                },
+                {
+                  "raw_text": "fotos 5g. | B I%m 1% Low jig",
+                  "quantity": null,
+                  "unit_price": null,
+                  "line_total": null
+                }
+              ],
+              "totals": {
+                "subtotal": null,
+                "tax": null,
+                "discount": null,
+                "grand_total": "45700"
+              },
+              "evidence": {
+                "/document_number": "Order No: ORD-9953, ol",
+                "/date": "Order Date: 04/07/2026. ik",
+                "/currency": "Tk 1,850",
+                "/line_items/0/raw_text": "o | Miniket Rice 25kg{ 24 | Tk 1,850 | Tk 44,400 { |",
+                "/line_items/0/quantity": "Miniket Rice 25kg{ 24 | Tk 1,850",
+                "/line_items/0/unit_price": "Tk 1,850",
+                "/line_items/0/line_total": "Tk 44,400",
+                "/line_items/1/raw_text": "fotos 5g. | B I%m 1% Low jig",
+                "/totals/grand_total": "Total: Tk 45,700. |."
+              },
+              "uncertainties": [
+                "Comma-separated amounts are interpreted as thousands grouping (1,850; 44,400; 45,700); OCR alone does not establish locale.",
+                "The second apparent item row is corrupted; its item identity and numeric fields cannot be reliably extracted.",
+                "The date spelling is preserved; day/month ordering is not resolved."
+              ],
+              "corrections": []
+            },
+            "numeric_policy": "literal",
+            "normalization_findings": [],
+            "checks": [
+              {
+                "id": "line_items/0/multiplication",
+                "status": "passed",
+                "expected": "44400",
+                "actual": "44400",
+                "difference": "0",
+                "tolerance": "0.01"
+              },
+              {
+                "id": "line_items/1/multiplication",
+                "status": "not_applicable",
+                "missing": [
+                  "quantity",
+                  "unit_price",
+                  "line_total"
+                ]
+              },
+              {
+                "id": "subtotal",
+                "status": "not_applicable",
+                "missing": [
+                  "subtotal",
+                  "line_items/1/line_total"
+                ]
+              },
+              {
+                "id": "grand_total",
+                "status": "not_applicable",
+                "missing": [
+                  "subtotal",
+                  "tax",
+                  "discount"
+                ]
+              }
+            ],
+            "review_required": true,
+            "review_reasons": [
+              "Missing quantity: line_items/1",
+              "Evidence value_not_in_evidence: /line_items/0/line_total",
+              "Evidence value_not_in_evidence: /line_items/0/unit_price",
+              "Evidence value_not_in_evidence: /totals/grand_total",
+              "Arithmetic unavailable: line_items/1/multiplication",
+              "Arithmetic unavailable: subtotal",
+              "Arithmetic unavailable: grand_total",
+              "Model reported unresolved uncertainties"
+            ],
+            "evidence_findings": [
+              {
+                "path": "/document_number",
+                "status": "supported",
+                "quote": "Order No: ORD-9953, ol"
+              },
+              {
+                "path": "/date",
+                "status": "supported",
+                "quote": "Order Date: 04/07/2026. ik"
+              },
+              {
+                "path": "/currency",
+                "status": "supported",
+                "quote": "Tk 1,850"
+              },
+              {
+                "path": "/line_items/0/line_total",
+                "status": "value_not_in_evidence",
+                "quote": "Tk 44,400"
+              },
+              {
+                "path": "/line_items/0/quantity",
+                "status": "supported",
+                "quote": "Miniket Rice 25kg{ 24 | Tk 1,850"
+              },
+              {
+                "path": "/line_items/0/raw_text",
+                "status": "supported",
+                "quote": "o | Miniket Rice 25kg{ 24 | Tk 1,850 | Tk 44,400 { |"
+              },
+              {
+                "path": "/line_items/0/unit_price",
+                "status": "value_not_in_evidence",
+                "quote": "Tk 1,850"
+              },
+              {
+                "path": "/line_items/1/raw_text",
+                "status": "supported",
+                "quote": "fotos 5g. | B I%m 1% Low jig"
+              },
+              {
+                "path": "/totals/grand_total",
+                "status": "value_not_in_evidence",
+                "quote": "Total: Tk 45,700. |."
+              }
+            ],
+            "limitations": [
+              "Evidence proves substring presence, not the correct field or row assignment.",
+              "Arithmetic consistency cannot prove values match the source document.",
+              "Model self-confidence is not a calibrated confidence signal.",
+              "Absolute arithmetic tolerance is 0.01; currency and rounding policy are not inferred.",
+              "Quantity-only delivery notes do not require monetary operands; unavailable arithmetic stays not_applicable."
+            ]
+          },
+          "grouped_commas": {
+            "schema_valid": true,
+            "classification_preserved": true,
+            "record": {
+              "schema_version": "1.0",
+              "document_type": "purchase_order",
+              "document_number": "ORD-9953",
+              "date": "04/07/2026",
+              "currency": "Tk",
+              "line_items": [
+                {
+                  "raw_text": "o | Miniket Rice 25kg{ 24 | Tk 1,850 | Tk 44,400 { |",
+                  "quantity": "24",
+                  "unit_price": "1850",
+                  "line_total": "44400"
+                },
+                {
+                  "raw_text": "fotos 5g. | B I%m 1% Low jig",
+                  "quantity": null,
+                  "unit_price": null,
+                  "line_total": null
+                }
+              ],
+              "totals": {
+                "subtotal": null,
+                "tax": null,
+                "discount": null,
+                "grand_total": "45700"
+              },
+              "evidence": {
+                "/document_number": "Order No: ORD-9953, ol",
+                "/date": "Order Date: 04/07/2026. ik",
+                "/currency": "Tk 1,850",
+                "/line_items/0/raw_text": "o | Miniket Rice 25kg{ 24 | Tk 1,850 | Tk 44,400 { |",
+                "/line_items/0/quantity": "Miniket Rice 25kg{ 24 | Tk 1,850",
+                "/line_items/0/unit_price": "Tk 1,850",
+                "/line_items/0/line_total": "Tk 44,400",
+                "/line_items/1/raw_text": "fotos 5g. | B I%m 1% Low jig",
+                "/totals/grand_total": "Total: Tk 45,700. |."
+              },
+              "uncertainties": [
+                "Comma-separated amounts are interpreted as thousands grouping (1,850; 44,400; 45,700); OCR alone does not establish locale.",
+                "The second apparent item row is corrupted; its item identity and numeric fields cannot be reliably extracted.",
+                "The date spelling is preserved; day/month ordering is not resolved."
+              ],
+              "corrections": []
+            },
+            "numeric_policy": "grouped_commas",
+            "normalization_findings": [
+              {
+                "path": "/line_items/0/line_total",
+                "source_token": "44,400",
+                "normalized_value": "44400",
+                "rule": "assumed_English_grouped_commas"
+              },
+              {
+                "path": "/line_items/0/unit_price",
+                "source_token": "1,850",
+                "normalized_value": "1850",
+                "rule": "assumed_English_grouped_commas"
+              }
+            ],
+            "checks": [
+              {
+                "id": "line_items/0/multiplication",
+                "status": "passed",
+                "expected": "44400",
+                "actual": "44400",
+                "difference": "0",
+                "tolerance": "0.01"
+              },
+              {
+                "id": "line_items/1/multiplication",
+                "status": "not_applicable",
+                "missing": [
+                  "quantity",
+                  "unit_price",
+                  "line_total"
+                ]
+              },
+              {
+                "id": "subtotal",
+                "status": "not_applicable",
+                "missing": [
+                  "subtotal",
+                  "line_items/1/line_total"
+                ]
+              },
+              {
+                "id": "grand_total",
+                "status": "not_applicable",
+                "missing": [
+                  "subtotal",
+                  "tax",
+                  "discount"
+                ]
+              }
+            ],
+            "review_required": true,
+            "review_reasons": [
+              "Missing quantity: line_items/1",
+              "Evidence value_not_in_evidence: /totals/grand_total",
+              "Arithmetic unavailable: line_items/1/multiplication",
+              "Arithmetic unavailable: subtotal",
+              "Arithmetic unavailable: grand_total",
+              "Numeric grouping normalization uses an explicit unverified locale assumption",
+              "Model reported unresolved uncertainties"
+            ],
+            "evidence_findings": [
+              {
+                "path": "/document_number",
+                "status": "supported",
+                "quote": "Order No: ORD-9953, ol"
+              },
+              {
+                "path": "/date",
+                "status": "supported",
+                "quote": "Order Date: 04/07/2026. ik"
+              },
+              {
+                "path": "/currency",
+                "status": "supported",
+                "quote": "Tk 1,850"
+              },
+              {
+                "path": "/line_items/0/line_total",
+                "status": "supported_normalized",
+                "quote": "Tk 44,400"
+              },
+              {
+                "path": "/line_items/0/quantity",
+                "status": "supported",
+                "quote": "Miniket Rice 25kg{ 24 | Tk 1,850"
+              },
+              {
+                "path": "/line_items/0/raw_text",
+                "status": "supported",
+                "quote": "o | Miniket Rice 25kg{ 24 | Tk 1,850 | Tk 44,400 { |"
+              },
+              {
+                "path": "/line_items/0/unit_price",
+                "status": "supported_normalized",
+                "quote": "Tk 1,850"
+              },
+              {
+                "path": "/line_items/1/raw_text",
+                "status": "supported",
+                "quote": "fotos 5g. | B I%m 1% Low jig"
+              },
+              {
+                "path": "/totals/grand_total",
+                "status": "value_not_in_evidence",
+                "quote": "Total: Tk 45,700. |."
+              }
+            ],
+            "limitations": [
+              "Evidence proves substring presence, not the correct field or row assignment.",
+              "Arithmetic consistency cannot prove values match the source document.",
+              "Model self-confidence is not a calibrated confidence signal.",
+              "Absolute arithmetic tolerance is 0.01; currency and rounding policy are not inferred.",
+              "Quantity-only delivery notes do not require monetary operands; unavailable arithmetic stays not_applicable."
+            ]
+          }
+        },
+        "5dffabcb47cb": {
+          "rows": 2,
+          "populated_quantities": 2,
+          "complete_numeric_rows": 0,
+          "proposed_corrections": [],
+          "literal": {
+            "schema_valid": true,
+            "classification_preserved": true,
+            "record": {
+              "schema_version": "1.0",
+              "document_type": "receipt",
+              "document_number": null,
+              "date": null,
+              "currency": null,
+              "line_items": [
+                {
+                  "raw_text": "© 1x 36.000 + 36.000",
+                  "quantity": "1",
+                  "unit_price": null,
+                  "line_total": null
+                },
+                {
+                  "raw_text": "© 1x 0.000 Rr0. 000",
+                  "quantity": "1",
+                  "unit_price": null,
+                  "line_total": null
+                }
+              ],
+              "totals": {
+                "subtotal": null,
+                "tax": null,
+                "discount": null,
+                "grand_total": null
+              },
+              "evidence": {
+                "/line_items/0/raw_text": "© 1x 36.000 + 36.000",
+                "/line_items/0/quantity": "© 1x 36.000 + 36.000",
+                "/line_items/1/raw_text": "© 1x 0.000 Rr0. 000",
+                "/line_items/1/quantity": "© 1x 0.000 Rr0. 000"
+              },
+              "uncertainties": [
+                "Periods in 36.000, 0.000, and 15.000 may represent decimal marks or thousands grouping; monetary fields are left null.",
+                "The apparent total line reads '1 o*x=[0TAL © 36.000'; its label is corrupted and its amount is locale-ambiguous.",
+                "The cash line reads '. CASH Re51. 000 :' and contains an uncertain currency marker and amount.",
+                "The separate text lines '© Kimchi p' and '| Fre ice grentea' cannot be reliably associated with either numeric row; raw_text preserves only each numeric source row."
+              ],
+              "corrections": []
+            },
+            "numeric_policy": "literal",
+            "normalization_findings": [],
+            "checks": [
+              {
+                "id": "line_items/0/multiplication",
+                "status": "not_applicable",
+                "missing": [
+                  "unit_price",
+                  "line_total"
+                ]
+              },
+              {
+                "id": "line_items/1/multiplication",
+                "status": "not_applicable",
+                "missing": [
+                  "unit_price",
+                  "line_total"
+                ]
+              },
+              {
+                "id": "subtotal",
+                "status": "not_applicable",
+                "missing": [
+                  "subtotal",
+                  "line_items/0/line_total",
+                  "line_items/1/line_total"
+                ]
+              },
+              {
+                "id": "grand_total",
+                "status": "not_applicable",
+                "missing": [
+                  "subtotal",
+                  "tax",
+                  "discount",
+                  "grand_total"
+                ]
+              }
+            ],
+            "review_required": true,
+            "review_reasons": [
+              "Arithmetic unavailable: line_items/0/multiplication",
+              "Arithmetic unavailable: line_items/1/multiplication",
+              "Arithmetic unavailable: subtotal",
+              "Arithmetic unavailable: grand_total",
+              "Model reported unresolved uncertainties"
+            ],
+            "evidence_findings": [
+              {
+                "path": "/line_items/0/quantity",
+                "status": "supported",
+                "quote": "© 1x 36.000 + 36.000"
+              },
+              {
+                "path": "/line_items/0/raw_text",
+                "status": "supported",
+                "quote": "© 1x 36.000 + 36.000"
+              },
+              {
+                "path": "/line_items/1/quantity",
+                "status": "supported",
+                "quote": "© 1x 0.000 Rr0. 000"
+              },
+              {
+                "path": "/line_items/1/raw_text",
+                "status": "supported",
+                "quote": "© 1x 0.000 Rr0. 000"
+              }
+            ],
+            "limitations": [
+              "Evidence proves substring presence, not the correct field or row assignment.",
+              "Arithmetic consistency cannot prove values match the source document.",
+              "Model self-confidence is not a calibrated confidence signal.",
+              "Absolute arithmetic tolerance is 0.01; currency and rounding policy are not inferred.",
+              "Quantity-only delivery notes do not require monetary operands; unavailable arithmetic stays not_applicable."
+            ]
+          },
+          "grouped_commas": {
+            "schema_valid": true,
+            "classification_preserved": true,
+            "record": {
+              "schema_version": "1.0",
+              "document_type": "receipt",
+              "document_number": null,
+              "date": null,
+              "currency": null,
+              "line_items": [
+                {
+                  "raw_text": "© 1x 36.000 + 36.000",
+                  "quantity": "1",
+                  "unit_price": null,
+                  "line_total": null
+                },
+                {
+                  "raw_text": "© 1x 0.000 Rr0. 000",
+                  "quantity": "1",
+                  "unit_price": null,
+                  "line_total": null
+                }
+              ],
+              "totals": {
+                "subtotal": null,
+                "tax": null,
+                "discount": null,
+                "grand_total": null
+              },
+              "evidence": {
+                "/line_items/0/raw_text": "© 1x 36.000 + 36.000",
+                "/line_items/0/quantity": "© 1x 36.000 + 36.000",
+                "/line_items/1/raw_text": "© 1x 0.000 Rr0. 000",
+                "/line_items/1/quantity": "© 1x 0.000 Rr0. 000"
+              },
+              "uncertainties": [
+                "Periods in 36.000, 0.000, and 15.000 may represent decimal marks or thousands grouping; monetary fields are left null.",
+                "The apparent total line reads '1 o*x=[0TAL © 36.000'; its label is corrupted and its amount is locale-ambiguous.",
+                "The cash line reads '. CASH Re51. 000 :' and contains an uncertain currency marker and amount.",
+                "The separate text lines '© Kimchi p' and '| Fre ice grentea' cannot be reliably associated with either numeric row; raw_text preserves only each numeric source row."
+              ],
+              "corrections": []
+            },
+            "numeric_policy": "grouped_commas",
+            "normalization_findings": [],
+            "checks": [
+              {
+                "id": "line_items/0/multiplication",
+                "status": "not_applicable",
+                "missing": [
+                  "unit_price",
+                  "line_total"
+                ]
+              },
+              {
+                "id": "line_items/1/multiplication",
+                "status": "not_applicable",
+                "missing": [
+                  "unit_price",
+                  "line_total"
+                ]
+              },
+              {
+                "id": "subtotal",
+                "status": "not_applicable",
+                "missing": [
+                  "subtotal",
+                  "line_items/0/line_total",
+                  "line_items/1/line_total"
+                ]
+              },
+              {
+                "id": "grand_total",
+                "status": "not_applicable",
+                "missing": [
+                  "subtotal",
+                  "tax",
+                  "discount",
+                  "grand_total"
+                ]
+              }
+            ],
+            "review_required": true,
+            "review_reasons": [
+              "Arithmetic unavailable: line_items/0/multiplication",
+              "Arithmetic unavailable: line_items/1/multiplication",
+              "Arithmetic unavailable: subtotal",
+              "Arithmetic unavailable: grand_total",
+              "Model reported unresolved uncertainties"
+            ],
+            "evidence_findings": [
+              {
+                "path": "/line_items/0/quantity",
+                "status": "supported",
+                "quote": "© 1x 36.000 + 36.000"
+              },
+              {
+                "path": "/line_items/0/raw_text",
+                "status": "supported",
+                "quote": "© 1x 36.000 + 36.000"
+              },
+              {
+                "path": "/line_items/1/quantity",
+                "status": "supported",
+                "quote": "© 1x 0.000 Rr0. 000"
+              },
+              {
+                "path": "/line_items/1/raw_text",
+                "status": "supported",
+                "quote": "© 1x 0.000 Rr0. 000"
+              }
+            ],
+            "limitations": [
+              "Evidence proves substring presence, not the correct field or row assignment.",
+              "Arithmetic consistency cannot prove values match the source document.",
+              "Model self-confidence is not a calibrated confidence signal.",
+              "Absolute arithmetic tolerance is 0.01; currency and rounding policy are not inferred.",
+              "Quantity-only delivery notes do not require monetary operands; unavailable arithmetic stays not_applicable."
+            ]
+          }
+        },
+        "f9918570b903": {
+          "rows": 0,
+          "populated_quantities": 0,
+          "complete_numeric_rows": 0,
+          "proposed_corrections": [],
+          "literal": {
+            "schema_valid": true,
+            "classification_preserved": true,
+            "record": {
+              "schema_version": "1.0",
+              "document_type": "delivery_note",
+              "document_number": "DC-968",
+              "date": "27/07/2026",
+              "currency": null,
+              "line_items": [],
+              "totals": {
+                "subtotal": null,
+                "tax": null,
+                "discount": null,
+                "grand_total": null
+              },
+              "evidence": {
+                "/document_number": "Challan No: DC-968.",
+                "/date": "Date: 27/07/2026."
+              },
+              "uncertainties": [
+                "No item rows or monetary totals are present in the supplied OCR.",
+                "The date spelling is preserved."
+              ],
+              "corrections": []
+            },
+            "numeric_policy": "literal",
+            "normalization_findings": [],
+            "checks": [
+              {
+                "id": "subtotal",
+                "status": "not_applicable",
+                "missing": [
+                  "subtotal",
+                  "line_items"
+                ]
+              },
+              {
+                "id": "grand_total",
+                "status": "not_applicable",
+                "missing": [
+                  "subtotal",
+                  "tax",
+                  "discount",
+                  "grand_total"
+                ]
+              }
+            ],
+            "review_required": true,
+            "review_reasons": [
+              "No extracted line items",
+              "Model reported unresolved uncertainties"
+            ],
+            "evidence_findings": [
+              {
+                "path": "/document_number",
+                "status": "supported",
+                "quote": "Challan No: DC-968."
+              },
+              {
+                "path": "/date",
+                "status": "supported",
+                "quote": "Date: 27/07/2026."
+              }
+            ],
+            "limitations": [
+              "Evidence proves substring presence, not the correct field or row assignment.",
+              "Arithmetic consistency cannot prove values match the source document.",
+              "Model self-confidence is not a calibrated confidence signal.",
+              "Absolute arithmetic tolerance is 0.01; currency and rounding policy are not inferred.",
+              "Quantity-only delivery notes do not require monetary operands; unavailable arithmetic stays not_applicable."
+            ]
+          },
+          "grouped_commas": {
+            "schema_valid": true,
+            "classification_preserved": true,
+            "record": {
+              "schema_version": "1.0",
+              "document_type": "delivery_note",
+              "document_number": "DC-968",
+              "date": "27/07/2026",
+              "currency": null,
+              "line_items": [],
+              "totals": {
+                "subtotal": null,
+                "tax": null,
+                "discount": null,
+                "grand_total": null
+              },
+              "evidence": {
+                "/document_number": "Challan No: DC-968.",
+                "/date": "Date: 27/07/2026."
+              },
+              "uncertainties": [
+                "No item rows or monetary totals are present in the supplied OCR.",
+                "The date spelling is preserved."
+              ],
+              "corrections": []
+            },
+            "numeric_policy": "grouped_commas",
+            "normalization_findings": [],
+            "checks": [
+              {
+                "id": "subtotal",
+                "status": "not_applicable",
+                "missing": [
+                  "subtotal",
+                  "line_items"
+                ]
+              },
+              {
+                "id": "grand_total",
+                "status": "not_applicable",
+                "missing": [
+                  "subtotal",
+                  "tax",
+                  "discount",
+                  "grand_total"
+                ]
+              }
+            ],
+            "review_required": true,
+            "review_reasons": [
+              "No extracted line items",
+              "Model reported unresolved uncertainties"
+            ],
+            "evidence_findings": [
+              {
+                "path": "/document_number",
+                "status": "supported",
+                "quote": "Challan No: DC-968."
+              },
+              {
+                "path": "/date",
+                "status": "supported",
+                "quote": "Date: 27/07/2026."
+              }
+            ],
+            "limitations": [
+              "Evidence proves substring presence, not the correct field or row assignment.",
+              "Arithmetic consistency cannot prove values match the source document.",
+              "Model self-confidence is not a calibrated confidence signal.",
+              "Absolute arithmetic tolerance is 0.01; currency and rounding policy are not inferred.",
+              "Quantity-only delivery notes do not require monetary operands; unavailable arithmetic stays not_applicable."
+            ]
+          }
+        },
+        "e396ade11def": {
+          "rows": 2,
+          "populated_quantities": 1,
+          "complete_numeric_rows": 1,
+          "proposed_corrections": [],
+          "literal": {
+            "schema_valid": true,
+            "classification_preserved": true,
+            "record": {
+              "schema_version": "1.0",
+              "document_type": "customer_copy",
+              "document_number": "INV-9957",
+              "date": "10/09/2026",
+              "currency": "Tk",
+              "line_items": [
+                {
+                  "raw_text": "of | Toothpaste 100g | 10 | Tk 120 | Tk 1,200 Po",
+                  "quantity": "10",
+                  "unit_price": "120",
+                  "line_total": "1200"
+                },
+                {
+                  "raw_text": "' ® | Exercise Book 1] Tk45 | Tx 45 |",
+                  "quantity": null,
+                  "unit_price": "45",
+                  "line_total": "45"
+                }
+              ],
+              "totals": {
+                "subtotal": null,
+                "tax": null,
+                "discount": null,
+                "grand_total": "1245"
+              },
+              "evidence": {
+                "/document_number": "Invoice No: INV-9957. Date: 10/09/2026. |",
+                "/date": "Invoice No: INV-9957. Date: 10/09/2026. |",
+                "/currency": "Rate (Tk)",
+                "/line_items/0/raw_text": "of | Toothpaste 100g | 10 | Tk 120 | Tk 1,200 Po",
+                "/line_items/0/quantity": "Toothpaste 100g | 10 | Tk 120",
+                "/line_items/0/unit_price": "Tk 120",
+                "/line_items/0/line_total": "Tk 1,200",
+                "/line_items/1/raw_text": "' ® | Exercise Book 1] Tk45 | Tx 45 |",
+                "/line_items/1/unit_price": "Tk45",
+                "/line_items/1/line_total": "Tx 45",
+                "/totals/grand_total": "Total: Tk 1,245."
+              },
+              "uncertainties": [
+                "Input document_type is customer_copy, but OCR explicitly says 'OFFICE COPY'; the input type is retained.",
+                "Comma-separated amounts are interpreted as thousands grouping (1,200; 1,245); OCR alone does not establish locale.",
+                "Exercise Book quantity appears as '1]' without a clear separator and is left null. The following Tk45 and Tx 45 occupy the rate and amount positions in the same row; the 'Tx' marker is preserved in evidence without correction.",
+                "The date spelling is preserved; day/month ordering is not resolved."
+              ],
+              "corrections": []
+            },
+            "numeric_policy": "literal",
+            "normalization_findings": [],
+            "checks": [
+              {
+                "id": "line_items/0/multiplication",
+                "status": "passed",
+                "expected": "1200",
+                "actual": "1200",
+                "difference": "0",
+                "tolerance": "0.01"
+              },
+              {
+                "id": "line_items/1/multiplication",
+                "status": "not_applicable",
+                "missing": [
+                  "quantity"
+                ]
+              },
+              {
+                "id": "subtotal",
+                "status": "not_applicable",
+                "missing": [
+                  "subtotal"
+                ]
+              },
+              {
+                "id": "grand_total",
+                "status": "not_applicable",
+                "missing": [
+                  "subtotal",
+                  "tax",
+                  "discount"
+                ]
+              }
+            ],
+            "review_required": true,
+            "review_reasons": [
+              "Missing quantity: line_items/1",
+              "Evidence value_not_in_evidence: /line_items/0/line_total",
+              "Evidence value_not_in_evidence: /totals/grand_total",
+              "Arithmetic unavailable: line_items/1/multiplication",
+              "Arithmetic unavailable: subtotal",
+              "Arithmetic unavailable: grand_total",
+              "Model reported unresolved uncertainties"
+            ],
+            "evidence_findings": [
+              {
+                "path": "/document_number",
+                "status": "supported",
+                "quote": "Invoice No: INV-9957. Date: 10/09/2026. |"
+              },
+              {
+                "path": "/date",
+                "status": "supported",
+                "quote": "Invoice No: INV-9957. Date: 10/09/2026. |"
+              },
+              {
+                "path": "/currency",
+                "status": "supported",
+                "quote": "Rate (Tk)"
+              },
+              {
+                "path": "/line_items/0/line_total",
+                "status": "value_not_in_evidence",
+                "quote": "Tk 1,200"
+              },
+              {
+                "path": "/line_items/0/quantity",
+                "status": "supported",
+                "quote": "Toothpaste 100g | 10 | Tk 120"
+              },
+              {
+                "path": "/line_items/0/raw_text",
+                "status": "supported",
+                "quote": "of | Toothpaste 100g | 10 | Tk 120 | Tk 1,200 Po"
+              },
+              {
+                "path": "/line_items/0/unit_price",
+                "status": "supported",
+                "quote": "Tk 120"
+              },
+              {
+                "path": "/line_items/1/line_total",
+                "status": "supported",
+                "quote": "Tx 45"
+              },
+              {
+                "path": "/line_items/1/raw_text",
+                "status": "supported",
+                "quote": "' ® | Exercise Book 1] Tk45 | Tx 45 |"
+              },
+              {
+                "path": "/line_items/1/unit_price",
+                "status": "supported",
+                "quote": "Tk45"
+              },
+              {
+                "path": "/totals/grand_total",
+                "status": "value_not_in_evidence",
+                "quote": "Total: Tk 1,245."
+              }
+            ],
+            "limitations": [
+              "Evidence proves substring presence, not the correct field or row assignment.",
+              "Arithmetic consistency cannot prove values match the source document.",
+              "Model self-confidence is not a calibrated confidence signal.",
+              "Absolute arithmetic tolerance is 0.01; currency and rounding policy are not inferred.",
+              "Quantity-only delivery notes do not require monetary operands; unavailable arithmetic stays not_applicable."
+            ]
+          },
+          "grouped_commas": {
+            "schema_valid": true,
+            "classification_preserved": true,
+            "record": {
+              "schema_version": "1.0",
+              "document_type": "customer_copy",
+              "document_number": "INV-9957",
+              "date": "10/09/2026",
+              "currency": "Tk",
+              "line_items": [
+                {
+                  "raw_text": "of | Toothpaste 100g | 10 | Tk 120 | Tk 1,200 Po",
+                  "quantity": "10",
+                  "unit_price": "120",
+                  "line_total": "1200"
+                },
+                {
+                  "raw_text": "' ® | Exercise Book 1] Tk45 | Tx 45 |",
+                  "quantity": null,
+                  "unit_price": "45",
+                  "line_total": "45"
+                }
+              ],
+              "totals": {
+                "subtotal": null,
+                "tax": null,
+                "discount": null,
+                "grand_total": "1245"
+              },
+              "evidence": {
+                "/document_number": "Invoice No: INV-9957. Date: 10/09/2026. |",
+                "/date": "Invoice No: INV-9957. Date: 10/09/2026. |",
+                "/currency": "Rate (Tk)",
+                "/line_items/0/raw_text": "of | Toothpaste 100g | 10 | Tk 120 | Tk 1,200 Po",
+                "/line_items/0/quantity": "Toothpaste 100g | 10 | Tk 120",
+                "/line_items/0/unit_price": "Tk 120",
+                "/line_items/0/line_total": "Tk 1,200",
+                "/line_items/1/raw_text": "' ® | Exercise Book 1] Tk45 | Tx 45 |",
+                "/line_items/1/unit_price": "Tk45",
+                "/line_items/1/line_total": "Tx 45",
+                "/totals/grand_total": "Total: Tk 1,245."
+              },
+              "uncertainties": [
+                "Input document_type is customer_copy, but OCR explicitly says 'OFFICE COPY'; the input type is retained.",
+                "Comma-separated amounts are interpreted as thousands grouping (1,200; 1,245); OCR alone does not establish locale.",
+                "Exercise Book quantity appears as '1]' without a clear separator and is left null. The following Tk45 and Tx 45 occupy the rate and amount positions in the same row; the 'Tx' marker is preserved in evidence without correction.",
+                "The date spelling is preserved; day/month ordering is not resolved."
+              ],
+              "corrections": []
+            },
+            "numeric_policy": "grouped_commas",
+            "normalization_findings": [
+              {
+                "path": "/line_items/0/line_total",
+                "source_token": "1,200",
+                "normalized_value": "1200",
+                "rule": "assumed_English_grouped_commas"
+              }
+            ],
+            "checks": [
+              {
+                "id": "line_items/0/multiplication",
+                "status": "passed",
+                "expected": "1200",
+                "actual": "1200",
+                "difference": "0",
+                "tolerance": "0.01"
+              },
+              {
+                "id": "line_items/1/multiplication",
+                "status": "not_applicable",
+                "missing": [
+                  "quantity"
+                ]
+              },
+              {
+                "id": "subtotal",
+                "status": "not_applicable",
+                "missing": [
+                  "subtotal"
+                ]
+              },
+              {
+                "id": "grand_total",
+                "status": "not_applicable",
+                "missing": [
+                  "subtotal",
+                  "tax",
+                  "discount"
+                ]
+              }
+            ],
+            "review_required": true,
+            "review_reasons": [
+              "Missing quantity: line_items/1",
+              "Evidence value_not_in_evidence: /totals/grand_total",
+              "Arithmetic unavailable: line_items/1/multiplication",
+              "Arithmetic unavailable: subtotal",
+              "Arithmetic unavailable: grand_total",
+              "Numeric grouping normalization uses an explicit unverified locale assumption",
+              "Model reported unresolved uncertainties"
+            ],
+            "evidence_findings": [
+              {
+                "path": "/document_number",
+                "status": "supported",
+                "quote": "Invoice No: INV-9957. Date: 10/09/2026. |"
+              },
+              {
+                "path": "/date",
+                "status": "supported",
+                "quote": "Invoice No: INV-9957. Date: 10/09/2026. |"
+              },
+              {
+                "path": "/currency",
+                "status": "supported",
+                "quote": "Rate (Tk)"
+              },
+              {
+                "path": "/line_items/0/line_total",
+                "status": "supported_normalized",
+                "quote": "Tk 1,200"
+              },
+              {
+                "path": "/line_items/0/quantity",
+                "status": "supported",
+                "quote": "Toothpaste 100g | 10 | Tk 120"
+              },
+              {
+                "path": "/line_items/0/raw_text",
+                "status": "supported",
+                "quote": "of | Toothpaste 100g | 10 | Tk 120 | Tk 1,200 Po"
+              },
+              {
+                "path": "/line_items/0/unit_price",
+                "status": "supported",
+                "quote": "Tk 120"
+              },
+              {
+                "path": "/line_items/1/line_total",
+                "status": "supported",
+                "quote": "Tx 45"
+              },
+              {
+                "path": "/line_items/1/raw_text",
+                "status": "supported",
+                "quote": "' ® | Exercise Book 1] Tk45 | Tx 45 |"
+              },
+              {
+                "path": "/line_items/1/unit_price",
+                "status": "supported",
+                "quote": "Tk45"
+              },
+              {
+                "path": "/totals/grand_total",
+                "status": "value_not_in_evidence",
+                "quote": "Total: Tk 1,245."
+              }
+            ],
+            "limitations": [
+              "Evidence proves substring presence, not the correct field or row assignment.",
+              "Arithmetic consistency cannot prove values match the source document.",
+              "Model self-confidence is not a calibrated confidence signal.",
+              "Absolute arithmetic tolerance is 0.01; currency and rounding policy are not inferred.",
+              "Quantity-only delivery notes do not require monetary operands; unavailable arithmetic stays not_applicable."
+            ]
+          }
+        },
+        "cdd7aaa9004d": {
+          "rows": 0,
+          "populated_quantities": 0,
+          "complete_numeric_rows": 0,
+          "proposed_corrections": [],
+          "literal": {
+            "schema_valid": true,
+            "classification_preserved": true,
+            "record": {
+              "schema_version": "1.0",
+              "document_type": "purchase_order",
+              "document_number": "INV-9335",
+              "date": "13/08/2026",
+              "currency": "Tk",
+              "line_items": [],
+              "totals": {
+                "subtotal": null,
+                "tax": null,
+                "discount": null,
+                "grand_total": "45340"
+              },
+              "evidence": {
+                "/document_number": "Invoice No: INV-9335. :",
+                "/date": "Date: 13/08/2026.",
+                "/currency": "Total:  Tk45,340.",
+                "/totals/grand_total": "Total:  Tk45,340."
+              },
+              "uncertainties": [
+                "Input document_type is purchase_order, while OCR says 'Invoice' and 'Invoice No'; the input type is retained.",
+                "The text 'TOMER COPY' is truncated and is not silently repaired.",
+                "45,340 is interpreted as thousands grouping; OCR alone does not establish locale.",
+                "No item rows are present in the supplied OCR.",
+                "The date spelling is preserved."
+              ],
+              "corrections": []
+            },
+            "numeric_policy": "literal",
+            "normalization_findings": [],
+            "checks": [
+              {
+                "id": "subtotal",
+                "status": "not_applicable",
+                "missing": [
+                  "subtotal",
+                  "line_items"
+                ]
+              },
+              {
+                "id": "grand_total",
+                "status": "not_applicable",
+                "missing": [
+                  "subtotal",
+                  "tax",
+                  "discount"
+                ]
+              }
+            ],
+            "review_required": true,
+            "review_reasons": [
+              "No extracted line items",
+              "Evidence value_not_in_evidence: /totals/grand_total",
+              "Arithmetic unavailable: subtotal",
+              "Arithmetic unavailable: grand_total",
+              "Model reported unresolved uncertainties"
+            ],
+            "evidence_findings": [
+              {
+                "path": "/document_number",
+                "status": "supported",
+                "quote": "Invoice No: INV-9335. :"
+              },
+              {
+                "path": "/date",
+                "status": "supported",
+                "quote": "Date: 13/08/2026."
+              },
+              {
+                "path": "/currency",
+                "status": "supported",
+                "quote": "Total:  Tk45,340."
+              },
+              {
+                "path": "/totals/grand_total",
+                "status": "value_not_in_evidence",
+                "quote": "Total:  Tk45,340."
+              }
+            ],
+            "limitations": [
+              "Evidence proves substring presence, not the correct field or row assignment.",
+              "Arithmetic consistency cannot prove values match the source document.",
+              "Model self-confidence is not a calibrated confidence signal.",
+              "Absolute arithmetic tolerance is 0.01; currency and rounding policy are not inferred.",
+              "Quantity-only delivery notes do not require monetary operands; unavailable arithmetic stays not_applicable."
+            ]
+          },
+          "grouped_commas": {
+            "schema_valid": true,
+            "classification_preserved": true,
+            "record": {
+              "schema_version": "1.0",
+              "document_type": "purchase_order",
+              "document_number": "INV-9335",
+              "date": "13/08/2026",
+              "currency": "Tk",
+              "line_items": [],
+              "totals": {
+                "subtotal": null,
+                "tax": null,
+                "discount": null,
+                "grand_total": "45340"
+              },
+              "evidence": {
+                "/document_number": "Invoice No: INV-9335. :",
+                "/date": "Date: 13/08/2026.",
+                "/currency": "Total:  Tk45,340.",
+                "/totals/grand_total": "Total:  Tk45,340."
+              },
+              "uncertainties": [
+                "Input document_type is purchase_order, while OCR says 'Invoice' and 'Invoice No'; the input type is retained.",
+                "The text 'TOMER COPY' is truncated and is not silently repaired.",
+                "45,340 is interpreted as thousands grouping; OCR alone does not establish locale.",
+                "No item rows are present in the supplied OCR.",
+                "The date spelling is preserved."
+              ],
+              "corrections": []
+            },
+            "numeric_policy": "grouped_commas",
+            "normalization_findings": [],
+            "checks": [
+              {
+                "id": "subtotal",
+                "status": "not_applicable",
+                "missing": [
+                  "subtotal",
+                  "line_items"
+                ]
+              },
+              {
+                "id": "grand_total",
+                "status": "not_applicable",
+                "missing": [
+                  "subtotal",
+                  "tax",
+                  "discount"
+                ]
+              }
+            ],
+            "review_required": true,
+            "review_reasons": [
+              "No extracted line items",
+              "Evidence value_not_in_evidence: /totals/grand_total",
+              "Arithmetic unavailable: subtotal",
+              "Arithmetic unavailable: grand_total",
+              "Model reported unresolved uncertainties"
+            ],
+            "evidence_findings": [
+              {
+                "path": "/document_number",
+                "status": "supported",
+                "quote": "Invoice No: INV-9335. :"
+              },
+              {
+                "path": "/date",
+                "status": "supported",
+                "quote": "Date: 13/08/2026."
+              },
+              {
+                "path": "/currency",
+                "status": "supported",
+                "quote": "Total:  Tk45,340."
+              },
+              {
+                "path": "/totals/grand_total",
+                "status": "value_not_in_evidence",
+                "quote": "Total:  Tk45,340."
+              }
+            ],
+            "limitations": [
+              "Evidence proves substring presence, not the correct field or row assignment.",
+              "Arithmetic consistency cannot prove values match the source document.",
+              "Model self-confidence is not a calibrated confidence signal.",
+              "Absolute arithmetic tolerance is 0.01; currency and rounding policy are not inferred.",
+              "Quantity-only delivery notes do not require monetary operands; unavailable arithmetic stays not_applicable."
+            ]
+          }
+        }
+      },
+      "input_ids_missing": [],
+      "counts": {
+        "rows": 6,
+        "populated_quantities": 4,
+        "complete_numeric_rows": 2
+      },
+      "literal": {
+        "schema_valid": 5,
+        "review_required": 5,
+        "all_evidence_supported": 2,
+        "arithmetic": {
+          "passed": 2,
+          "failed": 0,
+          "not_applicable": 14
+        }
+      },
+      "grouped_commas": {
+        "schema_valid": 5,
+        "review_required": 5,
+        "all_evidence_supported": 2,
+        "arithmetic": {
+          "passed": 2,
+          "failed": 0,
+          "not_applicable": 14
+        }
+      }
+    },
+    "region": {
+      "input_sha256": "54e371200befe2a050319e6e7dcd704fbafaf3356543ecfa02780f8a7a2c4d29",
+      "response_sha256": "0d022b20a9f11f55ccfb048f49343658156d5746005afefe77f14523132dc0d8",
+      "prompt_sha256": "5095b532c7318c97a2bae13fc4f7ae007e10ed0fe13743240a2172dc41126d76",
+      "human_verified": false,
+      "records": {
+        "76cc99d39da4": {
+          "rows": 2,
+          "populated_quantities": 2,
+          "complete_numeric_rows": 2,
+          "proposed_corrections": [],
+          "literal": {
+            "schema_valid": true,
+            "classification_preserved": true,
+            "record": {
+              "schema_version": "1.0",
+              "document_type": "purchase_order",
+              "document_number": "ORD-9953",
+              "date": "04/07/2026",
+              "currency": "Tk",
+              "line_items": [
+                {
+                  "raw_text": "Miniket Rice 25kg 24 Tk 1,850 Tk 44,400",
+                  "quantity": "24",
+                  "unit_price": "1850",
+                  "line_total": "44400"
+                },
+                {
+                  "raw_text": "Onion 1kg 20 Tk 65 Tk 1,300",
+                  "quantity": "20",
+                  "unit_price": "65",
+                  "line_total": "1300"
+                }
+              ],
+              "totals": {
+                "subtotal": null,
+                "tax": null,
+                "discount": null,
+                "grand_total": "45700"
+              },
+              "evidence": {
+                "/document_number": "Order No: ORD-9953,",
+                "/date": "Order Date: 04/07/2026.",
+                "/currency": "Rate (Tk)",
+                "/line_items/0/raw_text": "Miniket Rice 25kg 24 Tk 1,850 Tk 44,400",
+                "/line_items/0/quantity": "Miniket Rice 25kg 24 Tk 1,850 Tk 44,400",
+                "/line_items/0/unit_price": "Tk 1,850",
+                "/line_items/0/line_total": "Tk 44,400",
+                "/line_items/1/raw_text": "Onion 1kg 20 Tk 65 Tk 1,300",
+                "/line_items/1/quantity": "Onion 1kg 20 Tk 65 Tk 1,300",
+                "/line_items/1/unit_price": "Tk 65",
+                "/line_items/1/line_total": "Tk 1,300",
+                "/totals/grand_total": "Total: Tk 45,700."
+              },
+              "uncertainties": [
+                "Comma groups interpreted as thousands separators; locale is not explicitly specified.",
+                "The Miniket row repeats in the primary and automatic-region OCR and is represented once.",
+                "Other primary-view table text is corrupted; automatic-region rows provide the readable entries."
+              ],
+              "corrections": []
+            },
+            "numeric_policy": "literal",
+            "normalization_findings": [],
+            "checks": [
+              {
+                "id": "line_items/0/multiplication",
+                "status": "passed",
+                "expected": "44400",
+                "actual": "44400",
+                "difference": "0",
+                "tolerance": "0.01"
+              },
+              {
+                "id": "line_items/1/multiplication",
+                "status": "passed",
+                "expected": "1300",
+                "actual": "1300",
+                "difference": "0",
+                "tolerance": "0.01"
+              },
+              {
+                "id": "subtotal",
+                "status": "not_applicable",
+                "missing": [
+                  "subtotal"
+                ]
+              },
+              {
+                "id": "grand_total",
+                "status": "not_applicable",
+                "missing": [
+                  "subtotal",
+                  "tax",
+                  "discount"
+                ]
+              }
+            ],
+            "review_required": true,
+            "review_reasons": [
+              "Evidence value_not_in_evidence: /line_items/0/line_total",
+              "Evidence value_not_in_evidence: /line_items/0/unit_price",
+              "Evidence value_not_in_evidence: /line_items/1/line_total",
+              "Evidence value_not_in_evidence: /totals/grand_total",
+              "Arithmetic unavailable: subtotal",
+              "Arithmetic unavailable: grand_total",
+              "Model reported unresolved uncertainties"
+            ],
+            "evidence_findings": [
+              {
+                "path": "/document_number",
+                "status": "supported",
+                "quote": "Order No: ORD-9953,"
+              },
+              {
+                "path": "/date",
+                "status": "supported",
+                "quote": "Order Date: 04/07/2026."
+              },
+              {
+                "path": "/currency",
+                "status": "supported",
+                "quote": "Rate (Tk)"
+              },
+              {
+                "path": "/line_items/0/line_total",
+                "status": "value_not_in_evidence",
+                "quote": "Tk 44,400"
+              },
+              {
+                "path": "/line_items/0/quantity",
+                "status": "supported",
+                "quote": "Miniket Rice 25kg 24 Tk 1,850 Tk 44,400"
+              },
+              {
+                "path": "/line_items/0/raw_text",
+                "status": "supported",
+                "quote": "Miniket Rice 25kg 24 Tk 1,850 Tk 44,400"
+              },
+              {
+                "path": "/line_items/0/unit_price",
+                "status": "value_not_in_evidence",
+                "quote": "Tk 1,850"
+              },
+              {
+                "path": "/line_items/1/line_total",
+                "status": "value_not_in_evidence",
+                "quote": "Tk 1,300"
+              },
+              {
+                "path": "/line_items/1/quantity",
+                "status": "supported",
+                "quote": "Onion 1kg 20 Tk 65 Tk 1,300"
+              },
+              {
+                "path": "/line_items/1/raw_text",
+                "status": "supported",
+                "quote": "Onion 1kg 20 Tk 65 Tk 1,300"
+              },
+              {
+                "path": "/line_items/1/unit_price",
+                "status": "supported",
+                "quote": "Tk 65"
+              },
+              {
+                "path": "/totals/grand_total",
+                "status": "value_not_in_evidence",
+                "quote": "Total: Tk 45,700."
+              }
+            ],
+            "limitations": [
+              "Evidence proves substring presence, not the correct field or row assignment.",
+              "Arithmetic consistency cannot prove values match the source document.",
+              "Model self-confidence is not a calibrated confidence signal.",
+              "Absolute arithmetic tolerance is 0.01; currency and rounding policy are not inferred.",
+              "Quantity-only delivery notes do not require monetary operands; unavailable arithmetic stays not_applicable."
+            ]
+          },
+          "grouped_commas": {
+            "schema_valid": true,
+            "classification_preserved": true,
+            "record": {
+              "schema_version": "1.0",
+              "document_type": "purchase_order",
+              "document_number": "ORD-9953",
+              "date": "04/07/2026",
+              "currency": "Tk",
+              "line_items": [
+                {
+                  "raw_text": "Miniket Rice 25kg 24 Tk 1,850 Tk 44,400",
+                  "quantity": "24",
+                  "unit_price": "1850",
+                  "line_total": "44400"
+                },
+                {
+                  "raw_text": "Onion 1kg 20 Tk 65 Tk 1,300",
+                  "quantity": "20",
+                  "unit_price": "65",
+                  "line_total": "1300"
+                }
+              ],
+              "totals": {
+                "subtotal": null,
+                "tax": null,
+                "discount": null,
+                "grand_total": "45700"
+              },
+              "evidence": {
+                "/document_number": "Order No: ORD-9953,",
+                "/date": "Order Date: 04/07/2026.",
+                "/currency": "Rate (Tk)",
+                "/line_items/0/raw_text": "Miniket Rice 25kg 24 Tk 1,850 Tk 44,400",
+                "/line_items/0/quantity": "Miniket Rice 25kg 24 Tk 1,850 Tk 44,400",
+                "/line_items/0/unit_price": "Tk 1,850",
+                "/line_items/0/line_total": "Tk 44,400",
+                "/line_items/1/raw_text": "Onion 1kg 20 Tk 65 Tk 1,300",
+                "/line_items/1/quantity": "Onion 1kg 20 Tk 65 Tk 1,300",
+                "/line_items/1/unit_price": "Tk 65",
+                "/line_items/1/line_total": "Tk 1,300",
+                "/totals/grand_total": "Total: Tk 45,700."
+              },
+              "uncertainties": [
+                "Comma groups interpreted as thousands separators; locale is not explicitly specified.",
+                "The Miniket row repeats in the primary and automatic-region OCR and is represented once.",
+                "Other primary-view table text is corrupted; automatic-region rows provide the readable entries."
+              ],
+              "corrections": []
+            },
+            "numeric_policy": "grouped_commas",
+            "normalization_findings": [
+              {
+                "path": "/line_items/0/line_total",
+                "source_token": "44,400",
+                "normalized_value": "44400",
+                "rule": "assumed_English_grouped_commas"
+              },
+              {
+                "path": "/line_items/0/unit_price",
+                "source_token": "1,850",
+                "normalized_value": "1850",
+                "rule": "assumed_English_grouped_commas"
+              },
+              {
+                "path": "/line_items/1/line_total",
+                "source_token": "1,300",
+                "normalized_value": "1300",
+                "rule": "assumed_English_grouped_commas"
+              }
+            ],
+            "checks": [
+              {
+                "id": "line_items/0/multiplication",
+                "status": "passed",
+                "expected": "44400",
+                "actual": "44400",
+                "difference": "0",
+                "tolerance": "0.01"
+              },
+              {
+                "id": "line_items/1/multiplication",
+                "status": "passed",
+                "expected": "1300",
+                "actual": "1300",
+                "difference": "0",
+                "tolerance": "0.01"
+              },
+              {
+                "id": "subtotal",
+                "status": "not_applicable",
+                "missing": [
+                  "subtotal"
+                ]
+              },
+              {
+                "id": "grand_total",
+                "status": "not_applicable",
+                "missing": [
+                  "subtotal",
+                  "tax",
+                  "discount"
+                ]
+              }
+            ],
+            "review_required": true,
+            "review_reasons": [
+              "Evidence value_not_in_evidence: /totals/grand_total",
+              "Arithmetic unavailable: subtotal",
+              "Arithmetic unavailable: grand_total",
+              "Numeric grouping normalization uses an explicit unverified locale assumption",
+              "Model reported unresolved uncertainties"
+            ],
+            "evidence_findings": [
+              {
+                "path": "/document_number",
+                "status": "supported",
+                "quote": "Order No: ORD-9953,"
+              },
+              {
+                "path": "/date",
+                "status": "supported",
+                "quote": "Order Date: 04/07/2026."
+              },
+              {
+                "path": "/currency",
+                "status": "supported",
+                "quote": "Rate (Tk)"
+              },
+              {
+                "path": "/line_items/0/line_total",
+                "status": "supported_normalized",
+                "quote": "Tk 44,400"
+              },
+              {
+                "path": "/line_items/0/quantity",
+                "status": "supported",
+                "quote": "Miniket Rice 25kg 24 Tk 1,850 Tk 44,400"
+              },
+              {
+                "path": "/line_items/0/raw_text",
+                "status": "supported",
+                "quote": "Miniket Rice 25kg 24 Tk 1,850 Tk 44,400"
+              },
+              {
+                "path": "/line_items/0/unit_price",
+                "status": "supported_normalized",
+                "quote": "Tk 1,850"
+              },
+              {
+                "path": "/line_items/1/line_total",
+                "status": "supported_normalized",
+                "quote": "Tk 1,300"
+              },
+              {
+                "path": "/line_items/1/quantity",
+                "status": "supported",
+                "quote": "Onion 1kg 20 Tk 65 Tk 1,300"
+              },
+              {
+                "path": "/line_items/1/raw_text",
+                "status": "supported",
+                "quote": "Onion 1kg 20 Tk 65 Tk 1,300"
+              },
+              {
+                "path": "/line_items/1/unit_price",
+                "status": "supported",
+                "quote": "Tk 65"
+              },
+              {
+                "path": "/totals/grand_total",
+                "status": "value_not_in_evidence",
+                "quote": "Total: Tk 45,700."
+              }
+            ],
+            "limitations": [
+              "Evidence proves substring presence, not the correct field or row assignment.",
+              "Arithmetic consistency cannot prove values match the source document.",
+              "Model self-confidence is not a calibrated confidence signal.",
+              "Absolute arithmetic tolerance is 0.01; currency and rounding policy are not inferred.",
+              "Quantity-only delivery notes do not require monetary operands; unavailable arithmetic stays not_applicable."
+            ]
+          }
+        },
+        "5dffabcb47cb": {
+          "rows": 2,
+          "populated_quantities": 2,
+          "complete_numeric_rows": 0,
+          "proposed_corrections": [],
+          "literal": {
+            "schema_valid": true,
+            "classification_preserved": true,
+            "record": {
+              "schema_version": "1.0",
+              "document_type": "receipt",
+              "document_number": null,
+              "date": null,
+              "currency": null,
+              "line_items": [
+                {
+                  "raw_text": "1x 36.000 + 36.000",
+                  "quantity": "1",
+                  "unit_price": null,
+                  "line_total": null
+                },
+                {
+                  "raw_text": "1x 0.000 Rr0. 000",
+                  "quantity": "1",
+                  "unit_price": null,
+                  "line_total": null
+                }
+              ],
+              "totals": {
+                "subtotal": null,
+                "tax": null,
+                "discount": null,
+                "grand_total": null
+              },
+              "evidence": {
+                "/line_items/0/raw_text": "1x 36.000 + 36.000",
+                "/line_items/0/quantity": "1x 36.000 + 36.000",
+                "/line_items/1/raw_text": "1x 0.000 Rr0. 000",
+                "/line_items/1/quantity": "1x 0.000 Rr0. 000"
+              },
+              "uncertainties": [
+                "The dot in 36.000 and 15.000 may be a decimal or thousands separator; monetary fields remain null.",
+                "The second numeric row is corrupted as 0.000 Rr0. 000; its monetary interpretation remains unresolved.",
+                "Kimchi p and Fre ice grentea occur on separate lines; item-name association with numeric rows is not established.",
+                "The apparent total label is corrupted as o*x=[0TAL; no monetary total is normalized.",
+                "CASH Re51. 000 and CHANGE % 15.000 contain unclear symbols; currency is not established."
+              ],
+              "corrections": []
+            },
+            "numeric_policy": "literal",
+            "normalization_findings": [],
+            "checks": [
+              {
+                "id": "line_items/0/multiplication",
+                "status": "not_applicable",
+                "missing": [
+                  "unit_price",
+                  "line_total"
+                ]
+              },
+              {
+                "id": "line_items/1/multiplication",
+                "status": "not_applicable",
+                "missing": [
+                  "unit_price",
+                  "line_total"
+                ]
+              },
+              {
+                "id": "subtotal",
+                "status": "not_applicable",
+                "missing": [
+                  "subtotal",
+                  "line_items/0/line_total",
+                  "line_items/1/line_total"
+                ]
+              },
+              {
+                "id": "grand_total",
+                "status": "not_applicable",
+                "missing": [
+                  "subtotal",
+                  "tax",
+                  "discount",
+                  "grand_total"
+                ]
+              }
+            ],
+            "review_required": true,
+            "review_reasons": [
+              "Arithmetic unavailable: line_items/0/multiplication",
+              "Arithmetic unavailable: line_items/1/multiplication",
+              "Arithmetic unavailable: subtotal",
+              "Arithmetic unavailable: grand_total",
+              "Model reported unresolved uncertainties"
+            ],
+            "evidence_findings": [
+              {
+                "path": "/line_items/0/quantity",
+                "status": "supported",
+                "quote": "1x 36.000 + 36.000"
+              },
+              {
+                "path": "/line_items/0/raw_text",
+                "status": "supported",
+                "quote": "1x 36.000 + 36.000"
+              },
+              {
+                "path": "/line_items/1/quantity",
+                "status": "supported",
+                "quote": "1x 0.000 Rr0. 000"
+              },
+              {
+                "path": "/line_items/1/raw_text",
+                "status": "supported",
+                "quote": "1x 0.000 Rr0. 000"
+              }
+            ],
+            "limitations": [
+              "Evidence proves substring presence, not the correct field or row assignment.",
+              "Arithmetic consistency cannot prove values match the source document.",
+              "Model self-confidence is not a calibrated confidence signal.",
+              "Absolute arithmetic tolerance is 0.01; currency and rounding policy are not inferred.",
+              "Quantity-only delivery notes do not require monetary operands; unavailable arithmetic stays not_applicable."
+            ]
+          },
+          "grouped_commas": {
+            "schema_valid": true,
+            "classification_preserved": true,
+            "record": {
+              "schema_version": "1.0",
+              "document_type": "receipt",
+              "document_number": null,
+              "date": null,
+              "currency": null,
+              "line_items": [
+                {
+                  "raw_text": "1x 36.000 + 36.000",
+                  "quantity": "1",
+                  "unit_price": null,
+                  "line_total": null
+                },
+                {
+                  "raw_text": "1x 0.000 Rr0. 000",
+                  "quantity": "1",
+                  "unit_price": null,
+                  "line_total": null
+                }
+              ],
+              "totals": {
+                "subtotal": null,
+                "tax": null,
+                "discount": null,
+                "grand_total": null
+              },
+              "evidence": {
+                "/line_items/0/raw_text": "1x 36.000 + 36.000",
+                "/line_items/0/quantity": "1x 36.000 + 36.000",
+                "/line_items/1/raw_text": "1x 0.000 Rr0. 000",
+                "/line_items/1/quantity": "1x 0.000 Rr0. 000"
+              },
+              "uncertainties": [
+                "The dot in 36.000 and 15.000 may be a decimal or thousands separator; monetary fields remain null.",
+                "The second numeric row is corrupted as 0.000 Rr0. 000; its monetary interpretation remains unresolved.",
+                "Kimchi p and Fre ice grentea occur on separate lines; item-name association with numeric rows is not established.",
+                "The apparent total label is corrupted as o*x=[0TAL; no monetary total is normalized.",
+                "CASH Re51. 000 and CHANGE % 15.000 contain unclear symbols; currency is not established."
+              ],
+              "corrections": []
+            },
+            "numeric_policy": "grouped_commas",
+            "normalization_findings": [],
+            "checks": [
+              {
+                "id": "line_items/0/multiplication",
+                "status": "not_applicable",
+                "missing": [
+                  "unit_price",
+                  "line_total"
+                ]
+              },
+              {
+                "id": "line_items/1/multiplication",
+                "status": "not_applicable",
+                "missing": [
+                  "unit_price",
+                  "line_total"
+                ]
+              },
+              {
+                "id": "subtotal",
+                "status": "not_applicable",
+                "missing": [
+                  "subtotal",
+                  "line_items/0/line_total",
+                  "line_items/1/line_total"
+                ]
+              },
+              {
+                "id": "grand_total",
+                "status": "not_applicable",
+                "missing": [
+                  "subtotal",
+                  "tax",
+                  "discount",
+                  "grand_total"
+                ]
+              }
+            ],
+            "review_required": true,
+            "review_reasons": [
+              "Arithmetic unavailable: line_items/0/multiplication",
+              "Arithmetic unavailable: line_items/1/multiplication",
+              "Arithmetic unavailable: subtotal",
+              "Arithmetic unavailable: grand_total",
+              "Model reported unresolved uncertainties"
+            ],
+            "evidence_findings": [
+              {
+                "path": "/line_items/0/quantity",
+                "status": "supported",
+                "quote": "1x 36.000 + 36.000"
+              },
+              {
+                "path": "/line_items/0/raw_text",
+                "status": "supported",
+                "quote": "1x 36.000 + 36.000"
+              },
+              {
+                "path": "/line_items/1/quantity",
+                "status": "supported",
+                "quote": "1x 0.000 Rr0. 000"
+              },
+              {
+                "path": "/line_items/1/raw_text",
+                "status": "supported",
+                "quote": "1x 0.000 Rr0. 000"
+              }
+            ],
+            "limitations": [
+              "Evidence proves substring presence, not the correct field or row assignment.",
+              "Arithmetic consistency cannot prove values match the source document.",
+              "Model self-confidence is not a calibrated confidence signal.",
+              "Absolute arithmetic tolerance is 0.01; currency and rounding policy are not inferred.",
+              "Quantity-only delivery notes do not require monetary operands; unavailable arithmetic stays not_applicable."
+            ]
+          }
+        },
+        "f9918570b903": {
+          "rows": 5,
+          "populated_quantities": 5,
+          "complete_numeric_rows": 0,
+          "proposed_corrections": [],
+          "literal": {
+            "schema_valid": true,
+            "classification_preserved": true,
+            "record": {
+              "schema_version": "1.0",
+              "document_type": "delivery_note",
+              "document_number": "DC-968",
+              "date": "27/07/2026",
+              "currency": null,
+              "line_items": [
+                {
+                  "raw_text": "1 Mustard Oil 1L 6",
+                  "quantity": "6",
+                  "unit_price": null,
+                  "line_total": null
+                },
+                {
+                  "raw_text": "2 Milk Powder 500g 20",
+                  "quantity": "20",
+                  "unit_price": null,
+                  "line_total": null
+                },
+                {
+                  "raw_text": "3 Detergent 500g 12",
+                  "quantity": "12",
+                  "unit_price": null,
+                  "line_total": null
+                },
+                {
+                  "raw_text": "4 Onion 1kg 12",
+                  "quantity": "12",
+                  "unit_price": null,
+                  "line_total": null
+                },
+                {
+                  "raw_text": "5 Salt 1kg 2",
+                  "quantity": "2",
+                  "unit_price": null,
+                  "line_total": null
+                }
+              ],
+              "totals": {
+                "subtotal": null,
+                "tax": null,
+                "discount": null,
+                "grand_total": null
+              },
+              "evidence": {
+                "/document_number": "Challan No: DC-968.",
+                "/date": "Date: 27/07/2026.",
+                "/line_items/0/raw_text": "1 Mustard Oil 1L 6",
+                "/line_items/0/quantity": "1 Mustard Oil 1L 6",
+                "/line_items/1/raw_text": "2 Milk Powder 500g 20",
+                "/line_items/1/quantity": "2 Milk Powder 500g 20",
+                "/line_items/2/raw_text": "3 Detergent 500g 12",
+                "/line_items/2/quantity": "3 Detergent 500g 12",
+                "/line_items/3/raw_text": "4 Onion 1kg 12",
+                "/line_items/3/quantity": "4 Onion 1kg 12",
+                "/line_items/4/raw_text": "5 Salt 1kg 2",
+                "/line_items/4/quantity": "5 Salt 1kg 2"
+              },
+              "uncertainties": [],
+              "corrections": []
+            },
+            "numeric_policy": "literal",
+            "normalization_findings": [],
+            "checks": [
+              {
+                "id": "line_items/0/multiplication",
+                "status": "not_applicable",
+                "missing": [
+                  "unit_price",
+                  "line_total"
+                ]
+              },
+              {
+                "id": "line_items/1/multiplication",
+                "status": "not_applicable",
+                "missing": [
+                  "unit_price",
+                  "line_total"
+                ]
+              },
+              {
+                "id": "line_items/2/multiplication",
+                "status": "not_applicable",
+                "missing": [
+                  "unit_price",
+                  "line_total"
+                ]
+              },
+              {
+                "id": "line_items/3/multiplication",
+                "status": "not_applicable",
+                "missing": [
+                  "unit_price",
+                  "line_total"
+                ]
+              },
+              {
+                "id": "line_items/4/multiplication",
+                "status": "not_applicable",
+                "missing": [
+                  "unit_price",
+                  "line_total"
+                ]
+              },
+              {
+                "id": "subtotal",
+                "status": "not_applicable",
+                "missing": [
+                  "subtotal",
+                  "line_items/0/line_total",
+                  "line_items/1/line_total",
+                  "line_items/2/line_total",
+                  "line_items/3/line_total",
+                  "line_items/4/line_total"
+                ]
+              },
+              {
+                "id": "grand_total",
+                "status": "not_applicable",
+                "missing": [
+                  "subtotal",
+                  "tax",
+                  "discount",
+                  "grand_total"
+                ]
+              }
+            ],
+            "review_required": false,
+            "review_reasons": [],
+            "evidence_findings": [
+              {
+                "path": "/document_number",
+                "status": "supported",
+                "quote": "Challan No: DC-968."
+              },
+              {
+                "path": "/date",
+                "status": "supported",
+                "quote": "Date: 27/07/2026."
+              },
+              {
+                "path": "/line_items/0/quantity",
+                "status": "supported",
+                "quote": "1 Mustard Oil 1L 6"
+              },
+              {
+                "path": "/line_items/0/raw_text",
+                "status": "supported",
+                "quote": "1 Mustard Oil 1L 6"
+              },
+              {
+                "path": "/line_items/1/quantity",
+                "status": "supported",
+                "quote": "2 Milk Powder 500g 20"
+              },
+              {
+                "path": "/line_items/1/raw_text",
+                "status": "supported",
+                "quote": "2 Milk Powder 500g 20"
+              },
+              {
+                "path": "/line_items/2/quantity",
+                "status": "supported",
+                "quote": "3 Detergent 500g 12"
+              },
+              {
+                "path": "/line_items/2/raw_text",
+                "status": "supported",
+                "quote": "3 Detergent 500g 12"
+              },
+              {
+                "path": "/line_items/3/quantity",
+                "status": "supported",
+                "quote": "4 Onion 1kg 12"
+              },
+              {
+                "path": "/line_items/3/raw_text",
+                "status": "supported",
+                "quote": "4 Onion 1kg 12"
+              },
+              {
+                "path": "/line_items/4/quantity",
+                "status": "supported",
+                "quote": "5 Salt 1kg 2"
+              },
+              {
+                "path": "/line_items/4/raw_text",
+                "status": "supported",
+                "quote": "5 Salt 1kg 2"
+              }
+            ],
+            "limitations": [
+              "Evidence proves substring presence, not the correct field or row assignment.",
+              "Arithmetic consistency cannot prove values match the source document.",
+              "Model self-confidence is not a calibrated confidence signal.",
+              "Absolute arithmetic tolerance is 0.01; currency and rounding policy are not inferred.",
+              "Quantity-only delivery notes do not require monetary operands; unavailable arithmetic stays not_applicable."
+            ]
+          },
+          "grouped_commas": {
+            "schema_valid": true,
+            "classification_preserved": true,
+            "record": {
+              "schema_version": "1.0",
+              "document_type": "delivery_note",
+              "document_number": "DC-968",
+              "date": "27/07/2026",
+              "currency": null,
+              "line_items": [
+                {
+                  "raw_text": "1 Mustard Oil 1L 6",
+                  "quantity": "6",
+                  "unit_price": null,
+                  "line_total": null
+                },
+                {
+                  "raw_text": "2 Milk Powder 500g 20",
+                  "quantity": "20",
+                  "unit_price": null,
+                  "line_total": null
+                },
+                {
+                  "raw_text": "3 Detergent 500g 12",
+                  "quantity": "12",
+                  "unit_price": null,
+                  "line_total": null
+                },
+                {
+                  "raw_text": "4 Onion 1kg 12",
+                  "quantity": "12",
+                  "unit_price": null,
+                  "line_total": null
+                },
+                {
+                  "raw_text": "5 Salt 1kg 2",
+                  "quantity": "2",
+                  "unit_price": null,
+                  "line_total": null
+                }
+              ],
+              "totals": {
+                "subtotal": null,
+                "tax": null,
+                "discount": null,
+                "grand_total": null
+              },
+              "evidence": {
+                "/document_number": "Challan No: DC-968.",
+                "/date": "Date: 27/07/2026.",
+                "/line_items/0/raw_text": "1 Mustard Oil 1L 6",
+                "/line_items/0/quantity": "1 Mustard Oil 1L 6",
+                "/line_items/1/raw_text": "2 Milk Powder 500g 20",
+                "/line_items/1/quantity": "2 Milk Powder 500g 20",
+                "/line_items/2/raw_text": "3 Detergent 500g 12",
+                "/line_items/2/quantity": "3 Detergent 500g 12",
+                "/line_items/3/raw_text": "4 Onion 1kg 12",
+                "/line_items/3/quantity": "4 Onion 1kg 12",
+                "/line_items/4/raw_text": "5 Salt 1kg 2",
+                "/line_items/4/quantity": "5 Salt 1kg 2"
+              },
+              "uncertainties": [],
+              "corrections": []
+            },
+            "numeric_policy": "grouped_commas",
+            "normalization_findings": [],
+            "checks": [
+              {
+                "id": "line_items/0/multiplication",
+                "status": "not_applicable",
+                "missing": [
+                  "unit_price",
+                  "line_total"
+                ]
+              },
+              {
+                "id": "line_items/1/multiplication",
+                "status": "not_applicable",
+                "missing": [
+                  "unit_price",
+                  "line_total"
+                ]
+              },
+              {
+                "id": "line_items/2/multiplication",
+                "status": "not_applicable",
+                "missing": [
+                  "unit_price",
+                  "line_total"
+                ]
+              },
+              {
+                "id": "line_items/3/multiplication",
+                "status": "not_applicable",
+                "missing": [
+                  "unit_price",
+                  "line_total"
+                ]
+              },
+              {
+                "id": "line_items/4/multiplication",
+                "status": "not_applicable",
+                "missing": [
+                  "unit_price",
+                  "line_total"
+                ]
+              },
+              {
+                "id": "subtotal",
+                "status": "not_applicable",
+                "missing": [
+                  "subtotal",
+                  "line_items/0/line_total",
+                  "line_items/1/line_total",
+                  "line_items/2/line_total",
+                  "line_items/3/line_total",
+                  "line_items/4/line_total"
+                ]
+              },
+              {
+                "id": "grand_total",
+                "status": "not_applicable",
+                "missing": [
+                  "subtotal",
+                  "tax",
+                  "discount",
+                  "grand_total"
+                ]
+              }
+            ],
+            "review_required": false,
+            "review_reasons": [],
+            "evidence_findings": [
+              {
+                "path": "/document_number",
+                "status": "supported",
+                "quote": "Challan No: DC-968."
+              },
+              {
+                "path": "/date",
+                "status": "supported",
+                "quote": "Date: 27/07/2026."
+              },
+              {
+                "path": "/line_items/0/quantity",
+                "status": "supported",
+                "quote": "1 Mustard Oil 1L 6"
+              },
+              {
+                "path": "/line_items/0/raw_text",
+                "status": "supported",
+                "quote": "1 Mustard Oil 1L 6"
+              },
+              {
+                "path": "/line_items/1/quantity",
+                "status": "supported",
+                "quote": "2 Milk Powder 500g 20"
+              },
+              {
+                "path": "/line_items/1/raw_text",
+                "status": "supported",
+                "quote": "2 Milk Powder 500g 20"
+              },
+              {
+                "path": "/line_items/2/quantity",
+                "status": "supported",
+                "quote": "3 Detergent 500g 12"
+              },
+              {
+                "path": "/line_items/2/raw_text",
+                "status": "supported",
+                "quote": "3 Detergent 500g 12"
+              },
+              {
+                "path": "/line_items/3/quantity",
+                "status": "supported",
+                "quote": "4 Onion 1kg 12"
+              },
+              {
+                "path": "/line_items/3/raw_text",
+                "status": "supported",
+                "quote": "4 Onion 1kg 12"
+              },
+              {
+                "path": "/line_items/4/quantity",
+                "status": "supported",
+                "quote": "5 Salt 1kg 2"
+              },
+              {
+                "path": "/line_items/4/raw_text",
+                "status": "supported",
+                "quote": "5 Salt 1kg 2"
+              }
+            ],
+            "limitations": [
+              "Evidence proves substring presence, not the correct field or row assignment.",
+              "Arithmetic consistency cannot prove values match the source document.",
+              "Model self-confidence is not a calibrated confidence signal.",
+              "Absolute arithmetic tolerance is 0.01; currency and rounding policy are not inferred.",
+              "Quantity-only delivery notes do not require monetary operands; unavailable arithmetic stays not_applicable."
+            ]
+          }
+        },
+        "e396ade11def": {
+          "rows": 2,
+          "populated_quantities": 1,
+          "complete_numeric_rows": 1,
+          "proposed_corrections": [],
+          "literal": {
+            "schema_valid": true,
+            "classification_preserved": true,
+            "record": {
+              "schema_version": "1.0",
+              "document_type": "customer_copy",
+              "document_number": "INV-9957",
+              "date": "10/09/2026",
+              "currency": "Tk",
+              "line_items": [
+                {
+                  "raw_text": "Toothpaste 100g | 10 | Tk 120 | Tk 1,200",
+                  "quantity": "10",
+                  "unit_price": "120",
+                  "line_total": "1200"
+                },
+                {
+                  "raw_text": "Exercise Book 1] Tk45 | Tx 45 |",
+                  "quantity": null,
+                  "unit_price": "45",
+                  "line_total": "45"
+                }
+              ],
+              "totals": {
+                "subtotal": null,
+                "tax": null,
+                "discount": null,
+                "grand_total": "1245"
+              },
+              "evidence": {
+                "/document_number": "Invoice No: INV-9957.",
+                "/date": "Date: 10/09/2026.",
+                "/currency": "Rate (Tk)",
+                "/line_items/0/raw_text": "Toothpaste 100g | 10 | Tk 120 | Tk 1,200",
+                "/line_items/0/quantity": "Toothpaste 100g | 10 | Tk 120 | Tk 1,200",
+                "/line_items/0/unit_price": "Tk 120",
+                "/line_items/0/line_total": "Tk 1,200",
+                "/line_items/1/raw_text": "Exercise Book 1] Tk45 | Tx 45 |",
+                "/line_items/1/unit_price": "Tk45",
+                "/line_items/1/line_total": "Tx 45",
+                "/totals/grand_total": "Total: Tk 1,245."
+              },
+              "uncertainties": [
+                "Input type customer_copy conflicts with the OCR label OFFICE COPY; supplied type is preserved.",
+                "Exercise Book quantity is unclear in the source fragment 1]; quantity remains null.",
+                "Exercise Book amount has the OCR prefix Tx; numeric value 45 is retained without repairing that prefix.",
+                "Comma groups interpreted as thousands separators; locale is not explicitly specified."
+              ],
+              "corrections": []
+            },
+            "numeric_policy": "literal",
+            "normalization_findings": [],
+            "checks": [
+              {
+                "id": "line_items/0/multiplication",
+                "status": "passed",
+                "expected": "1200",
+                "actual": "1200",
+                "difference": "0",
+                "tolerance": "0.01"
+              },
+              {
+                "id": "line_items/1/multiplication",
+                "status": "not_applicable",
+                "missing": [
+                  "quantity"
+                ]
+              },
+              {
+                "id": "subtotal",
+                "status": "not_applicable",
+                "missing": [
+                  "subtotal"
+                ]
+              },
+              {
+                "id": "grand_total",
+                "status": "not_applicable",
+                "missing": [
+                  "subtotal",
+                  "tax",
+                  "discount"
+                ]
+              }
+            ],
+            "review_required": true,
+            "review_reasons": [
+              "Missing quantity: line_items/1",
+              "Evidence value_not_in_evidence: /line_items/0/line_total",
+              "Evidence value_not_in_evidence: /totals/grand_total",
+              "Arithmetic unavailable: line_items/1/multiplication",
+              "Arithmetic unavailable: subtotal",
+              "Arithmetic unavailable: grand_total",
+              "Model reported unresolved uncertainties"
+            ],
+            "evidence_findings": [
+              {
+                "path": "/document_number",
+                "status": "supported",
+                "quote": "Invoice No: INV-9957."
+              },
+              {
+                "path": "/date",
+                "status": "supported",
+                "quote": "Date: 10/09/2026."
+              },
+              {
+                "path": "/currency",
+                "status": "supported",
+                "quote": "Rate (Tk)"
+              },
+              {
+                "path": "/line_items/0/line_total",
+                "status": "value_not_in_evidence",
+                "quote": "Tk 1,200"
+              },
+              {
+                "path": "/line_items/0/quantity",
+                "status": "supported",
+                "quote": "Toothpaste 100g | 10 | Tk 120 | Tk 1,200"
+              },
+              {
+                "path": "/line_items/0/raw_text",
+                "status": "supported",
+                "quote": "Toothpaste 100g | 10 | Tk 120 | Tk 1,200"
+              },
+              {
+                "path": "/line_items/0/unit_price",
+                "status": "supported",
+                "quote": "Tk 120"
+              },
+              {
+                "path": "/line_items/1/line_total",
+                "status": "supported",
+                "quote": "Tx 45"
+              },
+              {
+                "path": "/line_items/1/raw_text",
+                "status": "supported",
+                "quote": "Exercise Book 1] Tk45 | Tx 45 |"
+              },
+              {
+                "path": "/line_items/1/unit_price",
+                "status": "supported",
+                "quote": "Tk45"
+              },
+              {
+                "path": "/totals/grand_total",
+                "status": "value_not_in_evidence",
+                "quote": "Total: Tk 1,245."
+              }
+            ],
+            "limitations": [
+              "Evidence proves substring presence, not the correct field or row assignment.",
+              "Arithmetic consistency cannot prove values match the source document.",
+              "Model self-confidence is not a calibrated confidence signal.",
+              "Absolute arithmetic tolerance is 0.01; currency and rounding policy are not inferred.",
+              "Quantity-only delivery notes do not require monetary operands; unavailable arithmetic stays not_applicable."
+            ]
+          },
+          "grouped_commas": {
+            "schema_valid": true,
+            "classification_preserved": true,
+            "record": {
+              "schema_version": "1.0",
+              "document_type": "customer_copy",
+              "document_number": "INV-9957",
+              "date": "10/09/2026",
+              "currency": "Tk",
+              "line_items": [
+                {
+                  "raw_text": "Toothpaste 100g | 10 | Tk 120 | Tk 1,200",
+                  "quantity": "10",
+                  "unit_price": "120",
+                  "line_total": "1200"
+                },
+                {
+                  "raw_text": "Exercise Book 1] Tk45 | Tx 45 |",
+                  "quantity": null,
+                  "unit_price": "45",
+                  "line_total": "45"
+                }
+              ],
+              "totals": {
+                "subtotal": null,
+                "tax": null,
+                "discount": null,
+                "grand_total": "1245"
+              },
+              "evidence": {
+                "/document_number": "Invoice No: INV-9957.",
+                "/date": "Date: 10/09/2026.",
+                "/currency": "Rate (Tk)",
+                "/line_items/0/raw_text": "Toothpaste 100g | 10 | Tk 120 | Tk 1,200",
+                "/line_items/0/quantity": "Toothpaste 100g | 10 | Tk 120 | Tk 1,200",
+                "/line_items/0/unit_price": "Tk 120",
+                "/line_items/0/line_total": "Tk 1,200",
+                "/line_items/1/raw_text": "Exercise Book 1] Tk45 | Tx 45 |",
+                "/line_items/1/unit_price": "Tk45",
+                "/line_items/1/line_total": "Tx 45",
+                "/totals/grand_total": "Total: Tk 1,245."
+              },
+              "uncertainties": [
+                "Input type customer_copy conflicts with the OCR label OFFICE COPY; supplied type is preserved.",
+                "Exercise Book quantity is unclear in the source fragment 1]; quantity remains null.",
+                "Exercise Book amount has the OCR prefix Tx; numeric value 45 is retained without repairing that prefix.",
+                "Comma groups interpreted as thousands separators; locale is not explicitly specified."
+              ],
+              "corrections": []
+            },
+            "numeric_policy": "grouped_commas",
+            "normalization_findings": [
+              {
+                "path": "/line_items/0/line_total",
+                "source_token": "1,200",
+                "normalized_value": "1200",
+                "rule": "assumed_English_grouped_commas"
+              }
+            ],
+            "checks": [
+              {
+                "id": "line_items/0/multiplication",
+                "status": "passed",
+                "expected": "1200",
+                "actual": "1200",
+                "difference": "0",
+                "tolerance": "0.01"
+              },
+              {
+                "id": "line_items/1/multiplication",
+                "status": "not_applicable",
+                "missing": [
+                  "quantity"
+                ]
+              },
+              {
+                "id": "subtotal",
+                "status": "not_applicable",
+                "missing": [
+                  "subtotal"
+                ]
+              },
+              {
+                "id": "grand_total",
+                "status": "not_applicable",
+                "missing": [
+                  "subtotal",
+                  "tax",
+                  "discount"
+                ]
+              }
+            ],
+            "review_required": true,
+            "review_reasons": [
+              "Missing quantity: line_items/1",
+              "Evidence value_not_in_evidence: /totals/grand_total",
+              "Arithmetic unavailable: line_items/1/multiplication",
+              "Arithmetic unavailable: subtotal",
+              "Arithmetic unavailable: grand_total",
+              "Numeric grouping normalization uses an explicit unverified locale assumption",
+              "Model reported unresolved uncertainties"
+            ],
+            "evidence_findings": [
+              {
+                "path": "/document_number",
+                "status": "supported",
+                "quote": "Invoice No: INV-9957."
+              },
+              {
+                "path": "/date",
+                "status": "supported",
+                "quote": "Date: 10/09/2026."
+              },
+              {
+                "path": "/currency",
+                "status": "supported",
+                "quote": "Rate (Tk)"
+              },
+              {
+                "path": "/line_items/0/line_total",
+                "status": "supported_normalized",
+                "quote": "Tk 1,200"
+              },
+              {
+                "path": "/line_items/0/quantity",
+                "status": "supported",
+                "quote": "Toothpaste 100g | 10 | Tk 120 | Tk 1,200"
+              },
+              {
+                "path": "/line_items/0/raw_text",
+                "status": "supported",
+                "quote": "Toothpaste 100g | 10 | Tk 120 | Tk 1,200"
+              },
+              {
+                "path": "/line_items/0/unit_price",
+                "status": "supported",
+                "quote": "Tk 120"
+              },
+              {
+                "path": "/line_items/1/line_total",
+                "status": "supported",
+                "quote": "Tx 45"
+              },
+              {
+                "path": "/line_items/1/raw_text",
+                "status": "supported",
+                "quote": "Exercise Book 1] Tk45 | Tx 45 |"
+              },
+              {
+                "path": "/line_items/1/unit_price",
+                "status": "supported",
+                "quote": "Tk45"
+              },
+              {
+                "path": "/totals/grand_total",
+                "status": "value_not_in_evidence",
+                "quote": "Total: Tk 1,245."
+              }
+            ],
+            "limitations": [
+              "Evidence proves substring presence, not the correct field or row assignment.",
+              "Arithmetic consistency cannot prove values match the source document.",
+              "Model self-confidence is not a calibrated confidence signal.",
+              "Absolute arithmetic tolerance is 0.01; currency and rounding policy are not inferred.",
+              "Quantity-only delivery notes do not require monetary operands; unavailable arithmetic stays not_applicable."
+            ]
+          }
+        },
+        "cdd7aaa9004d": {
+          "rows": 3,
+          "populated_quantities": 3,
+          "complete_numeric_rows": 3,
+          "proposed_corrections": [],
+          "literal": {
+            "schema_valid": true,
+            "classification_preserved": true,
+            "record": {
+              "schema_version": "1.0",
+              "document_type": "purchase_order",
+              "document_number": "INV-9335",
+              "date": "13/08/2026",
+              "currency": "Tk",
+              "line_items": [
+                {
+                  "raw_text": "Red Lentils 1kg 4 Tk 110 Tk 440",
+                  "quantity": "4",
+                  "unit_price": "110",
+                  "line_total": "440"
+                },
+                {
+                  "raw_text": "Miniket Rice 25kg 24 Tk 1,850 Tk 44,400",
+                  "quantity": "24",
+                  "unit_price": "1850",
+                  "line_total": "44400"
+                },
+                {
+                  "raw_text": "Ball Pen box 5 Tk 100 Tk 500",
+                  "quantity": "5",
+                  "unit_price": "100",
+                  "line_total": "500"
+                }
+              ],
+              "totals": {
+                "subtotal": null,
+                "tax": null,
+                "discount": null,
+                "grand_total": "45340"
+              },
+              "evidence": {
+                "/document_number": "Invoice No: INV-9335.",
+                "/date": "Date: 13/08/2026.",
+                "/currency": "Rate (Tk)",
+                "/line_items/0/raw_text": "Red Lentils 1kg 4 Tk 110 Tk 440",
+                "/line_items/0/quantity": "Red Lentils 1kg 4 Tk 110 Tk 440",
+                "/line_items/0/unit_price": "Tk 110",
+                "/line_items/0/line_total": "Tk 440",
+                "/line_items/1/raw_text": "Miniket Rice 25kg 24 Tk 1,850 Tk 44,400",
+                "/line_items/1/quantity": "Miniket Rice 25kg 24 Tk 1,850 Tk 44,400",
+                "/line_items/1/unit_price": "Tk 1,850",
+                "/line_items/1/line_total": "Tk 44,400",
+                "/line_items/2/raw_text": "Ball Pen box 5 Tk 100 Tk 500",
+                "/line_items/2/quantity": "Ball Pen box 5 Tk 100 Tk 500",
+                "/line_items/2/unit_price": "Tk 100",
+                "/line_items/2/line_total": "Tk 500",
+                "/totals/grand_total": "Total:  Tk45,340."
+              },
+              "uncertainties": [
+                "Input type purchase_order conflicts with the OCR labels Invoice and Invoice No; supplied type is preserved.",
+                "Comma groups interpreted as thousands separators; locale is not explicitly specified."
+              ],
+              "corrections": []
+            },
+            "numeric_policy": "literal",
+            "normalization_findings": [],
+            "checks": [
+              {
+                "id": "line_items/0/multiplication",
+                "status": "passed",
+                "expected": "440",
+                "actual": "440",
+                "difference": "0",
+                "tolerance": "0.01"
+              },
+              {
+                "id": "line_items/1/multiplication",
+                "status": "passed",
+                "expected": "44400",
+                "actual": "44400",
+                "difference": "0",
+                "tolerance": "0.01"
+              },
+              {
+                "id": "line_items/2/multiplication",
+                "status": "passed",
+                "expected": "500",
+                "actual": "500",
+                "difference": "0",
+                "tolerance": "0.01"
+              },
+              {
+                "id": "subtotal",
+                "status": "not_applicable",
+                "missing": [
+                  "subtotal"
+                ]
+              },
+              {
+                "id": "grand_total",
+                "status": "not_applicable",
+                "missing": [
+                  "subtotal",
+                  "tax",
+                  "discount"
+                ]
+              }
+            ],
+            "review_required": true,
+            "review_reasons": [
+              "Evidence value_not_in_evidence: /line_items/1/line_total",
+              "Evidence value_not_in_evidence: /line_items/1/unit_price",
+              "Evidence value_not_in_evidence: /totals/grand_total",
+              "Arithmetic unavailable: subtotal",
+              "Arithmetic unavailable: grand_total",
+              "Model reported unresolved uncertainties"
+            ],
+            "evidence_findings": [
+              {
+                "path": "/document_number",
+                "status": "supported",
+                "quote": "Invoice No: INV-9335."
+              },
+              {
+                "path": "/date",
+                "status": "supported",
+                "quote": "Date: 13/08/2026."
+              },
+              {
+                "path": "/currency",
+                "status": "supported",
+                "quote": "Rate (Tk)"
+              },
+              {
+                "path": "/line_items/0/line_total",
+                "status": "supported",
+                "quote": "Tk 440"
+              },
+              {
+                "path": "/line_items/0/quantity",
+                "status": "supported",
+                "quote": "Red Lentils 1kg 4 Tk 110 Tk 440"
+              },
+              {
+                "path": "/line_items/0/raw_text",
+                "status": "supported",
+                "quote": "Red Lentils 1kg 4 Tk 110 Tk 440"
+              },
+              {
+                "path": "/line_items/0/unit_price",
+                "status": "supported",
+                "quote": "Tk 110"
+              },
+              {
+                "path": "/line_items/1/line_total",
+                "status": "value_not_in_evidence",
+                "quote": "Tk 44,400"
+              },
+              {
+                "path": "/line_items/1/quantity",
+                "status": "supported",
+                "quote": "Miniket Rice 25kg 24 Tk 1,850 Tk 44,400"
+              },
+              {
+                "path": "/line_items/1/raw_text",
+                "status": "supported",
+                "quote": "Miniket Rice 25kg 24 Tk 1,850 Tk 44,400"
+              },
+              {
+                "path": "/line_items/1/unit_price",
+                "status": "value_not_in_evidence",
+                "quote": "Tk 1,850"
+              },
+              {
+                "path": "/line_items/2/line_total",
+                "status": "supported",
+                "quote": "Tk 500"
+              },
+              {
+                "path": "/line_items/2/quantity",
+                "status": "supported",
+                "quote": "Ball Pen box 5 Tk 100 Tk 500"
+              },
+              {
+                "path": "/line_items/2/raw_text",
+                "status": "supported",
+                "quote": "Ball Pen box 5 Tk 100 Tk 500"
+              },
+              {
+                "path": "/line_items/2/unit_price",
+                "status": "supported",
+                "quote": "Tk 100"
+              },
+              {
+                "path": "/totals/grand_total",
+                "status": "value_not_in_evidence",
+                "quote": "Total:  Tk45,340."
+              }
+            ],
+            "limitations": [
+              "Evidence proves substring presence, not the correct field or row assignment.",
+              "Arithmetic consistency cannot prove values match the source document.",
+              "Model self-confidence is not a calibrated confidence signal.",
+              "Absolute arithmetic tolerance is 0.01; currency and rounding policy are not inferred.",
+              "Quantity-only delivery notes do not require monetary operands; unavailable arithmetic stays not_applicable."
+            ]
+          },
+          "grouped_commas": {
+            "schema_valid": true,
+            "classification_preserved": true,
+            "record": {
+              "schema_version": "1.0",
+              "document_type": "purchase_order",
+              "document_number": "INV-9335",
+              "date": "13/08/2026",
+              "currency": "Tk",
+              "line_items": [
+                {
+                  "raw_text": "Red Lentils 1kg 4 Tk 110 Tk 440",
+                  "quantity": "4",
+                  "unit_price": "110",
+                  "line_total": "440"
+                },
+                {
+                  "raw_text": "Miniket Rice 25kg 24 Tk 1,850 Tk 44,400",
+                  "quantity": "24",
+                  "unit_price": "1850",
+                  "line_total": "44400"
+                },
+                {
+                  "raw_text": "Ball Pen box 5 Tk 100 Tk 500",
+                  "quantity": "5",
+                  "unit_price": "100",
+                  "line_total": "500"
+                }
+              ],
+              "totals": {
+                "subtotal": null,
+                "tax": null,
+                "discount": null,
+                "grand_total": "45340"
+              },
+              "evidence": {
+                "/document_number": "Invoice No: INV-9335.",
+                "/date": "Date: 13/08/2026.",
+                "/currency": "Rate (Tk)",
+                "/line_items/0/raw_text": "Red Lentils 1kg 4 Tk 110 Tk 440",
+                "/line_items/0/quantity": "Red Lentils 1kg 4 Tk 110 Tk 440",
+                "/line_items/0/unit_price": "Tk 110",
+                "/line_items/0/line_total": "Tk 440",
+                "/line_items/1/raw_text": "Miniket Rice 25kg 24 Tk 1,850 Tk 44,400",
+                "/line_items/1/quantity": "Miniket Rice 25kg 24 Tk 1,850 Tk 44,400",
+                "/line_items/1/unit_price": "Tk 1,850",
+                "/line_items/1/line_total": "Tk 44,400",
+                "/line_items/2/raw_text": "Ball Pen box 5 Tk 100 Tk 500",
+                "/line_items/2/quantity": "Ball Pen box 5 Tk 100 Tk 500",
+                "/line_items/2/unit_price": "Tk 100",
+                "/line_items/2/line_total": "Tk 500",
+                "/totals/grand_total": "Total:  Tk45,340."
+              },
+              "uncertainties": [
+                "Input type purchase_order conflicts with the OCR labels Invoice and Invoice No; supplied type is preserved.",
+                "Comma groups interpreted as thousands separators; locale is not explicitly specified."
+              ],
+              "corrections": []
+            },
+            "numeric_policy": "grouped_commas",
+            "normalization_findings": [
+              {
+                "path": "/line_items/1/line_total",
+                "source_token": "44,400",
+                "normalized_value": "44400",
+                "rule": "assumed_English_grouped_commas"
+              },
+              {
+                "path": "/line_items/1/unit_price",
+                "source_token": "1,850",
+                "normalized_value": "1850",
+                "rule": "assumed_English_grouped_commas"
+              }
+            ],
+            "checks": [
+              {
+                "id": "line_items/0/multiplication",
+                "status": "passed",
+                "expected": "440",
+                "actual": "440",
+                "difference": "0",
+                "tolerance": "0.01"
+              },
+              {
+                "id": "line_items/1/multiplication",
+                "status": "passed",
+                "expected": "44400",
+                "actual": "44400",
+                "difference": "0",
+                "tolerance": "0.01"
+              },
+              {
+                "id": "line_items/2/multiplication",
+                "status": "passed",
+                "expected": "500",
+                "actual": "500",
+                "difference": "0",
+                "tolerance": "0.01"
+              },
+              {
+                "id": "subtotal",
+                "status": "not_applicable",
+                "missing": [
+                  "subtotal"
+                ]
+              },
+              {
+                "id": "grand_total",
+                "status": "not_applicable",
+                "missing": [
+                  "subtotal",
+                  "tax",
+                  "discount"
+                ]
+              }
+            ],
+            "review_required": true,
+            "review_reasons": [
+              "Evidence value_not_in_evidence: /totals/grand_total",
+              "Arithmetic unavailable: subtotal",
+              "Arithmetic unavailable: grand_total",
+              "Numeric grouping normalization uses an explicit unverified locale assumption",
+              "Model reported unresolved uncertainties"
+            ],
+            "evidence_findings": [
+              {
+                "path": "/document_number",
+                "status": "supported",
+                "quote": "Invoice No: INV-9335."
+              },
+              {
+                "path": "/date",
+                "status": "supported",
+                "quote": "Date: 13/08/2026."
+              },
+              {
+                "path": "/currency",
+                "status": "supported",
+                "quote": "Rate (Tk)"
+              },
+              {
+                "path": "/line_items/0/line_total",
+                "status": "supported",
+                "quote": "Tk 440"
+              },
+              {
+                "path": "/line_items/0/quantity",
+                "status": "supported",
+                "quote": "Red Lentils 1kg 4 Tk 110 Tk 440"
+              },
+              {
+                "path": "/line_items/0/raw_text",
+                "status": "supported",
+                "quote": "Red Lentils 1kg 4 Tk 110 Tk 440"
+              },
+              {
+                "path": "/line_items/0/unit_price",
+                "status": "supported",
+                "quote": "Tk 110"
+              },
+              {
+                "path": "/line_items/1/line_total",
+                "status": "supported_normalized",
+                "quote": "Tk 44,400"
+              },
+              {
+                "path": "/line_items/1/quantity",
+                "status": "supported",
+                "quote": "Miniket Rice 25kg 24 Tk 1,850 Tk 44,400"
+              },
+              {
+                "path": "/line_items/1/raw_text",
+                "status": "supported",
+                "quote": "Miniket Rice 25kg 24 Tk 1,850 Tk 44,400"
+              },
+              {
+                "path": "/line_items/1/unit_price",
+                "status": "supported_normalized",
+                "quote": "Tk 1,850"
+              },
+              {
+                "path": "/line_items/2/line_total",
+                "status": "supported",
+                "quote": "Tk 500"
+              },
+              {
+                "path": "/line_items/2/quantity",
+                "status": "supported",
+                "quote": "Ball Pen box 5 Tk 100 Tk 500"
+              },
+              {
+                "path": "/line_items/2/raw_text",
+                "status": "supported",
+                "quote": "Ball Pen box 5 Tk 100 Tk 500"
+              },
+              {
+                "path": "/line_items/2/unit_price",
+                "status": "supported",
+                "quote": "Tk 100"
+              },
+              {
+                "path": "/totals/grand_total",
+                "status": "value_not_in_evidence",
+                "quote": "Total:  Tk45,340."
+              }
+            ],
+            "limitations": [
+              "Evidence proves substring presence, not the correct field or row assignment.",
+              "Arithmetic consistency cannot prove values match the source document.",
+              "Model self-confidence is not a calibrated confidence signal.",
+              "Absolute arithmetic tolerance is 0.01; currency and rounding policy are not inferred.",
+              "Quantity-only delivery notes do not require monetary operands; unavailable arithmetic stays not_applicable."
+            ]
+          }
+        }
+      },
+      "input_ids_missing": [],
+      "counts": {
+        "rows": 14,
+        "populated_quantities": 13,
+        "complete_numeric_rows": 6
+      },
+      "literal": {
+        "schema_valid": 5,
+        "review_required": 4,
+        "all_evidence_supported": 2,
+        "arithmetic": {
+          "passed": 6,
+          "failed": 0,
+          "not_applicable": 18
+        }
+      },
+      "grouped_commas": {
+        "schema_valid": 5,
+        "review_required": 4,
+        "all_evidence_supported": 2,
+        "arithmetic": {
+          "passed": 6,
+          "failed": 0,
+          "not_applicable": 18
+        }
+      }
+    }
+  }
+}

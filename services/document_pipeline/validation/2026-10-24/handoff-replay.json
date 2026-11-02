@@ -1,0 +1,1774 @@
+{
+  "scope": "Actual saved sub-agent JSON through current live classifier/gateway; development evidence",
+  "accuracy_measured": false,
+  "automatic_llm_available": false,
+  "results": [
+    {
+      "approach": "direct",
+      "sample_id": "76cc99d39da4",
+      "ocr_sha256": "21efb0e84f322eaceb7b7fe3c109c9a66ec11292097a31e79a2d94bd8ec432e8",
+      "response_file_sha256": "a1f6bed84a39ce5eea5729f10c0be382a5a4e353d5439a80edd5c442c7215dca",
+      "state": "completed",
+      "classification": "purchase_order",
+      "verification": {
+        "record": {
+          "schema_version": "1.0",
+          "document_type": "purchase_order",
+          "document_number": "ORD-9953",
+          "date": "04/07/2026",
+          "currency": "Tk",
+          "line_items": [
+            {
+              "raw_text": "Miniket Rice 25kg",
+              "quantity": "24",
+              "unit_price": "1850",
+              "line_total": "44400"
+            }
+          ],
+          "totals": {
+            "subtotal": null,
+            "tax": null,
+            "discount": null,
+            "grand_total": "45700"
+          },
+          "evidence": {
+            "/document_number": "Order No: ORD-9953",
+            "/date": "Order Date: 04/07/2026",
+            "/currency": "Rate (Tk)",
+            "/line_items/0/raw_text": "Miniket Rice 25kg",
+            "/line_items/0/quantity": "Miniket Rice 25kg{ 24 |",
+            "/line_items/0/unit_price": "Tk 1,850",
+            "/line_items/0/line_total": "Tk 44,400",
+            "/totals/grand_total": "Total: Tk 45,700"
+          },
+          "uncertainties": [
+            "Additional item rows may be present, but their descriptions and amounts are unreadable in the OCR.",
+            "Subtotal, tax, and discount are not clearly present.",
+            "The readable line total does not account for the full stated total; missing amounts were not inferred."
+          ],
+          "corrections": []
+        },
+        "checks": [
+          {
+            "id": "line_items/0/multiplication",
+            "status": "passed",
+            "expected": "44400",
+            "actual": "44400",
+            "difference": "0",
+            "tolerance": "0.01"
+          },
+          {
+            "id": "subtotal",
+            "status": "not_applicable",
+            "missing": [
+              "subtotal"
+            ]
+          },
+          {
+            "id": "grand_total",
+            "status": "not_applicable",
+            "missing": [
+              "subtotal",
+              "tax",
+              "discount"
+            ]
+          }
+        ],
+        "review_required": true,
+        "review_reasons": [
+          "Evidence value_not_in_evidence: /line_items/0/line_total",
+          "Evidence value_not_in_evidence: /line_items/0/unit_price",
+          "Evidence value_not_in_evidence: /totals/grand_total",
+          "Arithmetic unavailable: subtotal",
+          "Arithmetic unavailable: grand_total",
+          "Model reported unresolved uncertainties"
+        ],
+        "evidence_findings": [
+          {
+            "path": "/document_number",
+            "status": "supported",
+            "quote": "Order No: ORD-9953"
+          },
+          {
+            "path": "/date",
+            "status": "supported",
+            "quote": "Order Date: 04/07/2026"
+          },
+          {
+            "path": "/currency",
+            "status": "supported",
+            "quote": "Rate (Tk)"
+          },
+          {
+            "path": "/line_items/0/line_total",
+            "status": "value_not_in_evidence",
+            "quote": "Tk 44,400"
+          },
+          {
+            "path": "/line_items/0/quantity",
+            "status": "supported",
+            "quote": "Miniket Rice 25kg{ 24 |"
+          },
+          {
+            "path": "/line_items/0/raw_text",
+            "status": "supported",
+            "quote": "Miniket Rice 25kg"
+          },
+          {
+            "path": "/line_items/0/unit_price",
+            "status": "value_not_in_evidence",
+            "quote": "Tk 1,850"
+          },
+          {
+            "path": "/totals/grand_total",
+            "status": "value_not_in_evidence",
+            "quote": "Total: Tk 45,700"
+          }
+        ],
+        "limitations": [
+          "Evidence proves substring presence, not the correct field or row assignment.",
+          "Arithmetic consistency cannot prove values match the source document.",
+          "Model self-confidence is not a calibrated confidence signal.",
+          "Absolute arithmetic tolerance is 0.01; currency and rounding policy are not inferred."
+        ]
+      },
+      "consumer": {
+        "submission_id": "a952d9578ff64895bb6d3da14c5ef604",
+        "consumer": "demonstration_stub",
+        "inventory_updated": false,
+        "status": "blocked_for_review",
+        "review_required": true,
+        "review_reasons": [
+          "Evidence value_not_in_evidence: /line_items/0/line_total",
+          "Evidence value_not_in_evidence: /line_items/0/unit_price",
+          "Evidence value_not_in_evidence: /totals/grand_total",
+          "Arithmetic unavailable: subtotal",
+          "Arithmetic unavailable: grand_total",
+          "Model reported unresolved uncertainties"
+        ],
+        "record": {
+          "schema_version": "1.0",
+          "document_type": "purchase_order",
+          "document_number": "ORD-9953",
+          "date": "04/07/2026",
+          "currency": "Tk",
+          "line_items": [
+            {
+              "raw_text": "Miniket Rice 25kg",
+              "quantity": "24",
+              "unit_price": "1850",
+              "line_total": "44400"
+            }
+          ],
+          "totals": {
+            "subtotal": null,
+            "tax": null,
+            "discount": null,
+            "grand_total": "45700"
+          },
+          "evidence": {
+            "/document_number": "Order No: ORD-9953",
+            "/date": "Order Date: 04/07/2026",
+            "/currency": "Rate (Tk)",
+            "/line_items/0/raw_text": "Miniket Rice 25kg",
+            "/line_items/0/quantity": "Miniket Rice 25kg{ 24 |",
+            "/line_items/0/unit_price": "Tk 1,850",
+            "/line_items/0/line_total": "Tk 44,400",
+            "/totals/grand_total": "Total: Tk 45,700"
+          },
+          "uncertainties": [
+            "Additional item rows may be present, but their descriptions and amounts are unreadable in the OCR.",
+            "Subtotal, tax, and discount are not clearly present.",
+            "The readable line total does not account for the full stated total; missing amounts were not inferred."
+          ],
+          "corrections": []
+        },
+        "notice": "Arithmetic and OCR quotes do not establish field correctness. No real ERP connected."
+      },
+      "identical_extraction_replay": true
+    },
+    {
+      "approach": "direct",
+      "sample_id": "5dffabcb47cb",
+      "ocr_sha256": "48625af5c91a701566489a6a4dbc57d9c46edf47ee176e637970daaa51a8c8d4",
+      "response_file_sha256": "a1f6bed84a39ce5eea5729f10c0be382a5a4e353d5439a80edd5c442c7215dca",
+      "state": "completed",
+      "classification": "receipt",
+      "verification": {
+        "record": {
+          "schema_version": "1.0",
+          "document_type": "receipt",
+          "document_number": null,
+          "date": null,
+          "currency": null,
+          "line_items": [
+            {
+              "raw_text": "Kimchi p",
+              "quantity": "1",
+              "unit_price": null,
+              "line_total": null
+            },
+            {
+              "raw_text": "Fre ice grentea",
+              "quantity": "1",
+              "unit_price": null,
+              "line_total": null
+            }
+          ],
+          "totals": {
+            "subtotal": null,
+            "tax": null,
+            "discount": null,
+            "grand_total": null
+          },
+          "evidence": {
+            "/line_items/0/raw_text": "Kimchi p",
+            "/line_items/0/quantity": "1x 36.000 + 36.000",
+            "/line_items/1/raw_text": "Fre ice grentea",
+            "/line_items/1/quantity": "1x 0.000 Rr0. 000"
+          },
+          "uncertainties": [
+            "Document number, date, and currency are not clearly present.",
+            "The periods in amounts such as 36.000 and 0.000 have an uncertain decimal or thousands interpretation; numeric amounts remain null.",
+            "The second item's amount text Rr0. 000 is malformed.",
+            "The apparent total appears as 1 o*x=[0TAL © 36.000; its amount remains null because separator interpretation is uncertain.",
+            "Item associations follow the OCR sequence of each quantity/amount line followed by its description; the original layout is unavailable.",
+            "Subtotal, tax, and discount are not clearly present."
+          ],
+          "corrections": []
+        },
+        "checks": [
+          {
+            "id": "line_items/0/multiplication",
+            "status": "not_applicable",
+            "missing": [
+              "unit_price",
+              "line_total"
+            ]
+          },
+          {
+            "id": "line_items/1/multiplication",
+            "status": "not_applicable",
+            "missing": [
+              "unit_price",
+              "line_total"
+            ]
+          },
+          {
+            "id": "subtotal",
+            "status": "not_applicable",
+            "missing": [
+              "subtotal",
+              "line_items/0/line_total",
+              "line_items/1/line_total"
+            ]
+          },
+          {
+            "id": "grand_total",
+            "status": "not_applicable",
+            "missing": [
+              "subtotal",
+              "tax",
+              "discount",
+              "grand_total"
+            ]
+          }
+        ],
+        "review_required": true,
+        "review_reasons": [
+          "Arithmetic unavailable: line_items/0/multiplication",
+          "Arithmetic unavailable: line_items/1/multiplication",
+          "Arithmetic unavailable: subtotal",
+          "Arithmetic unavailable: grand_total",
+          "Model reported unresolved uncertainties"
+        ],
+        "evidence_findings": [
+          {
+            "path": "/line_items/0/quantity",
+            "status": "supported",
+            "quote": "1x 36.000 + 36.000"
+          },
+          {
+            "path": "/line_items/0/raw_text",
+            "status": "supported",
+            "quote": "Kimchi p"
+          },
+          {
+            "path": "/line_items/1/quantity",
+            "status": "supported",
+            "quote": "1x 0.000 Rr0. 000"
+          },
+          {
+            "path": "/line_items/1/raw_text",
+            "status": "supported",
+            "quote": "Fre ice grentea"
+          }
+        ],
+        "limitations": [
+          "Evidence proves substring presence, not the correct field or row assignment.",
+          "Arithmetic consistency cannot prove values match the source document.",
+          "Model self-confidence is not a calibrated confidence signal.",
+          "Absolute arithmetic tolerance is 0.01; currency and rounding policy are not inferred."
+        ]
+      },
+      "consumer": {
+        "submission_id": "11a0c99cd7644325b05b331c15521f01",
+        "consumer": "demonstration_stub",
+        "inventory_updated": false,
+        "status": "blocked_for_review",
+        "review_required": true,
+        "review_reasons": [
+          "Arithmetic unavailable: line_items/0/multiplication",
+          "Arithmetic unavailable: line_items/1/multiplication",
+          "Arithmetic unavailable: subtotal",
+          "Arithmetic unavailable: grand_total",
+          "Model reported unresolved uncertainties"
+        ],
+        "record": {
+          "schema_version": "1.0",
+          "document_type": "receipt",
+          "document_number": null,
+          "date": null,
+          "currency": null,
+          "line_items": [
+            {
+              "raw_text": "Kimchi p",
+              "quantity": "1",
+              "unit_price": null,
+              "line_total": null
+            },
+            {
+              "raw_text": "Fre ice grentea",
+              "quantity": "1",
+              "unit_price": null,
+              "line_total": null
+            }
+          ],
+          "totals": {
+            "subtotal": null,
+            "tax": null,
+            "discount": null,
+            "grand_total": null
+          },
+          "evidence": {
+            "/line_items/0/raw_text": "Kimchi p",
+            "/line_items/0/quantity": "1x 36.000 + 36.000",
+            "/line_items/1/raw_text": "Fre ice grentea",
+            "/line_items/1/quantity": "1x 0.000 Rr0. 000"
+          },
+          "uncertainties": [
+            "Document number, date, and currency are not clearly present.",
+            "The periods in amounts such as 36.000 and 0.000 have an uncertain decimal or thousands interpretation; numeric amounts remain null.",
+            "The second item's amount text Rr0. 000 is malformed.",
+            "The apparent total appears as 1 o*x=[0TAL © 36.000; its amount remains null because separator interpretation is uncertain.",
+            "Item associations follow the OCR sequence of each quantity/amount line followed by its description; the original layout is unavailable.",
+            "Subtotal, tax, and discount are not clearly present."
+          ],
+          "corrections": []
+        },
+        "notice": "Arithmetic and OCR quotes do not establish field correctness. No real ERP connected."
+      },
+      "identical_extraction_replay": true
+    },
+    {
+      "approach": "direct",
+      "sample_id": "f9918570b903",
+      "ocr_sha256": "14699d44aaa60c89a32bb0c24ec124c41a8d17e10312e03b525fe889fd39251d",
+      "response_file_sha256": "a1f6bed84a39ce5eea5729f10c0be382a5a4e353d5439a80edd5c442c7215dca",
+      "state": "completed",
+      "classification": "delivery_note",
+      "verification": {
+        "record": {
+          "schema_version": "1.0",
+          "document_type": "delivery_note",
+          "document_number": "DC-968",
+          "date": "27/07/2026",
+          "currency": null,
+          "line_items": [],
+          "totals": {
+            "subtotal": null,
+            "tax": null,
+            "discount": null,
+            "grand_total": null
+          },
+          "evidence": {
+            "/document_number": "Challan No: DC-968",
+            "/date": "Date: 27/07/2026"
+          },
+          "uncertainties": [
+            "No readable item rows, quantities, prices, or totals appear in the OCR.",
+            "Currency is not present."
+          ],
+          "corrections": []
+        },
+        "checks": [
+          {
+            "id": "subtotal",
+            "status": "not_applicable",
+            "missing": [
+              "subtotal",
+              "line_items"
+            ]
+          },
+          {
+            "id": "grand_total",
+            "status": "not_applicable",
+            "missing": [
+              "subtotal",
+              "tax",
+              "discount",
+              "grand_total"
+            ]
+          }
+        ],
+        "review_required": true,
+        "review_reasons": [
+          "Arithmetic unavailable: subtotal",
+          "Arithmetic unavailable: grand_total",
+          "Model reported unresolved uncertainties"
+        ],
+        "evidence_findings": [
+          {
+            "path": "/document_number",
+            "status": "supported",
+            "quote": "Challan No: DC-968"
+          },
+          {
+            "path": "/date",
+            "status": "supported",
+            "quote": "Date: 27/07/2026"
+          }
+        ],
+        "limitations": [
+          "Evidence proves substring presence, not the correct field or row assignment.",
+          "Arithmetic consistency cannot prove values match the source document.",
+          "Model self-confidence is not a calibrated confidence signal.",
+          "Absolute arithmetic tolerance is 0.01; currency and rounding policy are not inferred."
+        ]
+      },
+      "consumer": {
+        "submission_id": "bbaae1ab1b1b435fb6cf97a24e25c157",
+        "consumer": "demonstration_stub",
+        "inventory_updated": false,
+        "status": "blocked_for_review",
+        "review_required": true,
+        "review_reasons": [
+          "Arithmetic unavailable: subtotal",
+          "Arithmetic unavailable: grand_total",
+          "Model reported unresolved uncertainties"
+        ],
+        "record": {
+          "schema_version": "1.0",
+          "document_type": "delivery_note",
+          "document_number": "DC-968",
+          "date": "27/07/2026",
+          "currency": null,
+          "line_items": [],
+          "totals": {
+            "subtotal": null,
+            "tax": null,
+            "discount": null,
+            "grand_total": null
+          },
+          "evidence": {
+            "/document_number": "Challan No: DC-968",
+            "/date": "Date: 27/07/2026"
+          },
+          "uncertainties": [
+            "No readable item rows, quantities, prices, or totals appear in the OCR.",
+            "Currency is not present."
+          ],
+          "corrections": []
+        },
+        "notice": "Arithmetic and OCR quotes do not establish field correctness. No real ERP connected."
+      },
+      "identical_extraction_replay": true
+    },
+    {
+      "approach": "direct",
+      "sample_id": "e396ade11def",
+      "ocr_sha256": "6449cc419027b97bed89a7a33e8dbdfaa4aa86d4f81c0d465246909635c60ed6",
+      "response_file_sha256": "a1f6bed84a39ce5eea5729f10c0be382a5a4e353d5439a80edd5c442c7215dca",
+      "state": "completed",
+      "classification": "customer_copy",
+      "verification": {
+        "record": {
+          "schema_version": "1.0",
+          "document_type": "customer_copy",
+          "document_number": "INV-9957",
+          "date": "10/09/2026",
+          "currency": "Tk",
+          "line_items": [
+            {
+              "raw_text": "Toothpaste 100g",
+              "quantity": "10",
+              "unit_price": "120",
+              "line_total": "1200"
+            },
+            {
+              "raw_text": "Exercise Book",
+              "quantity": null,
+              "unit_price": "45",
+              "line_total": "45"
+            }
+          ],
+          "totals": {
+            "subtotal": null,
+            "tax": null,
+            "discount": null,
+            "grand_total": "1245"
+          },
+          "evidence": {
+            "/document_number": "Invoice No: INV-9957",
+            "/date": "Date: 10/09/2026",
+            "/currency": "Rate (Tk)",
+            "/line_items/0/raw_text": "Toothpaste 100g",
+            "/line_items/0/quantity": "Toothpaste 100g | 10 |",
+            "/line_items/0/unit_price": "Tk 120",
+            "/line_items/0/line_total": "Tk 1,200",
+            "/line_items/1/raw_text": "Exercise Book",
+            "/line_items/1/unit_price": "Tk45",
+            "/line_items/1/line_total": "Tx 45",
+            "/totals/grand_total": "Total: Tk 1,245"
+          },
+          "uncertainties": [
+            "Input document_type is customer_copy, while the OCR visibly states OFFICE COPY; the supplied document_type was preserved.",
+            "Exercise Book quantity appears in the malformed text 1] and remains null.",
+            "The Exercise Book line-total currency marker appears as Tx; the readable amount 45 was preserved without correcting that marker.",
+            "Subtotal, tax, and discount are not clearly present."
+          ],
+          "corrections": []
+        },
+        "checks": [
+          {
+            "id": "line_items/0/multiplication",
+            "status": "passed",
+            "expected": "1200",
+            "actual": "1200",
+            "difference": "0",
+            "tolerance": "0.01"
+          },
+          {
+            "id": "line_items/1/multiplication",
+            "status": "not_applicable",
+            "missing": [
+              "quantity"
+            ]
+          },
+          {
+            "id": "subtotal",
+            "status": "not_applicable",
+            "missing": [
+              "subtotal"
+            ]
+          },
+          {
+            "id": "grand_total",
+            "status": "not_applicable",
+            "missing": [
+              "subtotal",
+              "tax",
+              "discount"
+            ]
+          }
+        ],
+        "review_required": true,
+        "review_reasons": [
+          "Evidence value_not_in_evidence: /line_items/0/line_total",
+          "Evidence value_not_in_evidence: /totals/grand_total",
+          "Arithmetic unavailable: line_items/1/multiplication",
+          "Arithmetic unavailable: subtotal",
+          "Arithmetic unavailable: grand_total",
+          "Model reported unresolved uncertainties"
+        ],
+        "evidence_findings": [
+          {
+            "path": "/document_number",
+            "status": "supported",
+            "quote": "Invoice No: INV-9957"
+          },
+          {
+            "path": "/date",
+            "status": "supported",
+            "quote": "Date: 10/09/2026"
+          },
+          {
+            "path": "/currency",
+            "status": "supported",
+            "quote": "Rate (Tk)"
+          },
+          {
+            "path": "/line_items/0/line_total",
+            "status": "value_not_in_evidence",
+            "quote": "Tk 1,200"
+          },
+          {
+            "path": "/line_items/0/quantity",
+            "status": "supported",
+            "quote": "Toothpaste 100g | 10 |"
+          },
+          {
+            "path": "/line_items/0/raw_text",
+            "status": "supported",
+            "quote": "Toothpaste 100g"
+          },
+          {
+            "path": "/line_items/0/unit_price",
+            "status": "supported",
+            "quote": "Tk 120"
+          },
+          {
+            "path": "/line_items/1/line_total",
+            "status": "supported",
+            "quote": "Tx 45"
+          },
+          {
+            "path": "/line_items/1/raw_text",
+            "status": "supported",
+            "quote": "Exercise Book"
+          },
+          {
+            "path": "/line_items/1/unit_price",
+            "status": "supported",
+            "quote": "Tk45"
+          },
+          {
+            "path": "/totals/grand_total",
+            "status": "value_not_in_evidence",
+            "quote": "Total: Tk 1,245"
+          }
+        ],
+        "limitations": [
+          "Evidence proves substring presence, not the correct field or row assignment.",
+          "Arithmetic consistency cannot prove values match the source document.",
+          "Model self-confidence is not a calibrated confidence signal.",
+          "Absolute arithmetic tolerance is 0.01; currency and rounding policy are not inferred."
+        ]
+      },
+      "consumer": {
+        "submission_id": "f3e3f0625fec4df993802f7a56921bd1",
+        "consumer": "demonstration_stub",
+        "inventory_updated": false,
+        "status": "blocked_for_review",
+        "review_required": true,
+        "review_reasons": [
+          "Evidence value_not_in_evidence: /line_items/0/line_total",
+          "Evidence value_not_in_evidence: /totals/grand_total",
+          "Arithmetic unavailable: line_items/1/multiplication",
+          "Arithmetic unavailable: subtotal",
+          "Arithmetic unavailable: grand_total",
+          "Model reported unresolved uncertainties"
+        ],
+        "record": {
+          "schema_version": "1.0",
+          "document_type": "customer_copy",
+          "document_number": "INV-9957",
+          "date": "10/09/2026",
+          "currency": "Tk",
+          "line_items": [
+            {
+              "raw_text": "Toothpaste 100g",
+              "quantity": "10",
+              "unit_price": "120",
+              "line_total": "1200"
+            },
+            {
+              "raw_text": "Exercise Book",
+              "quantity": null,
+              "unit_price": "45",
+              "line_total": "45"
+            }
+          ],
+          "totals": {
+            "subtotal": null,
+            "tax": null,
+            "discount": null,
+            "grand_total": "1245"
+          },
+          "evidence": {
+            "/document_number": "Invoice No: INV-9957",
+            "/date": "Date: 10/09/2026",
+            "/currency": "Rate (Tk)",
+            "/line_items/0/raw_text": "Toothpaste 100g",
+            "/line_items/0/quantity": "Toothpaste 100g | 10 |",
+            "/line_items/0/unit_price": "Tk 120",
+            "/line_items/0/line_total": "Tk 1,200",
+            "/line_items/1/raw_text": "Exercise Book",
+            "/line_items/1/unit_price": "Tk45",
+            "/line_items/1/line_total": "Tx 45",
+            "/totals/grand_total": "Total: Tk 1,245"
+          },
+          "uncertainties": [
+            "Input document_type is customer_copy, while the OCR visibly states OFFICE COPY; the supplied document_type was preserved.",
+            "Exercise Book quantity appears in the malformed text 1] and remains null.",
+            "The Exercise Book line-total currency marker appears as Tx; the readable amount 45 was preserved without correcting that marker.",
+            "Subtotal, tax, and discount are not clearly present."
+          ],
+          "corrections": []
+        },
+        "notice": "Arithmetic and OCR quotes do not establish field correctness. No real ERP connected."
+      },
+      "identical_extraction_replay": true
+    },
+    {
+      "approach": "direct",
+      "sample_id": "cdd7aaa9004d",
+      "ocr_sha256": "86e76385a771113d1f03273175b3c1b018583d0b4671721dd80e15ae42227d5e",
+      "response_file_sha256": "a1f6bed84a39ce5eea5729f10c0be382a5a4e353d5439a80edd5c442c7215dca",
+      "state": "completed",
+      "classification": "purchase_order",
+      "verification": {
+        "record": {
+          "schema_version": "1.0",
+          "document_type": "purchase_order",
+          "document_number": "INV-9335",
+          "date": "13/08/2026",
+          "currency": "Tk",
+          "line_items": [],
+          "totals": {
+            "subtotal": null,
+            "tax": null,
+            "discount": null,
+            "grand_total": "45340"
+          },
+          "evidence": {
+            "/document_number": "Invoice No: INV-9335",
+            "/date": "Date: 13/08/2026",
+            "/currency": "Tk45,340",
+            "/totals/grand_total": "Total:  Tk45,340"
+          },
+          "uncertainties": [
+            "Input document_type is purchase_order, while the OCR states Invoice and Invoice No; the supplied document_type was preserved.",
+            "No readable item rows, quantities, or unit prices appear in the OCR.",
+            "Subtotal, tax, and discount are not clearly present."
+          ],
+          "corrections": []
+        },
+        "checks": [
+          {
+            "id": "subtotal",
+            "status": "not_applicable",
+            "missing": [
+              "subtotal",
+              "line_items"
+            ]
+          },
+          {
+            "id": "grand_total",
+            "status": "not_applicable",
+            "missing": [
+              "subtotal",
+              "tax",
+              "discount"
+            ]
+          }
+        ],
+        "review_required": true,
+        "review_reasons": [
+          "Evidence value_not_in_evidence: /totals/grand_total",
+          "Arithmetic unavailable: subtotal",
+          "Arithmetic unavailable: grand_total",
+          "Model reported unresolved uncertainties"
+        ],
+        "evidence_findings": [
+          {
+            "path": "/document_number",
+            "status": "supported",
+            "quote": "Invoice No: INV-9335"
+          },
+          {
+            "path": "/date",
+            "status": "supported",
+            "quote": "Date: 13/08/2026"
+          },
+          {
+            "path": "/currency",
+            "status": "supported",
+            "quote": "Tk45,340"
+          },
+          {
+            "path": "/totals/grand_total",
+            "status": "value_not_in_evidence",
+            "quote": "Total:  Tk45,340"
+          }
+        ],
+        "limitations": [
+          "Evidence proves substring presence, not the correct field or row assignment.",
+          "Arithmetic consistency cannot prove values match the source document.",
+          "Model self-confidence is not a calibrated confidence signal.",
+          "Absolute arithmetic tolerance is 0.01; currency and rounding policy are not inferred."
+        ]
+      },
+      "consumer": {
+        "submission_id": "b69b247747264cda8069cc40b261336b",
+        "consumer": "demonstration_stub",
+        "inventory_updated": false,
+        "status": "blocked_for_review",
+        "review_required": true,
+        "review_reasons": [
+          "Evidence value_not_in_evidence: /totals/grand_total",
+          "Arithmetic unavailable: subtotal",
+          "Arithmetic unavailable: grand_total",
+          "Model reported unresolved uncertainties"
+        ],
+        "record": {
+          "schema_version": "1.0",
+          "document_type": "purchase_order",
+          "document_number": "INV-9335",
+          "date": "13/08/2026",
+          "currency": "Tk",
+          "line_items": [],
+          "totals": {
+            "subtotal": null,
+            "tax": null,
+            "discount": null,
+            "grand_total": "45340"
+          },
+          "evidence": {
+            "/document_number": "Invoice No: INV-9335",
+            "/date": "Date: 13/08/2026",
+            "/currency": "Tk45,340",
+            "/totals/grand_total": "Total:  Tk45,340"
+          },
+          "uncertainties": [
+            "Input document_type is purchase_order, while the OCR states Invoice and Invoice No; the supplied document_type was preserved.",
+            "No readable item rows, quantities, or unit prices appear in the OCR.",
+            "Subtotal, tax, and discount are not clearly present."
+          ],
+          "corrections": []
+        },
+        "notice": "Arithmetic and OCR quotes do not establish field correctness. No real ERP connected."
+      },
+      "identical_extraction_replay": true
+    },
+    {
+      "approach": "strict",
+      "sample_id": "76cc99d39da4",
+      "ocr_sha256": "21efb0e84f322eaceb7b7fe3c109c9a66ec11292097a31e79a2d94bd8ec432e8",
+      "response_file_sha256": "4df7436574ffb07520e8215f4b51caa809bcd2a61367d810796fbfb24f47a058",
+      "state": "completed",
+      "classification": "purchase_order",
+      "verification": {
+        "record": {
+          "schema_version": "1.0",
+          "document_type": "purchase_order",
+          "document_number": "ORD-9953",
+          "date": "04/07/2026",
+          "currency": "Tk",
+          "line_items": [
+            {
+              "raw_text": "Miniket Rice 25kg",
+              "quantity": "24",
+              "unit_price": null,
+              "line_total": null
+            }
+          ],
+          "totals": {
+            "subtotal": null,
+            "tax": null,
+            "discount": null,
+            "grand_total": null
+          },
+          "evidence": {
+            "/document_number": "Order No: ORD-9953",
+            "/date": "Order Date: 04/07/2026",
+            "/currency": "Rate (Tk)",
+            "/line_items/0/raw_text": "Miniket Rice 25kg",
+            "/line_items/0/quantity": "Miniket Rice 25kg{ 24 |"
+          },
+          "uncertainties": [
+            "Additional item rows may be present, but their descriptions and amounts are unreadable in the OCR.",
+            "Subtotal, tax, and discount are not clearly present.",
+            "The readable line total does not account for the full stated total; missing amounts were not inferred.",
+            "The proposed reading of Om: as From: is contextual and has not been applied.",
+            "Value at /line_items/0/unit_price withheld under the strict literal evidence contract because its normalized digits are not a literal substring of its evidence quote.",
+            "Value at /line_items/0/line_total withheld under the strict literal evidence contract because its normalized digits are not a literal substring of its evidence quote.",
+            "Value at /totals/grand_total withheld under the strict literal evidence contract because its normalized digits are not a literal substring of its evidence quote."
+          ],
+          "corrections": [
+            {
+              "before": "Om:",
+              "after": "From:",
+              "reason": "A sender label before the supplier name and preceding To: plausibly lost its opening letters; proposal only."
+            },
+            {
+              "before": "1,850",
+              "after": "1850",
+              "reason": "Thousands-comma normalization requires an explicit formatting policy; extraction withheld under literal evidence contract."
+            },
+            {
+              "before": "44,400",
+              "after": "44400",
+              "reason": "Thousands-comma normalization requires an explicit formatting policy; extraction withheld under literal evidence contract."
+            },
+            {
+              "before": "45,700",
+              "after": "45700",
+              "reason": "Thousands-comma normalization requires an explicit formatting policy; extraction withheld under literal evidence contract."
+            }
+          ]
+        },
+        "checks": [
+          {
+            "id": "line_items/0/multiplication",
+            "status": "not_applicable",
+            "missing": [
+              "unit_price",
+              "line_total"
+            ]
+          },
+          {
+            "id": "subtotal",
+            "status": "not_applicable",
+            "missing": [
+              "subtotal",
+              "line_items/0/line_total"
+            ]
+          },
+          {
+            "id": "grand_total",
+            "status": "not_applicable",
+            "missing": [
+              "subtotal",
+              "tax",
+              "discount",
+              "grand_total"
+            ]
+          }
+        ],
+        "review_required": true,
+        "review_reasons": [
+          "Arithmetic unavailable: line_items/0/multiplication",
+          "Arithmetic unavailable: subtotal",
+          "Arithmetic unavailable: grand_total",
+          "Model reported unresolved uncertainties",
+          "OCR corrections are unverified proposals"
+        ],
+        "evidence_findings": [
+          {
+            "path": "/document_number",
+            "status": "supported",
+            "quote": "Order No: ORD-9953"
+          },
+          {
+            "path": "/date",
+            "status": "supported",
+            "quote": "Order Date: 04/07/2026"
+          },
+          {
+            "path": "/currency",
+            "status": "supported",
+            "quote": "Rate (Tk)"
+          },
+          {
+            "path": "/line_items/0/quantity",
+            "status": "supported",
+            "quote": "Miniket Rice 25kg{ 24 |"
+          },
+          {
+            "path": "/line_items/0/raw_text",
+            "status": "supported",
+            "quote": "Miniket Rice 25kg"
+          }
+        ],
+        "limitations": [
+          "Evidence proves substring presence, not the correct field or row assignment.",
+          "Arithmetic consistency cannot prove values match the source document.",
+          "Model self-confidence is not a calibrated confidence signal.",
+          "Absolute arithmetic tolerance is 0.01; currency and rounding policy are not inferred."
+        ]
+      },
+      "consumer": {
+        "submission_id": "c47fc02f6de14943803017b58d3f55b9",
+        "consumer": "demonstration_stub",
+        "inventory_updated": false,
+        "status": "blocked_for_review",
+        "review_required": true,
+        "review_reasons": [
+          "Arithmetic unavailable: line_items/0/multiplication",
+          "Arithmetic unavailable: subtotal",
+          "Arithmetic unavailable: grand_total",
+          "Model reported unresolved uncertainties",
+          "OCR corrections are unverified proposals"
+        ],
+        "record": {
+          "schema_version": "1.0",
+          "document_type": "purchase_order",
+          "document_number": "ORD-9953",
+          "date": "04/07/2026",
+          "currency": "Tk",
+          "line_items": [
+            {
+              "raw_text": "Miniket Rice 25kg",
+              "quantity": "24",
+              "unit_price": null,
+              "line_total": null
+            }
+          ],
+          "totals": {
+            "subtotal": null,
+            "tax": null,
+            "discount": null,
+            "grand_total": null
+          },
+          "evidence": {
+            "/document_number": "Order No: ORD-9953",
+            "/date": "Order Date: 04/07/2026",
+            "/currency": "Rate (Tk)",
+            "/line_items/0/raw_text": "Miniket Rice 25kg",
+            "/line_items/0/quantity": "Miniket Rice 25kg{ 24 |"
+          },
+          "uncertainties": [
+            "Additional item rows may be present, but their descriptions and amounts are unreadable in the OCR.",
+            "Subtotal, tax, and discount are not clearly present.",
+            "The readable line total does not account for the full stated total; missing amounts were not inferred.",
+            "The proposed reading of Om: as From: is contextual and has not been applied.",
+            "Value at /line_items/0/unit_price withheld under the strict literal evidence contract because its normalized digits are not a literal substring of its evidence quote.",
+            "Value at /line_items/0/line_total withheld under the strict literal evidence contract because its normalized digits are not a literal substring of its evidence quote.",
+            "Value at /totals/grand_total withheld under the strict literal evidence contract because its normalized digits are not a literal substring of its evidence quote."
+          ],
+          "corrections": [
+            {
+              "before": "Om:",
+              "after": "From:",
+              "reason": "A sender label before the supplier name and preceding To: plausibly lost its opening letters; proposal only."
+            },
+            {
+              "before": "1,850",
+              "after": "1850",
+              "reason": "Thousands-comma normalization requires an explicit formatting policy; extraction withheld under literal evidence contract."
+            },
+            {
+              "before": "44,400",
+              "after": "44400",
+              "reason": "Thousands-comma normalization requires an explicit formatting policy; extraction withheld under literal evidence contract."
+            },
+            {
+              "before": "45,700",
+              "after": "45700",
+              "reason": "Thousands-comma normalization requires an explicit formatting policy; extraction withheld under literal evidence contract."
+            }
+          ]
+        },
+        "notice": "Arithmetic and OCR quotes do not establish field correctness. No real ERP connected."
+      },
+      "identical_extraction_replay": true
+    },
+    {
+      "approach": "strict",
+      "sample_id": "5dffabcb47cb",
+      "ocr_sha256": "48625af5c91a701566489a6a4dbc57d9c46edf47ee176e637970daaa51a8c8d4",
+      "response_file_sha256": "4df7436574ffb07520e8215f4b51caa809bcd2a61367d810796fbfb24f47a058",
+      "state": "completed",
+      "classification": "receipt",
+      "verification": {
+        "record": {
+          "schema_version": "1.0",
+          "document_type": "receipt",
+          "document_number": null,
+          "date": null,
+          "currency": null,
+          "line_items": [
+            {
+              "raw_text": "Kimchi p",
+              "quantity": null,
+              "unit_price": null,
+              "line_total": null
+            },
+            {
+              "raw_text": "Fre ice grentea",
+              "quantity": null,
+              "unit_price": null,
+              "line_total": null
+            }
+          ],
+          "totals": {
+            "subtotal": null,
+            "tax": null,
+            "discount": null,
+            "grand_total": null
+          },
+          "evidence": {
+            "/line_items/0/raw_text": "Kimchi p",
+            "/line_items/1/raw_text": "Fre ice grentea"
+          },
+          "uncertainties": [
+            "Document number, date, and currency are not clearly present.",
+            "The quantity/amount lines cannot be confidently associated with the descriptions using OCR sequence alone; all item numeric fields remain null.",
+            "The periods in amounts such as 36.000 and 0.000 have an uncertain decimal or thousands interpretation.",
+            "The text Rr0. 000 is malformed.",
+            "The apparent total appears as 1 o*x=[0TAL © 36.000; its amount remains null because separator interpretation is uncertain.",
+            "Subtotal, tax, and discount are not clearly present.",
+            "The proposed reading of grentea as green tea is plausible but unverified and has not been applied."
+          ],
+          "corrections": [
+            {
+              "before": "grentea",
+              "after": "green tea",
+              "reason": "Plausible missing letter and word boundary in a beverage description; proposal only."
+            }
+          ]
+        },
+        "checks": [
+          {
+            "id": "line_items/0/multiplication",
+            "status": "not_applicable",
+            "missing": [
+              "quantity",
+              "unit_price",
+              "line_total"
+            ]
+          },
+          {
+            "id": "line_items/1/multiplication",
+            "status": "not_applicable",
+            "missing": [
+              "quantity",
+              "unit_price",
+              "line_total"
+            ]
+          },
+          {
+            "id": "subtotal",
+            "status": "not_applicable",
+            "missing": [
+              "subtotal",
+              "line_items/0/line_total",
+              "line_items/1/line_total"
+            ]
+          },
+          {
+            "id": "grand_total",
+            "status": "not_applicable",
+            "missing": [
+              "subtotal",
+              "tax",
+              "discount",
+              "grand_total"
+            ]
+          }
+        ],
+        "review_required": true,
+        "review_reasons": [
+          "Arithmetic unavailable: line_items/0/multiplication",
+          "Arithmetic unavailable: line_items/1/multiplication",
+          "Arithmetic unavailable: subtotal",
+          "Arithmetic unavailable: grand_total",
+          "Model reported unresolved uncertainties",
+          "OCR corrections are unverified proposals"
+        ],
+        "evidence_findings": [
+          {
+            "path": "/line_items/0/raw_text",
+            "status": "supported",
+            "quote": "Kimchi p"
+          },
+          {
+            "path": "/line_items/1/raw_text",
+            "status": "supported",
+            "quote": "Fre ice grentea"
+          }
+        ],
+        "limitations": [
+          "Evidence proves substring presence, not the correct field or row assignment.",
+          "Arithmetic consistency cannot prove values match the source document.",
+          "Model self-confidence is not a calibrated confidence signal.",
+          "Absolute arithmetic tolerance is 0.01; currency and rounding policy are not inferred."
+        ]
+      },
+      "consumer": {
+        "submission_id": "fac77dedd79244ceb3ef2f5a273264ac",
+        "consumer": "demonstration_stub",
+        "inventory_updated": false,
+        "status": "blocked_for_review",
+        "review_required": true,
+        "review_reasons": [
+          "Arithmetic unavailable: line_items/0/multiplication",
+          "Arithmetic unavailable: line_items/1/multiplication",
+          "Arithmetic unavailable: subtotal",
+          "Arithmetic unavailable: grand_total",
+          "Model reported unresolved uncertainties",
+          "OCR corrections are unverified proposals"
+        ],
+        "record": {
+          "schema_version": "1.0",
+          "document_type": "receipt",
+          "document_number": null,
+          "date": null,
+          "currency": null,
+          "line_items": [
+            {
+              "raw_text": "Kimchi p",
+              "quantity": null,
+              "unit_price": null,
+              "line_total": null
+            },
+            {
+              "raw_text": "Fre ice grentea",
+              "quantity": null,
+              "unit_price": null,
+              "line_total": null
+            }
+          ],
+          "totals": {
+            "subtotal": null,
+            "tax": null,
+            "discount": null,
+            "grand_total": null
+          },
+          "evidence": {
+            "/line_items/0/raw_text": "Kimchi p",
+            "/line_items/1/raw_text": "Fre ice grentea"
+          },
+          "uncertainties": [
+            "Document number, date, and currency are not clearly present.",
+            "The quantity/amount lines cannot be confidently associated with the descriptions using OCR sequence alone; all item numeric fields remain null.",
+            "The periods in amounts such as 36.000 and 0.000 have an uncertain decimal or thousands interpretation.",
+            "The text Rr0. 000 is malformed.",
+            "The apparent total appears as 1 o*x=[0TAL © 36.000; its amount remains null because separator interpretation is uncertain.",
+            "Subtotal, tax, and discount are not clearly present.",
+            "The proposed reading of grentea as green tea is plausible but unverified and has not been applied."
+          ],
+          "corrections": [
+            {
+              "before": "grentea",
+              "after": "green tea",
+              "reason": "Plausible missing letter and word boundary in a beverage description; proposal only."
+            }
+          ]
+        },
+        "notice": "Arithmetic and OCR quotes do not establish field correctness. No real ERP connected."
+      },
+      "identical_extraction_replay": true
+    },
+    {
+      "approach": "strict",
+      "sample_id": "f9918570b903",
+      "ocr_sha256": "14699d44aaa60c89a32bb0c24ec124c41a8d17e10312e03b525fe889fd39251d",
+      "response_file_sha256": "4df7436574ffb07520e8215f4b51caa809bcd2a61367d810796fbfb24f47a058",
+      "state": "completed",
+      "classification": "delivery_note",
+      "verification": {
+        "record": {
+          "schema_version": "1.0",
+          "document_type": "delivery_note",
+          "document_number": "DC-968",
+          "date": "27/07/2026",
+          "currency": null,
+          "line_items": [],
+          "totals": {
+            "subtotal": null,
+            "tax": null,
+            "discount": null,
+            "grand_total": null
+          },
+          "evidence": {
+            "/document_number": "Challan No: DC-968",
+            "/date": "Date: 27/07/2026"
+          },
+          "uncertainties": [
+            "No readable item rows, quantities, prices, or totals appear in the OCR.",
+            "Currency is not present."
+          ],
+          "corrections": []
+        },
+        "checks": [
+          {
+            "id": "subtotal",
+            "status": "not_applicable",
+            "missing": [
+              "subtotal",
+              "line_items"
+            ]
+          },
+          {
+            "id": "grand_total",
+            "status": "not_applicable",
+            "missing": [
+              "subtotal",
+              "tax",
+              "discount",
+              "grand_total"
+            ]
+          }
+        ],
+        "review_required": true,
+        "review_reasons": [
+          "Arithmetic unavailable: subtotal",
+          "Arithmetic unavailable: grand_total",
+          "Model reported unresolved uncertainties"
+        ],
+        "evidence_findings": [
+          {
+            "path": "/document_number",
+            "status": "supported",
+            "quote": "Challan No: DC-968"
+          },
+          {
+            "path": "/date",
+            "status": "supported",
+            "quote": "Date: 27/07/2026"
+          }
+        ],
+        "limitations": [
+          "Evidence proves substring presence, not the correct field or row assignment.",
+          "Arithmetic consistency cannot prove values match the source document.",
+          "Model self-confidence is not a calibrated confidence signal.",
+          "Absolute arithmetic tolerance is 0.01; currency and rounding policy are not inferred."
+        ]
+      },
+      "consumer": {
+        "submission_id": "aec6d7ee98bd4b8c9816fb8f621868f6",
+        "consumer": "demonstration_stub",
+        "inventory_updated": false,
+        "status": "blocked_for_review",
+        "review_required": true,
+        "review_reasons": [
+          "Arithmetic unavailable: subtotal",
+          "Arithmetic unavailable: grand_total",
+          "Model reported unresolved uncertainties"
+        ],
+        "record": {
+          "schema_version": "1.0",
+          "document_type": "delivery_note",
+          "document_number": "DC-968",
+          "date": "27/07/2026",
+          "currency": null,
+          "line_items": [],
+          "totals": {
+            "subtotal": null,
+            "tax": null,
+            "discount": null,
+            "grand_total": null
+          },
+          "evidence": {
+            "/document_number": "Challan No: DC-968",
+            "/date": "Date: 27/07/2026"
+          },
+          "uncertainties": [
+            "No readable item rows, quantities, prices, or totals appear in the OCR.",
+            "Currency is not present."
+          ],
+          "corrections": []
+        },
+        "notice": "Arithmetic and OCR quotes do not establish field correctness. No real ERP connected."
+      },
+      "identical_extraction_replay": true
+    },
+    {
+      "approach": "strict",
+      "sample_id": "e396ade11def",
+      "ocr_sha256": "6449cc419027b97bed89a7a33e8dbdfaa4aa86d4f81c0d465246909635c60ed6",
+      "response_file_sha256": "4df7436574ffb07520e8215f4b51caa809bcd2a61367d810796fbfb24f47a058",
+      "state": "completed",
+      "classification": "customer_copy",
+      "verification": {
+        "record": {
+          "schema_version": "1.0",
+          "document_type": "customer_copy",
+          "document_number": "INV-9957",
+          "date": "10/09/2026",
+          "currency": "Tk",
+          "line_items": [
+            {
+              "raw_text": "Toothpaste 100g",
+              "quantity": "10",
+              "unit_price": "120",
+              "line_total": null
+            },
+            {
+              "raw_text": "Exercise Book",
+              "quantity": null,
+              "unit_price": "45",
+              "line_total": "45"
+            }
+          ],
+          "totals": {
+            "subtotal": null,
+            "tax": null,
+            "discount": null,
+            "grand_total": null
+          },
+          "evidence": {
+            "/document_number": "Invoice No: INV-9957",
+            "/date": "Date: 10/09/2026",
+            "/currency": "Rate (Tk)",
+            "/line_items/0/raw_text": "Toothpaste 100g",
+            "/line_items/0/quantity": "Toothpaste 100g | 10 |",
+            "/line_items/0/unit_price": "Tk 120",
+            "/line_items/1/raw_text": "Exercise Book",
+            "/line_items/1/unit_price": "Exercise Book 1] Tk45 |",
+            "/line_items/1/line_total": "Exercise Book 1] Tk45 | Tx 45 |"
+          },
+          "uncertainties": [
+            "Input document_type is customer_copy, while the OCR visibly states OFFICE COPY; the supplied document_type was preserved.",
+            "Exercise Book quantity appears in the malformed text 1] and remains null.",
+            "The Exercise Book line-total currency marker appears as Tx; the readable amount 45 was preserved without correcting that marker.",
+            "Subtotal, tax, and discount are not clearly present.",
+            "The proposed reading of Tx as Tk is contextual and has not been applied.",
+            "Value at /line_items/0/line_total withheld under the strict literal evidence contract because its normalized digits are not a literal substring of its evidence quote.",
+            "Value at /totals/grand_total withheld under the strict literal evidence contract because its normalized digits are not a literal substring of its evidence quote."
+          ],
+          "corrections": [
+            {
+              "before": "Tx 45",
+              "after": "Tk 45",
+              "reason": "Other monetary fields and the table header use Tk, making Tx a plausible OCR substitution; proposal only."
+            },
+            {
+              "before": "1,200",
+              "after": "1200",
+              "reason": "Thousands-comma normalization requires an explicit formatting policy; extraction withheld under literal evidence contract."
+            },
+            {
+              "before": "1,245",
+              "after": "1245",
+              "reason": "Thousands-comma normalization requires an explicit formatting policy; extraction withheld under literal evidence contract."
+            }
+          ]
+        },
+        "checks": [
+          {
+            "id": "line_items/0/multiplication",
+            "status": "not_applicable",
+            "missing": [
+              "line_total"
+            ]
+          },
+          {
+            "id": "line_items/1/multiplication",
+            "status": "not_applicable",
+            "missing": [
+              "quantity"
+            ]
+          },
+          {
+            "id": "subtotal",
+            "status": "not_applicable",
+            "missing": [
+              "subtotal",
+              "line_items/0/line_total"
+            ]
+          },
+          {
+            "id": "grand_total",
+            "status": "not_applicable",
+            "missing": [
+              "subtotal",
+              "tax",
+              "discount",
+              "grand_total"
+            ]
+          }
+        ],
+        "review_required": true,
+        "review_reasons": [
+          "Arithmetic unavailable: line_items/0/multiplication",
+          "Arithmetic unavailable: line_items/1/multiplication",
+          "Arithmetic unavailable: subtotal",
+          "Arithmetic unavailable: grand_total",
+          "Model reported unresolved uncertainties",
+          "OCR corrections are unverified proposals"
+        ],
+        "evidence_findings": [
+          {
+            "path": "/document_number",
+            "status": "supported",
+            "quote": "Invoice No: INV-9957"
+          },
+          {
+            "path": "/date",
+            "status": "supported",
+            "quote": "Date: 10/09/2026"
+          },
+          {
+            "path": "/currency",
+            "status": "supported",
+            "quote": "Rate (Tk)"
+          },
+          {
+            "path": "/line_items/0/quantity",
+            "status": "supported",
+            "quote": "Toothpaste 100g | 10 |"
+          },
+          {
+            "path": "/line_items/0/raw_text",
+            "status": "supported",
+            "quote": "Toothpaste 100g"
+          },
+          {
+            "path": "/line_items/0/unit_price",
+            "status": "supported",
+            "quote": "Tk 120"
+          },
+          {
+            "path": "/line_items/1/line_total",
+            "status": "supported",
+            "quote": "Exercise Book 1] Tk45 | Tx 45 |"
+          },
+          {
+            "path": "/line_items/1/raw_text",
+            "status": "supported",
+            "quote": "Exercise Book"
+          },
+          {
+            "path": "/line_items/1/unit_price",
+            "status": "supported",
+            "quote": "Exercise Book 1] Tk45 |"
+          }
+        ],
+        "limitations": [
+          "Evidence proves substring presence, not the correct field or row assignment.",
+          "Arithmetic consistency cannot prove values match the source document.",
+          "Model self-confidence is not a calibrated confidence signal.",
+          "Absolute arithmetic tolerance is 0.01; currency and rounding policy are not inferred."
+        ]
+      },
+      "consumer": {
+        "submission_id": "154903a108274454b23ed3992ca77eeb",
+        "consumer": "demonstration_stub",
+        "inventory_updated": false,
+        "status": "blocked_for_review",
+        "review_required": true,
+        "review_reasons": [
+          "Arithmetic unavailable: line_items/0/multiplication",
+          "Arithmetic unavailable: line_items/1/multiplication",
+          "Arithmetic unavailable: subtotal",
+          "Arithmetic unavailable: grand_total",
+          "Model reported unresolved uncertainties",
+          "OCR corrections are unverified proposals"
+        ],
+        "record": {
+          "schema_version": "1.0",
+          "document_type": "customer_copy",
+          "document_number": "INV-9957",
+          "date": "10/09/2026",
+          "currency": "Tk",
+          "line_items": [
+            {
+              "raw_text": "Toothpaste 100g",
+              "quantity": "10",
+              "unit_price": "120",
+              "line_total": null
+            },
+            {
+              "raw_text": "Exercise Book",
+              "quantity": null,
+              "unit_price": "45",
+              "line_total": "45"
+            }
+          ],
+          "totals": {
+            "subtotal": null,
+            "tax": null,
+            "discount": null,
+            "grand_total": null
+          },
+          "evidence": {
+            "/document_number": "Invoice No: INV-9957",
+            "/date": "Date: 10/09/2026",
+            "/currency": "Rate (Tk)",
+            "/line_items/0/raw_text": "Toothpaste 100g",
+            "/line_items/0/quantity": "Toothpaste 100g | 10 |",
+            "/line_items/0/unit_price": "Tk 120",
+            "/line_items/1/raw_text": "Exercise Book",
+            "/line_items/1/unit_price": "Exercise Book 1] Tk45 |",
+            "/line_items/1/line_total": "Exercise Book 1] Tk45 | Tx 45 |"
+          },
+          "uncertainties": [
+            "Input document_type is customer_copy, while the OCR visibly states OFFICE COPY; the supplied document_type was preserved.",
+            "Exercise Book quantity appears in the malformed text 1] and remains null.",
+            "The Exercise Book line-total currency marker appears as Tx; the readable amount 45 was preserved without correcting that marker.",
+            "Subtotal, tax, and discount are not clearly present.",
+            "The proposed reading of Tx as Tk is contextual and has not been applied.",
+            "Value at /line_items/0/line_total withheld under the strict literal evidence contract because its normalized digits are not a literal substring of its evidence quote.",
+            "Value at /totals/grand_total withheld under the strict literal evidence contract because its normalized digits are not a literal substring of its evidence quote."
+          ],
+          "corrections": [
+            {
+              "before": "Tx 45",
+              "after": "Tk 45",
+              "reason": "Other monetary fields and the table header use Tk, making Tx a plausible OCR substitution; proposal only."
+            },
+            {
+              "before": "1,200",
+              "after": "1200",
+              "reason": "Thousands-comma normalization requires an explicit formatting policy; extraction withheld under literal evidence contract."
+            },
+            {
+              "before": "1,245",
+              "after": "1245",
+              "reason": "Thousands-comma normalization requires an explicit formatting policy; extraction withheld under literal evidence contract."
+            }
+          ]
+        },
+        "notice": "Arithmetic and OCR quotes do not establish field correctness. No real ERP connected."
+      },
+      "identical_extraction_replay": true
+    },
+    {
+      "approach": "strict",
+      "sample_id": "cdd7aaa9004d",
+      "ocr_sha256": "86e76385a771113d1f03273175b3c1b018583d0b4671721dd80e15ae42227d5e",
+      "response_file_sha256": "4df7436574ffb07520e8215f4b51caa809bcd2a61367d810796fbfb24f47a058",
+      "state": "completed",
+      "classification": "purchase_order",
+      "verification": {
+        "record": {
+          "schema_version": "1.0",
+          "document_type": "purchase_order",
+          "document_number": "INV-9335",
+          "date": "13/08/2026",
+          "currency": "Tk",
+          "line_items": [],
+          "totals": {
+            "subtotal": null,
+            "tax": null,
+            "discount": null,
+            "grand_total": null
+          },
+          "evidence": {
+            "/document_number": "Invoice No: INV-9335",
+            "/date": "Date: 13/08/2026",
+            "/currency": "Tk45,340"
+          },
+          "uncertainties": [
+            "Input document_type is purchase_order, while the OCR states Invoice and Invoice No; the supplied document_type was preserved.",
+            "No readable item rows, quantities, or unit prices appear in the OCR.",
+            "Subtotal, tax, and discount are not clearly present.",
+            "The proposed readings of {louse and TOMER COPY are plausible textual repairs and have not been applied.",
+            "Value at /totals/grand_total withheld under the strict literal evidence contract because its normalized digits are not a literal substring of its evidence quote."
+          ],
+          "corrections": [
+            {
+              "before": "{louse",
+              "after": "House",
+              "reason": "The opening glyphs plausibly represent a misrecognized H in the supplier name; proposal only."
+            },
+            {
+              "before": "TOMER COPY",
+              "after": "CUSTOMER COPY",
+              "reason": "The visible text plausibly omits the opening CUS of a common document-copy label; proposal only."
+            },
+            {
+              "before": "45,340",
+              "after": "45340",
+              "reason": "Thousands-comma normalization requires an explicit formatting policy; extraction withheld under literal evidence contract."
+            }
+          ]
+        },
+        "checks": [
+          {
+            "id": "subtotal",
+            "status": "not_applicable",
+            "missing": [
+              "subtotal",
+              "line_items"
+            ]
+          },
+          {
+            "id": "grand_total",
+            "status": "not_applicable",
+            "missing": [
+              "subtotal",
+              "tax",
+              "discount",
+              "grand_total"
+            ]
+          }
+        ],
+        "review_required": true,
+        "review_reasons": [
+          "Arithmetic unavailable: subtotal",
+          "Arithmetic unavailable: grand_total",
+          "Model reported unresolved uncertainties",
+          "OCR corrections are unverified proposals"
+        ],
+        "evidence_findings": [
+          {
+            "path": "/document_number",
+            "status": "supported",
+            "quote": "Invoice No: INV-9335"
+          },
+          {
+            "path": "/date",
+            "status": "supported",
+            "quote": "Date: 13/08/2026"
+          },
+          {
+            "path": "/currency",
+            "status": "supported",
+            "quote": "Tk45,340"
+          }
+        ],
+        "limitations": [
+          "Evidence proves substring presence, not the correct field or row assignment.",
+          "Arithmetic consistency cannot prove values match the source document.",
+          "Model self-confidence is not a calibrated confidence signal.",
+          "Absolute arithmetic tolerance is 0.01; currency and rounding policy are not inferred."
+        ]
+      },
+      "consumer": {
+        "submission_id": "1e73545b6f014f5aa1c1fec8450987ba",
+        "consumer": "demonstration_stub",
+        "inventory_updated": false,
+        "status": "blocked_for_review",
+        "review_required": true,
+        "review_reasons": [
+          "Arithmetic unavailable: subtotal",
+          "Arithmetic unavailable: grand_total",
+          "Model reported unresolved uncertainties",
+          "OCR corrections are unverified proposals"
+        ],
+        "record": {
+          "schema_version": "1.0",
+          "document_type": "purchase_order",
+          "document_number": "INV-9335",
+          "date": "13/08/2026",
+          "currency": "Tk",
+          "line_items": [],
+          "totals": {
+            "subtotal": null,
+            "tax": null,
+            "discount": null,
+            "grand_total": null
+          },
+          "evidence": {
+            "/document_number": "Invoice No: INV-9335",
+            "/date": "Date: 13/08/2026",
+            "/currency": "Tk45,340"
+          },
+          "uncertainties": [
+            "Input document_type is purchase_order, while the OCR states Invoice and Invoice No; the supplied document_type was preserved.",
+            "No readable item rows, quantities, or unit prices appear in the OCR.",
+            "Subtotal, tax, and discount are not clearly present.",
+            "The proposed readings of {louse and TOMER COPY are plausible textual repairs and have not been applied.",
+            "Value at /totals/grand_total withheld under the strict literal evidence contract because its normalized digits are not a literal substring of its evidence quote."
+          ],
+          "corrections": [
+            {
+              "before": "{louse",
+              "after": "House",
+              "reason": "The opening glyphs plausibly represent a misrecognized H in the supplier name; proposal only."
+            },
+            {
+              "before": "TOMER COPY",
+              "after": "CUSTOMER COPY",
+              "reason": "The visible text plausibly omits the opening CUS of a common document-copy label; proposal only."
+            },
+            {
+              "before": "45,340",
+              "after": "45340",
+              "reason": "Thousands-comma normalization requires an explicit formatting policy; extraction withheld under literal evidence contract."
+            }
+          ]
+        },
+        "notice": "Arithmetic and OCR quotes do not establish field correctness. No real ERP connected."
+      },
+      "identical_extraction_replay": true
+    }
+  ],
+  "completed": 10,
+  "review_required": 10,
+  "passed": true
+}

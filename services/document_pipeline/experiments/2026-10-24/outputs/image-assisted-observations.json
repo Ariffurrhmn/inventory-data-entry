@@ -1,0 +1,35 @@
+{
+  "76cc99d39da4": {
+    "method": "image_assisted_ai_observation",
+    "human_verified": false,
+    "document_type": "purchase_order",
+    "document_number": "ORD-9953",
+    "date": "04/07/2026",
+    "currency": "Tk",
+    "observed_text": "From: Al-Madina Traders, Badda, Dhaka.\nTo: Dhaka Trade House.\nOrder No: ORD-9953.\nOrder Date: 04/07/2026.\nRequired By: 09/07/2026.\nPlease supply the following goods:\nItem | Qty | Rate (Tk) | Amount (Tk)\nMiniket Rice 25kg | 24 | Tk 1,850 | Tk 44,400\nOnion 1kg | 20 | Tk 65 | Tk 1,300\nTotal: Tk 45,700.\nAuthorized by\n[signature ignored]\nfor Al-Madina Traders.",
+    "rows": [
+      {"description": "Miniket Rice 25kg", "quantity": "24", "unit_price": "1850", "line_total": "44400"},
+      {"description": "Onion 1kg", "quantity": "20", "unit_price": "65", "line_total": "1300"}
+    ],
+    "totals": {"subtotal": null, "tax": null, "discount": null, "grand_total": "45700"},
+    "uncertainties": ["AI visual transcription only; not human verified, not ground truth, and not raw OCR.", "Currency is transcribed as printed (Tk); no ISO currency conversion was inferred.", "Only a printed Total is present; subtotal, tax, and discount were not separately observed.", "Date retained in printed format without inferring its locale."]
+  },
+  "f9918570b903": {
+    "method": "image_assisted_ai_observation",
+    "human_verified": false,
+    "document_type": "delivery_note",
+    "document_number": "DC-968",
+    "date": "27/07/2026",
+    "currency": null,
+    "observed_text": "Surma Food Supply\nChallan\nChallan No: DC-968.\nDate: 27/07/2026.\nFrom: Surma Food Supply.\nTo: Meghna Store, Savar, Dhaka.\nSl | Item Description | Qty.\n1 | Mustard Oil 1L | 6\n2 | Milk Powder 500g | 20\n3 | Detergent 500g | 12\n4 | Onion 1kg | 12\n5 | Salt 1kg | 2\n[signature ignored]\nReceived By\nDelivered By",
+    "rows": [
+      {"description": "Mustard Oil 1L", "quantity": "6", "unit_price": null, "line_total": null},
+      {"description": "Milk Powder 500g", "quantity": "20", "unit_price": null, "line_total": null},
+      {"description": "Detergent 500g", "quantity": "12", "unit_price": null, "line_total": null},
+      {"description": "Onion 1kg", "quantity": "12", "unit_price": null, "line_total": null},
+      {"description": "Salt 1kg", "quantity": "2", "unit_price": null, "line_total": null}
+    ],
+    "totals": {"subtotal": null, "tax": null, "discount": null, "grand_total": null},
+    "uncertainties": ["AI visual transcription only; not human verified, not ground truth, and not raw OCR.", "The printed table has descriptions and quantities only; no prices, monetary totals, or currency were observed.", "Date retained in printed format without inferring its locale."]
+  }
+}

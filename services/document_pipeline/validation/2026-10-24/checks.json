@@ -1,0 +1,17 @@
+{
+  "scope": "Automated controlled software checks, not recognition accuracy",
+  "passed": true,
+  "tests_run": 35,
+  "failures": 0,
+  "errors": 0,
+  "elapsed_seconds": 8.134,
+  "runtime": "configured classifier Python from classifier/engine/runtime.local.json",
+  "evidence": "Observed unittest output: Ran 35 tests in 8.134s; OK",
+  "source_sha256": {
+    "contract.py": "bdfc0a60c9da0ed888f61301e8df7edca299307f6d745ac8f05379d1ee03a006",
+    "gateway.py": "32dfe72686a837add865bea821b7a8b831d0d239eab0ba228d09097fd24929c2",
+    "schema.json": "d795c97b9a1b28e2079eab40fe09c7d2d76bc2dca17e1ac874bcd3b755635551",
+    "test_contract.py": "46726f2af016a636b13bc082cfb7e9c5b7488ca66e320d5bd6e5852a241cd07c",
+    "test_gateway.py": "ed616a64325560c0e57af09bfd1096f2f6a8f15af6f0b0b65a513cfab0d31d7f"
+  }
+}

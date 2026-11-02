@@ -1,0 +1,15 @@
+{
+  "scope": "Actual in-app browser walkthrough with existing development OCR and actual saved sub-agent extraction",
+  "url": "http://127.0.0.1:8772/",
+  "sample_id": "f9918570b903",
+  "submission_id": "e32ea8526c65454f96ea35643031a9c7",
+  "observed": [
+    "awaiting_extraction",
+    "completed",
+    "blocked_for_review"
+  ],
+  "inventory_updated": false,
+  "review_required": true,
+  "screenshot": "browser-consumer.png",
+  "note": "Browser walkthrough preceded final class-aware delivery-note policy; current full automated checks cover that revision. Original OCR text and incomplete extraction still require review."
+}

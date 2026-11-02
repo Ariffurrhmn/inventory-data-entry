@@ -1,0 +1,233 @@
+{
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "document_type",
+    "document_number",
+    "date",
+    "currency",
+    "line_items",
+    "totals",
+    "evidence",
+    "uncertainties",
+    "corrections"
+  ],
+  "properties": {
+    "schema_version": {
+      "const": "1.0"
+    },
+    "document_type": {
+      "enum": [
+        "purchase_order",
+        "receipt",
+        "delivery_note",
+        "customer_copy"
+      ]
+    },
+    "document_number": {
+      "anyOf": [
+        {
+          "type": "string",
+          "minLength": 1,
+          "pattern": "\\S"
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "date": {
+      "anyOf": [
+        {
+          "type": "string",
+          "minLength": 1,
+          "pattern": "\\S"
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "currency": {
+      "anyOf": [
+        {
+          "type": "string",
+          "minLength": 1,
+          "pattern": "\\S"
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "line_items": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "raw_text",
+          "quantity",
+          "unit_price",
+          "line_total"
+        ],
+        "properties": {
+          "raw_text": {
+            "type": "string",
+            "minLength": 1,
+            "pattern": "\\S",
+            "description": "Exact source OCR substring for the printed item-description cell only; exclude row serial number, quantity, unit price and line total. Unreadable descriptions must not be reconstructed."
+          },
+          "quantity": {
+            "anyOf": [
+              {
+                "type": "string",
+                "pattern": "^[0-9]+(?:\\.[0-9]+)?$",
+                "maxLength": 128
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "unit_price": {
+            "anyOf": [
+              {
+                "type": "string",
+                "pattern": "^[0-9]+(?:\\.[0-9]+)?$",
+                "maxLength": 128
+              },
+              {
+                "type": "null"
+              }
+            ]
+          },
+          "line_total": {
+            "anyOf": [
+              {
+                "type": "string",
+                "pattern": "^[0-9]+(?:\\.[0-9]+)?$",
+                "maxLength": 128
+              },
+              {
+                "type": "null"
+              }
+            ]
+          }
+        }
+      }
+    },
+    "totals": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "subtotal",
+        "tax",
+        "discount",
+        "grand_total"
+      ],
+      "properties": {
+        "subtotal": {
+          "anyOf": [
+            {
+              "type": "string",
+              "pattern": "^[0-9]+(?:\\.[0-9]+)?$",
+              "maxLength": 128
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "tax": {
+          "anyOf": [
+            {
+              "type": "string",
+              "pattern": "^[0-9]+(?:\\.[0-9]+)?$",
+              "maxLength": 128
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "discount": {
+          "anyOf": [
+            {
+              "type": "string",
+              "pattern": "^[0-9]+(?:\\.[0-9]+)?$",
+              "maxLength": 128
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "grand_total": {
+          "anyOf": [
+            {
+              "type": "string",
+              "pattern": "^[0-9]+(?:\\.[0-9]+)?$",
+              "maxLength": 128
+            },
+            {
+              "type": "null"
+            }
+          ]
+        }
+      }
+    },
+    "evidence": {
+      "type": "object",
+      "propertyNames": {
+        "pattern": "^/(?:document_number|date|currency|totals/(?:subtotal|tax|discount|grand_total)|line_items/(?:0|[1-9][0-9]*)/(?:raw_text|quantity|unit_price|line_total))$"
+      },
+      "additionalProperties": {
+        "type": "string",
+        "minLength": 1,
+        "pattern": "\\S"
+      }
+    },
+    "uncertainties": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1,
+        "pattern": "\\S"
+      }
+    },
+    "corrections": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "before",
+          "after",
+          "reason"
+        ],
+        "properties": {
+          "before": {
+            "type": "string",
+            "minLength": 1,
+            "pattern": "\\S"
+          },
+          "after": {
+            "type": "string",
+            "minLength": 1,
+            "pattern": "\\S"
+          },
+          "reason": {
+            "type": "string",
+            "minLength": 1,
+            "pattern": "\\S"
+          }
+        }
+      }
+    }
+  },
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Provisional downstream extraction contract v1",
+  "description": "Strict printed-document extraction. Decimal values are nullable plain nonnegative strings, never JSON numbers. Date remains exact OCR text, not an inferred normalized date. Evidence maps canonical field pointers to exact nonempty immutable OCR substrings containing the extracted value. contract.validate_record additionally checks pointer indices, literal evidence and arithmetic. Corrections remain unverified proposals. Contract is a development revision, not a production ERP schema."
+}

@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "document_type": "receipt",
+  "document_number": null,
+  "date": null,
+  "currency": null,
+  "line_items": [
+    {
+      "raw_text": "1x 36.000 + 36.000",
+      "quantity": "1",
+      "unit_price": null,
+      "line_total": null
+    },
+    {
+      "raw_text": "1x 0.000 Rr0. 000",
+      "quantity": "1",
+      "unit_price": null,
+      "line_total": null
+    }
+  ],
+  "totals": {
+    "subtotal": null,
+    "tax": null,
+    "discount": null,
+    "grand_total": null
+  },
+  "evidence": {
+    "/line_items/0/raw_text": "1x 36.000 + 36.000",
+    "/line_items/0/quantity": "1x 36.000 + 36.000",
+    "/line_items/1/raw_text": "1x 0.000 Rr0. 000",
+    "/line_items/1/quantity": "1x 0.000 Rr0. 000"
+  },
+  "uncertainties": [
+    "The dot in 36.000 and 15.000 may be a decimal or thousands separator; monetary fields remain null.",
+    "The second numeric row is corrupted as 0.000 Rr0. 000; its monetary interpretation remains unresolved.",
+    "Kimchi p and Fre ice grentea occur on separate lines; item-name association with numeric rows is not established.",
+    "The apparent total label is corrupted as o*x=[0TAL; no monetary total is normalized.",
+    "CASH Re51. 000 and CHANGE % 15.000 contain unclear symbols; currency is not established."
+  ],
+  "corrections": []
+}

@@ -1,0 +1,11 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Document Pipeline</title><link rel="stylesheet" href="/style.css"><script defer src="/app.js"></script></head>
+<body><main><p class="eyebrow">CAPSTONE · LOCAL DEVELOPMENT</p><h1>Document to verified JSON</h1>
+<p>Upload a printed document or paste OCR. Run the exported prompt with a Codex sub-agent, then import its JSON here.</p>
+<p class="notice">LLM extraction uses an external sub-agent handoff. Results and OCR are saved locally in this prototype. Verification flags indicate checks, not proven correctness. No ERP is connected.</p>
+<section><h2>1. Read and classify</h2><label>Printed document<input id="image" type="file" accept="image/*,.heic,.heif"></label><label>Or paste OCR<textarea id="ocr" rows="7"></textarea></label><label>Submission key<input id="key"></label><button id="submit">Read document</button></section>
+<p id="status" role="status">Ready</p>
+<section><h2>2. Extract with a sub-agent</h2><label>Prompt<textarea id="prompt" rows="10" readonly></textarea></label><button id="copy">Copy prompt</button><button id="download">Download prompt</button><label>Returned JSON<textarea id="extraction" rows="12"></textarea></label><button id="verify">Verify JSON</button></section>
+<section><h2>3. Inspect result</h2><button id="consumer">Check demonstration consumer</button><button id="export">Download result</button><pre id="result">No submission yet.</pre></section>
+</main></body></html>
+

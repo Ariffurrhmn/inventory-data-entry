@@ -1,0 +1,26 @@
+[
+  {
+    "id": "76cc99d39da4",
+    "source_kind": "image_assisted_ai_transcription",
+    "image": "classifier/demo/images/76cc99d39da4.jpg",
+    "image_sha256": "c008a22c1f76dc1b9d9e89cf948d589ec7bc9d64e8119a640c6a8c6af6fd626a",
+    "human_verified": false,
+    "original_ocr": false,
+    "annotation_truth": false,
+    "method": "Fresh fork_turns=none sub-agent viewed actual source image; no references or expected answers",
+    "model_identity": "Inherited Codex session; exact provider model ID not independently exposed",
+    "deployment_integration": false
+  },
+  {
+    "id": "f9918570b903",
+    "source_kind": "image_assisted_ai_transcription",
+    "image": "classifier/demo/images/f9918570b903.jpg",
+    "image_sha256": "bc4e1f5f2758199a5b77f34cba6bedf0a71d78335a9eb2c0a8a6d0e8af7cc60c",
+    "human_verified": false,
+    "original_ocr": false,
+    "annotation_truth": false,
+    "method": "Fresh fork_turns=none sub-agent viewed actual source image; no references or expected answers",
+    "model_identity": "Inherited Codex session; exact provider model ID not independently exposed",
+    "deployment_integration": false
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "76cc99d39da4",
+    "source_kind": "actual_isolated_codex_agent_candidate",
+    "human_verified": false,
+    "image": "classifier\\demo\\images\\76cc99d39da4.jpg",
+    "image_sha256": "c008a22c1f76dc1b9d9e89cf948d589ec7bc9d64e8119a640c6a8c6af6fd626a",
+    "candidate_file": "76cc99d39da4-candidate.json",
+    "candidate_sha256": "9f30ef809328c4c505338e716ca0e3b291147d668f475729d7846231c458ffde",
+    "independent_field_truth": false
+  },
+  {
+    "id": "5dffabcb47cb",
+    "source_kind": "actual_isolated_codex_agent_candidate",
+    "human_verified": false,
+    "image": "classifier\\demo\\images\\5dffabcb47cb.jpg",
+    "image_sha256": "e51375a245dde8dacc6e43ae9f83726a17363e9cc5cb5210e1c7ed5ab345e2c0",
+    "candidate_file": "5dffabcb47cb-candidate.json",
+    "candidate_sha256": "80269b94786168efa9578556b1c363d157b00509447b3569ab67ac5f682f6fc2",
+    "independent_field_truth": false
+  },
+  {
+    "id": "f9918570b903",
+    "source_kind": "actual_isolated_codex_agent_candidate",
+    "human_verified": false,
+    "image": "classifier\\demo\\images\\f9918570b903.jpg",
+    "image_sha256": "bc4e1f5f2758199a5b77f34cba6bedf0a71d78335a9eb2c0a8a6d0e8af7cc60c",
+    "candidate_file": "f9918570b903-candidate.json",
+    "candidate_sha256": "e8e111759a7c7dcd11e094b529c27ff45a0668258b824844312268cf383aa87c",
+    "independent_field_truth": false
+  },
+  {
+    "id": "e396ade11def",
+    "source_kind": "actual_isolated_codex_agent_candidate",
+    "human_verified": false,
+    "image": "classifier\\demo\\images\\e396ade11def.jpg",
+    "image_sha256": "b9f12f27d77447b831b0976cf9e4fd4265fb6f17e158cd85528c4bdde5053c00",
+    "candidate_file": "e396ade11def-candidate.json",
+    "candidate_sha256": "950570e3d833eafe945e91969aefbdc918d3c4aff0547b5c85bbf0321a7d733e",
+    "independent_field_truth": false
+  },
+  {
+    "id": "cdd7aaa9004d",
+    "source_kind": "actual_isolated_codex_agent_candidate",
+    "human_verified": false,
+    "image": "classifier\\demo\\images\\cdd7aaa9004d.jpg",
+    "image_sha256": "3a782087b6f7af63728eddc13354e6be20247ab1b24e0cb01b6168ffee2287b3",
+    "candidate_file": "cdd7aaa9004d-candidate.json",
+    "candidate_sha256": "ff6dbaa1cff5b69a909608b7ca3048b217c4fea1537eda222028b9dee7959bf6",
+    "independent_field_truth": false
+  }
+]

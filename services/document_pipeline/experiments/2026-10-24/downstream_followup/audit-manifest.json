@@ -1,0 +1,83 @@
+{
+  "human_verified": false,
+  "accuracy_measured": false,
+  "transport": "fresh fork_turns=none Codex agents, separate primary and region agents; not an application backend",
+  "model_provider_id": "not independently exposed",
+  "agent_latency_measured": false,
+  "api_cost_measured": false,
+  "selected_classifier": {
+    "run": "printed_v3_explainable",
+    "sha256": "bd1dba65eb03c3f2282697a502400794ce754543c5e16150625b73cea62ce0bd",
+    "matches_selected_pointer": true
+  },
+  "files": {
+    "primary-prompt.txt": "c675b215b568641e4f6ad7efedccc85cf6052248ac828a52ebb309ad86c7fa26",
+    "region-prompt.txt": "5095b532c7318c97a2bae13fc4f7ae007e10ed0fe13743240a2172dc41126d76",
+    "primary-response.json": "f7f1a1f4c208f557c7c6036f2f4a8dc9c3dbe9bd02d5664f96be81757344dbdd",
+    "region-response.json": "0d022b20a9f11f55ccfb048f49343658156d5746005afefe77f14523132dc0d8",
+    "region-input.json": "54e371200befe2a050319e6e7dcd704fbafaf3356543ecfa02780f8a7a2c4d29",
+    "comparison-validation.json": "bae82d5582c84bce50d7b930beb97701ae6cf303326365b5cb6fa3c0d96614ee",
+    "backend-probe.json": "7d3998c469f07cf1325eb93000b211f426af277417372383baad3798589f5992",
+    "hardware.json": "7853c66078f149a8eff671241c06ace6c0368e2b58b30ef2ca3107a89f79c307",
+    "software-checks.txt": "790ef1f314d46b6d110fdd2ad50368400b2a705b8b589be103e64c8b905eb875",
+    "final-localization-audit.json": "b20daef604af3c8fae3450a4be53a55a0e668e02142a050549d5de9471c9c397"
+  },
+  "primary_input_file": "../inputs/ocr-only.json",
+  "primary_input_sha256": "c3149c6139d0844a87ca3a511aa4c2073ea909abb15f2e985724c2f2adc3e960",
+  "localization_provenance_file": "../automatic_localization/blinded-region-provenance-run5.json",
+  "localization_provenance_sha256": "0ddc5ba154b99ea089924201d6da07e6562fe7cadf8897c277e721b226b5c682",
+  "sources": [
+    {
+      "id": "76cc99d39da4",
+      "sha256": "c008a22c1f76dc1b9d9e89cf948d589ec7bc9d64e8119a640c6a8c6af6fd626a",
+      "matches_existing_demo_manifest": true,
+      "development_split": "val"
+    },
+    {
+      "id": "5dffabcb47cb",
+      "sha256": "e51375a245dde8dacc6e43ae9f83726a17363e9cc5cb5210e1c7ed5ab345e2c0",
+      "matches_existing_demo_manifest": true,
+      "development_split": "val"
+    },
+    {
+      "id": "f9918570b903",
+      "sha256": "bc4e1f5f2758199a5b77f34cba6bedf0a71d78335a9eb2c0a8a6d0e8af7cc60c",
+      "matches_existing_demo_manifest": true,
+      "development_split": "val"
+    },
+    {
+      "id": "e396ade11def",
+      "sha256": "b9f12f27d77447b831b0976cf9e4fd4265fb6f17e158cd85528c4bdde5053c00",
+      "matches_existing_demo_manifest": true,
+      "development_split": "val"
+    },
+    {
+      "id": "cdd7aaa9004d",
+      "sha256": "3a782087b6f7af63728eddc13354e6be20247ab1b24e0cb01b6168ffee2287b3",
+      "matches_existing_demo_manifest": true,
+      "development_split": "val"
+    }
+  ],
+  "integrated_source_sha256": {
+    "gateway.py": "9ed49a2015382b9ea9e8dcfd15413621cf700c9bc4de8719fc52cb8106ad0403",
+    "schema.json": "233daf98dcbd323f77a1864792876436f4bff26ed57854064fcc86afbc1d585e",
+    "localization.py": "bc7c9e325ce7a32724a3c9712cdd6ba2922e41049aa0b9bd01c117a7c1a77256",
+    "region_evidence.py": "7c5852653e7a3c2b5e1b703674381280ad5703e3d5abc4724fd6263e5f818c5e",
+    "field_review.py": "18bc587c1853e7f178391b2cd0447fbe27aa13376a2e94fd5b856eb864a57f22",
+    "probe_local_backend.py": "0b5a8c53feba4d9ab67cc6cbd4cdd38b2569665f6463b74f26579982a935ff70",
+    "run_localization.py": "28e5d8265fabf7e47f72c21aaa4a821f171c292504b9b2f6895c2364ff97b252",
+    "run_region_smoke.py": "3f741978df78f2373c9593a8055e9156e9f98ae88d58d6d455befdf62673ccc8",
+    "start.ps1": "4a05e04542fb2145753c1fe582d222c18b426b8d3ce818892698fcee4c537998",
+    "test_localization.py": "7ccd34e14b088d88230ef2a5b96e3a74a6e0b5a479ac1316f5ac73bfc3d00dde",
+    "test_region_evidence.py": "538dc707d9bc2e2faa3325332da74feb468142778d195d3c97ff298332d3fc41",
+    "test_field_review.py": "13a654ef73e43b08f99185165fabe5e80ca29364ab43a3d40ee59a3744c0bc78",
+    "experiments/2026-10-24/automatic_localization/audit_results.py": "36114cdf27a7071437c6773962cc809b826a37d8b0d6e50b4f5eb5289d84e17f",
+    "experiments/2026-10-24/automatic_localization/prepare_blinded_inputs.py": "028543f0f2b4ec87198844275c8b0812b1362a03564b503c48b0beadf5dad50b"
+  },
+  "field_semantics_note": "Saved agents used earlier prompts; future raw_text prompt/schema description is now item-description-only. Historical output unchanged.",
+  "reproduction_overwrite_guard": {
+    "verified": true,
+    "message": "Refusing to overwrite blinded inputs/provenance; supply a new destination directory.",
+    "inputs_unchanged": true
+  }
+}

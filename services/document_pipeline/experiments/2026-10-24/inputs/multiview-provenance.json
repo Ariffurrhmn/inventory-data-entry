@@ -1,0 +1,20 @@
+[
+  {
+    "id": "76cc99d39da4",
+    "source_record": "classifier/demo/records/76cc99d39da4.json",
+    "source_record_sha256": "0f54308533115928e71af06fc469fd8220d4985ce1f3ec78696af3473300ee35",
+    "ocr_field": "result.heading_ocr_text",
+    "ocr_utf8_sha256": "827f08279125df4cc4275db483b22a5dc8a3256c9dfa5aef02d8ad5f5457e777",
+    "views": 6,
+    "images_read": false
+  },
+  {
+    "id": "f9918570b903",
+    "source_record": "classifier/demo/records/f9918570b903.json",
+    "source_record_sha256": "5927382170feb9544eaf27c6786469625844c27360916219c8aedeeb1a8c8d7c",
+    "ocr_field": "result.heading_ocr_text",
+    "ocr_utf8_sha256": "5cc2e8de7ba6a18656707d381ab27786e6563d2250412c7ac002831b953ca832",
+    "views": 6,
+    "images_read": false
+  }
+]

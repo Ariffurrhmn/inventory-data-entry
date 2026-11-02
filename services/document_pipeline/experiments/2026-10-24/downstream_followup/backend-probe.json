@@ -1,0 +1,110 @@
+{
+  "python": "C:\\Users\\Windows 11\\.codex\\visualizations\\2026\\10\\19\\01a1538b-89e3-71b2-b8ed-50b13effb160\\classifier-env\\Scripts\\python.exe",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "logical_cpus": 12,
+  "memory_bytes": {
+    "total_physical": 16995729408,
+    "available_physical": 1270382592
+  },
+  "packages": {
+    "torch": true,
+    "transformers": true,
+    "llama_cpp": false,
+    "cv2": false,
+    "psutil": false,
+    "onnxruntime": false
+  },
+  "executables": {
+    "ollama": null,
+    "llama-cli": null,
+    "llama-server": null,
+    "nvidia-smi": null
+  },
+  "cache_files": [
+    {
+      "model": "models--google--gemma-2b-it",
+      "files": [
+        {
+          "path": "C:\\Users\\Windows 11\\.cache\\huggingface\\hub\\models--google--gemma-2b-it\\refs\\main",
+          "bytes": 40
+        },
+        {
+          "path": "C:\\Users\\Windows 11\\.cache\\huggingface\\hub\\models--google--gemma-2b-it\\snapshots\\96988410cbdaeb8d5093d1ebdc5a8fb563e02bad\\config.json",
+          "bytes": 627
+        }
+      ]
+    },
+    {
+      "model": "models--google--bert_uncased_L-2_H-128_A-2",
+      "files": [
+        {
+          "path": "C:\\Users\\Windows 11\\.codex\\visualizations\\2026\\10\\19\\01a1538b-89e3-71b2-b8ed-50b13effb160\\hf-cache\\models--google--bert_uncased_L-2_H-128_A-2\\snapshots\\30b0a37ccaaa32f332884b96992754e246e48c5f\\config.json",
+          "bytes": 382
+        },
+        {
+          "path": "C:\\Users\\Windows 11\\.codex\\visualizations\\2026\\10\\19\\01a1538b-89e3-71b2-b8ed-50b13effb160\\hf-cache\\models--google--bert_uncased_L-2_H-128_A-2\\snapshots\\30b0a37ccaaa32f332884b96992754e246e48c5f\\model.safetensors",
+          "bytes": 17739144
+        },
+        {
+          "path": "C:\\Users\\Windows 11\\.codex\\visualizations\\2026\\10\\19\\01a1538b-89e3-71b2-b8ed-50b13effb160\\hf-cache\\models--google--bert_uncased_L-2_H-128_A-2\\snapshots\\30b0a37ccaaa32f332884b96992754e246e48c5f\\README.md",
+          "bytes": 4617
+        },
+        {
+          "path": "C:\\Users\\Windows 11\\.codex\\visualizations\\2026\\10\\19\\01a1538b-89e3-71b2-b8ed-50b13effb160\\hf-cache\\models--google--bert_uncased_L-2_H-128_A-2\\snapshots\\30b0a37ccaaa32f332884b96992754e246e48c5f\\vocab.txt",
+          "bytes": 231508
+        }
+      ]
+    },
+    {
+      "model": "models--sentence-transformers--all-MiniLM-L6-v2",
+      "files": [
+        {
+          "path": "C:\\Users\\Windows 11\\.codex\\visualizations\\2026\\10\\19\\01a1538b-89e3-71b2-b8ed-50b13effb160\\hf-cache\\models--sentence-transformers--all-MiniLM-L6-v2\\snapshots\\1110a243fdf4706b3f48f1d95db1a4f5529b4d41\\config.json",
+          "bytes": 612
+        },
+        {
+          "path": "C:\\Users\\Windows 11\\.codex\\visualizations\\2026\\10\\19\\01a1538b-89e3-71b2-b8ed-50b13effb160\\hf-cache\\models--sentence-transformers--all-MiniLM-L6-v2\\snapshots\\1110a243fdf4706b3f48f1d95db1a4f5529b4d41\\model.safetensors",
+          "bytes": 90868376
+        },
+        {
+          "path": "C:\\Users\\Windows 11\\.codex\\visualizations\\2026\\10\\19\\01a1538b-89e3-71b2-b8ed-50b13effb160\\hf-cache\\models--sentence-transformers--all-MiniLM-L6-v2\\snapshots\\1110a243fdf4706b3f48f1d95db1a4f5529b4d41\\README.md",
+          "bytes": 10502
+        },
+        {
+          "path": "C:\\Users\\Windows 11\\.codex\\visualizations\\2026\\10\\19\\01a1538b-89e3-71b2-b8ed-50b13effb160\\hf-cache\\models--sentence-transformers--all-MiniLM-L6-v2\\snapshots\\1110a243fdf4706b3f48f1d95db1a4f5529b4d41\\special_tokens_map.json",
+          "bytes": 112
+        },
+        {
+          "path": "C:\\Users\\Windows 11\\.codex\\visualizations\\2026\\10\\19\\01a1538b-89e3-71b2-b8ed-50b13effb160\\hf-cache\\models--sentence-transformers--all-MiniLM-L6-v2\\snapshots\\1110a243fdf4706b3f48f1d95db1a4f5529b4d41\\tokenizer.json",
+          "bytes": 466247
+        },
+        {
+          "path": "C:\\Users\\Windows 11\\.codex\\visualizations\\2026\\10\\19\\01a1538b-89e3-71b2-b8ed-50b13effb160\\hf-cache\\models--sentence-transformers--all-MiniLM-L6-v2\\snapshots\\1110a243fdf4706b3f48f1d95db1a4f5529b4d41\\tokenizer_config.json",
+          "bytes": 350
+        },
+        {
+          "path": "C:\\Users\\Windows 11\\.codex\\visualizations\\2026\\10\\19\\01a1538b-89e3-71b2-b8ed-50b13effb160\\hf-cache\\models--sentence-transformers--all-MiniLM-L6-v2\\snapshots\\1110a243fdf4706b3f48f1d95db1a4f5529b4d41\\vocab.txt",
+          "bytes": 231508
+        }
+      ]
+    }
+  ],
+  "downloads": false,
+  "generation_executed": false,
+  "torch": {
+    "version": "2.14.1+cpu",
+    "cuda_available": false
+  },
+  "offline_load": {
+    "exception": "OSError",
+    "message": "Error no file named pytorch_model.bin, model.safetensors, tf_model.h5, model.ckpt.index or flax_model.msgpack found in directory C:\\Users\\Windows 11\\.cache\\huggingface\\hub\\models--google--gemma-2b-it\\snapshots\\96988410cbdaeb8d5093d1ebdc5a8fb563e02bad."
+  },
+  "offline_load_seconds": 58.12011050002184,
+  "limitations": [
+    "No generative weights available in inspected caches; classifier encoders are not extraction generators.",
+    "No generation latency, schema compliance, extraction accuracy or model resource use measured.",
+    "Current free memory is a snapshot, not peak capacity. CPU inference may be possible after provisioning but is unvalidated.",
+    "No weights downloaded, no paid API used, Codex agents are experimental handoffs."
+  ],
+  "script_sha256": "0b5a8c53feba4d9ab67cc6cbd4cdd38b2569665f6463b74f26579982a935ff70"
+}

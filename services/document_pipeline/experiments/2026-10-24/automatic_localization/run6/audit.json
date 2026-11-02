@@ -1,0 +1,67 @@
+{
+  "checks": "source/module/source-snapshot/OCR PNG/TXT hashes, successful commands, TSV presence; seven development manifest guards executed by runner",
+  "human_verified": false,
+  "documents": [
+    {
+      "id": "76cc99d39da4",
+      "tables": 1,
+      "rows_including_headers": 3,
+      "columns_per_table": [
+        4
+      ],
+      "seconds": 11.5751
+    },
+    {
+      "id": "f9918570b903",
+      "tables": 1,
+      "rows_including_headers": 6,
+      "columns_per_table": [
+        3
+      ],
+      "seconds": 13.7496
+    },
+    {
+      "id": "5dffabcb47cb",
+      "tables": 0,
+      "rows_including_headers": 0,
+      "columns_per_table": [],
+      "seconds": 7.7511
+    },
+    {
+      "id": "e396ade11def",
+      "tables": 0,
+      "rows_including_headers": 0,
+      "columns_per_table": [],
+      "seconds": 11.3091
+    },
+    {
+      "id": "cdd7aaa9004d",
+      "tables": 1,
+      "rows_including_headers": 4,
+      "columns_per_table": [
+        4
+      ],
+      "seconds": 12.3882
+    },
+    {
+      "id": "cc6e515ae67f",
+      "tables": 0,
+      "rows_including_headers": 0,
+      "columns_per_table": [],
+      "seconds": 8.3512
+    },
+    {
+      "id": "398c6ef688e4",
+      "tables": 1,
+      "rows_including_headers": 6,
+      "columns_per_table": [
+        3
+      ],
+      "seconds": 14.1661
+    }
+  ],
+  "documents_with_grid": 4,
+  "total_wall_seconds": 79.2904,
+  "total_ocr_seconds": 6.445,
+  "limits": "Grid presence and source agreement are not localization or extraction accuracy. OCR total excludes word-box fallback; wall includes all processing."
+}

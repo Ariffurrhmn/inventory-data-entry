@@ -1,0 +1,21 @@
+{
+  "cpu": [
+    {
+      "Name": "12th Gen Intel(R) Core(TM) i7-1265U",
+      "NumberOfCores": 10,
+      "NumberOfLogicalProcessors": 12
+    }
+  ],
+  "os_memory": [
+    {
+      "TotalVisibleMemorySize": 16597392,
+      "FreePhysicalMemory": 1721132
+    }
+  ],
+  "gpu": [
+    {
+      "Name": "Intel(R) Iris(R) Xe Graphics",
+      "AdapterRAM": 2147479552
+    }
+  ]
+}

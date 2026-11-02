@@ -1,0 +1,3039 @@
+{
+  "source": "E:\\.shortcut-targets-by-id\\1yOBXNuSORBcOSWDhEg-YF1MEWIDvc8J2\\Capstone- Inventory Management System\\services\\document_classifier\\data\\images\\398c6ef688e4.jpg",
+  "source_sha256": "180eeab99e09a484252eb3c4c78e46dd880ad60d4c80c03b9e234302b14d0f7b",
+  "human_verified": false,
+  "module_sha256": "b6e32ea309b6379374b259b313cc03f0a39777cf2b3a9cd179872b54737cf186",
+  "candidates": [
+    {
+      "method": "axis_grid",
+      "layout": {
+        "version": "ruled-layout-v1",
+        "source_size": [
+          1350,
+          1800
+        ],
+        "working_size": [
+          1050,
+          1400
+        ],
+        "scale": 0.7777777777777778,
+        "rotation_degrees": 0,
+        "rotation_scores": [],
+        "coordinate_system": "EXIF-oriented source scaled by scale, then rotated about image center; inverse affine provided",
+        "inverse_affine": [
+          [
+            1.2857142857142856,
+            -0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.2857142857142856,
+            0.0
+          ]
+        ],
+        "tables": [
+          {
+            "box": [
+              79,
+              559,
+              1006,
+              1076
+            ],
+            "horizontal_rules": [
+              567,
+              647,
+              729,
+              811,
+              893,
+              976,
+              1061
+            ],
+            "vertical_rules": [
+              85,
+              201,
+              824,
+              997
+            ],
+            "rows": [
+              [
+                [
+                  93,
+                  577,
+                  193,
+                  637
+                ],
+                [
+                  216,
+                  577,
+                  809,
+                  637
+                ],
+                [
+                  832,
+                  577,
+                  989,
+                  637
+                ]
+              ],
+              [
+                [
+                  93,
+                  657,
+                  193,
+                  719
+                ],
+                [
+                  216,
+                  657,
+                  809,
+                  719
+                ],
+                [
+                  832,
+                  657,
+                  989,
+                  719
+                ]
+              ],
+              [
+                [
+                  93,
+                  739,
+                  193,
+                  801
+                ],
+                [
+                  216,
+                  739,
+                  809,
+                  801
+                ],
+                [
+                  832,
+                  739,
+                  989,
+                  801
+                ]
+              ],
+              [
+                [
+                  93,
+                  821,
+                  193,
+                  883
+                ],
+                [
+                  216,
+                  821,
+                  809,
+                  883
+                ],
+                [
+                  832,
+                  821,
+                  989,
+                  883
+                ]
+              ],
+              [
+                [
+                  93,
+                  903,
+                  193,
+                  966
+                ],
+                [
+                  216,
+                  903,
+                  809,
+                  966
+                ],
+                [
+                  832,
+                  903,
+                  989,
+                  966
+                ]
+              ],
+              [
+                [
+                  93,
+                  986,
+                  193,
+                  1051
+                ],
+                [
+                  216,
+                  986,
+                  809,
+                  1051
+                ],
+                [
+                  832,
+                  986,
+                  989,
+                  1051
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "mapping": [
+        {
+          "table": 0,
+          "row": 0,
+          "column": 0,
+          "working_box": [
+            93,
+            577,
+            193,
+            637
+          ],
+          "montage_box": [
+            35,
+            35,
+            135,
+            95
+          ]
+        },
+        {
+          "table": 0,
+          "row": 0,
+          "column": 1,
+          "working_box": [
+            216,
+            577,
+            809,
+            637
+          ],
+          "montage_box": [
+            170,
+            35,
+            763,
+            95
+          ]
+        },
+        {
+          "table": 0,
+          "row": 0,
+          "column": 2,
+          "working_box": [
+            832,
+            577,
+            989,
+            637
+          ],
+          "montage_box": [
+            798,
+            35,
+            955,
+            95
+          ]
+        },
+        {
+          "table": 0,
+          "row": 1,
+          "column": 0,
+          "working_box": [
+            93,
+            657,
+            193,
+            719
+          ],
+          "montage_box": [
+            35,
+            150,
+            135,
+            212
+          ]
+        },
+        {
+          "table": 0,
+          "row": 1,
+          "column": 1,
+          "working_box": [
+            216,
+            657,
+            809,
+            719
+          ],
+          "montage_box": [
+            170,
+            150,
+            763,
+            212
+          ]
+        },
+        {
+          "table": 0,
+          "row": 1,
+          "column": 2,
+          "working_box": [
+            832,
+            657,
+            989,
+            719
+          ],
+          "montage_box": [
+            798,
+            150,
+            955,
+            212
+          ]
+        },
+        {
+          "table": 0,
+          "row": 2,
+          "column": 0,
+          "working_box": [
+            93,
+            739,
+            193,
+            801
+          ],
+          "montage_box": [
+            35,
+            267,
+            135,
+            329
+          ]
+        },
+        {
+          "table": 0,
+          "row": 2,
+          "column": 1,
+          "working_box": [
+            216,
+            739,
+            809,
+            801
+          ],
+          "montage_box": [
+            170,
+            267,
+            763,
+            329
+          ]
+        },
+        {
+          "table": 0,
+          "row": 2,
+          "column": 2,
+          "working_box": [
+            832,
+            739,
+            989,
+            801
+          ],
+          "montage_box": [
+            798,
+            267,
+            955,
+            329
+          ]
+        },
+        {
+          "table": 0,
+          "row": 3,
+          "column": 0,
+          "working_box": [
+            93,
+            821,
+            193,
+            883
+          ],
+          "montage_box": [
+            35,
+            384,
+            135,
+            446
+          ]
+        },
+        {
+          "table": 0,
+          "row": 3,
+          "column": 1,
+          "working_box": [
+            216,
+            821,
+            809,
+            883
+          ],
+          "montage_box": [
+            170,
+            384,
+            763,
+            446
+          ]
+        },
+        {
+          "table": 0,
+          "row": 3,
+          "column": 2,
+          "working_box": [
+            832,
+            821,
+            989,
+            883
+          ],
+          "montage_box": [
+            798,
+            384,
+            955,
+            446
+          ]
+        },
+        {
+          "table": 0,
+          "row": 4,
+          "column": 0,
+          "working_box": [
+            93,
+            903,
+            193,
+            966
+          ],
+          "montage_box": [
+            35,
+            501,
+            135,
+            564
+          ]
+        },
+        {
+          "table": 0,
+          "row": 4,
+          "column": 1,
+          "working_box": [
+            216,
+            903,
+            809,
+            966
+          ],
+          "montage_box": [
+            170,
+            501,
+            763,
+            564
+          ]
+        },
+        {
+          "table": 0,
+          "row": 4,
+          "column": 2,
+          "working_box": [
+            832,
+            903,
+            989,
+            966
+          ],
+          "montage_box": [
+            798,
+            501,
+            955,
+            564
+          ]
+        },
+        {
+          "table": 0,
+          "row": 5,
+          "column": 0,
+          "working_box": [
+            93,
+            986,
+            193,
+            1051
+          ],
+          "montage_box": [
+            35,
+            619,
+            135,
+            684
+          ]
+        },
+        {
+          "table": 0,
+          "row": 5,
+          "column": 1,
+          "working_box": [
+            216,
+            986,
+            809,
+            1051
+          ],
+          "montage_box": [
+            170,
+            619,
+            763,
+            684
+          ]
+        },
+        {
+          "table": 0,
+          "row": 5,
+          "column": 2,
+          "working_box": [
+            832,
+            986,
+            989,
+            1051
+          ],
+          "montage_box": [
+            798,
+            619,
+            955,
+            684
+          ]
+        }
+      ],
+      "ocr": {
+        "command": [
+          "C:\\Users\\Windows 11\\scoop\\shims\\tesseract.EXE",
+          "E:\\.shortcut-targets-by-id\\1yOBXNuSORBcOSWDhEg-YF1MEWIDvc8J2\\Capstone- Inventory Management System\\services\\document_pipeline\\experiments\\2026-10-24\\automatic_localization\\run4\\398c6ef688e4\\axis_grid.png",
+          "E:\\.shortcut-targets-by-id\\1yOBXNuSORBcOSWDhEg-YF1MEWIDvc8J2\\Capstone- Inventory Management System\\services\\document_pipeline\\experiments\\2026-10-24\\automatic_localization\\run4\\398c6ef688e4\\axis_grid",
+          "--tessdata-dir",
+          "E:\\.shortcut-targets-by-id\\1yOBXNuSORBcOSWDhEg-YF1MEWIDvc8J2\\Capstone- Inventory Management System\\classifier\\engine\\.cache\\tessdata",
+          "-l",
+          "eng",
+          "--psm",
+          "6",
+          "-c",
+          "tessedit_create_txt=1",
+          "-c",
+          "tessedit_create_tsv=1"
+        ],
+        "returncode": 0,
+        "seconds": 0.8057,
+        "stderr": "",
+        "ocr_text": "Si item Description Qty.\n\n1 Soybean Oil 5L 12\n\n2 Tea 400g 4\n\n3 Salt 1kg 12\n4 Hand Wash 200ml 1\n5 Exercise Book 3\n",
+        "words": [
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "1",
+            "word_num": "1",
+            "left": "132",
+            "top": "97",
+            "width": "63",
+            "height": "89",
+            "conf": "69.583473",
+            "text": "Si"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "1",
+            "word_num": "2",
+            "left": "665",
+            "top": "104",
+            "width": "153",
+            "height": "60",
+            "conf": "81.270813",
+            "text": "item"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "1",
+            "word_num": "3",
+            "left": "848",
+            "top": "99",
+            "width": "392",
+            "height": "77",
+            "conf": "95.509857",
+            "text": "Description"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "1",
+            "word_num": "4",
+            "left": "1680",
+            "top": "97",
+            "width": "132",
+            "height": "74",
+            "conf": "95.987839",
+            "text": "Qty."
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "2",
+            "line_num": "1",
+            "word_num": "1",
+            "left": "152",
+            "top": "338",
+            "width": "35",
+            "height": "60",
+            "conf": "89.769730",
+            "text": "1"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "2",
+            "line_num": "1",
+            "word_num": "2",
+            "left": "356",
+            "top": "333",
+            "width": "286",
+            "height": "78",
+            "conf": "50.550404",
+            "text": "Soybean"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "2",
+            "line_num": "1",
+            "word_num": "3",
+            "left": "669",
+            "top": "330",
+            "width": "88",
+            "height": "63",
+            "conf": "86.053543",
+            "text": "Oil"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "2",
+            "line_num": "1",
+            "word_num": "4",
+            "left": "783",
+            "top": "333",
+            "width": "77",
+            "height": "59",
+            "conf": "65.802666",
+            "text": "5L"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "2",
+            "line_num": "1",
+            "word_num": "5",
+            "left": "1718",
+            "top": "327",
+            "width": "74",
+            "height": "59",
+            "conf": "96.898476",
+            "text": "12"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "3",
+            "line_num": "1",
+            "word_num": "1",
+            "left": "150",
+            "top": "574",
+            "width": "39",
+            "height": "63",
+            "conf": "91.675209",
+            "text": "2"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "3",
+            "line_num": "1",
+            "word_num": "2",
+            "left": "354",
+            "top": "572",
+            "width": "120",
+            "height": "61",
+            "conf": "31.939819",
+            "text": "Tea"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "3",
+            "line_num": "1",
+            "word_num": "3",
+            "left": "499",
+            "top": "569",
+            "width": "166",
+            "height": "73",
+            "conf": "31.939819",
+            "text": "400g"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "3",
+            "line_num": "1",
+            "word_num": "4",
+            "left": "1736",
+            "top": "560",
+            "width": "39",
+            "height": "59",
+            "conf": "96.923973",
+            "text": "4"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "4",
+            "line_num": "1",
+            "word_num": "1",
+            "left": "150",
+            "top": "807",
+            "width": "41",
+            "height": "67",
+            "conf": "96.951408",
+            "text": "3"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "4",
+            "line_num": "1",
+            "word_num": "2",
+            "left": "356",
+            "top": "803",
+            "width": "126",
+            "height": "65",
+            "conf": "92.783943",
+            "text": "Salt"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "4",
+            "line_num": "1",
+            "word_num": "3",
+            "left": "507",
+            "top": "800",
+            "width": "119",
+            "height": "80",
+            "conf": "92.680626",
+            "text": "1kg"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "4",
+            "line_num": "1",
+            "word_num": "4",
+            "left": "1722",
+            "top": "790",
+            "width": "77",
+            "height": "62",
+            "conf": "96.974861",
+            "text": "12"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "4",
+            "line_num": "2",
+            "word_num": "1",
+            "left": "71",
+            "top": "1003",
+            "width": "120",
+            "height": "104",
+            "conf": "47.899734",
+            "text": "4"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "4",
+            "line_num": "2",
+            "word_num": "2",
+            "left": "357",
+            "top": "1038",
+            "width": "173",
+            "height": "64",
+            "conf": "81.297028",
+            "text": "Hand"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "4",
+            "line_num": "2",
+            "word_num": "3",
+            "left": "555",
+            "top": "1034",
+            "width": "180",
+            "height": "64",
+            "conf": "94.622520",
+            "text": "Wash"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "4",
+            "line_num": "2",
+            "word_num": "4",
+            "left": "755",
+            "top": "1029",
+            "width": "195",
+            "height": "66",
+            "conf": "59.252892",
+            "text": "200ml"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "4",
+            "line_num": "2",
+            "word_num": "5",
+            "left": "1743",
+            "top": "1025",
+            "width": "34",
+            "height": "59",
+            "conf": "96.870857",
+            "text": "1"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "4",
+            "line_num": "3",
+            "word_num": "1",
+            "left": "71",
+            "top": "1239",
+            "width": "121",
+            "height": "111",
+            "conf": "55.245037",
+            "text": "5"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "4",
+            "line_num": "3",
+            "word_num": "2",
+            "left": "359",
+            "top": "1281",
+            "width": "279",
+            "height": "65",
+            "conf": "79.798737",
+            "text": "Exercise"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "4",
+            "line_num": "3",
+            "word_num": "3",
+            "left": "667",
+            "top": "1274",
+            "width": "169",
+            "height": "65",
+            "conf": "89.622353",
+            "text": "Book"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "4",
+            "line_num": "3",
+            "word_num": "4",
+            "left": "1742",
+            "top": "1258",
+            "width": "37",
+            "height": "60",
+            "conf": "68.902763",
+            "text": "3"
+          }
+        ],
+        "image_sha256": "41ab8ecd20a51d8095905cd1dca2d230aa9b06a27c957bba4bd27697d2008200",
+        "text_sha256": "6948f5b7ec3ddb5266a0b3bb08c2935bac2ca5f9d736950a220b15d0ad6a6940"
+      },
+      "mapping_scale_to_ocr": 2
+    },
+    {
+      "method": "deskew_grid",
+      "layout": {
+        "version": "ruled-layout-v1",
+        "source_size": [
+          1350,
+          1800
+        ],
+        "working_size": [
+          1050,
+          1400
+        ],
+        "scale": 0.7777777777777778,
+        "rotation_degrees": 0.0,
+        "rotation_scores": [
+          [
+            -4.0,
+            37228
+          ],
+          [
+            -3.5,
+            37839
+          ],
+          [
+            -3.0,
+            38184
+          ],
+          [
+            -2.5,
+            38165
+          ],
+          [
+            -2.0,
+            37963
+          ],
+          [
+            -1.5,
+            37259
+          ],
+          [
+            -1.0,
+            36613
+          ],
+          [
+            -0.5,
+            37592
+          ],
+          [
+            0.0,
+            40461
+          ],
+          [
+            0.5,
+            40007
+          ],
+          [
+            1.0,
+            39666
+          ],
+          [
+            1.5,
+            39536
+          ],
+          [
+            2.0,
+            37923
+          ],
+          [
+            2.5,
+            34930
+          ],
+          [
+            3.0,
+            33439
+          ],
+          [
+            3.5,
+            23692
+          ],
+          [
+            4.0,
+            14235
+          ]
+        ],
+        "coordinate_system": "EXIF-oriented source scaled by scale, then rotated about image center; inverse affine provided",
+        "inverse_affine": [
+          [
+            1.2857142857142856,
+            -0.0,
+            0.0
+          ],
+          [
+            0.0,
+            1.2857142857142856,
+            0.0
+          ]
+        ],
+        "tables": [
+          {
+            "box": [
+              79,
+              559,
+              1006,
+              1076
+            ],
+            "horizontal_rules": [
+              567,
+              647,
+              729,
+              811,
+              893,
+              976,
+              1061
+            ],
+            "vertical_rules": [
+              85,
+              201,
+              824,
+              997
+            ],
+            "rows": [
+              [
+                [
+                  93,
+                  577,
+                  193,
+                  637
+                ],
+                [
+                  216,
+                  577,
+                  809,
+                  637
+                ],
+                [
+                  832,
+                  577,
+                  989,
+                  637
+                ]
+              ],
+              [
+                [
+                  93,
+                  657,
+                  193,
+                  719
+                ],
+                [
+                  216,
+                  657,
+                  809,
+                  719
+                ],
+                [
+                  832,
+                  657,
+                  989,
+                  719
+                ]
+              ],
+              [
+                [
+                  93,
+                  739,
+                  193,
+                  801
+                ],
+                [
+                  216,
+                  739,
+                  809,
+                  801
+                ],
+                [
+                  832,
+                  739,
+                  989,
+                  801
+                ]
+              ],
+              [
+                [
+                  93,
+                  821,
+                  193,
+                  883
+                ],
+                [
+                  216,
+                  821,
+                  809,
+                  883
+                ],
+                [
+                  832,
+                  821,
+                  989,
+                  883
+                ]
+              ],
+              [
+                [
+                  93,
+                  903,
+                  193,
+                  966
+                ],
+                [
+                  216,
+                  903,
+                  809,
+                  966
+                ],
+                [
+                  832,
+                  903,
+                  989,
+                  966
+                ]
+              ],
+              [
+                [
+                  93,
+                  986,
+                  193,
+                  1051
+                ],
+                [
+                  216,
+                  986,
+                  809,
+                  1051
+                ],
+                [
+                  832,
+                  986,
+                  989,
+                  1051
+                ]
+              ]
+            ]
+          }
+        ]
+      },
+      "mapping": [
+        {
+          "table": 0,
+          "row": 0,
+          "column": 0,
+          "working_box": [
+            93,
+            577,
+            193,
+            637
+          ],
+          "montage_box": [
+            35,
+            35,
+            135,
+            95
+          ]
+        },
+        {
+          "table": 0,
+          "row": 0,
+          "column": 1,
+          "working_box": [
+            216,
+            577,
+            809,
+            637
+          ],
+          "montage_box": [
+            170,
+            35,
+            763,
+            95
+          ]
+        },
+        {
+          "table": 0,
+          "row": 0,
+          "column": 2,
+          "working_box": [
+            832,
+            577,
+            989,
+            637
+          ],
+          "montage_box": [
+            798,
+            35,
+            955,
+            95
+          ]
+        },
+        {
+          "table": 0,
+          "row": 1,
+          "column": 0,
+          "working_box": [
+            93,
+            657,
+            193,
+            719
+          ],
+          "montage_box": [
+            35,
+            150,
+            135,
+            212
+          ]
+        },
+        {
+          "table": 0,
+          "row": 1,
+          "column": 1,
+          "working_box": [
+            216,
+            657,
+            809,
+            719
+          ],
+          "montage_box": [
+            170,
+            150,
+            763,
+            212
+          ]
+        },
+        {
+          "table": 0,
+          "row": 1,
+          "column": 2,
+          "working_box": [
+            832,
+            657,
+            989,
+            719
+          ],
+          "montage_box": [
+            798,
+            150,
+            955,
+            212
+          ]
+        },
+        {
+          "table": 0,
+          "row": 2,
+          "column": 0,
+          "working_box": [
+            93,
+            739,
+            193,
+            801
+          ],
+          "montage_box": [
+            35,
+            267,
+            135,
+            329
+          ]
+        },
+        {
+          "table": 0,
+          "row": 2,
+          "column": 1,
+          "working_box": [
+            216,
+            739,
+            809,
+            801
+          ],
+          "montage_box": [
+            170,
+            267,
+            763,
+            329
+          ]
+        },
+        {
+          "table": 0,
+          "row": 2,
+          "column": 2,
+          "working_box": [
+            832,
+            739,
+            989,
+            801
+          ],
+          "montage_box": [
+            798,
+            267,
+            955,
+            329
+          ]
+        },
+        {
+          "table": 0,
+          "row": 3,
+          "column": 0,
+          "working_box": [
+            93,
+            821,
+            193,
+            883
+          ],
+          "montage_box": [
+            35,
+            384,
+            135,
+            446
+          ]
+        },
+        {
+          "table": 0,
+          "row": 3,
+          "column": 1,
+          "working_box": [
+            216,
+            821,
+            809,
+            883
+          ],
+          "montage_box": [
+            170,
+            384,
+            763,
+            446
+          ]
+        },
+        {
+          "table": 0,
+          "row": 3,
+          "column": 2,
+          "working_box": [
+            832,
+            821,
+            989,
+            883
+          ],
+          "montage_box": [
+            798,
+            384,
+            955,
+            446
+          ]
+        },
+        {
+          "table": 0,
+          "row": 4,
+          "column": 0,
+          "working_box": [
+            93,
+            903,
+            193,
+            966
+          ],
+          "montage_box": [
+            35,
+            501,
+            135,
+            564
+          ]
+        },
+        {
+          "table": 0,
+          "row": 4,
+          "column": 1,
+          "working_box": [
+            216,
+            903,
+            809,
+            966
+          ],
+          "montage_box": [
+            170,
+            501,
+            763,
+            564
+          ]
+        },
+        {
+          "table": 0,
+          "row": 4,
+          "column": 2,
+          "working_box": [
+            832,
+            903,
+            989,
+            966
+          ],
+          "montage_box": [
+            798,
+            501,
+            955,
+            564
+          ]
+        },
+        {
+          "table": 0,
+          "row": 5,
+          "column": 0,
+          "working_box": [
+            93,
+            986,
+            193,
+            1051
+          ],
+          "montage_box": [
+            35,
+            619,
+            135,
+            684
+          ]
+        },
+        {
+          "table": 0,
+          "row": 5,
+          "column": 1,
+          "working_box": [
+            216,
+            986,
+            809,
+            1051
+          ],
+          "montage_box": [
+            170,
+            619,
+            763,
+            684
+          ]
+        },
+        {
+          "table": 0,
+          "row": 5,
+          "column": 2,
+          "working_box": [
+            832,
+            986,
+            989,
+            1051
+          ],
+          "montage_box": [
+            798,
+            619,
+            955,
+            684
+          ]
+        }
+      ],
+      "ocr": {
+        "command": [
+          "C:\\Users\\Windows 11\\scoop\\shims\\tesseract.EXE",
+          "E:\\.shortcut-targets-by-id\\1yOBXNuSORBcOSWDhEg-YF1MEWIDvc8J2\\Capstone- Inventory Management System\\services\\document_pipeline\\experiments\\2026-10-24\\automatic_localization\\run4\\398c6ef688e4\\deskew_grid.png",
+          "E:\\.shortcut-targets-by-id\\1yOBXNuSORBcOSWDhEg-YF1MEWIDvc8J2\\Capstone- Inventory Management System\\services\\document_pipeline\\experiments\\2026-10-24\\automatic_localization\\run4\\398c6ef688e4\\deskew_grid",
+          "--tessdata-dir",
+          "E:\\.shortcut-targets-by-id\\1yOBXNuSORBcOSWDhEg-YF1MEWIDvc8J2\\Capstone- Inventory Management System\\classifier\\engine\\.cache\\tessdata",
+          "-l",
+          "eng",
+          "--psm",
+          "6",
+          "-c",
+          "tessedit_create_txt=1",
+          "-c",
+          "tessedit_create_tsv=1"
+        ],
+        "returncode": 0,
+        "seconds": 0.7725,
+        "stderr": "",
+        "ocr_text": "Si item Description Qty.\n\n1 Soybean Oil 5L 12\n\n2 Tea 400g 4\n\n3 Salt 1kg 12\n4 Hand Wash 200ml 1\n5 Exercise Book 3\n",
+        "words": [
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "1",
+            "word_num": "1",
+            "left": "132",
+            "top": "97",
+            "width": "63",
+            "height": "89",
+            "conf": "69.583473",
+            "text": "Si"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "1",
+            "word_num": "2",
+            "left": "665",
+            "top": "104",
+            "width": "153",
+            "height": "60",
+            "conf": "81.270813",
+            "text": "item"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "1",
+            "word_num": "3",
+            "left": "848",
+            "top": "99",
+            "width": "392",
+            "height": "77",
+            "conf": "95.509857",
+            "text": "Description"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "1",
+            "line_num": "1",
+            "word_num": "4",
+            "left": "1680",
+            "top": "97",
+            "width": "132",
+            "height": "74",
+            "conf": "95.987839",
+            "text": "Qty."
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "2",
+            "line_num": "1",
+            "word_num": "1",
+            "left": "152",
+            "top": "338",
+            "width": "35",
+            "height": "60",
+            "conf": "89.769730",
+            "text": "1"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "2",
+            "line_num": "1",
+            "word_num": "2",
+            "left": "356",
+            "top": "333",
+            "width": "286",
+            "height": "78",
+            "conf": "50.550404",
+            "text": "Soybean"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "2",
+            "line_num": "1",
+            "word_num": "3",
+            "left": "669",
+            "top": "330",
+            "width": "88",
+            "height": "63",
+            "conf": "86.053543",
+            "text": "Oil"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "2",
+            "line_num": "1",
+            "word_num": "4",
+            "left": "783",
+            "top": "333",
+            "width": "77",
+            "height": "59",
+            "conf": "65.802666",
+            "text": "5L"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "2",
+            "line_num": "1",
+            "word_num": "5",
+            "left": "1718",
+            "top": "327",
+            "width": "74",
+            "height": "59",
+            "conf": "96.898476",
+            "text": "12"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "3",
+            "line_num": "1",
+            "word_num": "1",
+            "left": "150",
+            "top": "574",
+            "width": "39",
+            "height": "63",
+            "conf": "91.675209",
+            "text": "2"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "3",
+            "line_num": "1",
+            "word_num": "2",
+            "left": "354",
+            "top": "572",
+            "width": "120",
+            "height": "61",
+            "conf": "31.939819",
+            "text": "Tea"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "3",
+            "line_num": "1",
+            "word_num": "3",
+            "left": "499",
+            "top": "569",
+            "width": "166",
+            "height": "73",
+            "conf": "31.939819",
+            "text": "400g"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "3",
+            "line_num": "1",
+            "word_num": "4",
+            "left": "1736",
+            "top": "560",
+            "width": "39",
+            "height": "59",
+            "conf": "96.923973",
+            "text": "4"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "4",
+            "line_num": "1",
+            "word_num": "1",
+            "left": "150",
+            "top": "807",
+            "width": "41",
+            "height": "67",
+            "conf": "96.951408",
+            "text": "3"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "4",
+            "line_num": "1",
+            "word_num": "2",
+            "left": "356",
+            "top": "803",
+            "width": "126",
+            "height": "65",
+            "conf": "92.783943",
+            "text": "Salt"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "4",
+            "line_num": "1",
+            "word_num": "3",
+            "left": "507",
+            "top": "800",
+            "width": "119",
+            "height": "80",
+            "conf": "92.680626",
+            "text": "1kg"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "4",
+            "line_num": "1",
+            "word_num": "4",
+            "left": "1722",
+            "top": "790",
+            "width": "77",
+            "height": "62",
+            "conf": "96.974861",
+            "text": "12"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "4",
+            "line_num": "2",
+            "word_num": "1",
+            "left": "71",
+            "top": "1003",
+            "width": "120",
+            "height": "104",
+            "conf": "47.899734",
+            "text": "4"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "4",
+            "line_num": "2",
+            "word_num": "2",
+            "left": "357",
+            "top": "1038",
+            "width": "173",
+            "height": "64",
+            "conf": "81.297028",
+            "text": "Hand"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "4",
+            "line_num": "2",
+            "word_num": "3",
+            "left": "555",
+            "top": "1034",
+            "width": "180",
+            "height": "64",
+            "conf": "94.622520",
+            "text": "Wash"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "4",
+            "line_num": "2",
+            "word_num": "4",
+            "left": "755",
+            "top": "1029",
+            "width": "195",
+            "height": "66",
+            "conf": "59.252892",
+            "text": "200ml"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "4",
+            "line_num": "2",
+            "word_num": "5",
+            "left": "1743",
+            "top": "1025",
+            "width": "34",
+            "height": "59",
+            "conf": "96.870857",
+            "text": "1"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "4",
+            "line_num": "3",
+            "word_num": "1",
+            "left": "71",
+            "top": "1239",
+            "width": "121",
+            "height": "111",
+            "conf": "55.245037",
+            "text": "5"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "4",
+            "line_num": "3",
+            "word_num": "2",
+            "left": "359",
+            "top": "1281",
+            "width": "279",
+            "height": "65",
+            "conf": "79.798737",
+            "text": "Exercise"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "4",
+            "line_num": "3",
+            "word_num": "3",
+            "left": "667",
+            "top": "1274",
+            "width": "169",
+            "height": "65",
+            "conf": "89.622353",
+            "text": "Book"
+          },
+          {
+            "level": "5",
+            "page_num": "1",
+            "block_num": "1",
+            "par_num": "4",
+            "line_num": "3",
+            "word_num": "4",
+            "left": "1742",
+            "top": "1258",
+            "width": "37",
+            "height": "60",
+            "conf": "68.902763",
+            "text": "3"
+          }
+        ],
+        "image_sha256": "41ab8ecd20a51d8095905cd1dca2d230aa9b06a27c957bba4bd27697d2008200",
+        "text_sha256": "6948f5b7ec3ddb5266a0b3bb08c2935bac2ca5f9d736950a220b15d0ad6a6940"
+      },
+      "mapping_scale_to_ocr": 2
+    }
+  ],
+  "word_box_fallback": {
+    "command": [
+      "C:\\Users\\Windows 11\\scoop\\shims\\tesseract.EXE",
+      "E:\\.shortcut-targets-by-id\\1yOBXNuSORBcOSWDhEg-YF1MEWIDvc8J2\\Capstone- Inventory Management System\\services\\document_pipeline\\experiments\\2026-10-24\\automatic_localization\\run4\\398c6ef688e4\\word_boxes_psm11.png",
+      "E:\\.shortcut-targets-by-id\\1yOBXNuSORBcOSWDhEg-YF1MEWIDvc8J2\\Capstone- Inventory Management System\\services\\document_pipeline\\experiments\\2026-10-24\\automatic_localization\\run4\\398c6ef688e4\\word_boxes_psm11",
+      "--tessdata-dir",
+      "E:\\.shortcut-targets-by-id\\1yOBXNuSORBcOSWDhEg-YF1MEWIDvc8J2\\Capstone- Inventory Management System\\classifier\\engine\\.cache\\tessdata",
+      "-l",
+      "eng",
+      "--psm",
+      "11",
+      "-c",
+      "tessedit_create_txt=1",
+      "-c",
+      "tessedit_create_tsv=1"
+    ],
+    "returncode": 0,
+    "seconds": 1.6789,
+    "stderr": "Estimating resolution as 494\r\n",
+    "ocr_text": "\u2014\n\nDelivery Challan\n\nChallan No: DC-264.\n\nDate: 26/08/2026.\n\nFrom: Dhaka Trade House.\n\nTo: Tazin Super Shop, Savar, Dhaka.\n\nECC\n\nCC [opemon [u\n\nrT [em ToT\n\njs |\n\nseeren RRR |< 12\n\nEe\n\n[vena\n\n8: 4\n\nDEC\n\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\n\nDelivered By\n\nReceived By\n",
+    "words": [
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "1",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "1192",
+        "top": "12",
+        "width": "10",
+        "height": "2",
+        "conf": "36.693962",
+        "text": "\u2014"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "2",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "472",
+        "top": "172",
+        "width": "230",
+        "height": "57",
+        "conf": "93.304718",
+        "text": "Delivery"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "2",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "2",
+        "left": "721",
+        "top": "172",
+        "width": "203",
+        "height": "48",
+        "conf": "92.372406",
+        "text": "Challan"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "3",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "143",
+        "top": "310",
+        "width": "173",
+        "height": "42",
+        "conf": "92.433662",
+        "text": "Challan"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "3",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "2",
+        "left": "335",
+        "top": "312",
+        "width": "78",
+        "height": "39",
+        "conf": "93.225052",
+        "text": "No:"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "3",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "3",
+        "left": "433",
+        "top": "311",
+        "width": "189",
+        "height": "39",
+        "conf": "87.807846",
+        "text": "DC-264."
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "4",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "143",
+        "top": "389",
+        "width": "121",
+        "height": "41",
+        "conf": "95.145157",
+        "text": "Date:"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "4",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "2",
+        "left": "285",
+        "top": "387",
+        "width": "294",
+        "height": "50",
+        "conf": "95.876366",
+        "text": "26/08/2026."
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "5",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "144",
+        "top": "515",
+        "width": "129",
+        "height": "40",
+        "conf": "95.932930",
+        "text": "From:"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "5",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "2",
+        "left": "295",
+        "top": "514",
+        "width": "140",
+        "height": "41",
+        "conf": "96.291870",
+        "text": "Dhaka"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "5",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "3",
+        "left": "453",
+        "top": "514",
+        "width": "131",
+        "height": "42",
+        "conf": "95.861519",
+        "text": "Trade"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "5",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "4",
+        "left": "604",
+        "top": "516",
+        "width": "150",
+        "height": "39",
+        "conf": "96.610840",
+        "text": "House."
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "6",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "141",
+        "top": "604",
+        "width": "69",
+        "height": "40",
+        "conf": "93.293968",
+        "text": "To:"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "6",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "2",
+        "left": "230",
+        "top": "604",
+        "width": "119",
+        "height": "40",
+        "conf": "91.657478",
+        "text": "Tazin"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "6",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "3",
+        "left": "369",
+        "top": "605",
+        "width": "131",
+        "height": "50",
+        "conf": "96.484016",
+        "text": "Super"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "6",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "4",
+        "left": "519",
+        "top": "604",
+        "width": "123",
+        "height": "51",
+        "conf": "93.238976",
+        "text": "Shop,"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "6",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "5",
+        "left": "664",
+        "top": "604",
+        "width": "130",
+        "height": "45",
+        "conf": "92.266434",
+        "text": "Savar,"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "6",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "6",
+        "left": "809",
+        "top": "602",
+        "width": "148",
+        "height": "41",
+        "conf": "96.552933",
+        "text": "Dhaka."
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "7",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "111",
+        "top": "730",
+        "width": "1166",
+        "height": "103",
+        "conf": "35.600372",
+        "text": "ECC"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "8",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "107",
+        "top": "781",
+        "width": "96",
+        "height": "192",
+        "conf": "0.000000",
+        "text": "CC"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "8",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "2",
+        "left": "251",
+        "top": "831",
+        "width": "1028",
+        "height": "110",
+        "conf": "2.268440",
+        "text": "[opemon"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "8",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "3",
+        "left": "1035",
+        "top": "781",
+        "width": "240",
+        "height": "192",
+        "conf": "1.569359",
+        "text": "[u"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "9",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "107",
+        "top": "886",
+        "width": "95",
+        "height": "190",
+        "conf": "2.306297",
+        "text": "rT"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "9",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "2",
+        "left": "261",
+        "top": "936",
+        "width": "1020",
+        "height": "113",
+        "conf": "17.042221",
+        "text": "[em"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "9",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "3",
+        "left": "1072",
+        "top": "886",
+        "width": "207",
+        "height": "190",
+        "conf": "19.450264",
+        "text": "ToT"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "10",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "112",
+        "top": "1053",
+        "width": "144",
+        "height": "103",
+        "conf": "28.573006",
+        "text": "js"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "10",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "2",
+        "left": "230",
+        "top": "1048",
+        "width": "25",
+        "height": "147",
+        "conf": "72.847321",
+        "text": "|"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "11",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "258",
+        "top": "1035",
+        "width": "210",
+        "height": "148",
+        "conf": "0.000000",
+        "text": "seeren"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "11",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "2",
+        "left": "262",
+        "top": "1039",
+        "width": "1020",
+        "height": "115",
+        "conf": "0.000000",
+        "text": "RRR"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "11",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "3",
+        "left": "1047",
+        "top": "1035",
+        "width": "75",
+        "height": "148",
+        "conf": "41.091156",
+        "text": "|<"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "11",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "4",
+        "left": "1158",
+        "top": "1035",
+        "width": "38",
+        "height": "148",
+        "conf": "39.690243",
+        "text": "12"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "12",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "1064",
+        "top": "1143",
+        "width": "219",
+        "height": "103",
+        "conf": "17.015831",
+        "text": "Ee"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "13",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "113",
+        "top": "1147",
+        "width": "947",
+        "height": "116",
+        "conf": "32.882957",
+        "text": "[vena"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "14",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "1065",
+        "top": "1247",
+        "width": "220",
+        "height": "107",
+        "conf": "17.446609",
+        "text": "8:"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "14",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "2",
+        "left": "1223",
+        "top": "1243",
+        "width": "63",
+        "height": "150",
+        "conf": "42.774372",
+        "text": "4"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "15",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "114",
+        "top": "1251",
+        "width": "947",
+        "height": "121",
+        "conf": "51.394531",
+        "text": "DEC"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "16",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "794",
+        "top": "1653",
+        "width": "484",
+        "height": "18",
+        "conf": "7.223389",
+        "text": "\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "17",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "927",
+        "top": "1691",
+        "width": "173",
+        "height": "38",
+        "conf": "96.111885",
+        "text": "Delivered"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "17",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "2",
+        "left": "1118",
+        "top": "1691",
+        "width": "45",
+        "height": "40",
+        "conf": "96.331940",
+        "text": "By"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "18",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "1",
+        "left": "263",
+        "top": "1711",
+        "width": "168",
+        "height": "38",
+        "conf": "96.512627",
+        "text": "Received"
+      },
+      {
+        "level": "5",
+        "page_num": "1",
+        "block_num": "18",
+        "par_num": "1",
+        "line_num": "1",
+        "word_num": "2",
+        "left": "449",
+        "top": "1711",
+        "width": "45",
+        "height": "41",
+        "conf": "96.018677",
+        "text": "By"
+      }
+    ],
+    "image_sha256": "afc7f8fa74b9ab89b3532ec949579c42618dcf7fd81ea988b5a9b0f2f5ed6fd4",
+    "text_sha256": "66daccb3dd810ab1ad577a9f44db9cfc7683e3b49789fc6d9f1b082f5b7bdce5",
+    "line_groups": {
+      "1:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "1",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "1192",
+          "top": "12",
+          "width": "10",
+          "height": "2",
+          "conf": "36.693962",
+          "text": "\u2014"
+        }
+      ],
+      "2:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "2",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "472",
+          "top": "172",
+          "width": "230",
+          "height": "57",
+          "conf": "93.304718",
+          "text": "Delivery"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "2",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "2",
+          "left": "721",
+          "top": "172",
+          "width": "203",
+          "height": "48",
+          "conf": "92.372406",
+          "text": "Challan"
+        }
+      ],
+      "3:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "3",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "143",
+          "top": "310",
+          "width": "173",
+          "height": "42",
+          "conf": "92.433662",
+          "text": "Challan"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "3",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "2",
+          "left": "335",
+          "top": "312",
+          "width": "78",
+          "height": "39",
+          "conf": "93.225052",
+          "text": "No:"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "3",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "3",
+          "left": "433",
+          "top": "311",
+          "width": "189",
+          "height": "39",
+          "conf": "87.807846",
+          "text": "DC-264."
+        }
+      ],
+      "4:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "4",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "143",
+          "top": "389",
+          "width": "121",
+          "height": "41",
+          "conf": "95.145157",
+          "text": "Date:"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "4",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "2",
+          "left": "285",
+          "top": "387",
+          "width": "294",
+          "height": "50",
+          "conf": "95.876366",
+          "text": "26/08/2026."
+        }
+      ],
+      "5:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "5",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "144",
+          "top": "515",
+          "width": "129",
+          "height": "40",
+          "conf": "95.932930",
+          "text": "From:"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "5",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "2",
+          "left": "295",
+          "top": "514",
+          "width": "140",
+          "height": "41",
+          "conf": "96.291870",
+          "text": "Dhaka"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "5",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "3",
+          "left": "453",
+          "top": "514",
+          "width": "131",
+          "height": "42",
+          "conf": "95.861519",
+          "text": "Trade"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "5",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "4",
+          "left": "604",
+          "top": "516",
+          "width": "150",
+          "height": "39",
+          "conf": "96.610840",
+          "text": "House."
+        }
+      ],
+      "6:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "6",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "141",
+          "top": "604",
+          "width": "69",
+          "height": "40",
+          "conf": "93.293968",
+          "text": "To:"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "6",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "2",
+          "left": "230",
+          "top": "604",
+          "width": "119",
+          "height": "40",
+          "conf": "91.657478",
+          "text": "Tazin"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "6",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "3",
+          "left": "369",
+          "top": "605",
+          "width": "131",
+          "height": "50",
+          "conf": "96.484016",
+          "text": "Super"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "6",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "4",
+          "left": "519",
+          "top": "604",
+          "width": "123",
+          "height": "51",
+          "conf": "93.238976",
+          "text": "Shop,"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "6",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "5",
+          "left": "664",
+          "top": "604",
+          "width": "130",
+          "height": "45",
+          "conf": "92.266434",
+          "text": "Savar,"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "6",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "6",
+          "left": "809",
+          "top": "602",
+          "width": "148",
+          "height": "41",
+          "conf": "96.552933",
+          "text": "Dhaka."
+        }
+      ],
+      "7:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "7",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "111",
+          "top": "730",
+          "width": "1166",
+          "height": "103",
+          "conf": "35.600372",
+          "text": "ECC"
+        }
+      ],
+      "8:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "8",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "107",
+          "top": "781",
+          "width": "96",
+          "height": "192",
+          "conf": "0.000000",
+          "text": "CC"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "8",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "2",
+          "left": "251",
+          "top": "831",
+          "width": "1028",
+          "height": "110",
+          "conf": "2.268440",
+          "text": "[opemon"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "8",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "3",
+          "left": "1035",
+          "top": "781",
+          "width": "240",
+          "height": "192",
+          "conf": "1.569359",
+          "text": "[u"
+        }
+      ],
+      "9:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "9",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "107",
+          "top": "886",
+          "width": "95",
+          "height": "190",
+          "conf": "2.306297",
+          "text": "rT"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "9",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "2",
+          "left": "261",
+          "top": "936",
+          "width": "1020",
+          "height": "113",
+          "conf": "17.042221",
+          "text": "[em"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "9",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "3",
+          "left": "1072",
+          "top": "886",
+          "width": "207",
+          "height": "190",
+          "conf": "19.450264",
+          "text": "ToT"
+        }
+      ],
+      "10:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "10",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "112",
+          "top": "1053",
+          "width": "144",
+          "height": "103",
+          "conf": "28.573006",
+          "text": "js"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "10",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "2",
+          "left": "230",
+          "top": "1048",
+          "width": "25",
+          "height": "147",
+          "conf": "72.847321",
+          "text": "|"
+        }
+      ],
+      "11:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "11",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "258",
+          "top": "1035",
+          "width": "210",
+          "height": "148",
+          "conf": "0.000000",
+          "text": "seeren"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "11",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "2",
+          "left": "262",
+          "top": "1039",
+          "width": "1020",
+          "height": "115",
+          "conf": "0.000000",
+          "text": "RRR"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "11",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "3",
+          "left": "1047",
+          "top": "1035",
+          "width": "75",
+          "height": "148",
+          "conf": "41.091156",
+          "text": "|<"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "11",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "4",
+          "left": "1158",
+          "top": "1035",
+          "width": "38",
+          "height": "148",
+          "conf": "39.690243",
+          "text": "12"
+        }
+      ],
+      "12:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "12",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "1064",
+          "top": "1143",
+          "width": "219",
+          "height": "103",
+          "conf": "17.015831",
+          "text": "Ee"
+        }
+      ],
+      "13:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "13",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "113",
+          "top": "1147",
+          "width": "947",
+          "height": "116",
+          "conf": "32.882957",
+          "text": "[vena"
+        }
+      ],
+      "14:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "14",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "1065",
+          "top": "1247",
+          "width": "220",
+          "height": "107",
+          "conf": "17.446609",
+          "text": "8:"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "14",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "2",
+          "left": "1223",
+          "top": "1243",
+          "width": "63",
+          "height": "150",
+          "conf": "42.774372",
+          "text": "4"
+        }
+      ],
+      "15:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "15",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "114",
+          "top": "1251",
+          "width": "947",
+          "height": "121",
+          "conf": "51.394531",
+          "text": "DEC"
+        }
+      ],
+      "16:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "16",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "794",
+          "top": "1653",
+          "width": "484",
+          "height": "18",
+          "conf": "7.223389",
+          "text": "\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014"
+        }
+      ],
+      "17:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "17",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "927",
+          "top": "1691",
+          "width": "173",
+          "height": "38",
+          "conf": "96.111885",
+          "text": "Delivered"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "17",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "2",
+          "left": "1118",
+          "top": "1691",
+          "width": "45",
+          "height": "40",
+          "conf": "96.331940",
+          "text": "By"
+        }
+      ],
+      "18:1:1": [
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "18",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "1",
+          "left": "263",
+          "top": "1711",
+          "width": "168",
+          "height": "38",
+          "conf": "96.512627",
+          "text": "Received"
+        },
+        {
+          "level": "5",
+          "page_num": "1",
+          "block_num": "18",
+          "par_num": "1",
+          "line_num": "1",
+          "word_num": "2",
+          "left": "449",
+          "top": "1711",
+          "width": "45",
+          "height": "41",
+          "conf": "96.018677",
+          "text": "By"
+        }
+      ]
+    },
+    "limitation": "Tesseract line grouping does not establish table cells or row roles."
+  }
+}

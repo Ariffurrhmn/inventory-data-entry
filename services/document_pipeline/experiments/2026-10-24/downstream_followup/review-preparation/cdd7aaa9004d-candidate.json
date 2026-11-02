@@ -1,0 +1,56 @@
+{
+  "schema_version": "1.0",
+  "document_type": "purchase_order",
+  "document_number": "INV-9335",
+  "date": "13/08/2026",
+  "currency": "Tk",
+  "line_items": [
+    {
+      "raw_text": "Red Lentils 1kg 4 Tk 110 Tk 440",
+      "quantity": "4",
+      "unit_price": "110",
+      "line_total": "440"
+    },
+    {
+      "raw_text": "Miniket Rice 25kg 24 Tk 1,850 Tk 44,400",
+      "quantity": "24",
+      "unit_price": "1850",
+      "line_total": "44400"
+    },
+    {
+      "raw_text": "Ball Pen box 5 Tk 100 Tk 500",
+      "quantity": "5",
+      "unit_price": "100",
+      "line_total": "500"
+    }
+  ],
+  "totals": {
+    "subtotal": null,
+    "tax": null,
+    "discount": null,
+    "grand_total": "45340"
+  },
+  "evidence": {
+    "/document_number": "Invoice No: INV-9335.",
+    "/date": "Date: 13/08/2026.",
+    "/currency": "Rate (Tk)",
+    "/line_items/0/raw_text": "Red Lentils 1kg 4 Tk 110 Tk 440",
+    "/line_items/0/quantity": "Red Lentils 1kg 4 Tk 110 Tk 440",
+    "/line_items/0/unit_price": "Tk 110",
+    "/line_items/0/line_total": "Tk 440",
+    "/line_items/1/raw_text": "Miniket Rice 25kg 24 Tk 1,850 Tk 44,400",
+    "/line_items/1/quantity": "Miniket Rice 25kg 24 Tk 1,850 Tk 44,400",
+    "/line_items/1/unit_price": "Tk 1,850",
+    "/line_items/1/line_total": "Tk 44,400",
+    "/line_items/2/raw_text": "Ball Pen box 5 Tk 100 Tk 500",
+    "/line_items/2/quantity": "Ball Pen box 5 Tk 100 Tk 500",
+    "/line_items/2/unit_price": "Tk 100",
+    "/line_items/2/line_total": "Tk 500",
+    "/totals/grand_total": "Total:  Tk45,340."
+  },
+  "uncertainties": [
+    "Input type purchase_order conflicts with the OCR labels Invoice and Invoice No; supplied type is preserved.",
+    "Comma groups interpreted as thousands separators; locale is not explicitly specified."
+  ],
+  "corrections": []
+}

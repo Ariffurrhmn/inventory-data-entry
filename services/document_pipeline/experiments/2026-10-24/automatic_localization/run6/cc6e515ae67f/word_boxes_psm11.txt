@@ -1,0 +1,85 @@
+ABC Company
+
+Arifur Rahman
+
+PURCHASE ORDER
+
+Mirpur-2,
+
+Dhaka,
+
+Bangladesh
+
+Vendor Address:
+
+PO#
+
+PO-10
+
+XYZ Company
+
+Order Date
+
+Oct 14, 2026
+
+Mirpur-12,
+
+Dhaka,
+
+Delivery Date
+
+Oct 19, 2026
+
+Bangladesh
+
+Item Description
+
+Face Wash
+
+te
+
+4.5
+
+22.5
+
+Shampoo 400ml
+
+Body Lotion
+
+5
+
+20
+
+Cotton T-Shirt
+
+7
+
+35
+
+Denim Jeans
+
+2
+
+15
+
+30
+
+Sub Total
+
+115.5
+
+11.55
+
+Purchase Tax (10%)
+
+TOTAL
+
+$127.05
+
+Notes
+
+It was great doing business with you.
+
+Terms & Conditions
+
+Upon accepting this purchase order, you hereby agree to the terms & conditions.

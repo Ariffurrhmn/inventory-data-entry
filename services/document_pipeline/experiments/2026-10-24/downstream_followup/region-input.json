@@ -1,0 +1,27 @@
+[
+  {
+    "id": "76cc99d39da4",
+    "document_type": "purchase_order",
+    "ocr_text": "\u00ae \u00a7\r\n: \u00ae\r\n\r\n! Om: Al-Madina Traders, Badda, Dhaka. 1\u00ae 1\r\n\u00ae To: Dhaka Trade House, \u201c3\r\n\u00ae Order No: ORD-9953, ol\r\no Order Date: 04/07/2026. ik\r\n~ Required By: 09/07/2026. Tot |\r\n\r\n. Please supply the following goods: ah\r\n\r\nal : I\r\n| lim | Qty I Rate (Tk) Amount (TK)I\r\n+ ET GINENIEE SE ane an\r\n\r\no | Miniket Rice 25kg{ 24 | Tk 1,850 | Tk 44,400 { |\r\nfotos 5g. | B I%m 1% Low jig\r\n\r\no | per!\r\nat et este SH\r\n\r\n|\r\n\r\n\u00b0 \u201d\r\n\r\nTotal: Tk 45,700. |.\r\n\r\n! |\r\n\r\n_ Authorized by |\r\nLp tod \u2014 1\r\n: be b\r\n.. for Al-Madina Traders. oP\r\no o,\r\n\\ : |\r\n\u00b0 Sl \u00a5\r\n; : sR\r\no 19],\r\n\n\nBEGIN_AUTOMATIC_REGION_OCR\nItem Qty Rate (Tk) Amount (Tk)\nMiniket Rice 25kg 24 Tk 1,850 Tk 44,400\nOnion 1kg 20 Tk 65 Tk 1,300\n\nEND_AUTOMATIC_REGION_OCR\n"
+  },
+  {
+    "id": "5dffabcb47cb",
+    "document_type": "receipt",
+    "ocr_text": "i | WE Ee\r\n\r\n\u00a9 1x 36.000 + 36.000\r\n\r\n\u00a9 Kimchi p\r\n\r\n\u00a9 1x 0.000 Rr0. 000\r\n\r\n| Fre ice grentea\r\n\r\n1 o*x=[0TAL \u00a9 36.000\r\n\r\n. CASH Re51. 000 :\r\nCHANGE % 15.000\r\n"
+  },
+  {
+    "id": "f9918570b903",
+    "document_type": "delivery_note",
+    "ocr_text": "Surma Food Supply i\r\n\r\nee!\r\nChallan\r\n' Challan No: DC-968.\r\n: Date: 27/07/2026.\r\nFrom: Surma Food Supply.\r\n; To: Meghna Store, Savar, Dhaka.\r\nReceived By Delivered By\r\n\n\nBEGIN_AUTOMATIC_REGION_OCR\nSi Item Description Qty.\n1 Mustard Oil 1L 6\n2 Milk Powder 500g 20\n3 Detergent 500g 12\n4 Onion 1kg 12\n5 Salt 1kg 2\n\nEND_AUTOMATIC_REGION_OCR\n"
+  },
+  {
+    "id": "e396ade11def",
+    "document_type": "customer_copy",
+    "ocr_text": "Pm mm a R=\r\n4 o\r\n| Jamuna Wholesale :\r\n| |\r\n| @ Invoice\r\n! : OFFICE COPY i\r\n@ |\r\nInvoice No: INV-9957. Date: 10/09/2026. |\r\n\u00ae ' Bill To / Customer: Tazin Super Shop, Dhanmondi 27, Dhaka. |\r\n1 @ | t\u2014~m=msTmmmssmemejeem\u2014\u2014\u2014\u2014\u2014\u2014\r\n' | | Item | Qty | Rate (Tk) | Amount (Tk) | |\r\n; as, ae, esi se eeiagarry\r\nof | Toothpaste 100g | 10 | Tk 120 | Tk 1,200 Po\r\nAR\r\n' \u00ae | Exercise Book 1] Tk45 | Tx 45 |\r\n[ FUNRER\u2014\" CS SSS\r\n|\r\n\r\n @ i\r\n; Total: Tk 1,245.\r\n| @\r\n! i\r\n| i\r\n| bid 5 i\r\n1 I\r\n| >\r\ni \u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014 |\r\nAuthorised Signature\r\ni |\r\n@\r\n\r\ni i RE\r\n"
+  },
+  {
+    "id": "cdd7aaa9004d",
+    "document_type": "purchase_order",
+    "ocr_text": "Co \u2014\u2014\r\n! pp N\\ :\r\n! TOMER COPY\r\nBengal Consumer Goods {louse me\r\nInvoice :\r\n| Invoice No: INV-9335. :\r\nDate: 13/08/2026.\r\nBill To / Customer: Ruposhi Bazar, Mirpur-10, Dhaka.\r\nTotal:  Tk45,340.\r\nAuthorised Signature\r\n\n\nBEGIN_AUTOMATIC_REGION_OCR\nItem Qty Rate (Tk) Amount (Tk) |\nRed Lentils 1kg 4 Tk 110 Tk 440\nMiniket Rice 25kg 24 Tk 1,850 Tk 44,400\nBall Pen box 5 Tk 100 Tk 500\n\nEND_AUTOMATIC_REGION_OCR\n"
+  }
+]
