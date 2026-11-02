@@ -1,0 +1,115 @@
+{
+  "_about": "Facts shown in the showcase. Every figure is copied from a recorded project file named in 'source'. Edit here, not in the JavaScript.",
+  "project": {
+    "title": "Document Classifier",
+    "subtitle": "Capstone · Inventory Management System",
+    "one_liner": "Reads a photo of a printed business document and sorts it into one of four types, then shows why.",
+    "status": "Classifier stage complete"
+  },
+  "classes": [
+    {"id": "purchase_order", "name": "Purchase order", "short": "PO", "what": "A buyer asks a supplier for goods.", "cue": "\"Purchase Order\" heading, or Order No + Required By + Please supply"},
+    {"id": "receipt", "name": "Receipt", "short": "Receipt", "what": "Proof that a sale was paid.", "cue": "Usually decided by the learned model from words like totals, cash, change"},
+    {"id": "delivery_note", "name": "Delivery note", "short": "Delivery", "what": "Goods sent or delivered (challan, packing slip).", "cue": "\"Delivery Note\", \"Challan\" headings"},
+    {"id": "customer_copy", "name": "Customer copy", "short": "Copy", "what": "A copy-marked document (Customer / Office copy, Duplicate).", "cue": "Copy marker, tolerant to one OCR mistake (\"uplicate\")"}
+  ],
+  "pipeline": [
+    {"step": "Photo", "detail": "Phone photo or scan of a printed page (JPEG, PNG, HEIC…)"},
+    {"step": "Clean-up + OCR", "detail": "Lighting correction, then Tesseract reads the text from several page views"},
+    {"step": "Printed rules", "detail": "Looks for explicit headings, copy markers and purchase-request fields"},
+    {"step": "Learned model", "detail": "If no rule decides: TF-IDF word features + Complement Naive Bayes"},
+    {"step": "Answer + reason", "detail": "One of four types, with the exact text or word weights behind it"}
+  ],
+  "headline": [
+    {"value": "23 / 25", "label": "Validation documents correct", "note": "92% · macro-F1 0.92", "source": "classifier/engine/runs/printed_v3_explainable/completion.json"},
+    {"value": "146 / 150", "label": "Grouped training check", "note": "97.3% · out-of-fold", "source": "classifier/engine/runs/printed_v3_explainable/completion.json"},
+    {"value": "46% → 92%", "label": "Improvement since first model", "note": "Different test sets, see Journey", "source": "Context/STATUS.md"},
+    {"value": "Local", "label": "Runs on this laptop", "note": "No cloud, API key or GPU", "source": "classifier/README.md"}
+  ],
+  "journey": [
+    {"date": "19 Oct", "name": "Image-only baseline", "method": "MobileNetV3 image features + trained head", "correct": 13, "n": 28, "set": "old_test", "kept": false, "note": "Looked at pixels only. Confused delivery notes with purchase orders."},
+    {"date": "19 Oct", "name": "Text classifier", "method": "Tesseract OCR → TF-IDF + logistic regression", "correct": 17, "n": 28, "set": "old_test", "kept": false, "note": "Reading the text beat looking at the image. Delivery notes still weak (1/10)."},
+    {"date": "20 Oct", "name": "Printed-only + headings", "method": "Same text model + printed heading and page-edge rules", "correct": 19, "n": 25, "set": "dev_val", "kept": false, "note": "Scope narrowed to printed documents. New grouped validation split created."},
+    {"date": "20 Oct", "name": "MiniLM transformer", "method": "Frozen MiniLM sentence encoder + logistic head + rules", "correct": 20, "n": 25, "set": "dev_val", "kept": false, "note": "One more document right, but needs downloaded transformer weights."},
+    {"date": "20 Oct", "name": "Explainable hybrid", "method": "Lighting-corrected OCR + printed rules + Complement NB", "correct": 23, "n": 25, "set": "dev_val", "kept": true, "note": "Best result, fully explainable, no transformer weights needed."}
+  ],
+  "journey_sets": {
+    "old_test": "Historical 28-document test set, older scope that still included handwriting",
+    "dev_val": "25-document grouped validation set, printed-only scope"
+  },
+  "rejected": [
+    {"name": "Small BERT fine-tuning", "result": "3/25 alone · 17/25 with rules", "why": "Memorised training (143/150) but did not generalise"},
+    {"name": "BERT + word feature fusion", "result": "19/25", "why": "No better than the simpler model"},
+    {"name": "Contrastive MiniLM adaptation", "result": "No improvement", "why": "40 training steps did not help on this data size"},
+    {"name": "Extra sparse OCR passes", "result": "F1 0.73 vs 0.78", "why": "More OCR text added noise, not signal"},
+    {"name": "Fine-tuning image model", "result": "No gain over 46%", "why": "Document type lives in the words, not the layout"}
+  ],
+  "dataset": {
+    "splits": [
+      {"name": "Training", "counts": {"purchase_order": 36, "receipt": 56, "delivery_note": 50, "customer_copy": 8}},
+      {"name": "Validation", "counts": {"purchase_order": 10, "receipt": 3, "delivery_note": 3, "customer_copy": 9}}
+    ],
+    "excluded_test": 27,
+    "sources": [
+      {"name": "Curated development documents", "count": 73},
+      {"name": "Public receipt photos (ExpressExpense)", "count": 46},
+      {"name": "Our phone photos of printed synthetic documents", "count": 43},
+      {"name": "Company Documents v2 (synthetic)", "count": 40}
+    ],
+    "sources_total": 202,
+    "source": "classifier/engine/runs/printed_v3_explainable/split_manifest.csv; Context/CLASSIFIER.md"
+  },
+  "gaps": [
+    {"level": "serious", "title": "No independent real-document test yet", "detail": "92% is measured on a validation set we also used while improving the rules. A fresh holdout of real documents has a written plan (80 documents, 20 per type) but 0 collected."},
+    {"level": "serious", "title": "Customer copies are thin", "detail": "Only 8 customer copies in training. Both validation mistakes are customer copies with faint or red stamps."},
+    {"level": "warning", "title": "Validation delivery notes are synthetic", "detail": "All 3 validation delivery notes are photos of our printed synthetic documents."},
+    {"level": "warning", "title": "Labels not human-verified", "detail": "Labels and transcriptions were reviewed by AI and the team, but none are formally human-verified yet."},
+    {"level": "info", "title": "Printed documents only", "detail": "Handwriting is out of scope by decision on 20 Oct. Signatures are ignored."}
+  ],
+  "decisions": [
+    {
+      "id": "focus",
+      "question": "What should the next two to three weeks focus on?",
+      "why": "The classifier works on development data. The next step decides what the final report can claim.",
+      "recommended": "holdout",
+      "options": [
+        {"id": "holdout", "title": "Prove it on real documents", "detail": "Collect 80 new real documents (20 per type) from new shops and suppliers, then test once. Gives an honest accuracy number for the report.", "effort": "Medium", "unlocks": "Independent accuracy claim"},
+        {"id": "copies", "title": "Fix the weak class", "detail": "Gather more customer-copy layouts and improve reading of faint or red stamps.", "effort": "Low–medium", "unlocks": "Fewer copy mistakes"},
+        {"id": "extraction", "title": "Move on to extraction", "detail": "Pull items, quantities and totals out of each document. A local prototype already exists (port 8772).", "effort": "High", "unlocks": "Data for inventory updates"},
+        {"id": "integration", "title": "Build the end-to-end app", "detail": "Phone capture → classifier → stored record in a simple inventory screen.", "effort": "High", "unlocks": "Full system demo"}
+      ]
+    },
+    {
+      "id": "target",
+      "question": "What result should count as \"done\" for the classifier?",
+      "why": "Sets the bar for the report and tells us when to stop tuning.",
+      "recommended": "85",
+      "options": [
+        {"id": "90", "title": "90% or more on real holdout", "detail": "Matches the current development figure. May need more data to reach.", "effort": "", "unlocks": ""},
+        {"id": "85", "title": "85% or more on real holdout", "detail": "Realistic for a first independent test of a small-data model.", "effort": "", "unlocks": ""},
+        {"id": "asis", "title": "Report current result with limits", "detail": "Use 23/25 development validation and clearly state it is not independent.", "effort": "", "unlocks": ""}
+      ]
+    },
+    {
+      "id": "taxonomy",
+      "question": "A purchase order or delivery note stamped \"Customer Copy\": which label wins?",
+      "why": "Still an open taxonomy decision. It changes how real documents are labelled.",
+      "recommended": "flag",
+      "options": [
+        {"id": "copy", "title": "Copy wins", "detail": "Any copy marker means customer_copy (current behaviour).", "effort": "", "unlocks": ""},
+        {"id": "type", "title": "Document type wins", "detail": "Label by what the document is; ignore the copy stamp.", "effort": "", "unlocks": ""},
+        {"id": "flag", "title": "Type plus a separate copy flag", "detail": "Predict the type and an is_copy yes/no. Needs a small model change.", "effort": "", "unlocks": ""}
+      ]
+    },
+    {
+      "id": "scope",
+      "question": "Should handwriting stay out of scope?",
+      "why": "Printed-only was chosen on 20 Oct to make the problem solvable in time.",
+      "recommended": "printed",
+      "options": [
+        {"id": "printed", "title": "Keep printed only", "detail": "State handwriting as future work.", "effort": "", "unlocks": ""},
+        {"id": "fields", "title": "Add handwritten fields later", "detail": "Printed forms with handwritten values, after the holdout.", "effort": "", "unlocks": ""},
+        {"id": "all", "title": "Include handwriting now", "detail": "Needs new data and a different OCR approach.", "effort": "", "unlocks": ""}
+      ]
+    }
+  ]
+}
