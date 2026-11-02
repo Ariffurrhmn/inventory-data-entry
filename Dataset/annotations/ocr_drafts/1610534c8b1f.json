@@ -1,0 +1,265 @@
+{
+  "sample_id": "1610534c8b1f",
+  "source_path": "Dataset/Dataset-2/Delivery note challan/IMG_0993.HEIC",
+  "source_sha256": "cb68b0d496646eb34464179013f506f3875a2e0cb18a14227b2d7439618c4317",
+  "prepared_image_path": "data/images/1610534c8b1f.jpg",
+  "prepared_image_sha256": "e4ba13fda4e68538bba4445489c4f8a2e0376170c3499a42fac19845c876e701",
+  "label": "delivery_note",
+  "split": "train",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": ".\n-\n-\nju\n&\nBel\n-\na\n=\n~\n®\n-\n“=\n:\noa\n-\n£\n\nDelivery Note\n\n",
+  "ocr_image_size": [
+    1400,
+    1866
+  ],
+  "words": [
+    {
+      "text": ".",
+      "confidence": 30.742661,
+      "box": [
+        662,
+        299,
+        9,
+        9
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "-",
+      "confidence": 71.821899,
+      "box": [
+        641,
+        285,
+        16,
+        23
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "-",
+      "confidence": 58.069748,
+      "box": [
+        624,
+        286,
+        16,
+        22
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "ju",
+      "confidence": 43.236595,
+      "box": [
+        608,
+        284,
+        15,
+        24
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "&",
+      "confidence": 41.23484,
+      "box": [
+        557,
+        290,
+        34,
+        18
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "Bel",
+      "confidence": 46.13089,
+      "box": [
+        541,
+        284,
+        15,
+        24
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "-",
+      "confidence": 67.284348,
+      "box": [
+        524,
+        285,
+        15,
+        23
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 7
+    },
+    {
+      "text": "a",
+      "confidence": 82.137512,
+      "box": [
+        489,
+        284,
+        33,
+        24
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 8
+    },
+    {
+      "text": "=",
+      "confidence": 46.632385,
+      "box": [
+        472,
+        284,
+        14,
+        24
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 9
+    },
+    {
+      "text": "~",
+      "confidence": 0.0,
+      "box": [
+        454,
+        289,
+        17,
+        19
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 10
+    },
+    {
+      "text": "®",
+      "confidence": 55.659142,
+      "box": [
+        420,
+        285,
+        32,
+        23
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 11
+    },
+    {
+      "text": "-",
+      "confidence": 62.520622,
+      "box": [
+        403,
+        283,
+        13,
+        25
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 12
+    },
+    {
+      "text": "“=",
+      "confidence": 40.536846,
+      "box": [
+        384,
+        283,
+        18,
+        25
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 13
+    },
+    {
+      "text": ":",
+      "confidence": 0.0,
+      "box": [
+        293,
+        283,
+        71,
+        24
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 14
+    },
+    {
+      "text": "oa",
+      "confidence": 75.783432,
+      "box": [
+        276,
+        282,
+        17,
+        25
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 15
+    },
+    {
+      "text": "-",
+      "confidence": 0.0,
+      "box": [
+        244,
+        288,
+        9,
+        18
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 16
+    },
+    {
+      "text": "£",
+      "confidence": 35.082909,
+      "box": [
+        166,
+        280,
+        72,
+        25
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 17
+    },
+    {
+      "text": "Delivery",
+      "confidence": 96.374802,
+      "box": [
+        167,
+        203,
+        145,
+        33
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Note",
+      "confidence": 95.784279,
+      "box": [
+        331,
+        208,
+        71,
+        24
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    }
+  ]
+}

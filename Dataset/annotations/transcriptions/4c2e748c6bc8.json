@@ -1,0 +1,64 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "4c2e748c6bc8",
+  "source_image": {
+    "path": "Dataset/Delivery_Note/delivery-challan-DC-014 (3).jpg",
+    "sha256": "3caeddae6e0b7687c5481ac30bdfa975795d4e82d8650af454426ab1d11e22c3"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/4c2e748c6bc8.jpg",
+    "sha256": "372adf4bb2d29110f99b35e87ebd9721de55c631c546dea792ab4c462048a339"
+  },
+  "classification": {
+    "label": "delivery_note",
+    "split": "train"
+  },
+  "transcription": {
+    "full_text": "DELIVERY CHALLAN\nABC Company\nChallan no. DC-014\nDate 2026-09-04\nPlace of supply Kolkata\nSELLER\nABC Company\nShop 12, Market Road, City â€” 400001\nCONSIGNEE\nKhadiza Khatun\nHouse- 65, Road- 25, Kolkata\nVehicle no.: MH 01 AB 1234\nPurpose: Job work\n# Description HSN/SAC Qty Rate Taxable GST %\n1 Face Wash 1837 1.00 â‚¹320.00 â‚¹320.00 4%\n2 Shampoo 8864 1.00 â‚¹450.00 â‚¹450.00 5%\n3 Body lotion 8778 1.00 â‚¹500.00 â‚¹500.00 6%\n4 Toothpaste 9753 1.00 â‚¹180.00 â‚¹180.00 2%\n5 Hand Wash 5487 2.00 â‚¹220.00 â‚¹440.00 8%\n6 Biscuits 5423 10.00 â‚¹80.00 â‚¹800.00 3%\nTaxable value â‚¹2,690.00\nCGST â‚¹64.05\nSGST â‚¹64.05\nGrand total â‚¹2,818.10\nAmount in words: Two Thousand Eight Hundred Eighteen Rupees and Ten Paise Only\nNotes: Goods sent for the purpose stated above. Not a sale.",
+    "lines": [
+      "DELIVERY CHALLAN",
+      "ABC Company",
+      "Challan no. DC-014",
+      "Date 2026-09-04",
+      "Place of supply Kolkata",
+      "SELLER",
+      "ABC Company",
+      "Shop 12, Market Road, City â€” 400001",
+      "CONSIGNEE",
+      "Khadiza Khatun",
+      "House- 65, Road- 25, Kolkata",
+      "Vehicle no.: MH 01 AB 1234",
+      "Purpose: Job work",
+      "# Description HSN/SAC Qty Rate Taxable GST %",
+      "1 Face Wash 1837 1.00 â‚¹320.00 â‚¹320.00 4%",
+      "2 Shampoo 8864 1.00 â‚¹450.00 â‚¹450.00 5%",
+      "3 Body lotion 8778 1.00 â‚¹500.00 â‚¹500.00 6%",
+      "4 Toothpaste 9753 1.00 â‚¹180.00 â‚¹180.00 2%",
+      "5 Hand Wash 5487 2.00 â‚¹220.00 â‚¹440.00 8%",
+      "6 Biscuits 5423 10.00 â‚¹80.00 â‚¹800.00 3%",
+      "Taxable value â‚¹2,690.00",
+      "CGST â‚¹64.05",
+      "SGST â‚¹64.05",
+      "Grand total â‚¹2,818.10",
+      "Amount in words: Two Thousand Eight Hundred Eighteen Rupees and Ten Paise Only",
+      "Notes: Goods sent for the purpose stated above. Not a sale."
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [],
+    "notes": "Visually checked all entries; retained printed spelling and numeric inconsistencies. Whitespace/table layout linearized."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/4c2e748c6bc8.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

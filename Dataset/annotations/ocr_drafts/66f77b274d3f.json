@@ -1,0 +1,161 @@
+{
+  "sample_id": "66f77b274d3f",
+  "source_path": "Dataset/Receipt/cord-train-0017.jpg",
+  "source_sha256": "45088d2556551a091e293f7282c921cf478da5e217f05b4ca10dafd43bb0e442",
+  "prepared_image_path": "data/images/66f77b274d3f.jpg",
+  "prepared_image_sha256": "e357793fb2062d7e346a5140d443a2b74f7f58dcaf5bb3d0a097b756910fa71f",
+  "label": "receipt",
+  "split": "train",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "NL i) hy }\n\n8,000\n9,000\n7,500\n24,500\n24,500\n50,000\n25,500\n\n",
+  "ocr_image_size": [
+    1400,
+    2100
+  ],
+  "words": [
+    {
+      "text": "NL",
+      "confidence": 29.761574,
+      "box": [
+        282,
+        92,
+        167,
+        73
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "i)",
+      "confidence": 13.736313,
+      "box": [
+        567,
+        94,
+        173,
+        61
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "hy",
+      "confidence": 51.000866,
+      "box": [
+        862,
+        84,
+        74,
+        72
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "}",
+      "confidence": 0.0,
+      "box": [
+        994,
+        138,
+        7,
+        15
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "8,000",
+      "confidence": 94.930634,
+      "box": [
+        1080,
+        1048,
+        139,
+        54
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "9,000",
+      "confidence": 95.707153,
+      "box": [
+        1081,
+        1118,
+        139,
+        54
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "7,500",
+      "confidence": 95.306526,
+      "box": [
+        1082,
+        1188,
+        138,
+        54
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "24,500",
+      "confidence": 94.615623,
+      "box": [
+        1052,
+        1328,
+        168,
+        54
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "24,500",
+      "confidence": 96.065292,
+      "box": [
+        1053,
+        1398,
+        168,
+        55
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "50,000",
+      "confidence": 96.824791,
+      "box": [
+        1053,
+        1468,
+        168,
+        56
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "25,500",
+      "confidence": 90.460487,
+      "box": [
+        1052,
+        1539,
+        169,
+        53
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 7
+    }
+  ]
+}

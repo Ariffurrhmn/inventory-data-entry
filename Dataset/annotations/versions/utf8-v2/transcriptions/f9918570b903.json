@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "f9918570b903",
+  "source_image": {
+    "path": "Dataset/Dataset-2/Delivery note challan/IMG_0991.HEIC",
+    "sha256": "027cc65a32f46249e6431bfbbb7f181642e05e24b9e56f641e5ccedecd04070e"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/f9918570b903.jpg",
+    "sha256": "bc4e1f5f2758199a5b77f34cba6bedf0a71d78335a9eb2c0a8a6d0e8af7cc60c"
+  },
+  "classification": {
+    "label": "delivery_note",
+    "split": "train"
+  },
+  "transcription": {
+    "full_text": "Surma Food Supply\nChallan\nChallan No: DC-968.\nDate: 27/07/2026.\nFrom: Surma Food Supply.\nTo: Meghna Store, Savar, Dhaka.\nSl Item Description Qty.\n1 Mustard Oil 1L 6\n2 Milk Powder 500g 20\n3 Detergent 500g 12\n4 Onion 1kg 12\n5 Salt 1kg 2\nReceived By: [signature]\nDelivered By:",
+    "lines": [
+      "Surma Food Supply",
+      "Challan",
+      "Challan No: DC-968.",
+      "Date: 27/07/2026.",
+      "From: Surma Food Supply.",
+      "To: Meghna Store, Savar, Dhaka.",
+      "Sl Item Description Qty.",
+      "1 Mustard Oil 1L 6",
+      "2 Milk Powder 500g 20",
+      "3 Detergent 500g 12",
+      "4 Onion 1kg 12",
+      "5 Salt 1kg 2",
+      "Received By: [signature]",
+      "Delivered By:"
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [],
+    "notes": "Individually visually reviewed photograph. Whitespace and table reading order normalized; signatures marked rather than inferred."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/f9918570b903.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

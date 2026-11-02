@@ -1,0 +1,213 @@
+{
+  "sample_id": "be13e587ee89",
+  "source_path": "Dataset/Receipt/cord-train-0140.jpg",
+  "source_sha256": "62269d4704984c86bc94e3cf8a92e39c6061e842bb0547b005a04469588886f4",
+  "prepared_image_path": "data/images/be13e587ee89.jpg",
+  "prepared_image_sha256": "278a9d3278f1a83fcbb01527a315d6b836c92c50d7bcea8dbaa9d4e72d5a863c",
+  "label": "receipt",
+  "split": "test",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "NO\n\nWw\n\nA 5090 0100 0 0 00 0 20 O80 0 0 0 4\n\n",
+  "ocr_image_size": [
+    1400,
+    2100
+  ],
+  "words": [
+    {
+      "text": "NO",
+      "confidence": 60.627235,
+      "box": [
+        551,
+        1276,
+        60,
+        37
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Ww",
+      "confidence": 31.824242,
+      "box": [
+        555,
+        1313,
+        20,
+        11
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "A",
+      "confidence": 38.935448,
+      "box": [
+        160,
+        1405,
+        2,
+        3
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "5090",
+      "confidence": 42.650261,
+      "box": [
+        172,
+        1384,
+        31,
+        33
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "0100",
+      "confidence": 35.232727,
+      "box": [
+        210,
+        1399,
+        83,
+        12
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "0",
+      "confidence": 35.121338,
+      "box": [
+        321,
+        1399,
+        20,
+        13
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "0",
+      "confidence": 43.413033,
+      "box": [
+        348,
+        1400,
+        23,
+        11
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "00",
+      "confidence": 27.072456,
+      "box": [
+        375,
+        1398,
+        159,
+        14
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "0",
+      "confidence": 46.272018,
+      "box": [
+        545,
+        1398,
+        63,
+        11
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "20",
+      "confidence": 79.075912,
+      "box": [
+        582,
+        1384,
+        14,
+        33
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "O80",
+      "confidence": 28.240753,
+      "box": [
+        623,
+        1398,
+        52,
+        11
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "0",
+      "confidence": 42.869301,
+      "box": [
+        818,
+        1391,
+        127,
+        17
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "0",
+      "confidence": 67.424706,
+      "box": [
+        961,
+        1389,
+        20,
+        12
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "0",
+      "confidence": 57.529762,
+      "box": [
+        992,
+        1388,
+        28,
+        14
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "4",
+      "confidence": 5.553604,
+      "box": [
+        1096,
+        1389,
+        59,
+        12
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    }
+  ]
+}

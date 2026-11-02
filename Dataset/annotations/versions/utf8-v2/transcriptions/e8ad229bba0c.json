@@ -1,0 +1,65 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "e8ad229bba0c",
+  "source_image": {
+    "path": "Dataset/Purchase_Order/Screenshot 2026-10-03 180354.png",
+    "sha256": "d987dbbf21ce8eb9ce6f9b3ab647c84a5fa46221dd7b5fbe1ae6b47e5b66bfd7"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/e8ad229bba0c.jpg",
+    "sha256": "9a48f682693cbfa6005f70710c75a550bc1b3a60afe589c14ea1722333416ca0"
+  },
+  "classification": {
+    "label": "purchase_order",
+    "split": "train"
+  },
+  "transcription": {
+    "full_text": "DOT5\nInterior • Exterior • Architectural\n[illegible]\nPurchase Order\n1512\nDate: 03/05/25\nConcern Person: Engr. [illegible]\nMobile No: [illegible]\nShop Name: Mim Enterprise\nProject Name: GO DOTS NEW OFFICE\nSl.No Delivery Address: Name of Item Qty Unit Rate Remarks\n[illegible] 02 Ltr 690/- 1380/-\nDelivery Date\nDelivery Time\n1380/-\nPrepared by [signature]\n03/05/25\nRecommend by [signature]\n03.05.25\nChecked by [signature]\n03/05/25\nVerified by\nApproved by",
+    "lines": [
+      "DOT5",
+      "Interior • Exterior • Architectural",
+      "[illegible]",
+      "Purchase Order",
+      "1512",
+      "Date: 03/05/25",
+      "Concern Person: Engr. [illegible]",
+      "Mobile No: [illegible]",
+      "Shop Name: Mim Enterprise",
+      "Project Name: GO DOTS NEW OFFICE",
+      "Sl.No Delivery Address: Name of Item Qty Unit Rate Remarks",
+      "[illegible] 02 Ltr 690/- 1380/-",
+      "Delivery Date",
+      "Delivery Time",
+      "1380/-",
+      "Prepared by [signature]",
+      "03/05/25",
+      "Recommend by [signature]",
+      "03.05.25",
+      "Checked by [signature]",
+      "03/05/25",
+      "Verified by",
+      "Approved by"
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [
+      "Small logo contact line, concern-person name, handwritten mobile number, and item name are not reliably legible.",
+      "Handwritten item spelling and monetary suffixes need a human check; visible best reading of total is 1380/-.",
+      "Project text GO DOTS NEW OFFICE is a best reading of handwriting."
+    ],
+    "notes": "Handwritten text was transcribed conservatively; signatures are marked rather than guessed."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/e8ad229bba0c.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

@@ -1,0 +1,382 @@
+{
+  "sample_id": "5dffabcb47cb",
+  "source_path": "Dataset/Receipt/cord-train-0008.jpg",
+  "source_sha256": "059981236831c69a400fc98471fa4f4499e15e56567e2bec69d856c79dc73418",
+  "prepared_image_path": "data/images/5dffabcb47cb.jpg",
+  "prepared_image_sha256": "e51375a245dde8dacc6e43ae9f83726a17363e9cc5cb5210e1c7ed5ab345e2c0",
+  "label": "receipt",
+  "split": "val",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "EE\nLAE THE. E.\n\n—\n1x 36.000 36. 000\nKimchi p\n1x 0.000 Re0. 000\n\nFre ice grentea\n\n#x[0[AL Ww» 36. 000\nCASH Re51. 000\nCHANGE #15. 000\n\n",
+  "ocr_image_size": [
+    1400,
+    2100
+  ],
+  "words": [
+    {
+      "text": "EE",
+      "confidence": 31.412247,
+      "box": [
+        309,
+        185,
+        7,
+        2
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "LAE",
+      "confidence": 38.139416,
+      "box": [
+        281,
+        192,
+        4,
+        1
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "THE.",
+      "confidence": 44.502983,
+      "box": [
+        364,
+        192,
+        657,
+        75
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "E.",
+      "confidence": 0.0,
+      "box": [
+        900,
+        188,
+        121,
+        85
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "—",
+      "confidence": 0.0,
+      "box": [
+        930,
+        492,
+        181,
+        101
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "1x",
+      "confidence": 70.522469,
+      "box": [
+        156,
+        792,
+        56,
+        69
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "36.000",
+      "confidence": 85.722916,
+      "box": [
+        249,
+        794,
+        192,
+        67
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "36.",
+      "confidence": 0.0,
+      "box": [
+        802,
+        801,
+        144,
+        64
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "000",
+      "confidence": 80.570992,
+      "box": [
+        965,
+        802,
+        95,
+        63
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Kimchi",
+      "confidence": 92.267395,
+      "box": [
+        146,
+        876,
+        187,
+        68
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "p",
+      "confidence": 92.267395,
+      "box": [
+        375,
+        895,
+        31,
+        50
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "1x",
+      "confidence": 94.485321,
+      "box": [
+        148,
+        960,
+        58,
+        69
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "0.000",
+      "confidence": 95.162628,
+      "box": [
+        241,
+        961,
+        162,
+        68
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "Re0.",
+      "confidence": 39.602184,
+      "box": [
+        832,
+        968,
+        115,
+        64
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "000",
+      "confidence": 96.943977,
+      "box": [
+        969,
+        969,
+        93,
+        64
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "Fre",
+      "confidence": 96.240433,
+      "box": [
+        139,
+        1043,
+        97,
+        71
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "ice",
+      "confidence": 93.29129,
+      "box": [
+        277,
+        1045,
+        90,
+        64
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "grentea",
+      "confidence": 91.720871,
+      "box": [
+        403,
+        1055,
+        228,
+        59
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "#x[0[AL",
+      "confidence": 0.0,
+      "box": [
+        133,
+        1233,
+        258,
+        71
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Ww»",
+      "confidence": 32.199768,
+      "box": [
+        522,
+        1242,
+        116,
+        68
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "36.",
+      "confidence": 92.362534,
+      "box": [
+        663,
+        1238,
+        165,
+        68
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "000",
+      "confidence": 95.47464,
+      "box": [
+        867,
+        1241,
+        198,
+        72
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "CASH",
+      "confidence": 91.787544,
+      "box": [
+        135,
+        1316,
+        160,
+        73
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Re51.",
+      "confidence": 57.910912,
+      "box": [
+        795,
+        1329,
+        158,
+        75
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "000",
+      "confidence": 96.635918,
+      "box": [
+        978,
+        1333,
+        97,
+        74
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "CHANGE",
+      "confidence": 96.047585,
+      "box": [
+        125,
+        1396,
+        202,
+        115
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "#15.",
+      "confidence": 42.567116,
+      "box": [
+        787,
+        1406,
+        163,
+        115
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "000",
+      "confidence": 54.619179,
+      "box": [
+        978,
+        1406,
+        97,
+        115
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 3
+    }
+  ]
+}

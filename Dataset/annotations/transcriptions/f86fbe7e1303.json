@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "f86fbe7e1303",
+  "source_image": {
+    "path": "Dataset/Dataset-2/Delivery note challan/IMG_0995.HEIC",
+    "sha256": "42a99e79e91b9649aa944f1613230d66b5e059156309df1baa408b831fb5776e"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/f86fbe7e1303.jpg",
+    "sha256": "254d3b9e57b842edcbbfda79e10b1edd3f28fedc565815540ebd0a650a999c65"
+  },
+  "classification": {
+    "label": "delivery_note",
+    "split": "train"
+  },
+  "transcription": {
+    "full_text": "Teesta Enterprise\nDelivery Note\nChallan No: DC-362.\nDate: 06/09/2026.\nFrom: Teesta Enterprise.\nTo: Al-Madina Traders, Mohammadpur, Dhaka.\nSl Item Description Qty.\n1 Salt 1kg 2\n2 Red Lentils 1kg 20\n3 Soybean Oil 5L 6\n4 Toothpaste 100g 5\n5 Hand Wash 200ml 24\nReceived By: M. Hasan\n[signature]\nDelivered By:",
+    "lines": [
+      "Teesta Enterprise",
+      "Delivery Note",
+      "Challan No: DC-362.",
+      "Date: 06/09/2026.",
+      "From: Teesta Enterprise.",
+      "To: Al-Madina Traders, Mohammadpur, Dhaka.",
+      "Sl Item Description Qty.",
+      "1 Salt 1kg 2",
+      "2 Red Lentils 1kg 20",
+      "3 Soybean Oil 5L 6",
+      "4 Toothpaste 100g 5",
+      "5 Hand Wash 200ml 24",
+      "Received By: M. Hasan",
+      "[signature]",
+      "Delivered By:"
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [],
+    "notes": "Individually visually reviewed photograph. Whitespace and table reading order normalized; signatures marked rather than inferred."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/f86fbe7e1303.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

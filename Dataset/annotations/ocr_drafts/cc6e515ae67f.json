@@ -1,0 +1,1175 @@
+{
+  "sample_id": "cc6e515ae67f",
+  "source_path": "Dataset/Purchase_Order/POPO-10.jpg",
+  "source_sha256": "0cb7c13851ad1394183a1a4b900c12e6c17c4b9140166d83f0b4ea31057f9de2",
+  "prepared_image_path": "data/images/cc6e515ae67f.jpg",
+  "prepared_image_sha256": "ee87c1d82b9e27bd2cb5d96743b2e647d59672bee36c4b1da03854473210b4a1",
+  "label": "purchase_order",
+  "split": "val",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "ABC Company PURCHASE ORDER\n\nArifur Rahman\n\nMirpur-2,\nDhaka,\nBangladesh\nVendor Address: PO# PO-10\nFL Company OrderDate Oct 14, 2026\nMirpur-12,\nDhaka, Delivery Date Oct 19, 2026\nBangladesh\nItem Description Qty Rate\nFace Wash 2 4 8\nShampoo 400ml 5 4.5 225\nBody Lotion 4 5 20\nCotton T-Shirt 5 7 35\nDenim Jeans 2 15 30\nSub Total 115.5\nPurchase Tax (10%) 11.55\nTOTAL $127.05\nNotes\n\nIt was great doing business with you.\n\nTerms & Conditions\n\nUpon accepting this purchase order, you hereby agree to the terms & conditions.\n",
+  "ocr_image_size": [
+    1400,
+    1981
+  ],
+  "words": [
+    {
+      "text": "ABC",
+      "confidence": 96.941833,
+      "box": [
+        171,
+        209,
+        70,
+        27
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Company",
+      "confidence": 96.68808,
+      "box": [
+        254,
+        209,
+        167,
+        35
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "PURCHASE",
+      "confidence": 96.551659,
+      "box": [
+        793,
+        212,
+        266,
+        40
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "ORDER",
+      "confidence": 96.404686,
+      "box": [
+        1080,
+        212,
+        174,
+        40
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Arifur",
+      "confidence": 90.808258,
+      "box": [
+        170,
+        257,
+        67,
+        20
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Rahman",
+      "confidence": 95.709785,
+      "box": [
+        246,
+        257,
+        94,
+        20
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Mirpur-2,",
+      "confidence": 91.151428,
+      "box": [
+        173,
+        297,
+        105,
+        24
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Dhaka,",
+      "confidence": 96.75663,
+      "box": [
+        173,
+        334,
+        77,
+        22
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Bangladesh",
+      "confidence": 96.35276,
+      "box": [
+        173,
+        371,
+        133,
+        26
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Vendor",
+      "confidence": 96.856247,
+      "box": [
+        171,
+        503,
+        90,
+        20
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "Address:",
+      "confidence": 96.525772,
+      "box": [
+        268,
+        503,
+        107,
+        20
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "PO#",
+      "confidence": 85.667725,
+      "box": [
+        864,
+        511,
+        51,
+        19
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "PO-10",
+      "confidence": 89.901138,
+      "box": [
+        1073,
+        513,
+        78,
+        21
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "FL",
+      "confidence": 26.670616,
+      "box": [
+        171,
+        558,
+        42,
+        41
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "Company",
+      "confidence": 26.670616,
+      "box": [
+        221,
+        558,
+        111,
+        25
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "OrderDate",
+      "confidence": 89.874687,
+      "box": [
+        863,
+        570,
+        139,
+        20
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "Oct",
+      "confidence": 60.271503,
+      "box": [
+        1072,
+        572,
+        44,
+        21
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "14,",
+      "confidence": 86.192986,
+      "box": [
+        1127,
+        572,
+        35,
+        25
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "2026",
+      "confidence": 86.192986,
+      "box": [
+        1173,
+        572,
+        64,
+        21
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "Mirpur-12,",
+      "confidence": 91.237312,
+      "box": [
+        173,
+        597,
+        120,
+        24
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "Dhaka,",
+      "confidence": 96.912834,
+      "box": [
+        173,
+        626,
+        77,
+        39
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 7
+    },
+    {
+      "text": "Delivery",
+      "confidence": 96.782791,
+      "box": [
+        864,
+        630,
+        103,
+        26
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 7
+    },
+    {
+      "text": "Date",
+      "confidence": 80.388901,
+      "box": [
+        975,
+        631,
+        57,
+        19
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 7
+    },
+    {
+      "text": "Oct",
+      "confidence": 94.436554,
+      "box": [
+        1072,
+        632,
+        44,
+        21
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 7
+    },
+    {
+      "text": "19,",
+      "confidence": 94.436554,
+      "box": [
+        1127,
+        632,
+        35,
+        25
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 7
+    },
+    {
+      "text": "2026",
+      "confidence": 96.649292,
+      "box": [
+        1173,
+        632,
+        64,
+        21
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 7
+    },
+    {
+      "text": "Bangladesh",
+      "confidence": 96.24733,
+      "box": [
+        173,
+        671,
+        133,
+        26
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 8
+    },
+    {
+      "text": "Item",
+      "confidence": 92.157845,
+      "box": [
+        187,
+        815,
+        50,
+        18
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 9
+    },
+    {
+      "text": "Description",
+      "confidence": 96.214767,
+      "box": [
+        247,
+        814,
+        131,
+        25
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 9
+    },
+    {
+      "text": "Qty",
+      "confidence": 95.958687,
+      "box": [
+        866,
+        814,
+        39,
+        25
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 9
+    },
+    {
+      "text": "Rate",
+      "confidence": 96.434387,
+      "box": [
+        975,
+        815,
+        49,
+        18
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 9
+    },
+    {
+      "text": "Face",
+      "confidence": 96.346519,
+      "box": [
+        187,
+        882,
+        50,
+        18
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 10
+    },
+    {
+      "text": "Wash",
+      "confidence": 96.790138,
+      "box": [
+        245,
+        881,
+        63,
+        19
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 10
+    },
+    {
+      "text": "2",
+      "confidence": 96.955734,
+      "box": [
+        885,
+        881,
+        13,
+        19
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 10
+    },
+    {
+      "text": "4",
+      "confidence": 95.966789,
+      "box": [
+        1003,
+        881,
+        15,
+        19
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 10
+    },
+    {
+      "text": "8",
+      "confidence": 96.36348,
+      "box": [
+        1221,
+        881,
+        13,
+        19
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 10
+    },
+    {
+      "text": "Shampoo",
+      "confidence": 96.669281,
+      "box": [
+        186,
+        948,
+        110,
+        25
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 11
+    },
+    {
+      "text": "400ml",
+      "confidence": 91.507179,
+      "box": [
+        305,
+        948,
+        71,
+        19
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 11
+    },
+    {
+      "text": "5",
+      "confidence": 96.958061,
+      "box": [
+        886,
+        949,
+        11,
+        18
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 11
+    },
+    {
+      "text": "4.5",
+      "confidence": 96.417809,
+      "box": [
+        982,
+        948,
+        34,
+        19
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 11
+    },
+    {
+      "text": "225",
+      "confidence": 82.628784,
+      "box": [
+        1187,
+        948,
+        48,
+        19
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 11
+    },
+    {
+      "text": "Body",
+      "confidence": 96.430382,
+      "box": [
+        187,
+        1015,
+        58,
+        25
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 12
+    },
+    {
+      "text": "Lotion",
+      "confidence": 95.633675,
+      "box": [
+        253,
+        1015,
+        71,
+        19
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 12
+    },
+    {
+      "text": "4",
+      "confidence": 96.785637,
+      "box": [
+        885,
+        1015,
+        13,
+        19
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 12
+    },
+    {
+      "text": "5",
+      "confidence": 96.98877,
+      "box": [
+        1005,
+        1016,
+        11,
+        18
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 12
+    },
+    {
+      "text": "20",
+      "confidence": 96.847061,
+      "box": [
+        1207,
+        1015,
+        27,
+        19
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 12
+    },
+    {
+      "text": "Cotton",
+      "confidence": 96.209297,
+      "box": [
+        186,
+        1083,
+        77,
+        18
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 13
+    },
+    {
+      "text": "T-Shirt",
+      "confidence": 96.566589,
+      "box": [
+        271,
+        1082,
+        77,
+        19
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 13
+    },
+    {
+      "text": "5",
+      "confidence": 96.567932,
+      "box": [
+        886,
+        1083,
+        11,
+        18
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 13
+    },
+    {
+      "text": "7",
+      "confidence": 96.9534,
+      "box": [
+        1004,
+        1083,
+        13,
+        18
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 13
+    },
+    {
+      "text": "35",
+      "confidence": 96.997345,
+      "box": [
+        1207,
+        1082,
+        26,
+        19
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 13
+    },
+    {
+      "text": "Denim",
+      "confidence": 95.866478,
+      "box": [
+        187,
+        1149,
+        68,
+        20
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 14
+    },
+    {
+      "text": "Jeans",
+      "confidence": 95.818428,
+      "box": [
+        267,
+        1150,
+        64,
+        23
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 14
+    },
+    {
+      "text": "2",
+      "confidence": 96.957504,
+      "box": [
+        885,
+        1150,
+        13,
+        18
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 14
+    },
+    {
+      "text": "15",
+      "confidence": 96.682457,
+      "box": [
+        991,
+        1150,
+        25,
+        19
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 14
+    },
+    {
+      "text": "30",
+      "confidence": 97.004883,
+      "box": [
+        1207,
+        1149,
+        27,
+        20
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 14
+    },
+    {
+      "text": "Sub",
+      "confidence": 96.950317,
+      "box": [
+        885,
+        1220,
+        43,
+        20
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 15
+    },
+    {
+      "text": "Total",
+      "confidence": 96.640877,
+      "box": [
+        935,
+        1221,
+        57,
+        19
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 15
+    },
+    {
+      "text": "115.5",
+      "confidence": 95.840996,
+      "box": [
+        1167,
+        1222,
+        63,
+        18
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 15
+    },
+    {
+      "text": "Purchase",
+      "confidence": 95.864868,
+      "box": [
+        762,
+        1293,
+        105,
+        20
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 16
+    },
+    {
+      "text": "Tax",
+      "confidence": 95.864868,
+      "box": [
+        875,
+        1295,
+        40,
+        18
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 16
+    },
+    {
+      "text": "(10%)",
+      "confidence": 96.327034,
+      "box": [
+        923,
+        1294,
+        63,
+        23
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 16
+    },
+    {
+      "text": "11.55",
+      "confidence": 96.591644,
+      "box": [
+        1167,
+        1294,
+        63,
+        19
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 16
+    },
+    {
+      "text": "TOTAL",
+      "confidence": 95.998886,
+      "box": [
+        919,
+        1366,
+        76,
+        19
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 17
+    },
+    {
+      "text": "$127.05",
+      "confidence": 96.836014,
+      "box": [
+        1138,
+        1365,
+        92,
+        21
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 17
+    },
+    {
+      "text": "Notes",
+      "confidence": 96.134789,
+      "box": [
+        173,
+        1424,
+        71,
+        18
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 18
+    },
+    {
+      "text": "It",
+      "confidence": 94.800049,
+      "box": [
+        173,
+        1476,
+        14,
+        19
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "was",
+      "confidence": 96.895683,
+      "box": [
+        195,
+        1480,
+        47,
+        15
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "great",
+      "confidence": 96.435051,
+      "box": [
+        251,
+        1477,
+        65,
+        25
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "doing",
+      "confidence": 96.085571,
+      "box": [
+        325,
+        1474,
+        69,
+        28
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "business",
+      "confidence": 96.652405,
+      "box": [
+        404,
+        1474,
+        107,
+        21
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "with",
+      "confidence": 96.378029,
+      "box": [
+        520,
+        1474,
+        51,
+        21
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "you.",
+      "confidence": 96.846252,
+      "box": [
+        580,
+        1480,
+        52,
+        22
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Terms",
+      "confidence": 93.285774,
+      "box": [
+        171,
+        1681,
+        77,
+        18
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "&",
+      "confidence": 93.132706,
+      "box": [
+        257,
+        1681,
+        16,
+        18
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Conditions",
+      "confidence": 96.639038,
+      "box": [
+        283,
+        1680,
+        132,
+        19
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Upon",
+      "confidence": 96.380707,
+      "box": [
+        173,
+        1732,
+        65,
+        26
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "accepting",
+      "confidence": 95.243698,
+      "box": [
+        248,
+        1732,
+        119,
+        26
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "this",
+      "confidence": 95.761833,
+      "box": [
+        374,
+        1731,
+        45,
+        21
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "purchase",
+      "confidence": 96.350319,
+      "box": [
+        429,
+        1731,
+        114,
+        27
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "order,",
+      "confidence": 96.481873,
+      "box": [
+        553,
+        1731,
+        73,
+        24
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "you",
+      "confidence": 96.911804,
+      "box": [
+        635,
+        1737,
+        45,
+        21
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "hereby",
+      "confidence": 96.299797,
+      "box": [
+        691,
+        1731,
+        86,
+        27
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "agree",
+      "confidence": 96.299797,
+      "box": [
+        785,
+        1737,
+        69,
+        21
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "to",
+      "confidence": 96.974991,
+      "box": [
+        863,
+        1734,
+        24,
+        18
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "the",
+      "confidence": 96.400314,
+      "box": [
+        896,
+        1731,
+        39,
+        21
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "terms",
+      "confidence": 93.101181,
+      "box": [
+        944,
+        1734,
+        72,
+        18
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "&",
+      "confidence": 93.101181,
+      "box": [
+        1026,
+        1732,
+        18,
+        20
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "conditions.",
+      "confidence": 95.643257,
+      "box": [
+        1053,
+        1731,
+        135,
+        21
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    }
+  ]
+}

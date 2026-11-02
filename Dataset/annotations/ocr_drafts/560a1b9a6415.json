@@ -1,0 +1,564 @@
+{
+  "sample_id": "560a1b9a6415",
+  "source_path": "Dataset/Customer_Copy/image_1748.jpg",
+  "source_sha256": "72feac830c90b22cc425ce3d4cea07eef6025fab5972338f3812689a45b6e46c",
+  "prepared_image_path": "data/images/560a1b9a6415.jpg",
+  "prepared_image_sha256": "04824ae22b4f7bace98777a89e8056edfbe0053a9be8acbf2ec41f825b386dcb",
+  "label": "customer_copy",
+  "split": "test",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "SERAPHINE KENSINGTON\nOLYWPIA 0\n\n6917\nSCH 1D: MDS TCDD H1106\nHANDSET: )\n\nMASTERCARD DEBIT\nAID: A0O0O00000041010\n\nDebit MasterCard\n\nAW ’ 8902\nPAN SEQ NO. 00\n1CC\n\nPRE-AUTHORISATION\n\nAMOUNT £10.00\n\nPIN VERIFIED\nThank You\n\n06/11/16 16:23\nAUTH CODE:B82400\n\nCUSTOMER COPY\nPLEASE RETAIN RECEIPT\n\n",
+  "ocr_image_size": [
+    1014,
+    1350
+  ],
+  "words": [
+    {
+      "text": "SERAPHINE",
+      "confidence": 91.794434,
+      "box": [
+        242,
+        67,
+        263,
+        51
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "KENSINGTON",
+      "confidence": 87.568771,
+      "box": [
+        501,
+        67,
+        251,
+        54
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "OLYWPIA",
+      "confidence": 28.815948,
+      "box": [
+        234,
+        136,
+        180,
+        97
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "0",
+      "confidence": 24.984863,
+      "box": [
+        447,
+        137,
+        121,
+        116
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "6917",
+      "confidence": 94.725235,
+      "box": [
+        368,
+        207,
+        95,
+        27
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "SCH",
+      "confidence": 94.632446,
+      "box": [
+        233,
+        284,
+        70,
+        24
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "1D:",
+      "confidence": 87.237907,
+      "box": [
+        345,
+        284,
+        56,
+        26
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "MDS",
+      "confidence": 69.82605,
+      "box": [
+        418,
+        256,
+        71,
+        56
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "TCDD",
+      "confidence": 19.035568,
+      "box": [
+        504,
+        268,
+        105,
+        44
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "H1106",
+      "confidence": 75.889732,
+      "box": [
+        632,
+        263,
+        137,
+        49
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "HANDSET:",
+      "confidence": 61.343464,
+      "box": [
+        230,
+        320,
+        198,
+        29
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": ")",
+      "confidence": 5.761627,
+      "box": [
+        452,
+        325,
+        7,
+        25
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "MASTERCARD",
+      "confidence": 95.935677,
+      "box": [
+        227,
+        398,
+        263,
+        30
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "DEBIT",
+      "confidence": 65.921692,
+      "box": [
+        523,
+        400,
+        120,
+        28
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "AID:",
+      "confidence": 90.741035,
+      "box": [
+        226,
+        435,
+        92,
+        29
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "A0O0O00000041010",
+      "confidence": 12.891739,
+      "box": [
+        364,
+        438,
+        367,
+        28
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Debit",
+      "confidence": 96.516777,
+      "box": [
+        221,
+        473,
+        128,
+        62
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "MasterCard",
+      "confidence": 95.210915,
+      "box": [
+        386,
+        477,
+        265,
+        60
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "AW",
+      "confidence": 17.863708,
+      "box": [
+        313,
+        604,
+        57,
+        4
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "’",
+      "confidence": 2.811348,
+      "box": [
+        445,
+        607,
+        3,
+        3
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "8902",
+      "confidence": 31.2715,
+      "box": [
+        550,
+        596,
+        100,
+        28
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "PAN",
+      "confidence": 94.557083,
+      "box": [
+        218,
+        633,
+        74,
+        30
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "SEQ",
+      "confidence": 94.557083,
+      "box": [
+        329,
+        633,
+        77,
+        38
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "NO.",
+      "confidence": 94.512932,
+      "box": [
+        439,
+        634,
+        67,
+        31
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "00",
+      "confidence": 94.512932,
+      "box": [
+        548,
+        637,
+        48,
+        26
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "1CC",
+      "confidence": 86.406998,
+      "box": [
+        219,
+        673,
+        71,
+        32
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "PRE-AUTHORISATION",
+      "confidence": 80.973213,
+      "box": [
+        211,
+        756,
+        470,
+        33
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "AMOUNT",
+      "confidence": 65.581345,
+      "box": [
+        203,
+        799,
+        171,
+        66
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "£10.00",
+      "confidence": 95.152435,
+      "box": [
+        718,
+        803,
+        159,
+        64
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "PIN",
+      "confidence": 96.32991,
+      "box": [
+        199,
+        930,
+        92,
+        44
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "VERIFIED",
+      "confidence": 95.386658,
+      "box": [
+        313,
+        929,
+        269,
+        44
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Thank",
+      "confidence": 96.346123,
+      "box": [
+        197,
+        988,
+        139,
+        35
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "You",
+      "confidence": 95.53067,
+      "box": [
+        372,
+        989,
+        81,
+        34
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "06/11/16",
+      "confidence": 95.48143,
+      "box": [
+        190,
+        1078,
+        233,
+        39
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "16:23",
+      "confidence": 96.168724,
+      "box": [
+        467,
+        1078,
+        133,
+        36
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "AUTH",
+      "confidence": 92.895454,
+      "box": [
+        189,
+        1127,
+        112,
+        35
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "CODE:B82400",
+      "confidence": 87.035683,
+      "box": [
+        338,
+        1125,
+        321,
+        37
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "CUSTOMER",
+      "confidence": 96.516022,
+      "box": [
+        335,
+        1216,
+        234,
+        41
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "COPY",
+      "confidence": 96.425468,
+      "box": [
+        607,
+        1217,
+        107,
+        37
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "PLEASE",
+      "confidence": 96.275795,
+      "box": [
+        216,
+        1267,
+        170,
+        38
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "RETAIN",
+      "confidence": 96.073341,
+      "box": [
+        427,
+        1264,
+        173,
+        39
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "RECEIPT",
+      "confidence": 94.912781,
+      "box": [
+        639,
+        1265,
+        201,
+        37
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 2
+    }
+  ]
+}

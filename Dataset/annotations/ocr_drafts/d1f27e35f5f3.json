@@ -1,0 +1,603 @@
+{
+  "sample_id": "d1f27e35f5f3",
+  "source_path": "Dataset/Customer_Copy/image_0711.jpg",
+  "source_sha256": "86e4a571901e15423675c58759b5687ce9d4ef1994831fd03afce072dc7ea36a",
+  "prepared_image_path": "data/images/d1f27e35f5f3.jpg",
+  "prepared_image_sha256": "8a3990b27fca48d7aae80080f16aeaef73e5efb30800deb439e0c2f7a23227d8",
+  "label": "customer_copy",
+  "split": "test",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "**+ CREDIT CARD VOUCHER +#+\nANY RESTAURANT\nANYWHE RE\n\n(69) 69696969\nDATI 02/02/2014\nTIME 71:13\nCARD TYPt MC\nACCT XXXX XXXX XXXX 1111\nTRANS KEY HYU8789798234\nAUTH CODE 12345\nEXP DATE XX/ XX\nCHECK 1111\nTABLE 11/11\nERVI 34 MONIKA\n\n$1969 69\n\nolgnature\n\nCustomer Copy\n\n",
+  "ocr_image_size": [
+    1400,
+    2527
+  ],
+  "words": [
+    {
+      "text": "**+",
+      "confidence": 40.337124,
+      "box": [
+        381,
+        320,
+        55,
+        11
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "CREDIT",
+      "confidence": 95.997803,
+      "box": [
+        467,
+        311,
+        130,
+        36
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "CARD",
+      "confidence": 96.490486,
+      "box": [
+        625,
+        319,
+        88,
+        34
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "VOUCHER",
+      "confidence": 93.242348,
+      "box": [
+        736,
+        315,
+        156,
+        35
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "+#+",
+      "confidence": 0.0,
+      "box": [
+        918,
+        323,
+        57,
+        13
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "ANY",
+      "confidence": 92.799744,
+      "box": [
+        523,
+        381,
+        64,
+        32
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "RESTAURANT",
+      "confidence": 92.799744,
+      "box": [
+        614,
+        383,
+        214,
+        35
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "ANYWHE",
+      "confidence": 92.091362,
+      "box": [
+        591,
+        452,
+        174,
+        32
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "RE",
+      "confidence": 96.944893,
+      "box": [
+        728,
+        447,
+        39,
+        50
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "(69)",
+      "confidence": 95.524445,
+      "box": [
+        536,
+        516,
+        78,
+        37
+      ],
+      "block": 1,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "69696969",
+      "confidence": 95.524445,
+      "box": [
+        645,
+        519,
+        177,
+        32
+      ],
+      "block": 1,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "DATI",
+      "confidence": 81.72554,
+      "box": [
+        274,
+        635,
+        74,
+        50
+      ],
+      "block": 1,
+      "paragraph": 2,
+      "line": 2
+    },
+    {
+      "text": "02/02/2014",
+      "confidence": 96.114861,
+      "box": [
+        853,
+        647,
+        225,
+        35
+      ],
+      "block": 1,
+      "paragraph": 2,
+      "line": 2
+    },
+    {
+      "text": "TIME",
+      "confidence": 77.042084,
+      "box": [
+        279,
+        701,
+        69,
+        50
+      ],
+      "block": 1,
+      "paragraph": 2,
+      "line": 3
+    },
+    {
+      "text": "71:13",
+      "confidence": 62.285328,
+      "box": [
+        972,
+        715,
+        100,
+        32
+      ],
+      "block": 1,
+      "paragraph": 2,
+      "line": 3
+    },
+    {
+      "text": "CARD",
+      "confidence": 92.945282,
+      "box": [
+        273,
+        777,
+        88,
+        30
+      ],
+      "block": 1,
+      "paragraph": 2,
+      "line": 4
+    },
+    {
+      "text": "TYPt",
+      "confidence": 0.0,
+      "box": [
+        395,
+        779,
+        66,
+        31
+      ],
+      "block": 1,
+      "paragraph": 2,
+      "line": 4
+    },
+    {
+      "text": "MC",
+      "confidence": 95.938202,
+      "box": [
+        1032,
+        782,
+        43,
+        31
+      ],
+      "block": 1,
+      "paragraph": 2,
+      "line": 4
+    },
+    {
+      "text": "ACCT",
+      "confidence": 91.940414,
+      "box": [
+        276,
+        845,
+        77,
+        28
+      ],
+      "block": 1,
+      "paragraph": 2,
+      "line": 5
+    },
+    {
+      "text": "XXXX",
+      "confidence": 67.103592,
+      "box": [
+        654,
+        852,
+        82,
+        29
+      ],
+      "block": 1,
+      "paragraph": 2,
+      "line": 5
+    },
+    {
+      "text": "XXXX",
+      "confidence": 67.103592,
+      "box": [
+        766,
+        851,
+        84,
+        30
+      ],
+      "block": 1,
+      "paragraph": 2,
+      "line": 5
+    },
+    {
+      "text": "XXXX",
+      "confidence": 84.631401,
+      "box": [
+        877,
+        850,
+        85,
+        30
+      ],
+      "block": 1,
+      "paragraph": 2,
+      "line": 5
+    },
+    {
+      "text": "1111",
+      "confidence": 95.235062,
+      "box": [
+        992,
+        849,
+        77,
+        31
+      ],
+      "block": 1,
+      "paragraph": 2,
+      "line": 5
+    },
+    {
+      "text": "TRANS",
+      "confidence": 95.99221,
+      "box": [
+        278,
+        912,
+        104,
+        30
+      ],
+      "block": 1,
+      "paragraph": 2,
+      "line": 6
+    },
+    {
+      "text": "KEY",
+      "confidence": 96.38765,
+      "box": [
+        409,
+        916,
+        63,
+        29
+      ],
+      "block": 1,
+      "paragraph": 2,
+      "line": 6
+    },
+    {
+      "text": "HYU8789798234",
+      "confidence": 90.407761,
+      "box": [
+        784,
+        917,
+        292,
+        32
+      ],
+      "block": 1,
+      "paragraph": 2,
+      "line": 6
+    },
+    {
+      "text": "AUTH",
+      "confidence": 96.33007,
+      "box": [
+        275,
+        981,
+        84,
+        28
+      ],
+      "block": 1,
+      "paragraph": 2,
+      "line": 7
+    },
+    {
+      "text": "CODE",
+      "confidence": 93.595261,
+      "box": [
+        386,
+        981,
+        74,
+        31
+      ],
+      "block": 1,
+      "paragraph": 2,
+      "line": 7
+    },
+    {
+      "text": "12345",
+      "confidence": 96.791992,
+      "box": [
+        966,
+        984,
+        109,
+        31
+      ],
+      "block": 1,
+      "paragraph": 2,
+      "line": 7
+    },
+    {
+      "text": "EXP",
+      "confidence": 95.698807,
+      "box": [
+        270,
+        1052,
+        64,
+        23
+      ],
+      "block": 1,
+      "paragraph": 2,
+      "line": 8
+    },
+    {
+      "text": "DATE",
+      "confidence": 95.068504,
+      "box": [
+        362,
+        1048,
+        73,
+        30
+      ],
+      "block": 1,
+      "paragraph": 2,
+      "line": 8
+    },
+    {
+      "text": "XX/",
+      "confidence": 86.825417,
+      "box": [
+        964,
+        1048,
+        60,
+        34
+      ],
+      "block": 1,
+      "paragraph": 2,
+      "line": 8
+    },
+    {
+      "text": "XX",
+      "confidence": 95.926735,
+      "box": [
+        1036,
+        1051,
+        37,
+        31
+      ],
+      "block": 1,
+      "paragraph": 2,
+      "line": 8
+    },
+    {
+      "text": "CHECK",
+      "confidence": 96.033112,
+      "box": [
+        270,
+        1114,
+        102,
+        29
+      ],
+      "block": 1,
+      "paragraph": 2,
+      "line": 9
+    },
+    {
+      "text": "1111",
+      "confidence": 94.002609,
+      "box": [
+        987,
+        1118,
+        80,
+        30
+      ],
+      "block": 1,
+      "paragraph": 2,
+      "line": 9
+    },
+    {
+      "text": "TABLE",
+      "confidence": 87.682076,
+      "box": [
+        275,
+        1179,
+        90,
+        31
+      ],
+      "block": 1,
+      "paragraph": 2,
+      "line": 10
+    },
+    {
+      "text": "11/11",
+      "confidence": 93.875092,
+      "box": [
+        965,
+        1183,
+        102,
+        32
+      ],
+      "block": 1,
+      "paragraph": 2,
+      "line": 10
+    },
+    {
+      "text": "ERVI",
+      "confidence": 80.663597,
+      "box": [
+        290,
+        1247,
+        72,
+        10
+      ],
+      "block": 1,
+      "paragraph": 2,
+      "line": 11
+    },
+    {
+      "text": "34",
+      "confidence": 96.675331,
+      "box": [
+        871,
+        1251,
+        40,
+        30
+      ],
+      "block": 1,
+      "paragraph": 2,
+      "line": 11
+    },
+    {
+      "text": "MONIKA",
+      "confidence": 95.84185,
+      "box": [
+        939,
+        1250,
+        133,
+        32
+      ],
+      "block": 1,
+      "paragraph": 2,
+      "line": 11
+    },
+    {
+      "text": "$1969",
+      "confidence": 93.198288,
+      "box": [
+        891,
+        1383,
+        111,
+        37
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "69",
+      "confidence": 96.233955,
+      "box": [
+        1027,
+        1386,
+        44,
+        31
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "olgnature",
+      "confidence": 64.761452,
+      "box": [
+        252,
+        1871,
+        204,
+        35
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Customer",
+      "confidence": 95.491837,
+      "box": [
+        507,
+        2223,
+        175,
+        30
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Copy",
+      "confidence": 96.496712,
+      "box": [
+        716,
+        2224,
+        87,
+        36
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    }
+  ]
+}

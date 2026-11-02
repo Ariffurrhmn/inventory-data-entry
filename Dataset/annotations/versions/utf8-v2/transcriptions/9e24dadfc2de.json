@@ -1,0 +1,64 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "9e24dadfc2de",
+  "source_image": {
+    "path": "Dataset/Purchase_Order/PO-PO - 15.jpg",
+    "sha256": "80db57b71d8902c4dfd8c1e1f3c196d38b711d684aa0add510e49179f55ad046"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/9e24dadfc2de.jpg",
+    "sha256": "cfcca2f72db16a709f53d1722290a06ee6dc82dddee6e0b6f3fd17523be6ce9d"
+  },
+  "classification": {
+    "label": "purchase_order",
+    "split": "test"
+  },
+  "transcription": {
+    "full_text": "Purchase Order\nGenerated using Mercury\nBuyer\nGHI Company\nPanjora\nGazipur, Dhaka 1211\nBangladesh\nShipping\nPanjora\nGazipur, Dhaka 1211\nBangladesh\nVendor\nNPK Company\nDetails\nPO no. PO - 15\nItem # / SKU | Product description | Quantity | Unit price | Amount\nRice 5kg | .. | 5 | $4.50 | $22.50\nSubtotal $22.50\nTotal $22.50\nTerms\nPurchase order date 10/04/26\nDelivery date 10/13/26\nPayment method Credit card\nNote\nAuthorized signature\nDate",
+    "lines": [
+      "Purchase Order",
+      "Generated using Mercury",
+      "Buyer",
+      "GHI Company",
+      "Panjora",
+      "Gazipur, Dhaka 1211",
+      "Bangladesh",
+      "Shipping",
+      "Panjora",
+      "Gazipur, Dhaka 1211",
+      "Bangladesh",
+      "Vendor",
+      "NPK Company",
+      "Details",
+      "PO no. PO - 15",
+      "Item # / SKU | Product description | Quantity | Unit price | Amount",
+      "Rice 5kg | .. | 5 | $4.50 | $22.50",
+      "Subtotal $22.50",
+      "Total $22.50",
+      "Terms",
+      "Purchase order date 10/04/26",
+      "Delivery date 10/13/26",
+      "Payment method Credit card",
+      "Note",
+      "Authorized signature",
+      "Date"
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [],
+    "notes": ""
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/9e24dadfc2de.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

@@ -1,0 +1,629 @@
+{
+  "sample_id": "54a5c3334a7e",
+  "source_path": "Dataset/Customer_Copy/1057-receipt.jpg",
+  "source_sha256": "15c7ee580daaa41a0fe4ea07a74e82098a97b43856cdec2e414a1fece0ffdbfd",
+  "prepared_image_path": "data/images/54a5c3334a7e.jpg",
+  "prepared_image_sha256": "d1550aed36b57b9c9bc35cfa80db900b7283160a4d5bfb7c82b26ec9629b4f3b",
+  "label": "customer_copy",
+  "split": "train",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "CAFE PARISIEN LARCHMONT LLC\n242 N LARCHMONT BLVD\nLOS ANGELES, CA 90004\n(310) 815-8222\n\nDine In\nServer; Kimberly L. Jan 24,2019\nReceipt: YWGH 10:29 AM\nTable: 36\n\nItem(s)\n\nCROISSANT AUX RAISINS $4.00\n\nCappucino $4.75\nLL  —————m——\nSubtotal $8.75\nSales Tax (9.5%) $0.83\nTotal $9.58\n\neT\n\nCustomer Copy\n",
+  "ocr_image_size": [
+    1400,
+    1866
+  ],
+  "words": [
+    {
+      "text": "CAFE",
+      "confidence": 96.503281,
+      "box": [
+        326,
+        410,
+        93,
+        29
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "PARISIEN",
+      "confidence": 96.228622,
+      "box": [
+        432,
+        403,
+        165,
+        32
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "LARCHMONT",
+      "confidence": 95.903526,
+      "box": [
+        609,
+        392,
+        237,
+        36
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "LLC",
+      "confidence": 96.579308,
+      "box": [
+        859,
+        387,
+        64,
+        29
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "242",
+      "confidence": 92.481659,
+      "box": [
+        409,
+        458,
+        62,
+        30
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "N",
+      "confidence": 92.422287,
+      "box": [
+        484,
+        459,
+        22,
+        25
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "LARCHMONT",
+      "confidence": 90.629295,
+      "box": [
+        520,
+        448,
+        219,
+        35
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "BLVD",
+      "confidence": 96.191704,
+      "box": [
+        760,
+        442,
+        87,
+        30
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "LOS",
+      "confidence": 93.561127,
+      "box": [
+        415,
+        509,
+        66,
+        29
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "ANGELES,",
+      "confidence": 96.095108,
+      "box": [
+        495,
+        501,
+        168,
+        32
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "CA",
+      "confidence": 96.496132,
+      "box": [
+        675,
+        498,
+        47,
+        28
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "90004",
+      "confidence": 96.060455,
+      "box": [
+        733,
+        491,
+        113,
+        32
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "(310)",
+      "confidence": 96.042679,
+      "box": [
+        495,
+        553,
+        90,
+        36
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "815-8222",
+      "confidence": 96.684532,
+      "box": [
+        599,
+        543,
+        175,
+        36
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "Dine",
+      "confidence": 77.534576,
+      "box": [
+        579,
+        614,
+        76,
+        28
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "In",
+      "confidence": 77.534576,
+      "box": [
+        667,
+        613,
+        29,
+        25
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Server;",
+      "confidence": 75.732971,
+      "box": [
+        217,
+        683,
+        109,
+        26
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Kimberly",
+      "confidence": 93.046959,
+      "box": [
+        339,
+        674,
+        139,
+        31
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "L.",
+      "confidence": 90.439758,
+      "box": [
+        492,
+        672,
+        25,
+        26
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Jan",
+      "confidence": 93.569016,
+      "box": [
+        865,
+        653,
+        55,
+        25
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "24,2019",
+      "confidence": 93.569016,
+      "box": [
+        932,
+        640,
+        142,
+        35
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Receipt:",
+      "confidence": 93.006538,
+      "box": [
+        221,
+        741,
+        128,
+        28
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "YWGH",
+      "confidence": 29.634964,
+      "box": [
+        362,
+        733,
+        104,
+        28
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "10:29",
+      "confidence": 94.671211,
+      "box": [
+        921,
+        702,
+        92,
+        30
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "AM",
+      "confidence": 94.671211,
+      "box": [
+        1026,
+        699,
+        51,
+        27
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Table:",
+      "confidence": 94.45623,
+      "box": [
+        941,
+        761,
+        86,
+        26
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "36",
+      "confidence": 95.935547,
+      "box": [
+        1042,
+        754,
+        42,
+        26
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "Item(s)",
+      "confidence": 41.024395,
+      "box": [
+        225,
+        941,
+        121,
+        32
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "CROISSANT",
+      "confidence": 91.824219,
+      "box": [
+        221,
+        1035,
+        201,
+        35
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "AUX",
+      "confidence": 96.578163,
+      "box": [
+        441,
+        1031,
+        73,
+        29
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "RAISINS",
+      "confidence": 95.946304,
+      "box": [
+        528,
+        1021,
+        137,
+        35
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "$4.00",
+      "confidence": 96.29966,
+      "box": [
+        1004,
+        999,
+        104,
+        34
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Cappucino",
+      "confidence": 74.668671,
+      "box": [
+        220,
+        1099,
+        179,
+        35
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "$4.75",
+      "confidence": 95.593582,
+      "box": [
+        1014,
+        1061,
+        101,
+        31
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "LL",
+      "confidence": 3.396492,
+      "box": [
+        212,
+        1141,
+        65,
+        60
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": " —————m——",
+      "confidence": 0.0,
+      "box": [
+        357,
+        1141,
+        710,
+        60
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Subtotal",
+      "confidence": 96.568466,
+      "box": [
+        217,
+        1217,
+        137,
+        44
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "$8.75",
+      "confidence": 69.948517,
+      "box": [
+        1028,
+        1184,
+        101,
+        32
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Sales",
+      "confidence": 96.26683,
+      "box": [
+        215,
+        1287,
+        89,
+        30
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "Tax",
+      "confidence": 96.000908,
+      "box": [
+        325,
+        1284,
+        46,
+        28
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "(9.5%)",
+      "confidence": 90.712425,
+      "box": [
+        386,
+        1276,
+        109,
+        39
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "$0.83",
+      "confidence": 94.987274,
+      "box": [
+        1029,
+        1246,
+        106,
+        35
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "Total",
+      "confidence": 96.684021,
+      "box": [
+        214,
+        1346,
+        86,
+        45
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "$9.58",
+      "confidence": 94.119835,
+      "box": [
+        1029,
+        1311,
+        115,
+        36
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "eT",
+      "confidence": 26.388962,
+      "box": [
+        211,
+        1410,
+        946,
+        43
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Customer",
+      "confidence": 96.559883,
+      "box": [
+        525,
+        1625,
+        192,
+        33
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Copy",
+      "confidence": 96.787148,
+      "box": [
+        730,
+        1620,
+        101,
+        40
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 1
+    }
+  ]
+}

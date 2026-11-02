@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "33a6690bb891",
+  "source_image": {
+    "path": "Dataset/Dataset-2/Customer copy/IMG_1005.HEIC",
+    "sha256": "a650913c244b66f758c84d89c46e5e2f4ca39880af42e3b1d361432abd5eede4"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/33a6690bb891.jpg",
+    "sha256": "d9dad640dc89196079b4f8901cba53d197f240d9d0b08540489588feef9d04b1"
+  },
+  "classification": {
+    "label": "customer_copy",
+    "split": "train"
+  },
+  "transcription": {
+    "full_text": "Karnaphuli Traders\nCUSTOMER COPY\nInvoice\nInvoice No: INV-3937.\nDate: 21/07/2026.\nBill To / Customer: Bismillah Store, Tongi, Gazipur.\nItem Qty Rate (Tk) Amount (Tk)\nAtta 2kg 5 Tk 130 Tk 650\nBiscuits carton 20 Tk 720 Tk 14,400\nMiniket Rice 25kg 12 Tk 1,850 Tk 22,200\nBall Pen box 10 Tk 100 Tk 1,000\nTotal: Tk 38,250\n[signature]\nAuthorised Signature",
+    "lines": [
+      "Karnaphuli Traders",
+      "CUSTOMER COPY",
+      "Invoice",
+      "Invoice No: INV-3937.",
+      "Date: 21/07/2026.",
+      "Bill To / Customer: Bismillah Store, Tongi, Gazipur.",
+      "Item Qty Rate (Tk) Amount (Tk)",
+      "Atta 2kg 5 Tk 130 Tk 650",
+      "Biscuits carton 20 Tk 720 Tk 14,400",
+      "Miniket Rice 25kg 12 Tk 1,850 Tk 22,200",
+      "Ball Pen box 10 Tk 100 Tk 1,000",
+      "Total: Tk 38,250",
+      "[signature]",
+      "Authorised Signature"
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [],
+    "notes": "Individually visually reviewed photograph; table rows linearized, signatures marked."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/33a6690bb891.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

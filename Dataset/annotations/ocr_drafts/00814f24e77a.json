@@ -1,0 +1,577 @@
+{
+  "sample_id": "00814f24e77a",
+  "source_path": "Dataset/Purchase_Order/Purchase Order 1.jpg",
+  "source_sha256": "48be16e22da7393bced904ba6f4dc1ce13bc64384e718cc6f8f7b4d5c16ad429",
+  "prepared_image_path": "data/images/00814f24e77a.jpg",
+  "prepared_image_sha256": "e73032680b8e25d0d8b5253126791c37cce83dbbb0bb821718c04f80a6472d95",
+  "label": "purchase_order",
+  "split": "train",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "Arifur Rahman P U RC HAS E\nORDER\n\nPurchase Order # 1\n\nBill To: Ship To:\n\nHasan Mahmood Hasnara Begum Date: Oct 8, 2026\nRequired By: Oct 16, 2026\n\nItem Rate Amount\n\nPen 20 $0.15 $3.00\n\nSubtotal: $3.00\nTax (0.02%): $0.00\nTotal: $3.00\n",
+  "ocr_image_size": [
+    1400,
+    1811
+  ],
+  "words": [
+    {
+      "text": "Arifur",
+      "confidence": 91.949829,
+      "box": [
+        111,
+        61,
+        59,
+        17
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Rahman",
+      "confidence": 95.931419,
+      "box": [
+        178,
+        61,
+        85,
+        17
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "P",
+      "confidence": 89.381668,
+      "box": [
+        969,
+        63,
+        33,
+        47
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "U",
+      "confidence": 65.37809,
+      "box": [
+        1011,
+        63,
+        35,
+        48
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "RC",
+      "confidence": 95.856781,
+      "box": [
+        1057,
+        63,
+        83,
+        48
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "HAS",
+      "confidence": 95.887688,
+      "box": [
+        1148,
+        63,
+        122,
+        48
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "E",
+      "confidence": 92.630951,
+      "box": [
+        1279,
+        63,
+        33,
+        47
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "ORDER",
+      "confidence": 96.097191,
+      "box": [
+        1089,
+        138,
+        224,
+        49
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Purchase",
+      "confidence": 96.409744,
+      "box": [
+        1072,
+        210,
+        111,
+        20
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Order",
+      "confidence": 92.553131,
+      "box": [
+        1194,
+        210,
+        68,
+        20
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "#",
+      "confidence": 92.553131,
+      "box": [
+        1271,
+        211,
+        14,
+        19
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "1",
+      "confidence": 96.95932,
+      "box": [
+        1296,
+        210,
+        6,
+        20
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Bill",
+      "confidence": 95.031136,
+      "box": [
+        112,
+        285,
+        26,
+        16
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "To:",
+      "confidence": 96.92202,
+      "box": [
+        146,
+        285,
+        30,
+        16
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Ship",
+      "confidence": 96.269417,
+      "box": [
+        418,
+        284,
+        43,
+        21
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "To:",
+      "confidence": 95.717117,
+      "box": [
+        468,
+        285,
+        31,
+        16
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Hasan",
+      "confidence": 96.305099,
+      "box": [
+        111,
+        320,
+        64,
+        17
+      ],
+      "block": 4,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "Mahmood",
+      "confidence": 96.520233,
+      "box": [
+        184,
+        320,
+        103,
+        17
+      ],
+      "block": 4,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "Hasnara",
+      "confidence": 90.05043,
+      "box": [
+        418,
+        320,
+        86,
+        17
+      ],
+      "block": 4,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "Begum",
+      "confidence": 96.357033,
+      "box": [
+        513,
+        320,
+        72,
+        21
+      ],
+      "block": 4,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "Date:",
+      "confidence": 96.489418,
+      "box": [
+        1008,
+        317,
+        48,
+        33
+      ],
+      "block": 4,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "Oct",
+      "confidence": 94.363945,
+      "box": [
+        1183,
+        329,
+        33,
+        17
+      ],
+      "block": 4,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "8,",
+      "confidence": 94.752136,
+      "box": [
+        1224,
+        329,
+        10,
+        17
+      ],
+      "block": 4,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "2026",
+      "confidence": 95.59964,
+      "box": [
+        1249,
+        329,
+        48,
+        17
+      ],
+      "block": 4,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "Required",
+      "confidence": 94.466156,
+      "box": [
+        930,
+        378,
+        87,
+        21
+      ],
+      "block": 4,
+      "paragraph": 2,
+      "line": 2
+    },
+    {
+      "text": "By:",
+      "confidence": 96.376015,
+      "box": [
+        1027,
+        378,
+        29,
+        21
+      ],
+      "block": 4,
+      "paragraph": 2,
+      "line": 2
+    },
+    {
+      "text": "Oct",
+      "confidence": 96.39418,
+      "box": [
+        1171,
+        378,
+        33,
+        17
+      ],
+      "block": 4,
+      "paragraph": 2,
+      "line": 2
+    },
+    {
+      "text": "16,",
+      "confidence": 96.400864,
+      "box": [
+        1213,
+        378,
+        27,
+        20
+      ],
+      "block": 4,
+      "paragraph": 2,
+      "line": 2
+    },
+    {
+      "text": "2026",
+      "confidence": 96.557045,
+      "box": [
+        1249,
+        378,
+        48,
+        17
+      ],
+      "block": 4,
+      "paragraph": 2,
+      "line": 2
+    },
+    {
+      "text": "Item",
+      "confidence": 91.732681,
+      "box": [
+        103,
+        501,
+        40,
+        32
+      ],
+      "block": 4,
+      "paragraph": 3,
+      "line": 1
+    },
+    {
+      "text": "Rate",
+      "confidence": 96.703079,
+      "box": [
+        1083,
+        505,
+        44,
+        17
+      ],
+      "block": 4,
+      "paragraph": 3,
+      "line": 1
+    },
+    {
+      "text": "Amount",
+      "confidence": 96.751137,
+      "box": [
+        1222,
+        505,
+        76,
+        17
+      ],
+      "block": 4,
+      "paragraph": 3,
+      "line": 1
+    },
+    {
+      "text": "Pen",
+      "confidence": 95.89151,
+      "box": [
+        103,
+        563,
+        38,
+        17
+      ],
+      "block": 4,
+      "paragraph": 4,
+      "line": 1
+    },
+    {
+      "text": "20",
+      "confidence": 96.658508,
+      "box": [
+        853,
+        564,
+        23,
+        16
+      ],
+      "block": 4,
+      "paragraph": 4,
+      "line": 1
+    },
+    {
+      "text": "$0.15",
+      "confidence": 96.037682,
+      "box": [
+        1073,
+        563,
+        54,
+        19
+      ],
+      "block": 4,
+      "paragraph": 4,
+      "line": 1
+    },
+    {
+      "text": "$3.00",
+      "confidence": 96.489326,
+      "box": [
+        1245,
+        563,
+        54,
+        19
+      ],
+      "block": 4,
+      "paragraph": 4,
+      "line": 1
+    },
+    {
+      "text": "Subtotal:",
+      "confidence": 96.423645,
+      "box": [
+        971,
+        704,
+        85,
+        33
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "$3.00",
+      "confidence": 96.639961,
+      "box": [
+        1245,
+        710,
+        54,
+        19
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Tax",
+      "confidence": 96.632477,
+      "box": [
+        931,
+        761,
+        35,
+        17
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "(0.02%):",
+      "confidence": 95.9505,
+      "box": [
+        975,
+        762,
+        81,
+        20
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "$0.00",
+      "confidence": 96.627777,
+      "box": [
+        1245,
+        761,
+        54,
+        19
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Total:",
+      "confidence": 96.826218,
+      "box": [
+        1003,
+        806,
+        53,
+        30
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "$3.00",
+      "confidence": 96.826675,
+      "box": [
+        1245,
+        810,
+        54,
+        19
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 3
+    }
+  ]
+}

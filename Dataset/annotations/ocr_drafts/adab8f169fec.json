@@ -1,0 +1,382 @@
+{
+  "sample_id": "adab8f169fec",
+  "source_path": "Dataset/Dataset-2/Purchase order/IMG_0968.HEIC",
+  "source_sha256": "777b41b32f00f079b878683b89e49773e4bf36a643a7388c014f720547132211",
+  "prepared_image_path": "data/images/adab8f169fec.jpg",
+  "prepared_image_sha256": "dfbd17cd500fa9d117f54195e775567a3feb9d8928d3334dc3fb12ab3a039bb8",
+  "label": "delivery_note",
+  "split": "test",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "From Siilpto\n\n{\nI\ni\n|\naty teen\n\n: 1 Heritage Horse Ribbed Tank Top - L\nI\n\ni\n\nI\n\nI\n\nP Vintage-Style Contrast Ringer Tee - XL\n",
+  "ocr_image_size": [
+    1800,
+    1350
+  ],
+  "words": [
+    {
+      "text": "From",
+      "confidence": 96.240051,
+      "box": [
+        150,
+        499,
+        67,
+        41
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Siilpto",
+      "confidence": 19.526108,
+      "box": [
+        958,
+        516,
+        86,
+        37
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "{",
+      "confidence": 46.262871,
+      "box": [
+        18,
+        678,
+        2,
+        15
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "I",
+      "confidence": 52.352444,
+      "box": [
+        18,
+        709,
+        2,
+        13
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "i",
+      "confidence": 66.405792,
+      "box": [
+        17,
+        738,
+        2,
+        14
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "|",
+      "confidence": 63.039158,
+      "box": [
+        16,
+        770,
+        2,
+        11
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "aty",
+      "confidence": 85.275803,
+      "box": [
+        160,
+        781,
+        46,
+        50
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "teen",
+      "confidence": 40.99049,
+      "box": [
+        411,
+        790,
+        54,
+        21
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": ":",
+      "confidence": 56.172478,
+      "box": [
+        14,
+        828,
+        3,
+        43
+      ],
+      "block": 3,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "1",
+      "confidence": 70.942749,
+      "box": [
+        164,
+        847,
+        8,
+        18
+      ],
+      "block": 3,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "Heritage",
+      "confidence": 96.39975,
+      "box": [
+        411,
+        844,
+        95,
+        27
+      ],
+      "block": 3,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "Horse",
+      "confidence": 96.163391,
+      "box": [
+        516,
+        834,
+        62,
+        41
+      ],
+      "block": 3,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "Ribbed",
+      "confidence": 96.176529,
+      "box": [
+        587,
+        843,
+        182,
+        25
+      ],
+      "block": 3,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "Tank",
+      "confidence": 95.032219,
+      "box": [
+        673,
+        834,
+        49,
+        41
+      ],
+      "block": 3,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "Top",
+      "confidence": 92.51413,
+      "box": [
+        731,
+        834,
+        32,
+        41
+      ],
+      "block": 3,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "-",
+      "confidence": 92.005203,
+      "box": [
+        777,
+        853,
+        8,
+        4
+      ],
+      "block": 3,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "L",
+      "confidence": 92.118889,
+      "box": [
+        794,
+        843,
+        12,
+        20
+      ],
+      "block": 3,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "I",
+      "confidence": 71.27211,
+      "box": [
+        13,
+        888,
+        3,
+        13
+      ],
+      "block": 3,
+      "paragraph": 2,
+      "line": 2
+    },
+    {
+      "text": "i",
+      "confidence": 14.823273,
+      "box": [
+        13,
+        918,
+        2,
+        13
+      ],
+      "block": 3,
+      "paragraph": 3,
+      "line": 1
+    },
+    {
+      "text": "I",
+      "confidence": 80.532448,
+      "box": [
+        12,
+        947,
+        3,
+        14
+      ],
+      "block": 3,
+      "paragraph": 4,
+      "line": 1
+    },
+    {
+      "text": "I",
+      "confidence": 68.608383,
+      "box": [
+        12,
+        977,
+        3,
+        14
+      ],
+      "block": 3,
+      "paragraph": 5,
+      "line": 1
+    },
+    {
+      "text": "P",
+      "confidence": 26.016808,
+      "box": [
+        163,
+        900,
+        8,
+        19
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Vintage-Style",
+      "confidence": 46.971428,
+      "box": [
+        409,
+        898,
+        150,
+        25
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Contrast",
+      "confidence": 82.87455,
+      "box": [
+        566,
+        896,
+        96,
+        21
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Ringer",
+      "confidence": 95.508522,
+      "box": [
+        668,
+        896,
+        73,
+        25
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Tee",
+      "confidence": 86.845352,
+      "box": [
+        745,
+        896,
+        38,
+        20
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "-",
+      "confidence": 91.978165,
+      "box": [
+        791,
+        905,
+        8,
+        5
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "XL",
+      "confidence": 96.672119,
+      "box": [
+        806,
+        895,
+        28,
+        20
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    }
+  ]
+}

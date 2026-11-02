@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "1610534c8b1f",
+  "source_image": {
+    "path": "Dataset/Dataset-2/Delivery note challan/IMG_0993.HEIC",
+    "sha256": "cb68b0d496646eb34464179013f506f3875a2e0cb18a14227b2d7439618c4317"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/1610534c8b1f.jpg",
+    "sha256": "e4ba13fda4e68538bba4445489c4f8a2e0376170c3499a42fac19845c876e701"
+  },
+  "classification": {
+    "label": "delivery_note",
+    "split": "train"
+  },
+  "transcription": {
+    "full_text": "Delivery Note\nFrom: Padma Distribution Ltd.\nTo: Meghna Store, Dhanmondi 27, Dhaka.\nChallan No: DC-460.\nDate: 12/08/2026.\nSl Item Description Qty.\n1 Biscuits carton 12\n2 Miniket Rice 25kg 6\n3 Sugar 1kg 10\nReceived By: [signature]\nDelivered By:",
+    "lines": [
+      "Delivery Note",
+      "From: Padma Distribution Ltd.",
+      "To: Meghna Store, Dhanmondi 27, Dhaka.",
+      "Challan No: DC-460.",
+      "Date: 12/08/2026.",
+      "Sl Item Description Qty.",
+      "1 Biscuits carton 12",
+      "2 Miniket Rice 25kg 6",
+      "3 Sugar 1kg 10",
+      "Received By: [signature]",
+      "Delivered By:"
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [],
+    "notes": "Individually visually reviewed photograph. Whitespace and table reading order normalized; signatures marked rather than inferred."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/1610534c8b1f.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

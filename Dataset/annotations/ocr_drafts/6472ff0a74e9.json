@@ -1,0 +1,798 @@
+{
+  "sample_id": "6472ff0a74e9",
+  "source_path": "Dataset/Customer_Copy/image_1858.jpg",
+  "source_sha256": "f70e779edd59a77d2dbd003fe5f3f8ec31a1ca7347ab21ae0367e8c7303a1d3f",
+  "prepared_image_path": "data/images/6472ff0a74e9.jpg",
+  "prepared_image_sha256": "3bf6de0f37592e2e5e400a12f9ded6aeb2a074b13d26429e8440bbeb72117c19",
+  "label": "customer_copy",
+  "split": "train",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "J\nWalmart 2,<\n\nSave money. Live better.\nMANAGER GREG BROWN\n( 936 ) 788 - 5400\n\nWAL-MART STORE # 400\nCONROE, TX\n\nST# 0400 OP# 00007298 TE# 91 TR# 07395\nMERCHANT# 439900590000430\n\n¥ux CREDIT ISSUED xxx\nGENERAL MDSE TOTAL\nAPPROVA\n\n.00-\nL # REFUND\nTERMINAL # WMT00000001\n\nLayaway ls back for. Electronics,\nTous, and Jewelry. 10/17/11-12/16/11\n10/13/11 14:03:10\n\n¥#%CUSTOMER COPY\n",
+  "ocr_image_size": [
+    1400,
+    1796
+  ],
+  "words": [
+    {
+      "text": "J",
+      "confidence": 71.778297,
+      "box": [
+        1023,
+        367,
+        28,
+        71
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Walmart",
+      "confidence": 91.37635,
+      "box": [
+        275,
+        415,
+        632,
+        133
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "2,<",
+      "confidence": 0.0,
+      "box": [
+        946,
+        409,
+        207,
+        168
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Save",
+      "confidence": 96.268799,
+      "box": [
+        292,
+        573,
+        115,
+        42
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "money.",
+      "confidence": 96.004128,
+      "box": [
+        426,
+        578,
+        185,
+        41
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Live",
+      "confidence": 96.578278,
+      "box": [
+        631,
+        567,
+        100,
+        40
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "better.",
+      "confidence": 95.773285,
+      "box": [
+        749,
+        562,
+        173,
+        44
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "MANAGER",
+      "confidence": 95.647255,
+      "box": [
+        440,
+        678,
+        181,
+        45
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "GREG",
+      "confidence": 95.647255,
+      "box": [
+        651,
+        676,
+        102,
+        44
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "BROWN",
+      "confidence": 96.455452,
+      "box": [
+        783,
+        673,
+        129,
+        44
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "(",
+      "confidence": 92.921471,
+      "box": [
+        441,
+        729,
+        14,
+        40
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "936",
+      "confidence": 92.927315,
+      "box": [
+        494,
+        727,
+        75,
+        41
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": ")",
+      "confidence": 92.357178,
+      "box": [
+        608,
+        726,
+        14,
+        41
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "788",
+      "confidence": 93.026955,
+      "box": [
+        652,
+        725,
+        76,
+        42
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "-",
+      "confidence": 40.305267,
+      "box": [
+        758,
+        741,
+        22,
+        8
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "5400",
+      "confidence": 94.439774,
+      "box": [
+        811,
+        721,
+        102,
+        43
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "WAL-MART",
+      "confidence": 93.820084,
+      "box": [
+        389,
+        775,
+        207,
+        44
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "STORE",
+      "confidence": 91.954102,
+      "box": [
+        627,
+        773,
+        128,
+        43
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "#",
+      "confidence": 78.733612,
+      "box": [
+        785,
+        772,
+        23,
+        40
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "400",
+      "confidence": 95.324265,
+      "box": [
+        865,
+        769,
+        75,
+        42
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "CONROE,",
+      "confidence": 93.457672,
+      "box": [
+        548,
+        823,
+        173,
+        41
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "TX",
+      "confidence": 94.856781,
+      "box": [
+        759,
+        820,
+        50,
+        41
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "ST#",
+      "confidence": 88.900124,
+      "box": [
+        180,
+        928,
+        75,
+        39
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "0400",
+      "confidence": 92.095055,
+      "box": [
+        285,
+        925,
+        102,
+        41
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "OP#",
+      "confidence": 53.12693,
+      "box": [
+        417,
+        923,
+        75,
+        40
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "00007298",
+      "confidence": 93.252251,
+      "box": [
+        523,
+        919,
+        208,
+        42
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "TE#",
+      "confidence": 77.896332,
+      "box": [
+        761,
+        917,
+        75,
+        41
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "91",
+      "confidence": 93.104317,
+      "box": [
+        867,
+        916,
+        41,
+        40
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "TR#",
+      "confidence": 91.292984,
+      "box": [
+        946,
+        913,
+        76,
+        41
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "07395",
+      "confidence": 91.070099,
+      "box": [
+        1052,
+        910,
+        128,
+        42
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "MERCHANT#",
+      "confidence": 84.685226,
+      "box": [
+        339,
+        969,
+        234,
+        45
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "439900590000430",
+      "confidence": 0.0,
+      "box": [
+        603,
+        962,
+        390,
+        97
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "¥ux",
+      "confidence": 0.0,
+      "box": [
+        394,
+        1126,
+        75,
+        30
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "CREDIT",
+      "confidence": 95.595444,
+      "box": [
+        499,
+        1117,
+        155,
+        45
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "ISSUED",
+      "confidence": 95.595444,
+      "box": [
+        686,
+        1114,
+        154,
+        43
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "xxx",
+      "confidence": 30.139206,
+      "box": [
+        870,
+        1118,
+        75,
+        29
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "GENERAL",
+      "confidence": 92.359833,
+      "box": [
+        183,
+        1172,
+        181,
+        42
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "MDSE",
+      "confidence": 92.359833,
+      "box": [
+        394,
+        1168,
+        102,
+        43
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "TOTAL",
+      "confidence": 96.875618,
+      "box": [
+        527,
+        1166,
+        128,
+        41
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "APPROVA",
+      "confidence": 91.759537,
+      "box": [
+        184,
+        1219,
+        181,
+        45
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": ".00-",
+      "confidence": 60.476223,
+      "box": [
+        1091,
+        1156,
+        93,
+        41
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "L",
+      "confidence": 47.725086,
+      "box": [
+        368,
+        1221,
+        23,
+        39
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "#",
+      "confidence": 47.725086,
+      "box": [
+        422,
+        1218,
+        22,
+        42
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "REFUND",
+      "confidence": 96.405258,
+      "box": [
+        1030,
+        1204,
+        155,
+        43
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "TERMINAL",
+      "confidence": 89.396896,
+      "box": [
+        185,
+        1270,
+        207,
+        42
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "#",
+      "confidence": 89.396896,
+      "box": [
+        423,
+        1267,
+        22,
+        42
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "WMT00000001",
+      "confidence": 87.044785,
+      "box": [
+        475,
+        1262,
+        279,
+        51
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Layaway",
+      "confidence": 92.088959,
+      "box": [
+        266,
+        1420,
+        182,
+        41
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "ls",
+      "confidence": 57.625011,
+      "box": [
+        483,
+        1419,
+        44,
+        37
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "back",
+      "confidence": 96.571449,
+      "box": [
+        557,
+        1412,
+        103,
+        42
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "for.",
+      "confidence": 75.203247,
+      "box": [
+        690,
+        1403,
+        89,
+        62
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Electronics,",
+      "confidence": 91.806473,
+      "box": [
+        778,
+        1407,
+        323,
+        44
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Tous,",
+      "confidence": 95.853699,
+      "box": [
+        215,
+        1469,
+        120,
+        41
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "and",
+      "confidence": 96.581917,
+      "box": [
+        373,
+        1464,
+        76,
+        42
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Jewelry.",
+      "confidence": 91.12442,
+      "box": [
+        479,
+        1461,
+        200,
+        43
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "10/17/11-12/16/11",
+      "confidence": 89.8181,
+      "box": [
+        719,
+        1450,
+        435,
+        50
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "10/13/11",
+      "confidence": 94.91935,
+      "box": [
+        402,
+        1510,
+        198,
+        45
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "14:03:10",
+      "confidence": 95.479019,
+      "box": [
+        746,
+        1503,
+        206,
+        45
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "¥#%CUSTOMER",
+      "confidence": 31.406822,
+      "box": [
+        429,
+        1607,
+        286,
+        44
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "COPY",
+      "confidence": 31.640564,
+      "box": [
+        745,
+        1604,
+        182,
+        42
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    }
+  ]
+}

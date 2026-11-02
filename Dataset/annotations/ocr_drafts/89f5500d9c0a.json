@@ -1,0 +1,876 @@
+{
+  "sample_id": "89f5500d9c0a",
+  "source_path": "Dataset/Customer_Copy/image_1043.jpg",
+  "source_sha256": "0159b718365a711058a3266678fd34d4bfc59150aa0e0b58e7c563c1d875e33d",
+  "prepared_image_path": "data/images/89f5500d9c0a.jpg",
+  "prepared_image_sha256": "76352926fb6caea3393e101b4ab95a5441e9d6a227634c871404edd4ea095a87",
+  "label": "customer_copy",
+  "split": "test",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "Welcome to Chick-fi1-a\n\nMt. Pleasant (#00854)\n(843) 881-6811\nOperator: Josh Malone\n\nCUSTOMER COPY\n7/9/2010 7:20:58 PM\nEAT IN\nOrder Number: 964660\n1 Meal-CGSand\n1 Promo Free\n\n4.64\n\n(1.59)\n\n1 Promo Free (4.64)\n\n1 Dt Lmnde MD 1.59\n\nSub. Total: $0.00\n\nTax: $0.00\n\nTotal: $0.00\n\nDiscount Total: ($6.23)\n\nChange $0.00\n\nExact Dollar $0.00\nRegister:6\n\nTran Seq No:\nCashierids\n\n964660\nDenniso\n\nour pleasure serving you!\n4 ey day.\n\n",
+  "ocr_image_size": [
+    1400,
+    1866
+  ],
+  "words": [
+    {
+      "text": "Welcome",
+      "confidence": 96.328743,
+      "box": [
+        439,
+        122,
+        151,
+        33
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "to",
+      "confidence": 93.049278,
+      "box": [
+        616,
+        127,
+        39,
+        29
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Chick-fi1-a",
+      "confidence": 16.31916,
+      "box": [
+        679,
+        127,
+        235,
+        38
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Mt.",
+      "confidence": 96.34845,
+      "box": [
+        433,
+        208,
+        59,
+        33
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Pleasant",
+      "confidence": 95.791672,
+      "box": [
+        523,
+        207,
+        173,
+        37
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "(#00854)",
+      "confidence": 96.400864,
+      "box": [
+        728,
+        212,
+        166,
+        41
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "(843)",
+      "confidence": 96.196281,
+      "box": [
+        526,
+        254,
+        102,
+        41
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "881-6811",
+      "confidence": 95.988472,
+      "box": [
+        656,
+        257,
+        172,
+        34
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Operator:",
+      "confidence": 96.11248,
+      "box": [
+        429,
+        305,
+        196,
+        40
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Josh",
+      "confidence": 96.260857,
+      "box": [
+        656,
+        302,
+        88,
+        35
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Malone",
+      "confidence": 95.185593,
+      "box": [
+        769,
+        304,
+        133,
+        36
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "CUSTOMER",
+      "confidence": 96.508606,
+      "box": [
+        516,
+        455,
+        182,
+        42
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "COPY",
+      "confidence": 95.952972,
+      "box": [
+        725,
+        454,
+        90,
+        37
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "7/9/2010",
+      "confidence": 96.242126,
+      "box": [
+        492,
+        508,
+        182,
+        47
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "7:20:58",
+      "confidence": 96.035812,
+      "box": [
+        702,
+        505,
+        161,
+        39
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "PM",
+      "confidence": 96.90316,
+      "box": [
+        890,
+        505,
+        44,
+        38
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "EAT",
+      "confidence": 95.747795,
+      "box": [
+        608,
+        562,
+        66,
+        39
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "IN",
+      "confidence": 95.747795,
+      "box": [
+        703,
+        560,
+        42,
+        39
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Order",
+      "confidence": 94.772621,
+      "box": [
+        203,
+        619,
+        113,
+        39
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "Number:",
+      "confidence": 95.048683,
+      "box": [
+        343,
+        615,
+        157,
+        39
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "964660",
+      "confidence": 83.95797,
+      "box": [
+        582,
+        616,
+        139,
+        39
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "1",
+      "confidence": 77.061699,
+      "box": [
+        198,
+        728,
+        10,
+        37
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "Meal-CGSand",
+      "confidence": 77.061699,
+      "box": [
+        259,
+        719,
+        267,
+        45
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "1",
+      "confidence": 94.28495,
+      "box": [
+        191,
+        782,
+        10,
+        37
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "Promo",
+      "confidence": 95.773293,
+      "box": [
+        252,
+        777,
+        122,
+        40
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "Free",
+      "confidence": 96.308739,
+      "box": [
+        404,
+        779,
+        94,
+        41
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "4.64",
+      "confidence": 96.163597,
+      "box": [
+        1067,
+        725,
+        96,
+        40
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "(1.59)",
+      "confidence": 96.803513,
+      "box": [
+        1025,
+        780,
+        136,
+        48
+      ],
+      "block": 5,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "1",
+      "confidence": 92.636597,
+      "box": [
+        183,
+        837,
+        11,
+        37
+      ],
+      "block": 5,
+      "paragraph": 3,
+      "line": 1
+    },
+    {
+      "text": "Promo",
+      "confidence": 95.790176,
+      "box": [
+        246,
+        831,
+        124,
+        43
+      ],
+      "block": 5,
+      "paragraph": 3,
+      "line": 1
+    },
+    {
+      "text": "Free",
+      "confidence": 96.049049,
+      "box": [
+        399,
+        836,
+        96,
+        40
+      ],
+      "block": 5,
+      "paragraph": 3,
+      "line": 1
+    },
+    {
+      "text": "(4.64)",
+      "confidence": 83.833786,
+      "box": [
+        1028,
+        838,
+        138,
+        47
+      ],
+      "block": 5,
+      "paragraph": 3,
+      "line": 1
+    },
+    {
+      "text": "1",
+      "confidence": 87.04425,
+      "box": [
+        175,
+        892,
+        10,
+        38
+      ],
+      "block": 5,
+      "paragraph": 4,
+      "line": 1
+    },
+    {
+      "text": "Dt",
+      "confidence": 87.04425,
+      "box": [
+        239,
+        888,
+        48,
+        42
+      ],
+      "block": 5,
+      "paragraph": 4,
+      "line": 1
+    },
+    {
+      "text": "Lmnde",
+      "confidence": 91.755844,
+      "box": [
+        318,
+        892,
+        123,
+        42
+      ],
+      "block": 5,
+      "paragraph": 4,
+      "line": 1
+    },
+    {
+      "text": "MD",
+      "confidence": 96.686226,
+      "box": [
+        469,
+        895,
+        49,
+        41
+      ],
+      "block": 5,
+      "paragraph": 4,
+      "line": 1
+    },
+    {
+      "text": "1.59",
+      "confidence": 94.204933,
+      "box": [
+        1081,
+        897,
+        95,
+        40
+      ],
+      "block": 5,
+      "paragraph": 4,
+      "line": 1
+    },
+    {
+      "text": "Sub.",
+      "confidence": 95.260796,
+      "box": [
+        228,
+        1008,
+        94,
+        45
+      ],
+      "block": 5,
+      "paragraph": 5,
+      "line": 1
+    },
+    {
+      "text": "Total:",
+      "confidence": 95.260796,
+      "box": [
+        361,
+        1011,
+        145,
+        45
+      ],
+      "block": 5,
+      "paragraph": 5,
+      "line": 1
+    },
+    {
+      "text": "$0.00",
+      "confidence": 94.381981,
+      "box": [
+        1061,
+        1012,
+        128,
+        46
+      ],
+      "block": 5,
+      "paragraph": 5,
+      "line": 1
+    },
+    {
+      "text": "Tax:",
+      "confidence": 95.14122,
+      "box": [
+        225,
+        1070,
+        94,
+        46
+      ],
+      "block": 5,
+      "paragraph": 6,
+      "line": 1
+    },
+    {
+      "text": "$0.00",
+      "confidence": 96.02874,
+      "box": [
+        1067,
+        1071,
+        130,
+        47
+      ],
+      "block": 5,
+      "paragraph": 6,
+      "line": 1
+    },
+    {
+      "text": "Total:",
+      "confidence": 95.845467,
+      "box": [
+        219,
+        1133,
+        147,
+        49
+      ],
+      "block": 5,
+      "paragraph": 7,
+      "line": 1
+    },
+    {
+      "text": "$0.00",
+      "confidence": 96.382645,
+      "box": [
+        1073,
+        1129,
+        134,
+        50
+      ],
+      "block": 5,
+      "paragraph": 7,
+      "line": 1
+    },
+    {
+      "text": "Discount",
+      "confidence": 96.206741,
+      "box": [
+        208,
+        1200,
+        212,
+        47
+      ],
+      "block": 5,
+      "paragraph": 8,
+      "line": 1
+    },
+    {
+      "text": "Total:",
+      "confidence": 96.164024,
+      "box": [
+        453,
+        1196,
+        150,
+        51
+      ],
+      "block": 5,
+      "paragraph": 8,
+      "line": 1
+    },
+    {
+      "text": "($6.23)",
+      "confidence": 89.577133,
+      "box": [
+        1030,
+        1189,
+        182,
+        55
+      ],
+      "block": 5,
+      "paragraph": 8,
+      "line": 1
+    },
+    {
+      "text": "Change",
+      "confidence": 96.805733,
+      "box": [
+        191,
+        1330,
+        165,
+        59
+      ],
+      "block": 5,
+      "paragraph": 9,
+      "line": 1
+    },
+    {
+      "text": "$0.00",
+      "confidence": 95.843246,
+      "box": [
+        1094,
+        1320,
+        141,
+        57
+      ],
+      "block": 5,
+      "paragraph": 9,
+      "line": 1
+    },
+    {
+      "text": "Exact",
+      "confidence": 96.163216,
+      "box": [
+        185,
+        1401,
+        135,
+        51
+      ],
+      "block": 5,
+      "paragraph": 10,
+      "line": 1
+    },
+    {
+      "text": "Dollar",
+      "confidence": 95.159294,
+      "box": [
+        351,
+        1402,
+        168,
+        52
+      ],
+      "block": 5,
+      "paragraph": 10,
+      "line": 1
+    },
+    {
+      "text": "$0.00",
+      "confidence": 96.1492,
+      "box": [
+        1099,
+        1391,
+        144,
+        59
+      ],
+      "block": 5,
+      "paragraph": 10,
+      "line": 1
+    },
+    {
+      "text": "Register:6",
+      "confidence": 47.642494,
+      "box": [
+        95,
+        1471,
+        277,
+        64
+      ],
+      "block": 5,
+      "paragraph": 10,
+      "line": 2
+    },
+    {
+      "text": "Tran",
+      "confidence": 96.045265,
+      "box": [
+        665,
+        1473,
+        113,
+        53
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Seq",
+      "confidence": 95.263306,
+      "box": [
+        810,
+        1472,
+        86,
+        60
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "No:",
+      "confidence": 95.894547,
+      "box": [
+        930,
+        1470,
+        77,
+        53
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Cashierids",
+      "confidence": 1.073441,
+      "box": [
+        89,
+        1539,
+        276,
+        120
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "964660",
+      "confidence": 89.248444,
+      "box": [
+        1075,
+        1464,
+        176,
+        57
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Denniso",
+      "confidence": 90.420998,
+      "box": [
+        457,
+        1549,
+        204,
+        55
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "our",
+      "confidence": 45.286949,
+      "box": [
+        371,
+        1623,
+        111,
+        81
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "pleasure",
+      "confidence": 96.674377,
+      "box": [
+        506,
+        1621,
+        244,
+        70
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "serving",
+      "confidence": 96.435013,
+      "box": [
+        783,
+        1622,
+        211,
+        67
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "you!",
+      "confidence": 96.63517,
+      "box": [
+        1024,
+        1619,
+        115,
+        68
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "4",
+      "confidence": 62.917603,
+      "box": [
+        476,
+        1711,
+        37,
+        108
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "ey",
+      "confidence": 29.402779,
+      "box": [
+        526,
+        1698,
+        281,
+        159
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "day.",
+      "confidence": 89.942062,
+      "box": [
+        840,
+        1694,
+        121,
+        124
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 2
+    }
+  ]
+}

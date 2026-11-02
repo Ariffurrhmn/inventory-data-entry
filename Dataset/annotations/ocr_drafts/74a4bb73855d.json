@@ -1,0 +1,109 @@
+{
+  "sample_id": "74a4bb73855d",
+  "source_path": "Dataset/Dataset-2/Delivery note challan/IMG_0996.HEIC",
+  "source_sha256": "055ecba929c1ee4f83eee8ff249580748afac6924abbe6a4eef64e9a82df6b77",
+  "prepared_image_path": "data/images/74a4bb73855d.jpg",
+  "prepared_image_sha256": "d376b0ede72b5dd916d712345478cb7e1bbb69ace2c284f67b886e19e4738719",
+  "label": "delivery_note",
+  "split": "val",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "§\n£\nH\n:\n2\n\nmm ———\n\n",
+  "ocr_image_size": [
+    1400,
+    1866
+  ],
+  "words": [
+    {
+      "text": "§",
+      "confidence": 87.677513,
+      "box": [
+        847,
+        152,
+        87,
+        30
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "£",
+      "confidence": 57.808838,
+      "box": [
+        787,
+        151,
+        61,
+        30
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "H",
+      "confidence": 48.901192,
+      "box": [
+        708,
+        152,
+        77,
+        35
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": ":",
+      "confidence": 23.095673,
+      "box": [
+        674,
+        158,
+        33,
+        21
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "2",
+      "confidence": 48.001972,
+      "box": [
+        633,
+        151,
+        40,
+        29
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "mm",
+      "confidence": 0.0,
+      "box": [
+        71,
+        1246,
+        8,
+        81
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "———",
+      "confidence": 0.0,
+      "box": [
+        64,
+        1386,
+        24,
+        130
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    }
+  ]
+}

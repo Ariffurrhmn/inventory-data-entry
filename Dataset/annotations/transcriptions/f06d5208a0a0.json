@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "f06d5208a0a0",
+  "source_image": {
+    "path": "Dataset/Delivery_Note/delivery-challan-DC-006.jpg",
+    "sha256": "b4017361376b3ba3d7148f89126c23d5dc088fe6737e052a673d0bdc526a8afc"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/f06d5208a0a0.jpg",
+    "sha256": "b1af325f3271380daab513871fa7485bf22479736b2d1624ff7d17fef5cd1c15"
+  },
+  "classification": {
+    "label": "delivery_note",
+    "split": "train"
+  },
+  "transcription": {
+    "full_text": "DELIVERY CHALLAN\nABC Company\nChallan no. DC- 006\nDate 2026-09-04\nPlace of supply Maharashtra\nSELLER\nABC Company\nShop 12, Market Road, City â€” 400001\nCONSIGNEE\nHasna\nHouse- 36, Road- 7, Maharashtra\nVehicle no.: MH 01 AB 1234\nPurpose: Job work\n# Description HSN/SAC Qty Rate Taxable GST %\n1 Ballpoint pen 9056 200.00 â‚¹20.00 â‚¹4,000.00 5%\n2 A4Notebook 3546 30.00 â‚¹120.00 â‚¹3,600.00 4%\nTaxable value â‚¹7,600.00\nCGST â‚¹172.00\nSGST â‚¹172.00\nGrand total â‚¹7,944.00\nAmount in words: Seven Thousand Nine Hundred Forty Four Rupees Only\nNotes: Goods sent for the purpose stated above. Not a sale.",
+    "lines": [
+      "DELIVERY CHALLAN",
+      "ABC Company",
+      "Challan no. DC- 006",
+      "Date 2026-09-04",
+      "Place of supply Maharashtra",
+      "SELLER",
+      "ABC Company",
+      "Shop 12, Market Road, City â€” 400001",
+      "CONSIGNEE",
+      "Hasna",
+      "House- 36, Road- 7, Maharashtra",
+      "Vehicle no.: MH 01 AB 1234",
+      "Purpose: Job work",
+      "# Description HSN/SAC Qty Rate Taxable GST %",
+      "1 Ballpoint pen 9056 200.00 â‚¹20.00 â‚¹4,000.00 5%",
+      "2 A4Notebook 3546 30.00 â‚¹120.00 â‚¹3,600.00 4%",
+      "Taxable value â‚¹7,600.00",
+      "CGST â‚¹172.00",
+      "SGST â‚¹172.00",
+      "Grand total â‚¹7,944.00",
+      "Amount in words: Seven Thousand Nine Hundred Forty Four Rupees Only",
+      "Notes: Goods sent for the purpose stated above. Not a sale."
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [],
+    "notes": "Visually checked all entries; retained printed spelling and numeric inconsistencies. Whitespace/table layout linearized."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/f06d5208a0a0.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

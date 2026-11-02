@@ -1,0 +1,200 @@
+{
+  "sample_id": "6d09ac8fd547",
+  "source_path": "Dataset/Receipt/IMG_20250823_030114_jpg.rf.3862ebeaef9f4db0e7d45c6b2127ea07.jpg",
+  "source_sha256": "12ba3dcb036b23eb1b1bc2ae1d8779c38047eb421d11a6c1c69dd0cc0535e44e",
+  "prepared_image_path": "data/images/6d09ac8fd547.jpg",
+  "prepared_image_sha256": "d4c3797babb4190ea0314ba480d0b5a1cb32a4ca4cd7ef5776d5d65978f8e720",
+  "label": "receipt",
+  "split": "val",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "F | GRADIENT CAE\n\n1 Espreseo (siege Shot) 20.00\n2 caramel Macchiato (leo) 510-00\n\n",
+  "ocr_image_size": [
+    1400,
+    1400
+  ],
+  "words": [
+    {
+      "text": "F",
+      "confidence": 0.0,
+      "box": [
+        0,
+        15,
+        60,
+        119
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "|",
+      "confidence": 86.027679,
+      "box": [
+        167,
+        90,
+        2,
+        3
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "GRADIENT",
+      "confidence": 80.163094,
+      "box": [
+        483,
+        71,
+        227,
+        45
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "CAE",
+      "confidence": 27.384735,
+      "box": [
+        766,
+        77,
+        126,
+        43
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "1",
+      "confidence": 90.575218,
+      "box": [
+        78,
+        249,
+        52,
+        47
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Espreseo",
+      "confidence": 35.220787,
+      "box": [
+        171,
+        245,
+        187,
+        74
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "(siege",
+      "confidence": 29.231377,
+      "box": [
+        399,
+        244,
+        153,
+        68
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Shot)",
+      "confidence": 61.616787,
+      "box": [
+        574,
+        249,
+        109,
+        44
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "20.00",
+      "confidence": 87.278145,
+      "box": [
+        1075,
+        261,
+        155,
+        42
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "2",
+      "confidence": 66.146866,
+      "box": [
+        84,
+        372,
+        37,
+        41
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "caramel",
+      "confidence": 2.506134,
+      "box": [
+        170,
+        353,
+        180,
+        52
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Macchiato",
+      "confidence": 31.017975,
+      "box": [
+        395,
+        348,
+        224,
+        47
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "(leo)",
+      "confidence": 53.444633,
+      "box": [
+        656,
+        338,
+        147,
+        64
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "510-00",
+      "confidence": 84.380486,
+      "box": [
+        1040,
+        354,
+        185,
+        40
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    }
+  ]
+}

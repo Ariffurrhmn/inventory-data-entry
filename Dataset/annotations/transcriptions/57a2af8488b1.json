@@ -1,0 +1,72 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "57a2af8488b1",
+  "source_image": {
+    "path": "Dataset/Receipt/IMG_20251024_205757_jpg.rf.2cc45e34b944cd17410a7e6aa3e010a4.jpg",
+    "sha256": "c1b9378fd3112026435d620e42cfdee5c2f5e842bdd269a699c33d42bc131885"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/57a2af8488b1.jpg",
+    "sha256": "992f7e3b944c0d791ee096fa0b9e2eaeabcfd1adf4dd74291ac91eb79ba76e49"
+  },
+  "classification": {
+    "label": "receipt",
+    "split": "train"
+  },
+  "transcription": {
+    "full_text": "DIZ INDUSTRIAL MACHINERY TRADING\n228 Ilaya St., Burol, City of Calamba 4027, Laguna, Philippines\nPANGANIBAN, GLADYS C. - Prop.\nNON-VAT Reg. TIN: 411-344-556-00000\nSALES INVOICE\nSOLD TO: IRON WORKS\nDate: 11/12 2022\nTerms: \nTIN:\nBusiness Style:\nAddress:\nOSCA/PWD ID No.:\nSC/PWD Signature:\nQTY. UNIT ARTICLES U/PRICE AMOUNT\n20 bundles white rags 115 2,300.00\nPAID\nTotal Sales\nLess: SC/PWD-Discount\nTOTAL AMOUNT DUE 2,300.00\nNo. 0000033\n10 Bklts. (50x2) 000001-000500\nBIR Authority to Print No. 056AU20220000008084\nDate of ATP: August 19, 2022\n[illegible] ENTERPRISES\nVAT Reg. TIN: 178-095-715-00000\nBorja Subd., Purok 2, Parian, Calamba City, Laguna\nCell. No.: 0933-953-4989\nCashier/Authorized Representative [signature]\nPrinter's Accreditation No. [illegible]\nDate Issued: 03-02-20; Expiry Date: 03-01-25\n\"THIS DOCUMENT IS NOT VALID FOR CLAIMING INPUT TAXES\"",
+    "lines": [
+      "DIZ INDUSTRIAL MACHINERY TRADING",
+      "228 Ilaya St., Burol, City of Calamba 4027, Laguna, Philippines",
+      "PANGANIBAN, GLADYS C. - Prop.",
+      "NON-VAT Reg. TIN: 411-344-556-00000",
+      "SALES INVOICE",
+      "SOLD TO: IRON WORKS",
+      "Date: 11/12 2022",
+      "Terms: ",
+      "TIN:",
+      "Business Style:",
+      "Address:",
+      "OSCA/PWD ID No.:",
+      "SC/PWD Signature:",
+      "QTY. UNIT ARTICLES U/PRICE AMOUNT",
+      "20 bundles white rags 115 2,300.00",
+      "PAID",
+      "Total Sales",
+      "Less: SC/PWD-Discount",
+      "TOTAL AMOUNT DUE 2,300.00",
+      "No. 0000033",
+      "10 Bklts. (50x2) 000001-000500",
+      "BIR Authority to Print No. 056AU20220000008084",
+      "Date of ATP: August 19, 2022",
+      "[illegible] ENTERPRISES",
+      "VAT Reg. TIN: 178-095-715-00000",
+      "Borja Subd., Purok 2, Parian, Calamba City, Laguna",
+      "Cell. No.: 0933-953-4989",
+      "Cashier/Authorized Representative [signature]",
+      "Printer's Accreditation No. [illegible]",
+      "Date Issued: 03-02-20; Expiry Date: 03-01-25",
+      "\"THIS DOCUMENT IS NOT VALID FOR CLAIMING INPUT TAXES\""
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [
+      "Some handwritten strokes, crossed-out text, printer identity/accreditation details are not reliably legible; marked explicitly.",
+      "Handwritten dates and monetary suffixes should be independently checked. No missing year or unit price was inferred."
+    ],
+    "notes": "Transcribed visible printed labels and handwritten entries; blank form fields remain blank."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/57a2af8488b1.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

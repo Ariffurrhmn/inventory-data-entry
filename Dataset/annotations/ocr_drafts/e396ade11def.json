@@ -1,0 +1,109 @@
+{
+  "sample_id": "e396ade11def",
+  "source_path": "Dataset/Dataset-2/Customer copy/IMG_1007.HEIC",
+  "source_sha256": "0eedfe0765649932a20f7f371c68412cc853b0f3f2e2f7549e7d3c3b95e0c79e",
+  "prepared_image_path": "data/images/e396ade11def.jpg",
+  "prepared_image_sha256": "b9f12f27d77447b831b0976cf9e4fd4265fb6f17e158cd85528c4bdde5053c00",
+  "label": "customer_copy",
+  "split": "train",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "Q\n®\no\nS\n=\n§\n3\n\n",
+  "ocr_image_size": [
+    1400,
+    1866
+  ],
+  "words": [
+    {
+      "text": "Q",
+      "confidence": 84.33194,
+      "box": [
+        969,
+        262,
+        28,
+        34
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "®",
+      "confidence": 17.556313,
+      "box": [
+        912,
+        251,
+        55,
+        45
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "o",
+      "confidence": 0.0,
+      "box": [
+        854,
+        261,
+        57,
+        35
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "S",
+      "confidence": 32.784973,
+      "box": [
+        798,
+        252,
+        58,
+        44
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "=",
+      "confidence": 96.106552,
+      "box": [
+        736,
+        252,
+        63,
+        44
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "§",
+      "confidence": 10.896851,
+      "box": [
+        594,
+        266,
+        69,
+        32
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "3",
+      "confidence": 60.157795,
+      "box": [
+        495,
+        257,
+        99,
+        42
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 7
+    }
+  ]
+}

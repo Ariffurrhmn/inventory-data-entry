@@ -1,0 +1,58 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "213305d225b2",
+  "source_image": {
+    "path": "Dataset/Receipt/cord-train-0020.jpg",
+    "sha256": "c60ae735a0a4f5f6017248015f942f6c59b8caf583470bcc30b448157fcd196b"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/213305d225b2.jpg",
+    "sha256": "9fb73094f6ab871bb1e2a4ac19beb964c38efd4b3fde1db168465785a806b8bf"
+  },
+  "classification": {
+    "label": "receipt",
+    "split": "train"
+  },
+  "transcription": {
+    "full_text": "[redacted]\nNATURAL\n[redacted]\nBUBUR UNGU 26,000\nDISC ITEM -30.000%\nAMOUNT -7,800\nSENDOK BEBEK 0\nWAJIK 7,000\nDISC ITEM -30.000%\nAMOUNT -2,100\nCENTIK MANIS 5,500\nDISC ITEM -30.000%\nAMOUNT -1,650\nPLASTIK SEDANG 0\nSUBTOTAL 26,950\nTOTAL 26,950\nCASH 26,950\n[redacted]",
+    "lines": [
+      "[redacted]",
+      "NATURAL",
+      "[redacted]",
+      "BUBUR UNGU 26,000",
+      "DISC ITEM -30.000%",
+      "AMOUNT -7,800",
+      "SENDOK BEBEK 0",
+      "WAJIK 7,000",
+      "DISC ITEM -30.000%",
+      "AMOUNT -2,100",
+      "CENTIK MANIS 5,500",
+      "DISC ITEM -30.000%",
+      "AMOUNT -1,650",
+      "PLASTIK SEDANG 0",
+      "SUBTOTAL 26,950",
+      "TOTAL 26,950",
+      "CASH 26,950",
+      "[redacted]"
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [
+      "Pixelated/blurred source regions are marked [redacted]; their hidden text was not reconstructed."
+    ],
+    "notes": "Visually transcribed from the image, preserving printed spelling and numeric inconsistencies."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/213305d225b2.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

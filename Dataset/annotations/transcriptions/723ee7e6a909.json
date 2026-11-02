@@ -1,0 +1,63 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "723ee7e6a909",
+  "source_image": {
+    "path": "Dataset/Customer_Copy/image_1553.jpg",
+    "sha256": "0abb5f98ebe3900d387dec2a5ad628f33ef330bb9d14f1085cddb05435e63202"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/723ee7e6a909.jpg",
+    "sha256": "4e8d89a26cc472d6e88558d324e30f8fa3481ba47e8d522a9bca2028894407eb"
+  },
+  "classification": {
+    "label": "customer_copy",
+    "split": "train"
+  },
+  "transcription": {
+    "full_text": "7-ELEVEN #15520 D2804\n52 BRENTWOOD BLVD\nSHERWOOD PARK AB T8A 2H6\nTEL (780) 467-2055\nTERM ID: K0474643\nBATCH#: 025\nSHIFT#: 001\nSale\nINV#: 000000025\nMCARD Chip\nSEQ#:025001001025\nApplication Label: MasterCard\nAID:A0000000041010\nTVR:00 00 00 80 00\nTSI:E8 00\n[masked]9581\nTotal:CAD$ 7.11\nAPPROVED 11033B\n001/00\n13-Feb-14 09:03:37\nCUSTOMER COPY\nTHANK YOU",
+    "lines": [
+      "7-ELEVEN #15520 D2804",
+      "52 BRENTWOOD BLVD",
+      "SHERWOOD PARK AB T8A 2H6",
+      "TEL (780) 467-2055",
+      "TERM ID: K0474643",
+      "BATCH#: 025",
+      "SHIFT#: 001",
+      "Sale",
+      "INV#: 000000025",
+      "MCARD Chip",
+      "SEQ#:025001001025",
+      "Application Label: MasterCard",
+      "AID:A0000000041010",
+      "TVR:00 00 00 80 00",
+      "TSI:E8 00",
+      "[masked]9581",
+      "Total:CAD$ 7.11",
+      "APPROVED 11033B",
+      "001/00",
+      "13-Feb-14 09:03:37",
+      "CUSTOMER COPY",
+      "THANK YOU"
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [
+      "Payment masking, small terminal/reference identifiers and character counts need a human audit for exact-character scoring.",
+      "Leading zero count in invoice number is a best visual reading."
+    ],
+    "notes": "Visually checked; blank fields left blank. Printed masking is represented by [masked] where exact symbol count is not reliable."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/723ee7e6a909.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

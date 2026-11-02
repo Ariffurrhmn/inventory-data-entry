@@ -1,0 +1,59 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "f39cc34d6d46",
+  "source_image": {
+    "path": "Dataset/Customer_Copy/image_1208.jpg",
+    "sha256": "305655fd13d3e3e8360261d1b98a1cae6b31b6e1cdc56504a7bf9fa8c449e848"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/f39cc34d6d46.jpg",
+    "sha256": "a31d265c79d38914d1424b93bb4108142704e4c1026749379721d9df19a0b27f"
+  },
+  "classification": {
+    "label": "customer_copy",
+    "split": "train"
+  },
+  "transcription": {
+    "full_text": "WELCOME TO\nVINELAND SHELL\nSHELL 57 542 995501\n8788 VINELAND RD S1E0733\nORLANDO FL 32821\nDescr. qty amount\n<CUSTOMER COPY>\nUNLD CR #07 4.251G 25.50\nSELF @ 5.999/G\nSub Total 25.50\nTax 0.00\nTOTAL 25.50\nCREDIT $ 25.50\nXXXX XXXX XXXX 7231 DISCOVER\nINVOICE: 444547\nAUTH #: 021698\nTHANKS,COME AGAIN\nREG# 0002 CSH# 012 DR# 01 TRAN# 26966\n03/21/16 19:43:54 ST# VINE1",
+    "lines": [
+      "WELCOME TO",
+      "VINELAND SHELL",
+      "SHELL 57 542 995501",
+      "8788 VINELAND RD S1E0733",
+      "ORLANDO FL 32821",
+      "Descr. qty amount",
+      "<CUSTOMER COPY>",
+      "UNLD CR #07 4.251G 25.50",
+      "SELF @ 5.999/G",
+      "Sub Total 25.50",
+      "Tax 0.00",
+      "TOTAL 25.50",
+      "CREDIT $ 25.50",
+      "XXXX XXXX XXXX 7231 DISCOVER",
+      "INVOICE: 444547",
+      "AUTH #: 021698",
+      "THANKS,COME AGAIN",
+      "REG# 0002 CSH# 012 DR# 01 TRAN# 26966",
+      "03/21/16 19:43:54 ST# VINE1"
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [
+      "Small store/terminal identifiers and quantity suffix G are best visual readings."
+    ],
+    "notes": "Visually checked; blank fields left blank. Printed masking is represented by [masked] where exact symbol count is not reliable."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/f39cc34d6d46.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

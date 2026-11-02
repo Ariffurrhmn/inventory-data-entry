@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "382ba345a187",
+  "source_image": {
+    "path": "Dataset/Dataset-2/Customer copy/IMG_1003.HEIC",
+    "sha256": "0a91f6a327f794c70dbf265ab225e4574212eee991e548ed4b948f1c88815e31"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/382ba345a187.jpg",
+    "sha256": "623e9fdaadbb56b0dd6169a287c3a964c1433e3a2598dacfc6901b40cbcdeaea"
+  },
+  "classification": {
+    "label": "customer_copy",
+    "split": "val"
+  },
+  "transcription": {
+    "full_text": "Dhaka Trade House\nCash Memo\nBill To / Customer: Tazin Super Shop, Mohammadpur, Dhaka.\nInvoice No: INV-3519.\nDate: 06/10/2026.\nItem Qty Rate (Tk) Amount (Tk)\nBath Soap 100g 12 Tk 55 Tk 660\nTea 400g 12 Tk 240 Tk 2,880\nToothpaste 100g 20 Tk 120 Tk 2,400\nBall Pen box 12 Tk 100 Tk 1,200\nTotal: Tk 7,140\n[signature]\nAuthorised Signature\nCUSTOMER COPY",
+    "lines": [
+      "Dhaka Trade House",
+      "Cash Memo",
+      "Bill To / Customer: Tazin Super Shop, Mohammadpur, Dhaka.",
+      "Invoice No: INV-3519.",
+      "Date: 06/10/2026.",
+      "Item Qty Rate (Tk) Amount (Tk)",
+      "Bath Soap 100g 12 Tk 55 Tk 660",
+      "Tea 400g 12 Tk 240 Tk 2,880",
+      "Toothpaste 100g 20 Tk 120 Tk 2,400",
+      "Ball Pen box 12 Tk 100 Tk 1,200",
+      "Total: Tk 7,140",
+      "[signature]",
+      "Authorised Signature",
+      "CUSTOMER COPY"
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [],
+    "notes": "Individually visually reviewed photograph; table rows linearized, signatures marked."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/382ba345a187.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

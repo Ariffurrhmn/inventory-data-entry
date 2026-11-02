@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "c33ada961240",
+  "source_image": {
+    "path": "Dataset/Receipt/cord-train-0050.jpg",
+    "sha256": "b8330bbac4a8072e0617a64f1ba35d6e0d2a7fb31d7beb4e74cd464354d60004"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/c33ada961240.jpg",
+    "sha256": "b4ab7fbd5137cdbfcdc9352ec25ab370ece87e08d787094148108f25610d4230"
+  },
+  "classification": {
+    "label": "receipt",
+    "split": "train"
+  },
+  "transcription": {
+    "full_text": "[redacted]\nCHO MOUSSE 20,000\nGRAPE JELLY 13,000\nSUBTOTAL 30,000\nTAX 10% 3,000\nTL 33,000\nCASH 50,000\nCG 17,000",
+    "lines": [
+      "[redacted]",
+      "CHO MOUSSE 20,000",
+      "GRAPE JELLY 13,000",
+      "SUBTOTAL 30,000",
+      "TAX 10% 3,000",
+      "TL 33,000",
+      "CASH 50,000",
+      "CG 17,000"
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [
+      "Pixelated/blurred source regions are marked [redacted]; their hidden text was not reconstructed."
+    ],
+    "notes": "Visually transcribed from the image, preserving printed spelling and numeric inconsistencies."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/c33ada961240.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

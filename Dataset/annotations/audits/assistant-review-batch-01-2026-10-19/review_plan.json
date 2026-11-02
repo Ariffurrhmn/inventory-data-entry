@@ -1,0 +1,95 @@
+[
+  {
+    "sample_id": "d6b7679bc0a8",
+    "replacements": [],
+    "payment_flag": true,
+    "notes": "Visible item names, quantities and displayed totals match. TOTAL alone does not prove payment: no visible tender/payment confirmation. Existing receipt class retained pending a receipt-versus-bill taxonomy check.",
+    "uncertainties": "Header/transaction metadata redacted. Payment status not established by visible content."
+  },
+  {
+    "sample_id": "7bd460b8c269",
+    "replacements": [
+      [
+        "Services 14,598\n[redacted]\nTax",
+        "Services 14,598\nTax"
+      ]
+    ],
+    "notes": "Removed unsupported interior [redacted] marker between Services and Tax: image shows a blank/divider area. Total 337,230, Tunai 350,000 and Kembali 12,770 checked. Indonesian text is a language-scope flag for the intended English corpus.",
+    "uncertainties": "Header redacted. Mixed-language corpus eligibility requires a decision."
+  },
+  {
+    "sample_id": "5564ab2d8b11",
+    "replacements": [],
+    "notes": "Package contents, debit 70,000 and CHANGE 0 checked. [D] is literal printed payment notation, not an annotation marker. Footer partially cropped/redacted. Test-split annotation maintenance only, not tuning.",
+    "uncertainties": "Masked identifiers/header and cropped footer unresolved. Preserve literal [D] during future normalization."
+  },
+  {
+    "sample_id": "fcac4e4559e8",
+    "replacements": [
+      [
+        "1 BIHUN GORENG JJ 87,000\n",
+        "1 BIHUN GORENG JJ 87,000\n=*MEDIUM*=\n"
+      ],
+      [
+        "1 OYONG 3 TELOR 84,000\n",
+        "1 OYONG 3 TELOR 84,000\n=*MEDIUM*=\n"
+      ]
+    ],
+    "payment_flag": true,
+    "notes": "Added two omitted =*MEDIUM*= lines after BIHUN GORENG JJ and OYONG 3 TELOR. Amounts checked without repairing arithmetic. DU line retained as printed; payment/tender confirmation is absent. Existing receipt class retained pending taxonomy review. Indonesian descriptions are a language-scope flag.",
+    "uncertainties": "Header redacted. Payment unconfirmed. Food abbreviations and amount-less CRYSANTNUM line need independent review."
+  },
+  {
+    "sample_id": "e24acf8b8294",
+    "replacements": [],
+    "notes": "Checked three item descriptions, amounts 10,000 / 17,000 / 16,000, total 43,000, CASH 50,000 and CHANGE 7,000. Visible text retained. Test-split annotation maintenance only.",
+    "uncertainties": "Redacted header/footer cannot be reconstructed."
+  },
+  {
+    "sample_id": "be13e587ee89",
+    "replacements": [],
+    "notes": "Checked items, zero-priced modifier, total 69,000, cash 80,000 and change 11,000. Visible text retained. Pedas sedikit is Indonesian: language-scope decision needed. Test-split annotation maintenance only.",
+    "uncertainties": "Header/footer redacted. Dotted layout leader counts remain approximate."
+  },
+  {
+    "sample_id": "c4e63d9e78fe",
+    "replacements": [
+      [
+        "SUB TOTAL 28,000",
+        "SUB TOTAL 28.000"
+      ],
+      [
+        "GRAND TOTAL 28,000",
+        "GRAND TOTAL 28.000"
+      ],
+      [
+        "CASH IDR 50,000",
+        "CASH IDR 50.000"
+      ],
+      [
+        "CHANGE DUE 22,000",
+        "CHANGE DUE 22.000"
+      ]
+    ],
+    "notes": "Checked ALMOND CHOCO CREAM CHEESE, quantity 1 and visible amounts. Total/payment grouping appears as dots; retained comma grouping on item line. Cash/change support receipt class. Test-split annotation maintenance only.",
+    "uncertainties": "Header, item-line token and footer redacted. Thin comma/dot glyphs are best visual readings and require a human character-level check."
+  },
+  {
+    "sample_id": "dc0e8749153f",
+    "replacements": [],
+    "notes": "Checked BBQ Chicken, zero-priced Tidak Pedas modifier, item count 1 and DEBIT BCA 41,000. Indonesian text is a language-scope flag. Test-split annotation maintenance only.",
+    "uncertainties": "Header/footer redacted. Dotted layout leader counts unverified."
+  },
+  {
+    "sample_id": "99227d025be4",
+    "replacements": [],
+    "notes": "Checked A Chicken, +Monster, +A +Cheese, total/cash 21.000 and Kembalian 0. Visible text retained. Low-resolution source and Indonesian payment wording remain quality/scope flags.",
+    "uncertainties": "Header/footer redacted. Low resolution limits exact-character certainty."
+  },
+  {
+    "sample_id": "684abec37a2d",
+    "replacements": [],
+    "notes": "Checked every visible menu line and discount/service/tax/card totals. Did not invent amounts for Kuah Kaldu Ayam or TOM YAM, which have none aligned in the image. Retained visible Cai Mieo, Fish Glue, Sutake and Tahu Sandwidh spellings. Indonesian text is a language-scope flag.",
+    "uncertainties": "Header/footer redacted. Cai Mieo and Tahu Sandwidh remain best readings; amount-less menu lines and punctuation need independent checking."
+  }
+]

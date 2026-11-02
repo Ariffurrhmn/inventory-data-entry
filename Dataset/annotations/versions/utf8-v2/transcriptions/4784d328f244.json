@@ -1,0 +1,54 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "4784d328f244",
+  "source_image": {
+    "path": "Dataset/Delivery_Note/packing-slip-1079.png",
+    "sha256": "c538ae1493d82b497dfbbd3f903641c9ece3f38507e5944e07fcc5e5efa3eb6e"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/4784d328f244.jpg",
+    "sha256": "098d510c93c98c549f5e1876176ba46fc84386f0333fc563d3f8b11334ffcb60"
+  },
+  "classification": {
+    "label": "delivery_note",
+    "split": "test"
+  },
+  "transcription": {
+    "full_text": "Packing Slip\nOrder #1079\nSeptember 11, 2026\nFrom\nCrimson&Co\n07 South Bishil Road\n1216\nBangladesh\nShip to\n[redacted]\nOrder Details\nQty Item\n1 Heritage Horse Ribbed Tank Top - L\n1 Vintage-Style Contrast Ringer Tee - XL",
+    "lines": [
+      "Packing Slip",
+      "Order #1079",
+      "September 11, 2026",
+      "From",
+      "Crimson&Co",
+      "07 South Bishil Road",
+      "1216",
+      "Bangladesh",
+      "Ship to",
+      "[redacted]",
+      "Order Details",
+      "Qty Item",
+      "1 Heritage Horse Ribbed Tank Top - L",
+      "1 Vintage-Style Contrast Ringer Tee - XL"
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [
+      "Recipient details were blurred in the source and are not reconstructed."
+    ],
+    "notes": ""
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/4784d328f244.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

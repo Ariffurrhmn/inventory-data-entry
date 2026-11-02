@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "e0835ab84434",
+  "source_image": {
+    "path": "Dataset/Dataset-2/Delivery note challan/IMG_0948.HEIC",
+    "sha256": "8e9a3f56aed38529f81b2925dd2965f24d7091049a7e03d324b4812a9cd9249d"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/e0835ab84434.jpg",
+    "sha256": "94c4546db1c6ed008623417b3d235e3386223c5d4dd3d3b93028cb7ecc5b95b4"
+  },
+  "classification": {
+    "label": "delivery_note",
+    "split": "train"
+  },
+  "transcription": {
+    "full_text": "DELIVERY CHALLAN\nABC Company\nChallan no. DC-013\nDate 2026-09-04\nPlace of supply Kolkata\nSELLER\nABC Company\nShop 12, Market Road, City — 400001\nCONSIGNEE\nDina Islam\nHouse- 64, Road- 35, Kolkata\nVehicle no.: MH 01 AB 1234\nPurpose: Job work\n# Description HSN/SAC Qty Rate Taxable GST %\n1 Cotton T- Shirt 1437 40.00 ₹320.00 ₹12,800.00 8%\n2 Denim Jeans 8764 20.00 ₹1,000.00 ₹20,000.00 10%\nTaxable value ₹32,800.00\nCGST ₹1,512.00\nSGST ₹1,512.00\nGrand total ₹35,824.00\nAmount in words: Thirty Five Thousand Eight Hundred Twenty Four Rupees Only\nNotes: Goods sent for the purpose stated above. Not a sale.",
+    "lines": [
+      "DELIVERY CHALLAN",
+      "ABC Company",
+      "Challan no. DC-013",
+      "Date 2026-09-04",
+      "Place of supply Kolkata",
+      "SELLER",
+      "ABC Company",
+      "Shop 12, Market Road, City — 400001",
+      "CONSIGNEE",
+      "Dina Islam",
+      "House- 64, Road- 35, Kolkata",
+      "Vehicle no.: MH 01 AB 1234",
+      "Purpose: Job work",
+      "# Description HSN/SAC Qty Rate Taxable GST %",
+      "1 Cotton T- Shirt 1437 40.00 ₹320.00 ₹12,800.00 8%",
+      "2 Denim Jeans 8764 20.00 ₹1,000.00 ₹20,000.00 10%",
+      "Taxable value ₹32,800.00",
+      "CGST ₹1,512.00",
+      "SGST ₹1,512.00",
+      "Grand total ₹35,824.00",
+      "Amount in words: Thirty Five Thousand Eight Hundred Twenty Four Rupees Only",
+      "Notes: Goods sent for the purpose stated above. Not a sale."
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [],
+    "notes": "Individually visually inspected photograph, including quantities, rates, totals and footer. Its visible content matches the reviewed digital form; reused checked text."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/e0835ab84434.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "40ba7ce1f258",
+  "source_image": {
+    "path": "Dataset/Delivery_Note/delivery-challan-DC-005.jpg",
+    "sha256": "cf37dd70868300c1849bd5cfe5d9f9c4c883d28c908a65c82277a0ebfbc9334a"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/40ba7ce1f258.jpg",
+    "sha256": "ecd8f2d84883a30a930905d25fdacd3c1c788e6e6ec4a3baa5b66e6a5c3370fe"
+  },
+  "classification": {
+    "label": "delivery_note",
+    "split": "train"
+  },
+  "transcription": {
+    "full_text": "DELIVERY CHALLAN\nABC Company\nChallan no. DC- 005\nDate 2026-09-04\nPlace of supply Maharashtra\nSELLER\nABC Company\nShop 12, Market Road, City â€” 400001\nCONSIGNEE\nHasna\nHouse- 56, Road- 3, Maharashtra\nVehicle no.: MH 01 AB 1234\nPurpose: Job work\n# Description HSN/SAC Qty Rate Taxable GST %\n1 Fan 9087 15.00 â‚¹3,000.00 â‚¹45,000.00 15%\n2 Purfume 3546 20.00 â‚¹450.00 â‚¹9,000.00 3%\n3 Light 1324 20.00 â‚¹800.00 â‚¹16,000.00 5%\nTaxable value â‚¹70,000.00\nCGST â‚¹3,910.00\nSGST â‚¹3,910.00\nGrand total â‚¹77,820.00\nAmount in words: Seventy Seven Thousand Eight Hundred Twenty Rupees Only\nNotes: Goods sent for the purpose stated above. Not a sale.",
+    "lines": [
+      "DELIVERY CHALLAN",
+      "ABC Company",
+      "Challan no. DC- 005",
+      "Date 2026-09-04",
+      "Place of supply Maharashtra",
+      "SELLER",
+      "ABC Company",
+      "Shop 12, Market Road, City â€” 400001",
+      "CONSIGNEE",
+      "Hasna",
+      "House- 56, Road- 3, Maharashtra",
+      "Vehicle no.: MH 01 AB 1234",
+      "Purpose: Job work",
+      "# Description HSN/SAC Qty Rate Taxable GST %",
+      "1 Fan 9087 15.00 â‚¹3,000.00 â‚¹45,000.00 15%",
+      "2 Purfume 3546 20.00 â‚¹450.00 â‚¹9,000.00 3%",
+      "3 Light 1324 20.00 â‚¹800.00 â‚¹16,000.00 5%",
+      "Taxable value â‚¹70,000.00",
+      "CGST â‚¹3,910.00",
+      "SGST â‚¹3,910.00",
+      "Grand total â‚¹77,820.00",
+      "Amount in words: Seventy Seven Thousand Eight Hundred Twenty Rupees Only",
+      "Notes: Goods sent for the purpose stated above. Not a sale."
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [],
+    "notes": "Visually checked all entries; retained printed spelling and numeric inconsistencies. Whitespace/table layout linearized."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/40ba7ce1f258.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

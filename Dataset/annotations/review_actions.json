@@ -1,0 +1,887 @@
+{
+  "8": {
+    "replace": [
+      [
+        "FL Company",
+        "XYZ Company"
+      ],
+      [
+        "OrderDate",
+        "Order Date"
+      ],
+      [
+        "Item Description Qty Rate\n",
+        "Item Description Qty Rate Amount\n"
+      ],
+      [
+        "Backpack 4 2 48",
+        "Backpack 4 12 48"
+      ]
+    ]
+  },
+  "5": {
+    "replace": [
+      [
+        "XVZ Compaty",
+        "XYZ Company"
+      ],
+      [
+        "OrderDate",
+        "Order Date"
+      ],
+      [
+        "Sep 20,2026",
+        "Sep 20, 2026"
+      ],
+      [
+        "Item Description Qty Rate\n",
+        "Item Description Qty Rate Amount\n"
+      ],
+      [
+        "Red Lentils 1kg 1 1.5 1:5",
+        "Red Lentils 1kg 1 1.5 1.5"
+      ]
+    ]
+  },
+  "7": {
+    "replace": [
+      [
+        "FL Company",
+        "XYZ Company"
+      ],
+      [
+        "OrderDate",
+        "Order Date"
+      ],
+      [
+        "Backpack 1 2 12",
+        "Backpack 1 12 12"
+      ]
+    ]
+  },
+  "1": {
+    "text": "Purchase Order\nGenerated using Mercury\nBuyer\nGHI Company\nPanjora\nGazipur, Dhaka 1211\nBangladesh\nShipping\nPanjora\nGazipur, Dhaka 1211\nBangladesh\nVendor\nNPK Company\nDetails\nPO no. PO - 15\nItem # / SKU | Product description | Quantity | Unit price | Amount\nRice 5kg | .. | 5 | $4.50 | $22.50\nSubtotal $22.50\nTotal $22.50\nTerms\nPurchase order date 10/04/26\nDelivery date 10/13/26\nPayment method Credit card\nNote\nAuthorized signature\nDate"
+  },
+  "3": {
+    "replace": [
+      [
+        "XVZ Compaty",
+        "XYZ Company"
+      ],
+      [
+        "OrderDate",
+        "Order Date"
+      ],
+      [
+        "Item Description Qty Rate\n",
+        "Item Description Qty Rate Amount\n"
+      ],
+      [
+        "Shampoo 400ml 5 4.5 225",
+        "Shampoo 400ml 5 4.5 22.5"
+      ]
+    ]
+  },
+  "4": {
+    "replace": [
+      [
+        "XVZ Compaty",
+        "XYZ Company"
+      ],
+      [
+        "OrderDate",
+        "Order Date"
+      ],
+      [
+        "Sep 20,2026",
+        "Sep 20, 2026"
+      ],
+      [
+        "Item Description Qty Rate\n",
+        "Item Description Qty Rate Amount\n"
+      ],
+      [
+        "Shampoo 400ml 5 4.5 225",
+        "Shampoo 400ml 5 4.5 22.5"
+      ]
+    ]
+  },
+  "6": {
+    "replace": [
+      [
+        "XVZ Compaty",
+        "XYZ Company"
+      ],
+      [
+        "OrderDate",
+        "Order Date"
+      ],
+      [
+        "Sep 20,2026",
+        "Sep 20, 2026"
+      ],
+      [
+        "Red Lentils 1kg 1 15 1.5",
+        "Red Lentils 1kg 1 1.5 1.5"
+      ]
+    ]
+  },
+  "2": {
+    "replace": [
+      [
+        "FL Company",
+        "XYZ Company"
+      ],
+      [
+        "OrderDate",
+        "Order Date"
+      ],
+      [
+        "Item Description Qty Rate\n",
+        "Item Description Qty Rate Amount\n"
+      ],
+      [
+        "Shampoo 400ml 5 4.5 225",
+        "Shampoo 400ml 5 4.5 22.5"
+      ]
+    ]
+  },
+  "9": {
+    "replace": [
+      [
+        "P U RC HAS E",
+        "PURCHASE"
+      ],
+      [
+        "Item Rate Amount",
+        "Item Quantity Rate Amount"
+      ]
+    ]
+  },
+  "10": {
+    "replace": [
+      [
+        "P U RC HAS E",
+        "PURCHASE"
+      ],
+      [
+        "Item Rate Amount",
+        "Item Quantity Rate Amount"
+      ]
+    ],
+    "notes": "Third item description is visibly blank; no item name was invented."
+  },
+  "11": {
+    "replace": [
+      [
+        "P U RC HAS E",
+        "PURCHASE"
+      ],
+      [
+        "Item Rate Amount",
+        "Item Quantity Rate Amount"
+      ]
+    ]
+  },
+  "12": {
+    "replace": [
+      [
+        "P U RC HAS E",
+        "PURCHASE"
+      ],
+      [
+        "Item Rate Amount",
+        "Item Quantity Rate Amount"
+      ]
+    ]
+  },
+  "13": {
+    "replace": [
+      [
+        "P U RC HAS E",
+        "PURCHASE"
+      ],
+      [
+        "Item Rate Amount",
+        "Item Quantity Rate Amount"
+      ]
+    ]
+  },
+  "14": {
+    "replace": [
+      [
+        "P U RC HAS E",
+        "PURCHASE"
+      ],
+      [
+        "Item Rate Amount",
+        "Item Quantity Rate Amount"
+      ]
+    ]
+  },
+  "15": {
+    "replace": [
+      [
+        "P U RC HAS E",
+        "PURCHASE"
+      ],
+      [
+        "Item Rate Amount",
+        "Item Quantity Rate Amount"
+      ]
+    ]
+  },
+  "16": {
+    "text": "HGT Company\nShop-12,\nPanjora, Gazipur,\nDhaka,\nBanglasesh\nPURCHASE ORDER\nNumber: PO - 16\nDate: 2026-09-07\nDue Date: 2026-10-20\nBILL TO\nXK Company\nShop-43,\nMirpue-10\nDhaka,\nBanglasesh\nDESCRIPTION QTY RATE AMOUNT\nWater Bottle 4 Rs.350.00 Rs.1652.00\nCeramic Mug 10 Rs.280.00 Rs.3304.00\nLED Desk Lamp 1 Rs.850.00 Rs.1003.00\nTaxable Amount: Rs.5050.00\nTotal: Rs.5959.00\nThank you for your business!\nPowered by HGT Company",
+    "notes": "Preserved printed spelling Banglasesh and Mirpue-10; did not repair amounts."
+  },
+  "17": {
+    "text": "HGT Company\nShop-12,\nPanjora, Gazipur,\nDhaka,\nBanglasesh\nPURCHASE ORDER\nNumber: PO - 18\nDate: 2026-09-18\nDue Date: 2026-10-16\nBILL TO\nXK Company\nShop-43,\nMirpue-10\nDhaka,\nBanglasesh\nDESCRIPTION QTY RATE AMOUNT\nWater Bottle 4 $3.50 $16.52\nWallet 10 $2.50 $29.50\nLED Desk Lamp 10 $8.61 $101.60\nCeramic Mug 1 $4.50 $5.31\nEarphones 1 $2.01 $2.37\nTaxable Amount: $131.61\nTotal: $155.30",
+    "notes": "Preserved printed spelling Banglasesh and Mirpue-10; did not repair amounts."
+  },
+  "18": {
+    "text": "HGT Company\nShop-12,\nPanjora, Gazipur,\nDhaka,\nBanglasesh\nPURCHASE ORDER\nNumber: PO - 19\nDate: 2026-09-18\nDue Date: 2026-10-16\nBILL TO\nXK Company\nShop-43,\nMirpue-10\nDhaka,\nBanglasesh\nDESCRIPTION QTY RATE AMOUNT\nWallet 10 $2.50 $29.50\nCeramic Mug 1 $4.50 $5.31\nEarphones 1 $2.01 $2.37\nTaxable Amount: $31.51\nTotal: $37.18\nThank you for your business!\nPowered by HGT Company",
+    "notes": "Preserved printed spelling Banglasesh and Mirpue-10; did not repair amounts."
+  },
+  "19": {
+    "text": "HGT Company\nShop-12,\nPanjora, Gazipur,\nDhaka,\nBanglasesh\nPURCHASE ORDER\nNumber: PO - 20\nDate: 2026-09-18\nDue Date: 2026-10-16\nBILL TO\nXK Company\nShop-43,\nMirpue-10\nDhaka,\nBanglasesh\nDESCRIPTION QTY RATE AMOUNT\nEarphones 1 $2.01 $2.37\nTaxable Amount: $2.01\nTotal: $2.37\nThank you for your business!\nPowered by HGT Company",
+    "notes": "Preserved printed spelling Banglasesh and Mirpue-10; did not repair amounts."
+  },
+  "20": {
+    "text": "DOT5\nInterior • Exterior • Architectural\n[illegible]\nPurchase Order\n1512\nDate: 03/05/25\nConcern Person: Engr. [illegible]\nMobile No: [illegible]\nShop Name: Mim Enterprise\nProject Name: GO DOTS NEW OFFICE\nSl.No Delivery Address: Name of Item Qty Unit Rate Remarks\n[illegible] 02 Ltr 690/- 1380/-\nDelivery Date\nDelivery Time\n1380/-\nPrepared by [signature]\n03/05/25\nRecommend by [signature]\n03.05.25\nChecked by [signature]\n03/05/25\nVerified by\nApproved by",
+    "uncertainties": [
+      "Small logo contact line, concern-person name, handwritten mobile number, and item name are not reliably legible.",
+      "Handwritten item spelling and monetary suffixes need a human check; visible best reading of total is 1380/-.",
+      "Project text GO DOTS NEW OFFICE is a best reading of handwriting."
+    ],
+    "notes": "Handwritten text was transcribed conservatively; signatures are marked rather than guessed."
+  },
+  "21": {
+    "text": "CoCo\n1 Spanish Latte 145.00\n1 Hot brewed Coffe 90.00\nTotal 235.00",
+    "uncertainties": [],
+    "notes": "Visually transcribed from the image, preserving printed spelling and numeric inconsistencies."
+  },
+  "22": {
+    "text": "[redacted]\n1x 36.000 [redacted] 36.000\nKimchi p\n1x 0.000 Rp0.000\nFre ice grentea\n***TOTAL [redacted] 36.000\nCASH Rp51.000\nCHANGE [redacted] 15.000\n[redacted]",
+    "uncertainties": [
+      "Pixelated/blurred source regions are marked [redacted]; their hidden text was not reconstructed."
+    ],
+    "notes": "Visually transcribed from the image, preserving printed spelling and numeric inconsistencies."
+  },
+  "23": {
+    "text": "[redacted]\n1 BLACK PEPPER MEATBALL 76,500\n1 QUARTO FORMANGGI PASTA 82,500\n1 GREEN TEA WITH CRUMBLE 56,000\n2 ORIGINAL BREWED TEA 46,000\nSUBTTL 261,000\nSVC CHG 6% 15,660\nPB1 10% 27,666\nTOTAL 304,326",
+    "uncertainties": [
+      "Pixelated/blurred source regions are marked [redacted]; their hidden text was not reconstructed."
+    ],
+    "notes": "Visually transcribed from the image, preserving printed spelling and numeric inconsistencies."
+  },
+  "24": {
+    "text": "[redacted]\n1 RB. COKLAT BAR 8,000\n1 RB. CREPES TUNA 9,000\n1 RB. SISIR PANDAN 7,500\nITEM:3 SUBTOTAL 24,500\nPCS 3 DUE 24,500\nCASH 50,000\nCHANGE 25,500\n[redacted]",
+    "uncertainties": [
+      "Pixelated/blurred source regions are marked [redacted]; their hidden text was not reconstructed."
+    ],
+    "notes": "Visually transcribed from the image, preserving printed spelling and numeric inconsistencies."
+  },
+  "25": {
+    "text": "[redacted]\nNATURAL\n[redacted]\nBUBUR UNGU 26,000\nDISC ITEM -30.000%\nAMOUNT -7,800\nSENDOK BEBEK 0\nWAJIK 7,000\nDISC ITEM -30.000%\nAMOUNT -2,100\nCENTIK MANIS 5,500\nDISC ITEM -30.000%\nAMOUNT -1,650\nPLASTIK SEDANG 0\nSUBTOTAL 26,950\nTOTAL 26,950\nCASH 26,950\n[redacted]",
+    "uncertainties": [
+      "Pixelated/blurred source regions are marked [redacted]; their hidden text was not reconstructed."
+    ],
+    "notes": "Visually transcribed from the image, preserving printed spelling and numeric inconsistencies."
+  },
+  "26": {
+    "text": "[redacted]\n1X S-Lemon Macchiato @21,000 21,000\nLess Ice\n50%\nPB1: 0\nSubtotal: 21,000\nTotal: 21,000\nCash: 21,000\n[redacted]\nCHANGE: 0\n[redacted]",
+    "uncertainties": [
+      "Pixelated/blurred source regions are marked [redacted]; their hidden text was not reconstructed."
+    ],
+    "notes": "Visually transcribed from the image, preserving printed spelling and numeric inconsistencies."
+  },
+  "27": {
+    "text": "[redacted]\n1001-Choco Bun\n[redacted] 22.000 x1 22.000\n1032-Double Cheddar\n[redacted] 26.000 x1 26.000\n6002-Plastic Bag Medium\n0 x1 [redacted] 0\nTotal Item: 3\nTotal.\n[redacted] 48.000\nDebet Card\n[redacted] 48.000\n[redacted]",
+    "uncertainties": [
+      "Pixelated/blurred source regions are marked [redacted]; their hidden text was not reconstructed."
+    ],
+    "notes": "Visually transcribed from the image, preserving printed spelling and numeric inconsistencies."
+  },
+  "28": {
+    "text": "[redacted]\nGONG GIBAB 1 20,000\nBO SSAM 1 320,000\nHAEMUL 1 85,000\nDENJANG\nJJIGAE\nMULNAENGMYO 1 85,000\nN\nSub Total 510,000\nService 35,700\nTax 54,255\nDiscount 0\nTOTAL 599,955\n[redacted]",
+    "uncertainties": [
+      "Pixelated/blurred source regions are marked [redacted]; their hidden text was not reconstructed."
+    ],
+    "notes": "Visually transcribed from the image, preserving printed spelling and numeric inconsistencies."
+  },
+  "29": {
+    "text": "[redacted]\nCHO MOUSSE 20,000\nGRAPE JELLY 13,000\nSUBTOTAL 30,000\nTAX 10% 3,000\nTL 33,000\nCASH 50,000\nCG 17,000",
+    "uncertainties": [
+      "Pixelated/blurred source regions are marked [redacted]; their hidden text was not reconstructed."
+    ],
+    "notes": "Visually transcribed from the image, preserving printed spelling and numeric inconsistencies."
+  },
+  "30": {
+    "text": "[redacted]\n1 CAPTAIN HOOK 75,000\nIZZY PINK ZIGZAG ---\n1 PIRATES TREASURE 75,000\nBILLY BROWN SMALL ---\n** KIDS MEAL 150,000\nSUBTTL 150,000\nService Charge 12,000\nTAX 16,200\nTOTAL 178,200",
+    "uncertainties": [
+      "Pixelated/blurred source regions are marked [redacted]; their hidden text was not reconstructed."
+    ],
+    "notes": "Visually transcribed from the image, preserving printed spelling and numeric inconsistencies."
+  },
+  "31": {
+    "text": "[redacted]\nPAKET DOSIRAK 3 1 25,975 25,975\nPAKET DOSIRAK 3\nICE SWEET JASMINE GREENTEA\nPAKET CHICKEN 3 3 35,000 105,000\nJAPCHE 1 25,000 25,000\nKOREAN LEMONADE 1 15,000 15,000\nKOREAN COLD TEA 1 9,000 9,000\nPAKET BULGOGI 3 1 45,000 45,000\nBANANA MLK+MATCHA PU 2 21,000 42,000\nKRN FRIED CHICKN HNY 1 25,000 25,000\nSubtotal 291,975\nServices 14,598\n[redacted]\nTax 30,657\nTotal 337,230\nTunai 350,000\nKembali 12,770",
+    "uncertainties": [
+      "Source has pixelated/blurred regions marked [redacted]; these cannot be recovered from the image."
+    ],
+    "notes": "Full visible receipt content reviewed; original spelling, language, and amounts preserved."
+  },
+  "32": {
+    "text": "[redacted]\nPuyo 6 (Package) 1x 70,000 70,000\nSilky Lychee 2x\nSilky Mango 1x\nSilky Cotton Candy 1x\nSilky Green Tea 1x\nSilky Chocolate 1x\nSub Total 70,000\nGRAND TOTAL 70,000\n[redacted]\n- [D] DEBIT EDC BCA 70,000\n[redacted]\nCHANGE 0\n[redacted]\nBarang yang [redacted]",
+    "uncertainties": [
+      "Source has pixelated/blurred regions marked [redacted]; these cannot be recovered from the image."
+    ],
+    "notes": "Full visible receipt content reviewed; original spelling, language, and amounts preserved."
+  },
+  "33": {
+    "text": "[redacted]\n1 UDG GR TLUR ASIN 165,000\n=*MEDIUM*=\n1 SAPO TH SEAFOOD 129,000\n=*MEDIUM*=\n1 CUMI GR JUNJAN 129,000\n=*MEDIUM*=\n1 BIHUN GORENG JJ 87,000\n=*MEDIUM*=\n1 OYONG 3 TELOR 84,000\n=*MEDIUM*=\n1 GURAME FILLET M 163,000\nASAM MANIS\n2 CHINESE TE 14,000 28,000\n2 CRYSANTNUM\n8 NASI PUTIH 10,000 80,000\n3 HOT TEA 12,000 36,000\n3 ICED TEA 12,000 36,000\nFOOD 757,000\nBEVERAGES 100,000\nOTHERS 80,000\nSUBTOTAL 937,000\nSERVICE CHARGE 56,220\nTax 10% 99,322\nDU 1,092,542",
+    "uncertainties": [
+      "Source has pixelated/blurred regions marked [redacted]; these cannot be recovered from the image."
+    ],
+    "notes": "Full visible receipt content reviewed; original spelling, language, and amounts preserved."
+  },
+  "34": {
+    "text": "[redacted]\n1 TWIST STRAWBERRY DONUT 10,000\n1 TLJ CROQUETTE 17,000\n1 POTATO PEPPER BAGEL 16,000\nTOTAL 43,000\nCASH 50,000\nCHANGE 7,000\n[redacted]",
+    "uncertainties": [
+      "Source has pixelated/blurred regions marked [redacted]; these cannot be recovered from the image."
+    ],
+    "notes": "Full visible receipt content reviewed; original spelling, language, and amounts preserved."
+  },
+  "35": {
+    "text": "[redacted]\n1 Seafood Tempura BBQ 40,000\n1 - Pedas sedikit 0\n1 Sweet Plum Potato* 29,000\nITEMS:2 69,000\nTotal......... 69,000\nPay Cash 80,000\nChange:11,000\n[redacted]",
+    "uncertainties": [
+      "Source has pixelated/blurred regions marked [redacted]; these cannot be recovered from the image."
+    ],
+    "notes": "Full visible receipt content reviewed; original spelling, language, and amounts preserved."
+  },
+  "36": {
+    "text": "[redacted]\nALMOND CHOCO CREAM CHEESE\n1 [redacted] 28,000 28,000\nSUB TOTAL 28,000\nGRAND TOTAL 28,000\nCASH IDR 50,000\nCHANGE DUE 22,000\n[redacted]",
+    "uncertainties": [
+      "Source has pixelated/blurred regions marked [redacted]; these cannot be recovered from the image."
+    ],
+    "notes": "Full visible receipt content reviewed; original spelling, language, and amounts preserved."
+  },
+  "37": {
+    "text": "[redacted]\n1 BBQ Chicken 41,000\n1 - Tidak Pedas 0\nITEMS:1 41,000\nTotal......... 41,000\nDEBIT BCA: 41,000\n[redacted]",
+    "uncertainties": [
+      "Source has pixelated/blurred regions marked [redacted]; these cannot be recovered from the image."
+    ],
+    "notes": "Full visible receipt content reviewed; original spelling, language, and amounts preserved."
+  },
+  "38": {
+    "text": "[redacted]\n1 A Chicken 21.000\n+Monster\n+A +Cheese\nSubtotal 21.000\nTotal 21.000\nCASH 21.000\nKembalian 0\n[redacted]",
+    "uncertainties": [
+      "Source has pixelated/blurred regions marked [redacted]; these cannot be recovered from the image."
+    ],
+    "notes": "Full visible receipt content reviewed; original spelling, language, and amounts preserved."
+  },
+  "39": {
+    "text": "[redacted]\n1 Bakpao telur asin 22,800\n1 Cai Mieo 15,800\n1 Caisim special 15,800\n1 Carsiupau Ayam 22,800\n1 Fish Glue 27,800\n1 Jamur Isi Ayam 32,800\n1 Jamur Kuping 21,800\n1 Kailan hongkong 15,800\n1 Kuah Kaldu Ayam\n1 Kue Macok 22,800\n1 Pangsit Special 27,800\n1 Sirloin Roll Enoki 34,800\n1 Sutake Kombinasi 31,800\n1 Tahu Jepang 10,800\n1 Tahu Sandwidh 26,800\n1 TOM YAM\n1 Udon 19,800\n2 Chines Tea Green Tea 21,600\n2 Tahu Isi Ayam 55,600\n5 Green tea Dingin 84,000\n7 Nasi Putih 68,600\n1 Bakso Ikan 25,800\nITEMS TOTAL 605,600\nPromo UOB 20% (100,000)\nSUBTOTAL 505,600\nServices 5% 25,280\nTAX 10% 53,088\nTOTAL 583,968\nBCA MASTER 583,968\n[redacted]",
+    "uncertainties": [
+      "Source has pixelated/blurred regions marked [redacted]; these cannot be recovered from the image.",
+      "Some item lines wrap and show no aligned amount; no missing amount was inferred. Item spellings Cai Mieo and Tahu Sandwidh follow the visible print."
+    ],
+    "notes": "Full visible receipt content reviewed; original spelling, language, and amounts preserved."
+  },
+  "40": {
+    "text": "GRADIENT CAFE\n1 Espresso (single shot) 90.00\n3 caramel Macchiato (16 oz) 510.00\nTOTAL 600.00",
+    "uncertainties": [],
+    "notes": "Full visible receipt content reviewed; original spelling, language, and amounts preserved."
+  },
+  "41": {
+    "text": "KOI'S LAUNDRY SHOP\n5 Curtains 750.00\n1 Comforter (king) 350.00\nIroning Service 100.00\nTOTAL 1,200.00"
+  },
+  "42": {
+    "text": "PUREWASH LAUNDRY EXPRESS\n3 Plushies (M) 300.00\n4 Towel (L) 240.00\nTOTAL 540.00"
+  },
+  "43": {
+    "text": "DIZ INDUSTRIAL MACHINERY TRADING\n228 Ilaya St., Burol, City of Calamba 4027, Laguna, Philippines\nPANGANIBAN, GLADYS C. - Prop.\nNON-VAT Reg. TIN: 411-344-556-00000\nSALES INVOICE\nSOLD TO: IRON WORKS\nDate: 10-31 2022\nTerms: 15 DAYS\nTIN:\nBusiness Style:\nAddress:\nOSCA/PWD ID No.:\nSC/PWD Signature:\nQTY. UNIT ARTICLES U/PRICE AMOUNT\n600 pcs PEGATEC FLAP DISC 4\" [crossed-out text] 55 33,000.00\n27 BUNDLES COTTON RUGS WHITE 115 3,105.00\nRECEIVED\nTotal Sales\nLess: SC/PWD-Discount\nTOTAL AMOUNT DUE 36,105.00\nNo. 0000028\n10 Bklts. (50x2) 000001-000500\nBIR Authority to Print No. 056AU20220000008084\nDate of ATP: August 19, 2022\n[illegible] ENTERPRISES\nVAT Reg. TIN: 178-095-715-00000\nBorja Subd., Purok 2, Parian, Calamba City, Laguna\nCell. No.: 0933-953-4989\nCashier/Authorized Representative [signature]\nPrinter's Accreditation No. [illegible]\nDate Issued: 03-02-20; Expiry Date: 03-01-25\n\"THIS DOCUMENT IS NOT VALID FOR CLAIMING INPUT TAXES\"",
+    "uncertainties": [
+      "Some handwritten strokes, crossed-out text, printer identity/accreditation details are not reliably legible; marked explicitly.",
+      "Handwritten dates and monetary suffixes should be independently checked. No missing year or unit price was inferred."
+    ],
+    "notes": "Transcribed visible printed labels and handwritten entries; blank form fields remain blank."
+  },
+  "44": {
+    "text": "DIZ INDUSTRIAL MACHINERY TRADING\n228 Ilaya St., Burol, City of Calamba 4027, Laguna, Philippines\nPANGANIBAN, GLADYS C. - Prop.\nNON-VAT Reg. TIN: 411-344-556-00000\nSALES INVOICE\nSOLD TO: IRON WORKS\nDate: 11/03 20[illegible]\nTerms: \nTIN:\nBusiness Style:\nAddress:\nOSCA/PWD ID No.:\nSC/PWD Signature:\nQTY. UNIT ARTICLES U/PRICE AMOUNT\n5 PCS MAXSELL GRINDER 28,000\nPAID\nTotal Sales\nLess: SC/PWD-Discount\nTOTAL AMOUNT DUE 28,000\nNo. 0000030\n10 Bklts. (50x2) 000001-000500\nBIR Authority to Print No. 056AU20220000008084\nDate of ATP: August 19, 2022\n[illegible] ENTERPRISES\nVAT Reg. TIN: 178-095-715-00000\nBorja Subd., Purok 2, Parian, Calamba City, Laguna\nCell. No.: 0933-953-4989\nCashier/Authorized Representative [signature]\nPrinter's Accreditation No. [illegible]\nDate Issued: 03-02-20; Expiry Date: 03-01-25\n\"THIS DOCUMENT IS NOT VALID FOR CLAIMING INPUT TAXES\"",
+    "uncertainties": [
+      "Some handwritten strokes, crossed-out text, printer identity/accreditation details are not reliably legible; marked explicitly.",
+      "Handwritten dates and monetary suffixes should be independently checked. No missing year or unit price was inferred."
+    ],
+    "notes": "Transcribed visible printed labels and handwritten entries; blank form fields remain blank."
+  },
+  "45": {
+    "text": "DIZ INDUSTRIAL MACHINERY TRADING\n228 Ilaya St., Burol, City of Calamba 4027, Laguna, Philippines\nPANGANIBAN, GLADYS C. - Prop.\nNON-VAT Reg. TIN: 411-344-556-00000\nSALES INVOICE\nSOLD TO: IRON WORKS\nDate: 11/12 2022\nTerms: \nTIN:\nBusiness Style:\nAddress:\nOSCA/PWD ID No.:\nSC/PWD Signature:\nQTY. UNIT ARTICLES U/PRICE AMOUNT\n20 bundles white rags 115 2,300.00\nPAID\nTotal Sales\nLess: SC/PWD-Discount\nTOTAL AMOUNT DUE 2,300.00\nNo. 0000033\n10 Bklts. (50x2) 000001-000500\nBIR Authority to Print No. 056AU20220000008084\nDate of ATP: August 19, 2022\n[illegible] ENTERPRISES\nVAT Reg. TIN: 178-095-715-00000\nBorja Subd., Purok 2, Parian, Calamba City, Laguna\nCell. No.: 0933-953-4989\nCashier/Authorized Representative [signature]\nPrinter's Accreditation No. [illegible]\nDate Issued: 03-02-20; Expiry Date: 03-01-25\n\"THIS DOCUMENT IS NOT VALID FOR CLAIMING INPUT TAXES\"",
+    "uncertainties": [
+      "Some handwritten strokes, crossed-out text, printer identity/accreditation details are not reliably legible; marked explicitly.",
+      "Handwritten dates and monetary suffixes should be independently checked. No missing year or unit price was inferred."
+    ],
+    "notes": "Transcribed visible printed labels and handwritten entries; blank form fields remain blank."
+  },
+  "46": {
+    "text": "DIZ INDUSTRIAL MACHINERY TRADING\n228 Ilaya St., Burol, City of Calamba 4027, Laguna, Philippines\nPANGANIBAN, GLADYS C. - Prop.\nNON-VAT Reg. TIN: 411-344-556-00000\nSALES INVOICE\nSOLD TO: IRON WORKS\nDate: 11/15 2022\nTerms: \nTIN:\nBusiness Style:\nAddress:\nOSCA/PWD ID No.:\nSC/PWD Signature:\nQTY. UNIT ARTICLES U/PRICE AMOUNT\n5 PAIRS SAFETY SHOES 6,000.00\nPAID\nTotal Sales\nLess: SC/PWD-Discount\nTOTAL AMOUNT DUE 6,000.00\nNo. 0000034\n10 Bklts. (50x2) 000001-000500\nBIR Authority to Print No. 056AU20220000008084\nDate of ATP: August 19, 2022\n[illegible] ENTERPRISES\nVAT Reg. TIN: 178-095-715-00000\nBorja Subd., Purok 2, Parian, Calamba City, Laguna\nCell. No.: 0933-953-4989\nCashier/Authorized Representative [signature]\nPrinter's Accreditation No. [illegible]\nDate Issued: 03-02-20; Expiry Date: 03-01-25\n\"THIS DOCUMENT IS NOT VALID FOR CLAIMING INPUT TAXES\"",
+    "uncertainties": [
+      "Some handwritten strokes, crossed-out text, printer identity/accreditation details are not reliably legible; marked explicitly.",
+      "Handwritten dates and monetary suffixes should be independently checked. No missing year or unit price was inferred."
+    ],
+    "notes": "Transcribed visible printed labels and handwritten entries; blank form fields remain blank."
+  },
+  "47": {
+    "text": "DIZ INDUSTRIAL MACHINERY TRADING\n228 Ilaya St., Burol, City of Calamba 4027, Laguna, Philippines\nPANGANIBAN, GLADYS C. - Prop.\nNON-VAT Reg. TIN: 411-344-556-00000\nSALES INVOICE\nSOLD TO: IRON WORKS\nDate: 11/19 20\nTerms: \nTIN:\nBusiness Style:\nAddress:\nOSCA/PWD ID No.:\nSC/PWD Signature:\nQTY. UNIT ARTICLES U/PRICE AMOUNT\n1000 PCS GRINDING DISC / POWER CRAFT 35,000.00\n\nTotal Sales\nLess: SC/PWD-Discount\nTOTAL AMOUNT DUE 35,000.00\nNo. 0000038\n10 Bklts. (50x2) 000001-000500\nBIR Authority to Print No. 056AU20220000008084\nDate of ATP: August 19, 2022\n[illegible] ENTERPRISES\nVAT Reg. TIN: 178-095-715-00000\nBorja Subd., Purok 2, Parian, Calamba City, Laguna\nCell. No.: 0933-953-4989\nCashier/Authorized Representative [signature]\nPrinter's Accreditation No. [illegible]\nDate Issued: 03-02-20; Expiry Date: 03-01-25\n\"THIS DOCUMENT IS NOT VALID FOR CLAIMING INPUT TAXES\"",
+    "uncertainties": [
+      "Some handwritten strokes, crossed-out text, printer identity/accreditation details are not reliably legible; marked explicitly.",
+      "Handwritten dates and monetary suffixes should be independently checked. No missing year or unit price was inferred."
+    ],
+    "notes": "Transcribed visible printed labels and handwritten entries; blank form fields remain blank."
+  },
+  "48": {
+    "text": "DIZ INDUSTRIAL MACHINERY TRADING\n228 Ilaya St., Burol, City of Calamba 4027, Laguna, Philippines\nPANGANIBAN, GLADYS C. - Prop.\nNON-VAT Reg. TIN: 411-344-556-00000\nSALES INVOICE\nSOLD TO: IRON WORKS\nDate: 9/16 2022\nTerms: 15 DAYS\nTIN:\nBusiness Style:\nAddress:\nOSCA/PWD ID No.:\nSC/PWD Signature:\nQTY. UNIT ARTICLES U/PRICE AMOUNT\n250 PCS POWER CRAFT GRINDING DISC 4\" 35 8,750.00\nP.O NO: 2022 22-066\nTotal Sales\nLess: SC/PWD-Discount\nTOTAL AMOUNT DUE 8,750.00\nNo. 0000008\n10 Bklts. (50x2) 000001-000500\nBIR Authority to Print No. 056AU20220000008084\nDate of ATP: August 19, 2022\nCashier/Authorized Representative [signature]\n[cut off]",
+    "uncertainties": [
+      "Quantity, handwritten PO number punctuation and date are best visual readings; lower print-shop footer is cut off in source."
+    ],
+    "notes": "Did not reconstruct footer from other similar invoices."
+  },
+  "49": {
+    "uncertainties": [],
+    "text": "DELIVERY CHALLAN\nYour Business Name\nChallan no.: DC-001\nDate: 2026-09-04\nPlace of supply: Maharashtra\nSELLER\nYour Business Name\nShop 12, Market Road, City — 400001\nCONSIGNEE\nCustomer Name\nVehicle no.: MH01AB1234\nPurpose: Job work\n# Description HSN/SAC Qty Rate Taxable GST %\n1 Item / service 9983 1.00 ₹1,000.00 ₹1,000.00 18%\nTaxable value ₹1,000.00\nCGST ₹90.00\nSGST ₹90.00\nGrand total ₹1,180.00\nAmount in words: One Thousand One Hundred Eighty Rupees Only\nNotes: Goods sent for the purpose stated above. Not a sale.",
+    "notes": "Original digital challan individually visually checked; table linearized."
+  },
+  "50": {
+    "uncertainties": [],
+    "text": "DELIVERY CHALLAN\nABC Company\nChallan no.: DC-004\nDate: 2026-09-04\nPlace of supply: Maharashtra\nSELLER\nABC Company\nShop 12, Market Road, City — 400001\nCONSIGNEE\nRajib\nHouse-56, Road-3, Maharashtra\nVehicle no.: MH01AB1234\nPurpose: Job work\n# Description HSN/SAC Qty Rate Taxable GST %\n1 Shoes 9087 15.00 ₹1,800.00 ₹27,000.00 15%\n2 Socks 3546 20.00 ₹200.00 ₹4,000.00 3%\nTaxable value ₹31,000.00\nCGST ₹2,085.00\nSGST ₹2,085.00\nGrand total ₹35,170.00\nAmount in words: Thirty Five Thousand One Hundred Seventy Rupees Only\nNotes: Goods sent for the purpose stated above. Not a sale.",
+    "notes": "Original digital challan individually visually checked; table linearized."
+  },
+  "51": {
+    "text": "DELIVERY CHALLAN\nABC Company\nChallan no. DC- 005\nDate 2026-09-04\nPlace of supply Maharashtra\nSELLER\nABC Company\nShop 12, Market Road, City — 400001\nCONSIGNEE\nHasna\nHouse- 56, Road- 3, Maharashtra\nVehicle no.: MH 01 AB 1234\nPurpose: Job work\n# Description HSN/SAC Qty Rate Taxable GST %\n1 Fan 9087 15.00 ₹3,000.00 ₹45,000.00 15%\n2 Purfume 3546 20.00 ₹450.00 ₹9,000.00 3%\n3 Light 1324 20.00 ₹800.00 ₹16,000.00 5%\nTaxable value ₹70,000.00\nCGST ₹3,910.00\nSGST ₹3,910.00\nGrand total ₹77,820.00\nAmount in words: Seventy Seven Thousand Eight Hundred Twenty Rupees Only\nNotes: Goods sent for the purpose stated above. Not a sale.",
+    "notes": "Visually checked all entries; retained printed spelling and numeric inconsistencies. Whitespace/table layout linearized."
+  },
+  "52": {
+    "text": "DELIVERY CHALLAN\nABC Company\nChallan no. DC- 006\nDate 2026-09-04\nPlace of supply Maharashtra\nSELLER\nABC Company\nShop 12, Market Road, City — 400001\nCONSIGNEE\nHasna\nHouse- 36, Road- 7, Maharashtra\nVehicle no.: MH 01 AB 1234\nPurpose: Job work\n# Description HSN/SAC Qty Rate Taxable GST %\n1 Ballpoint pen 9056 200.00 ₹20.00 ₹4,000.00 5%\n2 A4Notebook 3546 30.00 ₹120.00 ₹3,600.00 4%\nTaxable value ₹7,600.00\nCGST ₹172.00\nSGST ₹172.00\nGrand total ₹7,944.00\nAmount in words: Seven Thousand Nine Hundred Forty Four Rupees Only\nNotes: Goods sent for the purpose stated above. Not a sale.",
+    "notes": "Visually checked all entries; retained printed spelling and numeric inconsistencies. Whitespace/table layout linearized."
+  },
+  "53": {
+    "text": "DELIVERY CHALLAN\nABC Company\nChallan no. DC-007\nDate 2026-09-04\nPlace of supply Maharashtra\nSELLER\nABC Company\nShop 12, Market Road, City — 400001\nCONSIGNEE\nTanjina\nHouse- 36, Road- 7, Maharashtra\nVehicle no.: MH 01 AB 1234\nPurpose: Job work\n# Description HSN/SAC Qty Rate Taxable GST %\n1 Pencil Box 9056 100.00 ₹180.00 ₹18,000.00 5%\n2 Stapler 3541 500.00 ₹150.00 ₹75,000.00 6%\nTaxable value ₹93,000.00\nCGST ₹2,700.00\nSGST ₹2,700.00\nGrand total ₹98,400.00\nAmount in words: Ninety Eight Thousand Four Hundred Rupees Only\nNotes: Goods sent for the purpose stated above. Not a sale.",
+    "notes": "Visually checked all entries; retained printed spelling and numeric inconsistencies. Whitespace/table layout linearized."
+  },
+  "54": {
+    "text": "DELIVERY CHALLAN\nABC Company\nChallan no. DC-008\nDate 2026-09-04\nPlace of supply Kolkata\nSELLER\nABC Company\nShop 12, Market Road, City — 400001\nCONSIGNEE\nTahmina\nHouse- 76, Road- 34, Kolkata\nVehicle no.: MH 01 AB 1234\nPurpose: Job work\n# Description HSN/SAC Qty Rate Taxable GST %\n1 Pencil Box 9056 150.00 ₹180.00 ₹27,000.00 5%\n2 Stapler 3541 250.00 ₹150.00 ₹37,500.00 6%\n3 USB 1436 300.00 ₹550.00 ₹1,65,000.00 10%\nTaxable value ₹2,29,500.00\nCGST ₹10,050.00\nSGST ₹10,050.00\nGrand total ₹2,49,600.00\nAmount in words: Two Lakh Forty Nine Thousand Six Hundred Rupees Only\nNotes: Goods sent for the purpose stated above. Not a sale.",
+    "notes": "Visually checked all entries; retained printed spelling and numeric inconsistencies. Whitespace/table layout linearized."
+  },
+  "55": {
+    "text": "DELIVERY CHALLAN\nABC Company\nChallan no. DC-009\nDate 2026-09-04\nPlace of supply Kolkata\nSELLER\nABC Company\nShop 12, Market Road, City — 400001\nCONSIGNEE\nSojib\nHouse- 71, Road- 14, Kolkata\nVehicle no.: MH 01 AB 1234\nPurpose: Job work\n# Description HSN/SAC Qty Rate Taxable GST %\n1 Wireless Mouse 9056 150.00 ₹750.00 ₹1,12,500.00 20%\n2 Computer Keyboard 3541 250.00 ₹900.00 ₹2,25,000.00 6%\n3 USB 1436 300.00 ₹550.00 ₹1,65,000.00 10%\nTaxable value ₹5,02,500.00\nCGST ₹26,250.00\nSGST ₹26,250.00\nGrand total ₹5,55,000.00\nAmount in words: Five Lakh Fifty Five Thousand Rupees Only\nNotes: Goods sent for the purpose stated above. Not a sale.",
+    "notes": "Visually checked all entries; retained printed spelling and numeric inconsistencies. Whitespace/table layout linearized."
+  },
+  "56": {
+    "text": "DELIVERY CHALLAN\nABC Company\nChallan no. DC-010\nDate 2026-09-04\nPlace of supply Kolkata\nSELLER\nABC Company\nShop 12, Market Road, City — 400001\nCONSIGNEE\nUsha\nHouse- 72, Road- 24, Kolkata\nVehicle no.: MH 01 AB 1234\nPurpose: Job work\n# Description HSN/SAC Qty Rate Taxable GST %\n1 Wireless Mouse 9207 50.00 ₹750.00 ₹37,500.00 20%\n2 Computer Keyboard 3541 250.00 ₹900.00 ₹2,25,000.00 6%\n3 USB-C Cable 1436 500.00 ₹250.00 ₹1,25,000.00 5%\nTaxable value ₹3,87,500.00\nCGST ₹13,625.00\nSGST ₹13,625.00\nGrand total ₹4,14,750.00\nAmount in words: Four Lakh Fourteen Thousand Seven Hundred Fifty Rupees Only\nNotes: Goods sent for the purpose stated above. Not a sale.",
+    "notes": "Visually checked all entries; retained printed spelling and numeric inconsistencies. Whitespace/table layout linearized."
+  },
+  "57": {
+    "text": "DELIVERY CHALLAN\nABC Company\nChallan no. DC-011\nDate 2026-09-04\nPlace of supply Kolkata\nSELLER\nABC Company\nShop 12, Market Road, City — 400001\nCONSIGNEE\nFatiha\nHouse- 73, Road- 34, Kolkata\nVehicle no.: MH 01 AB 1234\nPurpose: Job work\n# Description HSN/SAC Qty Rate Taxable GST %\n1 Earphones 9207 30.00 ₹450.00 ₹13,500.00 20%\n2 Computer Keyboard 3541 20.00 ₹900.00 ₹18,000.00 6%\n3 USB-C Cable 1436 10.00 ₹250.00 ₹2,500.00 5%\n4 Water Bottle 8764 15.00 ₹350.00 ₹5,250.00 5%\nTaxable value ₹39,250.00\nCGST ₹2,083.75\nSGST ₹2,083.75\nGrand total ₹43,417.50\nAmount in words: Forty Three Thousand Four Hundred Seventeen Rupees and Fifty Paise Only\nNotes: Goods sent for the purpose stated above. Not a sale.",
+    "notes": "Visually checked all entries; retained printed spelling and numeric inconsistencies. Whitespace/table layout linearized."
+  },
+  "58": {
+    "text": "DELIVERY CHALLAN\nABC Company\nChallan no. DC-012\nDate 2026-09-04\nPlace of supply Kolkata\nSELLER\nABC Company\nShop 12, Market Road, City — 400001\nCONSIGNEE\nFalaq Islam\nHouse- 74, Road- 34, Kolkata\nVehicle no.: MH 01 AB 1234\nPurpose: Job work\n# Description HSN/SAC Qty Rate Taxable GST %\n1 Ceramic Mug 8207 2.00 ₹280.00 ₹560.00 2%\n2 Backpack 2541 2.00 ₹1,200.00 ₹2,400.00 5%\n3 Cotton T- Shirt 1437 15.00 ₹320.00 ₹4,800.00 4%\n4 Denim Jeans 8764 15.00 ₹1,200.00 ₹18,000.00 5%\nTaxable value ₹25,760.00\nCGST ₹611.60\nSGST ₹611.60\nGrand total ₹26,983.20\nAmount in words: Twenty Six Thousand Nine Hundred Eighty Three Rupees and Twenty Paise Only\nNotes: Goods sent for the purpose stated above. Not a sale.",
+    "notes": "Visually checked all entries; retained printed spelling and numeric inconsistencies. Whitespace/table layout linearized."
+  },
+  "59": {
+    "text": "DELIVERY CHALLAN\nABC Company\nChallan no. DC-013\nDate 2026-09-04\nPlace of supply Kolkata\nSELLER\nABC Company\nShop 12, Market Road, City — 400001\nCONSIGNEE\nDina Islam\nHouse- 64, Road- 35, Kolkata\nVehicle no.: MH 01 AB 1234\nPurpose: Job work\n# Description HSN/SAC Qty Rate Taxable GST %\n1 Cotton T- Shirt 1437 40.00 ₹320.00 ₹12,800.00 8%\n2 Denim Jeans 8764 20.00 ₹1,000.00 ₹20,000.00 10%\nTaxable value ₹32,800.00\nCGST ₹1,512.00\nSGST ₹1,512.00\nGrand total ₹35,824.00\nAmount in words: Thirty Five Thousand Eight Hundred Twenty Four Rupees Only\nNotes: Goods sent for the purpose stated above. Not a sale.",
+    "notes": "Visually checked all entries; retained printed spelling and numeric inconsistencies. Whitespace/table layout linearized."
+  },
+  "60": {
+    "text": "ORIGINAL FOR RECIPIENT\nDELIVERY CHALLAN\nABC Company\nChallan no. DC-014\nDate 2026-09-04\nPlace of supply Kolkata\nSELLER\nABC Company\nShop 12, Market Road, City — 400001\nCONSIGNEE\nUrmi Khatun\nHouse- 64, Road- 35, Kolkata\nVehicle no.: MH 01 AB 1234\nPurpose: Job work\n# Description HSN/SAC Qty Rate Taxable GST %\n1 Face Wash 1837 1.00 ₹320.00 ₹320.00 4%\n2 Shampoo 8864 1.00 ₹450.00 ₹450.00 5%\n3 Body lotion 8778 1.00 ₹500.00 ₹500.00 6%\n4 Toothpaste 9753 1.00 ₹180.00 ₹180.00 2%\nTaxable value ₹1,450.00\nCGST ₹34.45\nSGST ₹34.45\nGrand total ₹1,518.90\nAmount in words: One Thousand Five Hundred Eighteen Rupees and Ninety Paise Only\nNotes: Goods sent for the purpose stated above. Not a sale.",
+    "notes": "Visually checked all entries; retained printed spelling and numeric inconsistencies. Whitespace/table layout linearized."
+  },
+  "61": {
+    "text": "DELIVERY CHALLAN\nABC Company\nChallan no. DC-014\nDate 2026-09-04\nPlace of supply Kolkata\nSELLER\nABC Company\nShop 12, Market Road, City — 400001\nCONSIGNEE\nUrmi Khatun\nHouse- 64, Road- 35, Kolkata\nVehicle no.: MH 01 AB 1234\nPurpose: Job work\n# Description HSN/SAC Qty Rate Taxable GST %\n1 Face Wash 1837 1.00 ₹320.00 ₹320.00 4%\n2 Shampoo 8864 1.00 ₹450.00 ₹450.00 5%\n3 Body lotion 8778 1.00 ₹500.00 ₹500.00 6%\n4 Toothpaste 9753 1.00 ₹180.00 ₹180.00 2%\n5 Hand Wash 5487 2.00 ₹220.00 ₹440.00 8%\nTaxable value ₹1,890.00\nCGST ₹52.05\nSGST ₹52.05\nGrand total ₹1,994.10\nAmount in words: One Thousand Nine Hundred Ninety Four Rupees and Ten Paise Only\nNotes: Goods sent for the purpose stated above. Not a sale.",
+    "notes": "Visually checked all entries; retained printed spelling and numeric inconsistencies. Whitespace/table layout linearized."
+  },
+  "62": {
+    "text": "DELIVERY CHALLAN\nABC Company\nChallan no. DC-014\nDate 2026-09-04\nPlace of supply Kolkata\nSELLER\nABC Company\nShop 12, Market Road, City — 400001\nCONSIGNEE\nKhadiza Khatun\nHouse- 65, Road- 25, Kolkata\nVehicle no.: MH 01 AB 1234\nPurpose: Job work\n# Description HSN/SAC Qty Rate Taxable GST %\n1 Face Wash 1837 1.00 ₹320.00 ₹320.00 4%\n2 Shampoo 8864 1.00 ₹450.00 ₹450.00 5%\n3 Body lotion 8778 1.00 ₹500.00 ₹500.00 6%\n4 Toothpaste 9753 1.00 ₹180.00 ₹180.00 2%\n5 Hand Wash 5487 2.00 ₹220.00 ₹440.00 8%\n6 Biscuits 5423 10.00 ₹80.00 ₹800.00 3%\nTaxable value ₹2,690.00\nCGST ₹64.05\nSGST ₹64.05\nGrand total ₹2,818.10\nAmount in words: Two Thousand Eight Hundred Eighteen Rupees and Ten Paise Only\nNotes: Goods sent for the purpose stated above. Not a sale.",
+    "notes": "Visually checked all entries; retained printed spelling and numeric inconsistencies. Whitespace/table layout linearized."
+  },
+  "63": {
+    "text": "DELIVERY CHALLAN\nABC Company\nChallan no. DC-014\nDate 2026-09-04\nPlace of supply Kolkata\nSELLER\nABC Company\nShop 12, Market Road, City — 400001\nCONSIGNEE\nUrmi Khatun\nHouse- 64, Road- 35, Kolkata\nVehicle no.: MH 01 AB 1234\nPurpose: Job work\n# Description HSN/SAC Qty Rate Taxable GST %\n1 Face Wash 1837 1.00 ₹320.00 ₹320.00 4%\n2 Shampoo 8864 1.00 ₹450.00 ₹450.00 5%\n3 Body lotion 8778 1.00 ₹500.00 ₹500.00 6%\nTaxable value ₹1,270.00\nCGST ₹32.65\nSGST ₹32.65\nGrand total ₹1,335.30\nAmount in words: One Thousand Three Hundred Thirty Five Rupees and Thirty Paise Only\nNotes: Goods sent for the purpose stated above. Not a sale."
+  },
+  "64": {
+    "text": "Packing Slip\nOrder #1064\nSeptember 5, 2026\nFrom\nCrimson&Co\n07 South Bishil Road\n1216\nBangladesh\nShip to\n[redacted]\nOrder Details\nQty Item\n1 The Ascot Check Boxy Shirt - S",
+    "uncertainties": [
+      "Recipient details were blurred in the source and are not reconstructed."
+    ]
+  },
+  "65": {
+    "text": "Packing Slip\nOrder #1079\nSeptember 11, 2026\nFrom\nCrimson&Co\n07 South Bishil Road\n1216\nBangladesh\nShip to\n[redacted]\nOrder Details\nQty Item\n1 Heritage Horse Ribbed Tank Top - L\n1 Vintage-Style Contrast Ringer Tee - XL",
+    "uncertainties": [
+      "Recipient details were blurred in the source and are not reconstructed."
+    ]
+  },
+  "66": {
+    "text": "Packing Slip\nOrder #1087\nSeptember 14, 2026\nFrom\nCrimson&Co\n07 South Bishil Road\n1216\nBangladesh\nShip to\n[redacted]\nOrder Details\nQty Item\n1 The Full Kit - 3 Piece Set - M / 34 / M",
+    "uncertainties": [
+      "Recipient details were blurred in the source and are not reconstructed."
+    ]
+  },
+  "67": {
+    "text": "Packing Slip\nOrder #1094\nSeptember 16, 2026\nFrom\nCrimson&Co\n07 South Bishil Road\n1216\nBangladesh\nShip to\n[redacted]\nOrder Details\nQty Item\n1 Vintage-Style Contrast Ringer Tee - XL\n1 Natural Raw Ecru Denim Jeans - 34",
+    "uncertainties": [
+      "Recipient details were blurred in the source and are not reconstructed."
+    ]
+  },
+  "68": {
+    "text": "Packing Slip\nOrder #1111\nOctober 1, 2026\nFrom\nCrimson&Co\n07 South Bishil Road\n1216\nBangladesh\nShip to\n[redacted]\nOrder Details\nQty Item\n1 Premium Ribbed Tank Top - Heritage Edition - M\n1 Natural Raw 12-Ounce Ecru Heavy Denim Jeans - 32\n1 The Ascot Check Boxy Shirt - L",
+    "uncertainties": [
+      "Recipient details were blurred in the source and are not reconstructed."
+    ]
+  },
+  "69": {
+    "text": "CAFE PARISIEN LARCHMONT LLC\n242 N LARCHMONT BLVD\nLOS ANGELES, CA 90004\n(310) 815-8222\nDine In\nServer: Kimberly L.\nJan 24, 2019\nReceipt: YWG5\n10:29 AM\nTable: 36\nItem(s)\nCROISSANT AUX RAISINS $4.00\nCappucino $4.75\nSubtotal $8.75\nSales Tax (9.5%) $0.83\nTotal $9.58\nCustomer Copy"
+  },
+  "70": {
+    "text": "Subway#44969-0 Phone 626-585-9999\n625 S Fair Oaks Ave\nPasadena, CA, 91105\nServed by: 41 5/1/2019 2:25:37 pm\nTerm ID-Trans# 1/A-297424\nQty Size Item Price\n1 #SMS $11.99 Any 2 FtLong 11.99\n1 12\" -Steak & Chse Sub\n1 12\" -B.M.T. Sub\nSub Total 11.99\nSales Tax (10.25%) 1.23\nTotal (Eat In) 13.22\nCredit Card 13.22\nChange 0.00\nApproval No: 051140\nReference No: 912121113552\nCard Issuer: Visa\nAccount No: ************0002\nAcquired: Contact_EMV\nAmount: $13.22\nApplication: CHASE VISA\nAID: A0000000031010\nTVR: 0080008000\nTSI: E800\nDate/Time: 5/1/2019 2:25:37 PM\nCUSTOMER COPY",
+    "uncertainties": [
+      "Phone, payment identifiers, and literal masked-character count are best readings of a low-resolution image; independently check if exact character scoring is required."
+    ]
+  },
+  "71": {
+    "text": "the Golden Pear\nCafe\nEast Hampton, NY\n(631) 329-1600\nFax (631) 329-1648\nwww.goldenpearcafe.com\nDate: Aug06'15 11:01AM\nCard Type: Visa\nAcct #: XXXXXXXXXXXX1779\nExp Date: XX/XX\nAuth Code: 08316C\nCheck: 9391\nCheck ID: CHINO\nServer: 5 Karina\nSubtotal: 22.70\nTip\nTotal\nSignature\nI agree to pay above total\naccording to my card issuer\nagreement.\nCustomer Copy",
+    "notes": "Tip, total and signature fields are blank in the source; no amounts were filled in."
+  },
+  "72": {
+    "text": "HEDLEYS\n640 N ROBERTSON BLVD\nWEST HOLLYWOOD CA 90069\n310-659-2009\nTerminal ID: 01528251 3430\n6/5/17 2:52 PM\nCREDIT SALE\nUID: 715615506682\nBATCH #: 554\nREF #: 9395\nAUTH #: 065231\nAMOUNT $41.45\nTIP $____________\nTOTAL $____________\nAPPROVED\nTC - C0347EEBBF2C362B\nCUSTOMER COPY",
+    "notes": "Blank tip/total lines preserved; part of the paper is covered/folded."
+  },
+  "73": {
+    "text": "Pita Pita - Lombard\n211 E Roosevelt Rd\nLombard, IL 60148\nPhone:\nhttp://eatpitapita.com/default/\nOrd #78\nTo Go\nEmpl:Mohammad H.\n5/4/2017 4:10 PM\n20 Mixed Meat Lunch 180.00\n1 Reg 12pc Falafel 6.50\n1 Reg 12pc Falafel 6.50\n1 Miscellaneous 20.00\nSubtotal 213.00\nTax 15.92\nTotal 228.92\nVisa 8414 Payment 228.92\nTip\nTotal\n*** Guest Copy ***\nJennifer P[occluded]",
+    "notes": "Visually checked; blank fields left blank. Printed masking is represented by [masked] where exact symbol count is not reliable.",
+    "uncertainties": [
+      "Bottom text after Jennifer P is obscured by paper/tape."
+    ]
+  },
+  "74": {
+    "text": "DUPLICATE\nFRANCO MANCA\nLONDON\nM:[masked]30925\nTID:[masked]2312 5409\nHANDSET:1\nAMERICAN EXPRESS\nAID: A000000025010801\nAMERICAN EXPRESS\n[masked]1002\nPAN SEQ NO. 00\nCONTACTLESS\nSALE\nAMOUNT £13.80\nTOTAL £13.80\nNO CARDHOLDER VERIFICATION\nThank You\n11/03/16 22:23\nAUTH CODE:47\nTXN 0734\nCUSTOMER COPY\nPLEASE RETAIN RECEIPT",
+    "notes": "Visually checked; blank fields left blank. Printed masking is represented by [masked] where exact symbol count is not reliable.",
+    "uncertainties": [
+      "Payment masking, small terminal/reference identifiers and character counts need a human audit for exact-character scoring."
+    ]
+  },
+  "75": {
+    "text": "25\n[signature]\nMitcheldean Garage\nNew Road\nMitcheldean\nGlos\nGL17 0BX\nM[masked]4558 T[masked]2628\nCUSTOMER COPY\nThis is not VAT receipt\nVisa\nAID:A0000000031010\nCARD:[masked]4152\nPAN Seq Nr :04\nICC SALE\nTOTAL £15.25\nCustomer PIN verified\nPlease retain receipt\nfor your records\nAuth Code: 009969\nT019082\n13/06/15 14:12 R7961\nThank You.",
+    "notes": "Visually checked; blank fields left blank. Printed masking is represented by [masked] where exact symbol count is not reliable.",
+    "uncertainties": [
+      "Payment masking, small terminal/reference identifiers and character counts need a human audit for exact-character scoring."
+    ]
+  },
+  "76": {
+    "text": "California Pizza Kitchen #240\n1200 Morris Turnpike\nShort Hills, NJ 07078\n(973) 379-3700\n04/21/2018 14:15:33\nCHASE VISA\nEntry Method: Chip\nCARD #: [masked][redacted]\nPURCHASE - APPROVED\nAUTH CODE:061781\nMode: Issuer\nAID: A0000000031010\nTVR: 0000008000\nIAD: 06010A03602002\nTSI: F800\nARC: 00\nMID: 369011\nTID: 001\nRRN: 101001\nSubTotal USD $ 15.00\nTip USD $ 2.00\nTotal USD $ 17.00\nSignature:\nCUSTOMER COPY\nTHANK YOU!",
+    "notes": "Visually checked; blank fields left blank. Printed masking is represented by [masked] where exact symbol count is not reliable.",
+    "uncertainties": [
+      "Payment masking, small terminal/reference identifiers and character counts need a human audit for exact-character scoring."
+    ]
+  },
+  "77": {
+    "text": "*** CREDIT CARD VOUCHER ***\nANY RESTAURANT\nANYWHERE\n(69) 69696969\nDATE: 02/02/2014\nTIME: 11:11\nCARD TYPE: MC\nACCT: XXXX XXXX XXXX 1111\nTRANS KEY: HYU8789798234\nAUTH CODE: 12345\nEXP DATE: XX/XX\nCHECK: 1111\nTABLE: 11/11\nSERVER: 34 MONIKA\nSubtotal: $1969.69\nGratuity:\nTotal:\nSignature:\nCustomer Copy",
+    "notes": "Visually checked; blank fields left blank. Printed masking is represented by [masked] where exact symbol count is not reliable.",
+    "uncertainties": []
+  },
+  "78": {
+    "text": "Welcome to Chick-fil-A\nInternational Speedway FSU #00866\nDaytona Beach, FL\n386-252-8232\nOperator: Gary Harris\nCUSTOMER COPY\n3/7/2016 11:01:44 AM\nDINE IN\nOrder Number: 3534366\n1 Meal-SpcySand 6.25\nSpcy Sand\nFries MD\nSwt Tea MD\nSub. Total: $6.25\nTax: $0.41\nTotal: $6.66\nChange $0.34\nNext Dollar $7.00\nRegister:7 Tran Seq No: 3534366\nCashier:Jordan\nIt was pleasure serving you!\nHave a wonderful day.\nLike us on FB facebook.com/chickfila866",
+    "notes": "Visually checked; blank fields left blank. Printed masking is represented by [masked] where exact symbol count is not reliable.",
+    "uncertainties": []
+  },
+  "79": {
+    "text": "Welcome to Chick-fil-A\nMt. Pleasant (#00854)\n(843) 881-6811\nOperator: Josh Malone\nCUSTOMER COPY\n7/9/2010 7:20:58 PM\nEAT IN\nOrder Number: 964660\n1 Meal-CGSand 4.64\n1 Promo Free (1.59)\n1 Promo Free (4.64)\n1 Dt Lmnde MD 1.59\nSub. Total: $0.00\nTax: $0.00\nTotal: $0.00\nDiscount Total: ($6.23)\nChange $0.00\nExact Dollar $0.00\nRegister:6 Tran Seq No: 964660\nCashier:John Denniso\nIt was our pleasure serving you!\nHave a wonderful day.",
+    "notes": "Visually checked; blank fields left blank. Printed masking is represented by [masked] where exact symbol count is not reliable.",
+    "uncertainties": []
+  },
+  "80": {
+    "text": "WELCOME TO\nVINELAND SHELL\nSHELL 57 542 995501\n8788 VINELAND RD S1E0733\nORLANDO FL 32821\nDescr. qty amount\n<CUSTOMER COPY>\nUNLD CR #07 4.251G 25.50\nSELF @ 5.999/G\nSub Total 25.50\nTax 0.00\nTOTAL 25.50\nCREDIT $ 25.50\nXXXX XXXX XXXX 7231 DISCOVER\nINVOICE: 444547\nAUTH #: 021698\nTHANKS,COME AGAIN\nREG# 0002 CSH# 012 DR# 01 TRAN# 26966\n03/21/16 19:43:54 ST# VINE1",
+    "notes": "Visually checked; blank fields left blank. Printed masking is represented by [masked] where exact symbol count is not reliable.",
+    "uncertainties": [
+      "Small store/terminal identifiers and quantity suffix G are best visual readings."
+    ]
+  },
+  "81": {
+    "text": "7-ELEVEN #15520 D2804\n52 BRENTWOOD BLVD\nSHERWOOD PARK AB T8A 2H6\nTEL (780) 467-2055\nTERM ID: K0474643\nBATCH#: 025\nSHIFT#: 001\nSale\nINV#: 000000025\nMCARD Chip\nSEQ#:025001001025\nApplication Label: MasterCard\nAID:A0000000041010\nTVR:00 00 00 80 00\nTSI:E8 00\n[masked]9581\nTotal:CAD$ 7.11\nAPPROVED 11033B\n001/00\n13-Feb-14 09:03:37\nCUSTOMER COPY\nTHANK YOU",
+    "notes": "Visually checked; blank fields left blank. Printed masking is represented by [masked] where exact symbol count is not reliable.",
+    "uncertainties": [
+      "Payment masking, small terminal/reference identifiers and character counts need a human audit for exact-character scoring.",
+      "Leading zero count in invoice number is a best visual reading."
+    ]
+  },
+  "82": {
+    "text": "MISTER HOTSHINE\nCAR WASH & LUBE CENTERS\nMister Car Wash 002/102\n1038 Gessner Rd\nHouston, TX 77055\n713-461-0541\n002-WCash2, 02/20/16, 04:39 PM\nShift 1, Empl 1539, Sale # 73583514882\n1 Final Touch 39.99\n1 Dissolve-All 20.00\n1 Lube Wash Coupon* -13.99\n(Lube Free Wash,Bal: 0)\nSubtotal 46.00\nSales Tax 0.00\nTotal 46.00\nAMEX x2526 46.00\n(Sale Appr # 344020:284179)\n(Merchant # 196026)\nCar# 630\nCustomer# DCN3468-TX",
+    "notes": "Visually checked; blank fields left blank. Printed masking is represented by [masked] where exact symbol count is not reliable.",
+    "uncertainties": []
+  },
+  "83": {
+    "text": "SERAPHINE KENSINGTON\nOLYMPIA HOTEL\nM:[masked]69171\nTID:[masked]3817 S2561\nSCH ID:MDSICDDEH1106\nHANDSET:1\nMASTERCARD DEBIT\nAID: A0000000041010\nDebit MasterCard\n[masked]8902\nPAN SEQ NO. 00\nICC\nPRE-AUTHORISATION\nAMOUNT £10.00\nPIN VERIFIED\nThank You\n06/11/16 16:23\nAUTH CODE:B82400\nCUSTOMER COPY\nPLEASE RETAIN RECEIPT",
+    "notes": "Visually checked; blank fields left blank. Printed masking is represented by [masked] where exact symbol count is not reliable.",
+    "uncertainties": [
+      "Payment masking, small terminal/reference identifiers and character counts need a human audit for exact-character scoring."
+    ]
+  },
+  "84": {
+    "text": "Welcome to Chick-fil-A\nSaxon Boulevard FSU (#01125)\nOrange City, FL\n(386) 774-8625\nOperator: Jamey Vance\nCUSTOMER COPY\n5/6/2016 10:43:03 AM\nDINE IN\nOrder Number: 4233297\n1 Meal-SpcySand 6.25\nSpcy Sand\nFries MD\nSwt Tea MD\nSub. Total: $6.25\nTax: $0.41\nTotal: $6.66\nChange $0.34\nCash $7.00\nRegister:5 Tran Seq No: 4233297\nCashier:Christopher\nIt was our pleasure serving you!\nHave a wonderful day.",
+    "notes": "Visually checked; blank fields left blank. Printed masking is represented by [masked] where exact symbol count is not reliable.",
+    "uncertainties": []
+  },
+  "85": {
+    "text": "[cut off]\n[illegible] Baseline Ave\nFontana, CA 92336\n(909) 483-2230\nTbl: 31 Gst: 2 Srvr: Amber\nDate: 02-15-2015 9:03pm 692.0015.00174\n1 Bud Light 22 5.20\n1 Pick 3 9.99\nLoaded Skins\nMozz Stix\nHot Wings\n1 6oz Sirloin/Rib 24.99\nFries\nSalad\n1 6oz Sir/MES Chx 24.98\nMac and Cheese\nLoaded Mashed\n1 Straw Lemonade 3.99\nSub-Total: 69.15\nTax: 5.54\nTotal Due: 74.69\nDuplicate # 1\nPBR on Draft $1 pints & $5 Pitchers!!\nMONDAY and TUESDAY's",
+    "uncertainties": [
+      "Restaurant name is cropped out; street number and small header identifiers are not reliably readable.",
+      "Very faint print; food abbreviations and capitalization are best readings."
+    ]
+  },
+  "86": {
+    "text": "Walmart\nSave money. Live better.\nMANAGER GREG BROWN\n(936) 788-5400\nWAL-MART STORE # 400\nCONROE, TX\nST# 0400 OP# 00007298 TE# 91 TR# 07395\nMERCHANT# 439900590000400\nVISA\n*** CREDIT ISSUED ***\nGENERAL MDSE TOTAL 5.00-\nAPPROVAL # REFUND\nTERMINAL # WMT00000001\nLayaway is back for Electronics,\nToys, and Jewelry. 10/17/11-12/16/11\n10/13/11 14:03:10\n***CUSTOMER COPY***"
+  },
+  "87": {
+    "notes": "Photograph visually inspected; visible content matches the checked digital counterpart. Reused its text after comparison.",
+    "text": "HGT Company\nShop-12,\nPanjora, Gazipur,\nDhaka,\nBanglasesh\nPURCHASE ORDER\nNumber: PO - 20\nDate: 2026-09-18\nDue Date: 2026-10-16\nBILL TO\nXK Company\nShop-43,\nMirpue-10\nDhaka,\nBanglasesh\nDESCRIPTION QTY RATE AMOUNT\nEarphones 1 $2.01 $2.37\nTaxable Amount: $2.01\nTotal: $2.37\nThank you for your business!\nPowered by HGT Company"
+  },
+  "88": {
+    "notes": "Photograph visually inspected; visible content matches the checked digital counterpart. Reused its text after comparison.",
+    "text": "Packing Slip\nOrder #1111\nOctober 1, 2026\nFrom\nCrimson&Co\n07 South Bishil Road\n1216\nBangladesh\nShip to\n[redacted]\nOrder Details\nQty Item\n1 Premium Ribbed Tank Top - Heritage Edition - M\n1 Natural Raw 12-Ounce Ecru Heavy Denim Jeans - 32\n1 The Ascot Check Boxy Shirt - L",
+    "uncertainties": [
+      "Recipient details were blurred in the source and are not reconstructed."
+    ]
+  },
+  "89": {
+    "notes": "Photograph visually inspected; visible content matches the checked digital counterpart. Reused its text after comparison.",
+    "text": "Packing Slip\nOrder #1094\nSeptember 16, 2026\nFrom\nCrimson&Co\n07 South Bishil Road\n1216\nBangladesh\nShip to\n[redacted]\nOrder Details\nQty Item\n1 Vintage-Style Contrast Ringer Tee - XL\n1 Natural Raw Ecru Denim Jeans - 34",
+    "uncertainties": [
+      "Recipient details were blurred in the source and are not reconstructed."
+    ]
+  },
+  "90": {
+    "notes": "Photograph visually inspected; visible content matches the checked digital counterpart. Reused its text after comparison.",
+    "text": "Packing Slip\nOrder #1079\nSeptember 11, 2026\nFrom\nCrimson&Co\n07 South Bishil Road\n1216\nBangladesh\nShip to\n[redacted]\nOrder Details\nQty Item\n1 Heritage Horse Ribbed Tank Top - L\n1 Vintage-Style Contrast Ringer Tee - XL",
+    "uncertainties": [
+      "Recipient details were blurred in the source and are not reconstructed."
+    ]
+  },
+  "91": {
+    "notes": "Photograph visually inspected; visible content matches the checked digital counterpart. Reused its text after comparison.",
+    "text": "Packing Slip\nOrder #1087\nSeptember 14, 2026\nFrom\nCrimson&Co\n07 South Bishil Road\n1216\nBangladesh\nShip to\n[redacted]\nOrder Details\nQty Item\n1 The Full Kit - 3 Piece Set - M / 34 / M",
+    "uncertainties": [
+      "Recipient details were blurred in the source and are not reconstructed."
+    ]
+  },
+  "92": {
+    "notes": "Photograph visually inspected; visible content matches the checked digital counterpart. Reused its text after comparison.",
+    "text": "Packing Slip\nOrder #1064\nSeptember 5, 2026\nFrom\nCrimson&Co\n07 South Bishil Road\n1216\nBangladesh\nShip to\n[redacted]\nOrder Details\nQty Item\n1 The Ascot Check Boxy Shirt - S",
+    "uncertainties": [
+      "Recipient details were blurred in the source and are not reconstructed."
+    ]
+  },
+  "93": {
+    "text": "From (buyer): Meghna Store, Badda, Dhaka.\nTo (supplier): Sonar Bangla Distributors.\nOrder No: ORD-9269\nOrder Date: 19/08/2026\nRequired By: 24/08/2026\nPlease supply the following goods:\nItem Qty Rate (Tk) Amount (Tk)\nToothpaste 100g 24 Tk 120 Tk 2,880\nAtta 2kg 24 Tk 130 Tk 3,120\nMiniket Rice 25kg 12 Tk 1,850 Tk 22,200\nBath Soap 100g 3 Tk 55 Tk 165\nTotal: Tk 28,365.\nAuthorized by: [signature]\nfor Meghna Store.",
+    "notes": "Handwritten/printed entries visually transcribed; signatures marked, not interpreted."
+  },
+  "94": {
+    "text": "Purchase Order\nOrder No: PO-8484\nOrder Date: 08/07/2026\nRequired By: 13/07/2026\nFrom (Buyer):\nHasan Brothers\nDhanmondi 27, Dhaka.\nTo (Supplier):\nSonar Bangla Distributors.\nPlease supply the following goods:\nItem Qty Rate (Tk) Amount (Tk)\nExercise Book 1 45 45\nHand Wash 200ml 20 140 2,800\nMiniket Rice 25kg 2 1,850 3,700\nBiscuits carton 24 720 17,280\nAtta 2kg 10 130 1,300\nTotal: Tk 25,125\nAuthorized by: [signature]\nFor Hasan Brothers.",
+    "notes": "Handwritten/printed entries visually transcribed; signatures marked, not interpreted."
+  },
+  "95": {
+    "text": "Meghna Store\nMirpur-10, Dhaka.\nOrder Slip\nTo: Surma Food Supply\nOrder No: ORD-2611\nOrder Date: 11/10/2026\nRequired By: 16/10/2026\nPlease supply the following goods:\nItem Qty Rate (Tk) Amount (Tk)\nExercise Book 12 45 540\nMustard Oil 1L 12 290 3,480\nToothpaste 100g 20 120 2,400\nTea 400g 12 240 2,880\nInstant Noodles 8-pack 10 160 1,600\nTotal: Tk 10,900\nAuthorized by: [signature]\nfor Meghna Store",
+    "notes": "Handwritten/printed entries visually transcribed; signatures marked, not interpreted."
+  },
+  "96": {
+    "text": "Order\nOrder No: ORD-1229\nOrder Date: 05/10/2026\nRequired By: 10/10/2026\nFrom: Al-Madina Traders\nBadda, Dhaka\nTo: Bengal Consumer Goods\nPlease supply the following goods:\nItem Qty Rate (Tk) Amount (Tk)\nExercise Book 12 45 540\nInstant Noodles 8-pack 2 160 320\nOnion 1kg 5 65 325\nSalt 1kg 12 42 504\nMilk Powder 500g 6 420 2,520\nTotal: Tk 4,209\nAuthorized by [signature]\nAl-Madina Traders",
+    "notes": "Handwritten/printed entries visually transcribed; signatures marked, not interpreted."
+  },
+  "97": {
+    "text": "From: Al-Madina Traders, Badda, Dhaka.\nTo: Dhaka Trade House.\nOrder No: ORD-9953.\nOrder Date: 04/07/2026.\nRequired By: 09/07/2026.\nPlease supply the following goods:\nItem Qty Rate (Tk) Amount (Tk)\nMiniket Rice 25kg 24 Tk 1,850 Tk 44,400\nOnion 1kg 20 Tk 65 Tk 1,300\nTotal: Tk 45,700.\nAuthorized by [signature]\nfor Al-Madina Traders."
+  },
+  "98": {
+    "text": "From: Jamuna Wholesale.\nTo: Rahim General Store, Mirpur-10, Dhaka.\nChallan No: DC-417.\nDate: 08/07/2026.\nSl Item Description Qty.\n1 Miniket Rice 25kg 5\n2 Milk Powder 500g 10\nReceived the above goods in good condition.\nReceived By: [signature]\nDelivered By:\nJamuna Wholesale",
+    "notes": "Signature marked rather than interpreted; delivered-by field is blank."
+  },
+  "99": {
+    "text": "Purchase Order\nP.O. No: PO-7880\nOrder Date: 13/09/2026\nSupplier:\nSonar Bangla Distributors.\nBill To:\nAl-Madina Traders,\nChashara, Narayanganj.\nShip To:\nAl-Madina Traders,\nChashara, Narayanganj.\nItem Qty Unit Price (Tk) Amount (Tk)\nToothpaste 100g 10 120 1,200\nOnion 1kg 24 65 1,560\nMilk Powder 500g 20 420 8,400\nSugar 1kg 12 135 1,620\nGrand Total: Tk 12,780\nAuthorized Signature"
+  },
+  "100": {
+    "text": "Purchase Order\nP.O. No: PO-1405\nOrder Date: 05/09/2026\nSupplier\nSonar Bangla Distributors\nBill To / Ship To\nBismillah Store,\nMohammadpur, Dhaka.\nItem Qty Unit Price (Tk) Amount (Tk)\nToothpaste 100g 6 120 720\nShampoo 340ml 2 450 900\nExercise Book 20 45 900\nSugar 1kg 20 135 2,700\nGrand Total: Tk 5,220\nAuthorized Signature"
+  },
+  "101": {
+    "text": "Order Form\nOrder No: ORD-3455\nOrder Date: 01/07/2026\nRequired By: 06/07/2026\nFrom:\nShapla Grocery\nMohammadpur, Dhaka.\nTo:\nSurma Food Supply.\nPlease supply the following goods:\nItem Qty Rate (Tk) Amount (Tk)\nBall Pen box 20 100 2,000\nInstant Noodles 8-pack 20 160 3,200\nHand Wash 200ml 12 140 1,680\nShampoo 340ml 10 450 4,500\nDetergent 500g 10 95 950\nTotal: Tk 12,330\nAuthorized by [signature]\nfor Shapla Grocery."
+  },
+  "102": {
+    "text": "Purchase Order\nP.O. No: PO-8226\nOrder Date: 26/10/2026\nSupplier:\nBengal Consumer Goods.\nBill To:\nShapla Grocery,\nSavar, Dhaka.\nShip To:\nShapla Grocery,\nSavar, Dhaka.\nItem Qty Unit Price (Tk) Amount (Tk)\nBath Soap 100g 20 Tk 55 Tk 1,100\nExercise Book 2 Tk 45 Tk 90\nGrand Total: Tk 1,190\nAuthorized Signature"
+  },
+  "103": {
+    "text": "Rahim General Store\nJatrabari, Dhaka.\nPurchase Order\nP.O. No: PO-5120\nOrder Date: 07/10/2026\nSupplier:\nTeesta Enterprise.\nBill To / Ship To:\nRahim General Store,\nJatrabari, Dhaka.\nItem Qty Unit Price (Tk) Amount (Tk)\nMiniket Rice 25kg 5 Tk 1,850 Tk 9,250\nSugar 1kg 2 Tk 135 Tk 270\nRed Lentils 1kg 12 Tk 110 Tk 1,320\nGrand Total: Tk 10,840\nAuthorized Signature"
+  },
+  "104": {
+    "text": "Suraiya Rahman\nPURCHASE ORDER\nPurchase Order # 7\nBill To: Billal Khan\nShip To: Rajib Hossain\nDate: Oct 9, 2026\nRequired By: Oct 10, 2026\nItem Quantity Rate Amount\nCeramic Mug 20 $2.80 $56.00\nLED Desk Lamp 10 $8.50 $85.00\nBackpack 5 $12.00 $60.00\nT-Shirt 10 $2.00 $20.00\nDenim Jeans 10 $15.00 $150.00\nSubtotal: $371.00\nTax (0.25%): $0.93\nTotal: $371.93",
+    "notes": "Compared photograph against visible digital counterpart, including all quantities."
+  },
+  "105": {
+    "notes": "Photograph visually checked against the matching printed content; no text outside its visible crop was added.",
+    "text": "HGT Company\nShop-12,\nPanjora, Gazipur,\nDhaka,\nBanglasesh\nPURCHASE ORDER\nNumber: PO - 16\nDate: 2026-09-07\nDue Date: 2026-10-20\nBILL TO\nXK Company\nShop-43,\nMirpue-10\nDhaka,\nBanglasesh\nDESCRIPTION QTY RATE AMOUNT\nWater Bottle 4 Rs.350.00 Rs.1652.00\nCeramic Mug 10 Rs.280.00 Rs.3304.00\nLED Desk Lamp 1 Rs.850.00 Rs.1003.00\nTaxable Amount: Rs.5050.00\nTotal: Rs.5959.00"
+  },
+  "106": {
+    "notes": "Photograph visually checked against the matching printed content; no text outside its visible crop was added.",
+    "text": "HGT Company\nShop-12,\nPanjora, Gazipur,\nDhaka,\nBanglasesh\nPURCHASE ORDER\nNumber: PO - 18\nDate: 2026-09-18\nDue Date: 2026-10-16\nBILL TO\nXK Company\nShop-43,\nMirpue-10\nDhaka,\nBanglasesh\nDESCRIPTION QTY RATE AMOUNT\nWater Bottle 4 $3.50 $16.52\nWallet 10 $2.50 $29.50\nLED Desk Lamp 10 $8.61 $101.60\nCeramic Mug 1 $4.50 $5.31\nEarphones 1 $2.01 $2.37\nTaxable Amount: $131.61\nTotal: $155.30"
+  },
+  "107": {
+    "notes": "Photograph visually checked against the matching printed content; no text outside its visible crop was added.",
+    "text": "HGT Company\nShop-12,\nPanjora, Gazipur,\nDhaka,\nBanglasesh\nPURCHASE ORDER\nNumber: PO - 19\nDate: 2026-09-18\nDue Date: 2026-10-16\nBILL TO\nXK Company\nShop-43,\nMirpue-10\nDhaka,\nBanglasesh\nDESCRIPTION QTY RATE AMOUNT\nWallet 10 $2.50 $29.50\nCeramic Mug 1 $4.50 $5.31\nEarphones 1 $2.01 $2.37\nTaxable Amount: $31.51\nTotal: $37.18"
+  },
+  "108": {
+    "notes": "Photograph visually checked against the matching printed content; no text outside its visible crop was added.",
+    "text": "DELIVERY CHALLAN\nABC Company\nChallan no. DC-014\nDate 2026-09-04\nPlace of supply Kolkata\nSELLER\nABC Company\nShop 12, Market Road, City — 400001\nCONSIGNEE\nUrmi Khatun\nHouse- 64, Road- 35, Kolkata\nVehicle no.: MH 01 AB 1234\nPurpose: Job work\n# Description HSN/SAC Qty Rate Taxable GST %\n1 Face Wash 1837 1.00 ₹320.00 ₹320.00 4%\n2 Shampoo 8864 1.00 ₹450.00 ₹450.00 5%\n3 Body lotion 8778 1.00 ₹500.00 ₹500.00 6%\nTaxable value ₹1,270.00\nCGST ₹32.65\nSGST ₹32.65\nGrand total ₹1,335.30\nAmount in words: One Thousand Three Hundred Thirty Five Rupees and Thirty Paise Only\nNotes: Goods sent for the purpose stated above. Not a sale."
+  },
+  "109": {
+    "notes": "Individually visually inspected photograph, including quantities, rates, totals and footer. Its visible content matches the reviewed digital form; reused checked text.",
+    "text": "DELIVERY CHALLAN\nABC Company\nChallan no. DC-014\nDate 2026-09-04\nPlace of supply Kolkata\nSELLER\nABC Company\nShop 12, Market Road, City — 400001\nCONSIGNEE\nKhadiza Khatun\nHouse- 65, Road- 25, Kolkata\nVehicle no.: MH 01 AB 1234\nPurpose: Job work\n# Description HSN/SAC Qty Rate Taxable GST %\n1 Face Wash 1837 1.00 ₹320.00 ₹320.00 4%\n2 Shampoo 8864 1.00 ₹450.00 ₹450.00 5%\n3 Body lotion 8778 1.00 ₹500.00 ₹500.00 6%\n4 Toothpaste 9753 1.00 ₹180.00 ₹180.00 2%\n5 Hand Wash 5487 2.00 ₹220.00 ₹440.00 8%\n6 Biscuits 5423 10.00 ₹80.00 ₹800.00 3%\nTaxable value ₹2,690.00\nCGST ₹64.05\nSGST ₹64.05\nGrand total ₹2,818.10\nAmount in words: Two Thousand Eight Hundred Eighteen Rupees and Ten Paise Only\nNotes: Goods sent for the purpose stated above. Not a sale."
+  },
+  "110": {
+    "notes": "Individually visually inspected photograph, including quantities, rates, totals and footer. Its visible content matches the reviewed digital form; reused checked text.",
+    "text": "DELIVERY CHALLAN\nABC Company\nChallan no. DC-014\nDate 2026-09-04\nPlace of supply Kolkata\nSELLER\nABC Company\nShop 12, Market Road, City — 400001\nCONSIGNEE\nUrmi Khatun\nHouse- 64, Road- 35, Kolkata\nVehicle no.: MH 01 AB 1234\nPurpose: Job work\n# Description HSN/SAC Qty Rate Taxable GST %\n1 Face Wash 1837 1.00 ₹320.00 ₹320.00 4%\n2 Shampoo 8864 1.00 ₹450.00 ₹450.00 5%\n3 Body lotion 8778 1.00 ₹500.00 ₹500.00 6%\n4 Toothpaste 9753 1.00 ₹180.00 ₹180.00 2%\n5 Hand Wash 5487 2.00 ₹220.00 ₹440.00 8%\nTaxable value ₹1,890.00\nCGST ₹52.05\nSGST ₹52.05\nGrand total ₹1,994.10\nAmount in words: One Thousand Nine Hundred Ninety Four Rupees and Ten Paise Only\nNotes: Goods sent for the purpose stated above. Not a sale."
+  },
+  "111": {
+    "notes": "Individually visually inspected photograph, including quantities, rates, totals and footer. Its visible content matches the reviewed digital form; reused checked text.",
+    "text": "ORIGINAL FOR RECIPIENT\nDELIVERY CHALLAN\nABC Company\nChallan no. DC-014\nDate 2026-09-04\nPlace of supply Kolkata\nSELLER\nABC Company\nShop 12, Market Road, City — 400001\nCONSIGNEE\nUrmi Khatun\nHouse- 64, Road- 35, Kolkata\nVehicle no.: MH 01 AB 1234\nPurpose: Job work\n# Description HSN/SAC Qty Rate Taxable GST %\n1 Face Wash 1837 1.00 ₹320.00 ₹320.00 4%\n2 Shampoo 8864 1.00 ₹450.00 ₹450.00 5%\n3 Body lotion 8778 1.00 ₹500.00 ₹500.00 6%\n4 Toothpaste 9753 1.00 ₹180.00 ₹180.00 2%\nTaxable value ₹1,450.00\nCGST ₹34.45\nSGST ₹34.45\nGrand total ₹1,518.90\nAmount in words: One Thousand Five Hundred Eighteen Rupees and Ninety Paise Only\nNotes: Goods sent for the purpose stated above. Not a sale."
+  },
+  "112": {
+    "notes": "Individually visually inspected photograph, including quantities, rates, totals and footer. Its visible content matches the reviewed digital form; reused checked text.",
+    "text": "DELIVERY CHALLAN\nABC Company\nChallan no. DC-013\nDate 2026-09-04\nPlace of supply Kolkata\nSELLER\nABC Company\nShop 12, Market Road, City — 400001\nCONSIGNEE\nDina Islam\nHouse- 64, Road- 35, Kolkata\nVehicle no.: MH 01 AB 1234\nPurpose: Job work\n# Description HSN/SAC Qty Rate Taxable GST %\n1 Cotton T- Shirt 1437 40.00 ₹320.00 ₹12,800.00 8%\n2 Denim Jeans 8764 20.00 ₹1,000.00 ₹20,000.00 10%\nTaxable value ₹32,800.00\nCGST ₹1,512.00\nSGST ₹1,512.00\nGrand total ₹35,824.00\nAmount in words: Thirty Five Thousand Eight Hundred Twenty Four Rupees Only\nNotes: Goods sent for the purpose stated above. Not a sale."
+  },
+  "113": {
+    "notes": "Individually visually inspected photograph, including quantities, rates, totals and footer. Its visible content matches the reviewed digital form; reused checked text.",
+    "text": "DELIVERY CHALLAN\nABC Company\nChallan no. DC-012\nDate 2026-09-04\nPlace of supply Kolkata\nSELLER\nABC Company\nShop 12, Market Road, City — 400001\nCONSIGNEE\nFalaq Islam\nHouse- 74, Road- 34, Kolkata\nVehicle no.: MH 01 AB 1234\nPurpose: Job work\n# Description HSN/SAC Qty Rate Taxable GST %\n1 Ceramic Mug 8207 2.00 ₹280.00 ₹560.00 2%\n2 Backpack 2541 2.00 ₹1,200.00 ₹2,400.00 5%\n3 Cotton T- Shirt 1437 15.00 ₹320.00 ₹4,800.00 4%\n4 Denim Jeans 8764 15.00 ₹1,200.00 ₹18,000.00 5%\nTaxable value ₹25,760.00\nCGST ₹611.60\nSGST ₹611.60\nGrand total ₹26,983.20\nAmount in words: Twenty Six Thousand Nine Hundred Eighty Three Rupees and Twenty Paise Only\nNotes: Goods sent for the purpose stated above. Not a sale."
+  },
+  "114": {
+    "notes": "Individually visually inspected photograph, including quantities, rates, totals and footer. Its visible content matches the reviewed digital form; reused checked text.",
+    "text": "DELIVERY CHALLAN\nABC Company\nChallan no. DC-011\nDate 2026-09-04\nPlace of supply Kolkata\nSELLER\nABC Company\nShop 12, Market Road, City — 400001\nCONSIGNEE\nFatiha\nHouse- 73, Road- 34, Kolkata\nVehicle no.: MH 01 AB 1234\nPurpose: Job work\n# Description HSN/SAC Qty Rate Taxable GST %\n1 Earphones 9207 30.00 ₹450.00 ₹13,500.00 20%\n2 Computer Keyboard 3541 20.00 ₹900.00 ₹18,000.00 6%\n3 USB-C Cable 1436 10.00 ₹250.00 ₹2,500.00 5%\n4 Water Bottle 8764 15.00 ₹350.00 ₹5,250.00 5%\nTaxable value ₹39,250.00\nCGST ₹2,083.75\nSGST ₹2,083.75\nGrand total ₹43,417.50\nAmount in words: Forty Three Thousand Four Hundred Seventeen Rupees and Fifty Paise Only\nNotes: Goods sent for the purpose stated above. Not a sale."
+  },
+  "115": {
+    "notes": "Individually visually inspected photograph, including quantities, rates, totals and footer. Its visible content matches the reviewed digital form; reused checked text.",
+    "text": "DELIVERY CHALLAN\nABC Company\nChallan no. DC-010\nDate 2026-09-04\nPlace of supply Kolkata\nSELLER\nABC Company\nShop 12, Market Road, City — 400001\nCONSIGNEE\nUsha\nHouse- 72, Road- 24, Kolkata\nVehicle no.: MH 01 AB 1234\nPurpose: Job work\n# Description HSN/SAC Qty Rate Taxable GST %\n1 Wireless Mouse 9207 50.00 ₹750.00 ₹37,500.00 20%\n2 Computer Keyboard 3541 250.00 ₹900.00 ₹2,25,000.00 6%\n3 USB-C Cable 1436 500.00 ₹250.00 ₹1,25,000.00 5%\nTaxable value ₹3,87,500.00\nCGST ₹13,625.00\nSGST ₹13,625.00\nGrand total ₹4,14,750.00\nAmount in words: Four Lakh Fourteen Thousand Seven Hundred Fifty Rupees Only\nNotes: Goods sent for the purpose stated above. Not a sale."
+  },
+  "116": {
+    "notes": "Individually visually inspected photograph, including quantities, rates, totals and footer. Its visible content matches the reviewed digital form; reused checked text.",
+    "text": "DELIVERY CHALLAN\nABC Company\nChallan no. DC-009\nDate 2026-09-04\nPlace of supply Kolkata\nSELLER\nABC Company\nShop 12, Market Road, City — 400001\nCONSIGNEE\nSojib\nHouse- 71, Road- 14, Kolkata\nVehicle no.: MH 01 AB 1234\nPurpose: Job work\n# Description HSN/SAC Qty Rate Taxable GST %\n1 Wireless Mouse 9056 150.00 ₹750.00 ₹1,12,500.00 20%\n2 Computer Keyboard 3541 250.00 ₹900.00 ₹2,25,000.00 6%\n3 USB 1436 300.00 ₹550.00 ₹1,65,000.00 10%\nTaxable value ₹5,02,500.00\nCGST ₹26,250.00\nSGST ₹26,250.00\nGrand total ₹5,55,000.00\nAmount in words: Five Lakh Fifty Five Thousand Rupees Only\nNotes: Goods sent for the purpose stated above. Not a sale."
+  },
+  "117": {
+    "notes": "Individually visually inspected photograph, including quantities, rates, totals and footer. Its visible content matches the reviewed digital form; reused checked text.",
+    "text": "DELIVERY CHALLAN\nABC Company\nChallan no. DC-008\nDate 2026-09-04\nPlace of supply Kolkata\nSELLER\nABC Company\nShop 12, Market Road, City — 400001\nCONSIGNEE\nTahmina\nHouse- 76, Road- 34, Kolkata\nVehicle no.: MH 01 AB 1234\nPurpose: Job work\n# Description HSN/SAC Qty Rate Taxable GST %\n1 Pencil Box 9056 150.00 ₹180.00 ₹27,000.00 5%\n2 Stapler 3541 250.00 ₹150.00 ₹37,500.00 6%\n3 USB 1436 300.00 ₹550.00 ₹1,65,000.00 10%\nTaxable value ₹2,29,500.00\nCGST ₹10,050.00\nSGST ₹10,050.00\nGrand total ₹2,49,600.00\nAmount in words: Two Lakh Forty Nine Thousand Six Hundred Rupees Only\nNotes: Goods sent for the purpose stated above. Not a sale."
+  },
+  "118": {
+    "notes": "Individually visually inspected photograph, including quantities, rates, totals and footer. Its visible content matches the reviewed digital form; reused checked text.",
+    "text": "DELIVERY CHALLAN\nABC Company\nChallan no. DC-007\nDate 2026-09-04\nPlace of supply Maharashtra\nSELLER\nABC Company\nShop 12, Market Road, City — 400001\nCONSIGNEE\nTanjina\nHouse- 36, Road- 7, Maharashtra\nVehicle no.: MH 01 AB 1234\nPurpose: Job work\n# Description HSN/SAC Qty Rate Taxable GST %\n1 Pencil Box 9056 100.00 ₹180.00 ₹18,000.00 5%\n2 Stapler 3541 500.00 ₹150.00 ₹75,000.00 6%\nTaxable value ₹93,000.00\nCGST ₹2,700.00\nSGST ₹2,700.00\nGrand total ₹98,400.00\nAmount in words: Ninety Eight Thousand Four Hundred Rupees Only\nNotes: Goods sent for the purpose stated above. Not a sale."
+  },
+  "119": {
+    "notes": "Individually visually inspected photograph, including quantities, rates, totals and footer. Its visible content matches the reviewed digital form; reused checked text.",
+    "text": "DELIVERY CHALLAN\nABC Company\nChallan no. DC- 006\nDate 2026-09-04\nPlace of supply Maharashtra\nSELLER\nABC Company\nShop 12, Market Road, City — 400001\nCONSIGNEE\nHasna\nHouse- 36, Road- 7, Maharashtra\nVehicle no.: MH 01 AB 1234\nPurpose: Job work\n# Description HSN/SAC Qty Rate Taxable GST %\n1 Ballpoint pen 9056 200.00 ₹20.00 ₹4,000.00 5%\n2 A4Notebook 3546 30.00 ₹120.00 ₹3,600.00 4%\nTaxable value ₹7,600.00\nCGST ₹172.00\nSGST ₹172.00\nGrand total ₹7,944.00\nAmount in words: Seven Thousand Nine Hundred Forty Four Rupees Only\nNotes: Goods sent for the purpose stated above. Not a sale."
+  },
+  "120": {
+    "notes": "Individually visually inspected photograph, including quantities, rates, totals and footer. Its visible content matches the reviewed digital form; reused checked text.",
+    "text": "DELIVERY CHALLAN\nABC Company\nChallan no. DC- 005\nDate 2026-09-04\nPlace of supply Maharashtra\nSELLER\nABC Company\nShop 12, Market Road, City — 400001\nCONSIGNEE\nHasna\nHouse- 56, Road- 3, Maharashtra\nVehicle no.: MH 01 AB 1234\nPurpose: Job work\n# Description HSN/SAC Qty Rate Taxable GST %\n1 Fan 9087 15.00 ₹3,000.00 ₹45,000.00 15%\n2 Purfume 3546 20.00 ₹450.00 ₹9,000.00 3%\n3 Light 1324 20.00 ₹800.00 ₹16,000.00 5%\nTaxable value ₹70,000.00\nCGST ₹3,910.00\nSGST ₹3,910.00\nGrand total ₹77,820.00\nAmount in words: Seventy Seven Thousand Eight Hundred Twenty Rupees Only\nNotes: Goods sent for the purpose stated above. Not a sale."
+  },
+  "121": {
+    "text": "DELIVERY CHALLAN\nABC Company\nChallan no.: DC-004\nDate: 2026-09-04\nPlace of supply: Maharashtra\nSELLER\nABC Company\nShop 12, Market Road, City — 400001\nCONSIGNEE\nRajib\nHouse-56, Road-3, Maharashtra\nVehicle no.: MH01AB1234\nPurpose: Job work\n# Description HSN/SAC Qty Rate Taxable GST %\n1 Shoes 9087 15.00 ₹1,800.00 ₹27,000.00 15%\n2 Socks 3546 20.00 ₹200.00 ₹4,000.00 3%\nTaxable value ₹31,000.00\nCGST ₹2,085.00\nSGST ₹2,085.00\nGrand total ₹35,170.00\nAmount in words: Thirty Five Thousand One Hundred Seventy Rupees Only\nNotes: Goods sent for the purpose stated above. Not a sale.",
+    "notes": "Individually visually reviewed photograph. Whitespace and table reading order normalized; signatures marked rather than inferred.",
+    "uncertainties": []
+  },
+  "122": {
+    "text": "DELIVERY CHALLAN\nYour Business Name\nChallan no.: DC-001\nDate: 2026-09-04\nPlace of supply: Maharashtra\nSELLER\nYour Business Name\nShop 12, Market Road, City — 400001\nCONSIGNEE\nCustomer Name\nVehicle no.: MH01AB1234\nPurpose: Job work\n# Description HSN/SAC Qty Rate Taxable GST %\n1 Item / service 9983 1.00 ₹1,000.00 ₹1,000.00 18%\nTaxable value ₹1,000.00\nCGST ₹90.00\nSGST ₹90.00\nGrand total ₹1,180.00\nAmount in words: One Thousand One Hundred Eighty Rupees Only\nNotes: Goods sent for the purpose stated above. Not a sale.",
+    "notes": "Individually visually reviewed photograph. Whitespace and table reading order normalized; signatures marked rather than inferred.",
+    "uncertainties": []
+  },
+  "123": {
+    "text": "Jamuna Wholesale\nDelivery Challan\nChallan No: DC-685\nDate: 16/10/2026\nFrom: Jamuna Wholesale\nTo: Hasan Brothers, Tongi, Gazipur.\nSl Item Description Qty.\n1 Sugar 1kg 1\n2 Soybean Oil 5L 20\n3 Toothpaste 100g 12\n4 Ball Pen box 6\n5 Miniket Rice 25kg 5\nReceived By: [signature]\nDelivered By: [signature]",
+    "notes": "Individually visually reviewed photograph. Whitespace and table reading order normalized; signatures marked rather than inferred.",
+    "uncertainties": []
+  },
+  "124": {
+    "text": "Delivery Challan\nChallan No: DC-660.\nDate: 22/07/2026.\nFrom: Dhaka Trade House.\nTo: Kashem Enterprise, Jatrabari, Dhaka.\nSl Item Description Qty.\n1 Atta 2kg 4\n2 Mineral Water 1.5L 10\n3 Exercise Book 24\nReceived By: [signature]\nDelivered By: [signature]\nDhaka Trade House",
+    "notes": "Individually visually reviewed photograph. Whitespace and table reading order normalized; signatures marked rather than inferred.",
+    "uncertainties": []
+  },
+  "125": {
+    "text": "Delivery Challan\nChallan No: DC-208\nDate: 13/07/2026\nFrom: Dhaka Trade House.\nTo: Green Leaf Mart, Dhanmondi 27, Dhaka.\nSl Item Description Qty.\n1 Sugar 1kg 24\n2 Milk Powder 500g 5\n3 Salt 1kg 20\n4 Atta 2kg 10\nReceived By: [signature]\nDelivered By: [signature]",
+    "notes": "Individually visually reviewed photograph. Whitespace and table reading order normalized; signatures marked rather than inferred.",
+    "uncertainties": []
+  },
+  "126": {
+    "text": "Surma Food Supply\nChallan\nChallan No: DC-968.\nDate: 27/07/2026.\nFrom: Surma Food Supply.\nTo: Meghna Store, Savar, Dhaka.\nSl Item Description Qty.\n1 Mustard Oil 1L 6\n2 Milk Powder 500g 20\n3 Detergent 500g 12\n4 Onion 1kg 12\n5 Salt 1kg 2\nReceived By: [signature]\nDelivered By:",
+    "notes": "Individually visually reviewed photograph. Whitespace and table reading order normalized; signatures marked rather than inferred.",
+    "uncertainties": []
+  },
+  "127": {
+    "text": "Delivery Challan\nChallan No: DC-264.\nDate: 26/08/2026.\nFrom: Dhaka Trade House.\nTo: Tazin Super Shop, Savar, Dhaka.\nSl Item Description Qty.\n1 Soybean Oil 5L 12\n2 Tea 400g 4\n3 Salt 1kg 12\n4 Hand Wash 200ml 1\n5 Exercise Book 3\nReceived By: [signature]\nDelivered By:",
+    "notes": "Individually visually reviewed photograph. Whitespace and table reading order normalized; signatures marked rather than inferred.",
+    "uncertainties": []
+  },
+  "128": {
+    "text": "Delivery Note\nFrom: Padma Distribution Ltd.\nTo: Meghna Store, Dhanmondi 27, Dhaka.\nChallan No: DC-460.\nDate: 12/08/2026.\nSl Item Description Qty.\n1 Biscuits carton 12\n2 Miniket Rice 25kg 6\n3 Sugar 1kg 10\nReceived By: [signature]\nDelivered By:",
+    "notes": "Individually visually reviewed photograph. Whitespace and table reading order normalized; signatures marked rather than inferred.",
+    "uncertainties": []
+  },
+  "129": {
+    "text": "Delivery Challan\nChallan No: DC-369.\nDate: 12/08/2026.\nFrom: Karnaphuli Traders.\nTo: Green Leaf Mart, Mohammadpur, Dhaka.\nSl Item Description Qty.\n1 [crossed out: Shampoo] Shampoo 340ml 20\n2 Instant Noodles 8-pack 10\n3 Milk Powder 500g 2\nReceived By: [signature]\nDelivered By: [signature]",
+    "notes": "Individually visually reviewed photograph. Whitespace and table reading order normalized; signatures marked rather than inferred.",
+    "uncertainties": []
+  },
+  "130": {
+    "text": "Teesta Enterprise\nDelivery Note\nChallan No: DC-362.\nDate: 06/09/2026.\nFrom: Teesta Enterprise.\nTo: Al-Madina Traders, Mohammadpur, Dhaka.\nSl Item Description Qty.\n1 Salt 1kg 2\n2 Red Lentils 1kg 20\n3 Soybean Oil 5L 6\n4 Toothpaste 100g 5\n5 Hand Wash 200ml 24\nReceived By: M. Hasan\n[signature]\nDelivered By:",
+    "notes": "Individually visually reviewed photograph. Whitespace and table reading order normalized; signatures marked rather than inferred.",
+    "uncertainties": []
+  },
+  "131": {
+    "text": "Karnaphuli Traders\nChallan\nChallan No: DC-198.\nDate: 04/09/2026.\nFrom: Karnaphuli Traders.\nTo: Bismillah Store, Mohammadpur, Dhaka.\nSl Item Description Qty.\n1 Red Lentils 1kg 24\n2 Instant Noodles 8-pack 4\n3 Ball Pen box 24\nReceived By: [signature]\nDelivered By:",
+    "notes": "Individually visually reviewed photograph. Whitespace and table reading order normalized; signatures marked rather than inferred.",
+    "uncertainties": []
+  },
+  "132": {
+    "text": "Bengal Consumer Goods\nCUSTOMER COPY\nInvoice\nInvoice No: INV-9335.\nDate: 13/08/2026.\nBill To / Customer: Ruposhi Bazar, Mirpur-10, Dhaka.\nItem Qty Rate (Tk) Amount (Tk)\nRed Lentils 1kg 4 Tk 110 Tk 440\nMiniket Rice 25kg 24 Tk 1,850 Tk 44,400\nBall Pen box 5 Tk 100 Tk 500\nTotal: Tk 45,340.\n[signature]\nAuthorised Signature",
+    "notes": "Individually visually reviewed photograph. Whitespace and table reading order normalized; signatures marked rather than inferred.",
+    "uncertainties": []
+  },
+  "133": {
+    "text": "Karnaphuli Traders\nInvoice\nBill To / Customer: Shapla Grocery, Savar, Dhaka.\nInvoice No: INV-6897.\nDate: 24/10/2026.\nItem Qty Rate (Tk) Amount (Tk)\nBath Soap 100g 1 Tk 55 Tk 55\nExercise Book 4 Tk 45 Tk 180\nHand Wash 200ml 12 Tk 140 Tk 1,680\nSoybean Oil 5L 1 Tk 960 Tk 960\nTotal: Tk 2,875.\nDUPLICATE\n[signature]\nAuthorised Signature",
+    "uncertainties": [],
+    "notes": "Individually visually reviewed photograph; table rows linearized, signatures marked."
+  },
+  "134": {
+    "text": "Surma Food Supply\nInvoice\nBill To / Customer: Bismillah Store, Tongi, Gazipur.\nInvoice No: INV-5865.\nDate: 24/07/2026.\nItem Qty Rate (Tk) Amount (Tk)\nRed Lentils 1kg 5 Tk 110 Tk 550\nToothpaste 100g 6 Tk 120 Tk 720\nExercise Book 1 Tk 45 Tk 45\nInstant Noodles 8-pack 10 Tk 160 Tk 1,600\nShampoo 340ml 1 Tk 450 Tk 450\nTotal: Tk 3,365.\n[signature]\nAuthorised Signature\nT. Sultana\nCUSTOMER COPY",
+    "uncertainties": [],
+    "notes": "Individually visually reviewed photograph; table rows linearized, signatures marked."
+  },
+  "135": {
+    "text": "Shop: Padma Distribution Ltd.\nInvoice No: INV-4532.\nDate: 13/09/2026.\nSales Invoice\nCustomer: Kashem Enterprise, Jatrabari, Dhaka.\nItem Qty Rate (Tk) Amount (Tk)\nRed Lentils 1kg 24 Tk 110 Tk 2,640\nBall Pen box 6 Tk 100 Tk 600\nTotal: Tk 3,240\nCUSTOMER COPY",
+    "uncertainties": [],
+    "notes": "Individually visually reviewed photograph; table rows linearized, signatures marked."
+  },
+  "136": {
+    "text": "Dhaka Trade House\nCash Memo\nBill To / Customer: Tazin Super Shop, Mohammadpur, Dhaka.\nInvoice No: INV-3519.\nDate: 06/10/2026.\nItem Qty Rate (Tk) Amount (Tk)\nBath Soap 100g 12 Tk 55 Tk 660\nTea 400g 12 Tk 240 Tk 2,880\nToothpaste 100g 20 Tk 120 Tk 2,400\nBall Pen box 12 Tk 100 Tk 1,200\nTotal: Tk 7,140\n[signature]\nAuthorised Signature\nCUSTOMER COPY",
+    "uncertainties": [],
+    "notes": "Individually visually reviewed photograph; table rows linearized, signatures marked."
+  },
+  "137": {
+    "text": "Karnaphuli Traders\nInvoice\nInvoice No: INV-9869.\nDate: 06/07/2026.\nBill To / Customer: Green Leaf Mart, Badda, Dhaka.\nItem Qty Rate (Tk) Amount (Tk)\nMiniket Rice 25kg 10 Tk 1,850 Tk 18,500\nMilk Powder 500g 10 Tk 420 Tk 4,200\nAtta 2kg 10 Tk 130 Tk 1,300\nToothpaste 100g 4 Tk 120 Tk 480\nTotal: Tk 24,480.\nAuthorised Signature\n[signature]\nCUSTOMER COPY",
+    "uncertainties": [],
+    "notes": "Individually visually reviewed photograph; table rows linearized, signatures marked."
+  },
+  "138": {
+    "text": "Karnaphuli Traders\nCUSTOMER COPY\nInvoice\nInvoice No: INV-3937.\nDate: 21/07/2026.\nBill To / Customer: Bismillah Store, Tongi, Gazipur.\nItem Qty Rate (Tk) Amount (Tk)\nAtta 2kg 5 Tk 130 Tk 650\nBiscuits carton 20 Tk 720 Tk 14,400\nMiniket Rice 25kg 12 Tk 1,850 Tk 22,200\nBall Pen box 10 Tk 100 Tk 1,000\nTotal: Tk 38,250\n[signature]\nAuthorised Signature",
+    "uncertainties": [],
+    "notes": "Individually visually reviewed photograph; table rows linearized, signatures marked."
+  },
+  "139": {
+    "text": "Jamuna Wholesale\nCash Memo\nOFFICE COPY\nBill To / Customer: Nabil Departmental Store, Uttara Sector 7, Dhaka.\nInvoice No: INV-9562.\nDate: 02/08/2026.\nItem Qty Rate (Tk) Amount (Tk)\nMineral Water 1.5L 4 Tk 30 Tk 120\nMiniket Rice 25kg 20 Tk 1,850 Tk 37,000\nBall Pen box 1 Tk 100 Tk 100\nBath Soap 100g 2 Tk 55 Tk 110\nTotal: Tk 37,330.\n[signature]\nAuthorised Signature",
+    "uncertainties": [],
+    "notes": "Individually visually reviewed photograph; table rows linearized, signatures marked."
+  },
+  "140": {
+    "text": "Jamuna Wholesale\nInvoice\nOFFICE COPY\nInvoice No: INV-9957.\nDate: 10/09/2026.\nBill To / Customer: Tazin Super Shop, Dhanmondi 27, Dhaka.\nItem Qty Rate (Tk) Amount (Tk)\nToothpaste 100g 10 Tk 120 Tk 1,200\nExercise Book 1 Tk 45 Tk 45\nTotal: Tk 1,245.\n[signature]\nAuthorised Signature",
+    "uncertainties": [],
+    "notes": "Individually visually reviewed photograph; table rows linearized, signatures marked."
+  }
+}

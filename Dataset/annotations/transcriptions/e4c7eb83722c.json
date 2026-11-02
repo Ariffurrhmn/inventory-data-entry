@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "e4c7eb83722c",
+  "source_image": {
+    "path": "Dataset/Customer_Copy/1176-receipt.jpg",
+    "sha256": "91193e0214ec1995209eea064db78507550e5ccd7abf834717e4d2b08d865247"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/e4c7eb83722c.jpg",
+    "sha256": "95786ca0cbfc968680f20019e0be9f3263aa37be92178b90f01c69e0531e092a"
+  },
+  "classification": {
+    "label": "customer_copy",
+    "split": "val"
+  },
+  "transcription": {
+    "full_text": "HEDLEYS\n640 N ROBERTSON BLVD\nWEST HOLLYWOOD CA 90069\n310-659-2009\nTerminal ID: 01528251 3430\n6/5/17 2:52 PM\nCREDIT SALE\nUID: 715615506682\nBATCH #: 554\nREF #: 9395\nAUTH #: 065231\nAMOUNT $41.45\nTIP $____________\nTOTAL $____________\nAPPROVED\nTC - C0347EEBBF2C362B\nCUSTOMER COPY",
+    "lines": [
+      "HEDLEYS",
+      "640 N ROBERTSON BLVD",
+      "WEST HOLLYWOOD CA 90069",
+      "310-659-2009",
+      "Terminal ID: 01528251 3430",
+      "6/5/17 2:52 PM",
+      "CREDIT SALE",
+      "UID: 715615506682",
+      "BATCH #: 554",
+      "REF #: 9395",
+      "AUTH #: 065231",
+      "AMOUNT $41.45",
+      "TIP $____________",
+      "TOTAL $____________",
+      "APPROVED",
+      "TC - C0347EEBBF2C362B",
+      "CUSTOMER COPY"
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [],
+    "notes": "Blank tip/total lines preserved; part of the paper is covered/folded."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/e4c7eb83722c.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

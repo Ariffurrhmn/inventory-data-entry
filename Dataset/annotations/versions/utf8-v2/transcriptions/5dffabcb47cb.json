@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "5dffabcb47cb",
+  "source_image": {
+    "path": "Dataset/Receipt/cord-train-0008.jpg",
+    "sha256": "059981236831c69a400fc98471fa4f4499e15e56567e2bec69d856c79dc73418"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/5dffabcb47cb.jpg",
+    "sha256": "e51375a245dde8dacc6e43ae9f83726a17363e9cc5cb5210e1c7ed5ab345e2c0"
+  },
+  "classification": {
+    "label": "receipt",
+    "split": "val"
+  },
+  "transcription": {
+    "full_text": "[redacted]\n1x 36.000 [redacted] 36.000\nKimchi p\n1x 0.000 Rp0.000\nFre ice grentea\n***TOTAL [redacted] 36.000\nCASH Rp51.000\nCHANGE [redacted] 15.000\n[redacted]",
+    "lines": [
+      "[redacted]",
+      "1x 36.000 [redacted] 36.000",
+      "Kimchi p",
+      "1x 0.000 Rp0.000",
+      "Fre ice grentea",
+      "***TOTAL [redacted] 36.000",
+      "CASH Rp51.000",
+      "CHANGE [redacted] 15.000",
+      "[redacted]"
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [
+      "Pixelated/blurred source regions are marked [redacted]; their hidden text was not reconstructed."
+    ],
+    "notes": "Visually transcribed from the image, preserving printed spelling and numeric inconsistencies."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/5dffabcb47cb.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "date": "2026-10-19T17:28:55.911990+00:00",
+  "visually_inspected": 10,
+  "saved": 10,
+  "text_corrected": 3,
+  "payment_status_flags": 2,
+  "human_verified_created": 0,
+  "reviewer_type": "ai",
+  "status": "needs_review",
+  "preexisting_reviews_preserved": 20,
+  "protected_sources_unchanged": 14,
+  "model_training": false,
+  "model_evaluation": false,
+  "results": [
+    {
+      "sample_id": "d6b7679bc0a8",
+      "result": "saved_ai_review",
+      "revision": 2,
+      "prior_draft_preserved": true,
+      "text_changed": false,
+      "payment_status_flag": true,
+      "split": "train"
+    },
+    {
+      "sample_id": "7bd460b8c269",
+      "result": "saved_ai_review",
+      "revision": 2,
+      "prior_draft_preserved": true,
+      "text_changed": true,
+      "payment_status_flag": false,
+      "split": "train"
+    },
+    {
+      "sample_id": "5564ab2d8b11",
+      "result": "saved_ai_review",
+      "revision": 2,
+      "prior_draft_preserved": true,
+      "text_changed": false,
+      "payment_status_flag": false,
+      "split": "test"
+    },
+    {
+      "sample_id": "fcac4e4559e8",
+      "result": "saved_ai_review",
+      "revision": 2,
+      "prior_draft_preserved": true,
+      "text_changed": true,
+      "payment_status_flag": true,
+      "split": "train"
+    },
+    {
+      "sample_id": "e24acf8b8294",
+      "result": "saved_ai_review",
+      "revision": 2,
+      "prior_draft_preserved": true,
+      "text_changed": false,
+      "payment_status_flag": false,
+      "split": "test"
+    },
+    {
+      "sample_id": "be13e587ee89",
+      "result": "saved_ai_review",
+      "revision": 2,
+      "prior_draft_preserved": true,
+      "text_changed": false,
+      "payment_status_flag": false,
+      "split": "test"
+    },
+    {
+      "sample_id": "c4e63d9e78fe",
+      "result": "saved_ai_review",
+      "revision": 2,
+      "prior_draft_preserved": true,
+      "text_changed": true,
+      "payment_status_flag": false,
+      "split": "test"
+    },
+    {
+      "sample_id": "dc0e8749153f",
+      "result": "saved_ai_review",
+      "revision": 2,
+      "prior_draft_preserved": true,
+      "text_changed": false,
+      "payment_status_flag": false,
+      "split": "test"
+    },
+    {
+      "sample_id": "99227d025be4",
+      "result": "saved_ai_review",
+      "revision": 2,
+      "prior_draft_preserved": true,
+      "text_changed": false,
+      "payment_status_flag": false,
+      "split": "train"
+    },
+    {
+      "sample_id": "684abec37a2d",
+      "result": "saved_ai_review",
+      "revision": 2,
+      "prior_draft_preserved": true,
+      "text_changed": false,
+      "payment_status_flag": false,
+      "split": "val"
+    }
+  ],
+  "original_uncertainty_fields_also_unchanged": true
+}

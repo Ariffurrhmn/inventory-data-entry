@@ -1,0 +1,57 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "12d89294d43a",
+  "source_image": {
+    "path": "Dataset/Dataset-2/Purchase order/IMG_0980.HEIC",
+    "sha256": "47d1c4ee713a9f236405cdd869ed36d6dbc9d70235d67cec96fe211d260f0565"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/12d89294d43a.jpg",
+    "sha256": "f9886a59e143bc70fab4a28f7ca898d1164e1374669b146f6f02c5b9792dafe3"
+  },
+  "classification": {
+    "label": "purchase_order",
+    "split": "val"
+  },
+  "transcription": {
+    "full_text": "Order Form\nOrder No: ORD-3455\nOrder Date: 01/07/2026\nRequired By: 06/07/2026\nFrom:\nShapla Grocery\nMohammadpur, Dhaka.\nTo:\nSurma Food Supply.\nPlease supply the following goods:\nItem Qty Rate (Tk) Amount (Tk)\nBall Pen box 20 100 2,000\nInstant Noodles 8-pack 20 160 3,200\nHand Wash 200ml 12 140 1,680\nShampoo 340ml 10 450 4,500\nDetergent 500g 10 95 950\nTotal: Tk 12,330\nAuthorized by [signature]\nfor Shapla Grocery.",
+    "lines": [
+      "Order Form",
+      "Order No: ORD-3455",
+      "Order Date: 01/07/2026",
+      "Required By: 06/07/2026",
+      "From:",
+      "Shapla Grocery",
+      "Mohammadpur, Dhaka.",
+      "To:",
+      "Surma Food Supply.",
+      "Please supply the following goods:",
+      "Item Qty Rate (Tk) Amount (Tk)",
+      "Ball Pen box 20 100 2,000",
+      "Instant Noodles 8-pack 20 160 3,200",
+      "Hand Wash 200ml 12 140 1,680",
+      "Shampoo 340ml 10 450 4,500",
+      "Detergent 500g 10 95 950",
+      "Total: Tk 12,330",
+      "Authorized by [signature]",
+      "for Shapla Grocery."
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [],
+    "notes": ""
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/12d89294d43a.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

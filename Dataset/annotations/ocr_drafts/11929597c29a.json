@@ -1,0 +1,564 @@
+{
+  "sample_id": "11929597c29a",
+  "source_path": "Dataset/Dataset-2/Purchase order/IMG_0984.HEIC",
+  "source_sha256": "36dd15e91976b65d27402e38de6ecf9dec6552152ad30e8399f5dfae2efb08a1",
+  "prepared_image_path": "data/images/11929597c29a.jpg",
+  "prepared_image_sha256": "c519e4f253a241e5aa910cc38a0ed9ce164554a5208b4260f270fac4a1523a7f",
+  "label": "purchase_order",
+  "split": "train",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "HGT Company\n\nShop-12\nPanjora, Gazipur,\nDhaka,\nBanglasesh\n\nBILLTO\n\nXK Company\nShop-43,\n\nMirpue-10\nDhaka,\nBanglasesh\n\nWater Bottle\n\nCeramic Mug\n\nPURCHASE ORDER\n\nNumber PO. 16\nDate 2026-00-07\nDue Date 2026-10-20\n\n4 Rs.350.00 Rs.1652.00\n10 Rs.280.00 Rs.3304.00\n1 Rs.850.00 Rs.1003.00\nTaxable Amount: Rs.5050.00\n\nTotal: Rs.5959.00\n",
+  "ocr_image_size": [
+    1418,
+    1800
+  ],
+  "words": [
+    {
+      "text": "HGT",
+      "confidence": 91.404366,
+      "box": [
+        78,
+        117,
+        85,
+        30
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Company",
+      "confidence": 96.437653,
+      "box": [
+        175,
+        118,
+        179,
+        36
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Shop-12",
+      "confidence": 91.163673,
+      "box": [
+        78,
+        175,
+        83,
+        17
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Panjora,",
+      "confidence": 90.401245,
+      "box": [
+        78,
+        208,
+        80,
+        21
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Gazipur,",
+      "confidence": 96.175713,
+      "box": [
+        167,
+        208,
+        82,
+        21
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Dhaka,",
+      "confidence": 96.504631,
+      "box": [
+        78,
+        243,
+        68,
+        17
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Banglasesh",
+      "confidence": 89.285324,
+      "box": [
+        76,
+        278,
+        117,
+        21
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "BILLTO",
+      "confidence": 89.496277,
+      "box": [
+        72,
+        545,
+        104,
+        21
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "XK",
+      "confidence": 95.921906,
+      "box": [
+        69,
+        602,
+        48,
+        26
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Company",
+      "confidence": 96.644356,
+      "box": [
+        127,
+        602,
+        152,
+        34
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Shop-43,",
+      "confidence": 88.554184,
+      "box": [
+        69,
+        658,
+        94,
+        22
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Mirpue-10",
+      "confidence": 73.028198,
+      "box": [
+        68,
+        694,
+        107,
+        22
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Dhaka,",
+      "confidence": 95.556129,
+      "box": [
+        68,
+        729,
+        73,
+        18
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Banglasesh",
+      "confidence": 88.894485,
+      "box": [
+        67,
+        766,
+        123,
+        22
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Water",
+      "confidence": 86.405289,
+      "box": [
+        101,
+        1051,
+        63,
+        36
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Bottle",
+      "confidence": 56.726803,
+      "box": [
+        176,
+        1051,
+        60,
+        36
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Ceramic",
+      "confidence": 95.734024,
+      "box": [
+        99,
+        1158,
+        91,
+        34
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Mug",
+      "confidence": 96.451622,
+      "box": [
+        201,
+        1158,
+        42,
+        34
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "PURCHASE",
+      "confidence": 95.873344,
+      "box": [
+        833,
+        116,
+        266,
+        36
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "ORDER",
+      "confidence": 96.243019,
+      "box": [
+        1116,
+        117,
+        169,
+        35
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Number",
+      "confidence": 94.454269,
+      "box": [
+        981,
+        210,
+        75,
+        15
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "PO.",
+      "confidence": 0.0,
+      "box": [
+        1219,
+        207,
+        43,
+        18
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "16",
+      "confidence": 0.0,
+      "box": [
+        1269,
+        208,
+        23,
+        16
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Date",
+      "confidence": 90.654259,
+      "box": [
+        1015,
+        246,
+        43,
+        31
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "2026-00-07",
+      "confidence": 77.422821,
+      "box": [
+        1185,
+        248,
+        110,
+        18
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Due",
+      "confidence": 95.27861,
+      "box": [
+        970,
+        293,
+        38,
+        17
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Date",
+      "confidence": 96.433746,
+      "box": [
+        1017,
+        293,
+        44,
+        16
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "2026-10-20",
+      "confidence": 79.580307,
+      "box": [
+        1187,
+        289,
+        112,
+        19
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "4",
+      "confidence": 95.779732,
+      "box": [
+        861,
+        1039,
+        13,
+        18
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Rs.350.00",
+      "confidence": 86.281143,
+      "box": [
+        965,
+        1027,
+        114,
+        38
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Rs.1652.00",
+      "confidence": 89.334183,
+      "box": [
+        1194,
+        1030,
+        119,
+        21
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "10",
+      "confidence": 96.302376,
+      "box": [
+        854,
+        1144,
+        24,
+        19
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Rs.280.00",
+      "confidence": 90.302048,
+      "box": [
+        970,
+        1132,
+        115,
+        37
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Rs.3304.00",
+      "confidence": 91.15654,
+      "box": [
+        1200,
+        1135,
+        119,
+        21
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "1",
+      "confidence": 96.451897,
+      "box": [
+        871,
+        1253,
+        8,
+        19
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Rs.850.00",
+      "confidence": 91.62458,
+      "box": [
+        975,
+        1241,
+        111,
+        38
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Rs.1003.00",
+      "confidence": 91.161064,
+      "box": [
+        1206,
+        1242,
+        120,
+        22
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Taxable",
+      "confidence": 96.578964,
+      "box": [
+        759,
+        1428,
+        90,
+        25
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "Amount:",
+      "confidence": 95.800972,
+      "box": [
+        857,
+        1426,
+        98,
+        23
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "Rs.5050.00",
+      "confidence": 91.402893,
+      "box": [
+        1199,
+        1409,
+        141,
+        36
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "Total:",
+      "confidence": 94.34079,
+      "box": [
+        761,
+        1529,
+        92,
+        67
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Rs.5959.00",
+      "confidence": 92.471832,
+      "box": [
+        1128,
+        1532,
+        215,
+        42
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 1
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "a162d6ad43e0",
+  "source_image": {
+    "path": "Dataset/Receipt/cord-train-0024.jpg",
+    "sha256": "1ba60999902d69d61d8691076a57b712846c034a9a333325a134f2b112a77a48"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/a162d6ad43e0.jpg",
+    "sha256": "c6530360b82a99a5e72ec4b0b3b49919fee78d109ef8fef9408fa7230ec58b68"
+  },
+  "classification": {
+    "label": "receipt",
+    "split": "train"
+  },
+  "transcription": {
+    "full_text": "[redacted]\n1001-Choco Bun\n[redacted] 22.000 x1 22.000\n1032-Double Cheddar\n[redacted] 26.000 x1 26.000\n6002-Plastic Bag Medium\n0 x1 [redacted] 0\nTotal Item: 3\nTotal.\n[redacted] 48.000\nDebet Card\n[redacted] 48.000\n[redacted]",
+    "lines": [
+      "[redacted]",
+      "1001-Choco Bun",
+      "[redacted] 22.000 x1 22.000",
+      "1032-Double Cheddar",
+      "[redacted] 26.000 x1 26.000",
+      "6002-Plastic Bag Medium",
+      "0 x1 [redacted] 0",
+      "Total Item: 3",
+      "Total.",
+      "[redacted] 48.000",
+      "Debet Card",
+      "[redacted] 48.000",
+      "[redacted]"
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [
+      "Pixelated/blurred source regions are marked [redacted]; their hidden text was not reconstructed."
+    ],
+    "notes": "Visually transcribed from the image, preserving printed spelling and numeric inconsistencies."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/a162d6ad43e0.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

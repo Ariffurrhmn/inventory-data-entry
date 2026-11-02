@@ -1,0 +1,577 @@
+{
+  "sample_id": "e8ad229bba0c",
+  "source_path": "Dataset/Purchase_Order/Screenshot 2026-10-03 180354.png",
+  "source_sha256": "d987dbbf21ce8eb9ce6f9b3ab647c84a5fa46221dd7b5fbe1ae6b47e5b66bfd7",
+  "prepared_image_path": "data/images/e8ad229bba0c.jpg",
+  "prepared_image_sha256": "9a48f682693cbfa6005f70710c75a550bc1b3a60afe589c14ea1722333416ca0",
+  "label": "purchase_order",
+  "split": "train",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "Date: 0 jos] 28\" oh\n\n~vpors Purchase Order A\nrad erdierre Mobile No: . 816/616 75D AE\n\nTENN: 14 ALRITE prise erverersssssosssoronsisihrmiciiis session\nProject Name: .. 23s. Jp fC pdt? QAP Como\n\nDelivery Address: Name of Item\n\nFaas by /\" Recommend by\nye\n\n",
+  "ocr_image_size": [
+    1400,
+    908
+  ],
+  "words": [
+    {
+      "text": "Date:",
+      "confidence": 82.950233,
+      "box": [
+        955,
+        34,
+        47,
+        23
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "0",
+      "confidence": 37.983643,
+      "box": [
+        1016,
+        33,
+        12,
+        24
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "jos]",
+      "confidence": 0.0,
+      "box": [
+        1047,
+        0,
+        83,
+        70
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "28\"",
+      "confidence": 0.0,
+      "box": [
+        1147,
+        0,
+        63,
+        74
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "oh",
+      "confidence": 21.540352,
+      "box": [
+        1156,
+        14,
+        32,
+        48
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "~vpors",
+      "confidence": 3.853775,
+      "box": [
+        0,
+        42,
+        200,
+        76
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Purchase",
+      "confidence": 79.011597,
+      "box": [
+        269,
+        41,
+        239,
+        66
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Order",
+      "confidence": 89.880081,
+      "box": [
+        533,
+        40,
+        147,
+        66
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "A",
+      "confidence": 0.0,
+      "box": [
+        956,
+        52,
+        439,
+        70
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "rad",
+      "confidence": 44.014988,
+      "box": [
+        60,
+        107,
+        31,
+        29
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "erdierre",
+      "confidence": 0.0,
+      "box": [
+        109,
+        107,
+        91,
+        29
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Mobile",
+      "confidence": 87.012718,
+      "box": [
+        958,
+        103,
+        45,
+        29
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "No:",
+      "confidence": 76.931679,
+      "box": [
+        1009,
+        103,
+        23,
+        29
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": ".",
+      "confidence": 76.931679,
+      "box": [
+        1037,
+        123,
+        2,
+        2
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "816/616",
+      "confidence": 45.447533,
+      "box": [
+        1037,
+        100,
+        140,
+        55
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "75D",
+      "confidence": 39.072189,
+      "box": [
+        1207,
+        114,
+        72,
+        34
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "AE",
+      "confidence": 24.322906,
+      "box": [
+        1294,
+        116,
+        40,
+        4
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "TENN:",
+      "confidence": 0.0,
+      "box": [
+        87,
+        159,
+        341,
+        42
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "14",
+      "confidence": 23.681465,
+      "box": [
+        335,
+        133,
+        30,
+        72
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "ALRITE",
+      "confidence": 0.0,
+      "box": [
+        395,
+        133,
+        138,
+        72
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "prise",
+      "confidence": 0.0,
+      "box": [
+        563,
+        133,
+        144,
+        72
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "erverersssssosssoronsisihrmiciiis",
+      "confidence": 0.0,
+      "box": [
+        719,
+        174,
+        404,
+        10
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "session",
+      "confidence": 0.0,
+      "box": [
+        1139,
+        167,
+        218,
+        10
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Project",
+      "confidence": 59.29895,
+      "box": [
+        205,
+        206,
+        70,
+        28
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Name:",
+      "confidence": 59.29895,
+      "box": [
+        286,
+        206,
+        56,
+        22
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "..",
+      "confidence": 60.938095,
+      "box": [
+        351,
+        225,
+        14,
+        3
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "23s.",
+      "confidence": 34.119637,
+      "box": [
+        387,
+        193,
+        51,
+        60
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Jp",
+      "confidence": 18.943604,
+      "box": [
+        456,
+        219,
+        38,
+        25
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "fC",
+      "confidence": 0.497253,
+      "box": [
+        511,
+        212,
+        50,
+        33
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "pdt?",
+      "confidence": 14.943932,
+      "box": [
+        568,
+        210,
+        136,
+        36
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "QAP",
+      "confidence": 8.104897,
+      "box": [
+        726,
+        193,
+        85,
+        60
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Como",
+      "confidence": 8.754425,
+      "box": [
+        836,
+        207,
+        534,
+        16
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Delivery",
+      "confidence": 96.76136,
+      "box": [
+        179,
+        283,
+        79,
+        25
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Address:",
+      "confidence": 96.429527,
+      "box": [
+        266,
+        283,
+        84,
+        21
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Name",
+      "confidence": 96.210541,
+      "box": [
+        600,
+        278,
+        57,
+        20
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "of",
+      "confidence": 96.600616,
+      "box": [
+        668,
+        277,
+        18,
+        20
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Item",
+      "confidence": 85.007103,
+      "box": [
+        697,
+        277,
+        45,
+        20
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Faas",
+      "confidence": 39.456524,
+      "box": [
+        46,
+        830,
+        78,
+        39
+      ],
+      "block": 19,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "by",
+      "confidence": 96.997932,
+      "box": [
+        144,
+        845,
+        21,
+        23
+      ],
+      "block": 19,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "/\"",
+      "confidence": 11.980164,
+      "box": [
+        306,
+        839,
+        1,
+        4
+      ],
+      "block": 19,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Recommend",
+      "confidence": 96.466087,
+      "box": [
+        336,
+        845,
+        117,
+        19
+      ],
+      "block": 19,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "by",
+      "confidence": 96.928131,
+      "box": [
+        461,
+        845,
+        20,
+        22
+      ],
+      "block": 19,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "ye",
+      "confidence": 38.744492,
+      "box": [
+        79,
+        846,
+        168,
+        62
+      ],
+      "block": 19,
+      "paragraph": 1,
+      "line": 2
+    }
+  ]
+}

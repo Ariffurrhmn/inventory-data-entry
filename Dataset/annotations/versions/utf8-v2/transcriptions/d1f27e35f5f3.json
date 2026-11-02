@@ -1,0 +1,57 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "d1f27e35f5f3",
+  "source_image": {
+    "path": "Dataset/Customer_Copy/image_0711.jpg",
+    "sha256": "86e4a571901e15423675c58759b5687ce9d4ef1994831fd03afce072dc7ea36a"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/d1f27e35f5f3.jpg",
+    "sha256": "8a3990b27fca48d7aae80080f16aeaef73e5efb30800deb439e0c2f7a23227d8"
+  },
+  "classification": {
+    "label": "customer_copy",
+    "split": "test"
+  },
+  "transcription": {
+    "full_text": "*** CREDIT CARD VOUCHER ***\nANY RESTAURANT\nANYWHERE\n(69) 69696969\nDATE: 02/02/2014\nTIME: 11:11\nCARD TYPE: MC\nACCT: XXXX XXXX XXXX 1111\nTRANS KEY: HYU8789798234\nAUTH CODE: 12345\nEXP DATE: XX/XX\nCHECK: 1111\nTABLE: 11/11\nSERVER: 34 MONIKA\nSubtotal: $1969.69\nGratuity:\nTotal:\nSignature:\nCustomer Copy",
+    "lines": [
+      "*** CREDIT CARD VOUCHER ***",
+      "ANY RESTAURANT",
+      "ANYWHERE",
+      "(69) 69696969",
+      "DATE: 02/02/2014",
+      "TIME: 11:11",
+      "CARD TYPE: MC",
+      "ACCT: XXXX XXXX XXXX 1111",
+      "TRANS KEY: HYU8789798234",
+      "AUTH CODE: 12345",
+      "EXP DATE: XX/XX",
+      "CHECK: 1111",
+      "TABLE: 11/11",
+      "SERVER: 34 MONIKA",
+      "Subtotal: $1969.69",
+      "Gratuity:",
+      "Total:",
+      "Signature:",
+      "Customer Copy"
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [],
+    "notes": "Visually checked; blank fields left blank. Printed masking is represented by [masked] where exact symbol count is not reliable."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/d1f27e35f5f3.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

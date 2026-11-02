@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "66f77b274d3f",
+  "source_image": {
+    "path": "Dataset/Receipt/cord-train-0017.jpg",
+    "sha256": "45088d2556551a091e293f7282c921cf478da5e217f05b4ca10dafd43bb0e442"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/66f77b274d3f.jpg",
+    "sha256": "e357793fb2062d7e346a5140d443a2b74f7f58dcaf5bb3d0a097b756910fa71f"
+  },
+  "classification": {
+    "label": "receipt",
+    "split": "train"
+  },
+  "transcription": {
+    "full_text": "[redacted]\n1 RB. COKLAT BAR 8,000\n1 RB. CREPES TUNA 9,000\n1 RB. SISIR PANDAN 7,500\nITEM:3 SUBTOTAL 24,500\nPCS 3 DUE 24,500\nCASH 50,000\nCHANGE 25,500\n[redacted]",
+    "lines": [
+      "[redacted]",
+      "1 RB. COKLAT BAR 8,000",
+      "1 RB. CREPES TUNA 9,000",
+      "1 RB. SISIR PANDAN 7,500",
+      "ITEM:3 SUBTOTAL 24,500",
+      "PCS 3 DUE 24,500",
+      "CASH 50,000",
+      "CHANGE 25,500",
+      "[redacted]"
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [
+      "Pixelated/blurred source regions are marked [redacted]; their hidden text was not reconstructed."
+    ],
+    "notes": "Visually transcribed from the image, preserving printed spelling and numeric inconsistencies."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/66f77b274d3f.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

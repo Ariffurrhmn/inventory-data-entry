@@ -1,0 +1,174 @@
+{
+  "sample_id": "dcd1a6bdfa0a",
+  "source_path": "Dataset/Dataset-2/Purchase order/IMG_0977.HEIC",
+  "source_sha256": "d4af1b646ccfab272d750f78f52e6e853b8bb025c5d2155720581f88dc827568",
+  "prepared_image_path": "data/images/dcd1a6bdfa0a.jpg",
+  "prepared_image_sha256": "8e9c13ff858fbb096022de7281629f61b0e64d836fb780f9909d0e0d239e3c0b",
+  "label": "delivery_note",
+  "split": "val",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": ":\n1\n\n|\n\nFrem: Jamuna Wholesale.\n\nTo: Polim\n\nGeneral Store, Mirpur-10, Dhaka.\n\n",
+  "ocr_image_size": [
+    1400,
+    1866
+  ],
+  "words": [
+    {
+      "text": ":",
+      "confidence": 0.0,
+      "box": [
+        150,
+        2,
+        3,
+        7
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "1",
+      "confidence": 53.828133,
+      "box": [
+        150,
+        10,
+        3,
+        8
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "|",
+      "confidence": 56.835571,
+      "box": [
+        145,
+        22,
+        10,
+        49
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Frem:",
+      "confidence": 49.418213,
+      "box": [
+        176,
+        53,
+        168,
+        86
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Jamuna",
+      "confidence": 66.402771,
+      "box": [
+        389,
+        83,
+        215,
+        53
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Wholesale.",
+      "confidence": 81.077271,
+      "box": [
+        642,
+        87,
+        259,
+        56
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "To:",
+      "confidence": 58.701057,
+      "box": [
+        145,
+        199,
+        112,
+        104
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Polim",
+      "confidence": 16.264046,
+      "box": [
+        277,
+        209,
+        190,
+        91
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "General",
+      "confidence": 84.081688,
+      "box": [
+        503,
+        239,
+        188,
+        65
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Store,",
+      "confidence": 93.289452,
+      "box": [
+        723,
+        235,
+        137,
+        87
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Mirpur-10,",
+      "confidence": 90.987228,
+      "box": [
+        875,
+        247,
+        254,
+        71
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Dhaka.",
+      "confidence": 93.189926,
+      "box": [
+        1149,
+        254,
+        177,
+        56
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    }
+  ]
+}

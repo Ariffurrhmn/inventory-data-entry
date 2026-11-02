@@ -1,0 +1,141 @@
+number,sample_id,source_path,label,split,transcription,status,uncertainties
+1,9e24dadfc2de,Dataset/Purchase_Order/PO-PO - 15.jpg,purchase_order,test,transcriptions/9e24dadfc2de.json,assistant_visual_reviewed,0
+2,cc6e515ae67f,Dataset/Purchase_Order/POPO-10.jpg,purchase_order,val,transcriptions/cc6e515ae67f.json,assistant_visual_reviewed,0
+3,4840bfe10310,Dataset/Purchase_Order/POPO-11.jpg,purchase_order,val,transcriptions/4840bfe10310.json,assistant_visual_reviewed,0
+4,9446fd410ee3,Dataset/Purchase_Order/POPO-12.jpg,purchase_order,val,transcriptions/9446fd410ee3.json,assistant_visual_reviewed,0
+5,02bfde5bf771,Dataset/Purchase_Order/POPO-13.jpg,purchase_order,val,transcriptions/02bfde5bf771.json,assistant_visual_reviewed,0
+6,a20b14dd771c,Dataset/Purchase_Order/POPO-14.jpg,purchase_order,val,transcriptions/a20b14dd771c.json,assistant_visual_reviewed,0
+7,e5a5a0f1a894,Dataset/Purchase_Order/POPO-8.jpg,purchase_order,val,transcriptions/e5a5a0f1a894.json,assistant_visual_reviewed,0
+8,ee4df28e7c36,Dataset/Purchase_Order/POPO-9.jpg,purchase_order,val,transcriptions/ee4df28e7c36.json,assistant_visual_reviewed,0
+9,00814f24e77a,Dataset/Purchase_Order/Purchase Order 1.jpg,purchase_order,train,transcriptions/00814f24e77a.json,assistant_visual_reviewed,0
+10,c5ffa86a7c34,Dataset/Purchase_Order/Purchase Order 2.jpg,purchase_order,train,transcriptions/c5ffa86a7c34.json,assistant_visual_reviewed,0
+11,a9665cd4aaa7,Dataset/Purchase_Order/Purchase Order 3.jpg,purchase_order,train,transcriptions/a9665cd4aaa7.json,assistant_visual_reviewed,0
+12,9a3b168b4497,Dataset/Purchase_Order/Purchase Order 4.jpg,purchase_order,train,transcriptions/9a3b168b4497.json,assistant_visual_reviewed,0
+13,4672e3a30c1f,Dataset/Purchase_Order/Purchase Order 5.jpg,purchase_order,train,transcriptions/4672e3a30c1f.json,assistant_visual_reviewed,0
+14,9b53f368be38,Dataset/Purchase_Order/Purchase Order 6.jpg,purchase_order,train,transcriptions/9b53f368be38.json,assistant_visual_reviewed,0
+15,4a87af5776ae,Dataset/Purchase_Order/Purchase Order 7.jpg,purchase_order,train,transcriptions/4a87af5776ae.json,assistant_visual_reviewed,0
+16,1b128b83e60a,Dataset/Purchase_Order/purchase order-PO - 16.jpg,purchase_order,train,transcriptions/1b128b83e60a.json,assistant_visual_reviewed,0
+17,de306abe6ff8,Dataset/Purchase_Order/purchase order-PO - 18.jpg,purchase_order,train,transcriptions/de306abe6ff8.json,assistant_visual_reviewed,0
+18,fb2283be766d,Dataset/Purchase_Order/purchase order-PO - 19.jpg,purchase_order,train,transcriptions/fb2283be766d.json,assistant_visual_reviewed,0
+19,b99246952e96,Dataset/Purchase_Order/purchase order-PO - 20.jpg,purchase_order,train,transcriptions/b99246952e96.json,assistant_visual_reviewed,0
+20,e8ad229bba0c,Dataset/Purchase_Order/Screenshot 2026-10-03 180354.png,purchase_order,train,transcriptions/e8ad229bba0c.json,assistant_visual_reviewed,3
+21,476131eff924,Dataset/Receipt/aaaa_jpg.rf.2e47601f234d7c54e2f7e015491d4cee.jpg,receipt,val,transcriptions/476131eff924.json,assistant_visual_reviewed,0
+22,5dffabcb47cb,Dataset/Receipt/cord-train-0008.jpg,receipt,val,transcriptions/5dffabcb47cb.json,assistant_visual_reviewed,1
+23,7c33fa811984,Dataset/Receipt/cord-train-0015.jpg,receipt,val,transcriptions/7c33fa811984.json,assistant_visual_reviewed,1
+24,66f77b274d3f,Dataset/Receipt/cord-train-0017.jpg,receipt,train,transcriptions/66f77b274d3f.json,assistant_visual_reviewed,1
+25,213305d225b2,Dataset/Receipt/cord-train-0020.jpg,receipt,train,transcriptions/213305d225b2.json,assistant_visual_reviewed,1
+26,3223c78f7136,Dataset/Receipt/cord-train-0023.jpg,receipt,train,transcriptions/3223c78f7136.json,assistant_visual_reviewed,1
+27,a162d6ad43e0,Dataset/Receipt/cord-train-0024.jpg,receipt,train,transcriptions/a162d6ad43e0.json,assistant_visual_reviewed,1
+28,4ee98001cc91,Dataset/Receipt/cord-train-0036.jpg,receipt,train,transcriptions/4ee98001cc91.json,assistant_visual_reviewed,1
+29,c33ada961240,Dataset/Receipt/cord-train-0050.jpg,receipt,train,transcriptions/c33ada961240.json,assistant_visual_reviewed,1
+30,d6b7679bc0a8,Dataset/Receipt/cord-train-0070.jpg,receipt,train,transcriptions/d6b7679bc0a8.json,assistant_visual_reviewed,1
+31,7bd460b8c269,Dataset/Receipt/cord-train-0075.jpg,receipt,train,transcriptions/7bd460b8c269.json,assistant_visual_reviewed,1
+32,5564ab2d8b11,Dataset/Receipt/cord-train-0114.jpg,receipt,test,transcriptions/5564ab2d8b11.json,assistant_visual_reviewed,1
+33,fcac4e4559e8,Dataset/Receipt/cord-train-0124.jpg,receipt,train,transcriptions/fcac4e4559e8.json,assistant_visual_reviewed,1
+34,e24acf8b8294,Dataset/Receipt/cord-train-0133.jpg,receipt,test,transcriptions/e24acf8b8294.json,assistant_visual_reviewed,1
+35,be13e587ee89,Dataset/Receipt/cord-train-0140.jpg,receipt,test,transcriptions/be13e587ee89.json,assistant_visual_reviewed,1
+36,c4e63d9e78fe,Dataset/Receipt/cord-train-0145.jpg,receipt,test,transcriptions/c4e63d9e78fe.json,assistant_visual_reviewed,1
+37,dc0e8749153f,Dataset/Receipt/cord-train-0155.jpg,receipt,test,transcriptions/dc0e8749153f.json,assistant_visual_reviewed,1
+38,99227d025be4,Dataset/Receipt/cord-train-0165.jpg,receipt,train,transcriptions/99227d025be4.json,assistant_visual_reviewed,1
+39,684abec37a2d,Dataset/Receipt/cord-train-0750.jpg,receipt,val,transcriptions/684abec37a2d.json,assistant_visual_reviewed,2
+40,6d09ac8fd547,Dataset/Receipt/IMG_20250823_030114_jpg.rf.3862ebeaef9f4db0e7d45c6b2127ea07.jpg,receipt,val,transcriptions/6d09ac8fd547.json,assistant_visual_reviewed,0
+41,c444a2174871,Dataset/Receipt/IMG_20250823_031335_jpg.rf.5a199981b4aa990a64567daf31f4f7c6.jpg,receipt,val,transcriptions/c444a2174871.json,assistant_visual_reviewed,0
+42,6329716534d8,Dataset/Receipt/IMG_20250823_031803_jpg.rf.34405351a39fd281345d6d0597a696f4.jpg,receipt,val,transcriptions/6329716534d8.json,assistant_visual_reviewed,0
+43,8c92842adf8d,Dataset/Receipt/IMG_20251024_205717_jpg.rf.1b1b4a57e89a9b5d635e874d85c398b9 - Copy.jpg,receipt,train,transcriptions/8c92842adf8d.json,assistant_visual_reviewed,2
+44,0ce1130827a7,Dataset/Receipt/IMG_20251024_205725_jpg.rf.6e536cb87cc396e65a09e9018cb7009e.jpg,receipt,train,transcriptions/0ce1130827a7.json,assistant_visual_reviewed,2
+45,57a2af8488b1,Dataset/Receipt/IMG_20251024_205757_jpg.rf.2cc45e34b944cd17410a7e6aa3e010a4.jpg,receipt,train,transcriptions/57a2af8488b1.json,assistant_visual_reviewed,2
+46,645703699d96,Dataset/Receipt/IMG_20251024_205804_jpg.rf.10e477b4db343f6c9fa7d0da694c11ff.jpg,receipt,train,transcriptions/645703699d96.json,assistant_visual_reviewed,2
+47,fcd28e1cf903,Dataset/Receipt/IMG_20251024_205835_jpg.rf.5daf54087b5537070793a7b829bb5bd8.jpg,receipt,train,transcriptions/fcd28e1cf903.json,assistant_visual_reviewed,2
+48,f94a1cc40a05,Dataset/Receipt/IMG_20251026_133147_jpg.rf.7c1871edc0c5fa593ead79391c3ee632.jpg,receipt,train,transcriptions/f94a1cc40a05.json,assistant_visual_reviewed,1
+49,c671941cf57c,Dataset/Delivery_Note/delivery-challan-DC-001.jpg,delivery_note,train,transcriptions/c671941cf57c.json,assistant_visual_reviewed,0
+50,6f5831a6d9e7,Dataset/Delivery_Note/delivery-challan-DC-004.jpg,delivery_note,train,transcriptions/6f5831a6d9e7.json,assistant_visual_reviewed,0
+51,40ba7ce1f258,Dataset/Delivery_Note/delivery-challan-DC-005.jpg,delivery_note,train,transcriptions/40ba7ce1f258.json,assistant_visual_reviewed,0
+52,f06d5208a0a0,Dataset/Delivery_Note/delivery-challan-DC-006.jpg,delivery_note,train,transcriptions/f06d5208a0a0.json,assistant_visual_reviewed,0
+53,982d3081da15,Dataset/Delivery_Note/delivery-challan-DC-007.jpg,delivery_note,train,transcriptions/982d3081da15.json,assistant_visual_reviewed,0
+54,4a57d261cb80,Dataset/Delivery_Note/delivery-challan-DC-008.jpg,delivery_note,train,transcriptions/4a57d261cb80.json,assistant_visual_reviewed,0
+55,192e9fb6775d,Dataset/Delivery_Note/delivery-challan-DC-009.jpg,delivery_note,train,transcriptions/192e9fb6775d.json,assistant_visual_reviewed,0
+56,885c97fddc39,Dataset/Delivery_Note/delivery-challan-DC-010.jpg,delivery_note,train,transcriptions/885c97fddc39.json,assistant_visual_reviewed,0
+57,7875077c420c,Dataset/Delivery_Note/delivery-challan-DC-011.jpg,delivery_note,train,transcriptions/7875077c420c.json,assistant_visual_reviewed,0
+58,dad342ae96cd,Dataset/Delivery_Note/delivery-challan-DC-012.jpg,delivery_note,train,transcriptions/dad342ae96cd.json,assistant_visual_reviewed,0
+59,a7a5a3135540,Dataset/Delivery_Note/delivery-challan-DC-013.jpg,delivery_note,train,transcriptions/a7a5a3135540.json,assistant_visual_reviewed,0
+60,f8a4d08ece59,Dataset/Delivery_Note/delivery-challan-DC-014 (1).jpg,delivery_note,train,transcriptions/f8a4d08ece59.json,assistant_visual_reviewed,0
+61,3177e03984b6,Dataset/Delivery_Note/delivery-challan-DC-014 (2).jpg,delivery_note,train,transcriptions/3177e03984b6.json,assistant_visual_reviewed,0
+62,4c2e748c6bc8,Dataset/Delivery_Note/delivery-challan-DC-014 (3).jpg,delivery_note,train,transcriptions/4c2e748c6bc8.json,assistant_visual_reviewed,0
+63,cbce3b093ee3,Dataset/Delivery_Note/delivery-challan-DC-014.jpg,delivery_note,train,transcriptions/cbce3b093ee3.json,assistant_visual_reviewed,0
+64,450255bc884a,Dataset/Delivery_Note/packing-slip-1064.png,delivery_note,test,transcriptions/450255bc884a.json,assistant_visual_reviewed,1
+65,4784d328f244,Dataset/Delivery_Note/packing-slip-1079.png,delivery_note,test,transcriptions/4784d328f244.json,assistant_visual_reviewed,1
+66,07b749907de5,Dataset/Delivery_Note/packing-slip-1087.png,delivery_note,test,transcriptions/07b749907de5.json,assistant_visual_reviewed,1
+67,0737a6ca5674,Dataset/Delivery_Note/packing-slip-1094.png,delivery_note,test,transcriptions/0737a6ca5674.json,assistant_visual_reviewed,1
+68,d6174f39143f,Dataset/Delivery_Note/packing-slip-1111.png,delivery_note,test,transcriptions/d6174f39143f.json,assistant_visual_reviewed,1
+69,54a5c3334a7e,Dataset/Customer_Copy/1057-receipt.jpg,customer_copy,train,transcriptions/54a5c3334a7e.json,assistant_visual_reviewed,0
+70,c48efeff07df,Dataset/Customer_Copy/1073-receipt.jpg,customer_copy,test,transcriptions/c48efeff07df.json,assistant_visual_reviewed,1
+71,3f351516323d,Dataset/Customer_Copy/1164-receipt.jpg,customer_copy,train,transcriptions/3f351516323d.json,assistant_visual_reviewed,0
+72,e4c7eb83722c,Dataset/Customer_Copy/1176-receipt.jpg,customer_copy,val,transcriptions/e4c7eb83722c.json,assistant_visual_reviewed,0
+73,943348c8acbb,Dataset/Customer_Copy/express_srd_1085-receipt.jpg,customer_copy,train,transcriptions/943348c8acbb.json,assistant_visual_reviewed,1
+74,346ff589b408,Dataset/Customer_Copy/image_0018.jpg,customer_copy,train,transcriptions/346ff589b408.json,assistant_visual_reviewed,1
+75,1e9226ab9225,Dataset/Customer_Copy/image_0042.jpg,customer_copy,val,transcriptions/1e9226ab9225.json,assistant_visual_reviewed,1
+76,4f2b8c0f0665,Dataset/Customer_Copy/image_0592.jpg,customer_copy,train,transcriptions/4f2b8c0f0665.json,assistant_visual_reviewed,1
+77,d1f27e35f5f3,Dataset/Customer_Copy/image_0711.jpg,customer_copy,test,transcriptions/d1f27e35f5f3.json,assistant_visual_reviewed,0
+78,4ee52bb59124,Dataset/Customer_Copy/image_0799.jpg,customer_copy,test,transcriptions/4ee52bb59124.json,assistant_visual_reviewed,0
+79,89f5500d9c0a,Dataset/Customer_Copy/image_1043.jpg,customer_copy,test,transcriptions/89f5500d9c0a.json,assistant_visual_reviewed,0
+80,f39cc34d6d46,Dataset/Customer_Copy/image_1208.jpg,customer_copy,train,transcriptions/f39cc34d6d46.json,assistant_visual_reviewed,1
+81,723ee7e6a909,Dataset/Customer_Copy/image_1553.jpg,customer_copy,train,transcriptions/723ee7e6a909.json,assistant_visual_reviewed,2
+82,334d0ebf3186,Dataset/Customer_Copy/image_1559.jpg,customer_copy,train,transcriptions/334d0ebf3186.json,assistant_visual_reviewed,0
+83,560a1b9a6415,Dataset/Customer_Copy/image_1748.jpg,customer_copy,test,transcriptions/560a1b9a6415.json,assistant_visual_reviewed,1
+84,8f6f9027cdb3,Dataset/Customer_Copy/image_1758.jpg,customer_copy,test,transcriptions/8f6f9027cdb3.json,assistant_visual_reviewed,0
+85,71fa862a7998,Dataset/Customer_Copy/image_1850.jpg,customer_copy,val,transcriptions/71fa862a7998.json,assistant_visual_reviewed,2
+86,6472ff0a74e9,Dataset/Customer_Copy/image_1858.jpg,customer_copy,train,transcriptions/6472ff0a74e9.json,assistant_visual_reviewed,0
+87,6085360f9c73,Dataset/Dataset-2/Purchase order/IMG_0965.HEIC,purchase_order,train,transcriptions/6085360f9c73.json,assistant_visual_reviewed,0
+88,e18612fb393c,Dataset/Dataset-2/Purchase order/IMG_0966.HEIC,delivery_note,test,transcriptions/e18612fb393c.json,assistant_visual_reviewed,1
+89,6ab38289be74,Dataset/Dataset-2/Purchase order/IMG_0967.HEIC,delivery_note,test,transcriptions/6ab38289be74.json,assistant_visual_reviewed,1
+90,adab8f169fec,Dataset/Dataset-2/Purchase order/IMG_0968.HEIC,delivery_note,test,transcriptions/adab8f169fec.json,assistant_visual_reviewed,1
+91,26fe0fcbc04b,Dataset/Dataset-2/Purchase order/IMG_0969.HEIC,delivery_note,test,transcriptions/26fe0fcbc04b.json,assistant_visual_reviewed,1
+92,6b6a915859a2,Dataset/Dataset-2/Purchase order/IMG_0970.HEIC,delivery_note,test,transcriptions/6b6a915859a2.json,assistant_visual_reviewed,1
+93,a35a5b21dd98,Dataset/Dataset-2/Purchase order/IMG_0971.HEIC,purchase_order,train,transcriptions/a35a5b21dd98.json,assistant_visual_reviewed,0
+94,63d735225c26,Dataset/Dataset-2/Purchase order/IMG_0972.HEIC,purchase_order,test,transcriptions/63d735225c26.json,assistant_visual_reviewed,0
+95,53ed22a39c62,Dataset/Dataset-2/Purchase order/IMG_0973.HEIC,purchase_order,test,transcriptions/53ed22a39c62.json,assistant_visual_reviewed,0
+96,308d04e806ba,Dataset/Dataset-2/Purchase order/IMG_0974.HEIC,purchase_order,train,transcriptions/308d04e806ba.json,assistant_visual_reviewed,0
+97,76cc99d39da4,Dataset/Dataset-2/Purchase order/IMG_0975.HEIC,purchase_order,train,transcriptions/76cc99d39da4.json,assistant_visual_reviewed,0
+98,dcd1a6bdfa0a,Dataset/Dataset-2/Purchase order/IMG_0977.HEIC,delivery_note,val,transcriptions/dcd1a6bdfa0a.json,assistant_visual_reviewed,0
+99,558ab17fe557,Dataset/Dataset-2/Purchase order/IMG_0978.HEIC,purchase_order,test,transcriptions/558ab17fe557.json,assistant_visual_reviewed,0
+100,11b4da10d765,Dataset/Dataset-2/Purchase order/IMG_0979.HEIC,purchase_order,test,transcriptions/11b4da10d765.json,assistant_visual_reviewed,0
+101,12d89294d43a,Dataset/Dataset-2/Purchase order/IMG_0980.HEIC,purchase_order,val,transcriptions/12d89294d43a.json,assistant_visual_reviewed,0
+102,772f10ad9975,Dataset/Dataset-2/Purchase order/IMG_0981.HEIC,purchase_order,test,transcriptions/772f10ad9975.json,assistant_visual_reviewed,0
+103,c4191b0e458a,Dataset/Dataset-2/Purchase order/IMG_0982.HEIC,purchase_order,test,transcriptions/c4191b0e458a.json,assistant_visual_reviewed,0
+104,85bbff3bf001,Dataset/Dataset-2/Purchase order/IMG_0983.HEIC,purchase_order,train,transcriptions/85bbff3bf001.json,assistant_visual_reviewed,0
+105,11929597c29a,Dataset/Dataset-2/Purchase order/IMG_0984.HEIC,purchase_order,train,transcriptions/11929597c29a.json,assistant_visual_reviewed,0
+106,52dd257aa6bf,Dataset/Dataset-2/Purchase order/IMG_0985.HEIC,purchase_order,train,transcriptions/52dd257aa6bf.json,assistant_visual_reviewed,0
+107,2a0efadf472e,Dataset/Dataset-2/Purchase order/IMG_0986.HEIC,purchase_order,train,transcriptions/2a0efadf472e.json,assistant_visual_reviewed,0
+108,9b3146e1da82,Dataset/Dataset-2/Delivery note challan/IMG_0943.HEIC,delivery_note,train,transcriptions/9b3146e1da82.json,assistant_visual_reviewed,0
+109,9c963148c0b7,Dataset/Dataset-2/Delivery note challan/IMG_0945.HEIC,delivery_note,train,transcriptions/9c963148c0b7.json,assistant_visual_reviewed,0
+110,e44a9a33b016,Dataset/Dataset-2/Delivery note challan/IMG_0946.HEIC,delivery_note,train,transcriptions/e44a9a33b016.json,assistant_visual_reviewed,0
+111,d6c285c6c5d0,Dataset/Dataset-2/Delivery note challan/IMG_0947.HEIC,delivery_note,train,transcriptions/d6c285c6c5d0.json,assistant_visual_reviewed,0
+112,e0835ab84434,Dataset/Dataset-2/Delivery note challan/IMG_0948.HEIC,delivery_note,train,transcriptions/e0835ab84434.json,assistant_visual_reviewed,0
+113,08811c30b08a,Dataset/Dataset-2/Delivery note challan/IMG_0949.HEIC,delivery_note,train,transcriptions/08811c30b08a.json,assistant_visual_reviewed,0
+114,3019fd45ae14,Dataset/Dataset-2/Delivery note challan/IMG_0950.HEIC,delivery_note,train,transcriptions/3019fd45ae14.json,assistant_visual_reviewed,0
+115,9d3c43f5edd8,Dataset/Dataset-2/Delivery note challan/IMG_0951.HEIC,delivery_note,train,transcriptions/9d3c43f5edd8.json,assistant_visual_reviewed,0
+116,1ae7adb382c4,Dataset/Dataset-2/Delivery note challan/IMG_0952.HEIC,delivery_note,train,transcriptions/1ae7adb382c4.json,assistant_visual_reviewed,0
+117,8e3663ff9c0a,Dataset/Dataset-2/Delivery note challan/IMG_0953.HEIC,delivery_note,train,transcriptions/8e3663ff9c0a.json,assistant_visual_reviewed,0
+118,3613644641fd,Dataset/Dataset-2/Delivery note challan/IMG_0954.HEIC,delivery_note,train,transcriptions/3613644641fd.json,assistant_visual_reviewed,0
+119,c3288c82627e,Dataset/Dataset-2/Delivery note challan/IMG_0955.HEIC,delivery_note,train,transcriptions/c3288c82627e.json,assistant_visual_reviewed,0
+120,ff15e557fb64,Dataset/Dataset-2/Delivery note challan/IMG_0956.HEIC,delivery_note,train,transcriptions/ff15e557fb64.json,assistant_visual_reviewed,0
+121,926169f08e35,Dataset/Dataset-2/Delivery note challan/IMG_0957.HEIC,delivery_note,train,transcriptions/926169f08e35.json,assistant_visual_reviewed,0
+122,9d2600fd4658,Dataset/Dataset-2/Delivery note challan/IMG_0958.HEIC,delivery_note,train,transcriptions/9d2600fd4658.json,assistant_visual_reviewed,0
+123,ddb01e6bbf91,Dataset/Dataset-2/Delivery note challan/IMG_0988.HEIC,delivery_note,val,transcriptions/ddb01e6bbf91.json,assistant_visual_reviewed,0
+124,2c1013e6c832,Dataset/Dataset-2/Delivery note challan/IMG_0989.HEIC,delivery_note,val,transcriptions/2c1013e6c832.json,assistant_visual_reviewed,0
+125,29bd052c0c45,Dataset/Dataset-2/Delivery note challan/IMG_0990.HEIC,delivery_note,val,transcriptions/29bd052c0c45.json,assistant_visual_reviewed,0
+126,f9918570b903,Dataset/Dataset-2/Delivery note challan/IMG_0991.HEIC,delivery_note,train,transcriptions/f9918570b903.json,assistant_visual_reviewed,0
+127,398c6ef688e4,Dataset/Dataset-2/Delivery note challan/IMG_0992.HEIC,delivery_note,train,transcriptions/398c6ef688e4.json,assistant_visual_reviewed,0
+128,1610534c8b1f,Dataset/Dataset-2/Delivery note challan/IMG_0993.HEIC,delivery_note,train,transcriptions/1610534c8b1f.json,assistant_visual_reviewed,0
+129,502854082b30,Dataset/Dataset-2/Delivery note challan/IMG_0994.HEIC,delivery_note,val,transcriptions/502854082b30.json,assistant_visual_reviewed,0
+130,f86fbe7e1303,Dataset/Dataset-2/Delivery note challan/IMG_0995.HEIC,delivery_note,train,transcriptions/f86fbe7e1303.json,assistant_visual_reviewed,0
+131,74a4bb73855d,Dataset/Dataset-2/Delivery note challan/IMG_0996.HEIC,delivery_note,val,transcriptions/74a4bb73855d.json,assistant_visual_reviewed,0
+132,cdd7aaa9004d,Dataset/Dataset-2/Customer copy/IMG_0998.HEIC,customer_copy,train,transcriptions/cdd7aaa9004d.json,assistant_visual_reviewed,0
+133,8b270977a7a7,Dataset/Dataset-2/Customer copy/IMG_0999.HEIC,customer_copy,train,transcriptions/8b270977a7a7.json,assistant_visual_reviewed,0
+134,6639e70671f3,Dataset/Dataset-2/Customer copy/IMG_1001.HEIC,customer_copy,train,transcriptions/6639e70671f3.json,assistant_visual_reviewed,0
+135,42d9b408c783,Dataset/Dataset-2/Customer copy/IMG_1002.HEIC,customer_copy,train,transcriptions/42d9b408c783.json,assistant_visual_reviewed,0
+136,382ba345a187,Dataset/Dataset-2/Customer copy/IMG_1003.HEIC,customer_copy,val,transcriptions/382ba345a187.json,assistant_visual_reviewed,0
+137,11d42d9168f2,Dataset/Dataset-2/Customer copy/IMG_1004.HEIC,customer_copy,train,transcriptions/11d42d9168f2.json,assistant_visual_reviewed,0
+138,33a6690bb891,Dataset/Dataset-2/Customer copy/IMG_1005.HEIC,customer_copy,train,transcriptions/33a6690bb891.json,assistant_visual_reviewed,0
+139,fb76d6216e2b,Dataset/Dataset-2/Customer copy/IMG_1006.HEIC,customer_copy,val,transcriptions/fb76d6216e2b.json,assistant_visual_reviewed,0
+140,e396ade11def,Dataset/Dataset-2/Customer copy/IMG_1007.HEIC,customer_copy,train,transcriptions/e396ade11def.json,assistant_visual_reviewed,0

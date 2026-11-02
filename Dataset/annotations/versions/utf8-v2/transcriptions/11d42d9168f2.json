@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "11d42d9168f2",
+  "source_image": {
+    "path": "Dataset/Dataset-2/Customer copy/IMG_1004.HEIC",
+    "sha256": "fac69f9d672663a78b5fb7c52511821683035a164a4397fa374ef88969199554"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/11d42d9168f2.jpg",
+    "sha256": "675e7ea70d7e086f7360a31c435c0b063027a754f3f5acb3e153d20a6dcb32ef"
+  },
+  "classification": {
+    "label": "customer_copy",
+    "split": "train"
+  },
+  "transcription": {
+    "full_text": "Karnaphuli Traders\nInvoice\nInvoice No: INV-9869.\nDate: 06/07/2026.\nBill To / Customer: Green Leaf Mart, Badda, Dhaka.\nItem Qty Rate (Tk) Amount (Tk)\nMiniket Rice 25kg 10 Tk 1,850 Tk 18,500\nMilk Powder 500g 10 Tk 420 Tk 4,200\nAtta 2kg 10 Tk 130 Tk 1,300\nToothpaste 100g 4 Tk 120 Tk 480\nTotal: Tk 24,480.\nAuthorised Signature\n[signature]\nCUSTOMER COPY",
+    "lines": [
+      "Karnaphuli Traders",
+      "Invoice",
+      "Invoice No: INV-9869.",
+      "Date: 06/07/2026.",
+      "Bill To / Customer: Green Leaf Mart, Badda, Dhaka.",
+      "Item Qty Rate (Tk) Amount (Tk)",
+      "Miniket Rice 25kg 10 Tk 1,850 Tk 18,500",
+      "Milk Powder 500g 10 Tk 420 Tk 4,200",
+      "Atta 2kg 10 Tk 130 Tk 1,300",
+      "Toothpaste 100g 4 Tk 120 Tk 480",
+      "Total: Tk 24,480.",
+      "Authorised Signature",
+      "[signature]",
+      "CUSTOMER COPY"
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [],
+    "notes": "Individually visually reviewed photograph; table rows linearized, signatures marked."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/11d42d9168f2.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

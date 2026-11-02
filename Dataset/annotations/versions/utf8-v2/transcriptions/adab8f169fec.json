@@ -1,0 +1,54 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "adab8f169fec",
+  "source_image": {
+    "path": "Dataset/Dataset-2/Purchase order/IMG_0968.HEIC",
+    "sha256": "777b41b32f00f079b878683b89e49773e4bf36a643a7388c014f720547132211"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/adab8f169fec.jpg",
+    "sha256": "dfbd17cd500fa9d117f54195e775567a3feb9d8928d3334dc3fb12ab3a039bb8"
+  },
+  "classification": {
+    "label": "delivery_note",
+    "split": "test"
+  },
+  "transcription": {
+    "full_text": "Packing Slip\nOrder #1079\nSeptember 11, 2026\nFrom\nCrimson&Co\n07 South Bishil Road\n1216\nBangladesh\nShip to\n[redacted]\nOrder Details\nQty Item\n1 Heritage Horse Ribbed Tank Top - L\n1 Vintage-Style Contrast Ringer Tee - XL",
+    "lines": [
+      "Packing Slip",
+      "Order #1079",
+      "September 11, 2026",
+      "From",
+      "Crimson&Co",
+      "07 South Bishil Road",
+      "1216",
+      "Bangladesh",
+      "Ship to",
+      "[redacted]",
+      "Order Details",
+      "Qty Item",
+      "1 Heritage Horse Ribbed Tank Top - L",
+      "1 Vintage-Style Contrast Ringer Tee - XL"
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [
+      "Recipient details were blurred in the source and are not reconstructed."
+    ],
+    "notes": "Photograph visually inspected; visible content matches the checked digital counterpart. Reused its text after comparison."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/adab8f169fec.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "sample_id": "08811c30b08a",
+  "source_path": "Dataset/Dataset-2/Delivery note challan/IMG_0949.HEIC",
+  "source_sha256": "341db994f1d22b1949d3f8bad1849776f09083fa744c024f465d6bbcc6639493",
+  "prepared_image_path": "data/images/08811c30b08a.jpg",
+  "prepared_image_sha256": "a3a3c858761a2db9a32e72cd0206f1da7535b3abcb341f7c5d0b829a0b5dcd29",
+  "label": "delivery_note",
+  "split": "train",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "",
+  "ocr_image_size": [
+    1400,
+    1866
+  ],
+  "words": []
+}

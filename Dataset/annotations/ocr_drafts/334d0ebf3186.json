@@ -1,0 +1,1123 @@
+{
+  "sample_id": "334d0ebf3186",
+  "source_path": "Dataset/Customer_Copy/image_1559.jpg",
+  "source_sha256": "3355df0d0904e50034ea68c6eb96e2b39ca9770276e847577292ca1adb847b34",
+  "prepared_image_path": "data/images/334d0ebf3186.jpg",
+  "prepared_image_sha256": "ce2322e6ef6b6bb1d64ca4d6cff12988dddc8369139e0bf90bf3e578a1f08174",
+  "label": "customer_copy",
+  "split": "train",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "| |\n: ila ’ :\n13 Hil i ei ne\n\ni\n\na\n\nAVIS LG —\n\nCAR WASH & LUBE CENTERS\n\nMister Car Wash 002/102\n1038 Gessner Rd\nHouston, TX 77055\n113-461-0541\nMS\n002- WCash2, 02/20/16, 04:39 PM\nShift 1s iudd 1539, Sale # 735835148682\n\nLE Sp\n\np Ei] —— 39.99\n1 Dissolve-All 20.00\n\n1 Lube Wash Coupon# -13.99\n(Lube Free Wash,Bal: 0)\nSubtotal 46.00\n\nSales Tax 0.00\n\nTotal 46.00\n\n-————————\n\nAMEX x2526 46.00\n(Sale Appr # 344020: +284179)\n(Merchant # 196026) A\n\nCar# 630\n",
+  "ocr_image_size": [
+    1400,
+    2491
+  ],
+  "words": [
+    {
+      "text": "|",
+      "confidence": 45.167816,
+      "box": [
+        605,
+        99,
+        11,
+        3
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "|",
+      "confidence": 84.224106,
+      "box": [
+        705,
+        92,
+        2,
+        8
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": ":",
+      "confidence": 0.0,
+      "box": [
+        442,
+        107,
+        2,
+        6
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "ila",
+      "confidence": 45.308311,
+      "box": [
+        521,
+        101,
+        28,
+        27
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "’",
+      "confidence": 2.2789,
+      "box": [
+        705,
+        112,
+        2,
+        6
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": ":",
+      "confidence": 0.0,
+      "box": [
+        768,
+        104,
+        2,
+        4
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "13",
+      "confidence": 64.983368,
+      "box": [
+        430,
+        114,
+        30,
+        13
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Hil",
+      "confidence": 85.135162,
+      "box": [
+        518,
+        102,
+        29,
+        43
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "i",
+      "confidence": 0.663643,
+      "box": [
+        637,
+        120,
+        3,
+        19
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "ei",
+      "confidence": 14.353401,
+      "box": [
+        675,
+        104,
+        31,
+        31
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "ne",
+      "confidence": 31.509102,
+      "box": [
+        746,
+        115,
+        62,
+        13
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "i",
+      "confidence": 57.090782,
+      "box": [
+        523,
+        159,
+        14,
+        25
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "a",
+      "confidence": 54.729713,
+      "box": [
+        0,
+        294,
+        218,
+        77
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "AVIS",
+      "confidence": 13.957138,
+      "box": [
+        430,
+        320,
+        271,
+        5
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "LG",
+      "confidence": 1.913437,
+      "box": [
+        750,
+        282,
+        120,
+        48
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "—",
+      "confidence": 84.336136,
+      "box": [
+        1161,
+        246,
+        94,
+        44
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "CAR",
+      "confidence": 96.57634,
+      "box": [
+        194,
+        498,
+        140,
+        55
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "WASH",
+      "confidence": 93.176666,
+      "box": [
+        353,
+        498,
+        197,
+        54
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "&",
+      "confidence": 93.176666,
+      "box": [
+        578,
+        506,
+        42,
+        47
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "LUBE",
+      "confidence": 95.56916,
+      "box": [
+        649,
+        492,
+        178,
+        65
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "CENTERS",
+      "confidence": 96.545219,
+      "box": [
+        851,
+        483,
+        306,
+        76
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Mister",
+      "confidence": 96.261055,
+      "box": [
+        335,
+        621,
+        183,
+        54
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Car",
+      "confidence": 96.56588,
+      "box": [
+        549,
+        623,
+        89,
+        55
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Wash",
+      "confidence": 96.412712,
+      "box": [
+        670,
+        623,
+        119,
+        56
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "002/102",
+      "confidence": 96.012459,
+      "box": [
+        819,
+        623,
+        206,
+        64
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "1038",
+      "confidence": 96.829582,
+      "box": [
+        463,
+        695,
+        116,
+        54
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Gessner",
+      "confidence": 95.647514,
+      "box": [
+        610,
+        697,
+        208,
+        55
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Rd",
+      "confidence": 96.300095,
+      "box": [
+        849,
+        696,
+        60,
+        57
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Houston,",
+      "confidence": 95.878342,
+      "box": [
+        428,
+        766,
+        234,
+        63
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "TX",
+      "confidence": 95.981415,
+      "box": [
+        701,
+        770,
+        59,
+        55
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "77055",
+      "confidence": 96.310768,
+      "box": [
+        792,
+        771,
+        147,
+        54
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "113-461-0541",
+      "confidence": 66.948235,
+      "box": [
+        521,
+        842,
+        351,
+        56
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "MS",
+      "confidence": 5.743408,
+      "box": [
+        555,
+        936,
+        845,
+        40
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "002-",
+      "confidence": 82.850052,
+      "box": [
+        80,
+        937,
+        124,
+        104
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "WCash2,",
+      "confidence": 59.835888,
+      "box": [
+        209,
+        987,
+        209,
+        62
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "02/20/16,",
+      "confidence": 96.44603,
+      "box": [
+        763,
+        990,
+        260,
+        62
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "04:39",
+      "confidence": 95.036896,
+      "box": [
+        1061,
+        990,
+        148,
+        54
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "PM",
+      "confidence": 88.097969,
+      "box": [
+        1239,
+        988,
+        61,
+        56
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "Shift",
+      "confidence": 83.725693,
+      "box": [
+        80,
+        1062,
+        172,
+        111
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 7
+    },
+    {
+      "text": "1s",
+      "confidence": 60.124226,
+      "box": [
+        255,
+        1065,
+        70,
+        106
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 7
+    },
+    {
+      "text": "iudd",
+      "confidence": 0.0,
+      "box": [
+        369,
+        1063,
+        112,
+        63
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 7
+    },
+    {
+      "text": "1539,",
+      "confidence": 96.727432,
+      "box": [
+        527,
+        1066,
+        137,
+        59
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 7
+    },
+    {
+      "text": "Sale",
+      "confidence": 71.767456,
+      "box": [
+        739,
+        1062,
+        141,
+        108
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 7
+    },
+    {
+      "text": "#",
+      "confidence": 75.67112,
+      "box": [
+        914,
+        1068,
+        27,
+        50
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 7
+    },
+    {
+      "text": "735835148682",
+      "confidence": 81.000275,
+      "box": [
+        973,
+        1063,
+        328,
+        54
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 7
+    },
+    {
+      "text": "LE",
+      "confidence": 5.683754,
+      "box": [
+        212,
+        939,
+        19,
+        5
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Sp",
+      "confidence": 0.0,
+      "box": [
+        245,
+        938,
+        237,
+        9
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "p",
+      "confidence": 13.309296,
+      "box": [
+        255,
+        1166,
+        36,
+        103
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Ei]",
+      "confidence": 34.834869,
+      "box": [
+        320,
+        1166,
+        158,
+        103
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "——",
+      "confidence": 45.642075,
+      "box": [
+        498,
+        1165,
+        227,
+        103
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "39.99",
+      "confidence": 94.515762,
+      "box": [
+        1119,
+        1208,
+        156,
+        65
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "1",
+      "confidence": 78.706192,
+      "box": [
+        278,
+        1295,
+        11,
+        50
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Dissolve-All",
+      "confidence": 80.652611,
+      "box": [
+        333,
+        1286,
+        360,
+        58
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "20.00",
+      "confidence": 96.476204,
+      "box": [
+        1127,
+        1283,
+        147,
+        55
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "1",
+      "confidence": 93.867783,
+      "box": [
+        275,
+        1369,
+        12,
+        53
+      ],
+      "block": 12,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Lube",
+      "confidence": 95.84491,
+      "box": [
+        335,
+        1366,
+        119,
+        55
+      ],
+      "block": 12,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Wash",
+      "confidence": 92.847664,
+      "box": [
+        490,
+        1366,
+        119,
+        53
+      ],
+      "block": 12,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Coupon#",
+      "confidence": 90.322365,
+      "box": [
+        645,
+        1364,
+        208,
+        58
+      ],
+      "block": 12,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "-13.99",
+      "confidence": 59.414856,
+      "box": [
+        1102,
+        1357,
+        174,
+        56
+      ],
+      "block": 12,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "(Lube",
+      "confidence": 96.380226,
+      "box": [
+        337,
+        1441,
+        148,
+        63
+      ],
+      "block": 12,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Free",
+      "confidence": 93.301056,
+      "box": [
+        524,
+        1441,
+        116,
+        54
+      ],
+      "block": 12,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Wash,Bal:",
+      "confidence": 84.397636,
+      "box": [
+        676,
+        1435,
+        262,
+        63
+      ],
+      "block": 12,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "0)",
+      "confidence": 96.732529,
+      "box": [
+        1221,
+        1430,
+        52,
+        64
+      ],
+      "block": 12,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Subtotal",
+      "confidence": 96.414864,
+      "box": [
+        708,
+        1583,
+        236,
+        76
+      ],
+      "block": 12,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "46.00",
+      "confidence": 96.062042,
+      "box": [
+        1136,
+        1582,
+        148,
+        60
+      ],
+      "block": 12,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Sales",
+      "confidence": 96.535942,
+      "box": [
+        678,
+        1668,
+        151,
+        59
+      ],
+      "block": 12,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "Tax",
+      "confidence": 96.641258,
+      "box": [
+        862,
+        1668,
+        91,
+        56
+      ],
+      "block": 12,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "0.00",
+      "confidence": 96.543922,
+      "box": [
+        1167,
+        1659,
+        120,
+        59
+      ],
+      "block": 12,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "Total",
+      "confidence": 96.723129,
+      "box": [
+        802,
+        1743,
+        145,
+        61
+      ],
+      "block": 12,
+      "paragraph": 3,
+      "line": 1
+    },
+    {
+      "text": "46.00",
+      "confidence": 94.93264,
+      "box": [
+        1138,
+        1736,
+        150,
+        58
+      ],
+      "block": 12,
+      "paragraph": 3,
+      "line": 1
+    },
+    {
+      "text": "-————————",
+      "confidence": 2.717682,
+      "box": [
+        1022,
+        1837,
+        292,
+        16
+      ],
+      "block": 13,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "AMEX",
+      "confidence": 82.758842,
+      "box": [
+        326,
+        1921,
+        127,
+        59
+      ],
+      "block": 14,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "x2526",
+      "confidence": 68.490486,
+      "box": [
+        488,
+        1912,
+        157,
+        62
+      ],
+      "block": 14,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "46.00",
+      "confidence": 96.923454,
+      "box": [
+        1141,
+        1888,
+        150,
+        61
+      ],
+      "block": 14,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "(Sale",
+      "confidence": 96.281128,
+      "box": [
+        331,
+        1997,
+        152,
+        68
+      ],
+      "block": 14,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Appr",
+      "confidence": 93.064377,
+      "box": [
+        520,
+        1998,
+        122,
+        62
+      ],
+      "block": 14,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "#",
+      "confidence": 93.064377,
+      "box": [
+        679,
+        1993,
+        27,
+        52
+      ],
+      "block": 14,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "344020:",
+      "confidence": 95.776398,
+      "box": [
+        742,
+        1981,
+        206,
+        61
+      ],
+      "block": 14,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "+284179)",
+      "confidence": 30.591156,
+      "box": [
+        938,
+        1969,
+        226,
+        64
+      ],
+      "block": 14,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "(Merchant",
+      "confidence": 90.650764,
+      "box": [
+        332,
+        2072,
+        278,
+        74
+      ],
+      "block": 14,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "#",
+      "confidence": 90.650764,
+      "box": [
+        648,
+        2072,
+        28,
+        56
+      ],
+      "block": 14,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "196026)",
+      "confidence": 96.812927,
+      "box": [
+        717,
+        2056,
+        204,
+        68
+      ],
+      "block": 14,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "A",
+      "confidence": 39.911812,
+      "box": [
+        1202,
+        2129,
+        113,
+        24
+      ],
+      "block": 14,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Car#",
+      "confidence": 89.421005,
+      "box": [
+        423,
+        2232,
+        249,
+        64
+      ],
+      "block": 15,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "630",
+      "confidence": 96.141991,
+      "box": [
+        743,
+        2216,
+        183,
+        65
+      ],
+      "block": 15,
+      "paragraph": 1,
+      "line": 1
+    }
+  ]
+}

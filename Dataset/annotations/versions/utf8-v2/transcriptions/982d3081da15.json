@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "982d3081da15",
+  "source_image": {
+    "path": "Dataset/Delivery_Note/delivery-challan-DC-007.jpg",
+    "sha256": "a9a143e1f51277e14883932ebaa5901b61b0edb1198596430562c5ce23752187"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/982d3081da15.jpg",
+    "sha256": "b0724c4389735a62a2dab62042b750127f915833369fd79c9c9f486f8e6d8f81"
+  },
+  "classification": {
+    "label": "delivery_note",
+    "split": "train"
+  },
+  "transcription": {
+    "full_text": "DELIVERY CHALLAN\nABC Company\nChallan no. DC-007\nDate 2026-09-04\nPlace of supply Maharashtra\nSELLER\nABC Company\nShop 12, Market Road, City — 400001\nCONSIGNEE\nTanjina\nHouse- 36, Road- 7, Maharashtra\nVehicle no.: MH 01 AB 1234\nPurpose: Job work\n# Description HSN/SAC Qty Rate Taxable GST %\n1 Pencil Box 9056 100.00 ₹180.00 ₹18,000.00 5%\n2 Stapler 3541 500.00 ₹150.00 ₹75,000.00 6%\nTaxable value ₹93,000.00\nCGST ₹2,700.00\nSGST ₹2,700.00\nGrand total ₹98,400.00\nAmount in words: Ninety Eight Thousand Four Hundred Rupees Only\nNotes: Goods sent for the purpose stated above. Not a sale.",
+    "lines": [
+      "DELIVERY CHALLAN",
+      "ABC Company",
+      "Challan no. DC-007",
+      "Date 2026-09-04",
+      "Place of supply Maharashtra",
+      "SELLER",
+      "ABC Company",
+      "Shop 12, Market Road, City — 400001",
+      "CONSIGNEE",
+      "Tanjina",
+      "House- 36, Road- 7, Maharashtra",
+      "Vehicle no.: MH 01 AB 1234",
+      "Purpose: Job work",
+      "# Description HSN/SAC Qty Rate Taxable GST %",
+      "1 Pencil Box 9056 100.00 ₹180.00 ₹18,000.00 5%",
+      "2 Stapler 3541 500.00 ₹150.00 ₹75,000.00 6%",
+      "Taxable value ₹93,000.00",
+      "CGST ₹2,700.00",
+      "SGST ₹2,700.00",
+      "Grand total ₹98,400.00",
+      "Amount in words: Ninety Eight Thousand Four Hundred Rupees Only",
+      "Notes: Goods sent for the purpose stated above. Not a sale."
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [],
+    "notes": "Visually checked all entries; retained printed spelling and numeric inconsistencies. Whitespace/table layout linearized."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/982d3081da15.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

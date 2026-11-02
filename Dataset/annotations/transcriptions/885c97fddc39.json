@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "885c97fddc39",
+  "source_image": {
+    "path": "Dataset/Delivery_Note/delivery-challan-DC-010.jpg",
+    "sha256": "0403be9dbeb7128f8f1cce25f7c000b676896e5a6a3a071a7e41e5a6f9e8ced8"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/885c97fddc39.jpg",
+    "sha256": "d0b7333e404bc79a5369fbb1906f717d6a63ea48707eb416ec9c789e3fea0384"
+  },
+  "classification": {
+    "label": "delivery_note",
+    "split": "train"
+  },
+  "transcription": {
+    "full_text": "DELIVERY CHALLAN\nABC Company\nChallan no. DC-010\nDate 2026-09-04\nPlace of supply Kolkata\nSELLER\nABC Company\nShop 12, Market Road, City â€” 400001\nCONSIGNEE\nUsha\nHouse- 72, Road- 24, Kolkata\nVehicle no.: MH 01 AB 1234\nPurpose: Job work\n# Description HSN/SAC Qty Rate Taxable GST %\n1 Wireless Mouse 9207 50.00 â‚¹750.00 â‚¹37,500.00 20%\n2 Computer Keyboard 3541 250.00 â‚¹900.00 â‚¹2,25,000.00 6%\n3 USB-C Cable 1436 500.00 â‚¹250.00 â‚¹1,25,000.00 5%\nTaxable value â‚¹3,87,500.00\nCGST â‚¹13,625.00\nSGST â‚¹13,625.00\nGrand total â‚¹4,14,750.00\nAmount in words: Four Lakh Fourteen Thousand Seven Hundred Fifty Rupees Only\nNotes: Goods sent for the purpose stated above. Not a sale.",
+    "lines": [
+      "DELIVERY CHALLAN",
+      "ABC Company",
+      "Challan no. DC-010",
+      "Date 2026-09-04",
+      "Place of supply Kolkata",
+      "SELLER",
+      "ABC Company",
+      "Shop 12, Market Road, City â€” 400001",
+      "CONSIGNEE",
+      "Usha",
+      "House- 72, Road- 24, Kolkata",
+      "Vehicle no.: MH 01 AB 1234",
+      "Purpose: Job work",
+      "# Description HSN/SAC Qty Rate Taxable GST %",
+      "1 Wireless Mouse 9207 50.00 â‚¹750.00 â‚¹37,500.00 20%",
+      "2 Computer Keyboard 3541 250.00 â‚¹900.00 â‚¹2,25,000.00 6%",
+      "3 USB-C Cable 1436 500.00 â‚¹250.00 â‚¹1,25,000.00 5%",
+      "Taxable value â‚¹3,87,500.00",
+      "CGST â‚¹13,625.00",
+      "SGST â‚¹13,625.00",
+      "Grand total â‚¹4,14,750.00",
+      "Amount in words: Four Lakh Fourteen Thousand Seven Hundred Fifty Rupees Only",
+      "Notes: Goods sent for the purpose stated above. Not a sale."
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [],
+    "notes": "Visually checked all entries; retained printed spelling and numeric inconsistencies. Whitespace/table layout linearized."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/885c97fddc39.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "cbce3b093ee3",
+  "source_image": {
+    "path": "Dataset/Delivery_Note/delivery-challan-DC-014.jpg",
+    "sha256": "4d68f246c297fde2d038ab1e8c7d7f545c5528dfa8132334a08edcd3075eda58"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/cbce3b093ee3.jpg",
+    "sha256": "11eb338ef87a11a19078af60d1253ea1a701fe6f07fae3daf3e3411c85fe791b"
+  },
+  "classification": {
+    "label": "delivery_note",
+    "split": "train"
+  },
+  "transcription": {
+    "full_text": "DELIVERY CHALLAN\nABC Company\nChallan no. DC-014\nDate 2026-09-04\nPlace of supply Kolkata\nSELLER\nABC Company\nShop 12, Market Road, City — 400001\nCONSIGNEE\nUrmi Khatun\nHouse- 64, Road- 35, Kolkata\nVehicle no.: MH 01 AB 1234\nPurpose: Job work\n# Description HSN/SAC Qty Rate Taxable GST %\n1 Face Wash 1837 1.00 ₹320.00 ₹320.00 4%\n2 Shampoo 8864 1.00 ₹450.00 ₹450.00 5%\n3 Body lotion 8778 1.00 ₹500.00 ₹500.00 6%\nTaxable value ₹1,270.00\nCGST ₹32.65\nSGST ₹32.65\nGrand total ₹1,335.30\nAmount in words: One Thousand Three Hundred Thirty Five Rupees and Thirty Paise Only\nNotes: Goods sent for the purpose stated above. Not a sale.",
+    "lines": [
+      "DELIVERY CHALLAN",
+      "ABC Company",
+      "Challan no. DC-014",
+      "Date 2026-09-04",
+      "Place of supply Kolkata",
+      "SELLER",
+      "ABC Company",
+      "Shop 12, Market Road, City — 400001",
+      "CONSIGNEE",
+      "Urmi Khatun",
+      "House- 64, Road- 35, Kolkata",
+      "Vehicle no.: MH 01 AB 1234",
+      "Purpose: Job work",
+      "# Description HSN/SAC Qty Rate Taxable GST %",
+      "1 Face Wash 1837 1.00 ₹320.00 ₹320.00 4%",
+      "2 Shampoo 8864 1.00 ₹450.00 ₹450.00 5%",
+      "3 Body lotion 8778 1.00 ₹500.00 ₹500.00 6%",
+      "Taxable value ₹1,270.00",
+      "CGST ₹32.65",
+      "SGST ₹32.65",
+      "Grand total ₹1,335.30",
+      "Amount in words: One Thousand Three Hundred Thirty Five Rupees and Thirty Paise Only",
+      "Notes: Goods sent for the purpose stated above. Not a sale."
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [],
+    "notes": ""
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/cbce3b093ee3.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

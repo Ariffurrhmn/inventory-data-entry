@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "8f6f9027cdb3",
+  "source_image": {
+    "path": "Dataset/Customer_Copy/image_1758.jpg",
+    "sha256": "a01cefe6aef1822c7d4a4048a7f5326e371b4a25b96ed9bd481f38748d1d4b18"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/8f6f9027cdb3.jpg",
+    "sha256": "1b75d1a43cc9e76f12e7458ec76e85a1ea0423b278576a198afffe5bda2692ff"
+  },
+  "classification": {
+    "label": "customer_copy",
+    "split": "test"
+  },
+  "transcription": {
+    "full_text": "Welcome to Chick-fil-A\nSaxon Boulevard FSU (#01125)\nOrange City, FL\n(386) 774-8625\nOperator: Jamey Vance\nCUSTOMER COPY\n5/6/2016 10:43:03 AM\nDINE IN\nOrder Number: 4233297\n1 Meal-SpcySand 6.25\nSpcy Sand\nFries MD\nSwt Tea MD\nSub. Total: $6.25\nTax: $0.41\nTotal: $6.66\nChange $0.34\nCash $7.00\nRegister:5 Tran Seq No: 4233297\nCashier:Christopher\nIt was our pleasure serving you!\nHave a wonderful day.",
+    "lines": [
+      "Welcome to Chick-fil-A",
+      "Saxon Boulevard FSU (#01125)",
+      "Orange City, FL",
+      "(386) 774-8625",
+      "Operator: Jamey Vance",
+      "CUSTOMER COPY",
+      "5/6/2016 10:43:03 AM",
+      "DINE IN",
+      "Order Number: 4233297",
+      "1 Meal-SpcySand 6.25",
+      "Spcy Sand",
+      "Fries MD",
+      "Swt Tea MD",
+      "Sub. Total: $6.25",
+      "Tax: $0.41",
+      "Total: $6.66",
+      "Change $0.34",
+      "Cash $7.00",
+      "Register:5 Tran Seq No: 4233297",
+      "Cashier:Christopher",
+      "It was our pleasure serving you!",
+      "Have a wonderful day."
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [],
+    "notes": "Visually checked; blank fields left blank. Printed masking is represented by [masked] where exact symbol count is not reliable."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/8f6f9027cdb3.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

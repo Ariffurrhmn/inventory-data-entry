@@ -1,0 +1,16 @@
+{
+  "services/document_classifier/data/splits.csv": "0b73f0153ae37a842289ff313d37fabba52f26d97b6fd38a4913957adeba695b",
+  "services/document_classifier/data/manifest.csv": "f4ce768a92308dde08a9d771bae3f9657e29fea07160a0c0e87b4291e47d6e9f",
+  "services/document_classifier/labels.csv": "137ea51441c37e2cb64dabfa8acf54baea4015d1838e7a5a2d8a249017710f42",
+  "Dataset/annotations/review_actions.json": "72dc21ad5139d100749cbf24aeb3c12d17656fc9a7aef73021442ed55aa32cb6",
+  "Dataset/annotations/versions/utf8-v2/transcriptions/d6b7679bc0a8.json": "b6907490aea897dce1e7245e76353f917972f6e37e43a77d4084d35721d8086a",
+  "Dataset/annotations/versions/utf8-v2/transcriptions/7bd460b8c269.json": "9e92dc8987262459eb207db899cdbf8c76c2f9cfecbb6c20556bb6382364ad87",
+  "Dataset/annotations/versions/utf8-v2/transcriptions/5564ab2d8b11.json": "18f831adecc6807727b7bf940e8022e2607f8a62aca2bb335998f915f17fc9c6",
+  "Dataset/annotations/versions/utf8-v2/transcriptions/fcac4e4559e8.json": "e102d8cb53897a394e8000ab767b200d378669749e71332e93b16a0fe858e89c",
+  "Dataset/annotations/versions/utf8-v2/transcriptions/e24acf8b8294.json": "41f3d7824c483218eb3b0ae4bf1bdb9c49bedac0ce8c7ee474c64e22badd3fdc",
+  "Dataset/annotations/versions/utf8-v2/transcriptions/be13e587ee89.json": "be725503d91dc07ba0ec72fd4313b8a0fddd1a2c2b82364f7b0ce939ef65846e",
+  "Dataset/annotations/versions/utf8-v2/transcriptions/c4e63d9e78fe.json": "3a4ce0d23e330f6c9951794891b5a99b422cce932c3a892e754273b3e1d02bcb",
+  "Dataset/annotations/versions/utf8-v2/transcriptions/dc0e8749153f.json": "adf750572a755a0f3b9598fa268463e7b40cd29ab8eb8952cdc186f290e9ba0f",
+  "Dataset/annotations/versions/utf8-v2/transcriptions/99227d025be4.json": "26a962fa0ed1c17b4fd3fbfb09c687e25727284b3b5b35e89b985f6bc6ca2a81",
+  "Dataset/annotations/versions/utf8-v2/transcriptions/684abec37a2d.json": "ec2915afb2389b03038756a8be10c9a4610f7bdf654b80cd2a15c1cc9f8c7ea3"
+}

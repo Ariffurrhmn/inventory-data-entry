@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "54a5c3334a7e",
+  "source_image": {
+    "path": "Dataset/Customer_Copy/1057-receipt.jpg",
+    "sha256": "15c7ee580daaa41a0fe4ea07a74e82098a97b43856cdec2e414a1fece0ffdbfd"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/54a5c3334a7e.jpg",
+    "sha256": "d1550aed36b57b9c9bc35cfa80db900b7283160a4d5bfb7c82b26ec9629b4f3b"
+  },
+  "classification": {
+    "label": "customer_copy",
+    "split": "train"
+  },
+  "transcription": {
+    "full_text": "CAFE PARISIEN LARCHMONT LLC\n242 N LARCHMONT BLVD\nLOS ANGELES, CA 90004\n(310) 815-8222\nDine In\nServer: Kimberly L.\nJan 24, 2019\nReceipt: YWG5\n10:29 AM\nTable: 36\nItem(s)\nCROISSANT AUX RAISINS $4.00\nCappucino $4.75\nSubtotal $8.75\nSales Tax (9.5%) $0.83\nTotal $9.58\nCustomer Copy",
+    "lines": [
+      "CAFE PARISIEN LARCHMONT LLC",
+      "242 N LARCHMONT BLVD",
+      "LOS ANGELES, CA 90004",
+      "(310) 815-8222",
+      "Dine In",
+      "Server: Kimberly L.",
+      "Jan 24, 2019",
+      "Receipt: YWG5",
+      "10:29 AM",
+      "Table: 36",
+      "Item(s)",
+      "CROISSANT AUX RAISINS $4.00",
+      "Cappucino $4.75",
+      "Subtotal $8.75",
+      "Sales Tax (9.5%) $0.83",
+      "Total $9.58",
+      "Customer Copy"
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [],
+    "notes": ""
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/54a5c3334a7e.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

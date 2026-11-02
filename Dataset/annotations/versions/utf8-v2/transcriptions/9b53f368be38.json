@@ -1,0 +1,54 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "9b53f368be38",
+  "source_image": {
+    "path": "Dataset/Purchase_Order/Purchase Order 6.jpg",
+    "sha256": "4a085674296ed8f7e23323b33405ed0f597b508be6078234f98b0d87e9278b86"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/9b53f368be38.jpg",
+    "sha256": "5b861e636d2f69110dbb9de2e4700c179d333b2548cd4b3db76701fbc5bbb35c"
+  },
+  "classification": {
+    "label": "purchase_order",
+    "split": "train"
+  },
+  "transcription": {
+    "full_text": "Suraiya Rahman PURCHASE\nORDER\n\nPurchase Order # 6\n\nBill To: Ship To:\nMithy Khan Urm Islam Date: Oct 8, 2026\nRequired By: Oct 11, 2026\nItem Quantity Rate Amount\nCeramic Mug 20 $2.80 $56.00\nLED Desk Lamp 10 $8.50 $85.00\n\nSubtotal: $141.00\nTax (0.35%): $0.49\n\nTotal: $141.49",
+    "lines": [
+      "Suraiya Rahman PURCHASE",
+      "ORDER",
+      "",
+      "Purchase Order # 6",
+      "",
+      "Bill To: Ship To:",
+      "Mithy Khan Urm Islam Date: Oct 8, 2026",
+      "Required By: Oct 11, 2026",
+      "Item Quantity Rate Amount",
+      "Ceramic Mug 20 $2.80 $56.00",
+      "LED Desk Lamp 10 $8.50 $85.00",
+      "",
+      "Subtotal: $141.00",
+      "Tax (0.35%): $0.49",
+      "",
+      "Total: $141.49"
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [],
+    "notes": ""
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/9b53f368be38.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

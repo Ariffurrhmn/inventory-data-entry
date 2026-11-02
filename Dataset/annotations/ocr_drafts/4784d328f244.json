@@ -1,0 +1,486 @@
+{
+  "sample_id": "4784d328f244",
+  "source_path": "Dataset/Delivery_Note/packing-slip-1079.png",
+  "source_sha256": "c538ae1493d82b497dfbbd3f903641c9ece3f38507e5944e07fcc5e5efa3eb6e",
+  "prepared_image_path": "data/images/4784d328f244.jpg",
+  "prepared_image_sha256": "098d510c93c98c549f5e1876176ba46fc84386f0333fc563d3f8b11334ffcb60",
+  "label": "delivery_note",
+  "split": "test",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "Packing Slip\n\nFrom\n\nCrimson&Co\n\n07 South Bishil Road\n1216\n\nBangladesh\n\nShip to\n\nOrder #1079\nSeptember 11, 2026\n\nOrder Details\n\nQty Item\n1 Heritage Horse Ribbed Tank Top - L\n\n1 Vintage-Style Contrast Ringer Tee - XL\n",
+  "ocr_image_size": [
+    1400,
+    1680
+  ],
+  "words": [
+    {
+      "text": "Packing",
+      "confidence": 96.404297,
+      "box": [
+        83,
+        25,
+        129,
+        31
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Slip",
+      "confidence": 95.050819,
+      "box": [
+        225,
+        24,
+        58,
+        32
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "From",
+      "confidence": 96.56263,
+      "box": [
+        82,
+        92,
+        46,
+        14
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Crimson&Co",
+      "confidence": 90.856697,
+      "box": [
+        82,
+        112,
+        106,
+        15
+      ],
+      "block": 2,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "07",
+      "confidence": 96.890465,
+      "box": [
+        82,
+        134,
+        20,
+        13
+      ],
+      "block": 2,
+      "paragraph": 3,
+      "line": 1
+    },
+    {
+      "text": "South",
+      "confidence": 93.179329,
+      "box": [
+        108,
+        133,
+        48,
+        14
+      ],
+      "block": 2,
+      "paragraph": 3,
+      "line": 1
+    },
+    {
+      "text": "Bishil",
+      "confidence": 84.276947,
+      "box": [
+        165,
+        134,
+        42,
+        13
+      ],
+      "block": 2,
+      "paragraph": 3,
+      "line": 1
+    },
+    {
+      "text": "Road",
+      "confidence": 96.993179,
+      "box": [
+        215,
+        134,
+        43,
+        13
+      ],
+      "block": 2,
+      "paragraph": 3,
+      "line": 1
+    },
+    {
+      "text": "1216",
+      "confidence": 96.774689,
+      "box": [
+        83,
+        153,
+        40,
+        14
+      ],
+      "block": 2,
+      "paragraph": 3,
+      "line": 2
+    },
+    {
+      "text": "Bangladesh",
+      "confidence": 96.618141,
+      "box": [
+        82,
+        174,
+        99,
+        18
+      ],
+      "block": 2,
+      "paragraph": 4,
+      "line": 1
+    },
+    {
+      "text": "Ship",
+      "confidence": 95.979172,
+      "box": [
+        700,
+        92,
+        39,
+        17
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "to",
+      "confidence": 96.603348,
+      "box": [
+        744,
+        92,
+        18,
+        14
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Order",
+      "confidence": 96.822029,
+      "box": [
+        1212,
+        21,
+        47,
+        15
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "#1079",
+      "confidence": 96.030075,
+      "box": [
+        1265,
+        22,
+        52,
+        13
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "September",
+      "confidence": 96.737793,
+      "box": [
+        1146,
+        42,
+        92,
+        18
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "11,",
+      "confidence": 96.929832,
+      "box": [
+        1245,
+        43,
+        24,
+        16
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "2026",
+      "confidence": 96.783272,
+      "box": [
+        1275,
+        43,
+        42,
+        13
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Order",
+      "confidence": 96.473885,
+      "box": [
+        82,
+        254,
+        56,
+        15
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Details",
+      "confidence": 94.377312,
+      "box": [
+        145,
+        254,
+        65,
+        15
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Qty",
+      "confidence": 95.663094,
+      "box": [
+        90,
+        301,
+        38,
+        30
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Item",
+      "confidence": 93.606232,
+      "box": [
+        278,
+        306,
+        38,
+        14
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "1",
+      "confidence": 96.849892,
+      "box": [
+        95,
+        348,
+        5,
+        13
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Heritage",
+      "confidence": 96.261406,
+      "box": [
+        278,
+        348,
+        70,
+        17
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Horse",
+      "confidence": 96.989067,
+      "box": [
+        355,
+        348,
+        49,
+        14
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Ribbed",
+      "confidence": 95.433105,
+      "box": [
+        411,
+        348,
+        58,
+        14
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Tank",
+      "confidence": 96.831589,
+      "box": [
+        475,
+        348,
+        38,
+        14
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Top",
+      "confidence": 93.107819,
+      "box": [
+        520,
+        344,
+        25,
+        26
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "-",
+      "confidence": 87.76297,
+      "box": [
+        557,
+        355,
+        5,
+        2
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "L",
+      "confidence": 87.76297,
+      "box": [
+        570,
+        348,
+        9,
+        13
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "1",
+      "confidence": 96.742874,
+      "box": [
+        95,
+        389,
+        5,
+        13
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Vintage-Style",
+      "confidence": 91.830254,
+      "box": [
+        277,
+        388,
+        112,
+        18
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Contrast",
+      "confidence": 96.608749,
+      "box": [
+        395,
+        388,
+        72,
+        14
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Ringer",
+      "confidence": 96.293243,
+      "box": [
+        474,
+        388,
+        53,
+        18
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Tee",
+      "confidence": 92.950294,
+      "box": [
+        535,
+        388,
+        24,
+        14
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "-",
+      "confidence": 89.004898,
+      "box": [
+        567,
+        395,
+        6,
+        3
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "XL",
+      "confidence": 96.520065,
+      "box": [
+        580,
+        388,
+        21,
+        14
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "4f2b8c0f0665",
+  "source_image": {
+    "path": "Dataset/Customer_Copy/image_0592.jpg",
+    "sha256": "e74e1dd193087277bc53d0be4affc8e010e469c191c84ce6cc6d71c47b8664bf"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/4f2b8c0f0665.jpg",
+    "sha256": "19a53bacc3bd0a9411d04c27e4df18d111cc3a762496fb13a0d23c0ceb878acb"
+  },
+  "classification": {
+    "label": "customer_copy",
+    "split": "train"
+  },
+  "transcription": {
+    "full_text": "California Pizza Kitchen #240\n1200 Morris Turnpike\nShort Hills, NJ 07078\n(973) 379-3700\n04/21/2018 14:15:33\nCHASE VISA\nEntry Method: Chip\nCARD #: [masked][redacted]\nPURCHASE - APPROVED\nAUTH CODE:061781\nMode: Issuer\nAID: A0000000031010\nTVR: 0000008000\nIAD: 06010A03602002\nTSI: F800\nARC: 00\nMID: 369011\nTID: 001\nRRN: 101001\nSubTotal USD $ 15.00\nTip USD $ 2.00\nTotal USD $ 17.00\nSignature:\nCUSTOMER COPY\nTHANK YOU!",
+    "lines": [
+      "California Pizza Kitchen #240",
+      "1200 Morris Turnpike",
+      "Short Hills, NJ 07078",
+      "(973) 379-3700",
+      "04/21/2018 14:15:33",
+      "CHASE VISA",
+      "Entry Method: Chip",
+      "CARD #: [masked][redacted]",
+      "PURCHASE - APPROVED",
+      "AUTH CODE:061781",
+      "Mode: Issuer",
+      "AID: A0000000031010",
+      "TVR: 0000008000",
+      "IAD: 06010A03602002",
+      "TSI: F800",
+      "ARC: 00",
+      "MID: 369011",
+      "TID: 001",
+      "RRN: 101001",
+      "SubTotal USD $ 15.00",
+      "Tip USD $ 2.00",
+      "Total USD $ 17.00",
+      "Signature:",
+      "CUSTOMER COPY",
+      "THANK YOU!"
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [
+      "Payment masking, small terminal/reference identifiers and character counts need a human audit for exact-character scoring."
+    ],
+    "notes": "Visually checked; blank fields left blank. Printed masking is represented by [masked] where exact symbol count is not reliable."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/4f2b8c0f0665.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

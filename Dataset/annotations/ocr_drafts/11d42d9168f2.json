@@ -1,0 +1,655 @@
+{
+  "sample_id": "11d42d9168f2",
+  "source_path": "Dataset/Dataset-2/Customer copy/IMG_1004.HEIC",
+  "source_sha256": "fac69f9d672663a78b5fb7c52511821683035a164a4397fa374ef88969199554",
+  "prepared_image_path": "data/images/11d42d9168f2.jpg",
+  "prepared_image_sha256": "675e7ea70d7e086f7360a31c435c0b063027a754f3f5acb3e153d20a6dcb32ef",
+  "label": "customer_copy",
+  "split": "train",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": " Karnaphuli Traders\nInvoice\n\n~~\n\nInvoice No: INV-9869. Date: 06/07/2026. |\n\"Bill To / Customer: Green Leaf Mart, Badda, Dhaka.\n\nTew. Qty Rate (Tk) Amount (Tk)\n\nA EE I EE a. El\n\nMiniket Rice 25g 10 Tk 1,880 Tk 18,500\n\nMilk Powder 500g 10 Tk 420 Tk 4,200\n\nTk 1,300\n\n",
+  "ocr_image_size": [
+    1400,
+    1866
+  ],
+  "words": [
+    {
+      "text": " Karnaphuli",
+      "confidence": 0.0,
+      "box": [
+        28,
+        103,
+        499,
+        96
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Traders",
+      "confidence": 81.517136,
+      "box": [
+        579,
+        118,
+        284,
+        68
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Invoice",
+      "confidence": 96.097366,
+      "box": [
+        107,
+        208,
+        292,
+        75
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "~~",
+      "confidence": 27.502197,
+      "box": [
+        97,
+        328,
+        1144,
+        20
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Invoice",
+      "confidence": 9.796219,
+      "box": [
+        27,
+        371,
+        246,
+        73
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "No:",
+      "confidence": 92.596123,
+      "box": [
+        297,
+        386,
+        68,
+        42
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "INV-9869.",
+      "confidence": 92.424393,
+      "box": [
+        399,
+        386,
+        215,
+        43
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Date:",
+      "confidence": 96.838188,
+      "box": [
+        670,
+        388,
+        112,
+        41
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "06/07/2026.",
+      "confidence": 90.651604,
+      "box": [
+        812,
+        389,
+        259,
+        45
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "|",
+      "confidence": 84.968498,
+      "box": [
+        1305,
+        382,
+        2,
+        30
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "\"Bill",
+      "confidence": 29.7939,
+      "box": [
+        25,
+        460,
+        163,
+        70
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "To",
+      "confidence": 93.290977,
+      "box": [
+        214,
+        481,
+        48,
+        42
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "/",
+      "confidence": 92.905624,
+      "box": [
+        283,
+        482,
+        26,
+        43
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Customer:",
+      "confidence": 80.764481,
+      "box": [
+        331,
+        482,
+        203,
+        42
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Green",
+      "confidence": 96.74482,
+      "box": [
+        561,
+        485,
+        118,
+        39
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Leaf",
+      "confidence": 96.753937,
+      "box": [
+        701,
+        485,
+        94,
+        41
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Mart,",
+      "confidence": 91.820229,
+      "box": [
+        816,
+        486,
+        110,
+        47
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Badda,",
+      "confidence": 91.820229,
+      "box": [
+        953,
+        486,
+        134,
+        47
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Dhaka.",
+      "confidence": 96.944969,
+      "box": [
+        1112,
+        485,
+        130,
+        42
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Tew.",
+      "confidence": 42.323689,
+      "box": [
+        23,
+        632,
+        200,
+        63
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Qty",
+      "confidence": 93.133545,
+      "box": [
+        558,
+        639,
+        74,
+        53
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Rate",
+      "confidence": 69.058075,
+      "box": [
+        727,
+        641,
+        96,
+        43
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "(Tk)",
+      "confidence": 95.125572,
+      "box": [
+        849,
+        637,
+        91,
+        53
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Amount",
+      "confidence": 39.227165,
+      "box": [
+        999,
+        614,
+        156,
+        89
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "(Tk)",
+      "confidence": 93.857185,
+      "box": [
+        1177,
+        614,
+        78,
+        89
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "A",
+      "confidence": 15.445572,
+      "box": [
+        91,
+        712,
+        211,
+        16
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "EE",
+      "confidence": 17.330025,
+      "box": [
+        382,
+        716,
+        155,
+        12
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "I",
+      "confidence": 21.896454,
+      "box": [
+        554,
+        719,
+        9,
+        9
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "EE",
+      "confidence": 17.37941,
+      "box": [
+        602,
+        719,
+        53,
+        10
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "a.",
+      "confidence": 19.438416,
+      "box": [
+        699,
+        719,
+        163,
+        10
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "El",
+      "confidence": 0.0,
+      "box": [
+        959,
+        718,
+        288,
+        11
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Miniket",
+      "confidence": 90.622704,
+      "box": [
+        90,
+        745,
+        402,
+        98
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Rice",
+      "confidence": 96.481537,
+      "box": [
+        284,
+        741,
+        99,
+        108
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "25g",
+      "confidence": 63.340904,
+      "box": [
+        410,
+        741,
+        90,
+        108
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "10",
+      "confidence": 78.03183,
+      "box": [
+        574,
+        778,
+        47,
+        41
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Tk",
+      "confidence": 77.696777,
+      "box": [
+        698,
+        741,
+        81,
+        108
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "1,880",
+      "confidence": 59.127281,
+      "box": [
+        806,
+        741,
+        108,
+        108
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Tk",
+      "confidence": 68.459946,
+      "box": [
+        986,
+        741,
+        90,
+        108
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "18,500",
+      "confidence": 96.504105,
+      "box": [
+        1103,
+        778,
+        144,
+        49
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Milk",
+      "confidence": 95.441589,
+      "box": [
+        82,
+        848,
+        102,
+        90
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Powder",
+      "confidence": 95.441589,
+      "box": [
+        209,
+        848,
+        151,
+        90
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "500g",
+      "confidence": 82.413429,
+      "box": [
+        389,
+        848,
+        98,
+        90
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "10",
+      "confidence": 83.163055,
+      "box": [
+        562,
+        866,
+        58,
+        63
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Tk",
+      "confidence": 55.49992,
+      "box": [
+        689,
+        848,
+        82,
+        90
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "420",
+      "confidence": 96.814766,
+      "box": [
+        795,
+        848,
+        75,
+        90
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Tk",
+      "confidence": 90.265953,
+      "box": [
+        1036,
+        872,
+        51,
+        42
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "4,200",
+      "confidence": 90.265953,
+      "box": [
+        1126,
+        872,
+        121,
+        50
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Tk",
+      "confidence": 96.17321,
+      "box": [
+        1035,
+        969,
+        52,
+        43
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "1,300",
+      "confidence": 94.84758,
+      "box": [
+        1131,
+        970,
+        118,
+        51
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    }
+  ]
+}

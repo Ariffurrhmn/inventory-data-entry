@@ -1,0 +1,395 @@
+{
+  "sample_id": "450255bc884a",
+  "source_path": "Dataset/Delivery_Note/packing-slip-1064.png",
+  "source_sha256": "b243f456426c9f39cf3ad37e7491542a49f83f30c2d5fbda6a676048ee763c18",
+  "prepared_image_path": "data/images/450255bc884a.jpg",
+  "prepared_image_sha256": "ac2b2875b6c7e9b1628ecc5d9eca817272fbdf270bc60ffd6e7dccad252f198c",
+  "label": "delivery_note",
+  "split": "test",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "Order #1064\n\nPacking Slip September 5, 2026\n\nFrom Ship to\nCrimson&Co\n\n07 South Bishil Road\n\n1216\n\nBangladesh\n\nOrder Details\n\nQty Item\n1 The Ascot Check Boxy Shirt - S\n",
+  "ocr_image_size": [
+    1400,
+    1680
+  ],
+  "words": [
+    {
+      "text": "Order",
+      "confidence": 96.768867,
+      "box": [
+        1212,
+        21,
+        47,
+        15
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "#1064",
+      "confidence": 96.565247,
+      "box": [
+        1265,
+        22,
+        52,
+        13
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Packing",
+      "confidence": 96.675156,
+      "box": [
+        83,
+        25,
+        129,
+        31
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Slip",
+      "confidence": 96.77475,
+      "box": [
+        225,
+        24,
+        58,
+        32
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "September",
+      "confidence": 93.636116,
+      "box": [
+        1156,
+        42,
+        93,
+        18
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "5,",
+      "confidence": 93.636116,
+      "box": [
+        1255,
+        43,
+        14,
+        16
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "2026",
+      "confidence": 95.592545,
+      "box": [
+        1275,
+        43,
+        42,
+        13
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "From",
+      "confidence": 96.661835,
+      "box": [
+        82,
+        88,
+        46,
+        25
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Ship",
+      "confidence": 95.997551,
+      "box": [
+        700,
+        92,
+        39,
+        17
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "to",
+      "confidence": 96.610672,
+      "box": [
+        744,
+        92,
+        18,
+        14
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Crimson&Co",
+      "confidence": 90.856697,
+      "box": [
+        82,
+        112,
+        106,
+        15
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "07",
+      "confidence": 96.890465,
+      "box": [
+        82,
+        134,
+        20,
+        13
+      ],
+      "block": 3,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "South",
+      "confidence": 93.179329,
+      "box": [
+        108,
+        133,
+        48,
+        14
+      ],
+      "block": 3,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "Bishil",
+      "confidence": 84.276947,
+      "box": [
+        165,
+        134,
+        42,
+        13
+      ],
+      "block": 3,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "Road",
+      "confidence": 96.993179,
+      "box": [
+        215,
+        134,
+        43,
+        13
+      ],
+      "block": 3,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "1216",
+      "confidence": 96.774689,
+      "box": [
+        83,
+        153,
+        40,
+        14
+      ],
+      "block": 3,
+      "paragraph": 3,
+      "line": 1
+    },
+    {
+      "text": "Bangladesh",
+      "confidence": 96.618141,
+      "box": [
+        82,
+        174,
+        99,
+        18
+      ],
+      "block": 3,
+      "paragraph": 4,
+      "line": 1
+    },
+    {
+      "text": "Order",
+      "confidence": 96.473885,
+      "box": [
+        82,
+        254,
+        56,
+        15
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Details",
+      "confidence": 94.377312,
+      "box": [
+        145,
+        254,
+        65,
+        15
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Qty",
+      "confidence": 96.244476,
+      "box": [
+        90,
+        302,
+        38,
+        28
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Item",
+      "confidence": 93.73877,
+      "box": [
+        278,
+        306,
+        38,
+        14
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "1",
+      "confidence": 96.810143,
+      "box": [
+        95,
+        348,
+        5,
+        13
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "The",
+      "confidence": 96.709885,
+      "box": [
+        277,
+        348,
+        31,
+        14
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Ascot",
+      "confidence": 96.765007,
+      "box": [
+        314,
+        348,
+        48,
+        14
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Check",
+      "confidence": 96.656693,
+      "box": [
+        369,
+        347,
+        52,
+        15
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Boxy",
+      "confidence": 96.96936,
+      "box": [
+        428,
+        348,
+        41,
+        17
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Shirt",
+      "confidence": 87.730225,
+      "box": [
+        476,
+        348,
+        38,
+        14
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "-",
+      "confidence": 87.730225,
+      "box": [
+        520,
+        355,
+        6,
+        2
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "S",
+      "confidence": 87.193413,
+      "box": [
+        533,
+        348,
+        11,
+        14
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 2
+    }
+  ]
+}

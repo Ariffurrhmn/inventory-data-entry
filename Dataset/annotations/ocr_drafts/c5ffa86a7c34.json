@@ -1,0 +1,759 @@
+{
+  "sample_id": "c5ffa86a7c34",
+  "source_path": "Dataset/Purchase_Order/Purchase Order 2.jpg",
+  "source_sha256": "73478caa07593d10c406365c20ed27c81cb111dfb6055610d2aa42e65f04106b",
+  "prepared_image_path": "data/images/c5ffa86a7c34.jpg",
+  "prepared_image_sha256": "050ddbc828302312bc5d38336cceec23310650b812a516839a62b7d37aa37fc8",
+  "label": "purchase_order",
+  "split": "train",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "Arifur Rahman P U RC HAS E\nORDER\n\nPurchase Order # 2\n\nBill To: Ship To:\nRamisa Akhi Date: Oct 7, 2026\nRequired By: Oct 13, 2026\nItem Rate Amount\nPen 10 $0.15 $1.50\nNotebook 5 $1.20 $6.00\n1 $0.12 $0.12\nPencil Box 2 $1.80 $3.60\nStapler 3 $1.50 $4.50\nSubtotal: $15.72\nTax (0.15%): $0.02\n\nTotal: $15.74\n",
+  "ocr_image_size": [
+    1400,
+    1811
+  ],
+  "words": [
+    {
+      "text": "Arifur",
+      "confidence": 91.949829,
+      "box": [
+        111,
+        61,
+        59,
+        17
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Rahman",
+      "confidence": 95.931419,
+      "box": [
+        178,
+        61,
+        85,
+        17
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "P",
+      "confidence": 89.381668,
+      "box": [
+        969,
+        63,
+        33,
+        47
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "U",
+      "confidence": 65.37809,
+      "box": [
+        1011,
+        63,
+        35,
+        48
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "RC",
+      "confidence": 95.856781,
+      "box": [
+        1057,
+        63,
+        83,
+        48
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "HAS",
+      "confidence": 95.887688,
+      "box": [
+        1148,
+        63,
+        122,
+        48
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "E",
+      "confidence": 92.630951,
+      "box": [
+        1279,
+        63,
+        33,
+        47
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "ORDER",
+      "confidence": 96.105515,
+      "box": [
+        1089,
+        138,
+        224,
+        49
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Purchase",
+      "confidence": 96.175468,
+      "box": [
+        1072,
+        210,
+        111,
+        20
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Order",
+      "confidence": 91.646095,
+      "box": [
+        1194,
+        210,
+        68,
+        20
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "#",
+      "confidence": 91.646095,
+      "box": [
+        1271,
+        211,
+        14,
+        19
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "2",
+      "confidence": 96.989334,
+      "box": [
+        1294,
+        210,
+        13,
+        20
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Bill",
+      "confidence": 95.031136,
+      "box": [
+        112,
+        285,
+        26,
+        16
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "To:",
+      "confidence": 96.92202,
+      "box": [
+        146,
+        285,
+        30,
+        16
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Ship",
+      "confidence": 96.269417,
+      "box": [
+        418,
+        284,
+        43,
+        21
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "To:",
+      "confidence": 95.717117,
+      "box": [
+        468,
+        285,
+        31,
+        16
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Ramisa",
+      "confidence": 91.176796,
+      "box": [
+        112,
+        320,
+        76,
+        17
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Akhi",
+      "confidence": 70.049225,
+      "box": [
+        418,
+        320,
+        46,
+        16
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Date:",
+      "confidence": 96.361206,
+      "box": [
+        1008,
+        317,
+        48,
+        40
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Oct",
+      "confidence": 96.009819,
+      "box": [
+        1183,
+        329,
+        33,
+        17
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "7,",
+      "confidence": 94.251816,
+      "box": [
+        1224,
+        329,
+        16,
+        19
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "2026",
+      "confidence": 94.251816,
+      "box": [
+        1249,
+        329,
+        48,
+        17
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Required",
+      "confidence": 94.466156,
+      "box": [
+        930,
+        378,
+        87,
+        21
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "By:",
+      "confidence": 96.376015,
+      "box": [
+        1027,
+        378,
+        29,
+        21
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Oct",
+      "confidence": 96.336777,
+      "box": [
+        1171,
+        378,
+        33,
+        17
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "13,",
+      "confidence": 95.360214,
+      "box": [
+        1213,
+        378,
+        27,
+        20
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "2026",
+      "confidence": 95.544823,
+      "box": [
+        1249,
+        378,
+        48,
+        17
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Item",
+      "confidence": 68.45694,
+      "box": [
+        103,
+        505,
+        40,
+        17
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "Rate",
+      "confidence": 96.388245,
+      "box": [
+        1083,
+        505,
+        44,
+        17
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "Amount",
+      "confidence": 96.77153,
+      "box": [
+        1222,
+        505,
+        76,
+        17
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "Pen",
+      "confidence": 96.679916,
+      "box": [
+        103,
+        563,
+        38,
+        17
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "10",
+      "confidence": 96.825508,
+      "box": [
+        855,
+        564,
+        21,
+        16
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "$0.15",
+      "confidence": 96.860779,
+      "box": [
+        1073,
+        563,
+        54,
+        19
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "$1.50",
+      "confidence": 96.914673,
+      "box": [
+        1245,
+        563,
+        54,
+        19
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "Notebook",
+      "confidence": 96.738373,
+      "box": [
+        103,
+        601,
+        101,
+        17
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "5",
+      "confidence": 96.986847,
+      "box": [
+        854,
+        604,
+        10,
+        16
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "$1.20",
+      "confidence": 96.855377,
+      "box": [
+        1073,
+        603,
+        54,
+        19
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "$6.00",
+      "confidence": 96.827972,
+      "box": [
+        1245,
+        603,
+        54,
+        19
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "1",
+      "confidence": 96.914032,
+      "box": [
+        855,
+        642,
+        6,
+        17
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 7
+    },
+    {
+      "text": "$0.12",
+      "confidence": 96.896568,
+      "box": [
+        1073,
+        642,
+        54,
+        19
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 7
+    },
+    {
+      "text": "$0.12",
+      "confidence": 96.725067,
+      "box": [
+        1245,
+        642,
+        54,
+        19
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 7
+    },
+    {
+      "text": "Pencil",
+      "confidence": 96.167358,
+      "box": [
+        103,
+        680,
+        63,
+        17
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 8
+    },
+    {
+      "text": "Box",
+      "confidence": 96.775482,
+      "box": [
+        175,
+        680,
+        39,
+        17
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 8
+    },
+    {
+      "text": "2",
+      "confidence": 95.56221,
+      "box": [
+        853,
+        682,
+        11,
+        17
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 8
+    },
+    {
+      "text": "$1.80",
+      "confidence": 96.778656,
+      "box": [
+        1073,
+        682,
+        54,
+        19
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 8
+    },
+    {
+      "text": "$3.60",
+      "confidence": 96.824615,
+      "box": [
+        1245,
+        682,
+        54,
+        19
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 8
+    },
+    {
+      "text": "Stapler",
+      "confidence": 95.203461,
+      "box": [
+        102,
+        714,
+        74,
+        32
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 9
+    },
+    {
+      "text": "3",
+      "confidence": 96.916977,
+      "box": [
+        853,
+        721,
+        11,
+        17
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 9
+    },
+    {
+      "text": "$1.50",
+      "confidence": 96.400993,
+      "box": [
+        1073,
+        720,
+        54,
+        20
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 9
+    },
+    {
+      "text": "$4.50",
+      "confidence": 96.777824,
+      "box": [
+        1245,
+        721,
+        54,
+        19
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 9
+    },
+    {
+      "text": "Subtotal:",
+      "confidence": 96.56974,
+      "box": [
+        971,
+        865,
+        85,
+        29
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 10
+    },
+    {
+      "text": "$15.72",
+      "confidence": 96.757523,
+      "box": [
+        1231,
+        868,
+        66,
+        19
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 10
+    },
+    {
+      "text": "Tax",
+      "confidence": 96.579956,
+      "box": [
+        931,
+        919,
+        35,
+        16
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 11
+    },
+    {
+      "text": "(0.15%):",
+      "confidence": 96.579956,
+      "box": [
+        975,
+        919,
+        81,
+        20
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 11
+    },
+    {
+      "text": "$0.02",
+      "confidence": 96.648506,
+      "box": [
+        1245,
+        918,
+        54,
+        19
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 11
+    },
+    {
+      "text": "Total:",
+      "confidence": 96.824821,
+      "box": [
+        1003,
+        964,
+        53,
+        30
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "$15.74",
+      "confidence": 96.241776,
+      "box": [
+        1231,
+        967,
+        66,
+        20
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    }
+  ]
+}

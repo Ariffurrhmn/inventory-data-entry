@@ -1,0 +1,83 @@
+{
+  "sample_id": "6ab38289be74",
+  "source_path": "Dataset/Dataset-2/Purchase order/IMG_0967.HEIC",
+  "source_sha256": "37756ae9ceac3c947c0a484917d2fa427e0e0120c12d8a16286468a040f4b115",
+  "prepared_image_path": "data/images/6ab38289be74.jpg",
+  "prepared_image_sha256": "1df99f193330b00fa0607c7f12ce9e5a79882a698a2f3919c0b5fe3b03225844",
+  "label": "delivery_note",
+  "split": "test",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "_—— mm == —- a\n\n",
+  "ocr_image_size": [
+    1800,
+    1350
+  ],
+  "words": [
+    {
+      "text": "_——",
+      "confidence": 33.860336,
+      "box": [
+        1268,
+        371,
+        45,
+        28
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "mm",
+      "confidence": 17.57122,
+      "box": [
+        1329,
+        383,
+        44,
+        5
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "==",
+      "confidence": 0.0,
+      "box": [
+        1387,
+        384,
+        413,
+        8
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "—-",
+      "confidence": 22.453186,
+      "box": [
+        1760,
+        371,
+        15,
+        28
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "a",
+      "confidence": 46.579803,
+      "box": [
+        1786,
+        371,
+        13,
+        28
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    }
+  ]
+}

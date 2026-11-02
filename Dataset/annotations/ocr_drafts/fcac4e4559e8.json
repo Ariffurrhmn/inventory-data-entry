@@ -1,0 +1,1006 @@
+{
+  "sample_id": "fcac4e4559e8",
+  "source_path": "Dataset/Receipt/cord-train-0124.jpg",
+  "source_sha256": "897b9ff17e680043a4c063af6e8980bcdbf36fce2c2843b6379768ae1af9e300",
+  "prepared_image_path": "data/images/fcac4e4559e8.jpg",
+  "prepared_image_sha256": "e1023ea49154a25f3385ab729553cee92631c8e290985beb5254257d952be313",
+  "label": "receipt",
+  "split": "train",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "Ld 20 NPY\n\nUDG GR TLUR ASIN 145,000\n=XMEDIUMY=\nSAPO TH SEAFOOD 129,000\n=¥MEDIUMY=\n\n. CUMI BR’ JUNJAN 129,000\n\n=XMEDILIME=\nBIHUN GORENG JJ 87.000\n=¥MEDILMk=\n\nOYONG 3 TELOR 84,000\n\nFAMED IUMY=\n\n| GURAME FILLET M 163,000\nASAM MANIS\n\nCHINESE TE 14,000 28,000\nCRYSANTNUM\n\n\"NAST PUTIH 10,000 80,000\n\nHOT TEA 12,000 | 36,000\n\nICED TEA 12,000. 36,000\n\nFOOD 757,000\nBEVERAGES 100,000\nOTHERS BO, 000\nSUBTOTAL 937,000\nSERVICE CHARGE 56,220\nTdx 10% 99,322\n\nDu 1, 092, ME\n\nTHE\n\n",
+  "ocr_image_size": [
+    1400,
+    1867
+  ],
+  "words": [
+    {
+      "text": "Ld",
+      "confidence": 56.403694,
+      "box": [
+        315,
+        1327,
+        30,
+        29
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "20",
+      "confidence": 17.425842,
+      "box": [
+        319,
+        1247,
+        17,
+        46
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "NPY",
+      "confidence": 39.076385,
+      "box": [
+        320,
+        1163,
+        17,
+        67
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "UDG",
+      "confidence": 85.204498,
+      "box": [
+        381,
+        672,
+        54,
+        26
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "GR",
+      "confidence": 74.117996,
+      "box": [
+        455,
+        654,
+        36,
+        45
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "TLUR",
+      "confidence": 90.9552,
+      "box": [
+        511,
+        673,
+        71,
+        27
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "ASIN",
+      "confidence": 82.830315,
+      "box": [
+        603,
+        675,
+        70,
+        25
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "145,000",
+      "confidence": 80.5392,
+      "box": [
+        714,
+        674,
+        123,
+        32
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "=XMEDIUMY=",
+      "confidence": 0.0,
+      "box": [
+        399,
+        713,
+        183,
+        27
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "SAPO",
+      "confidence": 77.444733,
+      "box": [
+        381,
+        753,
+        73,
+        26
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "TH",
+      "confidence": 89.599434,
+      "box": [
+        474,
+        754,
+        36,
+        26
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "SEAFOOD",
+      "confidence": 79.567581,
+      "box": [
+        529,
+        756,
+        126,
+        25
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "129,000",
+      "confidence": 43.957325,
+      "box": [
+        714,
+        755,
+        121,
+        32
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "=¥MEDIUMY=",
+      "confidence": 0.0,
+      "box": [
+        399,
+        795,
+        182,
+        26
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": ".",
+      "confidence": 85.729248,
+      "box": [
+        364,
+        855,
+        4,
+        5
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "CUMI",
+      "confidence": 88.262207,
+      "box": [
+        387,
+        832,
+        63,
+        30
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "BR’",
+      "confidence": 29.953545,
+      "box": [
+        473,
+        834,
+        46,
+        29
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "JUNJAN",
+      "confidence": 82.983521,
+      "box": [
+        532,
+        837,
+        104,
+        25
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "129,000",
+      "confidence": 91.378578,
+      "box": [
+        714,
+        837,
+        121,
+        31
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "=XMEDILIME=",
+      "confidence": 7.581772,
+      "box": [
+        399,
+        876,
+        182,
+        32
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "BIHUN",
+      "confidence": 84.541786,
+      "box": [
+        380,
+        917,
+        92,
+        26
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "GORENG",
+      "confidence": 95.892845,
+      "box": [
+        491,
+        918,
+        108,
+        25
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "JJ",
+      "confidence": 92.881676,
+      "box": [
+        619,
+        918,
+        34,
+        24
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "87.000",
+      "confidence": 62.945286,
+      "box": [
+        728,
+        917,
+        107,
+        32
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "=¥MEDILMk=",
+      "confidence": 27.330948,
+      "box": [
+        398,
+        958,
+        182,
+        25
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "OYONG",
+      "confidence": 18.929626,
+      "box": [
+        372,
+        999,
+        99,
+        26
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "3",
+      "confidence": 66.166237,
+      "box": [
+        491,
+        999,
+        15,
+        25
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "TELOR",
+      "confidence": 87.163467,
+      "box": [
+        529,
+        999,
+        88,
+        25
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "84,000",
+      "confidence": 94.886772,
+      "box": [
+        728,
+        999,
+        107,
+        32
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "FAMED",
+      "confidence": 9.45665,
+      "box": [
+        398,
+        1039,
+        90,
+        26
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "IUMY=",
+      "confidence": 0.0,
+      "box": [
+        495,
+        1040,
+        85,
+        25
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "|",
+      "confidence": 21.839111,
+      "box": [
+        359,
+        1106,
+        3,
+        2
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "GURAME",
+      "confidence": 70.039642,
+      "box": [
+        378,
+        1080,
+        109,
+        26
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "FILLET",
+      "confidence": 92.814484,
+      "box": [
+        508,
+        1073,
+        108,
+        33
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "M",
+      "confidence": 89.548637,
+      "box": [
+        636,
+        1081,
+        17,
+        24
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "163,000",
+      "confidence": 39.542648,
+      "box": [
+        713,
+        1080,
+        122,
+        37
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "ASAM",
+      "confidence": 90.079697,
+      "box": [
+        395,
+        1122,
+        73,
+        25
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "MANIS",
+      "confidence": 86.85038,
+      "box": [
+        488,
+        1121,
+        91,
+        26
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "CHINESE",
+      "confidence": 95.331253,
+      "box": [
+        376,
+        1163,
+        128,
+        26
+      ],
+      "block": 7,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "TE",
+      "confidence": 93.108704,
+      "box": [
+        526,
+        1163,
+        35,
+        26
+      ],
+      "block": 7,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "14,000",
+      "confidence": 52.674812,
+      "box": [
+        602,
+        1162,
+        106,
+        32
+      ],
+      "block": 7,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "28,000",
+      "confidence": 95.824875,
+      "box": [
+        728,
+        1162,
+        108,
+        34
+      ],
+      "block": 7,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "CRYSANTNUM",
+      "confidence": 43.761959,
+      "box": [
+        394,
+        1205,
+        183,
+        26
+      ],
+      "block": 7,
+      "paragraph": 2,
+      "line": 2
+    },
+    {
+      "text": "\"NAST",
+      "confidence": 32.372528,
+      "box": [
+        351,
+        1245,
+        93,
+        28
+      ],
+      "block": 7,
+      "paragraph": 3,
+      "line": 1
+    },
+    {
+      "text": "PUTIH",
+      "confidence": 92.268433,
+      "box": [
+        468,
+        1247,
+        91,
+        26
+      ],
+      "block": 7,
+      "paragraph": 3,
+      "line": 1
+    },
+    {
+      "text": "10,000",
+      "confidence": 75.053078,
+      "box": [
+        601,
+        1247,
+        106,
+        32
+      ],
+      "block": 7,
+      "paragraph": 3,
+      "line": 1
+    },
+    {
+      "text": "80,000",
+      "confidence": 95.750641,
+      "box": [
+        727,
+        1247,
+        110,
+        33
+      ],
+      "block": 7,
+      "paragraph": 3,
+      "line": 1
+    },
+    {
+      "text": "HOT",
+      "confidence": 94.89119,
+      "box": [
+        374,
+        1288,
+        54,
+        26
+      ],
+      "block": 7,
+      "paragraph": 4,
+      "line": 1
+    },
+    {
+      "text": "TEA",
+      "confidence": 58.498032,
+      "box": [
+        449,
+        1288,
+        53,
+        26
+      ],
+      "block": 7,
+      "paragraph": 4,
+      "line": 1
+    },
+    {
+      "text": "12,000",
+      "confidence": 87.516014,
+      "box": [
+        545,
+        1289,
+        106,
+        32
+      ],
+      "block": 7,
+      "paragraph": 4,
+      "line": 1
+    },
+    {
+      "text": "|",
+      "confidence": 68.964828,
+      "box": [
+        685,
+        1289,
+        20,
+        36
+      ],
+      "block": 7,
+      "paragraph": 4,
+      "line": 1
+    },
+    {
+      "text": "36,000",
+      "confidence": 68.541573,
+      "box": [
+        728,
+        1289,
+        109,
+        33
+      ],
+      "block": 7,
+      "paragraph": 4,
+      "line": 1
+    },
+    {
+      "text": "ICED",
+      "confidence": 96.656761,
+      "box": [
+        377,
+        1330,
+        69,
+        26
+      ],
+      "block": 7,
+      "paragraph": 5,
+      "line": 1
+    },
+    {
+      "text": "TEA",
+      "confidence": 86.568573,
+      "box": [
+        468,
+        1330,
+        53,
+        26
+      ],
+      "block": 7,
+      "paragraph": 5,
+      "line": 1
+    },
+    {
+      "text": "12,000.",
+      "confidence": 38.166409,
+      "box": [
+        563,
+        1330,
+        131,
+        33
+      ],
+      "block": 7,
+      "paragraph": 5,
+      "line": 1
+    },
+    {
+      "text": "36,000",
+      "confidence": 85.186432,
+      "box": [
+        729,
+        1331,
+        109,
+        33
+      ],
+      "block": 7,
+      "paragraph": 5,
+      "line": 1
+    },
+    {
+      "text": "FOOD",
+      "confidence": 85.627121,
+      "box": [
+        374,
+        1413,
+        71,
+        27
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "757,000",
+      "confidence": 95.351585,
+      "box": [
+        709,
+        1416,
+        129,
+        33
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "BEVERAGES",
+      "confidence": 93.440132,
+      "box": [
+        374,
+        1455,
+        165,
+        26
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "100,000",
+      "confidence": 95.380608,
+      "box": [
+        712,
+        1457,
+        126,
+        32
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "OTHERS",
+      "confidence": 93.453018,
+      "box": [
+        374,
+        1496,
+        110,
+        26
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "BO,",
+      "confidence": 54.106544,
+      "box": [
+        727,
+        1499,
+        49,
+        32
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "000",
+      "confidence": 59.173195,
+      "box": [
+        786,
+        1499,
+        52,
+        26
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "SUBTOTAL",
+      "confidence": 93.353783,
+      "box": [
+        374,
+        1536,
+        146,
+        28
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "937,000",
+      "confidence": 94.490486,
+      "box": [
+        708,
+        1540,
+        130,
+        34
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "SERVICE",
+      "confidence": 94.820351,
+      "box": [
+        374,
+        1579,
+        126,
+        27
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "CHARGE",
+      "confidence": 96.123985,
+      "box": [
+        521,
+        1580,
+        110,
+        27
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "56,220",
+      "confidence": 93.315163,
+      "box": [
+        728,
+        1578,
+        110,
+        37
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "Tdx",
+      "confidence": 69.286682,
+      "box": [
+        374,
+        1621,
+        52,
+        27
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "10%",
+      "confidence": 95.23967,
+      "box": [
+        452,
+        1621,
+        50,
+        27
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "99,322",
+      "confidence": 95.290192,
+      "box": [
+        728,
+        1624,
+        109,
+        33
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "Du",
+      "confidence": 56.583122,
+      "box": [
+        372,
+        1662,
+        71,
+        51
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "1,",
+      "confidence": 73.68924,
+      "box": [
+        472,
+        1663,
+        74,
+        90
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "092,",
+      "confidence": 92.679909,
+      "box": [
+        545,
+        1658,
+        150,
+        86
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "ME",
+      "confidence": 32.051193,
+      "box": [
+        711,
+        1665,
+        161,
+        112
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "THE",
+      "confidence": 28.115585,
+      "box": [
+        1333,
+        250,
+        15,
+        57
+      ],
+      "block": 12,
+      "paragraph": 1,
+      "line": 1
+    }
+  ]
+}

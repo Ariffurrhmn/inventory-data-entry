@@ -1,0 +1,54 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "772f10ad9975",
+  "source_image": {
+    "path": "Dataset/Dataset-2/Purchase order/IMG_0981.HEIC",
+    "sha256": "df0932e912a73c867648c0472cb4bbc6a3a451b20b953d2ae1c2a02a97c4959b"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/772f10ad9975.jpg",
+    "sha256": "408a0ff6d8982542a7f63395e2de131affd5f610c912f1e8e0d2d93392396a56"
+  },
+  "classification": {
+    "label": "purchase_order",
+    "split": "test"
+  },
+  "transcription": {
+    "full_text": "Purchase Order\nP.O. No: PO-8226\nOrder Date: 26/10/2026\nSupplier:\nBengal Consumer Goods.\nBill To:\nShapla Grocery,\nSavar, Dhaka.\nShip To:\nShapla Grocery,\nSavar, Dhaka.\nItem Qty Unit Price (Tk) Amount (Tk)\nBath Soap 100g 20 Tk 55 Tk 1,100\nExercise Book 2 Tk 45 Tk 90\nGrand Total: Tk 1,190\nAuthorized Signature",
+    "lines": [
+      "Purchase Order",
+      "P.O. No: PO-8226",
+      "Order Date: 26/10/2026",
+      "Supplier:",
+      "Bengal Consumer Goods.",
+      "Bill To:",
+      "Shapla Grocery,",
+      "Savar, Dhaka.",
+      "Ship To:",
+      "Shapla Grocery,",
+      "Savar, Dhaka.",
+      "Item Qty Unit Price (Tk) Amount (Tk)",
+      "Bath Soap 100g 20 Tk 55 Tk 1,100",
+      "Exercise Book 2 Tk 45 Tk 90",
+      "Grand Total: Tk 1,190",
+      "Authorized Signature"
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [],
+    "notes": ""
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/772f10ad9975.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

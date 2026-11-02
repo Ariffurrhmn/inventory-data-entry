@@ -1,0 +1,720 @@
+{
+  "sample_id": "11b4da10d765",
+  "source_path": "Dataset/Dataset-2/Purchase order/IMG_0979.HEIC",
+  "source_sha256": "c1497005cd9a279b7d23e3d2bb6cd28f704f6572c99f2f1a62799a594033c484",
+  "prepared_image_path": "data/images/11b4da10d765.jpg",
+  "prepared_image_sha256": "1cef058a056bccde093bca90b3c4df4d83e392dc6e6f525fc6c48f71e3c9e4c4",
+  "label": "purchase_order",
+  "split": "test",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "Purchase Order\n\nP.O. No: PO-1405\nOrder Date: 05/09/2026\n\nBill To / Ship To\n\nBismillah Store,\nMohammadpur, Dhaka.\n\nSonar Bangla Distributors\n\nItem Qty Unit Price (Tk) = Amount (Tk)\nToothpaste 100g 6 120 720\nShampoo 340ml 2 450 900\nExercise Book 20 45 900\nSugar 1kg 20 135 2,700\n\nGrand Total: Tk 5,220\n\nAuthorized Signature\n",
+  "ocr_image_size": [
+    1400,
+    1866
+  ],
+  "words": [
+    {
+      "text": "Purchase",
+      "confidence": 96.689667,
+      "box": [
+        321,
+        92,
+        448,
+        94
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Order",
+      "confidence": 96.012955,
+      "box": [
+        797,
+        108,
+        288,
+        87
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "P.O.",
+      "confidence": 74.833626,
+      "box": [
+        102,
+        262,
+        93,
+        37
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "No:",
+      "confidence": 88.621002,
+      "box": [
+        211,
+        264,
+        72,
+        37
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "PO-1405",
+      "confidence": 88.432365,
+      "box": [
+        339,
+        270,
+        155,
+        35
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Order",
+      "confidence": 96.23687,
+      "box": [
+        100,
+        337,
+        116,
+        35
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Date:",
+      "confidence": 93.466286,
+      "box": [
+        228,
+        341,
+        100,
+        34
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "05/09/2026",
+      "confidence": 93.466286,
+      "box": [
+        363,
+        345,
+        196,
+        38
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Bill",
+      "confidence": 96.688889,
+      "box": [
+        754,
+        455,
+        66,
+        36
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "To",
+      "confidence": 92.941689,
+      "box": [
+        840,
+        459,
+        49,
+        33
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "/",
+      "confidence": 92.941689,
+      "box": [
+        906,
+        459,
+        14,
+        35
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Ship",
+      "confidence": 96.925751,
+      "box": [
+        940,
+        459,
+        89,
+        46
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "To",
+      "confidence": 96.813995,
+      "box": [
+        1046,
+        464,
+        48,
+        33
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Bismillah",
+      "confidence": 96.785942,
+      "box": [
+        759,
+        543,
+        164,
+        35
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Store,",
+      "confidence": 95.327507,
+      "box": [
+        936,
+        547,
+        99,
+        40
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Mohammadpur,",
+      "confidence": 89.951645,
+      "box": [
+        759,
+        600,
+        265,
+        45
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Dhaka.",
+      "confidence": 96.379929,
+      "box": [
+        1037,
+        603,
+        114,
+        35
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Sonar",
+      "confidence": 95.674889,
+      "box": [
+        118,
+        543,
+        108,
+        34
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Bangla",
+      "confidence": 96.717674,
+      "box": [
+        239,
+        544,
+        123,
+        44
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Distributors",
+      "confidence": 96.171814,
+      "box": [
+        375,
+        547,
+        215,
+        38
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Item",
+      "confidence": 95.415672,
+      "box": [
+        117,
+        739,
+        88,
+        48
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Qty",
+      "confidence": 95.485336,
+      "box": [
+        573,
+        743,
+        65,
+        50
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Unit",
+      "confidence": 96.641342,
+      "box": [
+        725,
+        750,
+        74,
+        31
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Price",
+      "confidence": 96.416954,
+      "box": [
+        813,
+        751,
+        86,
+        31
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "(Tk)",
+      "confidence": 85.604187,
+      "box": [
+        914,
+        751,
+        69,
+        37
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "=",
+      "confidence": 39.439186,
+      "box": [
+        1018,
+        746,
+        18,
+        51
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Amount",
+      "confidence": 87.634384,
+      "box": [
+        1051,
+        755,
+        146,
+        30
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "(Tk)",
+      "confidence": 95.974312,
+      "box": [
+        1212,
+        755,
+        67,
+        36
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Toothpaste",
+      "confidence": 96.762428,
+      "box": [
+        109,
+        842,
+        203,
+        46
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "100g",
+      "confidence": 96.657204,
+      "box": [
+        328,
+        847,
+        85,
+        43
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "6",
+      "confidence": 96.927536,
+      "box": [
+        592,
+        849,
+        21,
+        33
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "120",
+      "confidence": 97.01387,
+      "box": [
+        824,
+        836,
+        61,
+        62
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "720",
+      "confidence": 96.837769,
+      "box": [
+        1146,
+        856,
+        62,
+        32
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Shampoo",
+      "confidence": 95.919739,
+      "box": [
+        106,
+        923,
+        175,
+        70
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "340ml",
+      "confidence": 66.796745,
+      "box": [
+        294,
+        950,
+        111,
+        36
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "2",
+      "confidence": 96.951546,
+      "box": [
+        591,
+        952,
+        20,
+        34
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "450",
+      "confidence": 95.302528,
+      "box": [
+        821,
+        922,
+        67,
+        85
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "900",
+      "confidence": 96.524879,
+      "box": [
+        1149,
+        957,
+        63,
+        33
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Exercise",
+      "confidence": 96.684631,
+      "box": [
+        102,
+        1057,
+        154,
+        36
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "Book",
+      "confidence": 96.849861,
+      "box": [
+        268,
+        1056,
+        97,
+        37
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "20",
+      "confidence": 96.506615,
+      "box": [
+        580,
+        1058,
+        43,
+        35
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "45",
+      "confidence": 96.769379,
+      "box": [
+        832,
+        1061,
+        42,
+        34
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "900",
+      "confidence": 96.746094,
+      "box": [
+        1151,
+        1064,
+        64,
+        33
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "Sugar",
+      "confidence": 93.284485,
+      "box": [
+        99,
+        1168,
+        111,
+        45
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "1kg",
+      "confidence": 68.700455,
+      "box": [
+        225,
+        1167,
+        64,
+        46
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "20",
+      "confidence": 96.564499,
+      "box": [
+        579,
+        1167,
+        43,
+        36
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "135",
+      "confidence": 96.935722,
+      "box": [
+        825,
+        1169,
+        61,
+        35
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "2,700",
+      "confidence": 96.870346,
+      "box": [
+        1120,
+        1173,
+        97,
+        40
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "Grand",
+      "confidence": 96.907677,
+      "box": [
+        97,
+        1291,
+        135,
+        41
+      ],
+      "block": 12,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Total:",
+      "confidence": 96.404831,
+      "box": [
+        253,
+        1291,
+        122,
+        39
+      ],
+      "block": 12,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Tk",
+      "confidence": 96.415558,
+      "box": [
+        1082,
+        1288,
+        60,
+        42
+      ],
+      "block": 12,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "5,220",
+      "confidence": 96.415558,
+      "box": [
+        1155,
+        1291,
+        115,
+        47
+      ],
+      "block": 12,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Authorized",
+      "confidence": 96.763458,
+      "box": [
+        866,
+        1597,
+        191,
+        40
+      ],
+      "block": 14,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Signature",
+      "confidence": 96.476242,
+      "box": [
+        1070,
+        1598,
+        161,
+        43
+      ],
+      "block": 14,
+      "paragraph": 1,
+      "line": 1
+    }
+  ]
+}

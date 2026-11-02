@@ -1,0 +1,58 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "9d2600fd4658",
+  "source_image": {
+    "path": "Dataset/Dataset-2/Delivery note challan/IMG_0958.HEIC",
+    "sha256": "5da4bd94095ae6a0b20c2071f9e68f483f44af18bb34a8c40ed856c44d4ac072"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/9d2600fd4658.jpg",
+    "sha256": "3c448aa7529d43892e8746ce2994f39a5062433c0305ee20c1ce7aa343a04f3c"
+  },
+  "classification": {
+    "label": "delivery_note",
+    "split": "train"
+  },
+  "transcription": {
+    "full_text": "DELIVERY CHALLAN\nYour Business Name\nChallan no.: DC-001\nDate: 2026-09-04\nPlace of supply: Maharashtra\nSELLER\nYour Business Name\nShop 12, Market Road, City â€” 400001\nCONSIGNEE\nCustomer Name\nVehicle no.: MH01AB1234\nPurpose: Job work\n# Description HSN/SAC Qty Rate Taxable GST %\n1 Item / service 9983 1.00 â‚¹1,000.00 â‚¹1,000.00 18%\nTaxable value â‚¹1,000.00\nCGST â‚¹90.00\nSGST â‚¹90.00\nGrand total â‚¹1,180.00\nAmount in words: One Thousand One Hundred Eighty Rupees Only\nNotes: Goods sent for the purpose stated above. Not a sale.",
+    "lines": [
+      "DELIVERY CHALLAN",
+      "Your Business Name",
+      "Challan no.: DC-001",
+      "Date: 2026-09-04",
+      "Place of supply: Maharashtra",
+      "SELLER",
+      "Your Business Name",
+      "Shop 12, Market Road, City â€” 400001",
+      "CONSIGNEE",
+      "Customer Name",
+      "Vehicle no.: MH01AB1234",
+      "Purpose: Job work",
+      "# Description HSN/SAC Qty Rate Taxable GST %",
+      "1 Item / service 9983 1.00 â‚¹1,000.00 â‚¹1,000.00 18%",
+      "Taxable value â‚¹1,000.00",
+      "CGST â‚¹90.00",
+      "SGST â‚¹90.00",
+      "Grand total â‚¹1,180.00",
+      "Amount in words: One Thousand One Hundred Eighty Rupees Only",
+      "Notes: Goods sent for the purpose stated above. Not a sale."
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [],
+    "notes": "Individually visually reviewed photograph. Whitespace and table reading order normalized; signatures marked rather than inferred."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/9d2600fd4658.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

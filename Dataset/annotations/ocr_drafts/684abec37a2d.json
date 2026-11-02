@@ -1,0 +1,1097 @@
+{
+  "sample_id": "684abec37a2d",
+  "source_path": "Dataset/Receipt/cord-train-0750.jpg",
+  "source_sha256": "20878072cec296e43de6230d77c2f99213c98eafd65a3baeeef2a3338d21332e",
+  "prepared_image_path": "data/images/684abec37a2d.jpg",
+  "prepared_image_sha256": "6ac772f1c9699953888f8ca95d3f18a706f023f92d5dc00c022398aa4b4f8f80",
+  "label": "receipt",
+  "split": "val",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": " Pakenc telur i asin\n\nCai Mien\n\ncaisim special\n\narsiupau Ayam\n\nish Glue\n\nJamur Ayam\n\nJamur Kuping\n\nKailan hongkong\n\nKuah Kaldu Ayam\n\nKue Macok\n\nPangsit Special\n\nSirloin Roll Enoki\n\nSutake Kombinasi\n\nTahu Jepang\n\nTon Sandwidh\nvA\n\nnen GIR GR SE IT PR SE SE ES RR RE BE EE DE\neC Tn\n\n2 HA Tea Green Tea\n2 Tahu Isi Ayam\n\n5 Green 1) Dingin\n\n7 Nasi Put\n\n1 Bakso A\n\nS TOTAL\n\nTAL\nSUBTOTAL 5%\nTax 10%\n\n2, 800\n\n605, 600\n(100, 600)\n\n",
+  "ocr_image_size": [
+    1400,
+    2100
+  ],
+  "words": [
+    {
+      "text": " Pakenc",
+      "confidence": 0.0,
+      "box": [
+        267,
+        444,
+        157,
+        76
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "telur",
+      "confidence": 59.057297,
+      "box": [
+        451,
+        483,
+        100,
+        39
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "i",
+      "confidence": 42.208767,
+      "box": [
+        586,
+        457,
+        3,
+        2
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "asin",
+      "confidence": 96.303047,
+      "box": [
+        585,
+        486,
+        84,
+        37
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Cai",
+      "confidence": 79.714111,
+      "box": [
+        291,
+        520,
+        57,
+        41
+      ],
+      "block": 2,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "Mien",
+      "confidence": 35.045547,
+      "box": [
+        382,
+        524,
+        87,
+        41
+      ],
+      "block": 2,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "caisim",
+      "confidence": 85.789848,
+      "box": [
+        292,
+        569,
+        133,
+        52
+      ],
+      "block": 2,
+      "paragraph": 3,
+      "line": 1
+    },
+    {
+      "text": "special",
+      "confidence": 96.599144,
+      "box": [
+        450,
+        573,
+        145,
+        39
+      ],
+      "block": 2,
+      "paragraph": 3,
+      "line": 1
+    },
+    {
+      "text": "arsiupau",
+      "confidence": 90.503052,
+      "box": [
+        314,
+        621,
+        177,
+        34
+      ],
+      "block": 2,
+      "paragraph": 4,
+      "line": 1
+    },
+    {
+      "text": "Ayam",
+      "confidence": 95.157738,
+      "box": [
+        515,
+        616,
+        86,
+        41
+      ],
+      "block": 2,
+      "paragraph": 4,
+      "line": 1
+    },
+    {
+      "text": "ish",
+      "confidence": 96.287064,
+      "box": [
+        319,
+        656,
+        60,
+        38
+      ],
+      "block": 2,
+      "paragraph": 5,
+      "line": 1
+    },
+    {
+      "text": "Glue",
+      "confidence": 96.426445,
+      "box": [
+        405,
+        657,
+        86,
+        39
+      ],
+      "block": 2,
+      "paragraph": 5,
+      "line": 1
+    },
+    {
+      "text": "Jamur",
+      "confidence": 87.369278,
+      "box": [
+        293,
+        699,
+        107,
+        39
+      ],
+      "block": 2,
+      "paragraph": 6,
+      "line": 1
+    },
+    {
+      "text": "Ayam",
+      "confidence": 88.861427,
+      "box": [
+        514,
+        704,
+        86,
+        40
+      ],
+      "block": 2,
+      "paragraph": 6,
+      "line": 1
+    },
+    {
+      "text": "Jamur",
+      "confidence": 81.567383,
+      "box": [
+        293,
+        743,
+        106,
+        38
+      ],
+      "block": 2,
+      "paragraph": 7,
+      "line": 1
+    },
+    {
+      "text": "Kuping",
+      "confidence": 81.567383,
+      "box": [
+        427,
+        744,
+        129,
+        43
+      ],
+      "block": 2,
+      "paragraph": 7,
+      "line": 1
+    },
+    {
+      "text": "Kailan",
+      "confidence": 87.134712,
+      "box": [
+        293,
+        786,
+        130,
+        40
+      ],
+      "block": 2,
+      "paragraph": 8,
+      "line": 1
+    },
+    {
+      "text": "hongkong",
+      "confidence": 96.236565,
+      "box": [
+        449,
+        789,
+        172,
+        43
+      ],
+      "block": 2,
+      "paragraph": 8,
+      "line": 1
+    },
+    {
+      "text": "Kuah",
+      "confidence": 91.724312,
+      "box": [
+        292,
+        830,
+        86,
+        38
+      ],
+      "block": 2,
+      "paragraph": 9,
+      "line": 1
+    },
+    {
+      "text": "Kaldu",
+      "confidence": 91.458572,
+      "box": [
+        404,
+        831,
+        106,
+        39
+      ],
+      "block": 2,
+      "paragraph": 9,
+      "line": 1
+    },
+    {
+      "text": "Ayam",
+      "confidence": 90.854118,
+      "box": [
+        534,
+        833,
+        87,
+        41
+      ],
+      "block": 2,
+      "paragraph": 9,
+      "line": 1
+    },
+    {
+      "text": "Kue",
+      "confidence": 91.977463,
+      "box": [
+        293,
+        873,
+        62,
+        37
+      ],
+      "block": 2,
+      "paragraph": 10,
+      "line": 1
+    },
+    {
+      "text": "Macok",
+      "confidence": 92.204651,
+      "box": [
+        381,
+        874,
+        107,
+        38
+      ],
+      "block": 2,
+      "paragraph": 10,
+      "line": 1
+    },
+    {
+      "text": "Pangsit",
+      "confidence": 90.749969,
+      "box": [
+        293,
+        915,
+        148,
+        42
+      ],
+      "block": 2,
+      "paragraph": 11,
+      "line": 1
+    },
+    {
+      "text": "Special",
+      "confidence": 95.963486,
+      "box": [
+        469,
+        918,
+        143,
+        41
+      ],
+      "block": 2,
+      "paragraph": 11,
+      "line": 1
+    },
+    {
+      "text": "Sirloin",
+      "confidence": 86.620628,
+      "box": [
+        293,
+        958,
+        150,
+        40
+      ],
+      "block": 2,
+      "paragraph": 12,
+      "line": 1
+    },
+    {
+      "text": "Roll",
+      "confidence": 95.427902,
+      "box": [
+        468,
+        961,
+        78,
+        38
+      ],
+      "block": 2,
+      "paragraph": 12,
+      "line": 1
+    },
+    {
+      "text": "Enoki",
+      "confidence": 95.772293,
+      "box": [
+        578,
+        962,
+        100,
+        39
+      ],
+      "block": 2,
+      "paragraph": 12,
+      "line": 1
+    },
+    {
+      "text": "Sutake",
+      "confidence": 90.976463,
+      "box": [
+        292,
+        1001,
+        130,
+        38
+      ],
+      "block": 2,
+      "paragraph": 13,
+      "line": 1
+    },
+    {
+      "text": "Kombinasi",
+      "confidence": 89.552689,
+      "box": [
+        447,
+        1003,
+        186,
+        40
+      ],
+      "block": 2,
+      "paragraph": 13,
+      "line": 1
+    },
+    {
+      "text": "Tahu",
+      "confidence": 92.754013,
+      "box": [
+        292,
+        1044,
+        86,
+        38
+      ],
+      "block": 2,
+      "paragraph": 14,
+      "line": 1
+    },
+    {
+      "text": "Jepang",
+      "confidence": 91.316376,
+      "box": [
+        404,
+        1044,
+        126,
+        44
+      ],
+      "block": 2,
+      "paragraph": 14,
+      "line": 1
+    },
+    {
+      "text": "Ton",
+      "confidence": 57.766499,
+      "box": [
+        292,
+        1087,
+        86,
+        82
+      ],
+      "block": 2,
+      "paragraph": 15,
+      "line": 1
+    },
+    {
+      "text": "Sandwidh",
+      "confidence": 87.167366,
+      "box": [
+        404,
+        1087,
+        170,
+        41
+      ],
+      "block": 2,
+      "paragraph": 15,
+      "line": 1
+    },
+    {
+      "text": "vA",
+      "confidence": 10.349594,
+      "box": [
+        336,
+        1129,
+        108,
+        83
+      ],
+      "block": 2,
+      "paragraph": 15,
+      "line": 2
+    },
+    {
+      "text": "nen",
+      "confidence": 26.824432,
+      "box": [
+        237,
+        1102,
+        33,
+        109
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "GIR",
+      "confidence": 42.862198,
+      "box": [
+        237,
+        1055,
+        33,
+        34
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "GR",
+      "confidence": 25.399765,
+      "box": [
+        237,
+        1017,
+        33,
+        28
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "SE",
+      "confidence": 25.324638,
+      "box": [
+        249,
+        923,
+        12,
+        56
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "IT",
+      "confidence": 35.813515,
+      "box": [
+        237,
+        879,
+        33,
+        28
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "PR",
+      "confidence": 26.583031,
+      "box": [
+        237,
+        843,
+        33,
+        29
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "SE",
+      "confidence": 37.500923,
+      "box": [
+        237,
+        802,
+        33,
+        26
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "SE",
+      "confidence": 2.821609,
+      "box": [
+        237,
+        761,
+        33,
+        25
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "ES",
+      "confidence": 40.36417,
+      "box": [
+        248,
+        711,
+        13,
+        29
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "RR",
+      "confidence": 26.035095,
+      "box": [
+        237,
+        667,
+        33,
+        29
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "RE",
+      "confidence": 34.602654,
+      "box": [
+        237,
+        618,
+        33,
+        28
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "BE",
+      "confidence": 22.281921,
+      "box": [
+        237,
+        579,
+        33,
+        29
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "EE",
+      "confidence": 31.57402,
+      "box": [
+        237,
+        527,
+        33,
+        28
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "DE",
+      "confidence": 19.146301,
+      "box": [
+        237,
+        491,
+        33,
+        26
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "eC",
+      "confidence": 16.448242,
+      "box": [
+        291,
+        1131,
+        42,
+        80
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Tn",
+      "confidence": 37.068359,
+      "box": [
+        292,
+        653,
+        34,
+        21
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "2",
+      "confidence": 83.871941,
+      "box": [
+        246,
+        1215,
+        20,
+        39
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "HA",
+      "confidence": 23.862396,
+      "box": [
+        292,
+        1184,
+        129,
+        71
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Tea",
+      "confidence": 96.722931,
+      "box": [
+        447,
+        1215,
+        63,
+        38
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Green",
+      "confidence": 96.629601,
+      "box": [
+        534,
+        1215,
+        105,
+        40
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Tea",
+      "confidence": 96.754066,
+      "box": [
+        664,
+        1221,
+        61,
+        38
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "2",
+      "confidence": 96.838257,
+      "box": [
+        246,
+        1259,
+        20,
+        38
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Tahu",
+      "confidence": 93.27494,
+      "box": [
+        292,
+        1257,
+        86,
+        39
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Isi",
+      "confidence": 91.395363,
+      "box": [
+        406,
+        1258,
+        53,
+        39
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Ayam",
+      "confidence": 86.787399,
+      "box": [
+        489,
+        1257,
+        86,
+        40
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "5",
+      "confidence": 93.678879,
+      "box": [
+        246,
+        1302,
+        20,
+        38
+      ],
+      "block": 4,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "Green",
+      "confidence": 95.408218,
+      "box": [
+        291,
+        1300,
+        109,
+        39
+      ],
+      "block": 4,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "1)",
+      "confidence": 20.208008,
+      "box": [
+        425,
+        1302,
+        62,
+        78
+      ],
+      "block": 4,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "Dingin",
+      "confidence": 91.060661,
+      "box": [
+        512,
+        1298,
+        127,
+        41
+      ],
+      "block": 4,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "7",
+      "confidence": 96.268471,
+      "box": [
+        246,
+        1345,
+        19,
+        39
+      ],
+      "block": 4,
+      "paragraph": 3,
+      "line": 1
+    },
+    {
+      "text": "Nasi",
+      "confidence": 95.747833,
+      "box": [
+        290,
+        1343,
+        80,
+        39
+      ],
+      "block": 4,
+      "paragraph": 3,
+      "line": 1
+    },
+    {
+      "text": "Put",
+      "confidence": 95.747833,
+      "box": [
+        402,
+        1341,
+        61,
+        39
+      ],
+      "block": 4,
+      "paragraph": 3,
+      "line": 1
+    },
+    {
+      "text": "1",
+      "confidence": 96.842827,
+      "box": [
+        247,
+        1388,
+        16,
+        59
+      ],
+      "block": 4,
+      "paragraph": 4,
+      "line": 1
+    },
+    {
+      "text": "Bakso",
+      "confidence": 91.35331,
+      "box": [
+        289,
+        1385,
+        110,
+        40
+      ],
+      "block": 4,
+      "paragraph": 4,
+      "line": 1
+    },
+    {
+      "text": "A",
+      "confidence": 57.784294,
+      "box": [
+        428,
+        1344,
+        58,
+        78
+      ],
+      "block": 4,
+      "paragraph": 4,
+      "line": 1
+    },
+    {
+      "text": "S",
+      "confidence": 86.564621,
+      "box": [
+        378,
+        1469,
+        20,
+        40
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "TOTAL",
+      "confidence": 62.727386,
+      "box": [
+        423,
+        1443,
+        104,
+        65
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "TAL",
+      "confidence": 0.0,
+      "box": [
+        377,
+        1597,
+        86,
+        41
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "SUBTOTAL",
+      "confidence": 0.0,
+      "box": [
+        297,
+        1599,
+        164,
+        86
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "5%",
+      "confidence": 90.506187,
+      "box": [
+        487,
+        1638,
+        43,
+        38
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Tax",
+      "confidence": 79.237793,
+      "box": [
+        287,
+        1654,
+        66,
+        76
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "10%",
+      "confidence": 96.827461,
+      "box": [
+        379,
+        1684,
+        63,
+        42
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "2,",
+      "confidence": 95.315125,
+      "box": [
+        1013,
+        446,
+        57,
+        70
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "800",
+      "confidence": 82.789291,
+      "box": [
+        1071,
+        442,
+        81,
+        70
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "605,",
+      "confidence": 90.83728,
+      "box": [
+        969,
+        1454,
+        73,
+        65
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "600",
+      "confidence": 91.872261,
+      "box": [
+        1057,
+        1483,
+        65,
+        37
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "(100,",
+      "confidence": 44.851208,
+      "box": [
+        858,
+        1518,
+        162,
+        66
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "600)",
+      "confidence": 93.566711,
+      "box": [
+        1035,
+        1508,
+        75,
+        57
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 2
+    }
+  ]
+}

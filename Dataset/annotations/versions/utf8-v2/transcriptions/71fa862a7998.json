@@ -1,0 +1,65 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "71fa862a7998",
+  "source_image": {
+    "path": "Dataset/Customer_Copy/image_1850.jpg",
+    "sha256": "1a3fb690a0b2f88ae4339ac7542b17113cf6977b499a00709ec154f75280e213"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/71fa862a7998.jpg",
+    "sha256": "5760b0728e42876efe2cb1f75e9fa9c50bc28e22fcff90890360526731b7bfda"
+  },
+  "classification": {
+    "label": "customer_copy",
+    "split": "val"
+  },
+  "transcription": {
+    "full_text": "[cut off]\n[illegible] Baseline Ave\nFontana, CA 92336\n(909) 483-2230\nTbl: 31 Gst: 2 Srvr: Amber\nDate: 02-15-2015 9:03pm 692.0015.00174\n1 Bud Light 22 5.20\n1 Pick 3 9.99\nLoaded Skins\nMozz Stix\nHot Wings\n1 6oz Sirloin/Rib 24.99\nFries\nSalad\n1 6oz Sir/MES Chx 24.98\nMac and Cheese\nLoaded Mashed\n1 Straw Lemonade 3.99\nSub-Total: 69.15\nTax: 5.54\nTotal Due: 74.69\nDuplicate # 1\nPBR on Draft $1 pints & $5 Pitchers!!\nMONDAY and TUESDAY's",
+    "lines": [
+      "[cut off]",
+      "[illegible] Baseline Ave",
+      "Fontana, CA 92336",
+      "(909) 483-2230",
+      "Tbl: 31 Gst: 2 Srvr: Amber",
+      "Date: 02-15-2015 9:03pm 692.0015.00174",
+      "1 Bud Light 22 5.20",
+      "1 Pick 3 9.99",
+      "Loaded Skins",
+      "Mozz Stix",
+      "Hot Wings",
+      "1 6oz Sirloin/Rib 24.99",
+      "Fries",
+      "Salad",
+      "1 6oz Sir/MES Chx 24.98",
+      "Mac and Cheese",
+      "Loaded Mashed",
+      "1 Straw Lemonade 3.99",
+      "Sub-Total: 69.15",
+      "Tax: 5.54",
+      "Total Due: 74.69",
+      "Duplicate # 1",
+      "PBR on Draft $1 pints & $5 Pitchers!!",
+      "MONDAY and TUESDAY's"
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [
+      "Restaurant name is cropped out; street number and small header identifiers are not reliably readable.",
+      "Very faint print; food abbreviations and capitalization are best readings."
+    ],
+    "notes": ""
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/71fa862a7998.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "sample_id": "398c6ef688e4",
+  "source_path": "Dataset/Dataset-2/Delivery note challan/IMG_0992.HEIC",
+  "source_sha256": "d815706a92481f63cee5f5256cd7420c934f5991173530feaa20fbd69cd87cb0",
+  "prepared_image_path": "data/images/398c6ef688e4.jpg",
+  "prepared_image_sha256": "180eeab99e09a484252eb3c4c78e46dd880ad60d4c80c03b9e234302b14d0f7b",
+  "label": "delivery_note",
+  "split": "train",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "Delivery Challan\n\nNo: DC-\n26/08/2026.\n\nChallan\nDate:\n\nDhaka Trade House.\n\nFrom\n\n",
+  "ocr_image_size": [
+    1400,
+    1866
+  ],
+  "words": [
+    {
+      "text": "Delivery",
+      "confidence": 93.304489,
+      "box": [
+        490,
+        178,
+        239,
+        60
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Challan",
+      "confidence": 92.03743,
+      "box": [
+        747,
+        178,
+        212,
+        50
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "No:",
+      "confidence": 93.296234,
+      "box": [
+        347,
+        323,
+        82,
+        41
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "DC-",
+      "confidence": 90.642815,
+      "box": [
+        448,
+        322,
+        92,
+        42
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "26/08/2026.",
+      "confidence": 96.611107,
+      "box": [
+        294,
+        400,
+        307,
+        53
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Challan",
+      "confidence": 92.510155,
+      "box": [
+        147,
+        321,
+        182,
+        45
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Date:",
+      "confidence": 96.791733,
+      "box": [
+        147,
+        402,
+        128,
+        45
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Dhaka",
+      "confidence": 96.652016,
+      "box": [
+        304,
+        531,
+        148,
+        46
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Trade",
+      "confidence": 96.028244,
+      "box": [
+        475,
+        527,
+        130,
+        62
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "House.",
+      "confidence": 96.111816,
+      "box": [
+        630,
+        527,
+        154,
+        62
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "From",
+      "confidence": 96.85582,
+      "box": [
+        148,
+        533,
+        124,
+        44
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "a7a5a3135540",
+  "source_image": {
+    "path": "Dataset/Delivery_Note/delivery-challan-DC-013.jpg",
+    "sha256": "510a6dca03f2d081efa7ae7f4142ce545cf320af54cbaeaab8abbc512837afe2"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/a7a5a3135540.jpg",
+    "sha256": "96c69c01b4c1d22b024dfa24ecf999bbf3c6faba6065318b010d19117cbc2c75"
+  },
+  "classification": {
+    "label": "delivery_note",
+    "split": "train"
+  },
+  "transcription": {
+    "full_text": "DELIVERY CHALLAN\nABC Company\nChallan no. DC-013\nDate 2026-09-04\nPlace of supply Kolkata\nSELLER\nABC Company\nShop 12, Market Road, City â€” 400001\nCONSIGNEE\nDina Islam\nHouse- 64, Road- 35, Kolkata\nVehicle no.: MH 01 AB 1234\nPurpose: Job work\n# Description HSN/SAC Qty Rate Taxable GST %\n1 Cotton T- Shirt 1437 40.00 â‚¹320.00 â‚¹12,800.00 8%\n2 Denim Jeans 8764 20.00 â‚¹1,000.00 â‚¹20,000.00 10%\nTaxable value â‚¹32,800.00\nCGST â‚¹1,512.00\nSGST â‚¹1,512.00\nGrand total â‚¹35,824.00\nAmount in words: Thirty Five Thousand Eight Hundred Twenty Four Rupees Only\nNotes: Goods sent for the purpose stated above. Not a sale.",
+    "lines": [
+      "DELIVERY CHALLAN",
+      "ABC Company",
+      "Challan no. DC-013",
+      "Date 2026-09-04",
+      "Place of supply Kolkata",
+      "SELLER",
+      "ABC Company",
+      "Shop 12, Market Road, City â€” 400001",
+      "CONSIGNEE",
+      "Dina Islam",
+      "House- 64, Road- 35, Kolkata",
+      "Vehicle no.: MH 01 AB 1234",
+      "Purpose: Job work",
+      "# Description HSN/SAC Qty Rate Taxable GST %",
+      "1 Cotton T- Shirt 1437 40.00 â‚¹320.00 â‚¹12,800.00 8%",
+      "2 Denim Jeans 8764 20.00 â‚¹1,000.00 â‚¹20,000.00 10%",
+      "Taxable value â‚¹32,800.00",
+      "CGST â‚¹1,512.00",
+      "SGST â‚¹1,512.00",
+      "Grand total â‚¹35,824.00",
+      "Amount in words: Thirty Five Thousand Eight Hundred Twenty Four Rupees Only",
+      "Notes: Goods sent for the purpose stated above. Not a sale."
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [],
+    "notes": "Visually checked all entries; retained printed spelling and numeric inconsistencies. Whitespace/table layout linearized."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/a7a5a3135540.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

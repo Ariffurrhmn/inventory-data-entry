@@ -1,0 +1,56 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "558ab17fe557",
+  "source_image": {
+    "path": "Dataset/Dataset-2/Purchase order/IMG_0978.HEIC",
+    "sha256": "fe1bafa7495d1fe79be0b3da1e7f0cbe3aae21e5694703e5a4912c7e446d90d8"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/558ab17fe557.jpg",
+    "sha256": "fbbec5433711e1a515b262e42ac51c922119fd3aa62610816e17e314da1705ff"
+  },
+  "classification": {
+    "label": "purchase_order",
+    "split": "test"
+  },
+  "transcription": {
+    "full_text": "Purchase Order\nP.O. No: PO-7880\nOrder Date: 13/09/2026\nSupplier:\nSonar Bangla Distributors.\nBill To:\nAl-Madina Traders,\nChashara, Narayanganj.\nShip To:\nAl-Madina Traders,\nChashara, Narayanganj.\nItem Qty Unit Price (Tk) Amount (Tk)\nToothpaste 100g 10 120 1,200\nOnion 1kg 24 65 1,560\nMilk Powder 500g 20 420 8,400\nSugar 1kg 12 135 1,620\nGrand Total: Tk 12,780\nAuthorized Signature",
+    "lines": [
+      "Purchase Order",
+      "P.O. No: PO-7880",
+      "Order Date: 13/09/2026",
+      "Supplier:",
+      "Sonar Bangla Distributors.",
+      "Bill To:",
+      "Al-Madina Traders,",
+      "Chashara, Narayanganj.",
+      "Ship To:",
+      "Al-Madina Traders,",
+      "Chashara, Narayanganj.",
+      "Item Qty Unit Price (Tk) Amount (Tk)",
+      "Toothpaste 100g 10 120 1,200",
+      "Onion 1kg 24 65 1,560",
+      "Milk Powder 500g 20 420 8,400",
+      "Sugar 1kg 12 135 1,620",
+      "Grand Total: Tk 12,780",
+      "Authorized Signature"
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [],
+    "notes": ""
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/558ab17fe557.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

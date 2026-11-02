@@ -1,0 +1,63 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "d6c285c6c5d0",
+  "source_image": {
+    "path": "Dataset/Dataset-2/Delivery note challan/IMG_0947.HEIC",
+    "sha256": "460deae50ec032beb2585a590d72956a13257548b2cdfb550c0f16db6fc0567c"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/d6c285c6c5d0.jpg",
+    "sha256": "25f6938be9beb21d5046ce5d6db9cc7fa78d16a08b5fd36c17ef079148cd5a1a"
+  },
+  "classification": {
+    "label": "delivery_note",
+    "split": "train"
+  },
+  "transcription": {
+    "full_text": "ORIGINAL FOR RECIPIENT\nDELIVERY CHALLAN\nABC Company\nChallan no. DC-014\nDate 2026-09-04\nPlace of supply Kolkata\nSELLER\nABC Company\nShop 12, Market Road, City — 400001\nCONSIGNEE\nUrmi Khatun\nHouse- 64, Road- 35, Kolkata\nVehicle no.: MH 01 AB 1234\nPurpose: Job work\n# Description HSN/SAC Qty Rate Taxable GST %\n1 Face Wash 1837 1.00 ₹320.00 ₹320.00 4%\n2 Shampoo 8864 1.00 ₹450.00 ₹450.00 5%\n3 Body lotion 8778 1.00 ₹500.00 ₹500.00 6%\n4 Toothpaste 9753 1.00 ₹180.00 ₹180.00 2%\nTaxable value ₹1,450.00\nCGST ₹34.45\nSGST ₹34.45\nGrand total ₹1,518.90\nAmount in words: One Thousand Five Hundred Eighteen Rupees and Ninety Paise Only\nNotes: Goods sent for the purpose stated above. Not a sale.",
+    "lines": [
+      "ORIGINAL FOR RECIPIENT",
+      "DELIVERY CHALLAN",
+      "ABC Company",
+      "Challan no. DC-014",
+      "Date 2026-09-04",
+      "Place of supply Kolkata",
+      "SELLER",
+      "ABC Company",
+      "Shop 12, Market Road, City — 400001",
+      "CONSIGNEE",
+      "Urmi Khatun",
+      "House- 64, Road- 35, Kolkata",
+      "Vehicle no.: MH 01 AB 1234",
+      "Purpose: Job work",
+      "# Description HSN/SAC Qty Rate Taxable GST %",
+      "1 Face Wash 1837 1.00 ₹320.00 ₹320.00 4%",
+      "2 Shampoo 8864 1.00 ₹450.00 ₹450.00 5%",
+      "3 Body lotion 8778 1.00 ₹500.00 ₹500.00 6%",
+      "4 Toothpaste 9753 1.00 ₹180.00 ₹180.00 2%",
+      "Taxable value ₹1,450.00",
+      "CGST ₹34.45",
+      "SGST ₹34.45",
+      "Grand total ₹1,518.90",
+      "Amount in words: One Thousand Five Hundred Eighteen Rupees and Ninety Paise Only",
+      "Notes: Goods sent for the purpose stated above. Not a sale."
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [],
+    "notes": "Individually visually inspected photograph, including quantities, rates, totals and footer. Its visible content matches the reviewed digital form; reused checked text."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/d6c285c6c5d0.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

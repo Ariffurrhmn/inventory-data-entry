@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "d6b7679bc0a8",
+  "source_image": {
+    "path": "Dataset/Receipt/cord-train-0070.jpg",
+    "sha256": "825509ccc08be7bfe465a624a604b8bb8126cb870f3f7817ce21f9a7fe0721f0"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/d6b7679bc0a8.jpg",
+    "sha256": "94f799eefa5363eb9147326401e97decf6735e07e31dfa33beaccab821451ebf"
+  },
+  "classification": {
+    "label": "receipt",
+    "split": "train"
+  },
+  "transcription": {
+    "full_text": "[redacted]\n1 CAPTAIN HOOK 75,000\nIZZY PINK ZIGZAG ---\n1 PIRATES TREASURE 75,000\nBILLY BROWN SMALL ---\n** KIDS MEAL 150,000\nSUBTTL 150,000\nService Charge 12,000\nTAX 16,200\nTOTAL 178,200",
+    "lines": [
+      "[redacted]",
+      "1 CAPTAIN HOOK 75,000",
+      "IZZY PINK ZIGZAG ---",
+      "1 PIRATES TREASURE 75,000",
+      "BILLY BROWN SMALL ---",
+      "** KIDS MEAL 150,000",
+      "SUBTTL 150,000",
+      "Service Charge 12,000",
+      "TAX 16,200",
+      "TOTAL 178,200"
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [
+      "Pixelated/blurred source regions are marked [redacted]; their hidden text was not reconstructed."
+    ],
+    "notes": "Visually transcribed from the image, preserving printed spelling and numeric inconsistencies."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/d6b7679bc0a8.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

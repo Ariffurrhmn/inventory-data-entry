@@ -1,0 +1,54 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "4ee98001cc91",
+  "source_image": {
+    "path": "Dataset/Receipt/cord-train-0036.jpg",
+    "sha256": "166c0c16115b1126103f56c6b71288830555d0a21ee6760eb97bc90a59c1348f"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/4ee98001cc91.jpg",
+    "sha256": "468623d9bb4668cd6e9b364440330f666b5cb0bdf496d2aab437d43d7b58819a"
+  },
+  "classification": {
+    "label": "receipt",
+    "split": "train"
+  },
+  "transcription": {
+    "full_text": "[redacted]\nGONG GIBAB 1 20,000\nBO SSAM 1 320,000\nHAEMUL 1 85,000\nDENJANG\nJJIGAE\nMULNAENGMYO 1 85,000\nN\nSub Total 510,000\nService 35,700\nTax 54,255\nDiscount 0\nTOTAL 599,955\n[redacted]",
+    "lines": [
+      "[redacted]",
+      "GONG GIBAB 1 20,000",
+      "BO SSAM 1 320,000",
+      "HAEMUL 1 85,000",
+      "DENJANG",
+      "JJIGAE",
+      "MULNAENGMYO 1 85,000",
+      "N",
+      "Sub Total 510,000",
+      "Service 35,700",
+      "Tax 54,255",
+      "Discount 0",
+      "TOTAL 599,955",
+      "[redacted]"
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [
+      "Pixelated/blurred source regions are marked [redacted]; their hidden text was not reconstructed."
+    ],
+    "notes": "Visually transcribed from the image, preserving printed spelling and numeric inconsistencies."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/4ee98001cc91.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

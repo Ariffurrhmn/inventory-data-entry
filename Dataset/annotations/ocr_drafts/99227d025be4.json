@@ -1,0 +1,213 @@
+{
+  "sample_id": "99227d025be4",
+  "source_path": "Dataset/Receipt/cord-train-0165.jpg",
+  "source_sha256": "497d7e04e16b3668f4be96f081d1bced0c25463a544834a4db2e2ea7d62f6d13",
+  "prepared_image_path": "data/images/99227d025be4.jpg",
+  "prepared_image_sha256": "df997f699539a7fbd3a07bbe7bebff781b14e7f5fcc485c783da49892fcf6484",
+  "label": "receipt",
+  "split": "train",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "————\n\na\n\ni a\n\nCASH 1\nKembal ian 5\n\n}\n\n“ ie\n\ntain mR \\\n",
+  "ocr_image_size": [
+    834,
+    1758
+  ],
+  "words": [
+    {
+      "text": "————",
+      "confidence": 0.0,
+      "box": [
+        75,
+        816,
+        262,
+        13
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "a",
+      "confidence": 0.0,
+      "box": [
+        76,
+        1090,
+        284,
+        12
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "i",
+      "confidence": 0.0,
+      "box": [
+        74,
+        1254,
+        262,
+        19
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "a",
+      "confidence": 35.112198,
+      "box": [
+        422,
+        1248,
+        117,
+        30
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "CASH",
+      "confidence": 89.193604,
+      "box": [
+        71,
+        1294,
+        90,
+        58
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "1",
+      "confidence": 55.406036,
+      "box": [
+        285,
+        1296,
+        11,
+        51
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Kembal",
+      "confidence": 90.173943,
+      "box": [
+        71,
+        1352,
+        126,
+        44
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "ian",
+      "confidence": 92.504074,
+      "box": [
+        211,
+        1351,
+        65,
+        41
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "5",
+      "confidence": 26.053635,
+      "box": [
+        303,
+        1364,
+        38,
+        52
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "}",
+      "confidence": 52.642647,
+      "box": [
+        339,
+        1464,
+        3,
+        17
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "“",
+      "confidence": 46.088142,
+      "box": [
+        79,
+        1528,
+        28,
+        35
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "ie",
+      "confidence": 0.350723,
+      "box": [
+        139,
+        1514,
+        118,
+        49
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "tain",
+      "confidence": 0.0,
+      "box": [
+        196,
+        1732,
+        84,
+        26
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "mR",
+      "confidence": 20.738594,
+      "box": [
+        377,
+        1752,
+        5,
+        6
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "\\",
+      "confidence": 87.151558,
+      "box": [
+        407,
+        1665,
+        24,
+        93
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    }
+  ]
+}

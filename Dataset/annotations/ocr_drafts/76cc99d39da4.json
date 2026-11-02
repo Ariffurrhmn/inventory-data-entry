@@ -1,0 +1,434 @@
+{
+  "sample_id": "76cc99d39da4",
+  "source_path": "Dataset/Dataset-2/Purchase order/IMG_0975.HEIC",
+  "source_sha256": "1ce6758b1b3a4c55123b762dfcf6595311798c74591202839e8d67204d0f11da",
+  "prepared_image_path": "data/images/76cc99d39da4.jpg",
+  "prepared_image_sha256": "c008a22c1f76dc1b9d9e89cf948d589ec7bc9d64e8119a640c6a8c6af6fd626a",
+  "label": "purchase_order",
+  "split": "train",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": ": | ® { |\nTals From Al-Madina Traders, Badda, Dhaka. : ¥\n® To: Dhaka Trade House. .\n°o Order No: ORD-9953. od\nOrder Date: 04/07/2026. ‘|\nRequired By 09/07/2026. ;\n",
+  "ocr_image_size": [
+    1400,
+    2025
+  ],
+  "words": [
+    {
+      "text": ":",
+      "confidence": 83.343384,
+      "box": [
+        83,
+        31,
+        4,
+        3
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "|",
+      "confidence": 69.057343,
+      "box": [
+        1269,
+        62,
+        3,
+        21
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "®",
+      "confidence": 64.347626,
+      "box": [
+        1290,
+        50,
+        29,
+        27
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "{",
+      "confidence": 58.268871,
+      "box": [
+        1338,
+        52,
+        7,
+        40
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "|",
+      "confidence": 41.740917,
+      "box": [
+        1366,
+        73,
+        2,
+        15
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Tals",
+      "confidence": 20.082214,
+      "box": [
+        0,
+        242,
+        84,
+        34
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "From",
+      "confidence": 96.055771,
+      "box": [
+        121,
+        218,
+        101,
+        43
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Al-Madina",
+      "confidence": 89.47554,
+      "box": [
+        277,
+        233,
+        223,
+        43
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Traders,",
+      "confidence": 93.30146,
+      "box": [
+        528,
+        245,
+        180,
+        47
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Badda,",
+      "confidence": 92.100662,
+      "box": [
+        739,
+        254,
+        134,
+        43
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Dhaka.",
+      "confidence": 96.629333,
+      "box": [
+        905,
+        259,
+        135,
+        35
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": ":",
+      "confidence": 74.661377,
+      "box": [
+        1272,
+        285,
+        4,
+        41
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "¥",
+      "confidence": 0.0,
+      "box": [
+        1342,
+        278,
+        30,
+        59
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "®",
+      "confidence": 0.0,
+      "box": [
+        0,
+        287,
+        82,
+        67
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "To:",
+      "confidence": 88.104744,
+      "box": [
+        119,
+        292,
+        69,
+        39
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Dhaka",
+      "confidence": 73.783989,
+      "box": [
+        278,
+        303,
+        122,
+        39
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Trade",
+      "confidence": 96.407578,
+      "box": [
+        429,
+        311,
+        117,
+        39
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "House.",
+      "confidence": 91.17524,
+      "box": [
+        572,
+        319,
+        135,
+        38
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": ".",
+      "confidence": 0.0,
+      "box": [
+        1274,
+        348,
+        41,
+        49
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "°o",
+      "confidence": 0.857094,
+      "box": [
+        0,
+        395,
+        81,
+        53
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "Order",
+      "confidence": 4.496262,
+      "box": [
+        116,
+        411,
+        126,
+        61
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "No:",
+      "confidence": 93.127899,
+      "box": [
+        270,
+        420,
+        68,
+        36
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "ORD-9953.",
+      "confidence": 66.222488,
+      "box": [
+        372,
+        417,
+        216,
+        50
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "od",
+      "confidence": 31.655945,
+      "box": [
+        1274,
+        449,
+        78,
+        66
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "Order",
+      "confidence": 96.612823,
+      "box": [
+        110,
+        479,
+        142,
+        66
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "Date:",
+      "confidence": 96.832603,
+      "box": [
+        263,
+        482,
+        123,
+        67
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "04/07/2026.",
+      "confidence": 94.23539,
+      "box": [
+        408,
+        488,
+        266,
+        68
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "‘|",
+      "confidence": 0.0,
+      "box": [
+        1275,
+        520,
+        77,
+        65
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "Required",
+      "confidence": 96.543686,
+      "box": [
+        111,
+        549,
+        212,
+        66
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "By",
+      "confidence": 96.543686,
+      "box": [
+        340,
+        562,
+        52,
+        59
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "09/07/2026.",
+      "confidence": 49.607361,
+      "box": [
+        421,
+        564,
+        284,
+        65
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": ";",
+      "confidence": 45.061436,
+      "box": [
+        1273,
+        588,
+        7,
+        65
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 6
+    }
+  ]
+}

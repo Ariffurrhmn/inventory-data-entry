@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "2c1013e6c832",
+  "source_image": {
+    "path": "Dataset/Dataset-2/Delivery note challan/IMG_0989.HEIC",
+    "sha256": "27362aaac1f4c2fb9e3a9caaf0f57273186762a5c05ea1d5df1874e6b989cfd8"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/2c1013e6c832.jpg",
+    "sha256": "2d6fb71e4af07d8e58ef51cdeae111aeaa9d9fd7054a5aef609dfa8b44787ccb"
+  },
+  "classification": {
+    "label": "delivery_note",
+    "split": "val"
+  },
+  "transcription": {
+    "full_text": "Delivery Challan\nChallan No: DC-660.\nDate: 22/07/2026.\nFrom: Dhaka Trade House.\nTo: Kashem Enterprise, Jatrabari, Dhaka.\nSl Item Description Qty.\n1 Atta 2kg 4\n2 Mineral Water 1.5L 10\n3 Exercise Book 24\nReceived By: [signature]\nDelivered By: [signature]\nDhaka Trade House",
+    "lines": [
+      "Delivery Challan",
+      "Challan No: DC-660.",
+      "Date: 22/07/2026.",
+      "From: Dhaka Trade House.",
+      "To: Kashem Enterprise, Jatrabari, Dhaka.",
+      "Sl Item Description Qty.",
+      "1 Atta 2kg 4",
+      "2 Mineral Water 1.5L 10",
+      "3 Exercise Book 24",
+      "Received By: [signature]",
+      "Delivered By: [signature]",
+      "Dhaka Trade House"
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [],
+    "notes": "Individually visually reviewed photograph. Whitespace and table reading order normalized; signatures marked rather than inferred."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/2c1013e6c832.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

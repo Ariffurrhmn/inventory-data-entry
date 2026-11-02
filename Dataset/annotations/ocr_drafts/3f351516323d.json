@@ -1,0 +1,616 @@
+{
+  "sample_id": "3f351516323d",
+  "source_path": "Dataset/Customer_Copy/1164-receipt.jpg",
+  "source_sha256": "250f7e07dfa5ddbd875f93522112087cef2ff62df98b7d0533f5b322246f9c85",
+  "prepared_image_path": "data/images/3f351516323d.jpg",
+  "prepared_image_sha256": "06ab841151127e8327a4aa6b7389ad9111bea69e0ba45a9570545f89a52b84a7",
+  "label": "customer_copy",
+  "split": "train",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "len\n\nSp cll:\n\na ate\ntast Hampton. NY\n(631) 328-1600\nFax (631) 329-1648\ny.goldenpearcafe.com\nAug06°'15 11: 01AM\n\nDate:\n\nCard Type: Visa\nAcCt #:\n\nXXXXXXXXXXXX1779\n\nXX/XX\n08316C\n8391\nCHINO\n5 Karina\n22 . #0\nTotal\n\nSignature —\n\n[ agree to pay\njccording t\nagreement .\nCustomer\ncopy\n\n",
+  "ocr_image_size": [
+    1400,
+    1400
+  ],
+  "words": [
+    {
+      "text": "len",
+      "confidence": 34.165489,
+      "box": [
+        558,
+        116,
+        249,
+        127
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Sp",
+      "confidence": 0.0,
+      "box": [
+        501,
+        188,
+        176,
+        149
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "cll:",
+      "confidence": 29.535309,
+      "box": [
+        686,
+        252,
+        109,
+        44
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "a",
+      "confidence": 57.291679,
+      "box": [
+        471,
+        333,
+        48,
+        11
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "ate",
+      "confidence": 38.359711,
+      "box": [
+        697,
+        308,
+        41,
+        22
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "tast",
+      "confidence": 65.708755,
+      "box": [
+        470,
+        339,
+        50,
+        19
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Hampton.",
+      "confidence": 94.948494,
+      "box": [
+        543,
+        339,
+        97,
+        22
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "NY",
+      "confidence": 96.694908,
+      "box": [
+        673,
+        343,
+        23,
+        18
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "(631)",
+      "confidence": 40.545441,
+      "box": [
+        516,
+        371,
+        92,
+        33
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "328-1600",
+      "confidence": 95.070984,
+      "box": [
+        629,
+        372,
+        112,
+        23
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Fax",
+      "confidence": 96.43985,
+      "box": [
+        511,
+        404,
+        39,
+        22
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "(631)",
+      "confidence": 94.962616,
+      "box": [
+        571,
+        406,
+        65,
+        22
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "329-1648",
+      "confidence": 96.546654,
+      "box": [
+        657,
+        401,
+        114,
+        24
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "y.goldenpearcafe.com",
+      "confidence": 0.0,
+      "box": [
+        514,
+        433,
+        287,
+        29
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "Aug06°'15",
+      "confidence": 28.319344,
+      "box": [
+        581,
+        466,
+        116,
+        27
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "11:",
+      "confidence": 96.026901,
+      "box": [
+        718,
+        465,
+        35,
+        19
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "01AM",
+      "confidence": 77.496094,
+      "box": [
+        759,
+        461,
+        58,
+        22
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "Date:",
+      "confidence": 95.798897,
+      "box": [
+        402,
+        468,
+        68,
+        22
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Card",
+      "confidence": 96.854584,
+      "box": [
+        399,
+        502,
+        58,
+        19
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Type:",
+      "confidence": 94.541046,
+      "box": [
+        479,
+        501,
+        64,
+        24
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Visa",
+      "confidence": 95.959343,
+      "box": [
+        581,
+        502,
+        55,
+        19
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "AcCt",
+      "confidence": 28.486237,
+      "box": [
+        397,
+        533,
+        52,
+        20
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "#:",
+      "confidence": 87.358681,
+      "box": [
+        474,
+        535,
+        22,
+        16
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "XXXXXXXXXXXX1779",
+      "confidence": 76.672165,
+      "box": [
+        579,
+        525,
+        239,
+        25
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "XX/XX",
+      "confidence": 83.258881,
+      "box": [
+        578,
+        563,
+        71,
+        24
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "08316C",
+      "confidence": 92.712334,
+      "box": [
+        578,
+        595,
+        86,
+        28
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "8391",
+      "confidence": 87.340401,
+      "box": [
+        577,
+        633,
+        52,
+        26
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "CHINO",
+      "confidence": 84.718903,
+      "box": [
+        575,
+        668,
+        73,
+        27
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "5",
+      "confidence": 93.048065,
+      "box": [
+        573,
+        706,
+        12,
+        25
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "Karina",
+      "confidence": 95.088326,
+      "box": [
+        603,
+        707,
+        91,
+        22
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "22",
+      "confidence": 87.420494,
+      "box": [
+        699,
+        781,
+        56,
+        26
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": ".",
+      "confidence": 75.74527,
+      "box": [
+        773,
+        802,
+        6,
+        5
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "#0",
+      "confidence": 75.955154,
+      "box": [
+        796,
+        781,
+        55,
+        26
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "Total",
+      "confidence": 96.905144,
+      "box": [
+        385,
+        942,
+        68,
+        29
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 7
+    },
+    {
+      "text": "Signature",
+      "confidence": 57.678711,
+      "box": [
+        382,
+        1029,
+        136,
+        28
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "—",
+      "confidence": 4.721878,
+      "box": [
+        625,
+        1050,
+        27,
+        2
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "[",
+      "confidence": 91.365753,
+      "box": [
+        383,
+        1110,
+        5,
+        27
+      ],
+      "block": 12,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "agree",
+      "confidence": 96.503433,
+      "box": [
+        409,
+        1115,
+        77,
+        26
+      ],
+      "block": 12,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "to",
+      "confidence": 96.25988,
+      "box": [
+        506,
+        1109,
+        26,
+        26
+      ],
+      "block": 12,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "pay",
+      "confidence": 81.415672,
+      "box": [
+        555,
+        1113,
+        38,
+        24
+      ],
+      "block": 12,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "jccording",
+      "confidence": 0.0,
+      "box": [
+        385,
+        1157,
+        133,
+        25
+      ],
+      "block": 12,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "t",
+      "confidence": 88.260925,
+      "box": [
+        541,
+        1150,
+        8,
+        27
+      ],
+      "block": 12,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "agreement",
+      "confidence": 91.449966,
+      "box": [
+        376,
+        1194,
+        154,
+        33
+      ],
+      "block": 12,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": ".",
+      "confidence": 45.796543,
+      "box": [
+        522,
+        1190,
+        11,
+        42
+      ],
+      "block": 12,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Customer",
+      "confidence": 95.682297,
+      "box": [
+        374,
+        1238,
+        256,
+        28
+      ],
+      "block": 12,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "copy",
+      "confidence": 93.296371,
+      "box": [
+        372,
+        1283,
+        126,
+        32
+      ],
+      "block": 12,
+      "paragraph": 1,
+      "line": 5
+    }
+  ]
+}

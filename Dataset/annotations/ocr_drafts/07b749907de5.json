@@ -1,0 +1,395 @@
+{
+  "sample_id": "07b749907de5",
+  "source_path": "Dataset/Delivery_Note/packing-slip-1087.png",
+  "source_sha256": "d47a4421a13b42854707c5405cfe0da2af73b6440074f6f68b214f8555bd570b",
+  "prepared_image_path": "data/images/07b749907de5.jpg",
+  "prepared_image_sha256": "720744362e23597bb0b40dbfae73885bc3cb0c22a854852b5baa967396084145",
+  "label": "delivery_note",
+  "split": "test",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "Packing Slip\n\nFrom\n\nCrimson&Co\n\n07 South Bishil Road\n1216\n\nBangladesh\n\nShip to\n\nOrder #1087\nSeptember 14, 2026\n\nOrder Details\n\nQty Item\n1 The Full Kit - 3 Piece Set-M/34/M\n",
+  "ocr_image_size": [
+    1400,
+    1680
+  ],
+  "words": [
+    {
+      "text": "Packing",
+      "confidence": 96.404297,
+      "box": [
+        83,
+        25,
+        129,
+        31
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Slip",
+      "confidence": 95.050819,
+      "box": [
+        225,
+        24,
+        58,
+        32
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "From",
+      "confidence": 96.56263,
+      "box": [
+        82,
+        92,
+        46,
+        14
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Crimson&Co",
+      "confidence": 90.856697,
+      "box": [
+        82,
+        112,
+        106,
+        15
+      ],
+      "block": 2,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "07",
+      "confidence": 96.890465,
+      "box": [
+        82,
+        134,
+        20,
+        13
+      ],
+      "block": 2,
+      "paragraph": 3,
+      "line": 1
+    },
+    {
+      "text": "South",
+      "confidence": 93.179329,
+      "box": [
+        108,
+        133,
+        48,
+        14
+      ],
+      "block": 2,
+      "paragraph": 3,
+      "line": 1
+    },
+    {
+      "text": "Bishil",
+      "confidence": 84.276947,
+      "box": [
+        165,
+        134,
+        42,
+        13
+      ],
+      "block": 2,
+      "paragraph": 3,
+      "line": 1
+    },
+    {
+      "text": "Road",
+      "confidence": 96.993179,
+      "box": [
+        215,
+        134,
+        43,
+        13
+      ],
+      "block": 2,
+      "paragraph": 3,
+      "line": 1
+    },
+    {
+      "text": "1216",
+      "confidence": 96.774689,
+      "box": [
+        83,
+        153,
+        40,
+        14
+      ],
+      "block": 2,
+      "paragraph": 3,
+      "line": 2
+    },
+    {
+      "text": "Bangladesh",
+      "confidence": 96.618141,
+      "box": [
+        82,
+        174,
+        99,
+        18
+      ],
+      "block": 2,
+      "paragraph": 4,
+      "line": 1
+    },
+    {
+      "text": "Ship",
+      "confidence": 96.044586,
+      "box": [
+        700,
+        92,
+        39,
+        17
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "to",
+      "confidence": 96.616348,
+      "box": [
+        744,
+        92,
+        18,
+        14
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Order",
+      "confidence": 96.81871,
+      "box": [
+        1212,
+        21,
+        47,
+        15
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "#1087",
+      "confidence": 96.412842,
+      "box": [
+        1265,
+        22,
+        51,
+        13
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "September",
+      "confidence": 96.748444,
+      "box": [
+        1146,
+        42,
+        92,
+        18
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "14,",
+      "confidence": 96.904289,
+      "box": [
+        1245,
+        43,
+        24,
+        16
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "2026",
+      "confidence": 96.715523,
+      "box": [
+        1275,
+        43,
+        42,
+        13
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Order",
+      "confidence": 96.473885,
+      "box": [
+        82,
+        254,
+        56,
+        15
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Details",
+      "confidence": 94.377312,
+      "box": [
+        145,
+        254,
+        65,
+        15
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Qty",
+      "confidence": 96.244476,
+      "box": [
+        90,
+        302,
+        38,
+        28
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Item",
+      "confidence": 93.73877,
+      "box": [
+        278,
+        306,
+        38,
+        14
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "1",
+      "confidence": 96.849892,
+      "box": [
+        95,
+        348,
+        5,
+        13
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "The",
+      "confidence": 96.770477,
+      "box": [
+        277,
+        348,
+        31,
+        14
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Full",
+      "confidence": 91.139458,
+      "box": [
+        315,
+        348,
+        27,
+        13
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Kit",
+      "confidence": 92.384956,
+      "box": [
+        351,
+        348,
+        20,
+        14
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "-",
+      "confidence": 92.384956,
+      "box": [
+        378,
+        355,
+        5,
+        2
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "3",
+      "confidence": 96.96595,
+      "box": [
+        392,
+        348,
+        7,
+        13
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Piece",
+      "confidence": 93.173065,
+      "box": [
+        406,
+        348,
+        45,
+        14
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Set-M/34/M",
+      "confidence": 66.896408,
+      "box": [
+        458,
+        347,
+        131,
+        15
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 2
+    }
+  ]
+}

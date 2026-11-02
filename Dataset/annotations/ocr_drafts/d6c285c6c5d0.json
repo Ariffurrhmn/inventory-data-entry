@@ -1,0 +1,44 @@
+{
+  "sample_id": "d6c285c6c5d0",
+  "source_path": "Dataset/Dataset-2/Delivery note challan/IMG_0947.HEIC",
+  "source_sha256": "460deae50ec032beb2585a590d72956a13257548b2cdfb550c0f16db6fc0567c",
+  "prepared_image_path": "data/images/d6c285c6c5d0.jpg",
+  "prepared_image_sha256": "25f6938be9beb21d5046ce5d6db9cc7fa78d16a08b5fd36c17ef079148cd5a1a",
+  "label": "delivery_note",
+  "split": "train",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "Description HSN/SAC\n\n",
+  "ocr_image_size": [
+    1400,
+    1866
+  ],
+  "words": [
+    {
+      "text": "Description",
+      "confidence": 95.378067,
+      "box": [
+        166,
+        614,
+        109,
+        31
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "HSN/SAC",
+      "confidence": 88.190712,
+      "box": [
+        427,
+        619,
+        84,
+        18
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    }
+  ]
+}

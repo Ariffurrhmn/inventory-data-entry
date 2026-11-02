@@ -1,0 +1,62 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "3019fd45ae14",
+  "source_image": {
+    "path": "Dataset/Dataset-2/Delivery note challan/IMG_0950.HEIC",
+    "sha256": "4169c63d9364f993a57cb24ea128972c7052ce11671ea624c7acb0639490c53c"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/3019fd45ae14.jpg",
+    "sha256": "43e7e585fd9e240ea1bbbf91efef266ceab9286e4c687e025b3a08ce818ae33f"
+  },
+  "classification": {
+    "label": "delivery_note",
+    "split": "train"
+  },
+  "transcription": {
+    "full_text": "DELIVERY CHALLAN\nABC Company\nChallan no. DC-011\nDate 2026-09-04\nPlace of supply Kolkata\nSELLER\nABC Company\nShop 12, Market Road, City — 400001\nCONSIGNEE\nFatiha\nHouse- 73, Road- 34, Kolkata\nVehicle no.: MH 01 AB 1234\nPurpose: Job work\n# Description HSN/SAC Qty Rate Taxable GST %\n1 Earphones 9207 30.00 ₹450.00 ₹13,500.00 20%\n2 Computer Keyboard 3541 20.00 ₹900.00 ₹18,000.00 6%\n3 USB-C Cable 1436 10.00 ₹250.00 ₹2,500.00 5%\n4 Water Bottle 8764 15.00 ₹350.00 ₹5,250.00 5%\nTaxable value ₹39,250.00\nCGST ₹2,083.75\nSGST ₹2,083.75\nGrand total ₹43,417.50\nAmount in words: Forty Three Thousand Four Hundred Seventeen Rupees and Fifty Paise Only\nNotes: Goods sent for the purpose stated above. Not a sale.",
+    "lines": [
+      "DELIVERY CHALLAN",
+      "ABC Company",
+      "Challan no. DC-011",
+      "Date 2026-09-04",
+      "Place of supply Kolkata",
+      "SELLER",
+      "ABC Company",
+      "Shop 12, Market Road, City — 400001",
+      "CONSIGNEE",
+      "Fatiha",
+      "House- 73, Road- 34, Kolkata",
+      "Vehicle no.: MH 01 AB 1234",
+      "Purpose: Job work",
+      "# Description HSN/SAC Qty Rate Taxable GST %",
+      "1 Earphones 9207 30.00 ₹450.00 ₹13,500.00 20%",
+      "2 Computer Keyboard 3541 20.00 ₹900.00 ₹18,000.00 6%",
+      "3 USB-C Cable 1436 10.00 ₹250.00 ₹2,500.00 5%",
+      "4 Water Bottle 8764 15.00 ₹350.00 ₹5,250.00 5%",
+      "Taxable value ₹39,250.00",
+      "CGST ₹2,083.75",
+      "SGST ₹2,083.75",
+      "Grand total ₹43,417.50",
+      "Amount in words: Forty Three Thousand Four Hundred Seventeen Rupees and Fifty Paise Only",
+      "Notes: Goods sent for the purpose stated above. Not a sale."
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [],
+    "notes": "Individually visually inspected photograph, including quantities, rates, totals and footer. Its visible content matches the reviewed digital form; reused checked text."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/3019fd45ae14.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

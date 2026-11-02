@@ -1,0 +1,59 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "11929597c29a",
+  "source_image": {
+    "path": "Dataset/Dataset-2/Purchase order/IMG_0984.HEIC",
+    "sha256": "36dd15e91976b65d27402e38de6ecf9dec6552152ad30e8399f5dfae2efb08a1"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/11929597c29a.jpg",
+    "sha256": "c519e4f253a241e5aa910cc38a0ed9ce164554a5208b4260f270fac4a1523a7f"
+  },
+  "classification": {
+    "label": "purchase_order",
+    "split": "train"
+  },
+  "transcription": {
+    "full_text": "HGT Company\nShop-12,\nPanjora, Gazipur,\nDhaka,\nBanglasesh\nPURCHASE ORDER\nNumber: PO - 16\nDate: 2026-09-07\nDue Date: 2026-10-20\nBILL TO\nXK Company\nShop-43,\nMirpue-10\nDhaka,\nBanglasesh\nDESCRIPTION QTY RATE AMOUNT\nWater Bottle 4 Rs.350.00 Rs.1652.00\nCeramic Mug 10 Rs.280.00 Rs.3304.00\nLED Desk Lamp 1 Rs.850.00 Rs.1003.00\nTaxable Amount: Rs.5050.00\nTotal: Rs.5959.00",
+    "lines": [
+      "HGT Company",
+      "Shop-12,",
+      "Panjora, Gazipur,",
+      "Dhaka,",
+      "Banglasesh",
+      "PURCHASE ORDER",
+      "Number: PO - 16",
+      "Date: 2026-09-07",
+      "Due Date: 2026-10-20",
+      "BILL TO",
+      "XK Company",
+      "Shop-43,",
+      "Mirpue-10",
+      "Dhaka,",
+      "Banglasesh",
+      "DESCRIPTION QTY RATE AMOUNT",
+      "Water Bottle 4 Rs.350.00 Rs.1652.00",
+      "Ceramic Mug 10 Rs.280.00 Rs.3304.00",
+      "LED Desk Lamp 1 Rs.850.00 Rs.1003.00",
+      "Taxable Amount: Rs.5050.00",
+      "Total: Rs.5959.00"
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [],
+    "notes": "Photograph visually checked against the matching printed content; no text outside its visible crop was added."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/11929597c29a.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

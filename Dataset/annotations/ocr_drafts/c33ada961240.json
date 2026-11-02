@@ -1,0 +1,174 @@
+{
+  "sample_id": "c33ada961240",
+  "source_path": "Dataset/Receipt/cord-train-0050.jpg",
+  "source_sha256": "b8330bbac4a8072e0617a64f1ba35d6e0d2a7fb31d7beb4e74cd464354d60004",
+  "prepared_image_path": "data/images/c33ada961240.jpg",
+  "prepared_image_sha256": "b4ab7fbd5137cdbfcdc9352ec25ab370ece87e08d787094148108f25610d4230",
+  "label": "receipt",
+  "split": "train",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "0 MOUSSE\nAPE JELLY\n\n20, 000\n13,000\n30, 000\n-3. 000\nO00\n\n",
+  "ocr_image_size": [
+    1400,
+    2100
+  ],
+  "words": [
+    {
+      "text": "0",
+      "confidence": 83.155792,
+      "box": [
+        251,
+        1120,
+        31,
+        43
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "MOUSSE",
+      "confidence": 95.21051,
+      "box": [
+        329,
+        1121,
+        222,
+        46
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "APE",
+      "confidence": 70.867317,
+      "box": [
+        251,
+        1187,
+        107,
+        44
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "JELLY",
+      "confidence": 56.19503,
+      "box": [
+        405,
+        1190,
+        183,
+        45
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "20,",
+      "confidence": 93.847839,
+      "box": [
+        865,
+        1122,
+        85,
+        45
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "000",
+      "confidence": 93.847839,
+      "box": [
+        973,
+        1116,
+        106,
+        45
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "13,000",
+      "confidence": 71.253494,
+      "box": [
+        870,
+        1184,
+        213,
+        49
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "30,",
+      "confidence": 96.510094,
+      "box": [
+        862,
+        1254,
+        91,
+        48
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "000",
+      "confidence": 96.772827,
+      "box": [
+        977,
+        1252,
+        109,
+        44
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "-3.",
+      "confidence": 21.212448,
+      "box": [
+        874,
+        1323,
+        82,
+        48
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "000",
+      "confidence": 95.623962,
+      "box": [
+        979,
+        1320,
+        110,
+        45
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "O00",
+      "confidence": 13.954605,
+      "box": [
+        866,
+        1389,
+        216,
+        47
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 5
+    }
+  ]
+}

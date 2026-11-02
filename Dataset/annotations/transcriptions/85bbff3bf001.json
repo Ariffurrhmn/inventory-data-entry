@@ -1,0 +1,54 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "85bbff3bf001",
+  "source_image": {
+    "path": "Dataset/Dataset-2/Purchase order/IMG_0983.HEIC",
+    "sha256": "77fc9e51ff9654850212d10055f13cdeac27c1e30e4e0a7bdab391fdfd86ad47"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/85bbff3bf001.jpg",
+    "sha256": "0770a0de13bbe17c1ee272053ae5c7532a4e3179132222537382396b4b8a0e7b"
+  },
+  "classification": {
+    "label": "purchase_order",
+    "split": "train"
+  },
+  "transcription": {
+    "full_text": "Suraiya Rahman\nPURCHASE ORDER\nPurchase Order # 7\nBill To: Billal Khan\nShip To: Rajib Hossain\nDate: Oct 9, 2026\nRequired By: Oct 10, 2026\nItem Quantity Rate Amount\nCeramic Mug 20 $2.80 $56.00\nLED Desk Lamp 10 $8.50 $85.00\nBackpack 5 $12.00 $60.00\nT-Shirt 10 $2.00 $20.00\nDenim Jeans 10 $15.00 $150.00\nSubtotal: $371.00\nTax (0.25%): $0.93\nTotal: $371.93",
+    "lines": [
+      "Suraiya Rahman",
+      "PURCHASE ORDER",
+      "Purchase Order # 7",
+      "Bill To: Billal Khan",
+      "Ship To: Rajib Hossain",
+      "Date: Oct 9, 2026",
+      "Required By: Oct 10, 2026",
+      "Item Quantity Rate Amount",
+      "Ceramic Mug 20 $2.80 $56.00",
+      "LED Desk Lamp 10 $8.50 $85.00",
+      "Backpack 5 $12.00 $60.00",
+      "T-Shirt 10 $2.00 $20.00",
+      "Denim Jeans 10 $15.00 $150.00",
+      "Subtotal: $371.00",
+      "Tax (0.25%): $0.93",
+      "Total: $371.93"
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [],
+    "notes": "Compared photograph against visible digital counterpart, including all quantities."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/85bbff3bf001.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

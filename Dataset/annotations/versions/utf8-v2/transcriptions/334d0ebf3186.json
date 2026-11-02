@@ -1,0 +1,58 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "334d0ebf3186",
+  "source_image": {
+    "path": "Dataset/Customer_Copy/image_1559.jpg",
+    "sha256": "3355df0d0904e50034ea68c6eb96e2b39ca9770276e847577292ca1adb847b34"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/334d0ebf3186.jpg",
+    "sha256": "ce2322e6ef6b6bb1d64ca4d6cff12988dddc8369139e0bf90bf3e578a1f08174"
+  },
+  "classification": {
+    "label": "customer_copy",
+    "split": "train"
+  },
+  "transcription": {
+    "full_text": "MISTER HOTSHINE\nCAR WASH & LUBE CENTERS\nMister Car Wash 002/102\n1038 Gessner Rd\nHouston, TX 77055\n713-461-0541\n002-WCash2, 02/20/16, 04:39 PM\nShift 1, Empl 1539, Sale # 73583514882\n1 Final Touch 39.99\n1 Dissolve-All 20.00\n1 Lube Wash Coupon* -13.99\n(Lube Free Wash,Bal: 0)\nSubtotal 46.00\nSales Tax 0.00\nTotal 46.00\nAMEX x2526 46.00\n(Sale Appr # 344020:284179)\n(Merchant # 196026)\nCar# 630\nCustomer# DCN3468-TX",
+    "lines": [
+      "MISTER HOTSHINE",
+      "CAR WASH & LUBE CENTERS",
+      "Mister Car Wash 002/102",
+      "1038 Gessner Rd",
+      "Houston, TX 77055",
+      "713-461-0541",
+      "002-WCash2, 02/20/16, 04:39 PM",
+      "Shift 1, Empl 1539, Sale # 73583514882",
+      "1 Final Touch 39.99",
+      "1 Dissolve-All 20.00",
+      "1 Lube Wash Coupon* -13.99",
+      "(Lube Free Wash,Bal: 0)",
+      "Subtotal 46.00",
+      "Sales Tax 0.00",
+      "Total 46.00",
+      "AMEX x2526 46.00",
+      "(Sale Appr # 344020:284179)",
+      "(Merchant # 196026)",
+      "Car# 630",
+      "Customer# DCN3468-TX"
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [],
+    "notes": "Visually checked; blank fields left blank. Printed masking is represented by [masked] where exact symbol count is not reliable."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/334d0ebf3186.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

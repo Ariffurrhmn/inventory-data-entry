@@ -1,0 +1,655 @@
+{
+  "sample_id": "d6174f39143f",
+  "source_path": "Dataset/Delivery_Note/packing-slip-1111.png",
+  "source_sha256": "5e94481b49678227540d092e98ab496d263d308ea7ab3e2c95ee8b9a02b2997c",
+  "prepared_image_path": "data/images/d6174f39143f.jpg",
+  "prepared_image_sha256": "aaa8e7e7ee7e9c88f0c433212c1dd8a4ea8a765ea56519390a62c0a1abdc31d2",
+  "label": "delivery_note",
+  "split": "test",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "Packing Slip\n\nFrom Ship to\nCrimson&Co\n\n07 South Bishil Road\n\n1216\n\nBangladesh\n\nOrder #1111\nOctober 1, 2026\n\nOrder Details\n\nQty Item\n1 Premium Ribbed Tank Top - Heritage Edition - M\n1 Natural Raw 12-Ounce Ecru Heavy Denim Jeans - 32\n\n1 The Ascot Check Boxy Shirt - L\n",
+  "ocr_image_size": [
+    1400,
+    1680
+  ],
+  "words": [
+    {
+      "text": "Packing",
+      "confidence": 96.404297,
+      "box": [
+        83,
+        25,
+        129,
+        31
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Slip",
+      "confidence": 95.050819,
+      "box": [
+        225,
+        24,
+        58,
+        32
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "From",
+      "confidence": 96.661835,
+      "box": [
+        82,
+        88,
+        46,
+        25
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Ship",
+      "confidence": 96.032051,
+      "box": [
+        700,
+        92,
+        39,
+        17
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "to",
+      "confidence": 96.638535,
+      "box": [
+        744,
+        92,
+        18,
+        14
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Crimson&Co",
+      "confidence": 90.856697,
+      "box": [
+        82,
+        112,
+        106,
+        15
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "07",
+      "confidence": 96.890465,
+      "box": [
+        82,
+        134,
+        20,
+        13
+      ],
+      "block": 2,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "South",
+      "confidence": 93.179329,
+      "box": [
+        108,
+        133,
+        48,
+        14
+      ],
+      "block": 2,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "Bishil",
+      "confidence": 84.276947,
+      "box": [
+        165,
+        134,
+        42,
+        13
+      ],
+      "block": 2,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "Road",
+      "confidence": 96.993179,
+      "box": [
+        215,
+        134,
+        43,
+        13
+      ],
+      "block": 2,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "1216",
+      "confidence": 96.774689,
+      "box": [
+        83,
+        153,
+        40,
+        14
+      ],
+      "block": 2,
+      "paragraph": 3,
+      "line": 1
+    },
+    {
+      "text": "Bangladesh",
+      "confidence": 96.618141,
+      "box": [
+        82,
+        174,
+        99,
+        18
+      ],
+      "block": 2,
+      "paragraph": 4,
+      "line": 1
+    },
+    {
+      "text": "Order",
+      "confidence": 96.036308,
+      "box": [
+        1212,
+        21,
+        47,
+        15
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "#1111",
+      "confidence": 96.036308,
+      "box": [
+        1265,
+        22,
+        49,
+        13
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "October",
+      "confidence": 95.947891,
+      "box": [
+        1181,
+        42,
+        68,
+        14
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "1,",
+      "confidence": 91.137291,
+      "box": [
+        1255,
+        43,
+        14,
+        16
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "2026",
+      "confidence": 91.137291,
+      "box": [
+        1275,
+        43,
+        42,
+        13
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Order",
+      "confidence": 96.473885,
+      "box": [
+        82,
+        254,
+        56,
+        15
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Details",
+      "confidence": 94.377312,
+      "box": [
+        145,
+        254,
+        65,
+        15
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Qty",
+      "confidence": 95.663094,
+      "box": [
+        90,
+        301,
+        38,
+        30
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Item",
+      "confidence": 93.606232,
+      "box": [
+        278,
+        306,
+        38,
+        14
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "1",
+      "confidence": 96.849892,
+      "box": [
+        95,
+        348,
+        5,
+        13
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Premium",
+      "confidence": 96.575523,
+      "box": [
+        278,
+        348,
+        73,
+        14
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Ribbed",
+      "confidence": 96.76561,
+      "box": [
+        359,
+        348,
+        59,
+        14
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Tank",
+      "confidence": 95.776459,
+      "box": [
+        424,
+        348,
+        39,
+        13
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Top",
+      "confidence": 93.253845,
+      "box": [
+        468,
+        348,
+        30,
+        17
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "-",
+      "confidence": 91.018227,
+      "box": [
+        505,
+        355,
+        6,
+        2
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Heritage",
+      "confidence": 96.686859,
+      "box": [
+        518,
+        348,
+        69,
+        17
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Edition",
+      "confidence": 93.297676,
+      "box": [
+        594,
+        348,
+        57,
+        14
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "-",
+      "confidence": 91.748154,
+      "box": [
+        658,
+        355,
+        5,
+        2
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "M",
+      "confidence": 92.853294,
+      "box": [
+        671,
+        348,
+        14,
+        13
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "1",
+      "confidence": 96.742874,
+      "box": [
+        95,
+        389,
+        5,
+        13
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Natural",
+      "confidence": 96.403206,
+      "box": [
+        278,
+        389,
+        59,
+        13
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Raw",
+      "confidence": 93.170181,
+      "box": [
+        345,
+        388,
+        36,
+        14
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "12-Ounce",
+      "confidence": 92.470299,
+      "box": [
+        387,
+        388,
+        83,
+        14
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Ecru",
+      "confidence": 96.195183,
+      "box": [
+        477,
+        388,
+        35,
+        14
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Heavy",
+      "confidence": 95.993233,
+      "box": [
+        520,
+        389,
+        51,
+        17
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Denim",
+      "confidence": 96.652618,
+      "box": [
+        578,
+        388,
+        52,
+        14
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Jeans",
+      "confidence": 93.244781,
+      "box": [
+        636,
+        389,
+        49,
+        13
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "-",
+      "confidence": 92.396172,
+      "box": [
+        693,
+        395,
+        5,
+        3
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "32",
+      "confidence": 96.777252,
+      "box": [
+        705,
+        388,
+        19,
+        14
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "1",
+      "confidence": 96.778984,
+      "box": [
+        95,
+        430,
+        5,
+        14
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "The",
+      "confidence": 96.872017,
+      "box": [
+        277,
+        430,
+        32,
+        14
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Ascot",
+      "confidence": 96.918594,
+      "box": [
+        314,
+        430,
+        48,
+        14
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Check",
+      "confidence": 96.225647,
+      "box": [
+        369,
+        430,
+        52,
+        14
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Boxy",
+      "confidence": 96.58947,
+      "box": [
+        428,
+        430,
+        41,
+        18
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Shirt",
+      "confidence": 93.285728,
+      "box": [
+        476,
+        430,
+        38,
+        14
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "-",
+      "confidence": 90.676231,
+      "box": [
+        520,
+        437,
+        6,
+        2
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "L",
+      "confidence": 90.676231,
+      "box": [
+        534,
+        430,
+        9,
+        14
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    }
+  ]
+}

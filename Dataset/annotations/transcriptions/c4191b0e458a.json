@@ -1,0 +1,54 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "c4191b0e458a",
+  "source_image": {
+    "path": "Dataset/Dataset-2/Purchase order/IMG_0982.HEIC",
+    "sha256": "abeff9905c44e4d8a605015e885549f9da4793426252413b4dcaf175668505ce"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/c4191b0e458a.jpg",
+    "sha256": "282531cde2350838095cae906af89d7f9ab037b2e3cb3ec78ba0526efe6631d4"
+  },
+  "classification": {
+    "label": "purchase_order",
+    "split": "test"
+  },
+  "transcription": {
+    "full_text": "Rahim General Store\nJatrabari, Dhaka.\nPurchase Order\nP.O. No: PO-5120\nOrder Date: 07/10/2026\nSupplier:\nTeesta Enterprise.\nBill To / Ship To:\nRahim General Store,\nJatrabari, Dhaka.\nItem Qty Unit Price (Tk) Amount (Tk)\nMiniket Rice 25kg 5 Tk 1,850 Tk 9,250\nSugar 1kg 2 Tk 135 Tk 270\nRed Lentils 1kg 12 Tk 110 Tk 1,320\nGrand Total: Tk 10,840\nAuthorized Signature",
+    "lines": [
+      "Rahim General Store",
+      "Jatrabari, Dhaka.",
+      "Purchase Order",
+      "P.O. No: PO-5120",
+      "Order Date: 07/10/2026",
+      "Supplier:",
+      "Teesta Enterprise.",
+      "Bill To / Ship To:",
+      "Rahim General Store,",
+      "Jatrabari, Dhaka.",
+      "Item Qty Unit Price (Tk) Amount (Tk)",
+      "Miniket Rice 25kg 5 Tk 1,850 Tk 9,250",
+      "Sugar 1kg 2 Tk 135 Tk 270",
+      "Red Lentils 1kg 12 Tk 110 Tk 1,320",
+      "Grand Total: Tk 10,840",
+      "Authorized Signature"
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [],
+    "notes": ""
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/c4191b0e458a.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

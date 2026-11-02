@@ -1,0 +1,343 @@
+{
+  "sample_id": "7c33fa811984",
+  "source_path": "Dataset/Receipt/cord-train-0015.jpg",
+  "source_sha256": "bf52786f099a898f0d0e6200cb17cb61790a7c836c4f10233052910133dc700c",
+  "prepared_image_path": "data/images/7c33fa811984.jpg",
+  "prepared_image_sha256": "9f576cd0d462b051a9e12bdb95348ee2c6c8bf0842c7426993eabb80ca67438a",
+  "label": "receipt",
+  "split": "val",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "BLACK PEPPER MEATBALL 76,500\nQUARTO FORMANGGI PASTA 82,500\nGREEN TEA WITH CRUMBLE 56,000\nORIGINAL BREWED TEA 46,000\nBTTL 261,000\nSVC CHG 6% 15,880\nPB1 10%\n\n",
+  "ocr_image_size": [
+    1400,
+    2490
+  ],
+  "words": [
+    {
+      "text": "BLACK",
+      "confidence": 95.555542,
+      "box": [
+        386,
+        1317,
+        115,
+        49
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "PEPPER",
+      "confidence": 96.104698,
+      "box": [
+        526,
+        1330,
+        139,
+        41
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "MEATBALL",
+      "confidence": 93.682617,
+      "box": [
+        690,
+        1333,
+        181,
+        39
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "76,500",
+      "confidence": 41.4394,
+      "box": [
+        963,
+        1329,
+        134,
+        42
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "QUARTO",
+      "confidence": 83.426811,
+      "box": [
+        387,
+        1371,
+        140,
+        50
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "FORMANGGI",
+      "confidence": 73.37365,
+      "box": [
+        554,
+        1385,
+        205,
+        42
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "PASTA",
+      "confidence": 89.871292,
+      "box": [
+        786,
+        1388,
+        113,
+        39
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "82,500",
+      "confidence": 94.651062,
+      "box": [
+        970,
+        1382,
+        135,
+        45
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "GREEN",
+      "confidence": 96.720047,
+      "box": [
+        388,
+        1427,
+        119,
+        50
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "TEA",
+      "confidence": 96.117256,
+      "box": [
+        532,
+        1439,
+        68,
+        44
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "WITH",
+      "confidence": 96.60955,
+      "box": [
+        625,
+        1443,
+        94,
+        42
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "CRUMBLE",
+      "confidence": 96.687035,
+      "box": [
+        744,
+        1443,
+        160,
+        41
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "56,000",
+      "confidence": 78.8396,
+      "box": [
+        977,
+        1437,
+        135,
+        46
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "ORIGINAL",
+      "confidence": 94.996758,
+      "box": [
+        388,
+        1485,
+        192,
+        55
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "BREWED",
+      "confidence": 96.427917,
+      "box": [
+        604,
+        1500,
+        142,
+        43
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "TEA",
+      "confidence": 96.965576,
+      "box": [
+        772,
+        1500,
+        69,
+        41
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "46,000",
+      "confidence": 79.654007,
+      "box": [
+        984,
+        1494,
+        136,
+        47
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "BTTL",
+      "confidence": 88.825348,
+      "box": [
+        361,
+        1546,
+        100,
+        47
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "261,000",
+      "confidence": 96.399658,
+      "box": [
+        964,
+        1552,
+        163,
+        49
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "SVC",
+      "confidence": 96.072189,
+      "box": [
+        306,
+        1609,
+        77,
+        47
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "CHG",
+      "confidence": 96.31662,
+      "box": [
+        412,
+        1610,
+        75,
+        47
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "6%",
+      "confidence": 92.540604,
+      "box": [
+        515,
+        1613,
+        46,
+        47
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "15,880",
+      "confidence": 82.022957,
+      "box": [
+        998,
+        1611,
+        136,
+        49
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "PB1",
+      "confidence": 86.571686,
+      "box": [
+        302,
+        1675,
+        72,
+        49
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 7
+    },
+    {
+      "text": "10%",
+      "confidence": 96.889427,
+      "box": [
+        416,
+        1676,
+        70,
+        46
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 7
+    }
+  ]
+}

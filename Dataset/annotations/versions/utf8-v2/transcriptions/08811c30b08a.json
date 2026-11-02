@@ -1,0 +1,62 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "08811c30b08a",
+  "source_image": {
+    "path": "Dataset/Dataset-2/Delivery note challan/IMG_0949.HEIC",
+    "sha256": "341db994f1d22b1949d3f8bad1849776f09083fa744c024f465d6bbcc6639493"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/08811c30b08a.jpg",
+    "sha256": "a3a3c858761a2db9a32e72cd0206f1da7535b3abcb341f7c5d0b829a0b5dcd29"
+  },
+  "classification": {
+    "label": "delivery_note",
+    "split": "train"
+  },
+  "transcription": {
+    "full_text": "DELIVERY CHALLAN\nABC Company\nChallan no. DC-012\nDate 2026-09-04\nPlace of supply Kolkata\nSELLER\nABC Company\nShop 12, Market Road, City — 400001\nCONSIGNEE\nFalaq Islam\nHouse- 74, Road- 34, Kolkata\nVehicle no.: MH 01 AB 1234\nPurpose: Job work\n# Description HSN/SAC Qty Rate Taxable GST %\n1 Ceramic Mug 8207 2.00 ₹280.00 ₹560.00 2%\n2 Backpack 2541 2.00 ₹1,200.00 ₹2,400.00 5%\n3 Cotton T- Shirt 1437 15.00 ₹320.00 ₹4,800.00 4%\n4 Denim Jeans 8764 15.00 ₹1,200.00 ₹18,000.00 5%\nTaxable value ₹25,760.00\nCGST ₹611.60\nSGST ₹611.60\nGrand total ₹26,983.20\nAmount in words: Twenty Six Thousand Nine Hundred Eighty Three Rupees and Twenty Paise Only\nNotes: Goods sent for the purpose stated above. Not a sale.",
+    "lines": [
+      "DELIVERY CHALLAN",
+      "ABC Company",
+      "Challan no. DC-012",
+      "Date 2026-09-04",
+      "Place of supply Kolkata",
+      "SELLER",
+      "ABC Company",
+      "Shop 12, Market Road, City — 400001",
+      "CONSIGNEE",
+      "Falaq Islam",
+      "House- 74, Road- 34, Kolkata",
+      "Vehicle no.: MH 01 AB 1234",
+      "Purpose: Job work",
+      "# Description HSN/SAC Qty Rate Taxable GST %",
+      "1 Ceramic Mug 8207 2.00 ₹280.00 ₹560.00 2%",
+      "2 Backpack 2541 2.00 ₹1,200.00 ₹2,400.00 5%",
+      "3 Cotton T- Shirt 1437 15.00 ₹320.00 ₹4,800.00 4%",
+      "4 Denim Jeans 8764 15.00 ₹1,200.00 ₹18,000.00 5%",
+      "Taxable value ₹25,760.00",
+      "CGST ₹611.60",
+      "SGST ₹611.60",
+      "Grand total ₹26,983.20",
+      "Amount in words: Twenty Six Thousand Nine Hundred Eighty Three Rupees and Twenty Paise Only",
+      "Notes: Goods sent for the purpose stated above. Not a sale."
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [],
+    "notes": "Individually visually inspected photograph, including quantities, rates, totals and footer. Its visible content matches the reviewed digital form; reused checked text."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/08811c30b08a.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "sample_id": "ddb01e6bbf91",
+  "source_path": "Dataset/Dataset-2/Delivery note challan/IMG_0988.HEIC",
+  "source_sha256": "d331eeb99a608fa14bcdec1ee3a021e926a2b579ba6f34260b818ba6b5a5cc2e",
+  "prepared_image_path": "data/images/ddb01e6bbf91.jpg",
+  "prepared_image_sha256": "c7c4682c715d8d2fa62ab805c6726b0882fd15da292e55c97b2f8fe1468138bc",
+  "label": "delivery_note",
+  "split": "val",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "Jamuna Wholesale\n\n—— TE HUNROan\nDelivery Challan\n\nChallan No: DC-685 Date:\nFrom: Jamuna Wholesale.\n™ | Hasan Brothers, Tongi, Gazipur.\n\n",
+  "ocr_image_size": [
+    1400,
+    2035
+  ],
+  "words": [
+    {
+      "text": "Jamuna",
+      "confidence": 90.318077,
+      "box": [
+        271,
+        115,
+        376,
+        115
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Wholesale",
+      "confidence": 96.337082,
+      "box": [
+        686,
+        147,
+        459,
+        98
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "——",
+      "confidence": 57.677479,
+      "box": [
+        104,
+        198,
+        205,
+        79
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "TE",
+      "confidence": 48.832642,
+      "box": [
+        505,
+        198,
+        139,
+        79
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "HUNROan",
+      "confidence": 0.0,
+      "box": [
+        108,
+        215,
+        1160,
+        58
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Delivery",
+      "confidence": 96.99118,
+      "box": [
+        502,
+        290,
+        205,
+        73
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Challan",
+      "confidence": 92.489189,
+      "box": [
+        721,
+        302,
+        175,
+        55
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Challan",
+      "confidence": 87.310944,
+      "box": [
+        110,
+        390,
+        128,
+        59
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "No:",
+      "confidence": 96.632034,
+      "box": [
+        257,
+        390,
+        56,
+        59
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "DC-685",
+      "confidence": 80.194702,
+      "box": [
+        365,
+        406,
+        240,
+        56
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Date:",
+      "confidence": 94.333656,
+      "box": [
+        854,
+        416,
+        86,
+        58
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "From:",
+      "confidence": 96.656616,
+      "box": [
+        112,
+        520,
+        116,
+        72
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Jamuna",
+      "confidence": 69.696274,
+      "box": [
+        271,
+        526,
+        232,
+        73
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Wholesale.",
+      "confidence": 33.071404,
+      "box": [
+        550,
+        536,
+        258,
+        73
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "™",
+      "confidence": 63.792236,
+      "box": [
+        111,
+        658,
+        62,
+        35
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "|",
+      "confidence": 52.152473,
+      "box": [
+        217,
+        654,
+        41,
+        95
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Hasan",
+      "confidence": 52.152473,
+      "box": [
+        267,
+        668,
+        188,
+        66
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Brothers,",
+      "confidence": 89.990494,
+      "box": [
+        501,
+        679,
+        242,
+        71
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Tongi,",
+      "confidence": 66.290283,
+      "box": [
+        784,
+        678,
+        157,
+        81
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Gazipur.",
+      "confidence": 90.529793,
+      "box": [
+        991,
+        676,
+        246,
+        81
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 3
+    }
+  ]
+}

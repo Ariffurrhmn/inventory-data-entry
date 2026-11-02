@@ -1,0 +1,38 @@
+{
+  "date": "2026-10-20",
+  "records_screened": 236,
+  "method": "AI visual scope screening of all 236 contact-sheet images, selected individual enlargements; not full-text/human verification",
+  "scope_status_counts": {
+    "eligible": 202,
+    "excluded_handwriting": 24,
+    "held_for_printed_region": 7,
+    "previously_excluded": 3
+  },
+  "eligible": 202,
+  "eligible_classes": {
+    "purchase_order": 52,
+    "receipt": 64,
+    "delivery_note": 63,
+    "customer_copy": 23
+  },
+  "eligible_splits": {
+    "test": 27,
+    "val": 13,
+    "train": 162
+  },
+  "eligible_originals": 116,
+  "eligible_intake": 86,
+  "eligible_flagged_review_queue": 35,
+  "protected_files_unchanged": 147,
+  "unchanged_existing_splits": true,
+  "new_training": false,
+  "new_test_evaluation": false,
+  "human_verified_created": 0,
+  "limitations": [
+    "Content-style screening is not a verified transcription or label audit.",
+    "English-only, payment and taxonomy questions remain independent quality gates.",
+    "Held originals are excluded until a separately reviewed printed-only derivative exists.",
+    "Incidental signatures are not transcription targets; no signature-recognition guarantee is made for legacy OCR.",
+    "Existing legacy model is not retrained under printed-only scope."
+  ]
+}

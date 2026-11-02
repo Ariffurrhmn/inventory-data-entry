@@ -1,0 +1,62 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "7875077c420c",
+  "source_image": {
+    "path": "Dataset/Delivery_Note/delivery-challan-DC-011.jpg",
+    "sha256": "4061af4069ba8bfa179dd3c5d7a41dbd9317600445a6f682c974521097def2d5"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/7875077c420c.jpg",
+    "sha256": "8728d58145202a298b8391c0e08e2289f493f4857541de7fcbebe28adf661d09"
+  },
+  "classification": {
+    "label": "delivery_note",
+    "split": "train"
+  },
+  "transcription": {
+    "full_text": "DELIVERY CHALLAN\nABC Company\nChallan no. DC-011\nDate 2026-09-04\nPlace of supply Kolkata\nSELLER\nABC Company\nShop 12, Market Road, City â€” 400001\nCONSIGNEE\nFatiha\nHouse- 73, Road- 34, Kolkata\nVehicle no.: MH 01 AB 1234\nPurpose: Job work\n# Description HSN/SAC Qty Rate Taxable GST %\n1 Earphones 9207 30.00 â‚¹450.00 â‚¹13,500.00 20%\n2 Computer Keyboard 3541 20.00 â‚¹900.00 â‚¹18,000.00 6%\n3 USB-C Cable 1436 10.00 â‚¹250.00 â‚¹2,500.00 5%\n4 Water Bottle 8764 15.00 â‚¹350.00 â‚¹5,250.00 5%\nTaxable value â‚¹39,250.00\nCGST â‚¹2,083.75\nSGST â‚¹2,083.75\nGrand total â‚¹43,417.50\nAmount in words: Forty Three Thousand Four Hundred Seventeen Rupees and Fifty Paise Only\nNotes: Goods sent for the purpose stated above. Not a sale.",
+    "lines": [
+      "DELIVERY CHALLAN",
+      "ABC Company",
+      "Challan no. DC-011",
+      "Date 2026-09-04",
+      "Place of supply Kolkata",
+      "SELLER",
+      "ABC Company",
+      "Shop 12, Market Road, City â€” 400001",
+      "CONSIGNEE",
+      "Fatiha",
+      "House- 73, Road- 34, Kolkata",
+      "Vehicle no.: MH 01 AB 1234",
+      "Purpose: Job work",
+      "# Description HSN/SAC Qty Rate Taxable GST %",
+      "1 Earphones 9207 30.00 â‚¹450.00 â‚¹13,500.00 20%",
+      "2 Computer Keyboard 3541 20.00 â‚¹900.00 â‚¹18,000.00 6%",
+      "3 USB-C Cable 1436 10.00 â‚¹250.00 â‚¹2,500.00 5%",
+      "4 Water Bottle 8764 15.00 â‚¹350.00 â‚¹5,250.00 5%",
+      "Taxable value â‚¹39,250.00",
+      "CGST â‚¹2,083.75",
+      "SGST â‚¹2,083.75",
+      "Grand total â‚¹43,417.50",
+      "Amount in words: Forty Three Thousand Four Hundred Seventeen Rupees and Fifty Paise Only",
+      "Notes: Goods sent for the purpose stated above. Not a sale."
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [],
+    "notes": "Visually checked all entries; retained printed spelling and numeric inconsistencies. Whitespace/table layout linearized."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/7875077c420c.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "fb76d6216e2b",
+  "source_image": {
+    "path": "Dataset/Dataset-2/Customer copy/IMG_1006.HEIC",
+    "sha256": "09d896d9731f7b68fae3bf931cb4598db7114656a32c0be7f4b080bc79925f6b"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/fb76d6216e2b.jpg",
+    "sha256": "d281f7b9a307a8ff57496d059d105e4699864511670f61e24b02c30a20773297"
+  },
+  "classification": {
+    "label": "customer_copy",
+    "split": "val"
+  },
+  "transcription": {
+    "full_text": "Jamuna Wholesale\nCash Memo\nOFFICE COPY\nBill To / Customer: Nabil Departmental Store, Uttara Sector 7, Dhaka.\nInvoice No: INV-9562.\nDate: 02/08/2026.\nItem Qty Rate (Tk) Amount (Tk)\nMineral Water 1.5L 4 Tk 30 Tk 120\nMiniket Rice 25kg 20 Tk 1,850 Tk 37,000\nBall Pen box 1 Tk 100 Tk 100\nBath Soap 100g 2 Tk 55 Tk 110\nTotal: Tk 37,330.\n[signature]\nAuthorised Signature",
+    "lines": [
+      "Jamuna Wholesale",
+      "Cash Memo",
+      "OFFICE COPY",
+      "Bill To / Customer: Nabil Departmental Store, Uttara Sector 7, Dhaka.",
+      "Invoice No: INV-9562.",
+      "Date: 02/08/2026.",
+      "Item Qty Rate (Tk) Amount (Tk)",
+      "Mineral Water 1.5L 4 Tk 30 Tk 120",
+      "Miniket Rice 25kg 20 Tk 1,850 Tk 37,000",
+      "Ball Pen box 1 Tk 100 Tk 100",
+      "Bath Soap 100g 2 Tk 55 Tk 110",
+      "Total: Tk 37,330.",
+      "[signature]",
+      "Authorised Signature"
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [],
+    "notes": "Individually visually reviewed photograph; table rows linearized, signatures marked."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/fb76d6216e2b.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "6f5831a6d9e7",
+  "source_image": {
+    "path": "Dataset/Delivery_Note/delivery-challan-DC-004.jpg",
+    "sha256": "88d9a0611e18b27169267a3391d5c60bc619f57e851d8190bb2e6810de00932d"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/6f5831a6d9e7.jpg",
+    "sha256": "d38d61df40cbb5c4ffe43a00becc543686850f7fd943e9ecc700b4ab091ba43f"
+  },
+  "classification": {
+    "label": "delivery_note",
+    "split": "train"
+  },
+  "transcription": {
+    "full_text": "DELIVERY CHALLAN\nABC Company\nChallan no.: DC-004\nDate: 2026-09-04\nPlace of supply: Maharashtra\nSELLER\nABC Company\nShop 12, Market Road, City — 400001\nCONSIGNEE\nRajib\nHouse-56, Road-3, Maharashtra\nVehicle no.: MH01AB1234\nPurpose: Job work\n# Description HSN/SAC Qty Rate Taxable GST %\n1 Shoes 9087 15.00 ₹1,800.00 ₹27,000.00 15%\n2 Socks 3546 20.00 ₹200.00 ₹4,000.00 3%\nTaxable value ₹31,000.00\nCGST ₹2,085.00\nSGST ₹2,085.00\nGrand total ₹35,170.00\nAmount in words: Thirty Five Thousand One Hundred Seventy Rupees Only\nNotes: Goods sent for the purpose stated above. Not a sale.",
+    "lines": [
+      "DELIVERY CHALLAN",
+      "ABC Company",
+      "Challan no.: DC-004",
+      "Date: 2026-09-04",
+      "Place of supply: Maharashtra",
+      "SELLER",
+      "ABC Company",
+      "Shop 12, Market Road, City — 400001",
+      "CONSIGNEE",
+      "Rajib",
+      "House-56, Road-3, Maharashtra",
+      "Vehicle no.: MH01AB1234",
+      "Purpose: Job work",
+      "# Description HSN/SAC Qty Rate Taxable GST %",
+      "1 Shoes 9087 15.00 ₹1,800.00 ₹27,000.00 15%",
+      "2 Socks 3546 20.00 ₹200.00 ₹4,000.00 3%",
+      "Taxable value ₹31,000.00",
+      "CGST ₹2,085.00",
+      "SGST ₹2,085.00",
+      "Grand total ₹35,170.00",
+      "Amount in words: Thirty Five Thousand One Hundred Seventy Rupees Only",
+      "Notes: Goods sent for the purpose stated above. Not a sale."
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [],
+    "notes": "Original digital challan individually visually checked; table linearized."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/6f5831a6d9e7.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

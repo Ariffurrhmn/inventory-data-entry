@@ -1,0 +1,1929 @@
+{
+  "sample_id": "558ab17fe557",
+  "source_path": "Dataset/Dataset-2/Purchase order/IMG_0978.HEIC",
+  "source_sha256": "fe1bafa7495d1fe79be0b3da1e7f0cbe3aae21e5694703e5a4912c7e446d90d8",
+  "prepared_image_path": "data/images/558ab17fe557.jpg",
+  "prepared_image_sha256": "fbbec5433711e1a515b262e42ac51c922119fd3aa62610816e17e314da1705ff",
+  "label": "purchase_order",
+  "split": "test",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "Purchase Order\n\neS ——\nEE EE EE EE EE EE EE EE ee\n\nP.0. No: PO0-7880 Order Date: 13/09/2026\n\nESS aE FY\n\nSupplier:\nSonar Bangla Distributors.\n\nBill To: Ship To:\nAl-Madina Traders, Al-Madina Traders,\nChashara, Narayanganj. Chashara, Narayanganj.\n\nItem | aty | unit Price (Tk)| Amount (Tk) |\nre mr mr ff rr ee fe ef\n| Toothpaste 100g | an | 120 i nae |\nEns A\n| onion 1kg | 22 | 65 | 0 |\nfmm rr mr err et am fp mr mr mer ef rm er rm rm mm pm mm ———————\n| Milk Powder S003 | 20 | 420 | S40 |\nfm mm mene ee ce ee ef re ef et re en ee em err\n| Sugar 1kg je] =m | ws |\nme a mpm meme\n\nGrand Total: Tk 12,780\n\nAuthorized Signature\n\nen mm mm em me ——\n",
+  "ocr_image_size": [
+    1400,
+    1866
+  ],
+  "words": [
+    {
+      "text": "Purchase",
+      "confidence": 95.205208,
+      "box": [
+        382,
+        108,
+        350,
+        62
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Order",
+      "confidence": 85.774292,
+      "box": [
+        782,
+        114,
+        216,
+        60
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "eS",
+      "confidence": 0.0,
+      "box": [
+        287,
+        193,
+        63,
+        28
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "——",
+      "confidence": 0.0,
+      "box": [
+        291,
+        204,
+        395,
+        9
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "EE",
+      "confidence": 26.826195,
+      "box": [
+        119,
+        201,
+        164,
+        30
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "EE",
+      "confidence": 21.28595,
+      "box": [
+        295,
+        201,
+        45,
+        30
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "EE",
+      "confidence": 11.980064,
+      "box": [
+        360,
+        201,
+        75,
+        30
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "EE",
+      "confidence": 10.157387,
+      "box": [
+        445,
+        201,
+        28,
+        30
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "EE",
+      "confidence": 16.755333,
+      "box": [
+        482,
+        201,
+        28,
+        30
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "EE",
+      "confidence": 14.447479,
+      "box": [
+        520,
+        201,
+        23,
+        30
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "EE",
+      "confidence": 9.16526,
+      "box": [
+        557,
+        201,
+        38,
+        30
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "EE",
+      "confidence": 5.555786,
+      "box": [
+        615,
+        201,
+        28,
+        30
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "ee",
+      "confidence": 31.216141,
+      "box": [
+        865,
+        201,
+        270,
+        30
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "P.0.",
+      "confidence": 92.007027,
+      "box": [
+        118,
+        261,
+        77,
+        31
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "No:",
+      "confidence": 93.028206,
+      "box": [
+        225,
+        263,
+        58,
+        30
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "PO0-7880",
+      "confidence": 56.759071,
+      "box": [
+        327,
+        266,
+        146,
+        31
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Order",
+      "confidence": 96.325531,
+      "box": [
+        810,
+        271,
+        100,
+        31
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Date:",
+      "confidence": 96.691589,
+      "box": [
+        934,
+        273,
+        88,
+        31
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "13/09/2026",
+      "confidence": 96.691589,
+      "box": [
+        1051,
+        273,
+        193,
+        33
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "ESS",
+      "confidence": 30.991501,
+      "box": [
+        289,
+        334,
+        227,
+        28
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "aE",
+      "confidence": 20.927567,
+      "box": [
+        534,
+        339,
+        77,
+        12
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "FY",
+      "confidence": 18.491631,
+      "box": [
+        612,
+        342,
+        631,
+        15
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Supplier:",
+      "confidence": 95.852745,
+      "box": [
+        117,
+        393,
+        192,
+        44
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Sonar",
+      "confidence": 95.836594,
+      "box": [
+        115,
+        445,
+        110,
+        33
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Bangla",
+      "confidence": 96.087013,
+      "box": [
+        249,
+        446,
+        130,
+        40
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Distributors.",
+      "confidence": 96.179741,
+      "box": [
+        404,
+        446,
+        272,
+        36
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Bill",
+      "confidence": 96.158455,
+      "box": [
+        114,
+        550,
+        84,
+        33
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "To:",
+      "confidence": 96.077286,
+      "box": [
+        227,
+        553,
+        58,
+        31
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Ship",
+      "confidence": 96.291153,
+      "box": [
+        752,
+        556,
+        83,
+        40
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "To:",
+      "confidence": 96.659729,
+      "box": [
+        861,
+        558,
+        56,
+        31
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Al-Madina",
+      "confidence": 90.619255,
+      "box": [
+        113,
+        603,
+        200,
+        34
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Traders,",
+      "confidence": 96.543373,
+      "box": [
+        338,
+        606,
+        165,
+        39
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Al-Madina",
+      "confidence": 90.653801,
+      "box": [
+        753,
+        608,
+        194,
+        32
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Traders,",
+      "confidence": 96.158043,
+      "box": [
+        971,
+        608,
+        159,
+        39
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Chashara,",
+      "confidence": 92.277672,
+      "box": [
+        112,
+        654,
+        189,
+        41
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Narayanganj.",
+      "confidence": 85.271339,
+      "box": [
+        331,
+        658,
+        239,
+        40
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Chashara,",
+      "confidence": 91.619171,
+      "box": [
+        754,
+        659,
+        179,
+        39
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Narayanganj.",
+      "confidence": 92.525528,
+      "box": [
+        961,
+        659,
+        236,
+        39
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Item",
+      "confidence": 94.592857,
+      "box": [
+        136,
+        833,
+        76,
+        63
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "|",
+      "confidence": 91.578873,
+      "box": [
+        497,
+        838,
+        5,
+        55
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "aty",
+      "confidence": 22.5028,
+      "box": [
+        561,
+        851,
+        55,
+        36
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "|",
+      "confidence": 96.365379,
+      "box": [
+        668,
+        838,
+        7,
+        55
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "unit",
+      "confidence": 95.272842,
+      "box": [
+        710,
+        851,
+        68,
+        30
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Price",
+      "confidence": 93.044044,
+      "box": [
+        800,
+        851,
+        86,
+        30
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "(Tk)|",
+      "confidence": 86.35125,
+      "box": [
+        908,
+        838,
+        89,
+        55
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Amount",
+      "confidence": 82.213776,
+      "box": [
+        1039,
+        852,
+        106,
+        29
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "(Tk)",
+      "confidence": 54.899487,
+      "box": [
+        1164,
+        838,
+        90,
+        54
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "|",
+      "confidence": 96.593956,
+      "box": [
+        1239,
+        834,
+        17,
+        64
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "re",
+      "confidence": 41.837288,
+      "box": [
+        105,
+        900,
+        66,
+        38
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "mr",
+      "confidence": 36.478699,
+      "box": [
+        177,
+        900,
+        48,
+        38
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "mr",
+      "confidence": 39.23951,
+      "box": [
+        271,
+        900,
+        128,
+        38
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "ff",
+      "confidence": 41.409321,
+      "box": [
+        487,
+        910,
+        207,
+        18
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "rr",
+      "confidence": 49.81823,
+      "box": [
+        775,
+        900,
+        77,
+        38
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "ee",
+      "confidence": 33.254807,
+      "box": [
+        864,
+        916,
+        87,
+        5
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "fe",
+      "confidence": 40.216106,
+      "box": [
+        987,
+        910,
+        182,
+        17
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "ef",
+      "confidence": 49.246307,
+      "box": [
+        1209,
+        909,
+        50,
+        18
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "|",
+      "confidence": 96.934746,
+      "box": [
+        111,
+        946,
+        5,
+        47
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Toothpaste",
+      "confidence": 96.614342,
+      "box": [
+        135,
+        946,
+        171,
+        47
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "100g",
+      "confidence": 92.959663,
+      "box": [
+        327,
+        955,
+        68,
+        33
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "|",
+      "confidence": 70.410278,
+      "box": [
+        496,
+        945,
+        5,
+        47
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "an",
+      "confidence": 43.974869,
+      "box": [
+        569,
+        955,
+        33,
+        27
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "|",
+      "confidence": 54.809837,
+      "box": [
+        670,
+        944,
+        5,
+        48
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "120",
+      "confidence": 96.997002,
+      "box": [
+        820,
+        954,
+        48,
+        28
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "i",
+      "confidence": 53.664314,
+      "box": [
+        992,
+        944,
+        6,
+        47
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "nae",
+      "confidence": 51.272579,
+      "box": [
+        1088,
+        954,
+        85,
+        33
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "|",
+      "confidence": 77.329376,
+      "box": [
+        1250,
+        944,
+        5,
+        47
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Ens",
+      "confidence": 18.430092,
+      "box": [
+        104,
+        1006,
+        1157,
+        21
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "A",
+      "confidence": 6.771126,
+      "box": [
+        1231,
+        997,
+        33,
+        39
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "|",
+      "confidence": 96.856186,
+      "box": [
+        109,
+        1046,
+        6,
+        49
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "onion",
+      "confidence": 83.60025,
+      "box": [
+        134,
+        1046,
+        87,
+        49
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "1kg",
+      "confidence": 89.655167,
+      "box": [
+        243,
+        1052,
+        51,
+        35
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "|",
+      "confidence": 79.89502,
+      "box": [
+        496,
+        1044,
+        4,
+        49
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "22",
+      "confidence": 71.324936,
+      "box": [
+        567,
+        1052,
+        34,
+        28
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "|",
+      "confidence": 84.155319,
+      "box": [
+        670,
+        1043,
+        5,
+        48
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "65",
+      "confidence": 96.894394,
+      "box": [
+        834,
+        1052,
+        33,
+        27
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "|",
+      "confidence": 37.3256,
+      "box": [
+        993,
+        1043,
+        7,
+        48
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "0",
+      "confidence": 17.507027,
+      "box": [
+        1090,
+        1053,
+        85,
+        31
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "|",
+      "confidence": 75.24836,
+      "box": [
+        1252,
+        1043,
+        6,
+        48
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "fmm",
+      "confidence": 26.386726,
+      "box": [
+        99,
+        1098,
+        80,
+        38
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "rr",
+      "confidence": 49.782166,
+      "box": [
+        212,
+        1098,
+        36,
+        38
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "mr",
+      "confidence": 35.042198,
+      "box": [
+        263,
+        1098,
+        61,
+        38
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "err",
+      "confidence": 18.588722,
+      "box": [
+        330,
+        1098,
+        58,
+        38
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "et",
+      "confidence": 19.566422,
+      "box": [
+        393,
+        1098,
+        45,
+        38
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "am",
+      "confidence": 20.998413,
+      "box": [
+        450,
+        1098,
+        20,
+        38
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "fp",
+      "confidence": 52.306522,
+      "box": [
+        485,
+        1098,
+        20,
+        38
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "mr",
+      "confidence": 36.409035,
+      "box": [
+        513,
+        1098,
+        20,
+        38
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "mr",
+      "confidence": 27.767685,
+      "box": [
+        545,
+        1098,
+        17,
+        38
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "mer",
+      "confidence": 42.973808,
+      "box": [
+        577,
+        1098,
+        39,
+        38
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "ef",
+      "confidence": 35.265022,
+      "box": [
+        643,
+        1098,
+        36,
+        38
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "rm",
+      "confidence": 26.776321,
+      "box": [
+        691,
+        1113,
+        54,
+        7
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "er",
+      "confidence": 20.37056,
+      "box": [
+        786,
+        1098,
+        61,
+        38
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "rm",
+      "confidence": 51.445728,
+      "box": [
+        868,
+        1098,
+        33,
+        38
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "rm",
+      "confidence": 43.680626,
+      "box": [
+        912,
+        1098,
+        23,
+        38
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "mm",
+      "confidence": 32.124138,
+      "box": [
+        944,
+        1098,
+        26,
+        38
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "pm",
+      "confidence": 40.839142,
+      "box": [
+        998,
+        1098,
+        23,
+        38
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "mm",
+      "confidence": 26.903534,
+      "box": [
+        1029,
+        1098,
+        33,
+        38
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "———————",
+      "confidence": 31.787643,
+      "box": [
+        1077,
+        1098,
+        186,
+        38
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "|",
+      "confidence": 96.721001,
+      "box": [
+        107,
+        1147,
+        7,
+        50
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 7
+    },
+    {
+      "text": "Milk",
+      "confidence": 81.755966,
+      "box": [
+        131,
+        1147,
+        71,
+        50
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 7
+    },
+    {
+      "text": "Powder",
+      "confidence": 95.437119,
+      "box": [
+        221,
+        1154,
+        109,
+        30
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 7
+    },
+    {
+      "text": "S003",
+      "confidence": 88.406029,
+      "box": [
+        348,
+        1154,
+        71,
+        35
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 7
+    },
+    {
+      "text": "|",
+      "confidence": 89.589691,
+      "box": [
+        494,
+        1144,
+        6,
+        49
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 7
+    },
+    {
+      "text": "20",
+      "confidence": 86.200607,
+      "box": [
+        567,
+        1152,
+        37,
+        29
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 7
+    },
+    {
+      "text": "|",
+      "confidence": 89.300354,
+      "box": [
+        669,
+        1142,
+        7,
+        51
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 7
+    },
+    {
+      "text": "420",
+      "confidence": 95.179161,
+      "box": [
+        817,
+        1138,
+        57,
+        56
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 7
+    },
+    {
+      "text": "|",
+      "confidence": 85.841125,
+      "box": [
+        994,
+        1142,
+        8,
+        49
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 7
+    },
+    {
+      "text": "S40",
+      "confidence": 20.131081,
+      "box": [
+        1091,
+        1152,
+        86,
+        33
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 7
+    },
+    {
+      "text": "|",
+      "confidence": 93.421768,
+      "box": [
+        1253,
+        1142,
+        8,
+        48
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 7
+    },
+    {
+      "text": "fm",
+      "confidence": 27.898796,
+      "box": [
+        97,
+        1198,
+        37,
+        37
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 8
+    },
+    {
+      "text": "mm",
+      "confidence": 47.23156,
+      "box": [
+        143,
+        1198,
+        32,
+        37
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 8
+    },
+    {
+      "text": "mene",
+      "confidence": 28.167114,
+      "box": [
+        192,
+        1198,
+        112,
+        37
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 8
+    },
+    {
+      "text": "ee",
+      "confidence": 40.134155,
+      "box": [
+        322,
+        1198,
+        56,
+        37
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 8
+    },
+    {
+      "text": "ce",
+      "confidence": 48.603714,
+      "box": [
+        389,
+        1198,
+        48,
+        37
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 8
+    },
+    {
+      "text": "ee",
+      "confidence": 28.640381,
+      "box": [
+        442,
+        1198,
+        25,
+        37
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 8
+    },
+    {
+      "text": "ef",
+      "confidence": 43.378315,
+      "box": [
+        479,
+        1198,
+        22,
+        37
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 8
+    },
+    {
+      "text": "re",
+      "confidence": 29.870659,
+      "box": [
+        528,
+        1198,
+        100,
+        37
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 8
+    },
+    {
+      "text": "ef",
+      "confidence": 40.607437,
+      "box": [
+        645,
+        1198,
+        32,
+        37
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 8
+    },
+    {
+      "text": "et",
+      "confidence": 40.329941,
+      "box": [
+        719,
+        1198,
+        44,
+        37
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 8
+    },
+    {
+      "text": "re",
+      "confidence": 33.410393,
+      "box": [
+        793,
+        1198,
+        75,
+        37
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 8
+    },
+    {
+      "text": "en",
+      "confidence": 39.326141,
+      "box": [
+        901,
+        1198,
+        84,
+        37
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 8
+    },
+    {
+      "text": "ee",
+      "confidence": 38.857986,
+      "box": [
+        1000,
+        1198,
+        38,
+        37
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 8
+    },
+    {
+      "text": "em",
+      "confidence": 28.983467,
+      "box": [
+        1052,
+        1212,
+        103,
+        6
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 8
+    },
+    {
+      "text": "err",
+      "confidence": 23.821442,
+      "box": [
+        1173,
+        1198,
+        92,
+        37
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 8
+    },
+    {
+      "text": "|",
+      "confidence": 94.488617,
+      "box": [
+        105,
+        1249,
+        8,
+        53
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 9
+    },
+    {
+      "text": "Sugar",
+      "confidence": 40.964233,
+      "box": [
+        131,
+        1249,
+        90,
+        53
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 9
+    },
+    {
+      "text": "1kg",
+      "confidence": 45.072029,
+      "box": [
+        239,
+        1256,
+        55,
+        36
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 9
+    },
+    {
+      "text": "je]",
+      "confidence": 39.986221,
+      "box": [
+        493,
+        1243,
+        182,
+        55
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 9
+    },
+    {
+      "text": "=m",
+      "confidence": 43.072708,
+      "box": [
+        820,
+        1254,
+        50,
+        27
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 9
+    },
+    {
+      "text": "|",
+      "confidence": 88.379074,
+      "box": [
+        991,
+        1242,
+        12,
+        53
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 9
+    },
+    {
+      "text": "ws",
+      "confidence": 53.795357,
+      "box": [
+        1093,
+        1253,
+        85,
+        33
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 9
+    },
+    {
+      "text": "|",
+      "confidence": 93.51178,
+      "box": [
+        1255,
+        1242,
+        6,
+        51
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 9
+    },
+    {
+      "text": "me",
+      "confidence": 32.40802,
+      "box": [
+        100,
+        1320,
+        335,
+        18
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 10
+    },
+    {
+      "text": "a",
+      "confidence": 9.29493,
+      "box": [
+        648,
+        1314,
+        78,
+        19
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 10
+    },
+    {
+      "text": "mpm",
+      "confidence": 5.197922,
+      "box": [
+        957,
+        1312,
+        82,
+        18
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 10
+    },
+    {
+      "text": "meme",
+      "confidence": 5.197922,
+      "box": [
+        1045,
+        1311,
+        220,
+        18
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 10
+    },
+    {
+      "text": "Grand",
+      "confidence": 95.05069,
+      "box": [
+        770,
+        1371,
+        100,
+        34
+      ],
+      "block": 13,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Total:",
+      "confidence": 95.33065,
+      "box": [
+        893,
+        1370,
+        117,
+        35
+      ],
+      "block": 13,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Tk",
+      "confidence": 91.670753,
+      "box": [
+        1071,
+        1370,
+        40,
+        33
+      ],
+      "block": 13,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "12,780",
+      "confidence": 96.338524,
+      "box": [
+        1135,
+        1370,
+        120,
+        38
+      ],
+      "block": 13,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Authorized",
+      "confidence": 95.573486,
+      "box": [
+        100,
+        1686,
+        196,
+        38
+      ],
+      "block": 16,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Signature",
+      "confidence": 96.596359,
+      "box": [
+        315,
+        1687,
+        181,
+        42
+      ],
+      "block": 16,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "en",
+      "confidence": 20.579605,
+      "box": [
+        32,
+        1819,
+        50,
+        28
+      ],
+      "block": 17,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "mm",
+      "confidence": 37.319099,
+      "box": [
+        98,
+        1833,
+        76,
+        6
+      ],
+      "block": 17,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "mm",
+      "confidence": 32.836914,
+      "box": [
+        231,
+        1832,
+        33,
+        6
+      ],
+      "block": 17,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "em",
+      "confidence": 29.080078,
+      "box": [
+        305,
+        1819,
+        22,
+        28
+      ],
+      "block": 17,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "me",
+      "confidence": 21.359993,
+      "box": [
+        352,
+        1832,
+        124,
+        6
+      ],
+      "block": 17,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "——",
+      "confidence": 34.610764,
+      "box": [
+        611,
+        1830,
+        47,
+        7
+      ],
+      "block": 17,
+      "paragraph": 1,
+      "line": 1
+    }
+  ]
+}

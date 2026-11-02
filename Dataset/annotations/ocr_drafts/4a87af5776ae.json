@@ -1,0 +1,837 @@
+{
+  "sample_id": "4a87af5776ae",
+  "source_path": "Dataset/Purchase_Order/Purchase Order 7.jpg",
+  "source_sha256": "78bc502977f8240693da94812aa69f5e7f76af5a62548ccee346a0652d840a66",
+  "prepared_image_path": "data/images/4a87af5776ae.jpg",
+  "prepared_image_sha256": "4496f560ca1955143233604ddd4f0585617d47b0c1f4bd520e0048220f1a1547",
+  "label": "purchase_order",
+  "split": "train",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "Suraiya Rahman P U RC HAS E\nORDER\n\nPurchase Order # 7\n\nBill To: Ship To:\nBillal Khan Rajib Hossain Date: Oct 9, 2026\nRequired By: Oct 10, 2026\nItem Rate Amount\nCeramic Mug 20 $2.80 $56.00\nLED Desk Lamp 10 $8.50 $85.00\nBackpack 5 $12.00 $60.00\nT-Shirt 10 $2.00 $20.00\nDenim Jeans 10 $15.00 $150.00\n\nSubtotal: $371.00\nTax (0.25%): $0.93\nTotal: $371.93\n",
+  "ocr_image_size": [
+    1400,
+    1811
+  ],
+  "words": [
+    {
+      "text": "Suraiya",
+      "confidence": 92.055687,
+      "box": [
+        111,
+        61,
+        78,
+        22
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Rahman",
+      "confidence": 95.983284,
+      "box": [
+        198,
+        61,
+        85,
+        17
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "P",
+      "confidence": 89.381668,
+      "box": [
+        969,
+        63,
+        33,
+        47
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "U",
+      "confidence": 65.37809,
+      "box": [
+        1011,
+        63,
+        35,
+        48
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "RC",
+      "confidence": 95.856781,
+      "box": [
+        1057,
+        63,
+        83,
+        48
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "HAS",
+      "confidence": 95.67804,
+      "box": [
+        1148,
+        63,
+        122,
+        48
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "E",
+      "confidence": 91.739616,
+      "box": [
+        1279,
+        63,
+        33,
+        47
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "ORDER",
+      "confidence": 96.105705,
+      "box": [
+        1089,
+        138,
+        224,
+        49
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Purchase",
+      "confidence": 96.67762,
+      "box": [
+        1072,
+        210,
+        111,
+        20
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Order",
+      "confidence": 92.703812,
+      "box": [
+        1194,
+        210,
+        68,
+        20
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "#",
+      "confidence": 92.703812,
+      "box": [
+        1271,
+        211,
+        14,
+        19
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "7",
+      "confidence": 96.001724,
+      "box": [
+        1294,
+        210,
+        13,
+        20
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Bill",
+      "confidence": 95.031136,
+      "box": [
+        112,
+        285,
+        26,
+        16
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "To:",
+      "confidence": 96.92202,
+      "box": [
+        146,
+        285,
+        30,
+        16
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Ship",
+      "confidence": 96.269623,
+      "box": [
+        418,
+        284,
+        43,
+        21
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "To:",
+      "confidence": 95.717094,
+      "box": [
+        468,
+        285,
+        31,
+        16
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Billal",
+      "confidence": 92.043579,
+      "box": [
+        112,
+        320,
+        50,
+        17
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Khan",
+      "confidence": 96.500511,
+      "box": [
+        171,
+        320,
+        53,
+        17
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Rajib",
+      "confidence": 87.79039,
+      "box": [
+        419,
+        320,
+        52,
+        21
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Hossain",
+      "confidence": 96.20443,
+      "box": [
+        479,
+        320,
+        84,
+        17
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Date:",
+      "confidence": 96.489418,
+      "box": [
+        1008,
+        317,
+        48,
+        33
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Oct",
+      "confidence": 92.008705,
+      "box": [
+        1183,
+        329,
+        33,
+        17
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "9,",
+      "confidence": 92.008705,
+      "box": [
+        1224,
+        329,
+        16,
+        19
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "2026",
+      "confidence": 96.730499,
+      "box": [
+        1249,
+        329,
+        48,
+        17
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Required",
+      "confidence": 94.466156,
+      "box": [
+        930,
+        378,
+        87,
+        21
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "By:",
+      "confidence": 96.376015,
+      "box": [
+        1027,
+        378,
+        29,
+        21
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Oct",
+      "confidence": 96.373817,
+      "box": [
+        1171,
+        378,
+        33,
+        17
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "10,",
+      "confidence": 95.878578,
+      "box": [
+        1213,
+        378,
+        27,
+        20
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "2026",
+      "confidence": 95.878578,
+      "box": [
+        1249,
+        378,
+        48,
+        17
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Item",
+      "confidence": 68.45694,
+      "box": [
+        103,
+        505,
+        40,
+        17
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "Rate",
+      "confidence": 96.388245,
+      "box": [
+        1083,
+        505,
+        44,
+        17
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "Amount",
+      "confidence": 96.77153,
+      "box": [
+        1222,
+        505,
+        76,
+        17
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "Ceramic",
+      "confidence": 96.38327,
+      "box": [
+        102,
+        563,
+        86,
+        17
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "Mug",
+      "confidence": 95.765015,
+      "box": [
+        197,
+        563,
+        43,
+        21
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "20",
+      "confidence": 96.346512,
+      "box": [
+        853,
+        564,
+        23,
+        16
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "$2.80",
+      "confidence": 96.82579,
+      "box": [
+        1073,
+        563,
+        54,
+        19
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "$56.00",
+      "confidence": 96.694954,
+      "box": [
+        1231,
+        563,
+        66,
+        19
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "LED",
+      "confidence": 96.611305,
+      "box": [
+        103,
+        601,
+        42,
+        16
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "Desk",
+      "confidence": 95.985855,
+      "box": [
+        153,
+        601,
+        52,
+        17
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "Lamp",
+      "confidence": 96.678909,
+      "box": [
+        213,
+        601,
+        57,
+        21
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "10",
+      "confidence": 96.800194,
+      "box": [
+        855,
+        604,
+        21,
+        16
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "$8.50",
+      "confidence": 96.843376,
+      "box": [
+        1073,
+        603,
+        54,
+        19
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "$85.00",
+      "confidence": 96.598984,
+      "box": [
+        1231,
+        603,
+        66,
+        19
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "Backpack",
+      "confidence": 96.070114,
+      "box": [
+        103,
+        641,
+        102,
+        21
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 7
+    },
+    {
+      "text": "5",
+      "confidence": 94.124863,
+      "box": [
+        854,
+        643,
+        10,
+        16
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 7
+    },
+    {
+      "text": "$12.00",
+      "confidence": 96.367149,
+      "box": [
+        1059,
+        642,
+        67,
+        19
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 7
+    },
+    {
+      "text": "$60.00",
+      "confidence": 96.411774,
+      "box": [
+        1231,
+        642,
+        66,
+        19
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 7
+    },
+    {
+      "text": "T-Shirt",
+      "confidence": 96.734985,
+      "box": [
+        102,
+        674,
+        70,
+        32
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 8
+    },
+    {
+      "text": "10",
+      "confidence": 96.974319,
+      "box": [
+        855,
+        682,
+        21,
+        17
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 8
+    },
+    {
+      "text": "$2.00",
+      "confidence": 96.767303,
+      "box": [
+        1073,
+        682,
+        54,
+        19
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 8
+    },
+    {
+      "text": "$20.00",
+      "confidence": 96.951279,
+      "box": [
+        1231,
+        682,
+        66,
+        19
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 8
+    },
+    {
+      "text": "Denim",
+      "confidence": 96.495956,
+      "box": [
+        103,
+        720,
+        65,
+        17
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 9
+    },
+    {
+      "text": "Jeans",
+      "confidence": 95.970192,
+      "box": [
+        176,
+        720,
+        62,
+        17
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 9
+    },
+    {
+      "text": "10",
+      "confidence": 96.980988,
+      "box": [
+        855,
+        721,
+        21,
+        17
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 9
+    },
+    {
+      "text": "$15.00",
+      "confidence": 96.29409,
+      "box": [
+        1059,
+        720,
+        67,
+        20
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 9
+    },
+    {
+      "text": "$150.00",
+      "confidence": 96.931694,
+      "box": [
+        1219,
+        720,
+        78,
+        20
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 9
+    },
+    {
+      "text": "Subtotal:",
+      "confidence": 96.56974,
+      "box": [
+        971,
+        865,
+        85,
+        29
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "$371.00",
+      "confidence": 96.653275,
+      "box": [
+        1219,
+        868,
+        79,
+        20
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Tax",
+      "confidence": 95.621658,
+      "box": [
+        931,
+        919,
+        35,
+        16
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "(0.25%):",
+      "confidence": 95.621658,
+      "box": [
+        975,
+        919,
+        81,
+        20
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "$0.93",
+      "confidence": 96.877495,
+      "box": [
+        1245,
+        918,
+        54,
+        20
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Total:",
+      "confidence": 96.824821,
+      "box": [
+        1003,
+        964,
+        53,
+        30
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "$371.93",
+      "confidence": 96.235741,
+      "box": [
+        1219,
+        967,
+        78,
+        20
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 3
+    }
+  ]
+}

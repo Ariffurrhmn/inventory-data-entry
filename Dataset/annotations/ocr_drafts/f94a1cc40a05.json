@@ -1,0 +1,889 @@
+{
+  "sample_id": "f94a1cc40a05",
+  "source_path": "Dataset/Receipt/IMG_20251026_133147_jpg.rf.7c1871edc0c5fa593ead79391c3ee632.jpg",
+  "source_sha256": "aa85c0d59e0b5578c8716ec70ec1ff01bf13d2776d497ed06315f3fa277a6034",
+  "prepared_image_path": "data/images/f94a1cc40a05.jpg",
+  "prepared_image_sha256": "2f67b394e16a9e726c635926a09d6a70e5bafe2ebee3196d88abe56b07ff3a00",
+  "label": "receipt",
+  "split": "train",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "A RE A a aE\n\nIZINDUSTRIAL MACHINERY TRADIN\n\n228 llaya St, Burdl, City of Calamba 4027, Laguna, ‘Philippines\nNIBAN, GLADYS C. - Prop.\nNON-VAT Reg. TIN: 411-344-556-00000 £\n\na\n\nSALES INVOICE 2\n> Date: ahve pr 7\nSOLD roto WDRKSL © Terms: A&C DA YL\n\nTIN: OSCA/PWD ID No:\n\nN2 0000008\n\n10 ks. (50x2) 000001-000500\nity to Print No. 056AU20220000008084\nDa : August 1 19, 19,2022 gh\n",
+  "ocr_image_size": [
+    1400,
+    1400
+  ],
+  "words": [
+    {
+      "text": "A",
+      "confidence": 26.19664,
+      "box": [
+        0,
+        0,
+        567,
+        48
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "RE",
+      "confidence": 0.0,
+      "box": [
+        329,
+        0,
+        61,
+        52
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "A",
+      "confidence": 21.958382,
+      "box": [
+        428,
+        0,
+        10,
+        52
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "a",
+      "confidence": 24.834831,
+      "box": [
+        568,
+        5,
+        169,
+        30
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "aE",
+      "confidence": 35.058739,
+      "box": [
+        739,
+        0,
+        264,
+        35
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "IZINDUSTRIAL",
+      "confidence": 77.904373,
+      "box": [
+        172,
+        50,
+        437,
+        64
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "MACHINERY",
+      "confidence": 93.292198,
+      "box": [
+        625,
+        63,
+        382,
+        45
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "TRADIN",
+      "confidence": 92.814011,
+      "box": [
+        1017,
+        22,
+        235,
+        87
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "228",
+      "confidence": 92.734444,
+      "box": [
+        248,
+        115,
+        54,
+        23
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "llaya",
+      "confidence": 84.125717,
+      "box": [
+        312,
+        116,
+        67,
+        27
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "St,",
+      "confidence": 32.201714,
+      "box": [
+        390,
+        117,
+        47,
+        25
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Burdl,",
+      "confidence": 45.059551,
+      "box": [
+        448,
+        110,
+        91,
+        32
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "City",
+      "confidence": 94.188141,
+      "box": [
+        540,
+        111,
+        57,
+        33
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "of",
+      "confidence": 93.30513,
+      "box": [
+        609,
+        118,
+        28,
+        21
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Calamba",
+      "confidence": 92.001656,
+      "box": [
+        645,
+        118,
+        131,
+        22
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "4027,",
+      "confidence": 96.806259,
+      "box": [
+        787,
+        118,
+        81,
+        25
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Laguna,",
+      "confidence": 95.322601,
+      "box": [
+        880,
+        119,
+        118,
+        31
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "‘Philippines",
+      "confidence": 89.518127,
+      "box": [
+        996,
+        95,
+        178,
+        56
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "NIBAN,",
+      "confidence": 90.539169,
+      "box": [
+        557,
+        146,
+        99,
+        22
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "GLADYS",
+      "confidence": 89.333115,
+      "box": [
+        659,
+        147,
+        148,
+        24
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "C.",
+      "confidence": 87.84127,
+      "box": [
+        828,
+        148,
+        30,
+        21
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "-",
+      "confidence": 86.977432,
+      "box": [
+        871,
+        158,
+        9,
+        6
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Prop.",
+      "confidence": 95.618111,
+      "box": [
+        891,
+        148,
+        76,
+        26
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "NON-VAT",
+      "confidence": 91.477631,
+      "box": [
+        413,
+        174,
+        143,
+        21
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Reg.",
+      "confidence": 96.14875,
+      "box": [
+        563,
+        175,
+        68,
+        26
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "TIN:",
+      "confidence": 92.924904,
+      "box": [
+        641,
+        163,
+        60,
+        33
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "411-344-556-00000",
+      "confidence": 88.431427,
+      "box": [
+        711,
+        175,
+        289,
+        22
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "£",
+      "confidence": 35.062431,
+      "box": [
+        1271,
+        180,
+        20,
+        21
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "a",
+      "confidence": 0.0,
+      "box": [
+        1282,
+        213,
+        13,
+        9
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "SALES",
+      "confidence": 94.608604,
+      "box": [
+        108,
+        227,
+        146,
+        46
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "INVOICE",
+      "confidence": 31.123947,
+      "box": [
+        280,
+        234,
+        181,
+        31
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "2",
+      "confidence": 44.01873,
+      "box": [
+        1316,
+        241,
+        16,
+        3
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": ">",
+      "confidence": 63.214668,
+      "box": [
+        156,
+        267,
+        19,
+        12
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Date:",
+      "confidence": 96.172272,
+      "box": [
+        754,
+        289,
+        82,
+        23
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "ahve",
+      "confidence": 19.336304,
+      "box": [
+        840,
+        229,
+        211,
+        101
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "pr",
+      "confidence": 0.0,
+      "box": [
+        1168,
+        229,
+        135,
+        101
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "7",
+      "confidence": 56.53537,
+      "box": [
+        1310,
+        309,
+        7,
+        5
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "SOLD",
+      "confidence": 75.321907,
+      "box": [
+        110,
+        318,
+        101,
+        45
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "roto",
+      "confidence": 0.0,
+      "box": [
+        218,
+        300,
+        186,
+        69
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "WDRKSL",
+      "confidence": 0.0,
+      "box": [
+        472,
+        300,
+        179,
+        69
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "©",
+      "confidence": 16.432457,
+      "box": [
+        708,
+        300,
+        24,
+        69
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Terms:",
+      "confidence": 17.173225,
+      "box": [
+        829,
+        311,
+        107,
+        65
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "A&C",
+      "confidence": 24.323883,
+      "box": [
+        1009,
+        311,
+        55,
+        65
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "DA",
+      "confidence": 60.484352,
+      "box": [
+        1106,
+        311,
+        72,
+        65
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "YL",
+      "confidence": 60.484352,
+      "box": [
+        1198,
+        311,
+        72,
+        65
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "TIN:",
+      "confidence": 94.829971,
+      "box": [
+        107,
+        368,
+        67,
+        45
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "OSCA/PWD",
+      "confidence": 67.330048,
+      "box": [
+        827,
+        374,
+        141,
+        58
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "ID",
+      "confidence": 77.328285,
+      "box": [
+        984,
+        388,
+        22,
+        40
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "No:",
+      "confidence": 36.91729,
+      "box": [
+        1020,
+        374,
+        47,
+        58
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "N2",
+      "confidence": 5.40451,
+      "box": [
+        134,
+        1254,
+        106,
+        59
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "0000008",
+      "confidence": 95.881744,
+      "box": [
+        281,
+        1265,
+        299,
+        51
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "10",
+      "confidence": 94.525772,
+      "box": [
+        19,
+        1325,
+        27,
+        17
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "ks.",
+      "confidence": 57.57061,
+      "box": [
+        56,
+        1306,
+        65,
+        60
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "(50x2)",
+      "confidence": 56.540749,
+      "box": [
+        130,
+        1325,
+        80,
+        22
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "000001-000500",
+      "confidence": 84.037392,
+      "box": [
+        218,
+        1326,
+        193,
+        19
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "ity",
+      "confidence": 85.310905,
+      "box": [
+        155,
+        1349,
+        24,
+        22
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "to",
+      "confidence": 94.986588,
+      "box": [
+        184,
+        1350,
+        26,
+        17
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Print",
+      "confidence": 96.592628,
+      "box": [
+        217,
+        1349,
+        57,
+        18
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "No.",
+      "confidence": 93.264053,
+      "box": [
+        281,
+        1349,
+        41,
+        18
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "056AU20220000008084",
+      "confidence": 53.828308,
+      "box": [
+        333,
+        1350,
+        297,
+        19
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Da",
+      "confidence": 80.687576,
+      "box": [
+        10,
+        1395,
+        39,
+        5
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": ":",
+      "confidence": 60.828979,
+      "box": [
+        162,
+        1383,
+        6,
+        5
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "August",
+      "confidence": 96.064377,
+      "box": [
+        182,
+        1367,
+        78,
+        33
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "1",
+      "confidence": 95.930252,
+      "box": [
+        273,
+        1367,
+        12,
+        33
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "19,",
+      "confidence": 94.853844,
+      "box": [
+        272,
+        1372,
+        36,
+        20
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "19,2022",
+      "confidence": 80.526756,
+      "box": [
+        278,
+        1368,
+        104,
+        32
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "gh",
+      "confidence": 61.578518,
+      "box": [
+        652,
+        1376,
+        47,
+        24
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 3
+    }
+  ]
+}

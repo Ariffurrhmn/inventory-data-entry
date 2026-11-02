@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "74a4bb73855d",
+  "source_image": {
+    "path": "Dataset/Dataset-2/Delivery note challan/IMG_0996.HEIC",
+    "sha256": "055ecba929c1ee4f83eee8ff249580748afac6924abbe6a4eef64e9a82df6b77"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/74a4bb73855d.jpg",
+    "sha256": "d376b0ede72b5dd916d712345478cb7e1bbb69ace2c284f67b886e19e4738719"
+  },
+  "classification": {
+    "label": "delivery_note",
+    "split": "val"
+  },
+  "transcription": {
+    "full_text": "Karnaphuli Traders\nChallan\nChallan No: DC-198.\nDate: 04/09/2026.\nFrom: Karnaphuli Traders.\nTo: Bismillah Store, Mohammadpur, Dhaka.\nSl Item Description Qty.\n1 Red Lentils 1kg 24\n2 Instant Noodles 8-pack 4\n3 Ball Pen box 24\nReceived By: [signature]\nDelivered By:",
+    "lines": [
+      "Karnaphuli Traders",
+      "Challan",
+      "Challan No: DC-198.",
+      "Date: 04/09/2026.",
+      "From: Karnaphuli Traders.",
+      "To: Bismillah Store, Mohammadpur, Dhaka.",
+      "Sl Item Description Qty.",
+      "1 Red Lentils 1kg 24",
+      "2 Instant Noodles 8-pack 4",
+      "3 Ball Pen box 24",
+      "Received By: [signature]",
+      "Delivered By:"
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [],
+    "notes": "Individually visually reviewed photograph. Whitespace and table reading order normalized; signatures marked rather than inferred."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/74a4bb73855d.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

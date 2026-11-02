@@ -1,0 +1,759 @@
+{
+  "sample_id": "943348c8acbb",
+  "source_path": "Dataset/Customer_Copy/express_srd_1085-receipt.jpg",
+  "source_sha256": "0fea07d91b1b05b3a7d355e90943a9e80f08fe06e1b08a2b976dd1ae1cdb63db",
+  "prepared_image_path": "data/images/943348c8acbb.jpg",
+  "prepared_image_sha256": "3504d7822cb0415804d53531b3bc3fb1e658314b751d835caf2a73722a79ca36",
+  "label": "customer_copy",
+  "split": "train",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "Pita Pitz - Lonbard\n\n211 E ip =v Rd\nLombard, IL 60148\n\nPhone:\nhttp://eatpitapita.com/default/\nOrd #78\nTo Go\nEmp :Mohammad H. 5/4/2017 4:10 PM\n20 Mixed Meat Lunch 180.00\n1 Reg 12pc Falafel 6.50\n1 Reg 12pc Falafel 6.50 |\n1 Misce lanceous 20.00\nSubtotal 213.00\nTax 15.92 |}\nTotal 228.92 §\nVisa 8414 Payment 228.92\n\nTip\n\n",
+  "ocr_image_size": [
+    1400,
+    2218
+  ],
+  "words": [
+    {
+      "text": "Pita",
+      "confidence": 73.011307,
+      "box": [
+        441,
+        76,
+        113,
+        170
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Pitz",
+      "confidence": 40.023521,
+      "box": [
+        592,
+        76,
+        108,
+        170
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "-",
+      "confidence": 83.175934,
+      "box": [
+        737,
+        135,
+        19,
+        11
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Lonbard",
+      "confidence": 0.051453,
+      "box": [
+        794,
+        84,
+        198,
+        122
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "211",
+      "confidence": 82.672974,
+      "box": [
+        441,
+        193,
+        76,
+        49
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "E",
+      "confidence": 82.672974,
+      "box": [
+        560,
+        195,
+        22,
+        49
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "ip",
+      "confidence": 39.298141,
+      "box": [
+        616,
+        111,
+        84,
+        136
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "=v",
+      "confidence": 23.79229,
+      "box": [
+        739,
+        135,
+        128,
+        116
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Rd",
+      "confidence": 95.358025,
+      "box": [
+        908,
+        203,
+        53,
+        49
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Lombard,",
+      "confidence": 96.222046,
+      "box": [
+        440,
+        264,
+        221,
+        58
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "IL",
+      "confidence": 96.753708,
+      "box": [
+        704,
+        270,
+        51,
+        49
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "60148",
+      "confidence": 96.58802,
+      "box": [
+        790,
+        272,
+        141,
+        51
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Phone:",
+      "confidence": 87.437759,
+      "box": [
+        612,
+        337,
+        165,
+        51
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "http://eatpitapita.com/default/",
+      "confidence": 90.972618,
+      "box": [
+        257,
+        402,
+        904,
+        72
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Ord",
+      "confidence": 95.311836,
+      "box": [
+        486,
+        545,
+        170,
+        102
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "#78",
+      "confidence": 95.887695,
+      "box": [
+        725,
+        552,
+        168,
+        98
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "To",
+      "confidence": 96.234207,
+      "box": [
+        545,
+        662,
+        107,
+        101
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "Go",
+      "confidence": 96.234207,
+      "box": [
+        722,
+        665,
+        110,
+        100
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "Emp",
+      "confidence": 5.049667,
+      "box": [
+        66,
+        848,
+        82,
+        55
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": ":Mohammad",
+      "confidence": 76.324951,
+      "box": [
+        159,
+        846,
+        288,
+        57
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "H.",
+      "confidence": 91.116867,
+      "box": [
+        480,
+        853,
+        50,
+        49
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "5/4/2017",
+      "confidence": 96.534538,
+      "box": [
+        839,
+        854,
+        238,
+        60
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "4:10",
+      "confidence": 96.840996,
+      "box": [
+        1109,
+        859,
+        118,
+        52
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "PM",
+      "confidence": 96.093048,
+      "box": [
+        1258,
+        861,
+        57,
+        51
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "20",
+      "confidence": 95.931,
+      "box": [
+        63,
+        997,
+        54,
+        49
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "Mixed",
+      "confidence": 96.841248,
+      "box": [
+        150,
+        996,
+        145,
+        53
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "Meat",
+      "confidence": 96.688293,
+      "box": [
+        327,
+        999,
+        116,
+        52
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "Lunch",
+      "confidence": 95.073875,
+      "box": [
+        478,
+        1000,
+        147,
+        54
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "180.00",
+      "confidence": 96.32103,
+      "box": [
+        1143,
+        1007,
+        173,
+        54
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "1",
+      "confidence": 95.079575,
+      "box": [
+        68,
+        1070,
+        13,
+        47
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 7
+    },
+    {
+      "text": "Reg",
+      "confidence": 91.341721,
+      "box": [
+        119,
+        1070,
+        86,
+        57
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 7
+    },
+    {
+      "text": "12pc",
+      "confidence": 91.75032,
+      "box": [
+        243,
+        1072,
+        111,
+        57
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 7
+    },
+    {
+      "text": "Falafel",
+      "confidence": 95.753166,
+      "box": [
+        387,
+        1070,
+        201,
+        57
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 7
+    },
+    {
+      "text": "6.50",
+      "confidence": 86.082741,
+      "box": [
+        1196,
+        1082,
+        121,
+        53
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 7
+    },
+    {
+      "text": "1",
+      "confidence": 88.673546,
+      "box": [
+        66,
+        1142,
+        13,
+        51
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 8
+    },
+    {
+      "text": "Reg",
+      "confidence": 93.207031,
+      "box": [
+        117,
+        1143,
+        86,
+        59
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 8
+    },
+    {
+      "text": "12pc",
+      "confidence": 89.913345,
+      "box": [
+        241,
+        1144,
+        112,
+        61
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 8
+    },
+    {
+      "text": "Falafel",
+      "confidence": 95.940125,
+      "box": [
+        385,
+        1143,
+        201,
+        59
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 8
+    },
+    {
+      "text": "6.50",
+      "confidence": 70.595802,
+      "box": [
+        1196,
+        1156,
+        122,
+        54
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 8
+    },
+    {
+      "text": "|",
+      "confidence": 96.345848,
+      "box": [
+        1385,
+        1153,
+        8,
+        18
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 8
+    },
+    {
+      "text": "1",
+      "confidence": 90.523476,
+      "box": [
+        64,
+        1215,
+        13,
+        50
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 9
+    },
+    {
+      "text": "Misce",
+      "confidence": 65.831177,
+      "box": [
+        115,
+        1211,
+        137,
+        74
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 9
+    },
+    {
+      "text": "lanceous",
+      "confidence": 65.831177,
+      "box": [
+        275,
+        1211,
+        229,
+        74
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 9
+    },
+    {
+      "text": "20.00",
+      "confidence": 86.783936,
+      "box": [
+        1166,
+        1230,
+        153,
+        55
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 9
+    },
+    {
+      "text": "Subtotal",
+      "confidence": 96.633232,
+      "box": [
+        675,
+        1443,
+        232,
+        52
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 10
+    },
+    {
+      "text": "213.00",
+      "confidence": 95.733788,
+      "box": [
+        1130,
+        1454,
+        183,
+        51
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 10
+    },
+    {
+      "text": "Tax",
+      "confidence": 96.449005,
+      "box": [
+        825,
+        1514,
+        86,
+        50
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 11
+    },
+    {
+      "text": "15.92",
+      "confidence": 96.13414,
+      "box": [
+        1163,
+        1523,
+        143,
+        49
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 11
+    },
+    {
+      "text": "|}",
+      "confidence": 47.038193,
+      "box": [
+        1376,
+        1525,
+        7,
+        54
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 11
+    },
+    {
+      "text": "Total",
+      "confidence": 96.402481,
+      "box": [
+        764,
+        1581,
+        139,
+        51
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 12
+    },
+    {
+      "text": "228.92",
+      "confidence": 90.688148,
+      "box": [
+        1120,
+        1589,
+        179,
+        50
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 12
+    },
+    {
+      "text": "§",
+      "confidence": 52.430626,
+      "box": [
+        1366,
+        1595,
+        34,
+        65
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 12
+    },
+    {
+      "text": "Visa",
+      "confidence": 96.168137,
+      "box": [
+        414,
+        1708,
+        113,
+        50
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 13
+    },
+    {
+      "text": "8414",
+      "confidence": 96.8573,
+      "box": [
+        558,
+        1712,
+        116,
+        51
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 13
+    },
+    {
+      "text": "Payment",
+      "confidence": 96.059692,
+      "box": [
+        702,
+        1716,
+        202,
+        57
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 13
+    },
+    {
+      "text": "228.92",
+      "confidence": 95.379799,
+      "box": [
+        1113,
+        1725,
+        176,
+        51
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 13
+    },
+    {
+      "text": "Tip",
+      "confidence": 96.851524,
+      "box": [
+        817,
+        1855,
+        85,
+        55
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    }
+  ]
+}

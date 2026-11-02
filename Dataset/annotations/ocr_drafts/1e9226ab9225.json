@@ -1,0 +1,590 @@
+{
+  "sample_id": "1e9226ab9225",
+  "source_path": "Dataset/Customer_Copy/image_0042.jpg",
+  "source_sha256": "df3492482365f8dc2223ca3412814f21b36f86f401cdcfa36431aa5fc20dab97",
+  "prepared_image_path": "data/images/1e9226ab9225.jpg",
+  "prepared_image_sha256": "c31864b33e12af53102bd96bdd97eafd2449278c67ceb252c2455f2574ebdfd3",
+  "label": "customer_copy",
+  "split": "val",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "Mitcheldean Garaje\nNew Road\nMitcheldean\n\nGlos\nGL17 BBX\n\n[Max #45585 Tex#% 2628\nCUSTOMER COPY\n\nUlsa\n\nAID: ABEERBREE31 ALY\nCARD: #wwsxwexsnexd] 57\nPAN Seq Nr B84\n\nICC SALE\n\nTOTAL £15.25\n\nCustomer PIN verified\nPlease retaln recelpt\nfor Your records\n\n16190882\n13/86/15 14:12 R796l\nThank You.\n\n",
+  "ocr_image_size": [
+    1170,
+    2232
+  ],
+  "words": [
+    {
+      "text": "Mitcheldean",
+      "confidence": 86.206856,
+      "box": [
+        148,
+        421,
+        386,
+        56
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Garaje",
+      "confidence": 76.166809,
+      "box": [
+        578,
+        418,
+        204,
+        49
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "New",
+      "confidence": 96.236267,
+      "box": [
+        155,
+        505,
+        97,
+        44
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Road",
+      "confidence": 95.567619,
+      "box": [
+        297,
+        493,
+        132,
+        52
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Mitcheldean",
+      "confidence": 89.849457,
+      "box": [
+        153,
+        564,
+        385,
+        56
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Glos",
+      "confidence": 96.227234,
+      "box": [
+        159,
+        645,
+        133,
+        45
+      ],
+      "block": 2,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "GL17",
+      "confidence": 66.395798,
+      "box": [
+        161,
+        714,
+        132,
+        48
+      ],
+      "block": 2,
+      "paragraph": 2,
+      "line": 2
+    },
+    {
+      "text": "BBX",
+      "confidence": 73.436928,
+      "box": [
+        338,
+        709,
+        97,
+        47
+      ],
+      "block": 2,
+      "paragraph": 2,
+      "line": 2
+    },
+    {
+      "text": "[Max",
+      "confidence": 6.549652,
+      "box": [
+        158,
+        848,
+        98,
+        69
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "#45585",
+      "confidence": 6.549652,
+      "box": [
+        273,
+        848,
+        167,
+        69
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Tex#%",
+      "confidence": 0.0,
+      "box": [
+        698,
+        842,
+        163,
+        42
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "2628",
+      "confidence": 1.769371,
+      "box": [
+        878,
+        831,
+        128,
+        48
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "CUSTOMER",
+      "confidence": 94.415726,
+      "box": [
+        168,
+        921,
+        275,
+        54
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "COPY",
+      "confidence": 93.844543,
+      "box": [
+        486,
+        916,
+        128,
+        47
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Ulsa",
+      "confidence": 30.123146,
+      "box": [
+        175,
+        1149,
+        134,
+        67
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "AID:",
+      "confidence": 51.148605,
+      "box": [
+        179,
+        1248,
+        115,
+        47
+      ],
+      "block": 7,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "ABEERBREE31",
+      "confidence": 0.0,
+      "box": [
+        321,
+        1228,
+        486,
+        62
+      ],
+      "block": 7,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "ALY",
+      "confidence": 0.938293,
+      "box": [
+        708,
+        1224,
+        99,
+        79
+      ],
+      "block": 7,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "CARD:",
+      "confidence": 82.556412,
+      "box": [
+        181,
+        1317,
+        150,
+        49
+      ],
+      "block": 7,
+      "paragraph": 2,
+      "line": 2
+    },
+    {
+      "text": "#wwsxwexsnexd]",
+      "confidence": 0.0,
+      "box": [
+        359,
+        1300,
+        475,
+        47
+      ],
+      "block": 7,
+      "paragraph": 2,
+      "line": 2
+    },
+    {
+      "text": "57",
+      "confidence": 23.228325,
+      "box": [
+        859,
+        1296,
+        56,
+        45
+      ],
+      "block": 7,
+      "paragraph": 2,
+      "line": 2
+    },
+    {
+      "text": "PAN",
+      "confidence": 92.401215,
+      "box": [
+        183,
+        1390,
+        98,
+        46
+      ],
+      "block": 7,
+      "paragraph": 2,
+      "line": 3
+    },
+    {
+      "text": "Seq",
+      "confidence": 95.355331,
+      "box": [
+        325,
+        1386,
+        98,
+        51
+      ],
+      "block": 7,
+      "paragraph": 2,
+      "line": 3
+    },
+    {
+      "text": "Nr",
+      "confidence": 85.2118,
+      "box": [
+        466,
+        1383,
+        58,
+        42
+      ],
+      "block": 7,
+      "paragraph": 2,
+      "line": 3
+    },
+    {
+      "text": "B84",
+      "confidence": 39.610176,
+      "box": [
+        577,
+        1377,
+        92,
+        44
+      ],
+      "block": 7,
+      "paragraph": 2,
+      "line": 3
+    },
+    {
+      "text": "ICC",
+      "confidence": 89.965706,
+      "box": [
+        186,
+        1461,
+        97,
+        48
+      ],
+      "block": 7,
+      "paragraph": 3,
+      "line": 1
+    },
+    {
+      "text": "SALE",
+      "confidence": 92.838303,
+      "box": [
+        327,
+        1454,
+        132,
+        48
+      ],
+      "block": 7,
+      "paragraph": 3,
+      "line": 1
+    },
+    {
+      "text": "TOTAL",
+      "confidence": 74.691032,
+      "box": [
+        189,
+        1538,
+        167,
+        70
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "£15.25",
+      "confidence": 79.468109,
+      "box": [
+        831,
+        1511,
+        198,
+        81
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Customer",
+      "confidence": 70.889023,
+      "box": [
+        194,
+        1709,
+        274,
+        48
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "PIN",
+      "confidence": 87.489929,
+      "box": [
+        513,
+        1698,
+        97,
+        47
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "verified",
+      "confidence": 84.557724,
+      "box": [
+        654,
+        1681,
+        274,
+        58
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Please",
+      "confidence": 92.933594,
+      "box": [
+        195,
+        1782,
+        204,
+        48
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "retaln",
+      "confidence": 35.229507,
+      "box": [
+        444,
+        1768,
+        204,
+        52
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "recelpt",
+      "confidence": 86.297096,
+      "box": [
+        696,
+        1756,
+        230,
+        55
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "for",
+      "confidence": 96.586052,
+      "box": [
+        200,
+        1855,
+        89,
+        46
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Your",
+      "confidence": 93.448502,
+      "box": [
+        340,
+        1857,
+        133,
+        46
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "records",
+      "confidence": 96.091476,
+      "box": [
+        522,
+        1833,
+        234,
+        54
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "16190882",
+      "confidence": 65.579437,
+      "box": [
+        808,
+        2003,
+        236,
+        52
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "13/86/15",
+      "confidence": 9.865814,
+      "box": [
+        207,
+        2095,
+        274,
+        54
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "14:12",
+      "confidence": 65.999161,
+      "box": [
+        669,
+        2083,
+        165,
+        50
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "R796l",
+      "confidence": 49.578209,
+      "box": [
+        879,
+        2076,
+        162,
+        48
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Thank",
+      "confidence": 94.610184,
+      "box": [
+        210,
+        2170,
+        162,
+        38
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "You.",
+      "confidence": 91.663063,
+      "box": [
+        422,
+        2167,
+        119,
+        41
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 3
+    }
+  ]
+}

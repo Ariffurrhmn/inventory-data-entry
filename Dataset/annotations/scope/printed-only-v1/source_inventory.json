@@ -1,0 +1,2362 @@
+[
+  {
+    "sample_id": "9e24dadfc2de",
+    "source_path": "Dataset/Purchase_Order/PO-PO - 15.jpg",
+    "image_path": "services/document_classifier/data/images/9e24dadfc2de.jpg",
+    "label": "purchase_order",
+    "split": "test",
+    "group_id": "po:minimal-form",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "cc6e515ae67f",
+    "source_path": "Dataset/Purchase_Order/POPO-10.jpg",
+    "image_path": "services/document_classifier/data/images/cc6e515ae67f.jpg",
+    "label": "purchase_order",
+    "split": "val",
+    "group_id": "po:abc-grey-table",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "4840bfe10310",
+    "source_path": "Dataset/Purchase_Order/POPO-11.jpg",
+    "image_path": "services/document_classifier/data/images/4840bfe10310.jpg",
+    "label": "purchase_order",
+    "split": "val",
+    "group_id": "po:abc-grey-table",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "9446fd410ee3",
+    "source_path": "Dataset/Purchase_Order/POPO-12.jpg",
+    "image_path": "services/document_classifier/data/images/9446fd410ee3.jpg",
+    "label": "purchase_order",
+    "split": "val",
+    "group_id": "po:abc-grey-table",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "02bfde5bf771",
+    "source_path": "Dataset/Purchase_Order/POPO-13.jpg",
+    "image_path": "services/document_classifier/data/images/02bfde5bf771.jpg",
+    "label": "purchase_order",
+    "split": "val",
+    "group_id": "po:abc-grey-table",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "a20b14dd771c",
+    "source_path": "Dataset/Purchase_Order/POPO-14.jpg",
+    "image_path": "services/document_classifier/data/images/a20b14dd771c.jpg",
+    "label": "purchase_order",
+    "split": "val",
+    "group_id": "po:abc-grey-table",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "e5a5a0f1a894",
+    "source_path": "Dataset/Purchase_Order/POPO-8.jpg",
+    "image_path": "services/document_classifier/data/images/e5a5a0f1a894.jpg",
+    "label": "purchase_order",
+    "split": "val",
+    "group_id": "po:abc-grey-table",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "ee4df28e7c36",
+    "source_path": "Dataset/Purchase_Order/POPO-9.jpg",
+    "image_path": "services/document_classifier/data/images/ee4df28e7c36.jpg",
+    "label": "purchase_order",
+    "split": "val",
+    "group_id": "po:abc-grey-table",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "00814f24e77a",
+    "source_path": "Dataset/Purchase_Order/Purchase Order 1.jpg",
+    "image_path": "services/document_classifier/data/images/00814f24e77a.jpg",
+    "label": "purchase_order",
+    "split": "train",
+    "group_id": "po:personal-grey-table",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "c5ffa86a7c34",
+    "source_path": "Dataset/Purchase_Order/Purchase Order 2.jpg",
+    "image_path": "services/document_classifier/data/images/c5ffa86a7c34.jpg",
+    "label": "purchase_order",
+    "split": "train",
+    "group_id": "po:personal-grey-table",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "a9665cd4aaa7",
+    "source_path": "Dataset/Purchase_Order/Purchase Order 3.jpg",
+    "image_path": "services/document_classifier/data/images/a9665cd4aaa7.jpg",
+    "label": "purchase_order",
+    "split": "train",
+    "group_id": "po:personal-grey-table",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "9a3b168b4497",
+    "source_path": "Dataset/Purchase_Order/Purchase Order 4.jpg",
+    "image_path": "services/document_classifier/data/images/9a3b168b4497.jpg",
+    "label": "purchase_order",
+    "split": "train",
+    "group_id": "po:personal-grey-table",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "4672e3a30c1f",
+    "source_path": "Dataset/Purchase_Order/Purchase Order 5.jpg",
+    "image_path": "services/document_classifier/data/images/4672e3a30c1f.jpg",
+    "label": "purchase_order",
+    "split": "train",
+    "group_id": "po:personal-grey-table",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "9b53f368be38",
+    "source_path": "Dataset/Purchase_Order/Purchase Order 6.jpg",
+    "image_path": "services/document_classifier/data/images/9b53f368be38.jpg",
+    "label": "purchase_order",
+    "split": "train",
+    "group_id": "po:personal-grey-table",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "4a87af5776ae",
+    "source_path": "Dataset/Purchase_Order/Purchase Order 7.jpg",
+    "image_path": "services/document_classifier/data/images/4a87af5776ae.jpg",
+    "label": "purchase_order",
+    "split": "train",
+    "group_id": "po:personal-grey-table",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "1b128b83e60a",
+    "source_path": "Dataset/Purchase_Order/purchase order-PO - 16.jpg",
+    "image_path": "services/document_classifier/data/images/1b128b83e60a.jpg",
+    "label": "purchase_order",
+    "split": "train",
+    "group_id": "po:hgt-colour-table",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "de306abe6ff8",
+    "source_path": "Dataset/Purchase_Order/purchase order-PO - 18.jpg",
+    "image_path": "services/document_classifier/data/images/de306abe6ff8.jpg",
+    "label": "purchase_order",
+    "split": "train",
+    "group_id": "po:hgt-colour-table",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "fb2283be766d",
+    "source_path": "Dataset/Purchase_Order/purchase order-PO - 19.jpg",
+    "image_path": "services/document_classifier/data/images/fb2283be766d.jpg",
+    "label": "purchase_order",
+    "split": "train",
+    "group_id": "po:hgt-colour-table",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "b99246952e96",
+    "source_path": "Dataset/Purchase_Order/purchase order-PO - 20.jpg",
+    "image_path": "services/document_classifier/data/images/b99246952e96.jpg",
+    "label": "purchase_order",
+    "split": "train",
+    "group_id": "po:hgt-colour-table",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "e8ad229bba0c",
+    "source_path": "Dataset/Purchase_Order/Screenshot 2026-10-03 180354.png",
+    "image_path": "services/document_classifier/data/images/e8ad229bba0c.jpg",
+    "label": "purchase_order",
+    "split": "train",
+    "group_id": "po:dots-handwritten",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "7b43d51d567c",
+    "source_path": "Dataset/Receipt/6161_jpg.rf.4636e9955eb8868698303d78c7ef72cc.jpg",
+    "image_path": "services/document_classifier/data/images/7b43d51d567c.jpg",
+    "label": "receipt",
+    "split": "excluded",
+    "group_id": "receipt:6161_jpg.rf.4636e9955eb8868698303d78c7ef72cc",
+    "included": false,
+    "source": "curated"
+  },
+  {
+    "sample_id": "476131eff924",
+    "source_path": "Dataset/Receipt/aaaa_jpg.rf.2e47601f234d7c54e2f7e015491d4cee.jpg",
+    "image_path": "services/document_classifier/data/images/476131eff924.jpg",
+    "label": "receipt",
+    "split": "val",
+    "group_id": "receipt:handwritten-bills",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "5dffabcb47cb",
+    "source_path": "Dataset/Receipt/cord-train-0008.jpg",
+    "image_path": "services/document_classifier/data/images/5dffabcb47cb.jpg",
+    "label": "receipt",
+    "split": "val",
+    "group_id": "receipt:cord-train-0008",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "7c33fa811984",
+    "source_path": "Dataset/Receipt/cord-train-0015.jpg",
+    "image_path": "services/document_classifier/data/images/7c33fa811984.jpg",
+    "label": "receipt",
+    "split": "val",
+    "group_id": "receipt:cord-train-0015",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "66f77b274d3f",
+    "source_path": "Dataset/Receipt/cord-train-0017.jpg",
+    "image_path": "services/document_classifier/data/images/66f77b274d3f.jpg",
+    "label": "receipt",
+    "split": "train",
+    "group_id": "receipt:cord-train-0017",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "213305d225b2",
+    "source_path": "Dataset/Receipt/cord-train-0020.jpg",
+    "image_path": "services/document_classifier/data/images/213305d225b2.jpg",
+    "label": "receipt",
+    "split": "train",
+    "group_id": "receipt:cord-train-0020",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "3223c78f7136",
+    "source_path": "Dataset/Receipt/cord-train-0023.jpg",
+    "image_path": "services/document_classifier/data/images/3223c78f7136.jpg",
+    "label": "receipt",
+    "split": "train",
+    "group_id": "receipt:cord-train-0023",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "a162d6ad43e0",
+    "source_path": "Dataset/Receipt/cord-train-0024.jpg",
+    "image_path": "services/document_classifier/data/images/a162d6ad43e0.jpg",
+    "label": "receipt",
+    "split": "train",
+    "group_id": "receipt:cord-train-0024",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "4ee98001cc91",
+    "source_path": "Dataset/Receipt/cord-train-0036.jpg",
+    "image_path": "services/document_classifier/data/images/4ee98001cc91.jpg",
+    "label": "receipt",
+    "split": "train",
+    "group_id": "receipt:cord-train-0036",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "c33ada961240",
+    "source_path": "Dataset/Receipt/cord-train-0050.jpg",
+    "image_path": "services/document_classifier/data/images/c33ada961240.jpg",
+    "label": "receipt",
+    "split": "train",
+    "group_id": "receipt:cord-train-0050",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "d6b7679bc0a8",
+    "source_path": "Dataset/Receipt/cord-train-0070.jpg",
+    "image_path": "services/document_classifier/data/images/d6b7679bc0a8.jpg",
+    "label": "receipt",
+    "split": "train",
+    "group_id": "receipt:cord-train-0070",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "7bd460b8c269",
+    "source_path": "Dataset/Receipt/cord-train-0075.jpg",
+    "image_path": "services/document_classifier/data/images/7bd460b8c269.jpg",
+    "label": "receipt",
+    "split": "train",
+    "group_id": "receipt:cord-train-0075",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "5564ab2d8b11",
+    "source_path": "Dataset/Receipt/cord-train-0114.jpg",
+    "image_path": "services/document_classifier/data/images/5564ab2d8b11.jpg",
+    "label": "receipt",
+    "split": "test",
+    "group_id": "receipt:cord-train-0114",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "fcac4e4559e8",
+    "source_path": "Dataset/Receipt/cord-train-0124.jpg",
+    "image_path": "services/document_classifier/data/images/fcac4e4559e8.jpg",
+    "label": "receipt",
+    "split": "train",
+    "group_id": "receipt:cord-train-0124",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "e24acf8b8294",
+    "source_path": "Dataset/Receipt/cord-train-0133.jpg",
+    "image_path": "services/document_classifier/data/images/e24acf8b8294.jpg",
+    "label": "receipt",
+    "split": "test",
+    "group_id": "receipt:cord-train-0133",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "be13e587ee89",
+    "source_path": "Dataset/Receipt/cord-train-0140.jpg",
+    "image_path": "services/document_classifier/data/images/be13e587ee89.jpg",
+    "label": "receipt",
+    "split": "test",
+    "group_id": "receipt:cord-similar-thermal-pair",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "c4e63d9e78fe",
+    "source_path": "Dataset/Receipt/cord-train-0145.jpg",
+    "image_path": "services/document_classifier/data/images/c4e63d9e78fe.jpg",
+    "label": "receipt",
+    "split": "test",
+    "group_id": "receipt:cord-train-0145",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "dc0e8749153f",
+    "source_path": "Dataset/Receipt/cord-train-0155.jpg",
+    "image_path": "services/document_classifier/data/images/dc0e8749153f.jpg",
+    "label": "receipt",
+    "split": "test",
+    "group_id": "receipt:cord-similar-thermal-pair",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "99227d025be4",
+    "source_path": "Dataset/Receipt/cord-train-0165.jpg",
+    "image_path": "services/document_classifier/data/images/99227d025be4.jpg",
+    "label": "receipt",
+    "split": "train",
+    "group_id": "receipt:cord-train-0165",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "684abec37a2d",
+    "source_path": "Dataset/Receipt/cord-train-0750.jpg",
+    "image_path": "services/document_classifier/data/images/684abec37a2d.jpg",
+    "label": "receipt",
+    "split": "val",
+    "group_id": "receipt:cord-train-0750",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "6d09ac8fd547",
+    "source_path": "Dataset/Receipt/IMG_20250823_030114_jpg.rf.3862ebeaef9f4db0e7d45c6b2127ea07.jpg",
+    "image_path": "services/document_classifier/data/images/6d09ac8fd547.jpg",
+    "label": "receipt",
+    "split": "val",
+    "group_id": "receipt:handwritten-bills",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "c444a2174871",
+    "source_path": "Dataset/Receipt/IMG_20250823_031335_jpg.rf.5a199981b4aa990a64567daf31f4f7c6.jpg",
+    "image_path": "services/document_classifier/data/images/c444a2174871.jpg",
+    "label": "receipt",
+    "split": "val",
+    "group_id": "receipt:handwritten-bills",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "6329716534d8",
+    "source_path": "Dataset/Receipt/IMG_20250823_031803_jpg.rf.34405351a39fd281345d6d0597a696f4.jpg",
+    "image_path": "services/document_classifier/data/images/6329716534d8.jpg",
+    "label": "receipt",
+    "split": "val",
+    "group_id": "receipt:handwritten-bills",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "8c92842adf8d",
+    "source_path": "Dataset/Receipt/IMG_20251024_205717_jpg.rf.1b1b4a57e89a9b5d635e874d85c398b9 - Copy.jpg",
+    "image_path": "services/document_classifier/data/images/8c92842adf8d.jpg",
+    "label": "receipt",
+    "split": "train",
+    "group_id": "receipt:diz-paid-sales-invoice",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "0ce1130827a7",
+    "source_path": "Dataset/Receipt/IMG_20251024_205725_jpg.rf.6e536cb87cc396e65a09e9018cb7009e.jpg",
+    "image_path": "services/document_classifier/data/images/0ce1130827a7.jpg",
+    "label": "receipt",
+    "split": "train",
+    "group_id": "receipt:diz-paid-sales-invoice",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "57a2af8488b1",
+    "source_path": "Dataset/Receipt/IMG_20251024_205757_jpg.rf.2cc45e34b944cd17410a7e6aa3e010a4.jpg",
+    "image_path": "services/document_classifier/data/images/57a2af8488b1.jpg",
+    "label": "receipt",
+    "split": "train",
+    "group_id": "receipt:diz-paid-sales-invoice",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "645703699d96",
+    "source_path": "Dataset/Receipt/IMG_20251024_205804_jpg.rf.10e477b4db343f6c9fa7d0da694c11ff.jpg",
+    "image_path": "services/document_classifier/data/images/645703699d96.jpg",
+    "label": "receipt",
+    "split": "train",
+    "group_id": "receipt:diz-paid-sales-invoice",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "ef44850b7a8f",
+    "source_path": "Dataset/Receipt/IMG_20251024_205811_jpg.rf.02f15079f1584d7f849965926a3ed366.jpg",
+    "image_path": "services/document_classifier/data/images/ef44850b7a8f.jpg",
+    "label": "receipt",
+    "split": "excluded",
+    "group_id": "receipt:diz-paid-sales-invoice",
+    "included": false,
+    "source": "curated"
+  },
+  {
+    "sample_id": "fcd28e1cf903",
+    "source_path": "Dataset/Receipt/IMG_20251024_205835_jpg.rf.5daf54087b5537070793a7b829bb5bd8.jpg",
+    "image_path": "services/document_classifier/data/images/fcd28e1cf903.jpg",
+    "label": "receipt",
+    "split": "train",
+    "group_id": "receipt:diz-paid-sales-invoice",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "f94a1cc40a05",
+    "source_path": "Dataset/Receipt/IMG_20251026_133147_jpg.rf.7c1871edc0c5fa593ead79391c3ee632.jpg",
+    "image_path": "services/document_classifier/data/images/f94a1cc40a05.jpg",
+    "label": "receipt",
+    "split": "train",
+    "group_id": "receipt:diz-paid-sales-invoice",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "c671941cf57c",
+    "source_path": "Dataset/Delivery_Note/delivery-challan-DC-001.jpg",
+    "image_path": "services/document_classifier/data/images/c671941cf57c.jpg",
+    "label": "delivery_note",
+    "split": "train",
+    "group_id": "dn:abc-generated-family",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "6f5831a6d9e7",
+    "source_path": "Dataset/Delivery_Note/delivery-challan-DC-004.jpg",
+    "image_path": "services/document_classifier/data/images/6f5831a6d9e7.jpg",
+    "label": "delivery_note",
+    "split": "train",
+    "group_id": "dn:abc-generated-family",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "40ba7ce1f258",
+    "source_path": "Dataset/Delivery_Note/delivery-challan-DC-005.jpg",
+    "image_path": "services/document_classifier/data/images/40ba7ce1f258.jpg",
+    "label": "delivery_note",
+    "split": "train",
+    "group_id": "dn:abc-generated-family",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "f06d5208a0a0",
+    "source_path": "Dataset/Delivery_Note/delivery-challan-DC-006.jpg",
+    "image_path": "services/document_classifier/data/images/f06d5208a0a0.jpg",
+    "label": "delivery_note",
+    "split": "train",
+    "group_id": "dn:abc-generated-family",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "982d3081da15",
+    "source_path": "Dataset/Delivery_Note/delivery-challan-DC-007.jpg",
+    "image_path": "services/document_classifier/data/images/982d3081da15.jpg",
+    "label": "delivery_note",
+    "split": "train",
+    "group_id": "dn:abc-generated-family",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "4a57d261cb80",
+    "source_path": "Dataset/Delivery_Note/delivery-challan-DC-008.jpg",
+    "image_path": "services/document_classifier/data/images/4a57d261cb80.jpg",
+    "label": "delivery_note",
+    "split": "train",
+    "group_id": "dn:abc-generated-family",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "192e9fb6775d",
+    "source_path": "Dataset/Delivery_Note/delivery-challan-DC-009.jpg",
+    "image_path": "services/document_classifier/data/images/192e9fb6775d.jpg",
+    "label": "delivery_note",
+    "split": "train",
+    "group_id": "dn:abc-generated-family",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "885c97fddc39",
+    "source_path": "Dataset/Delivery_Note/delivery-challan-DC-010.jpg",
+    "image_path": "services/document_classifier/data/images/885c97fddc39.jpg",
+    "label": "delivery_note",
+    "split": "train",
+    "group_id": "dn:abc-generated-family",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "7875077c420c",
+    "source_path": "Dataset/Delivery_Note/delivery-challan-DC-011.jpg",
+    "image_path": "services/document_classifier/data/images/7875077c420c.jpg",
+    "label": "delivery_note",
+    "split": "train",
+    "group_id": "dn:abc-generated-family",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "dad342ae96cd",
+    "source_path": "Dataset/Delivery_Note/delivery-challan-DC-012.jpg",
+    "image_path": "services/document_classifier/data/images/dad342ae96cd.jpg",
+    "label": "delivery_note",
+    "split": "train",
+    "group_id": "dn:abc-generated-family",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "a7a5a3135540",
+    "source_path": "Dataset/Delivery_Note/delivery-challan-DC-013.jpg",
+    "image_path": "services/document_classifier/data/images/a7a5a3135540.jpg",
+    "label": "delivery_note",
+    "split": "train",
+    "group_id": "dn:abc-generated-family",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "f8a4d08ece59",
+    "source_path": "Dataset/Delivery_Note/delivery-challan-DC-014 (1).jpg",
+    "image_path": "services/document_classifier/data/images/f8a4d08ece59.jpg",
+    "label": "delivery_note",
+    "split": "train",
+    "group_id": "dn:abc-generated-family",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "3177e03984b6",
+    "source_path": "Dataset/Delivery_Note/delivery-challan-DC-014 (2).jpg",
+    "image_path": "services/document_classifier/data/images/3177e03984b6.jpg",
+    "label": "delivery_note",
+    "split": "train",
+    "group_id": "dn:abc-generated-family",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "4c2e748c6bc8",
+    "source_path": "Dataset/Delivery_Note/delivery-challan-DC-014 (3).jpg",
+    "image_path": "services/document_classifier/data/images/4c2e748c6bc8.jpg",
+    "label": "delivery_note",
+    "split": "train",
+    "group_id": "dn:abc-generated-family",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "cbce3b093ee3",
+    "source_path": "Dataset/Delivery_Note/delivery-challan-DC-014.jpg",
+    "image_path": "services/document_classifier/data/images/cbce3b093ee3.jpg",
+    "label": "delivery_note",
+    "split": "train",
+    "group_id": "dn:abc-generated-family",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "450255bc884a",
+    "source_path": "Dataset/Delivery_Note/packing-slip-1064.png",
+    "image_path": "services/document_classifier/data/images/450255bc884a.jpg",
+    "label": "delivery_note",
+    "split": "test",
+    "group_id": "dn:shopify-packing-slip",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "4784d328f244",
+    "source_path": "Dataset/Delivery_Note/packing-slip-1079.png",
+    "image_path": "services/document_classifier/data/images/4784d328f244.jpg",
+    "label": "delivery_note",
+    "split": "test",
+    "group_id": "dn:shopify-packing-slip",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "07b749907de5",
+    "source_path": "Dataset/Delivery_Note/packing-slip-1087.png",
+    "image_path": "services/document_classifier/data/images/07b749907de5.jpg",
+    "label": "delivery_note",
+    "split": "test",
+    "group_id": "dn:shopify-packing-slip",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "0737a6ca5674",
+    "source_path": "Dataset/Delivery_Note/packing-slip-1094.png",
+    "image_path": "services/document_classifier/data/images/0737a6ca5674.jpg",
+    "label": "delivery_note",
+    "split": "test",
+    "group_id": "dn:shopify-packing-slip",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "d6174f39143f",
+    "source_path": "Dataset/Delivery_Note/packing-slip-1111.png",
+    "image_path": "services/document_classifier/data/images/d6174f39143f.jpg",
+    "label": "delivery_note",
+    "split": "test",
+    "group_id": "dn:shopify-packing-slip",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "54a5c3334a7e",
+    "source_path": "Dataset/Customer_Copy/1057-receipt.jpg",
+    "image_path": "services/document_classifier/data/images/54a5c3334a7e.jpg",
+    "label": "customer_copy",
+    "split": "train",
+    "group_id": "customer_copy:1057-receipt",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "c48efeff07df",
+    "source_path": "Dataset/Customer_Copy/1073-receipt.jpg",
+    "image_path": "services/document_classifier/data/images/c48efeff07df.jpg",
+    "label": "customer_copy",
+    "split": "test",
+    "group_id": "customer_copy:1073-receipt",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "3f351516323d",
+    "source_path": "Dataset/Customer_Copy/1164-receipt.jpg",
+    "image_path": "services/document_classifier/data/images/3f351516323d.jpg",
+    "label": "customer_copy",
+    "split": "train",
+    "group_id": "customer_copy:1164-receipt",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "e4c7eb83722c",
+    "source_path": "Dataset/Customer_Copy/1176-receipt.jpg",
+    "image_path": "services/document_classifier/data/images/e4c7eb83722c.jpg",
+    "label": "customer_copy",
+    "split": "val",
+    "group_id": "customer_copy:1176-receipt",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "943348c8acbb",
+    "source_path": "Dataset/Customer_Copy/express_srd_1085-receipt.jpg",
+    "image_path": "services/document_classifier/data/images/943348c8acbb.jpg",
+    "label": "customer_copy",
+    "split": "train",
+    "group_id": "customer_copy:express_srd_1085-receipt",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "346ff589b408",
+    "source_path": "Dataset/Customer_Copy/image_0018.jpg",
+    "image_path": "services/document_classifier/data/images/346ff589b408.jpg",
+    "label": "customer_copy",
+    "split": "train",
+    "group_id": "customer_copy:image_0018",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "1e9226ab9225",
+    "source_path": "Dataset/Customer_Copy/image_0042.jpg",
+    "image_path": "services/document_classifier/data/images/1e9226ab9225.jpg",
+    "label": "customer_copy",
+    "split": "val",
+    "group_id": "customer_copy:image_0042",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "6ed1f5308e61",
+    "source_path": "Dataset/Customer_Copy/image_0311.jpg",
+    "image_path": "services/document_classifier/data/images/6ed1f5308e61.jpg",
+    "label": "customer_copy",
+    "split": "excluded",
+    "group_id": "customer_copy:image_0311",
+    "included": false,
+    "source": "curated"
+  },
+  {
+    "sample_id": "4f2b8c0f0665",
+    "source_path": "Dataset/Customer_Copy/image_0592.jpg",
+    "image_path": "services/document_classifier/data/images/4f2b8c0f0665.jpg",
+    "label": "customer_copy",
+    "split": "train",
+    "group_id": "customer_copy:image_0592",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "d1f27e35f5f3",
+    "source_path": "Dataset/Customer_Copy/image_0711.jpg",
+    "image_path": "services/document_classifier/data/images/d1f27e35f5f3.jpg",
+    "label": "customer_copy",
+    "split": "test",
+    "group_id": "customer_copy:image_0711",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "4ee52bb59124",
+    "source_path": "Dataset/Customer_Copy/image_0799.jpg",
+    "image_path": "services/document_classifier/data/images/4ee52bb59124.jpg",
+    "label": "customer_copy",
+    "split": "test",
+    "group_id": "cc:chick-fil-a",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "89f5500d9c0a",
+    "source_path": "Dataset/Customer_Copy/image_1043.jpg",
+    "image_path": "services/document_classifier/data/images/89f5500d9c0a.jpg",
+    "label": "customer_copy",
+    "split": "test",
+    "group_id": "cc:chick-fil-a",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "f3e25db12928",
+    "source_path": "Dataset/Customer_Copy/image_1065.jpg",
+    "image_path": "services/document_classifier/data/images/f3e25db12928.jpg",
+    "label": "customer_copy",
+    "split": "excluded",
+    "group_id": "customer_copy:image_1065",
+    "included": false,
+    "source": "curated"
+  },
+  {
+    "sample_id": "f39cc34d6d46",
+    "source_path": "Dataset/Customer_Copy/image_1208.jpg",
+    "image_path": "services/document_classifier/data/images/f39cc34d6d46.jpg",
+    "label": "customer_copy",
+    "split": "train",
+    "group_id": "customer_copy:image_1208",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "723ee7e6a909",
+    "source_path": "Dataset/Customer_Copy/image_1553.jpg",
+    "image_path": "services/document_classifier/data/images/723ee7e6a909.jpg",
+    "label": "customer_copy",
+    "split": "train",
+    "group_id": "customer_copy:image_1553",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "334d0ebf3186",
+    "source_path": "Dataset/Customer_Copy/image_1559.jpg",
+    "image_path": "services/document_classifier/data/images/334d0ebf3186.jpg",
+    "label": "customer_copy",
+    "split": "train",
+    "group_id": "customer_copy:image_1559",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "f203f2f5c593",
+    "source_path": "Dataset/Customer_Copy/image_1687.jpg",
+    "image_path": "services/document_classifier/data/images/f203f2f5c593.jpg",
+    "label": "customer_copy",
+    "split": "excluded",
+    "group_id": "customer_copy:image_1687",
+    "included": false,
+    "source": "curated"
+  },
+  {
+    "sample_id": "560a1b9a6415",
+    "source_path": "Dataset/Customer_Copy/image_1748.jpg",
+    "image_path": "services/document_classifier/data/images/560a1b9a6415.jpg",
+    "label": "customer_copy",
+    "split": "test",
+    "group_id": "customer_copy:image_1748",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "8f6f9027cdb3",
+    "source_path": "Dataset/Customer_Copy/image_1758.jpg",
+    "image_path": "services/document_classifier/data/images/8f6f9027cdb3.jpg",
+    "label": "customer_copy",
+    "split": "test",
+    "group_id": "cc:chick-fil-a",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "71fa862a7998",
+    "source_path": "Dataset/Customer_Copy/image_1850.jpg",
+    "image_path": "services/document_classifier/data/images/71fa862a7998.jpg",
+    "label": "customer_copy",
+    "split": "val",
+    "group_id": "customer_copy:image_1850",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "6472ff0a74e9",
+    "source_path": "Dataset/Customer_Copy/image_1858.jpg",
+    "image_path": "services/document_classifier/data/images/6472ff0a74e9.jpg",
+    "label": "customer_copy",
+    "split": "train",
+    "group_id": "customer_copy:image_1858",
+    "included": true,
+    "source": "curated"
+  },
+  {
+    "sample_id": "6085360f9c73",
+    "source_path": "Dataset/Dataset-2/Purchase order/IMG_0965.HEIC",
+    "image_path": "services/document_classifier/data/images/6085360f9c73.jpg",
+    "label": "purchase_order",
+    "split": "train",
+    "group_id": "po:hgt-colour-table",
+    "included": true,
+    "source": "printed_synthetic_photo"
+  },
+  {
+    "sample_id": "e18612fb393c",
+    "source_path": "Dataset/Dataset-2/Purchase order/IMG_0966.HEIC",
+    "image_path": "services/document_classifier/data/images/e18612fb393c.jpg",
+    "label": "delivery_note",
+    "split": "test",
+    "group_id": "dn:shopify-packing-slip",
+    "included": true,
+    "source": "printed_synthetic_photo"
+  },
+  {
+    "sample_id": "6ab38289be74",
+    "source_path": "Dataset/Dataset-2/Purchase order/IMG_0967.HEIC",
+    "image_path": "services/document_classifier/data/images/6ab38289be74.jpg",
+    "label": "delivery_note",
+    "split": "test",
+    "group_id": "dn:shopify-packing-slip",
+    "included": true,
+    "source": "printed_synthetic_photo"
+  },
+  {
+    "sample_id": "adab8f169fec",
+    "source_path": "Dataset/Dataset-2/Purchase order/IMG_0968.HEIC",
+    "image_path": "services/document_classifier/data/images/adab8f169fec.jpg",
+    "label": "delivery_note",
+    "split": "test",
+    "group_id": "dn:shopify-packing-slip",
+    "included": true,
+    "source": "printed_synthetic_photo"
+  },
+  {
+    "sample_id": "26fe0fcbc04b",
+    "source_path": "Dataset/Dataset-2/Purchase order/IMG_0969.HEIC",
+    "image_path": "services/document_classifier/data/images/26fe0fcbc04b.jpg",
+    "label": "delivery_note",
+    "split": "test",
+    "group_id": "dn:shopify-packing-slip",
+    "included": true,
+    "source": "printed_synthetic_photo"
+  },
+  {
+    "sample_id": "6b6a915859a2",
+    "source_path": "Dataset/Dataset-2/Purchase order/IMG_0970.HEIC",
+    "image_path": "services/document_classifier/data/images/6b6a915859a2.jpg",
+    "label": "delivery_note",
+    "split": "test",
+    "group_id": "dn:shopify-packing-slip",
+    "included": true,
+    "source": "printed_synthetic_photo"
+  },
+  {
+    "sample_id": "a35a5b21dd98",
+    "source_path": "Dataset/Dataset-2/Purchase order/IMG_0971.HEIC",
+    "image_path": "services/document_classifier/data/images/a35a5b21dd98.jpg",
+    "label": "purchase_order",
+    "split": "train",
+    "group_id": "po:bridge-handwritten",
+    "included": true,
+    "source": "printed_synthetic_photo"
+  },
+  {
+    "sample_id": "63d735225c26",
+    "source_path": "Dataset/Dataset-2/Purchase order/IMG_0972.HEIC",
+    "image_path": "services/document_classifier/data/images/63d735225c26.jpg",
+    "label": "purchase_order",
+    "split": "test",
+    "group_id": "po:bridge-printed-table",
+    "included": true,
+    "source": "printed_synthetic_photo"
+  },
+  {
+    "sample_id": "53ed22a39c62",
+    "source_path": "Dataset/Dataset-2/Purchase order/IMG_0973.HEIC",
+    "image_path": "services/document_classifier/data/images/53ed22a39c62.jpg",
+    "label": "purchase_order",
+    "split": "test",
+    "group_id": "po:bridge-printed-table",
+    "included": true,
+    "source": "printed_synthetic_photo"
+  },
+  {
+    "sample_id": "308d04e806ba",
+    "source_path": "Dataset/Dataset-2/Purchase order/IMG_0974.HEIC",
+    "image_path": "services/document_classifier/data/images/308d04e806ba.jpg",
+    "label": "purchase_order",
+    "split": "train",
+    "group_id": "po:bridge-monospace",
+    "included": true,
+    "source": "printed_synthetic_photo"
+  },
+  {
+    "sample_id": "76cc99d39da4",
+    "source_path": "Dataset/Dataset-2/Purchase order/IMG_0975.HEIC",
+    "image_path": "services/document_classifier/data/images/76cc99d39da4.jpg",
+    "label": "purchase_order",
+    "split": "train",
+    "group_id": "po:bridge-monospace",
+    "included": true,
+    "source": "printed_synthetic_photo"
+  },
+  {
+    "sample_id": "dcd1a6bdfa0a",
+    "source_path": "Dataset/Dataset-2/Purchase order/IMG_0977.HEIC",
+    "image_path": "services/document_classifier/data/images/dcd1a6bdfa0a.jpg",
+    "label": "delivery_note",
+    "split": "val",
+    "group_id": "dn:bridge-handwritten",
+    "included": true,
+    "source": "printed_synthetic_photo"
+  },
+  {
+    "sample_id": "558ab17fe557",
+    "source_path": "Dataset/Dataset-2/Purchase order/IMG_0978.HEIC",
+    "image_path": "services/document_classifier/data/images/558ab17fe557.jpg",
+    "label": "purchase_order",
+    "split": "test",
+    "group_id": "po:bridge-printed-table",
+    "included": true,
+    "source": "printed_synthetic_photo"
+  },
+  {
+    "sample_id": "11b4da10d765",
+    "source_path": "Dataset/Dataset-2/Purchase order/IMG_0979.HEIC",
+    "image_path": "services/document_classifier/data/images/11b4da10d765.jpg",
+    "label": "purchase_order",
+    "split": "test",
+    "group_id": "po:bridge-printed-table",
+    "included": true,
+    "source": "printed_synthetic_photo"
+  },
+  {
+    "sample_id": "12d89294d43a",
+    "source_path": "Dataset/Dataset-2/Purchase order/IMG_0980.HEIC",
+    "image_path": "services/document_classifier/data/images/12d89294d43a.jpg",
+    "label": "purchase_order",
+    "split": "val",
+    "group_id": "po:bridge-order-form",
+    "included": true,
+    "source": "printed_synthetic_photo"
+  },
+  {
+    "sample_id": "772f10ad9975",
+    "source_path": "Dataset/Dataset-2/Purchase order/IMG_0981.HEIC",
+    "image_path": "services/document_classifier/data/images/772f10ad9975.jpg",
+    "label": "purchase_order",
+    "split": "test",
+    "group_id": "po:bridge-printed-table",
+    "included": true,
+    "source": "printed_synthetic_photo"
+  },
+  {
+    "sample_id": "c4191b0e458a",
+    "source_path": "Dataset/Dataset-2/Purchase order/IMG_0982.HEIC",
+    "image_path": "services/document_classifier/data/images/c4191b0e458a.jpg",
+    "label": "purchase_order",
+    "split": "test",
+    "group_id": "po:bridge-printed-table",
+    "included": true,
+    "source": "printed_synthetic_photo"
+  },
+  {
+    "sample_id": "85bbff3bf001",
+    "source_path": "Dataset/Dataset-2/Purchase order/IMG_0983.HEIC",
+    "image_path": "services/document_classifier/data/images/85bbff3bf001.jpg",
+    "label": "purchase_order",
+    "split": "train",
+    "group_id": "po:personal-grey-table",
+    "included": true,
+    "source": "printed_synthetic_photo"
+  },
+  {
+    "sample_id": "11929597c29a",
+    "source_path": "Dataset/Dataset-2/Purchase order/IMG_0984.HEIC",
+    "image_path": "services/document_classifier/data/images/11929597c29a.jpg",
+    "label": "purchase_order",
+    "split": "train",
+    "group_id": "po:hgt-colour-table",
+    "included": true,
+    "source": "printed_synthetic_photo"
+  },
+  {
+    "sample_id": "52dd257aa6bf",
+    "source_path": "Dataset/Dataset-2/Purchase order/IMG_0985.HEIC",
+    "image_path": "services/document_classifier/data/images/52dd257aa6bf.jpg",
+    "label": "purchase_order",
+    "split": "train",
+    "group_id": "po:hgt-colour-table",
+    "included": true,
+    "source": "printed_synthetic_photo"
+  },
+  {
+    "sample_id": "2a0efadf472e",
+    "source_path": "Dataset/Dataset-2/Purchase order/IMG_0986.HEIC",
+    "image_path": "services/document_classifier/data/images/2a0efadf472e.jpg",
+    "label": "purchase_order",
+    "split": "train",
+    "group_id": "po:hgt-colour-table",
+    "included": true,
+    "source": "printed_synthetic_photo"
+  },
+  {
+    "sample_id": "9b3146e1da82",
+    "source_path": "Dataset/Dataset-2/Delivery note challan/IMG_0943.HEIC",
+    "image_path": "services/document_classifier/data/images/9b3146e1da82.jpg",
+    "label": "delivery_note",
+    "split": "train",
+    "group_id": "dn:abc-generated-family",
+    "included": true,
+    "source": "printed_synthetic_photo"
+  },
+  {
+    "sample_id": "9c963148c0b7",
+    "source_path": "Dataset/Dataset-2/Delivery note challan/IMG_0945.HEIC",
+    "image_path": "services/document_classifier/data/images/9c963148c0b7.jpg",
+    "label": "delivery_note",
+    "split": "train",
+    "group_id": "dn:abc-generated-family",
+    "included": true,
+    "source": "printed_synthetic_photo"
+  },
+  {
+    "sample_id": "e44a9a33b016",
+    "source_path": "Dataset/Dataset-2/Delivery note challan/IMG_0946.HEIC",
+    "image_path": "services/document_classifier/data/images/e44a9a33b016.jpg",
+    "label": "delivery_note",
+    "split": "train",
+    "group_id": "dn:abc-generated-family",
+    "included": true,
+    "source": "printed_synthetic_photo"
+  },
+  {
+    "sample_id": "d6c285c6c5d0",
+    "source_path": "Dataset/Dataset-2/Delivery note challan/IMG_0947.HEIC",
+    "image_path": "services/document_classifier/data/images/d6c285c6c5d0.jpg",
+    "label": "delivery_note",
+    "split": "train",
+    "group_id": "dn:abc-generated-family",
+    "included": true,
+    "source": "printed_synthetic_photo"
+  },
+  {
+    "sample_id": "e0835ab84434",
+    "source_path": "Dataset/Dataset-2/Delivery note challan/IMG_0948.HEIC",
+    "image_path": "services/document_classifier/data/images/e0835ab84434.jpg",
+    "label": "delivery_note",
+    "split": "train",
+    "group_id": "dn:abc-generated-family",
+    "included": true,
+    "source": "printed_synthetic_photo"
+  },
+  {
+    "sample_id": "08811c30b08a",
+    "source_path": "Dataset/Dataset-2/Delivery note challan/IMG_0949.HEIC",
+    "image_path": "services/document_classifier/data/images/08811c30b08a.jpg",
+    "label": "delivery_note",
+    "split": "train",
+    "group_id": "dn:abc-generated-family",
+    "included": true,
+    "source": "printed_synthetic_photo"
+  },
+  {
+    "sample_id": "3019fd45ae14",
+    "source_path": "Dataset/Dataset-2/Delivery note challan/IMG_0950.HEIC",
+    "image_path": "services/document_classifier/data/images/3019fd45ae14.jpg",
+    "label": "delivery_note",
+    "split": "train",
+    "group_id": "dn:abc-generated-family",
+    "included": true,
+    "source": "printed_synthetic_photo"
+  },
+  {
+    "sample_id": "9d3c43f5edd8",
+    "source_path": "Dataset/Dataset-2/Delivery note challan/IMG_0951.HEIC",
+    "image_path": "services/document_classifier/data/images/9d3c43f5edd8.jpg",
+    "label": "delivery_note",
+    "split": "train",
+    "group_id": "dn:abc-generated-family",
+    "included": true,
+    "source": "printed_synthetic_photo"
+  },
+  {
+    "sample_id": "1ae7adb382c4",
+    "source_path": "Dataset/Dataset-2/Delivery note challan/IMG_0952.HEIC",
+    "image_path": "services/document_classifier/data/images/1ae7adb382c4.jpg",
+    "label": "delivery_note",
+    "split": "train",
+    "group_id": "dn:abc-generated-family",
+    "included": true,
+    "source": "printed_synthetic_photo"
+  },
+  {
+    "sample_id": "8e3663ff9c0a",
+    "source_path": "Dataset/Dataset-2/Delivery note challan/IMG_0953.HEIC",
+    "image_path": "services/document_classifier/data/images/8e3663ff9c0a.jpg",
+    "label": "delivery_note",
+    "split": "train",
+    "group_id": "dn:abc-generated-family",
+    "included": true,
+    "source": "printed_synthetic_photo"
+  },
+  {
+    "sample_id": "3613644641fd",
+    "source_path": "Dataset/Dataset-2/Delivery note challan/IMG_0954.HEIC",
+    "image_path": "services/document_classifier/data/images/3613644641fd.jpg",
+    "label": "delivery_note",
+    "split": "train",
+    "group_id": "dn:abc-generated-family",
+    "included": true,
+    "source": "printed_synthetic_photo"
+  },
+  {
+    "sample_id": "c3288c82627e",
+    "source_path": "Dataset/Dataset-2/Delivery note challan/IMG_0955.HEIC",
+    "image_path": "services/document_classifier/data/images/c3288c82627e.jpg",
+    "label": "delivery_note",
+    "split": "train",
+    "group_id": "dn:abc-generated-family",
+    "included": true,
+    "source": "printed_synthetic_photo"
+  },
+  {
+    "sample_id": "ff15e557fb64",
+    "source_path": "Dataset/Dataset-2/Delivery note challan/IMG_0956.HEIC",
+    "image_path": "services/document_classifier/data/images/ff15e557fb64.jpg",
+    "label": "delivery_note",
+    "split": "train",
+    "group_id": "dn:abc-generated-family",
+    "included": true,
+    "source": "printed_synthetic_photo"
+  },
+  {
+    "sample_id": "926169f08e35",
+    "source_path": "Dataset/Dataset-2/Delivery note challan/IMG_0957.HEIC",
+    "image_path": "services/document_classifier/data/images/926169f08e35.jpg",
+    "label": "delivery_note",
+    "split": "train",
+    "group_id": "dn:abc-generated-family",
+    "included": true,
+    "source": "printed_synthetic_photo"
+  },
+  {
+    "sample_id": "9d2600fd4658",
+    "source_path": "Dataset/Dataset-2/Delivery note challan/IMG_0958.HEIC",
+    "image_path": "services/document_classifier/data/images/9d2600fd4658.jpg",
+    "label": "delivery_note",
+    "split": "train",
+    "group_id": "dn:abc-generated-family",
+    "included": true,
+    "source": "printed_synthetic_photo"
+  },
+  {
+    "sample_id": "ddb01e6bbf91",
+    "source_path": "Dataset/Dataset-2/Delivery note challan/IMG_0988.HEIC",
+    "image_path": "services/document_classifier/data/images/ddb01e6bbf91.jpg",
+    "label": "delivery_note",
+    "split": "val",
+    "group_id": "dn:bridge-handwritten",
+    "included": true,
+    "source": "printed_synthetic_photo"
+  },
+  {
+    "sample_id": "2c1013e6c832",
+    "source_path": "Dataset/Dataset-2/Delivery note challan/IMG_0989.HEIC",
+    "image_path": "services/document_classifier/data/images/2c1013e6c832.jpg",
+    "label": "delivery_note",
+    "split": "val",
+    "group_id": "dn:bridge-handwritten",
+    "included": true,
+    "source": "printed_synthetic_photo"
+  },
+  {
+    "sample_id": "29bd052c0c45",
+    "source_path": "Dataset/Dataset-2/Delivery note challan/IMG_0990.HEIC",
+    "image_path": "services/document_classifier/data/images/29bd052c0c45.jpg",
+    "label": "delivery_note",
+    "split": "val",
+    "group_id": "dn:bridge-handwritten",
+    "included": true,
+    "source": "printed_synthetic_photo"
+  },
+  {
+    "sample_id": "f9918570b903",
+    "source_path": "Dataset/Dataset-2/Delivery note challan/IMG_0991.HEIC",
+    "image_path": "services/document_classifier/data/images/f9918570b903.jpg",
+    "label": "delivery_note",
+    "split": "train",
+    "group_id": "dn:bridge-printed",
+    "included": true,
+    "source": "printed_synthetic_photo"
+  },
+  {
+    "sample_id": "398c6ef688e4",
+    "source_path": "Dataset/Dataset-2/Delivery note challan/IMG_0992.HEIC",
+    "image_path": "services/document_classifier/data/images/398c6ef688e4.jpg",
+    "label": "delivery_note",
+    "split": "train",
+    "group_id": "dn:bridge-printed",
+    "included": true,
+    "source": "printed_synthetic_photo"
+  },
+  {
+    "sample_id": "1610534c8b1f",
+    "source_path": "Dataset/Dataset-2/Delivery note challan/IMG_0993.HEIC",
+    "image_path": "services/document_classifier/data/images/1610534c8b1f.jpg",
+    "label": "delivery_note",
+    "split": "train",
+    "group_id": "dn:bridge-monospace",
+    "included": true,
+    "source": "printed_synthetic_photo"
+  },
+  {
+    "sample_id": "502854082b30",
+    "source_path": "Dataset/Dataset-2/Delivery note challan/IMG_0994.HEIC",
+    "image_path": "services/document_classifier/data/images/502854082b30.jpg",
+    "label": "delivery_note",
+    "split": "val",
+    "group_id": "dn:bridge-handwritten",
+    "included": true,
+    "source": "printed_synthetic_photo"
+  },
+  {
+    "sample_id": "f86fbe7e1303",
+    "source_path": "Dataset/Dataset-2/Delivery note challan/IMG_0995.HEIC",
+    "image_path": "services/document_classifier/data/images/f86fbe7e1303.jpg",
+    "label": "delivery_note",
+    "split": "train",
+    "group_id": "dn:bridge-printed",
+    "included": true,
+    "source": "printed_synthetic_photo"
+  },
+  {
+    "sample_id": "74a4bb73855d",
+    "source_path": "Dataset/Dataset-2/Delivery note challan/IMG_0996.HEIC",
+    "image_path": "services/document_classifier/data/images/74a4bb73855d.jpg",
+    "label": "delivery_note",
+    "split": "val",
+    "group_id": "dn:bridge-handwritten",
+    "included": true,
+    "source": "printed_synthetic_photo"
+  },
+  {
+    "sample_id": "cdd7aaa9004d",
+    "source_path": "Dataset/Dataset-2/Customer copy/IMG_0998.HEIC",
+    "image_path": "services/document_classifier/data/images/cdd7aaa9004d.jpg",
+    "label": "customer_copy",
+    "split": "train",
+    "group_id": "cc:bridge-printed-invoice",
+    "included": true,
+    "source": "printed_synthetic_photo"
+  },
+  {
+    "sample_id": "8b270977a7a7",
+    "source_path": "Dataset/Dataset-2/Customer copy/IMG_0999.HEIC",
+    "image_path": "services/document_classifier/data/images/8b270977a7a7.jpg",
+    "label": "customer_copy",
+    "split": "train",
+    "group_id": "cc:bridge-printed-invoice",
+    "included": true,
+    "source": "printed_synthetic_photo"
+  },
+  {
+    "sample_id": "6639e70671f3",
+    "source_path": "Dataset/Dataset-2/Customer copy/IMG_1001.HEIC",
+    "image_path": "services/document_classifier/data/images/6639e70671f3.jpg",
+    "label": "customer_copy",
+    "split": "train",
+    "group_id": "cc:bridge-printed-invoice",
+    "included": true,
+    "source": "printed_synthetic_photo"
+  },
+  {
+    "sample_id": "42d9b408c783",
+    "source_path": "Dataset/Dataset-2/Customer copy/IMG_1002.HEIC",
+    "image_path": "services/document_classifier/data/images/42d9b408c783.jpg",
+    "label": "customer_copy",
+    "split": "train",
+    "group_id": "cc:bridge-printed-invoice",
+    "included": true,
+    "source": "printed_synthetic_photo"
+  },
+  {
+    "sample_id": "382ba345a187",
+    "source_path": "Dataset/Dataset-2/Customer copy/IMG_1003.HEIC",
+    "image_path": "services/document_classifier/data/images/382ba345a187.jpg",
+    "label": "customer_copy",
+    "split": "val",
+    "group_id": "cc:bridge-handwritten-memo",
+    "included": true,
+    "source": "printed_synthetic_photo"
+  },
+  {
+    "sample_id": "11d42d9168f2",
+    "source_path": "Dataset/Dataset-2/Customer copy/IMG_1004.HEIC",
+    "image_path": "services/document_classifier/data/images/11d42d9168f2.jpg",
+    "label": "customer_copy",
+    "split": "train",
+    "group_id": "cc:bridge-printed-invoice",
+    "included": true,
+    "source": "printed_synthetic_photo"
+  },
+  {
+    "sample_id": "33a6690bb891",
+    "source_path": "Dataset/Dataset-2/Customer copy/IMG_1005.HEIC",
+    "image_path": "services/document_classifier/data/images/33a6690bb891.jpg",
+    "label": "customer_copy",
+    "split": "train",
+    "group_id": "cc:bridge-printed-invoice",
+    "included": true,
+    "source": "printed_synthetic_photo"
+  },
+  {
+    "sample_id": "fb76d6216e2b",
+    "source_path": "Dataset/Dataset-2/Customer copy/IMG_1006.HEIC",
+    "image_path": "services/document_classifier/data/images/fb76d6216e2b.jpg",
+    "label": "customer_copy",
+    "split": "val",
+    "group_id": "cc:bridge-handwritten-memo",
+    "included": true,
+    "source": "printed_synthetic_photo"
+  },
+  {
+    "sample_id": "e396ade11def",
+    "source_path": "Dataset/Dataset-2/Customer copy/IMG_1007.HEIC",
+    "image_path": "services/document_classifier/data/images/e396ade11def.jpg",
+    "label": "customer_copy",
+    "split": "train",
+    "group_id": "cc:bridge-monospace",
+    "included": true,
+    "source": "printed_synthetic_photo"
+  },
+  {
+    "sample_id": "srd_1002-receipt",
+    "source_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1002-receipt.jpg",
+    "image_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1002-receipt.jpg",
+    "label": "receipt",
+    "split": "train",
+    "group_id": "srd:merchant:taco-bell",
+    "included": true,
+    "source": "expressexpense_srd"
+  },
+  {
+    "sample_id": "srd_1003-receipt",
+    "source_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1003-receipt.jpg",
+    "image_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1003-receipt.jpg",
+    "label": "receipt",
+    "split": "train",
+    "group_id": "srd:merchant:el-gran-mar-de-plata",
+    "included": true,
+    "source": "expressexpense_srd"
+  },
+  {
+    "sample_id": "srd_1004-receipt",
+    "source_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1004-receipt.jpg",
+    "image_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1004-receipt.jpg",
+    "label": "receipt",
+    "split": "train",
+    "group_id": "srd:merchant:golden-bowl-teriyaki",
+    "included": true,
+    "source": "expressexpense_srd"
+  },
+  {
+    "sample_id": "srd_1011-receipt",
+    "source_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1011-receipt.jpg",
+    "image_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1011-receipt.jpg",
+    "label": "receipt",
+    "split": "train",
+    "group_id": "srd:merchant:smoke-city-market",
+    "included": true,
+    "source": "expressexpense_srd"
+  },
+  {
+    "sample_id": "srd_1013-receipt",
+    "source_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1013-receipt.jpg",
+    "image_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1013-receipt.jpg",
+    "label": "receipt",
+    "split": "train",
+    "group_id": "srd:merchant:albetos",
+    "included": true,
+    "source": "expressexpense_srd"
+  },
+  {
+    "sample_id": "srd_1017-receipt",
+    "source_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1017-receipt.jpg",
+    "image_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1017-receipt.jpg",
+    "label": "receipt",
+    "split": "train",
+    "group_id": "srd:merchant:umix",
+    "included": true,
+    "source": "expressexpense_srd"
+  },
+  {
+    "sample_id": "srd_1018-receipt",
+    "source_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1018-receipt.jpg",
+    "image_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1018-receipt.jpg",
+    "label": "receipt",
+    "split": "train",
+    "group_id": "srd:merchant:in-n-out",
+    "included": true,
+    "source": "expressexpense_srd"
+  },
+  {
+    "sample_id": "srd_1022-receipt",
+    "source_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1022-receipt.jpg",
+    "image_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1022-receipt.jpg",
+    "label": "receipt",
+    "split": "train",
+    "group_id": "srd:merchant:moonstar",
+    "included": true,
+    "source": "expressexpense_srd"
+  },
+  {
+    "sample_id": "srd_1025-receipt",
+    "source_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1025-receipt.jpg",
+    "image_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1025-receipt.jpg",
+    "label": "receipt",
+    "split": "train",
+    "group_id": "srd:merchant:mcdonalds",
+    "included": true,
+    "source": "expressexpense_srd"
+  },
+  {
+    "sample_id": "srd_1026-receipt",
+    "source_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1026-receipt.jpg",
+    "image_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1026-receipt.jpg",
+    "label": "receipt",
+    "split": "train",
+    "group_id": "srd:merchant:chriss-hamburgers",
+    "included": true,
+    "source": "expressexpense_srd"
+  },
+  {
+    "sample_id": "srd_1028-receipt",
+    "source_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1028-receipt.jpg",
+    "image_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1028-receipt.jpg",
+    "label": "receipt",
+    "split": "train",
+    "group_id": "srd:merchant:douglas-burgers",
+    "included": true,
+    "source": "expressexpense_srd"
+  },
+  {
+    "sample_id": "srd_1032-receipt",
+    "source_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1032-receipt.jpg",
+    "image_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1032-receipt.jpg",
+    "label": "receipt",
+    "split": "train",
+    "group_id": "srd:merchant:wings-things",
+    "included": true,
+    "source": "expressexpense_srd"
+  },
+  {
+    "sample_id": "srd_1037-receipt",
+    "source_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1037-receipt.jpg",
+    "image_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1037-receipt.jpg",
+    "label": "receipt",
+    "split": "train",
+    "group_id": "srd:merchant:panda-express",
+    "included": true,
+    "source": "expressexpense_srd"
+  },
+  {
+    "sample_id": "srd_1039-receipt",
+    "source_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1039-receipt.jpg",
+    "image_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1039-receipt.jpg",
+    "label": "receipt",
+    "split": "train",
+    "group_id": "srd:merchant:carls-jr",
+    "included": true,
+    "source": "expressexpense_srd"
+  },
+  {
+    "sample_id": "srd_1040-receipt",
+    "source_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1040-receipt.jpg",
+    "image_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1040-receipt.jpg",
+    "label": "receipt",
+    "split": "train",
+    "group_id": "srd:merchant:sukhothai",
+    "included": true,
+    "source": "expressexpense_srd"
+  },
+  {
+    "sample_id": "srd_1044-receipt",
+    "source_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1044-receipt.jpg",
+    "image_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1044-receipt.jpg",
+    "label": "receipt",
+    "split": "train",
+    "group_id": "srd:merchant:churchs-chicken",
+    "included": true,
+    "source": "expressexpense_srd"
+  },
+  {
+    "sample_id": "srd_1045-receipt",
+    "source_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1045-receipt.jpg",
+    "image_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1045-receipt.jpg",
+    "label": "receipt",
+    "split": "train",
+    "group_id": "srd:merchant:yums-restaurant",
+    "included": true,
+    "source": "expressexpense_srd"
+  },
+  {
+    "sample_id": "srd_1053-receipt",
+    "source_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1053-receipt.jpg",
+    "image_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1053-receipt.jpg",
+    "label": "receipt",
+    "split": "train",
+    "group_id": "srd:merchant:primo-family",
+    "included": true,
+    "source": "expressexpense_srd"
+  },
+  {
+    "sample_id": "srd_1054-receipt",
+    "source_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1054-receipt.jpg",
+    "image_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1054-receipt.jpg",
+    "label": "receipt",
+    "split": "train",
+    "group_id": "srd:merchant:big-jos",
+    "included": true,
+    "source": "expressexpense_srd"
+  },
+  {
+    "sample_id": "srd_1055-receipt",
+    "source_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1055-receipt.jpg",
+    "image_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1055-receipt.jpg",
+    "label": "receipt",
+    "split": "train",
+    "group_id": "srd:merchant:wings-things",
+    "included": true,
+    "source": "expressexpense_srd"
+  },
+  {
+    "sample_id": "srd_1072-receipt",
+    "source_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1072-receipt.jpg",
+    "image_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1072-receipt.jpg",
+    "label": "receipt",
+    "split": "train",
+    "group_id": "srd:merchant:ohana-hawaiian-bbq",
+    "included": true,
+    "source": "expressexpense_srd"
+  },
+  {
+    "sample_id": "srd_1074-receipt",
+    "source_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1074-receipt.jpg",
+    "image_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1074-receipt.jpg",
+    "label": "receipt",
+    "split": "train",
+    "group_id": "srd:merchant:lin-buffet",
+    "included": true,
+    "source": "expressexpense_srd"
+  },
+  {
+    "sample_id": "srd_1075-receipt",
+    "source_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1075-receipt.jpg",
+    "image_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1075-receipt.jpg",
+    "label": "receipt",
+    "split": "train",
+    "group_id": "srd:merchant:smokebox-bbq",
+    "included": true,
+    "source": "expressexpense_srd"
+  },
+  {
+    "sample_id": "srd_1082-receipt",
+    "source_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1082-receipt.jpg",
+    "image_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1082-receipt.jpg",
+    "label": "receipt",
+    "split": "train",
+    "group_id": "srd:merchant:surati-farsan",
+    "included": true,
+    "source": "expressexpense_srd"
+  },
+  {
+    "sample_id": "srd_1088-receipt",
+    "source_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1088-receipt.jpg",
+    "image_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1088-receipt.jpg",
+    "label": "receipt",
+    "split": "train",
+    "group_id": "srd:merchant:mooyah",
+    "included": true,
+    "source": "expressexpense_srd"
+  },
+  {
+    "sample_id": "srd_1090-receipt",
+    "source_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1090-receipt.jpg",
+    "image_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1090-receipt.jpg",
+    "label": "receipt",
+    "split": "train",
+    "group_id": "srd:merchant:five-guys",
+    "included": true,
+    "source": "expressexpense_srd"
+  },
+  {
+    "sample_id": "srd_1093-receipt",
+    "source_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1093-receipt.jpg",
+    "image_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1093-receipt.jpg",
+    "label": "receipt",
+    "split": "train",
+    "group_id": "srd:merchant:popeyes",
+    "included": true,
+    "source": "expressexpense_srd"
+  },
+  {
+    "sample_id": "srd_1094-receipt",
+    "source_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1094-receipt.jpg",
+    "image_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1094-receipt.jpg",
+    "label": "receipt",
+    "split": "train",
+    "group_id": "srd:merchant:pokeatery",
+    "included": true,
+    "source": "expressexpense_srd"
+  },
+  {
+    "sample_id": "srd_1095-receipt",
+    "source_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1095-receipt.jpg",
+    "image_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1095-receipt.jpg",
+    "label": "receipt",
+    "split": "train",
+    "group_id": "srd:merchant:golden-coin",
+    "included": true,
+    "source": "expressexpense_srd"
+  },
+  {
+    "sample_id": "srd_1097-receipt",
+    "source_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1097-receipt.jpg",
+    "image_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1097-receipt.jpg",
+    "label": "receipt",
+    "split": "train",
+    "group_id": "srd:merchant:el-pollo-loco",
+    "included": true,
+    "source": "expressexpense_srd"
+  },
+  {
+    "sample_id": "srd_1100-receipt",
+    "source_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1100-receipt.jpg",
+    "image_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1100-receipt.jpg",
+    "label": "customer_copy",
+    "split": "train",
+    "group_id": "srd:merchant:mcdonalds",
+    "included": true,
+    "source": "expressexpense_srd"
+  },
+  {
+    "sample_id": "srd_1108-receipt",
+    "source_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1108-receipt.jpg",
+    "image_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1108-receipt.jpg",
+    "label": "receipt",
+    "split": "train",
+    "group_id": "srd:merchant:go-mongo",
+    "included": true,
+    "source": "expressexpense_srd"
+  },
+  {
+    "sample_id": "srd_1113-receipt",
+    "source_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1113-receipt.jpg",
+    "image_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1113-receipt.jpg",
+    "label": "receipt",
+    "split": "train",
+    "group_id": "srd:merchant:golden-panda",
+    "included": true,
+    "source": "expressexpense_srd"
+  },
+  {
+    "sample_id": "srd_1117-receipt",
+    "source_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1117-receipt.jpg",
+    "image_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1117-receipt.jpg",
+    "label": "customer_copy",
+    "split": "train",
+    "group_id": "srd:merchant:kobe-japanese",
+    "included": true,
+    "source": "expressexpense_srd"
+  },
+  {
+    "sample_id": "srd_1119-receipt",
+    "source_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1119-receipt.jpg",
+    "image_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1119-receipt.jpg",
+    "label": "receipt",
+    "split": "train",
+    "group_id": "srd:merchant:panda-express",
+    "included": true,
+    "source": "expressexpense_srd"
+  },
+  {
+    "sample_id": "srd_1131-receipt",
+    "source_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1131-receipt.jpg",
+    "image_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1131-receipt.jpg",
+    "label": "receipt",
+    "split": "train",
+    "group_id": "srd:merchant:chriss-hamburgers",
+    "included": true,
+    "source": "expressexpense_srd"
+  },
+  {
+    "sample_id": "srd_1134-receipt",
+    "source_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1134-receipt.jpg",
+    "image_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1134-receipt.jpg",
+    "label": "receipt",
+    "split": "train",
+    "group_id": "srd:merchant:kfc",
+    "included": true,
+    "source": "expressexpense_srd"
+  },
+  {
+    "sample_id": "srd_1136-receipt",
+    "source_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1136-receipt.jpg",
+    "image_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1136-receipt.jpg",
+    "label": "receipt",
+    "split": "train",
+    "group_id": "srd:merchant:shawarma-factory",
+    "included": true,
+    "source": "expressexpense_srd"
+  },
+  {
+    "sample_id": "srd_1137-receipt",
+    "source_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1137-receipt.jpg",
+    "image_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1137-receipt.jpg",
+    "label": "receipt",
+    "split": "train",
+    "group_id": "srd:merchant:maui-teriyaki",
+    "included": true,
+    "source": "expressexpense_srd"
+  },
+  {
+    "sample_id": "srd_1140-receipt",
+    "source_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1140-receipt.jpg",
+    "image_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1140-receipt.jpg",
+    "label": "receipt",
+    "split": "train",
+    "group_id": "srd:merchant:shake-shack",
+    "included": true,
+    "source": "expressexpense_srd"
+  },
+  {
+    "sample_id": "srd_1144-receipt",
+    "source_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1144-receipt.jpg",
+    "image_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1144-receipt.jpg",
+    "label": "receipt",
+    "split": "train",
+    "group_id": "srd:merchant:chloe81",
+    "included": true,
+    "source": "expressexpense_srd"
+  },
+  {
+    "sample_id": "srd_1156-receipt",
+    "source_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1156-receipt.jpg",
+    "image_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1156-receipt.jpg",
+    "label": "receipt",
+    "split": "train",
+    "group_id": "srd:merchant:ikea",
+    "included": true,
+    "source": "expressexpense_srd"
+  },
+  {
+    "sample_id": "srd_1158-receipt",
+    "source_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1158-receipt.jpg",
+    "image_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1158-receipt.jpg",
+    "label": "receipt",
+    "split": "train",
+    "group_id": "srd:merchant:mitasu",
+    "included": true,
+    "source": "expressexpense_srd"
+  },
+  {
+    "sample_id": "srd_1159-receipt",
+    "source_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1159-receipt.jpg",
+    "image_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1159-receipt.jpg",
+    "label": "receipt",
+    "split": "train",
+    "group_id": "srd:merchant:taco-time",
+    "included": true,
+    "source": "expressexpense_srd"
+  },
+  {
+    "sample_id": "srd_1168-receipt",
+    "source_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1168-receipt.jpg",
+    "image_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1168-receipt.jpg",
+    "label": "receipt",
+    "split": "train",
+    "group_id": "srd:merchant:carls-jr",
+    "included": true,
+    "source": "expressexpense_srd"
+  },
+  {
+    "sample_id": "srd_1173-receipt",
+    "source_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1173-receipt.jpg",
+    "image_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1173-receipt.jpg",
+    "label": "receipt",
+    "split": "train",
+    "group_id": "srd:merchant:lalos",
+    "included": true,
+    "source": "expressexpense_srd"
+  },
+  {
+    "sample_id": "srd_1175-receipt",
+    "source_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1175-receipt.jpg",
+    "image_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1175-receipt.jpg",
+    "label": "receipt",
+    "split": "train",
+    "group_id": "srd:merchant:bar-louie",
+    "included": true,
+    "source": "expressexpense_srd"
+  },
+  {
+    "sample_id": "srd_1180-receipt",
+    "source_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1180-receipt.jpg",
+    "image_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1180-receipt.jpg",
+    "label": "receipt",
+    "split": "train",
+    "group_id": "srd:merchant:lizzy-tequilas",
+    "included": true,
+    "source": "expressexpense_srd"
+  },
+  {
+    "sample_id": "srd_1190-receipt",
+    "source_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1190-receipt.jpg",
+    "image_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1190-receipt.jpg",
+    "label": "receipt",
+    "split": "train",
+    "group_id": "srd:merchant:bombay-grill",
+    "included": true,
+    "source": "expressexpense_srd"
+  },
+  {
+    "sample_id": "srd_1191-receipt",
+    "source_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1191-receipt.jpg",
+    "image_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1191-receipt.jpg",
+    "label": "receipt",
+    "split": "train",
+    "group_id": "srd:merchant:mod-pizza",
+    "included": true,
+    "source": "expressexpense_srd"
+  },
+  {
+    "sample_id": "srd_1196-receipt",
+    "source_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1196-receipt.jpg",
+    "image_path": "Dataset/intake/2026-10-19/expressexpense_srd/images/1196-receipt.jpg",
+    "label": "receipt",
+    "split": "train",
+    "group_id": "srd:merchant:unknown-chicken-tikka",
+    "included": true,
+    "source": "expressexpense_srd"
+  },
+  {
+    "sample_id": "company_c6b8b0a1426310d7",
+    "source_path": "Dataset/intake/2026-10-19/company_documents_v2/images/purchase_order/c6b8b0a1426310d7.jpg",
+    "image_path": "Dataset/intake/2026-10-19/company_documents_v2/images/purchase_order/c6b8b0a1426310d7.jpg",
+    "label": "purchase_order",
+    "split": "train",
+    "group_id": "company-v2:generator",
+    "included": true,
+    "source": "company_documents_v2"
+  },
+  {
+    "sample_id": "company_7aaa46e675512314",
+    "source_path": "Dataset/intake/2026-10-19/company_documents_v2/images/purchase_order/7aaa46e675512314.jpg",
+    "image_path": "Dataset/intake/2026-10-19/company_documents_v2/images/purchase_order/7aaa46e675512314.jpg",
+    "label": "purchase_order",
+    "split": "train",
+    "group_id": "company-v2:generator",
+    "included": true,
+    "source": "company_documents_v2"
+  },
+  {
+    "sample_id": "company_b6e5edce694d252e",
+    "source_path": "Dataset/intake/2026-10-19/company_documents_v2/images/purchase_order/b6e5edce694d252e.jpg",
+    "image_path": "Dataset/intake/2026-10-19/company_documents_v2/images/purchase_order/b6e5edce694d252e.jpg",
+    "label": "purchase_order",
+    "split": "train",
+    "group_id": "company-v2:generator",
+    "included": true,
+    "source": "company_documents_v2"
+  },
+  {
+    "sample_id": "company_ff4e11fb5a9afed1",
+    "source_path": "Dataset/intake/2026-10-19/company_documents_v2/images/purchase_order/ff4e11fb5a9afed1.jpg",
+    "image_path": "Dataset/intake/2026-10-19/company_documents_v2/images/purchase_order/ff4e11fb5a9afed1.jpg",
+    "label": "purchase_order",
+    "split": "train",
+    "group_id": "company-v2:generator",
+    "included": true,
+    "source": "company_documents_v2"
+  },
+  {
+    "sample_id": "company_8f6b18fd227f9b49",
+    "source_path": "Dataset/intake/2026-10-19/company_documents_v2/images/purchase_order/8f6b18fd227f9b49.jpg",
+    "image_path": "Dataset/intake/2026-10-19/company_documents_v2/images/purchase_order/8f6b18fd227f9b49.jpg",
+    "label": "purchase_order",
+    "split": "train",
+    "group_id": "company-v2:generator",
+    "included": true,
+    "source": "company_documents_v2"
+  },
+  {
+    "sample_id": "company_5a30984a1e54d553",
+    "source_path": "Dataset/intake/2026-10-19/company_documents_v2/images/purchase_order/5a30984a1e54d553.jpg",
+    "image_path": "Dataset/intake/2026-10-19/company_documents_v2/images/purchase_order/5a30984a1e54d553.jpg",
+    "label": "purchase_order",
+    "split": "train",
+    "group_id": "company-v2:generator",
+    "included": true,
+    "source": "company_documents_v2"
+  },
+  {
+    "sample_id": "company_2aa2364144a5a826",
+    "source_path": "Dataset/intake/2026-10-19/company_documents_v2/images/purchase_order/2aa2364144a5a826.jpg",
+    "image_path": "Dataset/intake/2026-10-19/company_documents_v2/images/purchase_order/2aa2364144a5a826.jpg",
+    "label": "purchase_order",
+    "split": "train",
+    "group_id": "company-v2:generator",
+    "included": true,
+    "source": "company_documents_v2"
+  },
+  {
+    "sample_id": "company_e7913defa53347ff",
+    "source_path": "Dataset/intake/2026-10-19/company_documents_v2/images/purchase_order/e7913defa53347ff.jpg",
+    "image_path": "Dataset/intake/2026-10-19/company_documents_v2/images/purchase_order/e7913defa53347ff.jpg",
+    "label": "purchase_order",
+    "split": "train",
+    "group_id": "company-v2:generator",
+    "included": true,
+    "source": "company_documents_v2"
+  },
+  {
+    "sample_id": "company_1f29d3c53f9ab33e",
+    "source_path": "Dataset/intake/2026-10-19/company_documents_v2/images/purchase_order/1f29d3c53f9ab33e.jpg",
+    "image_path": "Dataset/intake/2026-10-19/company_documents_v2/images/purchase_order/1f29d3c53f9ab33e.jpg",
+    "label": "purchase_order",
+    "split": "train",
+    "group_id": "company-v2:generator",
+    "included": true,
+    "source": "company_documents_v2"
+  },
+  {
+    "sample_id": "company_7c08e5c3559c0cfe",
+    "source_path": "Dataset/intake/2026-10-19/company_documents_v2/images/purchase_order/7c08e5c3559c0cfe.jpg",
+    "image_path": "Dataset/intake/2026-10-19/company_documents_v2/images/purchase_order/7c08e5c3559c0cfe.jpg",
+    "label": "purchase_order",
+    "split": "train",
+    "group_id": "company-v2:generator",
+    "included": true,
+    "source": "company_documents_v2"
+  },
+  {
+    "sample_id": "company_c62532f47f7eb44b",
+    "source_path": "Dataset/intake/2026-10-19/company_documents_v2/images/purchase_order/c62532f47f7eb44b.jpg",
+    "image_path": "Dataset/intake/2026-10-19/company_documents_v2/images/purchase_order/c62532f47f7eb44b.jpg",
+    "label": "purchase_order",
+    "split": "train",
+    "group_id": "company-v2:generator",
+    "included": true,
+    "source": "company_documents_v2"
+  },
+  {
+    "sample_id": "company_bf97759c9068167e",
+    "source_path": "Dataset/intake/2026-10-19/company_documents_v2/images/purchase_order/bf97759c9068167e.jpg",
+    "image_path": "Dataset/intake/2026-10-19/company_documents_v2/images/purchase_order/bf97759c9068167e.jpg",
+    "label": "purchase_order",
+    "split": "train",
+    "group_id": "company-v2:generator",
+    "included": true,
+    "source": "company_documents_v2"
+  },
+  {
+    "sample_id": "company_f91175bf24d8351d",
+    "source_path": "Dataset/intake/2026-10-19/company_documents_v2/images/purchase_order/f91175bf24d8351d.jpg",
+    "image_path": "Dataset/intake/2026-10-19/company_documents_v2/images/purchase_order/f91175bf24d8351d.jpg",
+    "label": "purchase_order",
+    "split": "train",
+    "group_id": "company-v2:generator",
+    "included": true,
+    "source": "company_documents_v2"
+  },
+  {
+    "sample_id": "company_1dfd27cb2f72d330",
+    "source_path": "Dataset/intake/2026-10-19/company_documents_v2/images/purchase_order/1dfd27cb2f72d330.jpg",
+    "image_path": "Dataset/intake/2026-10-19/company_documents_v2/images/purchase_order/1dfd27cb2f72d330.jpg",
+    "label": "purchase_order",
+    "split": "train",
+    "group_id": "company-v2:generator",
+    "included": true,
+    "source": "company_documents_v2"
+  },
+  {
+    "sample_id": "company_917a2d49d857f341",
+    "source_path": "Dataset/intake/2026-10-19/company_documents_v2/images/purchase_order/917a2d49d857f341.jpg",
+    "image_path": "Dataset/intake/2026-10-19/company_documents_v2/images/purchase_order/917a2d49d857f341.jpg",
+    "label": "purchase_order",
+    "split": "train",
+    "group_id": "company-v2:generator",
+    "included": true,
+    "source": "company_documents_v2"
+  },
+  {
+    "sample_id": "company_0c3bc09c853b92d1",
+    "source_path": "Dataset/intake/2026-10-19/company_documents_v2/images/purchase_order/0c3bc09c853b92d1.jpg",
+    "image_path": "Dataset/intake/2026-10-19/company_documents_v2/images/purchase_order/0c3bc09c853b92d1.jpg",
+    "label": "purchase_order",
+    "split": "train",
+    "group_id": "company-v2:generator",
+    "included": true,
+    "source": "company_documents_v2"
+  },
+  {
+    "sample_id": "company_07459a2f7206a271",
+    "source_path": "Dataset/intake/2026-10-19/company_documents_v2/images/purchase_order/07459a2f7206a271.jpg",
+    "image_path": "Dataset/intake/2026-10-19/company_documents_v2/images/purchase_order/07459a2f7206a271.jpg",
+    "label": "purchase_order",
+    "split": "train",
+    "group_id": "company-v2:generator",
+    "included": true,
+    "source": "company_documents_v2"
+  },
+  {
+    "sample_id": "company_859bf518770c55ea",
+    "source_path": "Dataset/intake/2026-10-19/company_documents_v2/images/purchase_order/859bf518770c55ea.jpg",
+    "image_path": "Dataset/intake/2026-10-19/company_documents_v2/images/purchase_order/859bf518770c55ea.jpg",
+    "label": "purchase_order",
+    "split": "train",
+    "group_id": "company-v2:generator",
+    "included": true,
+    "source": "company_documents_v2"
+  },
+  {
+    "sample_id": "company_27b29669d19d5216",
+    "source_path": "Dataset/intake/2026-10-19/company_documents_v2/images/purchase_order/27b29669d19d5216.jpg",
+    "image_path": "Dataset/intake/2026-10-19/company_documents_v2/images/purchase_order/27b29669d19d5216.jpg",
+    "label": "purchase_order",
+    "split": "train",
+    "group_id": "company-v2:generator",
+    "included": true,
+    "source": "company_documents_v2"
+  },
+  {
+    "sample_id": "company_f3e42553f8df96e7",
+    "source_path": "Dataset/intake/2026-10-19/company_documents_v2/images/purchase_order/f3e42553f8df96e7.jpg",
+    "image_path": "Dataset/intake/2026-10-19/company_documents_v2/images/purchase_order/f3e42553f8df96e7.jpg",
+    "label": "purchase_order",
+    "split": "train",
+    "group_id": "company-v2:generator",
+    "included": true,
+    "source": "company_documents_v2"
+  },
+  {
+    "sample_id": "company_6f60f737faf5faa8",
+    "source_path": "Dataset/intake/2026-10-19/company_documents_v2/images/packing_slip/6f60f737faf5faa8.jpg",
+    "image_path": "Dataset/intake/2026-10-19/company_documents_v2/images/packing_slip/6f60f737faf5faa8.jpg",
+    "label": "delivery_note",
+    "split": "train",
+    "group_id": "company-v2:generator",
+    "included": true,
+    "source": "company_documents_v2"
+  },
+  {
+    "sample_id": "company_17758c3e1e524b8a",
+    "source_path": "Dataset/intake/2026-10-19/company_documents_v2/images/packing_slip/17758c3e1e524b8a.jpg",
+    "image_path": "Dataset/intake/2026-10-19/company_documents_v2/images/packing_slip/17758c3e1e524b8a.jpg",
+    "label": "delivery_note",
+    "split": "train",
+    "group_id": "company-v2:generator",
+    "included": true,
+    "source": "company_documents_v2"
+  },
+  {
+    "sample_id": "company_87247a0bbbf0f29f",
+    "source_path": "Dataset/intake/2026-10-19/company_documents_v2/images/packing_slip/87247a0bbbf0f29f.jpg",
+    "image_path": "Dataset/intake/2026-10-19/company_documents_v2/images/packing_slip/87247a0bbbf0f29f.jpg",
+    "label": "delivery_note",
+    "split": "train",
+    "group_id": "company-v2:generator",
+    "included": true,
+    "source": "company_documents_v2"
+  },
+  {
+    "sample_id": "company_f9dd8f3f77f1a87c",
+    "source_path": "Dataset/intake/2026-10-19/company_documents_v2/images/packing_slip/f9dd8f3f77f1a87c.jpg",
+    "image_path": "Dataset/intake/2026-10-19/company_documents_v2/images/packing_slip/f9dd8f3f77f1a87c.jpg",
+    "label": "delivery_note",
+    "split": "train",
+    "group_id": "company-v2:generator",
+    "included": true,
+    "source": "company_documents_v2"
+  },
+  {
+    "sample_id": "company_efc28d859270b978",
+    "source_path": "Dataset/intake/2026-10-19/company_documents_v2/images/packing_slip/efc28d859270b978.jpg",
+    "image_path": "Dataset/intake/2026-10-19/company_documents_v2/images/packing_slip/efc28d859270b978.jpg",
+    "label": "delivery_note",
+    "split": "train",
+    "group_id": "company-v2:generator",
+    "included": true,
+    "source": "company_documents_v2"
+  },
+  {
+    "sample_id": "company_395f51420a924526",
+    "source_path": "Dataset/intake/2026-10-19/company_documents_v2/images/packing_slip/395f51420a924526.jpg",
+    "image_path": "Dataset/intake/2026-10-19/company_documents_v2/images/packing_slip/395f51420a924526.jpg",
+    "label": "delivery_note",
+    "split": "train",
+    "group_id": "company-v2:generator",
+    "included": true,
+    "source": "company_documents_v2"
+  },
+  {
+    "sample_id": "company_c0388c4866f0e684",
+    "source_path": "Dataset/intake/2026-10-19/company_documents_v2/images/packing_slip/c0388c4866f0e684.jpg",
+    "image_path": "Dataset/intake/2026-10-19/company_documents_v2/images/packing_slip/c0388c4866f0e684.jpg",
+    "label": "delivery_note",
+    "split": "train",
+    "group_id": "company-v2:generator",
+    "included": true,
+    "source": "company_documents_v2"
+  },
+  {
+    "sample_id": "company_5ca07c2d98c45fad",
+    "source_path": "Dataset/intake/2026-10-19/company_documents_v2/images/packing_slip/5ca07c2d98c45fad.jpg",
+    "image_path": "Dataset/intake/2026-10-19/company_documents_v2/images/packing_slip/5ca07c2d98c45fad.jpg",
+    "label": "delivery_note",
+    "split": "train",
+    "group_id": "company-v2:generator",
+    "included": true,
+    "source": "company_documents_v2"
+  },
+  {
+    "sample_id": "company_73f4814646431469",
+    "source_path": "Dataset/intake/2026-10-19/company_documents_v2/images/packing_slip/73f4814646431469.jpg",
+    "image_path": "Dataset/intake/2026-10-19/company_documents_v2/images/packing_slip/73f4814646431469.jpg",
+    "label": "delivery_note",
+    "split": "train",
+    "group_id": "company-v2:generator",
+    "included": true,
+    "source": "company_documents_v2"
+  },
+  {
+    "sample_id": "company_699124c384c73441",
+    "source_path": "Dataset/intake/2026-10-19/company_documents_v2/images/packing_slip/699124c384c73441.jpg",
+    "image_path": "Dataset/intake/2026-10-19/company_documents_v2/images/packing_slip/699124c384c73441.jpg",
+    "label": "delivery_note",
+    "split": "train",
+    "group_id": "company-v2:generator",
+    "included": true,
+    "source": "company_documents_v2"
+  },
+  {
+    "sample_id": "company_edaed63712935a4e",
+    "source_path": "Dataset/intake/2026-10-19/company_documents_v2/images/packing_slip/edaed63712935a4e.jpg",
+    "image_path": "Dataset/intake/2026-10-19/company_documents_v2/images/packing_slip/edaed63712935a4e.jpg",
+    "label": "delivery_note",
+    "split": "train",
+    "group_id": "company-v2:generator",
+    "included": true,
+    "source": "company_documents_v2"
+  },
+  {
+    "sample_id": "company_84ef0dc252763886",
+    "source_path": "Dataset/intake/2026-10-19/company_documents_v2/images/packing_slip/84ef0dc252763886.jpg",
+    "image_path": "Dataset/intake/2026-10-19/company_documents_v2/images/packing_slip/84ef0dc252763886.jpg",
+    "label": "delivery_note",
+    "split": "train",
+    "group_id": "company-v2:generator",
+    "included": true,
+    "source": "company_documents_v2"
+  },
+  {
+    "sample_id": "company_d2d988c4d125cbd5",
+    "source_path": "Dataset/intake/2026-10-19/company_documents_v2/images/packing_slip/d2d988c4d125cbd5.jpg",
+    "image_path": "Dataset/intake/2026-10-19/company_documents_v2/images/packing_slip/d2d988c4d125cbd5.jpg",
+    "label": "delivery_note",
+    "split": "train",
+    "group_id": "company-v2:generator",
+    "included": true,
+    "source": "company_documents_v2"
+  },
+  {
+    "sample_id": "company_21446a717a0e76fe",
+    "source_path": "Dataset/intake/2026-10-19/company_documents_v2/images/packing_slip/21446a717a0e76fe.jpg",
+    "image_path": "Dataset/intake/2026-10-19/company_documents_v2/images/packing_slip/21446a717a0e76fe.jpg",
+    "label": "delivery_note",
+    "split": "train",
+    "group_id": "company-v2:generator",
+    "included": true,
+    "source": "company_documents_v2"
+  },
+  {
+    "sample_id": "company_29060e0e98d19833",
+    "source_path": "Dataset/intake/2026-10-19/company_documents_v2/images/packing_slip/29060e0e98d19833.jpg",
+    "image_path": "Dataset/intake/2026-10-19/company_documents_v2/images/packing_slip/29060e0e98d19833.jpg",
+    "label": "delivery_note",
+    "split": "train",
+    "group_id": "company-v2:generator",
+    "included": true,
+    "source": "company_documents_v2"
+  },
+  {
+    "sample_id": "company_6521e7b53cc02376",
+    "source_path": "Dataset/intake/2026-10-19/company_documents_v2/images/packing_slip/6521e7b53cc02376.jpg",
+    "image_path": "Dataset/intake/2026-10-19/company_documents_v2/images/packing_slip/6521e7b53cc02376.jpg",
+    "label": "delivery_note",
+    "split": "train",
+    "group_id": "company-v2:generator",
+    "included": true,
+    "source": "company_documents_v2"
+  },
+  {
+    "sample_id": "company_f6a4f6649ff672fe",
+    "source_path": "Dataset/intake/2026-10-19/company_documents_v2/images/packing_slip/f6a4f6649ff672fe.jpg",
+    "image_path": "Dataset/intake/2026-10-19/company_documents_v2/images/packing_slip/f6a4f6649ff672fe.jpg",
+    "label": "delivery_note",
+    "split": "train",
+    "group_id": "company-v2:generator",
+    "included": true,
+    "source": "company_documents_v2"
+  },
+  {
+    "sample_id": "company_ef36a4bca77fde98",
+    "source_path": "Dataset/intake/2026-10-19/company_documents_v2/images/packing_slip/ef36a4bca77fde98.jpg",
+    "image_path": "Dataset/intake/2026-10-19/company_documents_v2/images/packing_slip/ef36a4bca77fde98.jpg",
+    "label": "delivery_note",
+    "split": "train",
+    "group_id": "company-v2:generator",
+    "included": true,
+    "source": "company_documents_v2"
+  },
+  {
+    "sample_id": "company_9346d42ebda27ba4",
+    "source_path": "Dataset/intake/2026-10-19/company_documents_v2/images/packing_slip/9346d42ebda27ba4.jpg",
+    "image_path": "Dataset/intake/2026-10-19/company_documents_v2/images/packing_slip/9346d42ebda27ba4.jpg",
+    "label": "delivery_note",
+    "split": "train",
+    "group_id": "company-v2:generator",
+    "included": true,
+    "source": "company_documents_v2"
+  },
+  {
+    "sample_id": "company_ba2bb7b40d08168e",
+    "source_path": "Dataset/intake/2026-10-19/company_documents_v2/images/packing_slip/ba2bb7b40d08168e.jpg",
+    "image_path": "Dataset/intake/2026-10-19/company_documents_v2/images/packing_slip/ba2bb7b40d08168e.jpg",
+    "label": "delivery_note",
+    "split": "train",
+    "group_id": "company-v2:generator",
+    "included": true,
+    "source": "company_documents_v2"
+  }
+]

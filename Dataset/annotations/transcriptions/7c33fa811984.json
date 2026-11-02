@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "7c33fa811984",
+  "source_image": {
+    "path": "Dataset/Receipt/cord-train-0015.jpg",
+    "sha256": "bf52786f099a898f0d0e6200cb17cb61790a7c836c4f10233052910133dc700c"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/7c33fa811984.jpg",
+    "sha256": "9f576cd0d462b051a9e12bdb95348ee2c6c8bf0842c7426993eabb80ca67438a"
+  },
+  "classification": {
+    "label": "receipt",
+    "split": "val"
+  },
+  "transcription": {
+    "full_text": "[redacted]\n1 BLACK PEPPER MEATBALL 76,500\n1 QUARTO FORMANGGI PASTA 82,500\n1 GREEN TEA WITH CRUMBLE 56,000\n2 ORIGINAL BREWED TEA 46,000\nSUBTTL 261,000\nSVC CHG 6% 15,660\nPB1 10% 27,666\nTOTAL 304,326",
+    "lines": [
+      "[redacted]",
+      "1 BLACK PEPPER MEATBALL 76,500",
+      "1 QUARTO FORMANGGI PASTA 82,500",
+      "1 GREEN TEA WITH CRUMBLE 56,000",
+      "2 ORIGINAL BREWED TEA 46,000",
+      "SUBTTL 261,000",
+      "SVC CHG 6% 15,660",
+      "PB1 10% 27,666",
+      "TOTAL 304,326"
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [
+      "Pixelated/blurred source regions are marked [redacted]; their hidden text was not reconstructed."
+    ],
+    "notes": "Visually transcribed from the image, preserving printed spelling and numeric inconsistencies."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/7c33fa811984.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

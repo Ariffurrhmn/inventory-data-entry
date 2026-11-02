@@ -1,0 +1,213 @@
+{
+  "sample_id": "476131eff924",
+  "source_path": "Dataset/Receipt/aaaa_jpg.rf.2e47601f234d7c54e2f7e015491d4cee.jpg",
+  "source_sha256": "dca4cfb6cfb6bae6e8014ec076528ed980bf8069c09d86a7d7ff6b27eee53c28",
+  "prepared_image_path": "data/images/476131eff924.jpg",
+  "prepared_image_sha256": "43bd5b5fe19a30d856094c8e36af77f50c9b7745bbbc27e0b92c48036597a525",
+  "label": "receipt",
+  "split": "val",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "Colo\n\n] “Panis h Late (45\n1 Ho {\n\n00\n\nby ewe] (offe 90 (01)\n\n",
+  "ocr_image_size": [
+    1400,
+    1400
+  ],
+  "words": [
+    {
+      "text": "Colo",
+      "confidence": 83.450989,
+      "box": [
+        542,
+        215,
+        167,
+        56
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "]",
+      "confidence": 43.953377,
+      "box": [
+        312,
+        354,
+        24,
+        45
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "“Panis",
+      "confidence": 58.818058,
+      "box": [
+        425,
+        361,
+        179,
+        70
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "h",
+      "confidence": 70.320274,
+      "box": [
+        622,
+        379,
+        40,
+        67
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Late",
+      "confidence": 51.817932,
+      "box": [
+        702,
+        381,
+        135,
+        58
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "(45",
+      "confidence": 58.6982,
+      "box": [
+        903,
+        396,
+        90,
+        49
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "1",
+      "confidence": 88.182732,
+      "box": [
+        296,
+        442,
+        21,
+        44
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Ho",
+      "confidence": 51.312103,
+      "box": [
+        402,
+        452,
+        48,
+        49
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "{",
+      "confidence": 25.574379,
+      "box": [
+        470,
+        463,
+        18,
+        41
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "00",
+      "confidence": 87.85865,
+      "box": [
+        1040,
+        414,
+        87,
+        40
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "by",
+      "confidence": 88.319626,
+      "box": [
+        529,
+        466,
+        39,
+        46
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "ewe]",
+      "confidence": 0.894737,
+      "box": [
+        593,
+        474,
+        141,
+        51
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "(offe",
+      "confidence": 58.9216,
+      "box": [
+        766,
+        487,
+        130,
+        49
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "90",
+      "confidence": 35.406723,
+      "box": [
+        959,
+        499,
+        69,
+        44
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "(01)",
+      "confidence": 0.0,
+      "box": [
+        1063,
+        520,
+        61,
+        27
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    }
+  ]
+}

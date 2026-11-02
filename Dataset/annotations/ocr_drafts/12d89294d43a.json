@@ -1,0 +1,694 @@
+{
+  "sample_id": "12d89294d43a",
+  "source_path": "Dataset/Dataset-2/Purchase order/IMG_0980.HEIC",
+  "source_sha256": "47d1c4ee713a9f236405cdd869ed36d6dbc9d70235d67cec96fe211d260f0565",
+  "prepared_image_path": "data/images/12d89294d43a.jpg",
+  "prepared_image_sha256": "f9886a59e143bc70fab4a28f7ca898d1164e1374669b146f6f02c5b9792dafe3",
+  "label": "purchase_order",
+  "split": "val",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "Order Form\n\nOrder No: ORD-3455\nOrder Date: 01/07/2026\nRequired By: 06/07/2026\n\nFrom:\nShapla Grocery\nMohammadpur, Dhaka.\n\nTo:\nSurma Food Supply.\n\nPlease supply the following goods:\nInstant Noodles 8-pack | |\n140 1,680\n’\n\n2,000\n\nar\nSampooson | 10 | a0 | aso\nEe ET\n1\n\nAuthorized by\n\nA\n\nfor Shapla Grocery.\n\nTk12,330\n\n",
+  "ocr_image_size": [
+    1400,
+    1866
+  ],
+  "words": [
+    {
+      "text": "Order",
+      "confidence": 95.812408,
+      "box": [
+        125,
+        54,
+        214,
+        62
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Form",
+      "confidence": 96.904732,
+      "box": [
+        365,
+        58,
+        186,
+        60
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Order",
+      "confidence": 96.610847,
+      "box": [
+        120,
+        183,
+        110,
+        33
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "No:",
+      "confidence": 81.879837,
+      "box": [
+        242,
+        185,
+        61,
+        32
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "ORD-3455",
+      "confidence": 80.228195,
+      "box": [
+        375,
+        187,
+        198,
+        34
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Order",
+      "confidence": 96.647095,
+      "box": [
+        118,
+        238,
+        110,
+        33
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Date:",
+      "confidence": 95.222168,
+      "box": [
+        239,
+        241,
+        97,
+        31
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "01/07/2026",
+      "confidence": 96.476135,
+      "box": [
+        373,
+        243,
+        216,
+        37
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Required",
+      "confidence": 96.735809,
+      "box": [
+        116,
+        294,
+        162,
+        40
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "By:",
+      "confidence": 95.185646,
+      "box": [
+        288,
+        297,
+        54,
+        38
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "06/07/2026",
+      "confidence": 95.185646,
+      "box": [
+        371,
+        298,
+        222,
+        37
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "From:",
+      "confidence": 95.56501,
+      "box": [
+        110,
+        410,
+        109,
+        32
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Shapla",
+      "confidence": 91.659874,
+      "box": [
+        106,
+        465,
+        126,
+        42
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Grocery",
+      "confidence": 96.807297,
+      "box": [
+        246,
+        468,
+        148,
+        43
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Mohammadpur,",
+      "confidence": 90.473854,
+      "box": [
+        104,
+        522,
+        291,
+        45
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Dhaka.",
+      "confidence": 96.260612,
+      "box": [
+        411,
+        527,
+        124,
+        37
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "To:",
+      "confidence": 94.97728,
+      "box": [
+        98,
+        632,
+        60,
+        33
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Surma",
+      "confidence": 91.105927,
+      "box": [
+        95,
+        689,
+        120,
+        34
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Food",
+      "confidence": 96.468079,
+      "box": [
+        229,
+        691,
+        92,
+        35
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Supply.",
+      "confidence": 96.170258,
+      "box": [
+        334,
+        693,
+        136,
+        43
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Please",
+      "confidence": 96.370872,
+      "box": [
+        92,
+        801,
+        121,
+        37
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "supply",
+      "confidence": 96.087273,
+      "box": [
+        225,
+        805,
+        125,
+        43
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "the",
+      "confidence": 96.929726,
+      "box": [
+        360,
+        806,
+        60,
+        36
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "following",
+      "confidence": 96.190918,
+      "box": [
+        431,
+        807,
+        170,
+        45
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "goods:",
+      "confidence": 95.49366,
+      "box": [
+        613,
+        811,
+        120,
+        41
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Instant",
+      "confidence": 96.508354,
+      "box": [
+        101,
+        1065,
+        128,
+        34
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Noodles",
+      "confidence": 93.283249,
+      "box": [
+        242,
+        1065,
+        151,
+        36
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "8-pack",
+      "confidence": 92.676376,
+      "box": [
+        404,
+        1066,
+        123,
+        43
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "|",
+      "confidence": 28.796089,
+      "box": [
+        612,
+        1044,
+        22,
+        88
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "|",
+      "confidence": 50.392807,
+      "box": [
+        714,
+        1048,
+        78,
+        80
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "140",
+      "confidence": 96.965614,
+      "box": [
+        890,
+        1160,
+        66,
+        34
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "1,680",
+      "confidence": 96.990593,
+      "box": [
+        1146,
+        1165,
+        102,
+        38
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "’",
+      "confidence": 27.587059,
+      "box": [
+        1211,
+        1454,
+        10,
+        19
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "2,000",
+      "confidence": 96.932137,
+      "box": [
+        1142,
+        999,
+        104,
+        34
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "ar",
+      "confidence": 37.465664,
+      "box": [
+        795,
+        1051,
+        544,
+        171
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Sampooson",
+      "confidence": 0.0,
+      "box": [
+        69,
+        1210,
+        1271,
+        97
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "|",
+      "confidence": 62.678608,
+      "box": [
+        520,
+        1170,
+        117,
+        156
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "10",
+      "confidence": 57.119366,
+      "box": [
+        676,
+        1170,
+        65,
+        156
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "|",
+      "confidence": 61.9505,
+      "box": [
+        780,
+        1170,
+        39,
+        156
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "a0",
+      "confidence": 28.189476,
+      "box": [
+        871,
+        1170,
+        104,
+        156
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "|",
+      "confidence": 65.815994,
+      "box": [
+        1027,
+        1170,
+        39,
+        156
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "aso",
+      "confidence": 58.329662,
+      "box": [
+        1131,
+        1170,
+        117,
+        156
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Ee",
+      "confidence": 28.797729,
+      "box": [
+        65,
+        1296,
+        1276,
+        102
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "ET",
+      "confidence": 11.736031,
+      "box": [
+        633,
+        1262,
+        117,
+        156
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "1",
+      "confidence": 2.683105,
+      "box": [
+        61,
+        1387,
+        987,
+        105
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "Authorized",
+      "confidence": 96.016319,
+      "box": [
+        53,
+        1574,
+        196,
+        38
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "by",
+      "confidence": 96.711349,
+      "box": [
+        262,
+        1577,
+        42,
+        45
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "A",
+      "confidence": 12.280128,
+      "box": [
+        45,
+        1642,
+        405,
+        143
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "for",
+      "confidence": 93.305458,
+      "box": [
+        44,
+        1784,
+        52,
+        38
+      ],
+      "block": 12,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Shapla",
+      "confidence": 93.1455,
+      "box": [
+        104,
+        1786,
+        121,
+        44
+      ],
+      "block": 12,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Grocery.",
+      "confidence": 96.400192,
+      "box": [
+        237,
+        1789,
+        149,
+        43
+      ],
+      "block": 12,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Tk12,330",
+      "confidence": 90.278564,
+      "box": [
+        1098,
+        1427,
+        202,
+        39
+      ],
+      "block": 14,
+      "paragraph": 1,
+      "line": 1
+    }
+  ]
+}

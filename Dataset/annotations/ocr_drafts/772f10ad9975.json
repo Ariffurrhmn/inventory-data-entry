@@ -1,0 +1,460 @@
+{
+  "sample_id": "772f10ad9975",
+  "source_path": "Dataset/Dataset-2/Purchase order/IMG_0981.HEIC",
+  "source_sha256": "df0932e912a73c867648c0472cb4bbc6a3a451b20b953d2ae1c2a02a97c4959b",
+  "prepared_image_path": "data/images/772f10ad9975.jpg",
+  "prepared_image_sha256": "408a0ff6d8982542a7f63395e2de131affd5f610c912f1e8e0d2d93392396a56",
+  "label": "purchase_order",
+  "split": "test",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "Purchase Order\n\nP.O. No: PO-8226 Order Date: 26/10/2026\n\nSupplier:\nBengal Consumer Goods.\n\nBill To: Ship To:\nShapla Grocery, Shapla Grocery,\nSavar, Dhaka. Savar, Dhaka.\n\nUnit Price (Tk) | Amount (Tk)\n\nGrand Total: Tk 1,190\n\n",
+  "ocr_image_size": [
+    1400,
+    1866
+  ],
+  "words": [
+    {
+      "text": "Purchase",
+      "confidence": 96.020164,
+      "box": [
+        370,
+        102,
+        373,
+        67
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Order",
+      "confidence": 95.880867,
+      "box": [
+        770,
+        108,
+        235,
+        65
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "P.O.",
+      "confidence": 91.186577,
+      "box": [
+        120,
+        237,
+        71,
+        29
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "No:",
+      "confidence": 93.283684,
+      "box": [
+        205,
+        238,
+        62,
+        29
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "PO-8226",
+      "confidence": 92.011108,
+      "box": [
+        284,
+        238,
+        158,
+        32
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Order",
+      "confidence": 96.678894,
+      "box": [
+        846,
+        248,
+        100,
+        29
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Date:",
+      "confidence": 96.598465,
+      "box": [
+        957,
+        250,
+        87,
+        30
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "26/10/2026",
+      "confidence": 96.625458,
+      "box": [
+        1059,
+        250,
+        178,
+        34
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Supplier:",
+      "confidence": 95.938103,
+      "box": [
+        117,
+        353,
+        171,
+        40
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Bengal",
+      "confidence": 96.606873,
+      "box": [
+        115,
+        408,
+        123,
+        41
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Consumer",
+      "confidence": 96.489609,
+      "box": [
+        252,
+        408,
+        183,
+        35
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Goods.",
+      "confidence": 96.31813,
+      "box": [
+        447,
+        412,
+        122,
+        34
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Bill",
+      "confidence": 96.378654,
+      "box": [
+        111,
+        528,
+        65,
+        33
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "To:",
+      "confidence": 95.523697,
+      "box": [
+        189,
+        530,
+        59,
+        32
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Ship",
+      "confidence": 96.237869,
+      "box": [
+        749,
+        534,
+        81,
+        41
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "To:",
+      "confidence": 94.822548,
+      "box": [
+        842,
+        536,
+        56,
+        31
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Shapla",
+      "confidence": 92.839722,
+      "box": [
+        111,
+        586,
+        118,
+        42
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Grocery,",
+      "confidence": 96.843201,
+      "box": [
+        240,
+        587,
+        148,
+        42
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Shapla",
+      "confidence": 90.902267,
+      "box": [
+        751,
+        592,
+        112,
+        41
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Grocery,",
+      "confidence": 96.217087,
+      "box": [
+        874,
+        592,
+        145,
+        40
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Savar,",
+      "confidence": 92.029289,
+      "box": [
+        109,
+        643,
+        109,
+        38
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Dhaka.",
+      "confidence": 96.638474,
+      "box": [
+        232,
+        643,
+        121,
+        34
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Savar,",
+      "confidence": 92.862877,
+      "box": [
+        751,
+        647,
+        102,
+        38
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Dhaka.",
+      "confidence": 96.538635,
+      "box": [
+        867,
+        648,
+        118,
+        31
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Unit",
+      "confidence": 96.889328,
+      "box": [
+        716,
+        809,
+        78,
+        32
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Price",
+      "confidence": 94.053749,
+      "box": [
+        807,
+        809,
+        93,
+        33
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "(Tk)",
+      "confidence": 94.053749,
+      "box": [
+        909,
+        806,
+        74,
+        39
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "|",
+      "confidence": 94.867805,
+      "box": [
+        1009,
+        802,
+        21,
+        47
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Amount",
+      "confidence": 87.97551,
+      "box": [
+        1041,
+        808,
+        135,
+        31
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "(Tk)",
+      "confidence": 87.97551,
+      "box": [
+        1185,
+        806,
+        70,
+        37
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Grand",
+      "confidence": 95.949654,
+      "box": [
+        754,
+        1161,
+        125,
+        35
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Total:",
+      "confidence": 95.500412,
+      "box": [
+        890,
+        1161,
+        108,
+        34
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Tk",
+      "confidence": 95.664711,
+      "box": [
+        1103,
+        1162,
+        47,
+        33
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "1,190",
+      "confidence": 95.967308,
+      "box": [
+        1164,
+        1162,
+        89,
+        39
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    }
+  ]
+}

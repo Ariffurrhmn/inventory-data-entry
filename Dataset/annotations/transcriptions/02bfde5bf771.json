@@ -1,0 +1,64 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "02bfde5bf771",
+  "source_image": {
+    "path": "Dataset/Purchase_Order/POPO-13.jpg",
+    "sha256": "ca4c7732d81c9e80328649da7a347f9a411e12c626d114fa8781f27f44b6ea1e"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/02bfde5bf771.jpg",
+    "sha256": "58fb9dddcaa75ef819dbfa6f9ab0f5d7313b9b3652a0b0512f227c0f0c0a9532"
+  },
+  "classification": {
+    "label": "purchase_order",
+    "split": "val"
+  },
+  "transcription": {
+    "full_text": "DEF Company PURCHASE ORDER\n\nShahadat Sarker\nUttara-10,\nDhaka,\nBangladesh\nVendor Address: PO# PO-13\nXYZ Company Order Date Sep 20, 2026\nMirpur-2,\nDhaka, Delivery Date Sep 23, 2026\nBangladesh\nItem Description Qty Rate Amount\nFace Wash 2 4 8\nShampoo 400ml 1 4.5 4.5\nToothpaste 10 1.8 18\nBiscuits 200g 5 0.8 4\nInstant Noodles 10 0.4 4\nWhite Sugar 1kg 1 1.3 1.3\nRed Lentils 1kg 1 1.5 1.5\nRice 5kg 1 4.5 4.5\nSub Total 45.8\nPurchase Tax (10%) 4.58\nTOTAL $50.38\nNotes\n\nIt was great doing business with you.",
+    "lines": [
+      "DEF Company PURCHASE ORDER",
+      "",
+      "Shahadat Sarker",
+      "Uttara-10,",
+      "Dhaka,",
+      "Bangladesh",
+      "Vendor Address: PO# PO-13",
+      "XYZ Company Order Date Sep 20, 2026",
+      "Mirpur-2,",
+      "Dhaka, Delivery Date Sep 23, 2026",
+      "Bangladesh",
+      "Item Description Qty Rate Amount",
+      "Face Wash 2 4 8",
+      "Shampoo 400ml 1 4.5 4.5",
+      "Toothpaste 10 1.8 18",
+      "Biscuits 200g 5 0.8 4",
+      "Instant Noodles 10 0.4 4",
+      "White Sugar 1kg 1 1.3 1.3",
+      "Red Lentils 1kg 1 1.5 1.5",
+      "Rice 5kg 1 4.5 4.5",
+      "Sub Total 45.8",
+      "Purchase Tax (10%) 4.58",
+      "TOTAL $50.38",
+      "Notes",
+      "",
+      "It was great doing business with you."
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [],
+    "notes": ""
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/02bfde5bf771.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

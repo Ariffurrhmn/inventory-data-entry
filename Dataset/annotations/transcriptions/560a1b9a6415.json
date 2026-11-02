@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "560a1b9a6415",
+  "source_image": {
+    "path": "Dataset/Customer_Copy/image_1748.jpg",
+    "sha256": "72feac830c90b22cc425ce3d4cea07eef6025fab5972338f3812689a45b6e46c"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/560a1b9a6415.jpg",
+    "sha256": "04824ae22b4f7bace98777a89e8056edfbe0053a9be8acbf2ec41f825b386dcb"
+  },
+  "classification": {
+    "label": "customer_copy",
+    "split": "test"
+  },
+  "transcription": {
+    "full_text": "SERAPHINE KENSINGTON\nOLYMPIA HOTEL\nM:[masked]69171\nTID:[masked]3817 S2561\nSCH ID:MDSICDDEH1106\nHANDSET:1\nMASTERCARD DEBIT\nAID: A0000000041010\nDebit MasterCard\n[masked]8902\nPAN SEQ NO. 00\nICC\nPRE-AUTHORISATION\nAMOUNT Â£10.00\nPIN VERIFIED\nThank You\n06/11/16 16:23\nAUTH CODE:B82400\nCUSTOMER COPY\nPLEASE RETAIN RECEIPT",
+    "lines": [
+      "SERAPHINE KENSINGTON",
+      "OLYMPIA HOTEL",
+      "M:[masked]69171",
+      "TID:[masked]3817 S2561",
+      "SCH ID:MDSICDDEH1106",
+      "HANDSET:1",
+      "MASTERCARD DEBIT",
+      "AID: A0000000041010",
+      "Debit MasterCard",
+      "[masked]8902",
+      "PAN SEQ NO. 00",
+      "ICC",
+      "PRE-AUTHORISATION",
+      "AMOUNT Â£10.00",
+      "PIN VERIFIED",
+      "Thank You",
+      "06/11/16 16:23",
+      "AUTH CODE:B82400",
+      "CUSTOMER COPY",
+      "PLEASE RETAIN RECEIPT"
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [
+      "Payment masking, small terminal/reference identifiers and character counts need a human audit for exact-character scoring."
+    ],
+    "notes": "Visually checked; blank fields left blank. Printed masking is represented by [masked] where exact symbol count is not reliable."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/560a1b9a6415.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

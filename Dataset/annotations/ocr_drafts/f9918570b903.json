@@ -1,0 +1,135 @@
+{
+  "sample_id": "f9918570b903",
+  "source_path": "Dataset/Dataset-2/Delivery note challan/IMG_0991.HEIC",
+  "source_sha256": "027cc65a32f46249e6431bfbbb7f181642e05e24b9e56f641e5ccedecd04070e",
+  "prepared_image_path": "data/images/f9918570b903.jpg",
+  "prepared_image_sha256": "bc4e1f5f2758199a5b77f34cba6bedf0a71d78335a9eb2c0a8a6d0e8af7cc60c",
+  "label": "delivery_note",
+  "split": "train",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "Surma Food Supply\n\nChallan\n\nChailan No: DC-968.\nDate: 27/07/2026.\n\n",
+  "ocr_image_size": [
+    1400,
+    1866
+  ],
+  "words": [
+    {
+      "text": "Surma",
+      "confidence": 92.655006,
+      "box": [
+        335,
+        62,
+        285,
+        88
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Food",
+      "confidence": 96.989044,
+      "box": [
+        647,
+        71,
+        191,
+        84
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Supply",
+      "confidence": 96.758202,
+      "box": [
+        861,
+        75,
+        269,
+        108
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Challan",
+      "confidence": 91.499802,
+      "box": [
+        595,
+        269,
+        275,
+        66
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Chailan",
+      "confidence": 31.639206,
+      "box": [
+        203,
+        384,
+        164,
+        45
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "No:",
+      "confidence": 93.270943,
+      "box": [
+        380,
+        391,
+        73,
+        40
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "DC-968.",
+      "confidence": 91.223465,
+      "box": [
+        468,
+        392,
+        178,
+        42
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Date:",
+      "confidence": 96.914726,
+      "box": [
+        201,
+        445,
+        120,
+        44
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "27/07/2026.",
+      "confidence": 96.762825,
+      "box": [
+        339,
+        452,
+        261,
+        47
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    }
+  ]
+}

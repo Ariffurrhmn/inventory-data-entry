@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "308d04e806ba",
+  "source_image": {
+    "path": "Dataset/Dataset-2/Purchase order/IMG_0974.HEIC",
+    "sha256": "aee05a48f4dfce67172eff48309c7fb1fbe2b6645b1f2729ee2e121d8b7b82b1"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/308d04e806ba.jpg",
+    "sha256": "4a163bebe75ccd4ddca6dd4642f231c1f7ddef5a16b5240ab934ea7828ee55ad"
+  },
+  "classification": {
+    "label": "purchase_order",
+    "split": "train"
+  },
+  "transcription": {
+    "full_text": "Order\nOrder No: ORD-1229\nOrder Date: 05/10/2026\nRequired By: 10/10/2026\nFrom: Al-Madina Traders\nBadda, Dhaka\nTo: Bengal Consumer Goods\nPlease supply the following goods:\nItem Qty Rate (Tk) Amount (Tk)\nExercise Book 12 45 540\nInstant Noodles 8-pack 2 160 320\nOnion 1kg 5 65 325\nSalt 1kg 12 42 504\nMilk Powder 500g 6 420 2,520\nTotal: Tk 4,209\nAuthorized by [signature]\nAl-Madina Traders",
+    "lines": [
+      "Order",
+      "Order No: ORD-1229",
+      "Order Date: 05/10/2026",
+      "Required By: 10/10/2026",
+      "From: Al-Madina Traders",
+      "Badda, Dhaka",
+      "To: Bengal Consumer Goods",
+      "Please supply the following goods:",
+      "Item Qty Rate (Tk) Amount (Tk)",
+      "Exercise Book 12 45 540",
+      "Instant Noodles 8-pack 2 160 320",
+      "Onion 1kg 5 65 325",
+      "Salt 1kg 12 42 504",
+      "Milk Powder 500g 6 420 2,520",
+      "Total: Tk 4,209",
+      "Authorized by [signature]",
+      "Al-Madina Traders"
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [],
+    "notes": "Handwritten/printed entries visually transcribed; signatures marked, not interpreted."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/308d04e806ba.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "99227d025be4",
+  "source_image": {
+    "path": "Dataset/Receipt/cord-train-0165.jpg",
+    "sha256": "497d7e04e16b3668f4be96f081d1bced0c25463a544834a4db2e2ea7d62f6d13"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/99227d025be4.jpg",
+    "sha256": "df997f699539a7fbd3a07bbe7bebff781b14e7f5fcc485c783da49892fcf6484"
+  },
+  "classification": {
+    "label": "receipt",
+    "split": "train"
+  },
+  "transcription": {
+    "full_text": "[redacted]\n1 A Chicken 21.000\n+Monster\n+A +Cheese\nSubtotal 21.000\nTotal 21.000\nCASH 21.000\nKembalian 0\n[redacted]",
+    "lines": [
+      "[redacted]",
+      "1 A Chicken 21.000",
+      "+Monster",
+      "+A +Cheese",
+      "Subtotal 21.000",
+      "Total 21.000",
+      "CASH 21.000",
+      "Kembalian 0",
+      "[redacted]"
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [
+      "Source has pixelated/blurred regions marked [redacted]; these cannot be recovered from the image."
+    ],
+    "notes": "Full visible receipt content reviewed; original spelling, language, and amounts preserved."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/99227d025be4.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

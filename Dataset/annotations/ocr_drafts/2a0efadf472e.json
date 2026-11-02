@@ -1,0 +1,330 @@
+{
+  "sample_id": "2a0efadf472e",
+  "source_path": "Dataset/Dataset-2/Purchase order/IMG_0986.HEIC",
+  "source_sha256": "3acf0b430722e667f50066ce600fc2a3a38f08a73705fde563e6c83be4ed6b0e",
+  "prepared_image_path": "data/images/2a0efadf472e.jpg",
+  "prepared_image_sha256": "0d56c882c504744f8cbf2dbbe36e1f4341316e2dccb7bc5d5abd9197c798bf67",
+  "label": "purchase_order",
+  "split": "train",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "HGT Company PURCHASE ORDER\n\nShop-12,\nNumber PO 19\n\nPanjora, Gazipur,\nDhaka. Dato: 2026-09-18\n\nBanglasesh Due Date: 20261016\n\nBILL TO\n\nShop-43,\nMirpue-10\nDhaka.\nBanglasesh\n\nAMOUNT\n\n",
+  "ocr_image_size": [
+    1468,
+    1800
+  ],
+  "words": [
+    {
+      "text": "HGT",
+      "confidence": 91.170494,
+      "box": [
+        77,
+        44,
+        87,
+        35
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Company",
+      "confidence": 94.880432,
+      "box": [
+        176,
+        46,
+        184,
+        43
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "PURCHASE",
+      "confidence": 96.113716,
+      "box": [
+        856,
+        58,
+        278,
+        40
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "ORDER",
+      "confidence": 96.75853,
+      "box": [
+        1152,
+        61,
+        179,
+        40
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Shop-12,",
+      "confidence": 91.40802,
+      "box": [
+        76,
+        106,
+        91,
+        23
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Number",
+      "confidence": 95.19899,
+      "box": [
+        1002,
+        152,
+        88,
+        34
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "PO",
+      "confidence": 0.0,
+      "box": [
+        1253,
+        155,
+        37,
+        35
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "19",
+      "confidence": 43.815758,
+      "box": [
+        1308,
+        161,
+        28,
+        20
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Panjora,",
+      "confidence": 91.425827,
+      "box": [
+        75,
+        141,
+        83,
+        23
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Gazipur,",
+      "confidence": 84.688385,
+      "box": [
+        166,
+        142,
+        84,
+        24
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Dhaka.",
+      "confidence": 77.884285,
+      "box": [
+        70,
+        173,
+        75,
+        39
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Dato:",
+      "confidence": 83.29554,
+      "box": [
+        1040,
+        192,
+        51,
+        39
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "2026-09-18",
+      "confidence": 80.826904,
+      "box": [
+        1214,
+        195,
+        123,
+        39
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Banglasesh",
+      "confidence": 52.331467,
+      "box": [
+        68,
+        209,
+        124,
+        49
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Due",
+      "confidence": 69.923454,
+      "box": [
+        992,
+        246,
+        40,
+        20
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Date:",
+      "confidence": 90.093445,
+      "box": [
+        1040,
+        245,
+        52,
+        21
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "20261016",
+      "confidence": 73.337402,
+      "box": [
+        1214,
+        231,
+        124,
+        48
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "BILL",
+      "confidence": 85.12252,
+      "box": [
+        59,
+        489,
+        63,
+        23
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "TO",
+      "confidence": 85.12252,
+      "box": [
+        129,
+        490,
+        36,
+        22
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Shop-43,",
+      "confidence": 86.675125,
+      "box": [
+        54,
+        605,
+        95,
+        24
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Mirpue-10",
+      "confidence": 92.806496,
+      "box": [
+        53,
+        642,
+        106,
+        24
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Dhaka.",
+      "confidence": 83.772301,
+      "box": [
+        51,
+        678,
+        74,
+        21
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Banglasesh",
+      "confidence": 89.781013,
+      "box": [
+        49,
+        715,
+        124,
+        24
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "AMOUNT",
+      "confidence": 96.495514,
+      "box": [
+        1197,
+        928,
+        107,
+        17
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "5564ab2d8b11",
+  "source_image": {
+    "path": "Dataset/Receipt/cord-train-0114.jpg",
+    "sha256": "2b1385590ae94ccff8e28a4602d9ff297ec78b5cfbebc89e8119abc3a382582f"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/5564ab2d8b11.jpg",
+    "sha256": "614df76c45a004d91dca5f7ddebbb3c73b80422171584c29b2a005f5409e7f98"
+  },
+  "classification": {
+    "label": "receipt",
+    "split": "test"
+  },
+  "transcription": {
+    "full_text": "[redacted]\nPuyo 6 (Package) 1x 70,000 70,000\nSilky Lychee 2x\nSilky Mango 1x\nSilky Cotton Candy 1x\nSilky Green Tea 1x\nSilky Chocolate 1x\nSub Total 70,000\nGRAND TOTAL 70,000\n[redacted]\n- [D] DEBIT EDC BCA 70,000\n[redacted]\nCHANGE 0\n[redacted]\nBarang yang [redacted]",
+    "lines": [
+      "[redacted]",
+      "Puyo 6 (Package) 1x 70,000 70,000",
+      "Silky Lychee 2x",
+      "Silky Mango 1x",
+      "Silky Cotton Candy 1x",
+      "Silky Green Tea 1x",
+      "Silky Chocolate 1x",
+      "Sub Total 70,000",
+      "GRAND TOTAL 70,000",
+      "[redacted]",
+      "- [D] DEBIT EDC BCA 70,000",
+      "[redacted]",
+      "CHANGE 0",
+      "[redacted]",
+      "Barang yang [redacted]"
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [
+      "Source has pixelated/blurred regions marked [redacted]; these cannot be recovered from the image."
+    ],
+    "notes": "Full visible receipt content reviewed; original spelling, language, and amounts preserved."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/5564ab2d8b11.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

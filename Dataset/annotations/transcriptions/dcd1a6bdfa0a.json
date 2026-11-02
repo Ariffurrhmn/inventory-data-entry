@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "dcd1a6bdfa0a",
+  "source_image": {
+    "path": "Dataset/Dataset-2/Purchase order/IMG_0977.HEIC",
+    "sha256": "d4af1b646ccfab272d750f78f52e6e853b8bb025c5d2155720581f88dc827568"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/dcd1a6bdfa0a.jpg",
+    "sha256": "8e9c13ff858fbb096022de7281629f61b0e64d836fb780f9909d0e0d239e3c0b"
+  },
+  "classification": {
+    "label": "delivery_note",
+    "split": "val"
+  },
+  "transcription": {
+    "full_text": "From: Jamuna Wholesale.\nTo: Rahim General Store, Mirpur-10, Dhaka.\nChallan No: DC-417.\nDate: 08/07/2026.\nSl Item Description Qty.\n1 Miniket Rice 25kg 5\n2 Milk Powder 500g 10\nReceived the above goods in good condition.\nReceived By: [signature]\nDelivered By:\nJamuna Wholesale",
+    "lines": [
+      "From: Jamuna Wholesale.",
+      "To: Rahim General Store, Mirpur-10, Dhaka.",
+      "Challan No: DC-417.",
+      "Date: 08/07/2026.",
+      "Sl Item Description Qty.",
+      "1 Miniket Rice 25kg 5",
+      "2 Milk Powder 500g 10",
+      "Received the above goods in good condition.",
+      "Received By: [signature]",
+      "Delivered By:",
+      "Jamuna Wholesale"
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [],
+    "notes": "Signature marked rather than interpreted; delivered-by field is blank."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/dcd1a6bdfa0a.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

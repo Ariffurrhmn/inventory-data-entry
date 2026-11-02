@@ -1,0 +1,200 @@
+{
+  "sample_id": "c444a2174871",
+  "source_path": "Dataset/Receipt/IMG_20250823_031335_jpg.rf.5a199981b4aa990a64567daf31f4f7c6.jpg",
+  "source_sha256": "be2fef08f6ef3a5aec35bf8a0d44cfcc803f6cef6529e2d1ca2496e183091f92",
+  "prepared_image_path": "data/images/c444a2174871.jpg",
+  "prepared_image_sha256": "6b7d94e2887580a9b4c5268e1cb827e655f5a899cf497ead13d066f5302a5edd",
+  "label": "receipt",
+  "split": "val",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "Fol’s tAunDRYy Shor\n\n6 Cuvtoing 780-00\n1 Corofoter (king) 380.00\nTromes Service 100. 00\n\n",
+  "ocr_image_size": [
+    1400,
+    1400
+  ],
+  "words": [
+    {
+      "text": "Fol’s",
+      "confidence": 38.411224,
+      "box": [
+        471,
+        35,
+        131,
+        45
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "tAunDRYy",
+      "confidence": 17.94223,
+      "box": [
+        656,
+        49,
+        222,
+        45
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Shor",
+      "confidence": 76.623207,
+      "box": [
+        909,
+        60,
+        128,
+        51
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "6",
+      "confidence": 49.354015,
+      "box": [
+        38,
+        198,
+        28,
+        43
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Cuvtoing",
+      "confidence": 28.086868,
+      "box": [
+        85,
+        187,
+        197,
+        56
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "780-00",
+      "confidence": 58.578686,
+      "box": [
+        1106,
+        239,
+        183,
+        40
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "1",
+      "confidence": 83.801132,
+      "box": [
+        0,
+        257,
+        63,
+        71
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Corofoter",
+      "confidence": 63.239056,
+      "box": [
+        90,
+        291,
+        238,
+        46
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "(king)",
+      "confidence": 81.186142,
+      "box": [
+        374,
+        293,
+        150,
+        62
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "380.00",
+      "confidence": 75.121468,
+      "box": [
+        1098,
+        326,
+        183,
+        39
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Tromes",
+      "confidence": 0.0,
+      "box": [
+        0,
+        383,
+        186,
+        77
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Service",
+      "confidence": 93.480232,
+      "box": [
+        225,
+        390,
+        169,
+        51
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "100.",
+      "confidence": 75.382446,
+      "box": [
+        1086,
+        434,
+        117,
+        37
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "00",
+      "confidence": 69.847237,
+      "box": [
+        1218,
+        433,
+        63,
+        32
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 3
+    }
+  ]
+}

@@ -1,0 +1,642 @@
+{
+  "sample_id": "346ff589b408",
+  "source_path": "Dataset/Customer_Copy/image_0018.jpg",
+  "source_sha256": "21e20f8e7bbd19040f699fee2537be8ec46075408c5208b1f5aa904ddf33d735",
+  "prepared_image_path": "data/images/346ff589b408.jpg",
+  "prepared_image_sha256": "fdab21fe83fbcef12c9c543009d492ee0a1daa6d9723998852569609f7170e74",
+  "label": "customer_copy",
+  "split": "train",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "DUPLICATE\nFRANCO ANCA\nLONDON\n\nSHAR EI30925\nID; *x4%2312 5409\n\nHANDSET: 1\n\nAMERICAN EXPRESS\n. AD00000025010801\n\nAID:\nAMERICAN EXPRESS\n\ndeer sera wk 1002\nPAN SEQ NO. 00\nCONTACTLESS\n\nSALE\n£13.80\n\nAMOUNT\nTOTAL £13.80\n\nNO CARDHOLDER\nVERIFICATION\nThank You\n\n11/03/16 22:23\nAUTH CODE:47\nTXN 0734\n\nCUSTOMER COPY\nPLEASE RETAIN RECEIPT\n",
+  "ocr_image_size": [
+    1350,
+    1350
+  ],
+  "words": [
+    {
+      "text": "DUPLICATE",
+      "confidence": 95.698746,
+      "box": [
+        356,
+        24,
+        291,
+        51
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "FRANCO",
+      "confidence": 90.228348,
+      "box": [
+        358,
+        72,
+        143,
+        72
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "ANCA",
+      "confidence": 40.897793,
+      "box": [
+        527,
+        64,
+        122,
+        66
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "LONDON",
+      "confidence": 96.947411,
+      "box": [
+        357,
+        144,
+        147,
+        65
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "SHAR",
+      "confidence": 0.0,
+      "box": [
+        385,
+        214,
+        88,
+        35
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "EI30925",
+      "confidence": 0.0,
+      "box": [
+        484,
+        205,
+        163,
+        35
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "ID;",
+      "confidence": 62.875603,
+      "box": [
+        381,
+        252,
+        62,
+        32
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "*x4%2312",
+      "confidence": 0.0,
+      "box": [
+        462,
+        239,
+        187,
+        36
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "5409",
+      "confidence": 92.180069,
+      "box": [
+        858,
+        226,
+        98,
+        33
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "HANDSET:",
+      "confidence": 90.253304,
+      "box": [
+        355,
+        272,
+        221,
+        50
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "1",
+      "confidence": 90.253304,
+      "box": [
+        556,
+        267,
+        20,
+        60
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "AMERICAN",
+      "confidence": 0.131195,
+      "box": [
+        354,
+        355,
+        196,
+        40
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "EXPRESS",
+      "confidence": 96.287971,
+      "box": [
+        581,
+        346,
+        173,
+        40
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": ".",
+      "confidence": 0.0,
+      "box": [
+        434,
+        405,
+        9,
+        10
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "AD00000025010801",
+      "confidence": 60.188545,
+      "box": [
+        479,
+        378,
+        406,
+        49
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "AID:",
+      "confidence": 93.423981,
+      "box": [
+        353,
+        398,
+        91,
+        34
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "AMERICAN",
+      "confidence": 5.865631,
+      "box": [
+        353,
+        433,
+        199,
+        67
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "EXPRESS",
+      "confidence": 93.128815,
+      "box": [
+        582,
+        425,
+        175,
+        66
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "deer",
+      "confidence": 1.968567,
+      "box": [
+        360,
+        534,
+        114,
+        44
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "sera",
+      "confidence": 22.886269,
+      "box": [
+        484,
+        545,
+        67,
+        21
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "wk",
+      "confidence": 7.790497,
+      "box": [
+        565,
+        541,
+        63,
+        22
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "1002",
+      "confidence": 7.790497,
+      "box": [
+        642,
+        538,
+        90,
+        36
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "PAN",
+      "confidence": 94.104568,
+      "box": [
+        359,
+        589,
+        68,
+        34
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "SEQ",
+      "confidence": 96.25676,
+      "box": [
+        458,
+        585,
+        75,
+        37
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "NO.",
+      "confidence": 96.506958,
+      "box": [
+        560,
+        582,
+        64,
+        33
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "00",
+      "confidence": 96.290024,
+      "box": [
+        662,
+        579,
+        46,
+        31
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "CONTACTLESS",
+      "confidence": 96.7817,
+      "box": [
+        357,
+        620,
+        276,
+        39
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "SALE",
+      "confidence": 96.620193,
+      "box": [
+        364,
+        700,
+        95,
+        34
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "£13.80",
+      "confidence": 95.451096,
+      "box": [
+        821,
+        714,
+        146,
+        34
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "AMOUNT",
+      "confidence": 95.059174,
+      "box": [
+        361,
+        734,
+        152,
+        41
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "TOTAL",
+      "confidence": 95.072495,
+      "box": [
+        359,
+        770,
+        122,
+        66
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "£13.80",
+      "confidence": 83.6306,
+      "box": [
+        824,
+        751,
+        149,
+        60
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "NO",
+      "confidence": 95.937958,
+      "box": [
+        350,
+        881,
+        50,
+        37
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "CARDHOLDER",
+      "confidence": 96.477936,
+      "box": [
+        429,
+        866,
+        263,
+        47
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "VERIFICATION",
+      "confidence": 77.050949,
+      "box": [
+        347,
+        908,
+        318,
+        49
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Thank",
+      "confidence": 95.83017,
+      "box": [
+        343,
+        955,
+        134,
+        41
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "You",
+      "confidence": 96.358398,
+      "box": [
+        505,
+        952,
+        78,
+        33
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "11/03/16",
+      "confidence": 95.705856,
+      "box": [
+        341,
+        1031,
+        216,
+        49
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "22:23",
+      "confidence": 96.876785,
+      "box": [
+        590,
+        1024,
+        132,
+        40
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "AUTH",
+      "confidence": 93.185539,
+      "box": [
+        336,
+        1079,
+        108,
+        41
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "CODE:47",
+      "confidence": 90.294769,
+      "box": [
+        476,
+        1069,
+        190,
+        43
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "TXN",
+      "confidence": 89.73819,
+      "box": [
+        335,
+        1124,
+        80,
+        39
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "0734",
+      "confidence": 96.91629,
+      "box": [
+        447,
+        1117,
+        109,
+        39
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "CUSTOMER",
+      "confidence": 95.824921,
+      "box": [
+        473,
+        1201,
+        227,
+        45
+      ],
+      "block": 12,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "COPY",
+      "confidence": 96.461784,
+      "box": [
+        734,
+        1197,
+        111,
+        40
+      ],
+      "block": 12,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "PLEASE",
+      "confidence": 95.969826,
+      "box": [
+        360,
+        1254,
+        165,
+        45
+      ],
+      "block": 12,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "RETAIN",
+      "confidence": 94.601433,
+      "box": [
+        560,
+        1248,
+        170,
+        43
+      ],
+      "block": 12,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "RECEIPT",
+      "confidence": 87.921646,
+      "box": [
+        766,
+        1241,
+        202,
+        43
+      ],
+      "block": 12,
+      "paragraph": 1,
+      "line": 2
+    }
+  ]
+}

@@ -1,0 +1,733 @@
+{
+  "sample_id": "8f6f9027cdb3",
+  "source_path": "Dataset/Customer_Copy/image_1758.jpg",
+  "source_sha256": "a01cefe6aef1822c7d4a4048a7f5326e371b4a25b96ed9bd481f38748d1d4b18",
+  "prepared_image_path": "data/images/8f6f9027cdb3.jpg",
+  "prepared_image_sha256": "1b75d1a43cc9e76f12e7458ec76e85a1ea0423b278576a198afffe5bda2692ff",
+  "label": "customer_copy",
+  "split": "test",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "Welc Ome to chick\n\n11-A\nSaxon Bou) evard FSU. (401125)\n\n7016 10: 8 103 AM\n5/6/2\n! DINE IN\n\nOrder Numbers 233291\n\n1 Meal- -SpeySand...\n\nSpey San\nFries MD\nsut Tea\nSub. Total: $6.75\nChange $0.34\nCash $7.00\nTran Seq No: 4233281\n\nRegister:d\nCashier: Christopher\nIt Was our pleasure serving you:\n\nHave a wonderful day.\n",
+  "ocr_image_size": [
+    1400,
+    1866
+  ],
+  "words": [
+    {
+      "text": "Welc",
+      "confidence": 72.137932,
+      "box": [
+        434,
+        283,
+        78,
+        37
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Ome",
+      "confidence": 89.506409,
+      "box": [
+        517,
+        302,
+        55,
+        29
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "to",
+      "confidence": 89.506409,
+      "box": [
+        598,
+        309,
+        34,
+        27
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "chick",
+      "confidence": 79.752464,
+      "box": [
+        654,
+        288,
+        99,
+        39
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "11-A",
+      "confidence": 33.790024,
+      "box": [
+        801,
+        275,
+        75,
+        31
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Saxon",
+      "confidence": 95.196465,
+      "box": [
+        370,
+        321,
+        103,
+        38
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Bou)",
+      "confidence": 11.387901,
+      "box": [
+        496,
+        323,
+        69,
+        62
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "evard",
+      "confidence": 11.387901,
+      "box": [
+        579,
+        327,
+        96,
+        52
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "FSU.",
+      "confidence": 38.689316,
+      "box": [
+        698,
+        292,
+        70,
+        82
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "(401125)",
+      "confidence": 18.773499,
+      "box": [
+        778,
+        280,
+        160,
+        71
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "7016",
+      "confidence": 41.086372,
+      "box": [
+        558,
+        515,
+        104,
+        75
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "10:",
+      "confidence": 95.356262,
+      "box": [
+        689,
+        543,
+        53,
+        36
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "8",
+      "confidence": 14.757919,
+      "box": [
+        725,
+        495,
+        81,
+        80
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "103",
+      "confidence": 38.494522,
+      "box": [
+        801,
+        540,
+        55,
+        33
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "AM",
+      "confidence": 94.476189,
+      "box": [
+        881,
+        540,
+        41,
+        31
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "5/6/2",
+      "confidence": 90.796631,
+      "box": [
+        497,
+        560,
+        100,
+        45
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "!",
+      "confidence": 0.0,
+      "box": [
+        518,
+        570,
+        18,
+        39
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "DINE",
+      "confidence": 46.679195,
+      "box": [
+        579,
+        596,
+        84,
+        45
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "IN",
+      "confidence": 96.44352,
+      "box": [
+        689,
+        590,
+        40,
+        37
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Order",
+      "confidence": 93.517181,
+      "box": [
+        227,
+        655,
+        110,
+        43
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Numbers",
+      "confidence": 75.124954,
+      "box": [
+        365,
+        662,
+        145,
+        40
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "233291",
+      "confidence": 6.656235,
+      "box": [
+        579,
+        605,
+        151,
+        81
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "1",
+      "confidence": 65.06839,
+      "box": [
+        229,
+        764,
+        9,
+        36
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Meal-",
+      "confidence": 70.688202,
+      "box": [
+        293,
+        765,
+        109,
+        39
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "-SpeySand...",
+      "confidence": 52.202473,
+      "box": [
+        388,
+        746,
+        234,
+        95
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Spey",
+      "confidence": 13.288467,
+      "box": [
+        339,
+        819,
+        88,
+        41
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "San",
+      "confidence": 84.14975,
+      "box": [
+        449,
+        811,
+        65,
+        34
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Fries",
+      "confidence": 94.050842,
+      "box": [
+        340,
+        870,
+        106,
+        38
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "MD",
+      "confidence": 85.677551,
+      "box": [
+        468,
+        854,
+        43,
+        41
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "sut",
+      "confidence": 33.730171,
+      "box": [
+        337,
+        921,
+        63,
+        42
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Tea",
+      "confidence": 90.921967,
+      "box": [
+        426,
+        912,
+        61,
+        39
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Sub.",
+      "confidence": 93.935493,
+      "box": [
+        287,
+        1031,
+        83,
+        44
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "Total:",
+      "confidence": 89.490364,
+      "box": [
+        399,
+        1008,
+        128,
+        52
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "$6.75",
+      "confidence": 25.484543,
+      "box": [
+        1028,
+        998,
+        110,
+        43
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "Change",
+      "confidence": 95.804138,
+      "box": [
+        279,
+        1265,
+        144,
+        47
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "$0.34",
+      "confidence": 96.120041,
+      "box": [
+        1047,
+        1229,
+        122,
+        49
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "Cash",
+      "confidence": 96.06823,
+      "box": [
+        277,
+        1323,
+        97,
+        51
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "$7.00",
+      "confidence": 95.397537,
+      "box": [
+        1054,
+        1290,
+        122,
+        50
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "Tran",
+      "confidence": 96.504181,
+      "box": [
+        693,
+        1365,
+        97,
+        45
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 7
+    },
+    {
+      "text": "Seq",
+      "confidence": 93.011314,
+      "box": [
+        817,
+        1362,
+        73,
+        50
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 7
+    },
+    {
+      "text": "No:",
+      "confidence": 93.604095,
+      "box": [
+        916,
+        1360,
+        63,
+        43
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 7
+    },
+    {
+      "text": "4233281",
+      "confidence": 71.20491,
+      "box": [
+        1012,
+        1353,
+        168,
+        49
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 7
+    },
+    {
+      "text": "Register:d",
+      "confidence": 58.435928,
+      "box": [
+        196,
+        1382,
+        253,
+        66
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Cashier:",
+      "confidence": 93.695168,
+      "box": [
+        192,
+        1457,
+        200,
+        54
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Christopher",
+      "confidence": 26.146118,
+      "box": [
+        385,
+        1419,
+        283,
+        79
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "It",
+      "confidence": 92.540352,
+      "box": [
+        298,
+        1523,
+        45,
+        50
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Was",
+      "confidence": 58.942978,
+      "box": [
+        375,
+        1527,
+        74,
+        40
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "our",
+      "confidence": 95.739899,
+      "box": [
+        477,
+        1519,
+        70,
+        41
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "pleasure",
+      "confidence": 95.739899,
+      "box": [
+        574,
+        1500,
+        201,
+        61
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "serving",
+      "confidence": 96.745354,
+      "box": [
+        803,
+        1491,
+        172,
+        52
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "you:",
+      "confidence": 75.719902,
+      "box": [
+        1000,
+        1486,
+        91,
+        55
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Have",
+      "confidence": 95.220764,
+      "box": [
+        427,
+        1583,
+        100,
+        51
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "a",
+      "confidence": 95.220764,
+      "box": [
+        555,
+        1588,
+        23,
+        39
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "wonderful",
+      "confidence": 96.133995,
+      "box": [
+        605,
+        1562,
+        221,
+        62
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "day.",
+      "confidence": 95.924622,
+      "box": [
+        861,
+        1559,
+        91,
+        56
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 1
+    }
+  ]
+}

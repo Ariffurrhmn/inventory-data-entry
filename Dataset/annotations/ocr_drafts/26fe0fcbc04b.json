@@ -1,0 +1,187 @@
+{
+  "sample_id": "26fe0fcbc04b",
+  "source_path": "Dataset/Dataset-2/Purchase order/IMG_0969.HEIC",
+  "source_sha256": "700a22574dbbfa61966ad1f27ffcb03107d9464d5dc88366b19e8a1de052623a",
+  "prepared_image_path": "data/images/26fe0fcbc04b.jpg",
+  "prepared_image_sha256": "b5eece8f67910551b26c11954212a07398673f511d6a6119e49f758845e5e4b8",
+  "label": "delivery_note",
+  "split": "test",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "Packing Slip September 14, 2026\n\nFrom\n\nCrimson&Co Bs\n07 South Bishil Road\n1216\n\n",
+  "ocr_image_size": [
+    1800,
+    1235
+  ],
+  "words": [
+    {
+      "text": "Packing",
+      "confidence": 95.991371,
+      "box": [
+        123,
+        293,
+        180,
+        46
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Slip",
+      "confidence": 95.246887,
+      "box": [
+        318,
+        293,
+        83,
+        44
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "September",
+      "confidence": 87.493073,
+      "box": [
+        1531,
+        318,
+        150,
+        25
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "14,",
+      "confidence": 96.343193,
+      "box": [
+        1657,
+        300,
+        34,
+        49
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "2026",
+      "confidence": 79.167305,
+      "box": [
+        1694,
+        318,
+        53,
+        22
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "From",
+      "confidence": 95.004135,
+      "box": [
+        121,
+        384,
+        66,
+        22
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Crimson&Co",
+      "confidence": 61.788334,
+      "box": [
+        117,
+        407,
+        152,
+        36
+      ],
+      "block": 2,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "Bs",
+      "confidence": 24.60231,
+      "box": [
+        957,
+        384,
+        81,
+        29
+      ],
+      "block": 2,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "07",
+      "confidence": 96.297447,
+      "box": [
+        120,
+        441,
+        29,
+        21
+      ],
+      "block": 2,
+      "paragraph": 2,
+      "line": 2
+    },
+    {
+      "text": "South",
+      "confidence": 93.233788,
+      "box": [
+        157,
+        440,
+        70,
+        22
+      ],
+      "block": 2,
+      "paragraph": 2,
+      "line": 2
+    },
+    {
+      "text": "Bishil",
+      "confidence": 90.331993,
+      "box": [
+        234,
+        440,
+        63,
+        21
+      ],
+      "block": 2,
+      "paragraph": 2,
+      "line": 2
+    },
+    {
+      "text": "Road",
+      "confidence": 96.62072,
+      "box": [
+        305,
+        440,
+        62,
+        21
+      ],
+      "block": 2,
+      "paragraph": 2,
+      "line": 2
+    },
+    {
+      "text": "1216",
+      "confidence": 93.104813,
+      "box": [
+        121,
+        467,
+        58,
+        21
+      ],
+      "block": 2,
+      "paragraph": 2,
+      "line": 3
+    }
+  ]
+}

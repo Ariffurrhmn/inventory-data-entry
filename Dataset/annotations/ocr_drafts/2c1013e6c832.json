@@ -1,0 +1,83 @@
+{
+  "sample_id": "2c1013e6c832",
+  "source_path": "Dataset/Dataset-2/Delivery note challan/IMG_0989.HEIC",
+  "source_sha256": "27362aaac1f4c2fb9e3a9caaf0f57273186762a5c05ea1d5df1874e6b989cfd8",
+  "prepared_image_path": "data/images/2c1013e6c832.jpg",
+  "prepared_image_sha256": "2d6fb71e4af07d8e58ef51cdeae111aeaa9d9fd7054a5aef609dfa8b44787ccb",
+  "label": "delivery_note",
+  "split": "val",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "Chall po: De-tfo. Date: 22/07/04\n\n",
+  "ocr_image_size": [
+    1400,
+    1866
+  ],
+  "words": [
+    {
+      "text": "Chall",
+      "confidence": 27.884598,
+      "box": [
+        94,
+        274,
+        222,
+        96
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "po:",
+      "confidence": 74.847672,
+      "box": [
+        386,
+        270,
+        75,
+        127
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "De-tfo.",
+      "confidence": 2.31192,
+      "box": [
+        480,
+        295,
+        194,
+        76
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Date:",
+      "confidence": 52.201504,
+      "box": [
+        703,
+        318,
+        175,
+        56
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "22/07/04",
+      "confidence": 41.587906,
+      "box": [
+        902,
+        310,
+        303,
+        80
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    }
+  ]
+}

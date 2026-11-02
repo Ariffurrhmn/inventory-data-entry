@@ -1,0 +1,265 @@
+{
+  "sample_id": "f8a4d08ece59",
+  "source_path": "Dataset/Delivery_Note/delivery-challan-DC-014 (1).jpg",
+  "source_sha256": "ca1604f532aace351747b0f0260e85225988c6e681ff1b7343fa83974ae45bb8",
+  "prepared_image_path": "data/images/f8a4d08ece59.jpg",
+  "prepared_image_sha256": "04a83df660cf3484e11296d2598d4167338c39b5c379244a06092634cb826633",
+  "label": "delivery_note",
+  "split": "train",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "Description HSN/SAC Taxable\n\nGrand total 1,518.90\n\nAmount in words: One Thousand Five Hundred Eighteen Rupees and Ninety Paise Only\n\n",
+  "ocr_image_size": [
+    1400,
+    1979
+  ],
+  "words": [
+    {
+      "text": "Description",
+      "confidence": 96.548714,
+      "box": [
+        187,
+        558,
+        101,
+        25
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "HSN/SAC",
+      "confidence": 90.362915,
+      "box": [
+        432,
+        562,
+        79,
+        16
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Taxable",
+      "confidence": 96.808411,
+      "box": [
+        1051,
+        562,
+        66,
+        14
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Grand",
+      "confidence": 96.693253,
+      "box": [
+        903,
+        883,
+        52,
+        14
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "total",
+      "confidence": 96.981415,
+      "box": [
+        960,
+        883,
+        38,
+        14
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "1,518.90",
+      "confidence": 0.0,
+      "box": [
+        1173,
+        881,
+        113,
+        24
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Amount",
+      "confidence": 93.295975,
+      "box": [
+        124,
+        960,
+        66,
+        14
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "in",
+      "confidence": 93.295975,
+      "box": [
+        196,
+        960,
+        14,
+        13
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "words:",
+      "confidence": 96.243561,
+      "box": [
+        216,
+        960,
+        56,
+        14
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "One",
+      "confidence": 96.243561,
+      "box": [
+        278,
+        960,
+        33,
+        14
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Thousand",
+      "confidence": 95.931786,
+      "box": [
+        317,
+        960,
+        82,
+        14
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Five",
+      "confidence": 96.943726,
+      "box": [
+        405,
+        960,
+        33,
+        14
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Hundred",
+      "confidence": 96.768234,
+      "box": [
+        445,
+        960,
+        70,
+        14
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Eighteen",
+      "confidence": 96.75193,
+      "box": [
+        522,
+        960,
+        70,
+        18
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Rupees",
+      "confidence": 96.452103,
+      "box": [
+        599,
+        960,
+        61,
+        17
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "and",
+      "confidence": 96.874031,
+      "box": [
+        665,
+        960,
+        30,
+        14
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Ninety",
+      "confidence": 93.273796,
+      "box": [
+        702,
+        960,
+        53,
+        17
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Paise",
+      "confidence": 92.163399,
+      "box": [
+        761,
+        960,
+        43,
+        14
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Only",
+      "confidence": 94.542152,
+      "box": [
+        810,
+        960,
+        38,
+        17
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    }
+  ]
+}

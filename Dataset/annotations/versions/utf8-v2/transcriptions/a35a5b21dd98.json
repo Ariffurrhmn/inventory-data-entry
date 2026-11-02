@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "a35a5b21dd98",
+  "source_image": {
+    "path": "Dataset/Dataset-2/Purchase order/IMG_0971.HEIC",
+    "sha256": "c568306353412cf3f8ab0256994e2fd018914d3edb9340e20370f82ff20a5499"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/a35a5b21dd98.jpg",
+    "sha256": "036d73aad1057b9a56f7ff261f118a93e76eeb7f9e0ecc6d9d0291a5780e5fcd"
+  },
+  "classification": {
+    "label": "purchase_order",
+    "split": "train"
+  },
+  "transcription": {
+    "full_text": "From (buyer): Meghna Store, Badda, Dhaka.\nTo (supplier): Sonar Bangla Distributors.\nOrder No: ORD-9269\nOrder Date: 19/08/2026\nRequired By: 24/08/2026\nPlease supply the following goods:\nItem Qty Rate (Tk) Amount (Tk)\nToothpaste 100g 24 Tk 120 Tk 2,880\nAtta 2kg 24 Tk 130 Tk 3,120\nMiniket Rice 25kg 12 Tk 1,850 Tk 22,200\nBath Soap 100g 3 Tk 55 Tk 165\nTotal: Tk 28,365.\nAuthorized by: [signature]\nfor Meghna Store.",
+    "lines": [
+      "From (buyer): Meghna Store, Badda, Dhaka.",
+      "To (supplier): Sonar Bangla Distributors.",
+      "Order No: ORD-9269",
+      "Order Date: 19/08/2026",
+      "Required By: 24/08/2026",
+      "Please supply the following goods:",
+      "Item Qty Rate (Tk) Amount (Tk)",
+      "Toothpaste 100g 24 Tk 120 Tk 2,880",
+      "Atta 2kg 24 Tk 130 Tk 3,120",
+      "Miniket Rice 25kg 12 Tk 1,850 Tk 22,200",
+      "Bath Soap 100g 3 Tk 55 Tk 165",
+      "Total: Tk 28,365.",
+      "Authorized by: [signature]",
+      "for Meghna Store."
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [],
+    "notes": "Handwritten/printed entries visually transcribed; signatures marked, not interpreted."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/a35a5b21dd98.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

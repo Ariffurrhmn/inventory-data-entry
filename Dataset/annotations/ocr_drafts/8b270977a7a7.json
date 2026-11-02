@@ -1,0 +1,629 @@
+{
+  "sample_id": "8b270977a7a7",
+  "source_path": "Dataset/Dataset-2/Customer copy/IMG_0999.HEIC",
+  "source_sha256": "10c1bd96b09d319afdf385db53ea677fa68fef703c45c6b60de5088c380e5d6c",
+  "prepared_image_path": "data/images/8b270977a7a7.jpg",
+  "prepared_image_sha256": "a82cf8521b3309da0099905bd6e56866a5f87341269ba7c167e2429b02d42bb6",
+  "label": "customer_copy",
+  "split": "train",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "Karnaphuli Traders rh\n\nInvoice\n\nBill To / Customer:\n\nInvoice No: INV-6897.\nShapla Grocery, Savar, Dhaka.\n\nDate: 24/10/2026.\n\nRate (Tk) Amount (Tk)\n\nBath Soap 100g Tk 55\n\nTk 55\n\nExercise Book\n\nTk 45 Tk 180\n\nHand Wash 200ml Tk 140 Tk 1,680\n\nSutesn Oil 5L Tk 960\n\n2,875.\n\n",
+  "ocr_image_size": [
+    1400,
+    1866
+  ],
+  "words": [
+    {
+      "text": "Karnaphuli",
+      "confidence": 91.607536,
+      "box": [
+        76,
+        102,
+        454,
+        89
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Traders",
+      "confidence": 96.685936,
+      "box": [
+        560,
+        102,
+        308,
+        68
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "rh",
+      "confidence": 62.715969,
+      "box": [
+        1138,
+        48,
+        134,
+        146
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Invoice",
+      "confidence": 96.172234,
+      "box": [
+        71,
+        275,
+        201,
+        51
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Bill",
+      "confidence": 96.891983,
+      "box": [
+        86,
+        422,
+        60,
+        34
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "To",
+      "confidence": 93.143036,
+      "box": [
+        158,
+        423,
+        47,
+        31
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "/",
+      "confidence": 92.555511,
+      "box": [
+        215,
+        420,
+        19,
+        40
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Customer:",
+      "confidence": 95.945755,
+      "box": [
+        246,
+        422,
+        202,
+        32
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Invoice",
+      "confidence": 95.69059,
+      "box": [
+        861,
+        415,
+        137,
+        35
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "No:",
+      "confidence": 91.938087,
+      "box": [
+        1011,
+        417,
+        64,
+        31
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "INV-6897.",
+      "confidence": 90.357643,
+      "box": [
+        1092,
+        416,
+        183,
+        32
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Shapla",
+      "confidence": 92.509315,
+      "box": [
+        82,
+        484,
+        130,
+        43
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Grocery,",
+      "confidence": 93.30117,
+      "box": [
+        227,
+        486,
+        163,
+        40
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Savar,",
+      "confidence": 93.085083,
+      "box": [
+        403,
+        484,
+        113,
+        39
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Dhaka.",
+      "confidence": 96.651321,
+      "box": [
+        532,
+        480,
+        129,
+        37
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Date:",
+      "confidence": 96.85305,
+      "box": [
+        863,
+        483,
+        99,
+        34
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "24/10/2026.",
+      "confidence": 95.732399,
+      "box": [
+        978,
+        480,
+        211,
+        38
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Rate",
+      "confidence": 96.114372,
+      "box": [
+        780,
+        677,
+        80,
+        32
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "(Tk)",
+      "confidence": 96.114372,
+      "box": [
+        872,
+        674,
+        68,
+        39
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Amount",
+      "confidence": 96.719269,
+      "box": [
+        1064,
+        674,
+        147,
+        32
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "(Tk)",
+      "confidence": 96.136917,
+      "box": [
+        1220,
+        671,
+        68,
+        39
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Bath",
+      "confidence": 96.958153,
+      "box": [
+        77,
+        780,
+        83,
+        35
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Soap",
+      "confidence": 95.383835,
+      "box": [
+        173,
+        782,
+        91,
+        41
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "100g",
+      "confidence": 95.383835,
+      "box": [
+        278,
+        781,
+        86,
+        42
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Tk",
+      "confidence": 96.660301,
+      "box": [
+        809,
+        781,
+        39,
+        31
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "55",
+      "confidence": 96.623077,
+      "box": [
+        859,
+        781,
+        40,
+        32
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Tk",
+      "confidence": 96.465576,
+      "box": [
+        1183,
+        779,
+        39,
+        30
+      ],
+      "block": 12,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "55",
+      "confidence": 96.334732,
+      "box": [
+        1233,
+        780,
+        38,
+        29
+      ],
+      "block": 12,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Exercise",
+      "confidence": 96.335167,
+      "box": [
+        72,
+        889,
+        150,
+        34
+      ],
+      "block": 14,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Book",
+      "confidence": 96.497879,
+      "box": [
+        236,
+        887,
+        93,
+        35
+      ],
+      "block": 14,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Tk",
+      "confidence": 96.600098,
+      "box": [
+        807,
+        882,
+        38,
+        50
+      ],
+      "block": 16,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "45",
+      "confidence": 96.600098,
+      "box": [
+        861,
+        887,
+        41,
+        30
+      ],
+      "block": 16,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Tk",
+      "confidence": 96.369247,
+      "box": [
+        1185,
+        884,
+        40,
+        32
+      ],
+      "block": 16,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "180",
+      "confidence": 96.369247,
+      "box": [
+        1238,
+        886,
+        56,
+        29
+      ],
+      "block": 16,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Hand",
+      "confidence": 96.202019,
+      "box": [
+        68,
+        996,
+        94,
+        36
+      ],
+      "block": 19,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Wash",
+      "confidence": 96.565742,
+      "box": [
+        175,
+        994,
+        100,
+        37
+      ],
+      "block": 19,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "200ml",
+      "confidence": 88.493317,
+      "box": [
+        289,
+        995,
+        108,
+        37
+      ],
+      "block": 19,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Tk",
+      "confidence": 96.72905,
+      "box": [
+        813,
+        990,
+        43,
+        35
+      ],
+      "block": 19,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "140",
+      "confidence": 96.533447,
+      "box": [
+        866,
+        993,
+        60,
+        33
+      ],
+      "block": 19,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Tk",
+      "confidence": 94.07489,
+      "box": [
+        1162,
+        992,
+        40,
+        32
+      ],
+      "block": 19,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "1,680",
+      "confidence": 94.07489,
+      "box": [
+        1215,
+        993,
+        86,
+        36
+      ],
+      "block": 19,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Sutesn",
+      "confidence": 0.0,
+      "box": [
+        64,
+        1103,
+        158,
+        108
+      ],
+      "block": 20,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Oil",
+      "confidence": 74.203941,
+      "box": [
+        237,
+        1105,
+        52,
+        38
+      ],
+      "block": 20,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "5L",
+      "confidence": 91.445229,
+      "box": [
+        302,
+        1109,
+        42,
+        34
+      ],
+      "block": 20,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Tk",
+      "confidence": 96.511177,
+      "box": [
+        1196,
+        1103,
+        41,
+        33
+      ],
+      "block": 20,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "960",
+      "confidence": 96.511177,
+      "box": [
+        1248,
+        1104,
+        58,
+        31
+      ],
+      "block": 20,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "2,875.",
+      "confidence": 90.973289,
+      "box": [
+        1196,
+        1206,
+        131,
+        57
+      ],
+      "block": 21,
+      "paragraph": 1,
+      "line": 1
+    }
+  ]
+}

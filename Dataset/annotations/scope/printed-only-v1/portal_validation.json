@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-20",
+  "scope_counts": {
+    "eligible": 202,
+    "excluded_handwriting": 24,
+    "held_for_printed_region": 7,
+    "previously_excluded": 3
+  },
+  "backend_tests_passed": 8,
+  "browser_verified": [
+    "Default printed working set: 202 candidates",
+    "Flagged printed view: 35",
+    "Handwriting view: 24, save disabled",
+    "Printed crop/mask hold view: 7",
+    "Full history remains visible"
+  ],
+  "printed_review_export_records": 18,
+  "out_of_scope_reviews_withheld": 3,
+  "archived_review_history_retained": true,
+  "protected_original_files_unchanged": 147,
+  "new_reviews_created_by_this_scope_update": 0,
+  "new_model_training": false,
+  "new_model_evaluation": false
+}

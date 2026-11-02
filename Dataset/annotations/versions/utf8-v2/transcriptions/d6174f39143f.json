@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "d6174f39143f",
+  "source_image": {
+    "path": "Dataset/Delivery_Note/packing-slip-1111.png",
+    "sha256": "5e94481b49678227540d092e98ab496d263d308ea7ab3e2c95ee8b9a02b2997c"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/d6174f39143f.jpg",
+    "sha256": "aaa8e7e7ee7e9c88f0c433212c1dd8a4ea8a765ea56519390a62c0a1abdc31d2"
+  },
+  "classification": {
+    "label": "delivery_note",
+    "split": "test"
+  },
+  "transcription": {
+    "full_text": "Packing Slip\nOrder #1111\nOctober 1, 2026\nFrom\nCrimson&Co\n07 South Bishil Road\n1216\nBangladesh\nShip to\n[redacted]\nOrder Details\nQty Item\n1 Premium Ribbed Tank Top - Heritage Edition - M\n1 Natural Raw 12-Ounce Ecru Heavy Denim Jeans - 32\n1 The Ascot Check Boxy Shirt - L",
+    "lines": [
+      "Packing Slip",
+      "Order #1111",
+      "October 1, 2026",
+      "From",
+      "Crimson&Co",
+      "07 South Bishil Road",
+      "1216",
+      "Bangladesh",
+      "Ship to",
+      "[redacted]",
+      "Order Details",
+      "Qty Item",
+      "1 Premium Ribbed Tank Top - Heritage Edition - M",
+      "1 Natural Raw 12-Ounce Ecru Heavy Denim Jeans - 32",
+      "1 The Ascot Check Boxy Shirt - L"
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [
+      "Recipient details were blurred in the source and are not reconstructed."
+    ],
+    "notes": ""
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/d6174f39143f.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

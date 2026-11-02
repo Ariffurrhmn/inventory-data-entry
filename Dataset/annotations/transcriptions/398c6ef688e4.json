@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "398c6ef688e4",
+  "source_image": {
+    "path": "Dataset/Dataset-2/Delivery note challan/IMG_0992.HEIC",
+    "sha256": "d815706a92481f63cee5f5256cd7420c934f5991173530feaa20fbd69cd87cb0"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/398c6ef688e4.jpg",
+    "sha256": "180eeab99e09a484252eb3c4c78e46dd880ad60d4c80c03b9e234302b14d0f7b"
+  },
+  "classification": {
+    "label": "delivery_note",
+    "split": "train"
+  },
+  "transcription": {
+    "full_text": "Delivery Challan\nChallan No: DC-264.\nDate: 26/08/2026.\nFrom: Dhaka Trade House.\nTo: Tazin Super Shop, Savar, Dhaka.\nSl Item Description Qty.\n1 Soybean Oil 5L 12\n2 Tea 400g 4\n3 Salt 1kg 12\n4 Hand Wash 200ml 1\n5 Exercise Book 3\nReceived By: [signature]\nDelivered By:",
+    "lines": [
+      "Delivery Challan",
+      "Challan No: DC-264.",
+      "Date: 26/08/2026.",
+      "From: Dhaka Trade House.",
+      "To: Tazin Super Shop, Savar, Dhaka.",
+      "Sl Item Description Qty.",
+      "1 Soybean Oil 5L 12",
+      "2 Tea 400g 4",
+      "3 Salt 1kg 12",
+      "4 Hand Wash 200ml 1",
+      "5 Exercise Book 3",
+      "Received By: [signature]",
+      "Delivered By:"
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [],
+    "notes": "Individually visually reviewed photograph. Whitespace and table reading order normalized; signatures marked rather than inferred."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/398c6ef688e4.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

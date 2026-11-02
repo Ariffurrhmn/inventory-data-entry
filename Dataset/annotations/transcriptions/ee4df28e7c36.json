@@ -1,0 +1,66 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "ee4df28e7c36",
+  "source_image": {
+    "path": "Dataset/Purchase_Order/POPO-9.jpg",
+    "sha256": "cf0661c50dcb136cb8f9f05f3ecc19872171ff381e5cff8d6415eabd9073a32d"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/ee4df28e7c36.jpg",
+    "sha256": "fe331cf5597acd422ec0514ddd2e059a8a69d31b0767f98dfcfa3524c81b9dc5"
+  },
+  "classification": {
+    "label": "purchase_order",
+    "split": "val"
+  },
+  "transcription": {
+    "full_text": "ABC Company PURCHASE ORDER\n\nArifur Rahman\n\nMirpur-2,\nDhaka,\nBangladesh\nVendor Address: PO# PO-9\nXYZ Company Order Date Oct 05, 2026\nMirpur-12,\nDhaka, Delivery Date Oct 07, 2026\nBangladesh\nItem Description Qty Rate Amount\nCeramic Mug 2 2 4\nLED Desk Lamp 5 8.5 42.5\nBackpack 4 12 48\nCotton T-Shirt 3 7 21\nDenim Jeans 1 15 15\nSub Total 130.5\nPurchase Tax (10%) 13.05\nTOTAL $143.55\nNotes\n\nIt was great doing business with you.\n\nTerms & Conditions\n\nUpon accepting this purchase order, you hereby agree to the terms & conditions.",
+    "lines": [
+      "ABC Company PURCHASE ORDER",
+      "",
+      "Arifur Rahman",
+      "",
+      "Mirpur-2,",
+      "Dhaka,",
+      "Bangladesh",
+      "Vendor Address: PO# PO-9",
+      "XYZ Company Order Date Oct 05, 2026",
+      "Mirpur-12,",
+      "Dhaka, Delivery Date Oct 07, 2026",
+      "Bangladesh",
+      "Item Description Qty Rate Amount",
+      "Ceramic Mug 2 2 4",
+      "LED Desk Lamp 5 8.5 42.5",
+      "Backpack 4 12 48",
+      "Cotton T-Shirt 3 7 21",
+      "Denim Jeans 1 15 15",
+      "Sub Total 130.5",
+      "Purchase Tax (10%) 13.05",
+      "TOTAL $143.55",
+      "Notes",
+      "",
+      "It was great doing business with you.",
+      "",
+      "Terms & Conditions",
+      "",
+      "Upon accepting this purchase order, you hereby agree to the terms & conditions."
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [],
+    "notes": ""
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/ee4df28e7c36.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

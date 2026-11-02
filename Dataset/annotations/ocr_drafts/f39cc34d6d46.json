@@ -1,0 +1,863 @@
+{
+  "sample_id": "f39cc34d6d46",
+  "source_path": "Dataset/Customer_Copy/image_1208.jpg",
+  "source_sha256": "305655fd13d3e3e8360261d1b98a1cae6b31b6e1cdc56504a7bf9fa8c449e848",
+  "prepared_image_path": "data/images/f39cc34d6d46.jpg",
+  "prepared_image_sha256": "a31d265c79d38914d1424b93bb4108142704e4c1026749379721d9df19a0b27f",
+  "label": "customer_copy",
+  "split": "train",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "WELCOME TO\nVINELAND SHELL\n\nSHELL 57 542 985501\n8783 VINELAND RO SI1E0733\nORLANDO FL 92821\n\ndescr. qty amount\n\n<CUSTOMER COPY>\nINLD CR #07 4.2516 25.50\nSELF @ 5.889/ 6\n\nSub Total 25.50\nTax 0.00\nTOTAL 25.50\n\nCREDIT $ 25.50\n\nXXX XXX XXXX 7231 DISCOVER\nINVOICE: 444547 AUTH #: 021698\n\nTHANKS , COME AGAIN\nREG 0002 CSHE 012 DRE 01 TRAWE 26966\n03/21/16 19:43:54 ST# VINE!\n",
+  "ocr_image_size": [
+    1044,
+    1044
+  ],
+  "words": [
+    {
+      "text": "WELCOME",
+      "confidence": 95.907249,
+      "box": [
+        135,
+        5,
+        224,
+        34
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "TO",
+      "confidence": 95.132027,
+      "box": [
+        398,
+        12,
+        58,
+        27
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "VINELAND",
+      "confidence": 93.006088,
+      "box": [
+        137,
+        48,
+        255,
+        32
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "SHELL",
+      "confidence": 95.090576,
+      "box": [
+        430,
+        48,
+        151,
+        30
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "SHELL",
+      "confidence": 96.675903,
+      "box": [
+        138,
+        88,
+        81,
+        29
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "57",
+      "confidence": 89.253838,
+      "box": [
+        573,
+        84,
+        29,
+        27
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "542",
+      "confidence": 94.940201,
+      "box": [
+        621,
+        84,
+        45,
+        28
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "985501",
+      "confidence": 68.576935,
+      "box": [
+        685,
+        82,
+        89,
+        29
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "8783",
+      "confidence": 93.193382,
+      "box": [
+        139,
+        128,
+        65,
+        28
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "VINELAND",
+      "confidence": 81.321205,
+      "box": [
+        223,
+        132,
+        126,
+        29
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "RO",
+      "confidence": 95.435303,
+      "box": [
+        367,
+        132,
+        29,
+        27
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "SI1E0733",
+      "confidence": 27.329697,
+      "box": [
+        669,
+        123,
+        107,
+        27
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "ORLANDO",
+      "confidence": 93.632942,
+      "box": [
+        141,
+        168,
+        114,
+        31
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "FL",
+      "confidence": 89.17598,
+      "box": [
+        369,
+        172,
+        29,
+        27
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "92821",
+      "confidence": 44.858822,
+      "box": [
+        432,
+        169,
+        73,
+        27
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "descr.",
+      "confidence": 55.406387,
+      "box": [
+        196,
+        250,
+        90,
+        29
+      ],
+      "block": 3,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "qty",
+      "confidence": 52.252258,
+      "box": [
+        496,
+        249,
+        46,
+        28
+      ],
+      "block": 3,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "amount",
+      "confidence": 94.411148,
+      "box": [
+        689,
+        246,
+        85,
+        23
+      ],
+      "block": 3,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "<CUSTOMER",
+      "confidence": 90.995598,
+      "box": [
+        213,
+        330,
+        142,
+        27
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "COPY>",
+      "confidence": 91.533653,
+      "box": [
+        373,
+        329,
+        76,
+        26
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "INLD",
+      "confidence": 37.43528,
+      "box": [
+        200,
+        370,
+        60,
+        27
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "CR",
+      "confidence": 95.811874,
+      "box": [
+        278,
+        369,
+        30,
+        27
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "#07",
+      "confidence": 84.975159,
+      "box": [
+        327,
+        368,
+        45,
+        26
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "4.2516",
+      "confidence": 65.375931,
+      "box": [
+        500,
+        363,
+        93,
+        27
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "25.50",
+      "confidence": 90.867966,
+      "box": [
+        705,
+        358,
+        76,
+        27
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "SELF",
+      "confidence": 93.116615,
+      "box": [
+        359,
+        406,
+        61,
+        28
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "@",
+      "confidence": 74.630547,
+      "box": [
+        439,
+        405,
+        14,
+        27
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "5.889/",
+      "confidence": 69.411545,
+      "box": [
+        469,
+        403,
+        92,
+        28
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "6",
+      "confidence": 94.879692,
+      "box": [
+        579,
+        402,
+        15,
+        26
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Sub",
+      "confidence": 95.545723,
+      "box": [
+        439,
+        482,
+        46,
+        26
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Total",
+      "confidence": 95.42395,
+      "box": [
+        504,
+        481,
+        70,
+        26
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "25.50",
+      "confidence": 89.257172,
+      "box": [
+        709,
+        475,
+        73,
+        26
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Tax",
+      "confidence": 96.312218,
+      "box": [
+        535,
+        518,
+        44,
+        25
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "0.00",
+      "confidence": 96.614281,
+      "box": [
+        724,
+        513,
+        59,
+        27
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "TOTAL",
+      "confidence": 96.353256,
+      "box": [
+        348,
+        558,
+        149,
+        27
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "25.50",
+      "confidence": 61.926208,
+      "box": [
+        630,
+        552,
+        154,
+        29
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "CREDIT",
+      "confidence": 92.785568,
+      "box": [
+        488,
+        594,
+        92,
+        28
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "$",
+      "confidence": 57.899689,
+      "box": [
+        614,
+        593,
+        14,
+        29
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "25.50",
+      "confidence": 94.693672,
+      "box": [
+        711,
+        590,
+        76,
+        28
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "XXX",
+      "confidence": 2.793106,
+      "box": [
+        185,
+        685,
+        62,
+        26
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "XXX",
+      "confidence": 33.827507,
+      "box": [
+        266,
+        682,
+        62,
+        26
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "XXXX",
+      "confidence": 69.913956,
+      "box": [
+        347,
+        679,
+        61,
+        26
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "7231",
+      "confidence": 92.586502,
+      "box": [
+        427,
+        676,
+        57,
+        26
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "DISCOVER",
+      "confidence": 96.290306,
+      "box": [
+        631,
+        670,
+        125,
+        30
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "INVOICE:",
+      "confidence": 79.80114,
+      "box": [
+        153,
+        723,
+        123,
+        33
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "444547",
+      "confidence": 66.829964,
+      "box": [
+        299,
+        717,
+        94,
+        30
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "AUTH",
+      "confidence": 88.164825,
+      "box": [
+        537,
+        713,
+        63,
+        27
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "#:",
+      "confidence": 88.164825,
+      "box": [
+        617,
+        712,
+        25,
+        24
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "021698",
+      "confidence": 88.703712,
+      "box": [
+        664,
+        708,
+        92,
+        30
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "THANKS",
+      "confidence": 92.913315,
+      "box": [
+        150,
+        800,
+        183,
+        37
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": ",",
+      "confidence": 62.636517,
+      "box": [
+        361,
+        819,
+        7,
+        8
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "COME",
+      "confidence": 96.513229,
+      "box": [
+        397,
+        793,
+        105,
+        29
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "AGAIN",
+      "confidence": 92.061958,
+      "box": [
+        539,
+        788,
+        154,
+        30
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "REG",
+      "confidence": 0.0,
+      "box": [
+        183,
+        845,
+        64,
+        28
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "0002",
+      "confidence": 91.33461,
+      "box": [
+        267,
+        840,
+        63,
+        30
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "CSHE",
+      "confidence": 91.871124,
+      "box": [
+        349,
+        835,
+        61,
+        29
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "012",
+      "confidence": 94.020828,
+      "box": [
+        429,
+        832,
+        45,
+        26
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "DRE",
+      "confidence": 80.036865,
+      "box": [
+        492,
+        831,
+        45,
+        27
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "01",
+      "confidence": 92.29776,
+      "box": [
+        555,
+        829,
+        26,
+        26
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "TRAWE",
+      "confidence": 80.885696,
+      "box": [
+        619,
+        827,
+        76,
+        25
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "26966",
+      "confidence": 76.0914,
+      "box": [
+        715,
+        826,
+        77,
+        27
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "03/21/16",
+      "confidence": 93.890152,
+      "box": [
+        183,
+        881,
+        132,
+        34
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "19:43:54",
+      "confidence": 93.600716,
+      "box": [
+        354,
+        870,
+        120,
+        32
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "ST#",
+      "confidence": 90.77037,
+      "box": [
+        652,
+        867,
+        45,
+        27
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "VINE!",
+      "confidence": 66.492966,
+      "box": [
+        717,
+        865,
+        72,
+        27
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 3
+    }
+  ]
+}

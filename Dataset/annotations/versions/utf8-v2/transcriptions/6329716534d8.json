@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "6329716534d8",
+  "source_image": {
+    "path": "Dataset/Receipt/IMG_20250823_031803_jpg.rf.34405351a39fd281345d6d0597a696f4.jpg",
+    "sha256": "d95e85aea4cb91ac10fff168108ee68c9192369a27a3568a9316b3bbc66fbeca"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/6329716534d8.jpg",
+    "sha256": "ffb48ca3835e43bd7a040714ba92d9708681c638cca0a0de27c7974da9e1c067"
+  },
+  "classification": {
+    "label": "receipt",
+    "split": "val"
+  },
+  "transcription": {
+    "full_text": "PUREWASH LAUNDRY EXPRESS\n3 Plushies (M) 300.00\n4 Towel (L) 240.00\nTOTAL 540.00",
+    "lines": [
+      "PUREWASH LAUNDRY EXPRESS",
+      "3 Plushies (M) 300.00",
+      "4 Towel (L) 240.00",
+      "TOTAL 540.00"
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [],
+    "notes": ""
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/6329716534d8.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

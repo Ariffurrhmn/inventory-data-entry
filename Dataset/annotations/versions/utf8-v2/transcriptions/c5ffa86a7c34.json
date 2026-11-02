@@ -1,0 +1,56 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "c5ffa86a7c34",
+  "source_image": {
+    "path": "Dataset/Purchase_Order/Purchase Order 2.jpg",
+    "sha256": "73478caa07593d10c406365c20ed27c81cb111dfb6055610d2aa42e65f04106b"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/c5ffa86a7c34.jpg",
+    "sha256": "050ddbc828302312bc5d38336cceec23310650b812a516839a62b7d37aa37fc8"
+  },
+  "classification": {
+    "label": "purchase_order",
+    "split": "train"
+  },
+  "transcription": {
+    "full_text": "Arifur Rahman PURCHASE\nORDER\n\nPurchase Order # 2\n\nBill To: Ship To:\nRamisa Akhi Date: Oct 7, 2026\nRequired By: Oct 13, 2026\nItem Quantity Rate Amount\nPen 10 $0.15 $1.50\nNotebook 5 $1.20 $6.00\n1 $0.12 $0.12\nPencil Box 2 $1.80 $3.60\nStapler 3 $1.50 $4.50\nSubtotal: $15.72\nTax (0.15%): $0.02\n\nTotal: $15.74",
+    "lines": [
+      "Arifur Rahman PURCHASE",
+      "ORDER",
+      "",
+      "Purchase Order # 2",
+      "",
+      "Bill To: Ship To:",
+      "Ramisa Akhi Date: Oct 7, 2026",
+      "Required By: Oct 13, 2026",
+      "Item Quantity Rate Amount",
+      "Pen 10 $0.15 $1.50",
+      "Notebook 5 $1.20 $6.00",
+      "1 $0.12 $0.12",
+      "Pencil Box 2 $1.80 $3.60",
+      "Stapler 3 $1.50 $4.50",
+      "Subtotal: $15.72",
+      "Tax (0.15%): $0.02",
+      "",
+      "Total: $15.74"
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [],
+    "notes": "Third item description is visibly blank; no item name was invented."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/c5ffa86a7c34.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

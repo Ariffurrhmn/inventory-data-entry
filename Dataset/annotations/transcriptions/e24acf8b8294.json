@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "e24acf8b8294",
+  "source_image": {
+    "path": "Dataset/Receipt/cord-train-0133.jpg",
+    "sha256": "096c643a721dd1c43aafa9fdf0f31c0752b64c2de4a1697df54c056a423fda52"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/e24acf8b8294.jpg",
+    "sha256": "1c0a8b21bb6c31ec7cd2704d2f0ad0681fbceb2ff09fcb038745484d94cf2000"
+  },
+  "classification": {
+    "label": "receipt",
+    "split": "test"
+  },
+  "transcription": {
+    "full_text": "[redacted]\n1 TWIST STRAWBERRY DONUT 10,000\n1 TLJ CROQUETTE 17,000\n1 POTATO PEPPER BAGEL 16,000\nTOTAL 43,000\nCASH 50,000\nCHANGE 7,000\n[redacted]",
+    "lines": [
+      "[redacted]",
+      "1 TWIST STRAWBERRY DONUT 10,000",
+      "1 TLJ CROQUETTE 17,000",
+      "1 POTATO PEPPER BAGEL 16,000",
+      "TOTAL 43,000",
+      "CASH 50,000",
+      "CHANGE 7,000",
+      "[redacted]"
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [
+      "Source has pixelated/blurred regions marked [redacted]; these cannot be recovered from the image."
+    ],
+    "notes": "Full visible receipt content reviewed; original spelling, language, and amounts preserved."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/e24acf8b8294.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

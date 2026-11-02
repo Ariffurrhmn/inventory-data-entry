@@ -1,0 +1,239 @@
+{
+  "sample_id": "4ee98001cc91",
+  "source_path": "Dataset/Receipt/cord-train-0036.jpg",
+  "source_sha256": "166c0c16115b1126103f56c6b71288830555d0a21ee6760eb97bc90a59c1348f",
+  "prepared_image_path": "data/images/4ee98001cc91.jpg",
+  "prepared_image_sha256": "468623d9bb4668cd6e9b364440330f666b5cb0bdf496d2aab437d43d7b58819a",
+  "label": "receipt",
+  "split": "train",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "GONG GIBAB\nBO SSAM 320,000\nHAEMUL 85,000\n\nDENJANG\nJUIGAE\nMULNAENGMYO\n\nSub Total 510,000\nService 35,700\n\nTax\nDiscount\n\n",
+  "ocr_image_size": [
+    1400,
+    1866
+  ],
+  "words": [
+    {
+      "text": "GONG",
+      "confidence": 92.881027,
+      "box": [
+        284,
+        770,
+        137,
+        35
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "GIBAB",
+      "confidence": 89.550613,
+      "box": [
+        437,
+        769,
+        137,
+        35
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "BO",
+      "confidence": 92.717842,
+      "box": [
+        287,
+        829,
+        64,
+        34
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "SSAM",
+      "confidence": 90.708344,
+      "box": [
+        366,
+        828,
+        123,
+        39
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "320,000",
+      "confidence": 96.550987,
+      "box": [
+        902,
+        819,
+        166,
+        42
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "HAEMUL",
+      "confidence": 90.717094,
+      "box": [
+        289,
+        886,
+        184,
+        34
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "85,000",
+      "confidence": 96.180695,
+      "box": [
+        928,
+        876,
+        142,
+        42
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "DENJANG",
+      "confidence": 89.460854,
+      "box": [
+        291,
+        937,
+        207,
+        35
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "JUIGAE",
+      "confidence": 34.493172,
+      "box": [
+        289,
+        989,
+        149,
+        35
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "MULNAENGMYO",
+      "confidence": 89.933304,
+      "box": [
+        288,
+        1038,
+        349,
+        38
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Sub",
+      "confidence": 96.187828,
+      "box": [
+        276,
+        1175,
+        81,
+        35
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Total",
+      "confidence": 94.98275,
+      "box": [
+        372,
+        1174,
+        94,
+        36
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "510,000",
+      "confidence": 95.283493,
+      "box": [
+        913,
+        1169,
+        177,
+        45
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Service",
+      "confidence": 96.132767,
+      "box": [
+        272,
+        1229,
+        147,
+        53
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "35,700",
+      "confidence": 94.455238,
+      "box": [
+        942,
+        1232,
+        151,
+        45
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Tax",
+      "confidence": 96.289543,
+      "box": [
+        270,
+        1291,
+        72,
+        37
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Discount",
+      "confidence": 96.27282,
+      "box": [
+        266,
+        1344,
+        179,
+        37
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    }
+  ]
+}

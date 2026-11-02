@@ -1,0 +1,53 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "11b4da10d765",
+  "source_image": {
+    "path": "Dataset/Dataset-2/Purchase order/IMG_0979.HEIC",
+    "sha256": "c1497005cd9a279b7d23e3d2bb6cd28f704f6572c99f2f1a62799a594033c484"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/11b4da10d765.jpg",
+    "sha256": "1cef058a056bccde093bca90b3c4df4d83e392dc6e6f525fc6c48f71e3c9e4c4"
+  },
+  "classification": {
+    "label": "purchase_order",
+    "split": "test"
+  },
+  "transcription": {
+    "full_text": "Purchase Order\nP.O. No: PO-1405\nOrder Date: 05/09/2026\nSupplier\nSonar Bangla Distributors\nBill To / Ship To\nBismillah Store,\nMohammadpur, Dhaka.\nItem Qty Unit Price (Tk) Amount (Tk)\nToothpaste 100g 6 120 720\nShampoo 340ml 2 450 900\nExercise Book 20 45 900\nSugar 1kg 20 135 2,700\nGrand Total: Tk 5,220\nAuthorized Signature",
+    "lines": [
+      "Purchase Order",
+      "P.O. No: PO-1405",
+      "Order Date: 05/09/2026",
+      "Supplier",
+      "Sonar Bangla Distributors",
+      "Bill To / Ship To",
+      "Bismillah Store,",
+      "Mohammadpur, Dhaka.",
+      "Item Qty Unit Price (Tk) Amount (Tk)",
+      "Toothpaste 100g 6 120 720",
+      "Shampoo 340ml 2 450 900",
+      "Exercise Book 20 45 900",
+      "Sugar 1kg 20 135 2,700",
+      "Grand Total: Tk 5,220",
+      "Authorized Signature"
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [],
+    "notes": ""
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/11b4da10d765.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

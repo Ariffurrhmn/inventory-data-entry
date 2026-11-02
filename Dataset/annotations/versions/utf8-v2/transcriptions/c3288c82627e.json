@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "c3288c82627e",
+  "source_image": {
+    "path": "Dataset/Dataset-2/Delivery note challan/IMG_0955.HEIC",
+    "sha256": "1c9f4d6a33dd2cf7b3860be3e60a242d8909ee31aad42a77723970cc35a4fcc3"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/c3288c82627e.jpg",
+    "sha256": "b30eb4e92d0d3fc74a894a2a39eb39df1b86de14e2a6b87e1e63fc69d76261cd"
+  },
+  "classification": {
+    "label": "delivery_note",
+    "split": "train"
+  },
+  "transcription": {
+    "full_text": "DELIVERY CHALLAN\nABC Company\nChallan no. DC- 006\nDate 2026-09-04\nPlace of supply Maharashtra\nSELLER\nABC Company\nShop 12, Market Road, City — 400001\nCONSIGNEE\nHasna\nHouse- 36, Road- 7, Maharashtra\nVehicle no.: MH 01 AB 1234\nPurpose: Job work\n# Description HSN/SAC Qty Rate Taxable GST %\n1 Ballpoint pen 9056 200.00 ₹20.00 ₹4,000.00 5%\n2 A4Notebook 3546 30.00 ₹120.00 ₹3,600.00 4%\nTaxable value ₹7,600.00\nCGST ₹172.00\nSGST ₹172.00\nGrand total ₹7,944.00\nAmount in words: Seven Thousand Nine Hundred Forty Four Rupees Only\nNotes: Goods sent for the purpose stated above. Not a sale.",
+    "lines": [
+      "DELIVERY CHALLAN",
+      "ABC Company",
+      "Challan no. DC- 006",
+      "Date 2026-09-04",
+      "Place of supply Maharashtra",
+      "SELLER",
+      "ABC Company",
+      "Shop 12, Market Road, City — 400001",
+      "CONSIGNEE",
+      "Hasna",
+      "House- 36, Road- 7, Maharashtra",
+      "Vehicle no.: MH 01 AB 1234",
+      "Purpose: Job work",
+      "# Description HSN/SAC Qty Rate Taxable GST %",
+      "1 Ballpoint pen 9056 200.00 ₹20.00 ₹4,000.00 5%",
+      "2 A4Notebook 3546 30.00 ₹120.00 ₹3,600.00 4%",
+      "Taxable value ₹7,600.00",
+      "CGST ₹172.00",
+      "SGST ₹172.00",
+      "Grand total ₹7,944.00",
+      "Amount in words: Seven Thousand Nine Hundred Forty Four Rupees Only",
+      "Notes: Goods sent for the purpose stated above. Not a sale."
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [],
+    "notes": "Individually visually inspected photograph, including quantities, rates, totals and footer. Its visible content matches the reviewed digital form; reused checked text."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/c3288c82627e.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

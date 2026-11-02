@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "76cc99d39da4",
+  "source_image": {
+    "path": "Dataset/Dataset-2/Purchase order/IMG_0975.HEIC",
+    "sha256": "1ce6758b1b3a4c55123b762dfcf6595311798c74591202839e8d67204d0f11da"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/76cc99d39da4.jpg",
+    "sha256": "c008a22c1f76dc1b9d9e89cf948d589ec7bc9d64e8119a640c6a8c6af6fd626a"
+  },
+  "classification": {
+    "label": "purchase_order",
+    "split": "train"
+  },
+  "transcription": {
+    "full_text": "From: Al-Madina Traders, Badda, Dhaka.\nTo: Dhaka Trade House.\nOrder No: ORD-9953.\nOrder Date: 04/07/2026.\nRequired By: 09/07/2026.\nPlease supply the following goods:\nItem Qty Rate (Tk) Amount (Tk)\nMiniket Rice 25kg 24 Tk 1,850 Tk 44,400\nOnion 1kg 20 Tk 65 Tk 1,300\nTotal: Tk 45,700.\nAuthorized by [signature]\nfor Al-Madina Traders.",
+    "lines": [
+      "From: Al-Madina Traders, Badda, Dhaka.",
+      "To: Dhaka Trade House.",
+      "Order No: ORD-9953.",
+      "Order Date: 04/07/2026.",
+      "Required By: 09/07/2026.",
+      "Please supply the following goods:",
+      "Item Qty Rate (Tk) Amount (Tk)",
+      "Miniket Rice 25kg 24 Tk 1,850 Tk 44,400",
+      "Onion 1kg 20 Tk 65 Tk 1,300",
+      "Total: Tk 45,700.",
+      "Authorized by [signature]",
+      "for Al-Madina Traders."
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [],
+    "notes": ""
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/76cc99d39da4.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

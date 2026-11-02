@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "476131eff924",
+  "source_image": {
+    "path": "Dataset/Receipt/aaaa_jpg.rf.2e47601f234d7c54e2f7e015491d4cee.jpg",
+    "sha256": "dca4cfb6cfb6bae6e8014ec076528ed980bf8069c09d86a7d7ff6b27eee53c28"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/476131eff924.jpg",
+    "sha256": "43bd5b5fe19a30d856094c8e36af77f50c9b7745bbbc27e0b92c48036597a525"
+  },
+  "classification": {
+    "label": "receipt",
+    "split": "val"
+  },
+  "transcription": {
+    "full_text": "CoCo\n1 Spanish Latte 145.00\n1 Hot brewed Coffe 90.00\nTotal 235.00",
+    "lines": [
+      "CoCo",
+      "1 Spanish Latte 145.00",
+      "1 Hot brewed Coffe 90.00",
+      "Total 235.00"
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [],
+    "notes": "Visually transcribed from the image, preserving printed spelling and numeric inconsistencies."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/476131eff924.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

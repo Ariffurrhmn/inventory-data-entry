@@ -1,0 +1,58 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "c671941cf57c",
+  "source_image": {
+    "path": "Dataset/Delivery_Note/delivery-challan-DC-001.jpg",
+    "sha256": "bd3adc6d124039a9fa8aedb2bcf3416f20e4e7aa5a82ae6e70ab4e4a8a7b6776"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/c671941cf57c.jpg",
+    "sha256": "2b946ffed9ef4bd002a9accfb739beebad1f7f9276766d31324c36e937f4a92f"
+  },
+  "classification": {
+    "label": "delivery_note",
+    "split": "train"
+  },
+  "transcription": {
+    "full_text": "DELIVERY CHALLAN\nYour Business Name\nChallan no.: DC-001\nDate: 2026-09-04\nPlace of supply: Maharashtra\nSELLER\nYour Business Name\nShop 12, Market Road, City â€” 400001\nCONSIGNEE\nCustomer Name\nVehicle no.: MH01AB1234\nPurpose: Job work\n# Description HSN/SAC Qty Rate Taxable GST %\n1 Item / service 9983 1.00 â‚¹1,000.00 â‚¹1,000.00 18%\nTaxable value â‚¹1,000.00\nCGST â‚¹90.00\nSGST â‚¹90.00\nGrand total â‚¹1,180.00\nAmount in words: One Thousand One Hundred Eighty Rupees Only\nNotes: Goods sent for the purpose stated above. Not a sale.",
+    "lines": [
+      "DELIVERY CHALLAN",
+      "Your Business Name",
+      "Challan no.: DC-001",
+      "Date: 2026-09-04",
+      "Place of supply: Maharashtra",
+      "SELLER",
+      "Your Business Name",
+      "Shop 12, Market Road, City â€” 400001",
+      "CONSIGNEE",
+      "Customer Name",
+      "Vehicle no.: MH01AB1234",
+      "Purpose: Job work",
+      "# Description HSN/SAC Qty Rate Taxable GST %",
+      "1 Item / service 9983 1.00 â‚¹1,000.00 â‚¹1,000.00 18%",
+      "Taxable value â‚¹1,000.00",
+      "CGST â‚¹90.00",
+      "SGST â‚¹90.00",
+      "Grand total â‚¹1,180.00",
+      "Amount in words: One Thousand One Hundred Eighty Rupees Only",
+      "Notes: Goods sent for the purpose stated above. Not a sale."
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [],
+    "notes": "Original digital challan individually visually checked; table linearized."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/c671941cf57c.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

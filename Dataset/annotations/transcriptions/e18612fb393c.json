@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "e18612fb393c",
+  "source_image": {
+    "path": "Dataset/Dataset-2/Purchase order/IMG_0966.HEIC",
+    "sha256": "174e7c28f497321c849915b019b24cbbfcdeaeb9e7e5220ec4002da65847afa9"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/e18612fb393c.jpg",
+    "sha256": "b6ad8499f3170c632136f3ae0a8f83bdfea426a744c7bf9cf3031c7a373885b3"
+  },
+  "classification": {
+    "label": "delivery_note",
+    "split": "test"
+  },
+  "transcription": {
+    "full_text": "Packing Slip\nOrder #1111\nOctober 1, 2026\nFrom\nCrimson&Co\n07 South Bishil Road\n1216\nBangladesh\nShip to\n[redacted]\nOrder Details\nQty Item\n1 Premium Ribbed Tank Top - Heritage Edition - M\n1 Natural Raw 12-Ounce Ecru Heavy Denim Jeans - 32\n1 The Ascot Check Boxy Shirt - L",
+    "lines": [
+      "Packing Slip",
+      "Order #1111",
+      "October 1, 2026",
+      "From",
+      "Crimson&Co",
+      "07 South Bishil Road",
+      "1216",
+      "Bangladesh",
+      "Ship to",
+      "[redacted]",
+      "Order Details",
+      "Qty Item",
+      "1 Premium Ribbed Tank Top - Heritage Edition - M",
+      "1 Natural Raw 12-Ounce Ecru Heavy Denim Jeans - 32",
+      "1 The Ascot Check Boxy Shirt - L"
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [
+      "Recipient details were blurred in the source and are not reconstructed."
+    ],
+    "notes": "Photograph visually inspected; visible content matches the checked digital counterpart. Reused its text after comparison."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/e18612fb393c.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

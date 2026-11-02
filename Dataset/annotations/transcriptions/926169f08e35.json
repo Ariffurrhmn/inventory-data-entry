@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "926169f08e35",
+  "source_image": {
+    "path": "Dataset/Dataset-2/Delivery note challan/IMG_0957.HEIC",
+    "sha256": "7170f82542e1f606cd7fb6cebe8bcbebadc103c7e98779fb29936a186e354ee0"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/926169f08e35.jpg",
+    "sha256": "29931fa42a89a651229dd4fb9504dfb00bdf68559c9820c19c95a2410a319a44"
+  },
+  "classification": {
+    "label": "delivery_note",
+    "split": "train"
+  },
+  "transcription": {
+    "full_text": "DELIVERY CHALLAN\nABC Company\nChallan no.: DC-004\nDate: 2026-09-04\nPlace of supply: Maharashtra\nSELLER\nABC Company\nShop 12, Market Road, City â€” 400001\nCONSIGNEE\nRajib\nHouse-56, Road-3, Maharashtra\nVehicle no.: MH01AB1234\nPurpose: Job work\n# Description HSN/SAC Qty Rate Taxable GST %\n1 Shoes 9087 15.00 â‚¹1,800.00 â‚¹27,000.00 15%\n2 Socks 3546 20.00 â‚¹200.00 â‚¹4,000.00 3%\nTaxable value â‚¹31,000.00\nCGST â‚¹2,085.00\nSGST â‚¹2,085.00\nGrand total â‚¹35,170.00\nAmount in words: Thirty Five Thousand One Hundred Seventy Rupees Only\nNotes: Goods sent for the purpose stated above. Not a sale.",
+    "lines": [
+      "DELIVERY CHALLAN",
+      "ABC Company",
+      "Challan no.: DC-004",
+      "Date: 2026-09-04",
+      "Place of supply: Maharashtra",
+      "SELLER",
+      "ABC Company",
+      "Shop 12, Market Road, City â€” 400001",
+      "CONSIGNEE",
+      "Rajib",
+      "House-56, Road-3, Maharashtra",
+      "Vehicle no.: MH01AB1234",
+      "Purpose: Job work",
+      "# Description HSN/SAC Qty Rate Taxable GST %",
+      "1 Shoes 9087 15.00 â‚¹1,800.00 â‚¹27,000.00 15%",
+      "2 Socks 3546 20.00 â‚¹200.00 â‚¹4,000.00 3%",
+      "Taxable value â‚¹31,000.00",
+      "CGST â‚¹2,085.00",
+      "SGST â‚¹2,085.00",
+      "Grand total â‚¹35,170.00",
+      "Amount in words: Thirty Five Thousand One Hundred Seventy Rupees Only",
+      "Notes: Goods sent for the purpose stated above. Not a sale."
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [],
+    "notes": "Individually visually reviewed photograph. Whitespace and table reading order normalized; signatures marked rather than inferred."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/926169f08e35.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

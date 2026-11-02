@@ -1,0 +1,64 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "e5a5a0f1a894",
+  "source_image": {
+    "path": "Dataset/Purchase_Order/POPO-8.jpg",
+    "sha256": "1d6cc07153ef090f592d6002578f0558a70a9edfaf9dcf24534a96eeb4607bc2"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/e5a5a0f1a894.jpg",
+    "sha256": "c200e3fa105f75693c6e15936dec6ae9c314f1f46326b736906c25ca607ab528"
+  },
+  "classification": {
+    "label": "purchase_order",
+    "split": "val"
+  },
+  "transcription": {
+    "full_text": "ABC Company PURCHASE ORDER\n\nArifur Rahman\n\nMirpur-2,\nDhaka,\nBangladesh\nVendor Address: PO# PO-8\nXYZ Company Order Date Oct 04, 2026\nMirpu-12,\nDhaka, Delivery Date Oct 06, 2026\nBangladesh\nItem Description Qty Rate Amount\nCeramic Mug 2 2 4\nLED Desk Lamp 1 8.5 8.5\nBackpack 1 12 12\nSub Total 24.5\nPurchase Tax (10%) 2.45\nTOTAL $26.95\nNotes\n\nIt was great doing business with you.\n\nTerms & Conditions\n\nUpon accepting this purchase order, you hereby agree to the terms & conditions.",
+    "lines": [
+      "ABC Company PURCHASE ORDER",
+      "",
+      "Arifur Rahman",
+      "",
+      "Mirpur-2,",
+      "Dhaka,",
+      "Bangladesh",
+      "Vendor Address: PO# PO-8",
+      "XYZ Company Order Date Oct 04, 2026",
+      "Mirpu-12,",
+      "Dhaka, Delivery Date Oct 06, 2026",
+      "Bangladesh",
+      "Item Description Qty Rate Amount",
+      "Ceramic Mug 2 2 4",
+      "LED Desk Lamp 1 8.5 8.5",
+      "Backpack 1 12 12",
+      "Sub Total 24.5",
+      "Purchase Tax (10%) 2.45",
+      "TOTAL $26.95",
+      "Notes",
+      "",
+      "It was great doing business with you.",
+      "",
+      "Terms & Conditions",
+      "",
+      "Upon accepting this purchase order, you hereby agree to the terms & conditions."
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [],
+    "notes": ""
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/e5a5a0f1a894.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

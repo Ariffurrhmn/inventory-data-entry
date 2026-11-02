@@ -1,0 +1,746 @@
+{
+  "sample_id": "85bbff3bf001",
+  "source_path": "Dataset/Dataset-2/Purchase order/IMG_0983.HEIC",
+  "source_sha256": "77fc9e51ff9654850212d10055f13cdeac27c1e30e4e0a7bdab391fdfd86ad47",
+  "prepared_image_path": "data/images/85bbff3bf001.jpg",
+  "prepared_image_sha256": "0770a0de13bbe17c1ee272053ae5c7532a4e3179132222537382396b4b8a0e7b",
+  "label": "purchase_order",
+  "split": "train",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "Suraiya Rahman PURCHASE\nORDER\n\nPurchase Order # 7\n\nBill To: Ship To:\nBillal Khan Rajib Hossain Date Oct 9, 2028\nRequired By: Oct 10, 2026\nCeramic Mug 20 $2.80 $56.00\nLED Desk Lamp 10 $8.50 $85.00\nBackpack 1 $12.00 $60.00\nT-Shirt 10 $2.00 $20.00\nDenim Jeans 10 $15.00 $150.00\nSubtotal: $371.00\nTax (0.25%): $0.93\n\nTotal: $371.93\n",
+  "ocr_image_size": [
+    1800,
+    1729
+  ],
+  "words": [
+    {
+      "text": "Suraiya",
+      "confidence": 40.424492,
+      "box": [
+        130,
+        61,
+        102,
+        28
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Rahman",
+      "confidence": 80.535667,
+      "box": [
+        243,
+        62,
+        111,
+        23
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "PURCHASE",
+      "confidence": 95.157478,
+      "box": [
+        1236,
+        79,
+        441,
+        68
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "ORDER",
+      "confidence": 96.473724,
+      "box": [
+        1392,
+        175,
+        287,
+        65
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Purchase",
+      "confidence": 96.479202,
+      "box": [
+        1370,
+        265,
+        143,
+        27
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Order",
+      "confidence": 91.967194,
+      "box": [
+        1527,
+        268,
+        88,
+        26
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "#",
+      "confidence": 91.66172,
+      "box": [
+        1627,
+        271,
+        17,
+        24
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "7",
+      "confidence": 96.749611,
+      "box": [
+        1658,
+        271,
+        15,
+        24
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Bill",
+      "confidence": 96.376007,
+      "box": [
+        120,
+        342,
+        35,
+        21
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "To:",
+      "confidence": 96.441536,
+      "box": [
+        167,
+        342,
+        38,
+        21
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Ship",
+      "confidence": 96.749245,
+      "box": [
+        521,
+        346,
+        56,
+        27
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "To:",
+      "confidence": 67.388351,
+      "box": [
+        587,
+        347,
+        39,
+        21
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Billal",
+      "confidence": 91.637909,
+      "box": [
+        118,
+        385,
+        68,
+        24
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Khan",
+      "confidence": 96.598343,
+      "box": [
+        195,
+        386,
+        70,
+        23
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Rajib",
+      "confidence": 53.971733,
+      "box": [
+        520,
+        390,
+        69,
+        29
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Hossain",
+      "confidence": 81.409172,
+      "box": [
+        599,
+        392,
+        111,
+        25
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Date",
+      "confidence": 96.507912,
+      "box": [
+        1289,
+        414,
+        56,
+        21
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Oct",
+      "confidence": 94.702026,
+      "box": [
+        1515,
+        416,
+        43,
+        23
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "9,",
+      "confidence": 94.702026,
+      "box": [
+        1568,
+        418,
+        22,
+        25
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "2028",
+      "confidence": 95.623894,
+      "box": [
+        1600,
+        418,
+        63,
+        24
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Required",
+      "confidence": 95.714775,
+      "box": [
+        1187,
+        475,
+        114,
+        28
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "By:",
+      "confidence": 94.862068,
+      "box": [
+        1313,
+        477,
+        39,
+        27
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Oct",
+      "confidence": 96.712051,
+      "box": [
+        1500,
+        479,
+        44,
+        23
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "10,",
+      "confidence": 96.712051,
+      "box": [
+        1555,
+        480,
+        36,
+        25
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "2026",
+      "confidence": 95.994019,
+      "box": [
+        1602,
+        481,
+        63,
+        24
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Ceramic",
+      "confidence": 96.222557,
+      "box": [
+        97,
+        701,
+        115,
+        25
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "Mug",
+      "confidence": 96.758392,
+      "box": [
+        222,
+        702,
+        58,
+        30
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "20",
+      "confidence": 95.566185,
+      "box": [
+        1081,
+        708,
+        36,
+        39
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "$2.80",
+      "confidence": 95.933334,
+      "box": [
+        1368,
+        711,
+        77,
+        39
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "$56.00",
+      "confidence": 96.597519,
+      "box": [
+        1575,
+        713,
+        98,
+        39
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "LED",
+      "confidence": 96.253769,
+      "box": [
+        95,
+        750,
+        59,
+        23
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "Desk",
+      "confidence": 96.253769,
+      "box": [
+        163,
+        751,
+        69,
+        23
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "Lamp",
+      "confidence": 95.758209,
+      "box": [
+        242,
+        751,
+        78,
+        31
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "10",
+      "confidence": 96.871277,
+      "box": [
+        1087,
+        766,
+        30,
+        25
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "$8.50",
+      "confidence": 95.846352,
+      "box": [
+        1368,
+        763,
+        77,
+        41
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "$85.00",
+      "confidence": 96.216324,
+      "box": [
+        1576,
+        766,
+        97,
+        40
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "Backpack",
+      "confidence": 96.003365,
+      "box": [
+        90,
+        797,
+        142,
+        39
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "1",
+      "confidence": 59.498924,
+      "box": [
+        1084,
+        817,
+        17,
+        25
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "$12.00",
+      "confidence": 96.063683,
+      "box": [
+        1354,
+        819,
+        89,
+        26
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "$60.00",
+      "confidence": 96.722359,
+      "box": [
+        1576,
+        816,
+        94,
+        39
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "T-Shirt",
+      "confidence": 95.337799,
+      "box": [
+        91,
+        846,
+        96,
+        44
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 7
+    },
+    {
+      "text": "10",
+      "confidence": 96.342171,
+      "box": [
+        1086,
+        870,
+        30,
+        24
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 7
+    },
+    {
+      "text": "$2.00",
+      "confidence": 96.94809,
+      "box": [
+        1368,
+        864,
+        77,
+        45
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 7
+    },
+    {
+      "text": "$20.00",
+      "confidence": 95.828644,
+      "box": [
+        1577,
+        866,
+        93,
+        44
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 7
+    },
+    {
+      "text": "Denim",
+      "confidence": 96.692696,
+      "box": [
+        91,
+        906,
+        91,
+        25
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 8
+    },
+    {
+      "text": "Jeans",
+      "confidence": 95.388664,
+      "box": [
+        190,
+        908,
+        84,
+        24
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 8
+    },
+    {
+      "text": "10",
+      "confidence": 96.350716,
+      "box": [
+        1086,
+        920,
+        29,
+        25
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 8
+    },
+    {
+      "text": "$15.00",
+      "confidence": 96.332115,
+      "box": [
+        1353,
+        922,
+        90,
+        26
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 8
+    },
+    {
+      "text": "$150.00",
+      "confidence": 96.103233,
+      "box": [
+        1565,
+        924,
+        106,
+        26
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 8
+    },
+    {
+      "text": "Subtotal:",
+      "confidence": 96.230614,
+      "box": [
+        1236,
+        1111,
+        114,
+        39
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 9
+    },
+    {
+      "text": "$371.00",
+      "confidence": 96.022186,
+      "box": [
+        1565,
+        1118,
+        107,
+        27
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 9
+    },
+    {
+      "text": "Tax",
+      "confidence": 96.489075,
+      "box": [
+        1184,
+        1181,
+        46,
+        23
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 10
+    },
+    {
+      "text": "(0.25%):",
+      "confidence": 95.902191,
+      "box": [
+        1242,
+        1183,
+        108,
+        26
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 10
+    },
+    {
+      "text": "$0.93",
+      "confidence": 96.728851,
+      "box": [
+        1600,
+        1185,
+        73,
+        27
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 10
+    },
+    {
+      "text": "Total:",
+      "confidence": 94.849503,
+      "box": [
+        1280,
+        1247,
+        70,
+        24
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "$371.93",
+      "confidence": 95.302109,
+      "box": [
+        1566,
+        1249,
+        106,
+        28
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    }
+  ]
+}

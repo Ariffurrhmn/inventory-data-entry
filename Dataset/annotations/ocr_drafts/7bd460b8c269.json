@@ -1,0 +1,863 @@
+{
+  "sample_id": "7bd460b8c269",
+  "source_path": "Dataset/Receipt/cord-train-0075.jpg",
+  "source_sha256": "cd03271b75e1d87422474ee97178f3e400bd8c7fd9b804d7d2d4fa561904a207",
+  "prepared_image_path": "data/images/7bd460b8c269.jpg",
+  "prepared_image_sha256": "029ec635aace590319bc3adbd5d7210d44e6a792362b7aa18a6a0d99fe19c4a8",
+  "label": "receipt",
+  "split": "train",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "jot\n\n00\n\non a eh i de ed £5 te ht\n\ndel\n\n000\n\n(3\nFai 2°\n\nKN HNY 1\n\nmaT\n\ni CHIC\n\nFRIED\n\nwhitotal\nBris\n\no\nbs\n\n291,975\n\n~~\na)\n\n1 2370\n\n14\n\n5\n\nX\nko soe ne nS. i\n\n1:\n\n-\n\non ot Ao\n\n. wn i oe i a\n}; Le me i 7 —\nso p\n—-— E .\na.\n-\nGi\n",
+  "ocr_image_size": [
+    1400,
+    2100
+  ],
+  "words": [
+    {
+      "text": "jot",
+      "confidence": 0.0,
+      "box": [
+        666,
+        502,
+        14,
+        60
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "00",
+      "confidence": 67.342506,
+      "box": [
+        1090,
+        1121,
+        47,
+        39
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "on",
+      "confidence": 16.931976,
+      "box": [
+        183,
+        1237,
+        43,
+        6
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "a",
+      "confidence": 25.747559,
+      "box": [
+        260,
+        1234,
+        10,
+        6
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "eh",
+      "confidence": 19.43557,
+      "box": [
+        286,
+        1212,
+        16,
+        35
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "i",
+      "confidence": 26.136925,
+      "box": [
+        310,
+        1231,
+        36,
+        6
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "de",
+      "confidence": 27.457764,
+      "box": [
+        450,
+        1227,
+        120,
+        8
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "ed",
+      "confidence": 27.817032,
+      "box": [
+        578,
+        1227,
+        41,
+        4
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "£5",
+      "confidence": 26.832954,
+      "box": [
+        628,
+        1212,
+        16,
+        35
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "te",
+      "confidence": 37.853313,
+      "box": [
+        803,
+        1226,
+        158,
+        6
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "ht",
+      "confidence": 37.795509,
+      "box": [
+        981,
+        1212,
+        41,
+        35
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "del",
+      "confidence": 0.0,
+      "box": [
+        989,
+        1125,
+        96,
+        43
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "000",
+      "confidence": 34.599228,
+      "box": [
+        849,
+        1118,
+        87,
+        48
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "(3",
+      "confidence": 39.825508,
+      "box": [
+        794,
+        1119,
+        42,
+        16
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Fai",
+      "confidence": 53.556938,
+      "box": [
+        792,
+        1135,
+        63,
+        22
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "2°",
+      "confidence": 70.635468,
+      "box": [
+        838,
+        1131,
+        20,
+        38
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "KN",
+      "confidence": 41.572605,
+      "box": [
+        502,
+        1121,
+        44,
+        36
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "HNY",
+      "confidence": 41.572605,
+      "box": [
+        574,
+        1120,
+        68,
+        37
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "1",
+      "confidence": 88.13427,
+      "box": [
+        674,
+        1121,
+        13,
+        36
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "maT",
+      "confidence": 38.46624,
+      "box": [
+        406,
+        1120,
+        66,
+        11
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "i",
+      "confidence": 50.219055,
+      "box": [
+        372,
+        1133,
+        5,
+        20
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "CHIC",
+      "confidence": 55.558563,
+      "box": [
+        406,
+        1121,
+        92,
+        42
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "FRIED",
+      "confidence": 57.638153,
+      "box": [
+        256,
+        1122,
+        121,
+        40
+      ],
+      "block": 12,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "whitotal",
+      "confidence": 8.915062,
+      "box": [
+        382,
+        1249,
+        163,
+        39
+      ],
+      "block": 13,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Bris",
+      "confidence": 5.919106,
+      "box": [
+        384,
+        1315,
+        102,
+        39
+      ],
+      "block": 13,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "o",
+      "confidence": 65.932167,
+      "box": [
+        357,
+        1252,
+        20,
+        16
+      ],
+      "block": 14,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "bs",
+      "confidence": 29.480827,
+      "box": [
+        358,
+        1268,
+        18,
+        21
+      ],
+      "block": 14,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "291,975",
+      "confidence": 93.948624,
+      "box": [
+        965,
+        1249,
+        171,
+        49
+      ],
+      "block": 15,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "~~",
+      "confidence": 32.46051,
+      "box": [
+        359,
+        1317,
+        20,
+        10
+      ],
+      "block": 16,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "a)",
+      "confidence": 16.232864,
+      "box": [
+        358,
+        1330,
+        20,
+        25
+      ],
+      "block": 16,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "1",
+      "confidence": 20.990524,
+      "box": [
+        1047,
+        1340,
+        10,
+        21
+      ],
+      "block": 17,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "2370",
+      "confidence": 51.43824,
+      "box": [
+        1068,
+        1314,
+        68,
+        47
+      ],
+      "block": 17,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "14",
+      "confidence": 93.316811,
+      "box": [
+        993,
+        1314,
+        42,
+        37
+      ],
+      "block": 18,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "5",
+      "confidence": 78.62545,
+      "box": [
+        530,
+        1325,
+        19,
+        26
+      ],
+      "block": 19,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "X",
+      "confidence": 0.0,
+      "box": [
+        408,
+        1525,
+        20,
+        26
+      ],
+      "block": 20,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "ko",
+      "confidence": 30.493904,
+      "box": [
+        362,
+        1591,
+        161,
+        14
+      ],
+      "block": 20,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "soe",
+      "confidence": 27.619026,
+      "box": [
+        541,
+        1590,
+        59,
+        6
+      ],
+      "block": 20,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "ne",
+      "confidence": 45.001892,
+      "box": [
+        647,
+        1589,
+        45,
+        6
+      ],
+      "block": 20,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "nS.",
+      "confidence": 31.559502,
+      "box": [
+        710,
+        1589,
+        108,
+        6
+      ],
+      "block": 20,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "i",
+      "confidence": 35.223022,
+      "box": [
+        882,
+        1589,
+        100,
+        6
+      ],
+      "block": 20,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "1:",
+      "confidence": 46.650658,
+      "box": [
+        367,
+        1527,
+        22,
+        27
+      ],
+      "block": 21,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "-",
+      "confidence": 47.720695,
+      "box": [
+        361,
+        1516,
+        18,
+        10
+      ],
+      "block": 22,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "on",
+      "confidence": 26.589211,
+      "box": [
+        968,
+        1998,
+        160,
+        12
+      ],
+      "block": 26,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "ot",
+      "confidence": 36.639252,
+      "box": [
+        1062,
+        1989,
+        17,
+        28
+      ],
+      "block": 26,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Ao",
+      "confidence": 37.235611,
+      "box": [
+        1099,
+        1989,
+        33,
+        28
+      ],
+      "block": 26,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": ".",
+      "confidence": 18.227074,
+      "box": [
+        719,
+        2000,
+        3,
+        4
+      ],
+      "block": 28,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "wn",
+      "confidence": 33.297302,
+      "box": [
+        798,
+        2007,
+        46,
+        7
+      ],
+      "block": 28,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "i",
+      "confidence": 31.552948,
+      "box": [
+        830,
+        1991,
+        11,
+        31
+      ],
+      "block": 28,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "oe",
+      "confidence": 41.382767,
+      "box": [
+        850,
+        1991,
+        17,
+        31
+      ],
+      "block": 28,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "i",
+      "confidence": 16.409683,
+      "box": [
+        874,
+        2006,
+        14,
+        6
+      ],
+      "block": 28,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "a",
+      "confidence": 18.439865,
+      "box": [
+        897,
+        2005,
+        18,
+        6
+      ],
+      "block": 28,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "};",
+      "confidence": 0.0,
+      "box": [
+        178,
+        2005,
+        11,
+        31
+      ],
+      "block": 28,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Le",
+      "confidence": 37.668633,
+      "box": [
+        475,
+        2011,
+        77,
+        17
+      ],
+      "block": 28,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "me",
+      "confidence": 40.528301,
+      "box": [
+        588,
+        2010,
+        17,
+        9
+      ],
+      "block": 28,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "i",
+      "confidence": 48.252037,
+      "box": [
+        637,
+        2006,
+        16,
+        11
+      ],
+      "block": 28,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "7",
+      "confidence": 33.359604,
+      "box": [
+        705,
+        2005,
+        35,
+        17
+      ],
+      "block": 28,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "—",
+      "confidence": 2.673347,
+      "box": [
+        848,
+        2007,
+        19,
+        8
+      ],
+      "block": 28,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "so",
+      "confidence": 26.487282,
+      "box": [
+        366,
+        2025,
+        19,
+        31
+      ],
+      "block": 28,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "p",
+      "confidence": 0.917068,
+      "box": [
+        635,
+        2039,
+        3,
+        3
+      ],
+      "block": 28,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "—-—",
+      "confidence": 42.600399,
+      "box": [
+        320,
+        2031,
+        44,
+        31
+      ],
+      "block": 28,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "E",
+      "confidence": 0.0,
+      "box": [
+        526,
+        2049,
+        2,
+        2
+      ],
+      "block": 28,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": ".",
+      "confidence": 0.0,
+      "box": [
+        712,
+        2047,
+        2,
+        2
+      ],
+      "block": 28,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "a.",
+      "confidence": 22.236679,
+      "box": [
+        250,
+        2051,
+        66,
+        18
+      ],
+      "block": 28,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "-",
+      "confidence": 51.226543,
+      "box": [
+        219,
+        2063,
+        22,
+        11
+      ],
+      "block": 28,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "Gi",
+      "confidence": 19.281067,
+      "box": [
+        168,
+        2068,
+        48,
+        18
+      ],
+      "block": 28,
+      "paragraph": 1,
+      "line": 7
+    }
+  ]
+}

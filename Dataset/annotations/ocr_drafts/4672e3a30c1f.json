@@ -1,0 +1,759 @@
+{
+  "sample_id": "4672e3a30c1f",
+  "source_path": "Dataset/Purchase_Order/Purchase Order 5.jpg",
+  "source_sha256": "c54fc7a4e59eb0af8154bf15893146088d19c616a842ca77d9d50a3a786ac52e",
+  "prepared_image_path": "data/images/4672e3a30c1f.jpg",
+  "prepared_image_sha256": "4f1ad7fd5aa840d9f82305c41d7892bb4503142e0374ee27ebd52995caddbd1d",
+  "label": "purchase_order",
+  "split": "train",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "Suraiya Rahman P U RC HAS E\nORDER\n\nPurchase Order # 5\n\nBill To: Ship To:\nTithy Khan Usha Islam Date: Oct 7, 2026\nRequired By: Oct 12, 2026\nItem Rate Amount\nEarphone 10 $4.50 $45.00\nWater Bottle 5 $3.50 $17.50\nMug 2 $2.80 $5.60\nLED Lamp 5 $8.50 $42.50\n\nSubtotal: $110.60\nTax (0.25%): $0.28\nTotal: $110.88\n",
+  "ocr_image_size": [
+    1400,
+    1811
+  ],
+  "words": [
+    {
+      "text": "Suraiya",
+      "confidence": 92.055687,
+      "box": [
+        111,
+        61,
+        78,
+        22
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Rahman",
+      "confidence": 95.983284,
+      "box": [
+        198,
+        61,
+        85,
+        17
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "P",
+      "confidence": 89.381668,
+      "box": [
+        969,
+        63,
+        33,
+        47
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "U",
+      "confidence": 65.37809,
+      "box": [
+        1011,
+        63,
+        35,
+        48
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "RC",
+      "confidence": 95.856781,
+      "box": [
+        1057,
+        63,
+        83,
+        48
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "HAS",
+      "confidence": 95.67804,
+      "box": [
+        1148,
+        63,
+        122,
+        48
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "E",
+      "confidence": 91.739616,
+      "box": [
+        1279,
+        63,
+        33,
+        47
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "ORDER",
+      "confidence": 96.105858,
+      "box": [
+        1089,
+        138,
+        224,
+        49
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Purchase",
+      "confidence": 96.585205,
+      "box": [
+        1072,
+        210,
+        111,
+        20
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Order",
+      "confidence": 92.741371,
+      "box": [
+        1194,
+        210,
+        68,
+        20
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "#",
+      "confidence": 92.741371,
+      "box": [
+        1271,
+        211,
+        14,
+        19
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "5",
+      "confidence": 96.903786,
+      "box": [
+        1295,
+        211,
+        12,
+        19
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Bill",
+      "confidence": 95.031136,
+      "box": [
+        112,
+        285,
+        26,
+        16
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "To:",
+      "confidence": 96.92202,
+      "box": [
+        146,
+        285,
+        30,
+        16
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Ship",
+      "confidence": 96.269417,
+      "box": [
+        418,
+        284,
+        43,
+        21
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "To:",
+      "confidence": 95.717117,
+      "box": [
+        468,
+        285,
+        31,
+        16
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Tithy",
+      "confidence": 92.740974,
+      "box": [
+        110,
+        320,
+        52,
+        21
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Khan",
+      "confidence": 96.167412,
+      "box": [
+        171,
+        320,
+        53,
+        17
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Usha",
+      "confidence": 96.421684,
+      "box": [
+        419,
+        320,
+        51,
+        17
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Islam",
+      "confidence": 96.50441,
+      "box": [
+        479,
+        320,
+        54,
+        17
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Date:",
+      "confidence": 96.489418,
+      "box": [
+        1008,
+        317,
+        48,
+        33
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Oct",
+      "confidence": 96.07962,
+      "box": [
+        1183,
+        329,
+        33,
+        17
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "7,",
+      "confidence": 96.07962,
+      "box": [
+        1224,
+        329,
+        16,
+        19
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "2026",
+      "confidence": 96.540878,
+      "box": [
+        1249,
+        329,
+        48,
+        17
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Required",
+      "confidence": 94.466156,
+      "box": [
+        930,
+        378,
+        87,
+        21
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "By:",
+      "confidence": 96.376015,
+      "box": [
+        1027,
+        378,
+        29,
+        21
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Oct",
+      "confidence": 96.248413,
+      "box": [
+        1171,
+        378,
+        33,
+        17
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "12,",
+      "confidence": 96.248413,
+      "box": [
+        1213,
+        378,
+        27,
+        20
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "2026",
+      "confidence": 96.460831,
+      "box": [
+        1249,
+        378,
+        48,
+        17
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Item",
+      "confidence": 95.295296,
+      "box": [
+        103,
+        505,
+        40,
+        17
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "Rate",
+      "confidence": 96.158554,
+      "box": [
+        1083,
+        505,
+        44,
+        17
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "Amount",
+      "confidence": 96.434967,
+      "box": [
+        1222,
+        505,
+        76,
+        17
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "Earphone",
+      "confidence": 96.021484,
+      "box": [
+        103,
+        563,
+        100,
+        21
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "10",
+      "confidence": 96.983665,
+      "box": [
+        855,
+        564,
+        21,
+        16
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "$4.50",
+      "confidence": 96.914612,
+      "box": [
+        1073,
+        563,
+        54,
+        19
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "$45.00",
+      "confidence": 96.857025,
+      "box": [
+        1231,
+        563,
+        66,
+        19
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "Water",
+      "confidence": 96.554306,
+      "box": [
+        102,
+        601,
+        61,
+        17
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "Bottle",
+      "confidence": 96.819908,
+      "box": [
+        171,
+        601,
+        61,
+        17
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "5",
+      "confidence": 96.994896,
+      "box": [
+        854,
+        604,
+        10,
+        16
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "$3.50",
+      "confidence": 96.737579,
+      "box": [
+        1073,
+        603,
+        54,
+        19
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "$17.50",
+      "confidence": 96.938782,
+      "box": [
+        1231,
+        603,
+        66,
+        19
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "Mug",
+      "confidence": 96.19603,
+      "box": [
+        103,
+        641,
+        42,
+        21
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 7
+    },
+    {
+      "text": "2",
+      "confidence": 96.971893,
+      "box": [
+        853,
+        642,
+        11,
+        17
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 7
+    },
+    {
+      "text": "$2.80",
+      "confidence": 95.934174,
+      "box": [
+        1073,
+        642,
+        54,
+        19
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 7
+    },
+    {
+      "text": "$5.60",
+      "confidence": 96.730705,
+      "box": [
+        1245,
+        642,
+        54,
+        19
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 7
+    },
+    {
+      "text": "LED",
+      "confidence": 96.292702,
+      "box": [
+        103,
+        680,
+        42,
+        16
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 8
+    },
+    {
+      "text": "Lamp",
+      "confidence": 96.141846,
+      "box": [
+        153,
+        680,
+        58,
+        21
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 8
+    },
+    {
+      "text": "5",
+      "confidence": 96.905586,
+      "box": [
+        854,
+        683,
+        10,
+        16
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 8
+    },
+    {
+      "text": "$8.50",
+      "confidence": 96.897774,
+      "box": [
+        1073,
+        682,
+        54,
+        19
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 8
+    },
+    {
+      "text": "$42.50",
+      "confidence": 96.767426,
+      "box": [
+        1231,
+        682,
+        66,
+        19
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 8
+    },
+    {
+      "text": "Subtotal:",
+      "confidence": 95.64521,
+      "box": [
+        971,
+        824,
+        85,
+        31
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "$110.60",
+      "confidence": 96.776237,
+      "box": [
+        1219,
+        829,
+        79,
+        20
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Tax",
+      "confidence": 96.484718,
+      "box": [
+        931,
+        879,
+        35,
+        16
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "(0.25%):",
+      "confidence": 95.676468,
+      "box": [
+        975,
+        879,
+        81,
+        20
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "$0.28",
+      "confidence": 95.977219,
+      "box": [
+        1245,
+        878,
+        54,
+        19
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Total:",
+      "confidence": 95.96666,
+      "box": [
+        1003,
+        923,
+        53,
+        33
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "$110.88",
+      "confidence": 96.701118,
+      "box": [
+        1219,
+        928,
+        79,
+        20
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 3
+    }
+  ]
+}

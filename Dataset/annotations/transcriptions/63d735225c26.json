@@ -1,0 +1,57 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "63d735225c26",
+  "source_image": {
+    "path": "Dataset/Dataset-2/Purchase order/IMG_0972.HEIC",
+    "sha256": "408d60c80401ae25ff88d1e98658bfea465b8f7cd3b4892b408aeed9e87a8c8a"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/63d735225c26.jpg",
+    "sha256": "2df1161323753b627e14cbb2c6cf7d0755230c0d5675ece1c28568799e0538f7"
+  },
+  "classification": {
+    "label": "purchase_order",
+    "split": "test"
+  },
+  "transcription": {
+    "full_text": "Purchase Order\nOrder No: PO-8484\nOrder Date: 08/07/2026\nRequired By: 13/07/2026\nFrom (Buyer):\nHasan Brothers\nDhanmondi 27, Dhaka.\nTo (Supplier):\nSonar Bangla Distributors.\nPlease supply the following goods:\nItem Qty Rate (Tk) Amount (Tk)\nExercise Book 1 45 45\nHand Wash 200ml 20 140 2,800\nMiniket Rice 25kg 2 1,850 3,700\nBiscuits carton 24 720 17,280\nAtta 2kg 10 130 1,300\nTotal: Tk 25,125\nAuthorized by: [signature]\nFor Hasan Brothers.",
+    "lines": [
+      "Purchase Order",
+      "Order No: PO-8484",
+      "Order Date: 08/07/2026",
+      "Required By: 13/07/2026",
+      "From (Buyer):",
+      "Hasan Brothers",
+      "Dhanmondi 27, Dhaka.",
+      "To (Supplier):",
+      "Sonar Bangla Distributors.",
+      "Please supply the following goods:",
+      "Item Qty Rate (Tk) Amount (Tk)",
+      "Exercise Book 1 45 45",
+      "Hand Wash 200ml 20 140 2,800",
+      "Miniket Rice 25kg 2 1,850 3,700",
+      "Biscuits carton 24 720 17,280",
+      "Atta 2kg 10 130 1,300",
+      "Total: Tk 25,125",
+      "Authorized by: [signature]",
+      "For Hasan Brothers."
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [],
+    "notes": "Handwritten/printed entries visually transcribed; signatures marked, not interpreted."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/63d735225c26.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

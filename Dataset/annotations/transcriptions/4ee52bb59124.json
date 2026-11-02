@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "4ee52bb59124",
+  "source_image": {
+    "path": "Dataset/Customer_Copy/image_0799.jpg",
+    "sha256": "f7cb583ca5af4e0e8fe1eee427f5f4a85d59fb3e8d79684010dc7faa8a84f794"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/4ee52bb59124.jpg",
+    "sha256": "cdcb69801c23ba30cecdb19ce23cacfbf94de035abcfbe868deaac97170bbfd1"
+  },
+  "classification": {
+    "label": "customer_copy",
+    "split": "test"
+  },
+  "transcription": {
+    "full_text": "Welcome to Chick-fil-A\nInternational Speedway FSU #00866\nDaytona Beach, FL\n386-252-8232\nOperator: Gary Harris\nCUSTOMER COPY\n3/7/2016 11:01:44 AM\nDINE IN\nOrder Number: 3534366\n1 Meal-SpcySand 6.25\nSpcy Sand\nFries MD\nSwt Tea MD\nSub. Total: $6.25\nTax: $0.41\nTotal: $6.66\nChange $0.34\nNext Dollar $7.00\nRegister:7 Tran Seq No: 3534366\nCashier:Jordan\nIt was pleasure serving you!\nHave a wonderful day.\nLike us on FB facebook.com/chickfila866",
+    "lines": [
+      "Welcome to Chick-fil-A",
+      "International Speedway FSU #00866",
+      "Daytona Beach, FL",
+      "386-252-8232",
+      "Operator: Gary Harris",
+      "CUSTOMER COPY",
+      "3/7/2016 11:01:44 AM",
+      "DINE IN",
+      "Order Number: 3534366",
+      "1 Meal-SpcySand 6.25",
+      "Spcy Sand",
+      "Fries MD",
+      "Swt Tea MD",
+      "Sub. Total: $6.25",
+      "Tax: $0.41",
+      "Total: $6.66",
+      "Change $0.34",
+      "Next Dollar $7.00",
+      "Register:7 Tran Seq No: 3534366",
+      "Cashier:Jordan",
+      "It was pleasure serving you!",
+      "Have a wonderful day.",
+      "Like us on FB facebook.com/chickfila866"
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [],
+    "notes": "Visually checked; blank fields left blank. Printed masking is represented by [masked] where exact symbol count is not reliable."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/4ee52bb59124.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

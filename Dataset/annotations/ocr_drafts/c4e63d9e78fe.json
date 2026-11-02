@@ -1,0 +1,174 @@
+{
+  "sample_id": "c4e63d9e78fe",
+  "source_path": "Dataset/Receipt/cord-train-0145.jpg",
+  "source_sha256": "10c800e1da76eaddcaa30a8c3e8082dedc35ab501e414c11dd38ca0ee65b7791",
+  "prepared_image_path": "data/images/c4e63d9e78fe.jpg",
+  "prepared_image_sha256": "86e2daf05d04cc0083acafc796b859a2fdfa69232042bb3e75ff13b991299f12",
+  "label": "receipt",
+  "split": "test",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "ALMOND CHOCO CREAM CHEESE\n\n28 000 28.000\nCASH IDR 50.000\n\nCHANGE DUE\n",
+  "ocr_image_size": [
+    1400,
+    2100
+  ],
+  "words": [
+    {
+      "text": "ALMOND",
+      "confidence": 96.228859,
+      "box": [
+        128,
+        849,
+        218,
+        40
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "CHOCO",
+      "confidence": 95.110573,
+      "box": [
+        358,
+        854,
+        189,
+        38
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "CREAM",
+      "confidence": 96.565002,
+      "box": [
+        559,
+        857,
+        178,
+        39
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "CHEESE",
+      "confidence": 95.7631,
+      "box": [
+        750,
+        860,
+        203,
+        41
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "28",
+      "confidence": 90.508553,
+      "box": [
+        323,
+        927,
+        51,
+        34
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "000",
+      "confidence": 90.508553,
+      "box": [
+        395,
+        927,
+        78,
+        35
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "28.000",
+      "confidence": 78.99234,
+      "box": [
+        1049,
+        935,
+        144,
+        38
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "CASH",
+      "confidence": 96.129875,
+      "box": [
+        53,
+        1303,
+        137,
+        38
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "IDR",
+      "confidence": 96.347404,
+      "box": [
+        212,
+        1303,
+        81,
+        39
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "50.000",
+      "confidence": 93.46936,
+      "box": [
+        1058,
+        1312,
+        153,
+        41
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "CHANGE",
+      "confidence": 95.481812,
+      "box": [
+        51,
+        1419,
+        206,
+        40
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "DUE",
+      "confidence": 96.266014,
+      "box": [
+        288,
+        1421,
+        98,
+        40
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    }
+  ]
+}

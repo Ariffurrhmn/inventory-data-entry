@@ -1,0 +1,56 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "4a87af5776ae",
+  "source_image": {
+    "path": "Dataset/Purchase_Order/Purchase Order 7.jpg",
+    "sha256": "78bc502977f8240693da94812aa69f5e7f76af5a62548ccee346a0652d840a66"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/4a87af5776ae.jpg",
+    "sha256": "4496f560ca1955143233604ddd4f0585617d47b0c1f4bd520e0048220f1a1547"
+  },
+  "classification": {
+    "label": "purchase_order",
+    "split": "train"
+  },
+  "transcription": {
+    "full_text": "Suraiya Rahman PURCHASE\nORDER\n\nPurchase Order # 7\n\nBill To: Ship To:\nBillal Khan Rajib Hossain Date: Oct 9, 2026\nRequired By: Oct 10, 2026\nItem Quantity Rate Amount\nCeramic Mug 20 $2.80 $56.00\nLED Desk Lamp 10 $8.50 $85.00\nBackpack 5 $12.00 $60.00\nT-Shirt 10 $2.00 $20.00\nDenim Jeans 10 $15.00 $150.00\n\nSubtotal: $371.00\nTax (0.25%): $0.93\nTotal: $371.93",
+    "lines": [
+      "Suraiya Rahman PURCHASE",
+      "ORDER",
+      "",
+      "Purchase Order # 7",
+      "",
+      "Bill To: Ship To:",
+      "Billal Khan Rajib Hossain Date: Oct 9, 2026",
+      "Required By: Oct 10, 2026",
+      "Item Quantity Rate Amount",
+      "Ceramic Mug 20 $2.80 $56.00",
+      "LED Desk Lamp 10 $8.50 $85.00",
+      "Backpack 5 $12.00 $60.00",
+      "T-Shirt 10 $2.00 $20.00",
+      "Denim Jeans 10 $15.00 $150.00",
+      "",
+      "Subtotal: $371.00",
+      "Tax (0.25%): $0.93",
+      "Total: $371.93"
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [],
+    "notes": ""
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/4a87af5776ae.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

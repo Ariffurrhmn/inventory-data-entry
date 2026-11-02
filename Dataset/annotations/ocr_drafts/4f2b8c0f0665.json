@@ -1,0 +1,317 @@
+{
+  "sample_id": "4f2b8c0f0665",
+  "source_path": "Dataset/Customer_Copy/image_0592.jpg",
+  "source_sha256": "e74e1dd193087277bc53d0be4affc8e010e469c191c84ce6cc6d71c47b8664bf",
+  "prepared_image_path": "data/images/4f2b8c0f0665.jpg",
+  "prepared_image_sha256": "19a53bacc3bd0a9411d04c27e4df18d111cc3a762496fb13a0d23c0ceb878acb",
+  "label": "customer_copy",
+  "split": "train",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "_ Issuer\n\n0031010\nUa UIT\n\n0601 040360 2002\n8 ARC:\n1 369011 TID: 001 RRN:\nSubTotal ushD ¢\n\nTip\n\nCUSTOMER COPY\n\nTHANK YOU!\n\n",
+  "ocr_image_size": [
+    1400,
+    1869
+  ],
+  "words": [
+    {
+      "text": "_",
+      "confidence": 49.455585,
+      "box": [
+        713,
+        1000,
+        13,
+        12
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Issuer",
+      "confidence": 75.325966,
+      "box": [
+        752,
+        953,
+        109,
+        32
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "0031010",
+      "confidence": 95.438713,
+      "box": [
+        732,
+        1000,
+        126,
+        29
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Ua",
+      "confidence": 54.133522,
+      "box": [
+        749,
+        1018,
+        15,
+        13
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "UIT",
+      "confidence": 11.076859,
+      "box": [
+        795,
+        1017,
+        60,
+        16
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "0601",
+      "confidence": 95.405327,
+      "box": [
+        591,
+        1090,
+        69,
+        31
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "040360",
+      "confidence": 27.203064,
+      "box": [
+        668,
+        1064,
+        112,
+        60
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "2002",
+      "confidence": 95.882553,
+      "box": [
+        783,
+        1067,
+        73,
+        59
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "8",
+      "confidence": 82.645096,
+      "box": [
+        238,
+        1155,
+        11,
+        5
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "ARC:",
+      "confidence": 89.17572,
+      "box": [
+        647,
+        1136,
+        68,
+        30
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "1",
+      "confidence": 11.160812,
+      "box": [
+        145,
+        1182,
+        4,
+        6
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "369011",
+      "confidence": 82.358704,
+      "box": [
+        181,
+        1173,
+        107,
+        30
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "TID:",
+      "confidence": 93.007599,
+      "box": [
+        376,
+        1176,
+        68,
+        29
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "001",
+      "confidence": 95.478279,
+      "box": [
+        473,
+        1177,
+        49,
+        29
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "RRN:",
+      "confidence": 83.306076,
+      "box": [
+        645,
+        1179,
+        68,
+        30
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "SubTotal",
+      "confidence": 61.462997,
+      "box": [
+        121,
+        1196,
+        150,
+        47
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "ushD",
+      "confidence": 29.541344,
+      "box": [
+        606,
+        1220,
+        53,
+        27
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "¢",
+      "confidence": 56.990883,
+      "box": [
+        681,
+        1221,
+        16,
+        30
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "Tip",
+      "confidence": 93.972824,
+      "box": [
+        225,
+        1296,
+        52,
+        36
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "CUSTOMER",
+      "confidence": 96.819351,
+      "box": [
+        352,
+        1666,
+        147,
+        34
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "COPY",
+      "confidence": 89.393646,
+      "box": [
+        522,
+        1669,
+        72,
+        30
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "THANK",
+      "confidence": 88.104759,
+      "box": [
+        372,
+        1751,
+        89,
+        32
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "YOU!",
+      "confidence": 87.544525,
+      "box": [
+        483,
+        1756,
+        67,
+        30
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    }
+  ]
+}

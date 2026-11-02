@@ -1,0 +1,590 @@
+{
+  "sample_id": "63d735225c26",
+  "source_path": "Dataset/Dataset-2/Purchase order/IMG_0972.HEIC",
+  "source_sha256": "408d60c80401ae25ff88d1e98658bfea465b8f7cd3b4892b408aeed9e87a8c8a",
+  "prepared_image_path": "data/images/63d735225c26.jpg",
+  "prepared_image_sha256": "2df1161323753b627e14cbb2c6cf7d0755230c0d5675ece1c28568799e0538f7",
+  "label": "purchase_order",
+  "split": "test",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "Purchase Order\n\nOrder No: PO- 8484 Order Date: 08/07/2026\nRequired By: 13/01] 2026\n\nFrom (Buyer):\nHasan Brothers\nDhanmondi 23, Dhaka.\n\nTo (Supplier):\n\nSonar Bangla Distributors.\n\nEE\nPEE rmranmery\nMiniket Rice 254 (2 lum] am |\nBiscuits carton 7 320\n\nLE\n\n\" For Hasan Brothers.\n",
+  "ocr_image_size": [
+    1400,
+    1935
+  ],
+  "words": [
+    {
+      "text": "Purchase",
+      "confidence": 78.445999,
+      "box": [
+        490,
+        147,
+        278,
+        98
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Order",
+      "confidence": 95.957893,
+      "box": [
+        800,
+        147,
+        181,
+        98
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Order",
+      "confidence": 96.223564,
+      "box": [
+        126,
+        279,
+        98,
+        32
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "No:",
+      "confidence": 91.57518,
+      "box": [
+        239,
+        284,
+        57,
+        30
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "PO-",
+      "confidence": 83.644913,
+      "box": [
+        329,
+        272,
+        88,
+        41
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "8484",
+      "confidence": 89.351822,
+      "box": [
+        433,
+        271,
+        114,
+        44
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Order",
+      "confidence": 96.457497,
+      "box": [
+        846,
+        294,
+        89,
+        29
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Date:",
+      "confidence": 92.765564,
+      "box": [
+        947,
+        297,
+        82,
+        28
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "08/07/2026",
+      "confidence": 0.0,
+      "box": [
+        1067,
+        285,
+        222,
+        49
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Required",
+      "confidence": 95.95443,
+      "box": [
+        846,
+        363,
+        139,
+        38
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "By:",
+      "confidence": 91.214249,
+      "box": [
+        996,
+        366,
+        49,
+        37
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "13/01]",
+      "confidence": 4.702187,
+      "box": [
+        1076,
+        359,
+        115,
+        48
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "2026",
+      "confidence": 96.671967,
+      "box": [
+        1202,
+        364,
+        94,
+        36
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "From",
+      "confidence": 96.957504,
+      "box": [
+        133,
+        460,
+        88,
+        31
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "(Buyer):",
+      "confidence": 95.991547,
+      "box": [
+        232,
+        464,
+        131,
+        38
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Hasan",
+      "confidence": 96.171814,
+      "box": [
+        160,
+        529,
+        147,
+        48
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Brothers",
+      "confidence": 95.394348,
+      "box": [
+        354,
+        530,
+        194,
+        51
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Dhanmondi",
+      "confidence": 91.149597,
+      "box": [
+        155,
+        602,
+        224,
+        47
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "23,",
+      "confidence": 84.789406,
+      "box": [
+        416,
+        614,
+        60,
+        44
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Dhaka.",
+      "confidence": 96.265694,
+      "box": [
+        504,
+        606,
+        154,
+        47
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "To",
+      "confidence": 96.968285,
+      "box": [
+        767,
+        477,
+        40,
+        28
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "(Supplier):",
+      "confidence": 96.673019,
+      "box": [
+        819,
+        477,
+        161,
+        36
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Sonar",
+      "confidence": 96.653717,
+      "box": [
+        780,
+        545,
+        125,
+        45
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Bangla",
+      "confidence": 96.307655,
+      "box": [
+        930,
+        547,
+        133,
+        64
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Distributors.",
+      "confidence": 64.625114,
+      "box": [
+        1086,
+        545,
+        229,
+        48
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "EE",
+      "confidence": 38.619499,
+      "box": [
+        677,
+        894,
+        663,
+        149
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "PEE",
+      "confidence": 15.607185,
+      "box": [
+        109,
+        973,
+        230,
+        201
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "rmranmery",
+      "confidence": 0.0,
+      "box": [
+        113,
+        977,
+        1230,
+        175
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Miniket",
+      "confidence": 89.0224,
+      "box": [
+        138,
+        1177,
+        167,
+        53
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Rice",
+      "confidence": 93.69677,
+      "box": [
+        337,
+        1176,
+        95,
+        48
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "254",
+      "confidence": 24.907822,
+      "box": [
+        463,
+        1115,
+        101,
+        124
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "(2",
+      "confidence": 50.703491,
+      "box": [
+        674,
+        1140,
+        116,
+        107
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "lum]",
+      "confidence": 52.956982,
+      "box": [
+        825,
+        1145,
+        519,
+        98
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "am",
+      "confidence": 58.63747,
+      "box": [
+        1173,
+        1140,
+        108,
+        107
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "|",
+      "confidence": 75.920258,
+      "box": [
+        1324,
+        1140,
+        19,
+        107
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Biscuits",
+      "confidence": 92.301933,
+      "box": [
+        140,
+        1282,
+        182,
+        57
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "carton",
+      "confidence": 92.301933,
+      "box": [
+        357,
+        1277,
+        141,
+        52
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "7",
+      "confidence": 27.171448,
+      "box": [
+        678,
+        1247,
+        160,
+        101
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "320",
+      "confidence": 92.985306,
+      "box": [
+        923,
+        1279,
+        81,
+        42
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "LE",
+      "confidence": 48.306004,
+      "box": [
+        679,
+        1350,
+        164,
+        104
+      ],
+      "block": 12,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "\"",
+      "confidence": 0.0,
+      "box": [
+        341,
+        1782,
+        8,
+        9
+      ],
+      "block": 14,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "For",
+      "confidence": 86.996033,
+      "box": [
+        368,
+        1808,
+        56,
+        33
+      ],
+      "block": 14,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Hasan",
+      "confidence": 96.937286,
+      "box": [
+        437,
+        1804,
+        98,
+        32
+      ],
+      "block": 14,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Brothers.",
+      "confidence": 96.416924,
+      "box": [
+        549,
+        1783,
+        145,
+        48
+      ],
+      "block": 14,
+      "paragraph": 1,
+      "line": 1
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "sample_id": "6329716534d8",
+  "source_path": "Dataset/Receipt/IMG_20250823_031803_jpg.rf.34405351a39fd281345d6d0597a696f4.jpg",
+  "source_sha256": "d95e85aea4cb91ac10fff168108ee68c9192369a27a3568a9316b3bbc66fbeca",
+  "prepared_image_path": "data/images/6329716534d8.jpg",
+  "prepared_image_sha256": "ffb48ca3835e43bd7a040714ba92d9708681c638cca0a0de27c7974da9e1c067",
+  "label": "receipt",
+  "split": "val",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "loo po\n\n240.20\n\n",
+  "ocr_image_size": [
+    1400,
+    1400
+  ],
+  "words": [
+    {
+      "text": "loo",
+      "confidence": 50.380054,
+      "box": [
+        1129,
+        292,
+        88,
+        36
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "po",
+      "confidence": 27.83622,
+      "box": [
+        1253,
+        296,
+        61,
+        29
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "240.20",
+      "confidence": 83.679001,
+      "box": [
+        1116,
+        370,
+        185,
+        37
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    }
+  ]
+}

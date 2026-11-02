@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "29bd052c0c45",
+  "source_image": {
+    "path": "Dataset/Dataset-2/Delivery note challan/IMG_0990.HEIC",
+    "sha256": "bbc844b18feaeca3b76f29f583a607c3c85edcd260051c84d5ac22ec110b7e44"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/29bd052c0c45.jpg",
+    "sha256": "6c8e5bc7cf1ef8b49c55cb5d1f732a56876bf525f69f6af3afcfc8fbaca3c202"
+  },
+  "classification": {
+    "label": "delivery_note",
+    "split": "val"
+  },
+  "transcription": {
+    "full_text": "Delivery Challan\nChallan No: DC-208\nDate: 13/07/2026\nFrom: Dhaka Trade House.\nTo: Green Leaf Mart, Dhanmondi 27, Dhaka.\nSl Item Description Qty.\n1 Sugar 1kg 24\n2 Milk Powder 500g 5\n3 Salt 1kg 20\n4 Atta 2kg 10\nReceived By: [signature]\nDelivered By: [signature]",
+    "lines": [
+      "Delivery Challan",
+      "Challan No: DC-208",
+      "Date: 13/07/2026",
+      "From: Dhaka Trade House.",
+      "To: Green Leaf Mart, Dhanmondi 27, Dhaka.",
+      "Sl Item Description Qty.",
+      "1 Sugar 1kg 24",
+      "2 Milk Powder 500g 5",
+      "3 Salt 1kg 20",
+      "4 Atta 2kg 10",
+      "Received By: [signature]",
+      "Delivered By: [signature]"
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [],
+    "notes": "Individually visually reviewed photograph. Whitespace and table reading order normalized; signatures marked rather than inferred."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/29bd052c0c45.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

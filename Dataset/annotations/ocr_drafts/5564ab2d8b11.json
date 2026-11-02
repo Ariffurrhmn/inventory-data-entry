@@ -1,0 +1,356 @@
+{
+  "sample_id": "5564ab2d8b11",
+  "source_path": "Dataset/Receipt/cord-train-0114.jpg",
+  "source_sha256": "2b1385590ae94ccff8e28a4602d9ff297ec78b5cfbebc89e8119abc3a382582f",
+  "prepared_image_path": "data/images/5564ab2d8b11.jpg",
+  "prepared_image_sha256": "614df76c45a004d91dca5f7ddebbb3c73b80422171584c29b2a005f5409e7f98",
+  "label": "receipt",
+  "split": "test",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "Silky Lychee\n\nSilky Mango 1%\nSilky Cotton Candy 1X\nSilky Green Tea 1%\nSilky Chocolat 1X\nSub Total 70,000\nGRAND TOTAL 70,000\nEe\n\n-IDJDEBERREDC BF 70,000\n\n",
+  "ocr_image_size": [
+    1400,
+    2100
+  ],
+  "words": [
+    {
+      "text": "Silky",
+      "confidence": 96.086067,
+      "box": [
+        131,
+        996,
+        133,
+        45
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Lychee",
+      "confidence": 96.172089,
+      "box": [
+        297,
+        995,
+        154,
+        46
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Silky",
+      "confidence": 90.166885,
+      "box": [
+        126,
+        1054,
+        134,
+        50
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Mango",
+      "confidence": 96.549835,
+      "box": [
+        292,
+        1056,
+        131,
+        46
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "1%",
+      "confidence": 75.364586,
+      "box": [
+        752,
+        1056,
+        43,
+        39
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Silky",
+      "confidence": 93.863991,
+      "box": [
+        121,
+        1117,
+        136,
+        50
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Cotton",
+      "confidence": 96.778458,
+      "box": [
+        290,
+        1117,
+        160,
+        45
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Candy",
+      "confidence": 96.848846,
+      "box": [
+        482,
+        1114,
+        129,
+        51
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "1X",
+      "confidence": 89.878632,
+      "box": [
+        756,
+        1118,
+        42,
+        41
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Silky",
+      "confidence": 95.128983,
+      "box": [
+        115,
+        1181,
+        138,
+        52
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Green",
+      "confidence": 96.094833,
+      "box": [
+        287,
+        1183,
+        134,
+        43
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Tea",
+      "confidence": 96.858315,
+      "box": [
+        455,
+        1180,
+        76,
+        45
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "1%",
+      "confidence": 78.867294,
+      "box": [
+        756,
+        1180,
+        45,
+        44
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Silky",
+      "confidence": 93.620522,
+      "box": [
+        108,
+        1247,
+        141,
+        55
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "Chocolat",
+      "confidence": 96.633095,
+      "box": [
+        282,
+        1244,
+        219,
+        50
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "1X",
+      "confidence": 80.660538,
+      "box": [
+        758,
+        1245,
+        44,
+        46
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "Sub",
+      "confidence": 94.587326,
+      "box": [
+        45,
+        1387,
+        83,
+        55
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "Total",
+      "confidence": 94.587326,
+      "box": [
+        162,
+        1385,
+        133,
+        56
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "70,000",
+      "confidence": 96.908806,
+      "box": [
+        1201,
+        1378,
+        147,
+        53
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "GRAND",
+      "confidence": 95.502419,
+      "box": [
+        615,
+        1520,
+        134,
+        53
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "TOTAL",
+      "confidence": 95.502419,
+      "box": [
+        780,
+        1516,
+        129,
+        50
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "70,000",
+      "confidence": 96.908875,
+      "box": [
+        1199,
+        1510,
+        149,
+        55
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "Ee",
+      "confidence": 0.0,
+      "box": [
+        49,
+        1603,
+        48,
+        64
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 7
+    },
+    {
+      "text": "-IDJDEBERREDC",
+      "confidence": 0.0,
+      "box": [
+        132,
+        1659,
+        424,
+        89
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "BF",
+      "confidence": 7.57515,
+      "box": [
+        588,
+        1663,
+        76,
+        55
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "70,000",
+      "confidence": 82.754341,
+      "box": [
+        1199,
+        1642,
+        146,
+        100
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    }
+  ]
+}

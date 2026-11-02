@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "3223c78f7136",
+  "source_image": {
+    "path": "Dataset/Receipt/cord-train-0023.jpg",
+    "sha256": "c554928f373a0ec59c41946e5df22eb5e9618690842b2200828457fe5a198179"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/3223c78f7136.jpg",
+    "sha256": "d862bb486ab1aaf3736a58a12b7a1aa31710f5c1c9d9d6ab93edd94b8da0b707"
+  },
+  "classification": {
+    "label": "receipt",
+    "split": "train"
+  },
+  "transcription": {
+    "full_text": "[redacted]\n1X S-Lemon Macchiato @21,000 21,000\nLess Ice\n50%\nPB1: 0\nSubtotal: 21,000\nTotal: 21,000\nCash: 21,000\n[redacted]\nCHANGE: 0\n[redacted]",
+    "lines": [
+      "[redacted]",
+      "1X S-Lemon Macchiato @21,000 21,000",
+      "Less Ice",
+      "50%",
+      "PB1: 0",
+      "Subtotal: 21,000",
+      "Total: 21,000",
+      "Cash: 21,000",
+      "[redacted]",
+      "CHANGE: 0",
+      "[redacted]"
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [
+      "Pixelated/blurred source regions are marked [redacted]; their hidden text was not reconstructed."
+    ],
+    "notes": "Visually transcribed from the image, preserving printed spelling and numeric inconsistencies."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/3223c78f7136.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

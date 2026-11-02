@@ -1,0 +1,40 @@
+{
+  "date": "2026-10-19",
+  "expected_images": 140,
+  "transcription_files": 140,
+  "assistant_visual_reviewed": 140,
+  "human_verified": 0,
+  "unreviewed": 0,
+  "classes": {
+    "purchase_order": 35,
+    "receipt": 28,
+    "delivery_note": 50,
+    "customer_copy": 27
+  },
+  "splits": {
+    "test": 28,
+    "val": 26,
+    "train": 86
+  },
+  "records_with_explicit_uncertainties": 44,
+  "review_queue_records": 45,
+  "prepared_image_hashes_checked": 140,
+  "source_paths_and_manifest_hashes_matched": 140,
+  "original_file_hashes_recomputed": false,
+  "checks": [
+    "Unique exact manifest coverage",
+    "Nonempty UTF-8 text without replacement characters",
+    "Label and split match",
+    "Source path and recorded hash match manifest",
+    "Prepared image SHA-256 match",
+    "Original and OCR draft files exist",
+    "Consistent text/lines",
+    "All review actions present"
+  ],
+  "limitations": [
+    "Assistant visual review is not independent human verification.",
+    "Tables are linearized; geometry in OCR drafts is unreviewed.",
+    "Uncertainty spans and best readings need audit before exact-character benchmark scoring.",
+    "Original file hashes were matched to the existing manifest, not recomputed."
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "42d9b408c783",
+  "source_image": {
+    "path": "Dataset/Dataset-2/Customer copy/IMG_1002.HEIC",
+    "sha256": "a3a97e474f517440207daa3948036881d578181cd41e44a38eea7508477e74b6"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/42d9b408c783.jpg",
+    "sha256": "bfc211fa8df7c5268caf912fbecb25cf8214e9faa6b428bd88e7b7f3231284ae"
+  },
+  "classification": {
+    "label": "customer_copy",
+    "split": "train"
+  },
+  "transcription": {
+    "full_text": "Shop: Padma Distribution Ltd.\nInvoice No: INV-4532.\nDate: 13/09/2026.\nSales Invoice\nCustomer: Kashem Enterprise, Jatrabari, Dhaka.\nItem Qty Rate (Tk) Amount (Tk)\nRed Lentils 1kg 24 Tk 110 Tk 2,640\nBall Pen box 6 Tk 100 Tk 600\nTotal: Tk 3,240\nCUSTOMER COPY",
+    "lines": [
+      "Shop: Padma Distribution Ltd.",
+      "Invoice No: INV-4532.",
+      "Date: 13/09/2026.",
+      "Sales Invoice",
+      "Customer: Kashem Enterprise, Jatrabari, Dhaka.",
+      "Item Qty Rate (Tk) Amount (Tk)",
+      "Red Lentils 1kg 24 Tk 110 Tk 2,640",
+      "Ball Pen box 6 Tk 100 Tk 600",
+      "Total: Tk 3,240",
+      "CUSTOMER COPY"
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [],
+    "notes": "Individually visually reviewed photograph; table rows linearized, signatures marked."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/42d9b408c783.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

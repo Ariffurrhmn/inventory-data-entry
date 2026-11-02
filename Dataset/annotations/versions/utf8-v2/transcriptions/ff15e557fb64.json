@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "ff15e557fb64",
+  "source_image": {
+    "path": "Dataset/Dataset-2/Delivery note challan/IMG_0956.HEIC",
+    "sha256": "571f33910ae0f70cc064fd55e9906be761c998a423c0d0808580de5c35c4c17e"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/ff15e557fb64.jpg",
+    "sha256": "6f20876fa26d7a1482bda1b0af50c0e43694bafb398bc7d68467e33135120eda"
+  },
+  "classification": {
+    "label": "delivery_note",
+    "split": "train"
+  },
+  "transcription": {
+    "full_text": "DELIVERY CHALLAN\nABC Company\nChallan no. DC- 005\nDate 2026-09-04\nPlace of supply Maharashtra\nSELLER\nABC Company\nShop 12, Market Road, City — 400001\nCONSIGNEE\nHasna\nHouse- 56, Road- 3, Maharashtra\nVehicle no.: MH 01 AB 1234\nPurpose: Job work\n# Description HSN/SAC Qty Rate Taxable GST %\n1 Fan 9087 15.00 ₹3,000.00 ₹45,000.00 15%\n2 Purfume 3546 20.00 ₹450.00 ₹9,000.00 3%\n3 Light 1324 20.00 ₹800.00 ₹16,000.00 5%\nTaxable value ₹70,000.00\nCGST ₹3,910.00\nSGST ₹3,910.00\nGrand total ₹77,820.00\nAmount in words: Seventy Seven Thousand Eight Hundred Twenty Rupees Only\nNotes: Goods sent for the purpose stated above. Not a sale.",
+    "lines": [
+      "DELIVERY CHALLAN",
+      "ABC Company",
+      "Challan no. DC- 005",
+      "Date 2026-09-04",
+      "Place of supply Maharashtra",
+      "SELLER",
+      "ABC Company",
+      "Shop 12, Market Road, City — 400001",
+      "CONSIGNEE",
+      "Hasna",
+      "House- 56, Road- 3, Maharashtra",
+      "Vehicle no.: MH 01 AB 1234",
+      "Purpose: Job work",
+      "# Description HSN/SAC Qty Rate Taxable GST %",
+      "1 Fan 9087 15.00 ₹3,000.00 ₹45,000.00 15%",
+      "2 Purfume 3546 20.00 ₹450.00 ₹9,000.00 3%",
+      "3 Light 1324 20.00 ₹800.00 ₹16,000.00 5%",
+      "Taxable value ₹70,000.00",
+      "CGST ₹3,910.00",
+      "SGST ₹3,910.00",
+      "Grand total ₹77,820.00",
+      "Amount in words: Seventy Seven Thousand Eight Hundred Twenty Rupees Only",
+      "Notes: Goods sent for the purpose stated above. Not a sale."
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [],
+    "notes": "Individually visually inspected photograph, including quantities, rates, totals and footer. Its visible content matches the reviewed digital form; reused checked text."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/ff15e557fb64.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

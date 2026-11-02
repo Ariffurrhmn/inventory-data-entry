@@ -1,0 +1,369 @@
+{
+  "sample_id": "6639e70671f3",
+  "source_path": "Dataset/Dataset-2/Customer copy/IMG_1001.HEIC",
+  "source_sha256": "45a2c34f46125f2b39c47afd0f3b06b47fb7e9ae15023d3d85b5358a9216b25a",
+  "prepared_image_path": "data/images/6639e70671f3.jpg",
+  "prepared_image_sha256": "2d8d1c5090a7eeec4b5c9c641306f8044c41daa91cbee7f8f21082f2e5cc2dd1",
+  "label": "customer_copy",
+  "split": "train",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "\\'Y 4 Surma Food Supply\n\nInvoice\n\nBill To / Customer: Invoice No: INV-5865.\n\nBismillah Store, Tongi, Gazipur. Date: 24/07/2026.\n\nERC\n\nAuthorised Signature\nT. Sultana\n\n;\n\nCUSTOMER COPY\n",
+  "ocr_image_size": [
+    1400,
+    2033
+  ],
+  "words": [
+    {
+      "text": "\\'Y",
+      "confidence": 28.873779,
+      "box": [
+        288,
+        124,
+        95,
+        133
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "4",
+      "confidence": 28.873779,
+      "box": [
+        405,
+        154,
+        30,
+        98
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Surma",
+      "confidence": 91.743599,
+      "box": [
+        467,
+        155,
+        238,
+        68
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Food",
+      "confidence": 95.415375,
+      "box": [
+        730,
+        158,
+        180,
+        68
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Supply",
+      "confidence": 95.921013,
+      "box": [
+        930,
+        160,
+        245,
+        86
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Invoice",
+      "confidence": 96.021057,
+      "box": [
+        591,
+        348,
+        291,
+        74
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Bill",
+      "confidence": 90.106438,
+      "box": [
+        149,
+        507,
+        53,
+        31
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "To",
+      "confidence": 93.230965,
+      "box": [
+        212,
+        509,
+        41,
+        29
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "/",
+      "confidence": 91.900612,
+      "box": [
+        261,
+        508,
+        16,
+        36
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Customer:",
+      "confidence": 96.157158,
+      "box": [
+        286,
+        510,
+        185,
+        30
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Invoice",
+      "confidence": 91.113548,
+      "box": [
+        924,
+        512,
+        126,
+        32
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "No:",
+      "confidence": 93.137032,
+      "box": [
+        1059,
+        514,
+        57,
+        30
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "INV-5865.",
+      "confidence": 91.228401,
+      "box": [
+        1129,
+        514,
+        164,
+        30
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Bismillah",
+      "confidence": 96.462227,
+      "box": [
+        148,
+        561,
+        149,
+        32
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Store,",
+      "confidence": 93.287971,
+      "box": [
+        308,
+        565,
+        98,
+        35
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Tongi,",
+      "confidence": 92.902916,
+      "box": [
+        415,
+        566,
+        98,
+        38
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Gazipur.",
+      "confidence": 96.431686,
+      "box": [
+        523,
+        566,
+        131,
+        38
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Date:",
+      "confidence": 96.679985,
+      "box": [
+        925,
+        574,
+        93,
+        30
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "24/07/2026.",
+      "confidence": 96.671181,
+      "box": [
+        1031,
+        574,
+        202,
+        36
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "ERC",
+      "confidence": 30.250023,
+      "box": [
+        106,
+        694,
+        517,
+        99
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Authorised",
+      "confidence": 96.874184,
+      "box": [
+        982,
+        1634,
+        165,
+        32
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Signature",
+      "confidence": 96.951004,
+      "box": [
+        1157,
+        1636,
+        145,
+        36
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "T.",
+      "confidence": 93.047981,
+      "box": [
+        1063,
+        1694,
+        28,
+        32
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Sultana",
+      "confidence": 96.625107,
+      "box": [
+        1101,
+        1693,
+        125,
+        33
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": ";",
+      "confidence": 11.151474,
+      "box": [
+        887,
+        1459,
+        503,
+        147
+      ],
+      "block": 16,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "CUSTOMER",
+      "confidence": 96.501839,
+      "box": [
+        448,
+        1825,
+        376,
+        60
+      ],
+      "block": 18,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "COPY",
+      "confidence": 96.657242,
+      "box": [
+        844,
+        1824,
+        182,
+        57
+      ],
+      "block": 18,
+      "paragraph": 1,
+      "line": 1
+    }
+  ]
+}

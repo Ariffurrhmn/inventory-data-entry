@@ -1,0 +1,70 @@
+{
+  "sample_id": "29bd052c0c45",
+  "source_path": "Dataset/Dataset-2/Delivery note challan/IMG_0990.HEIC",
+  "source_sha256": "bbc844b18feaeca3b76f29f583a607c3c85edcd260051c84d5ac22ec110b7e44",
+  "prepared_image_path": "data/images/29bd052c0c45.jpg",
+  "prepared_image_sha256": "6c8e5bc7cf1ef8b49c55cb5d1f732a56876bf525f69f6af3afcfc8fbaca3c202",
+  "label": "delivery_note",
+  "split": "val",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "Delivery Challan\n\nDate: 13/0%\n\n",
+  "ocr_image_size": [
+    1400,
+    1866
+  ],
+  "words": [
+    {
+      "text": "Delivery",
+      "confidence": 93.013695,
+      "box": [
+        441,
+        289,
+        266,
+        70
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Challan",
+      "confidence": 92.287567,
+      "box": [
+        731,
+        292,
+        229,
+        56
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Date:",
+      "confidence": 71.461792,
+      "box": [
+        855,
+        430,
+        104,
+        62
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "13/0%",
+      "confidence": 36.058331,
+      "box": [
+        989,
+        430,
+        134,
+        62
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "9d3c43f5edd8",
+  "source_image": {
+    "path": "Dataset/Dataset-2/Delivery note challan/IMG_0951.HEIC",
+    "sha256": "b7f31362a97d31f241141f0b3fe803527107825c89bdc9d7f481ab2111e6680c"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/9d3c43f5edd8.jpg",
+    "sha256": "b9febd188fbbc841d644b5ae5b109230385ab5a8d80baef6e078e37a44f9c693"
+  },
+  "classification": {
+    "label": "delivery_note",
+    "split": "train"
+  },
+  "transcription": {
+    "full_text": "DELIVERY CHALLAN\nABC Company\nChallan no. DC-010\nDate 2026-09-04\nPlace of supply Kolkata\nSELLER\nABC Company\nShop 12, Market Road, City — 400001\nCONSIGNEE\nUsha\nHouse- 72, Road- 24, Kolkata\nVehicle no.: MH 01 AB 1234\nPurpose: Job work\n# Description HSN/SAC Qty Rate Taxable GST %\n1 Wireless Mouse 9207 50.00 ₹750.00 ₹37,500.00 20%\n2 Computer Keyboard 3541 250.00 ₹900.00 ₹2,25,000.00 6%\n3 USB-C Cable 1436 500.00 ₹250.00 ₹1,25,000.00 5%\nTaxable value ₹3,87,500.00\nCGST ₹13,625.00\nSGST ₹13,625.00\nGrand total ₹4,14,750.00\nAmount in words: Four Lakh Fourteen Thousand Seven Hundred Fifty Rupees Only\nNotes: Goods sent for the purpose stated above. Not a sale.",
+    "lines": [
+      "DELIVERY CHALLAN",
+      "ABC Company",
+      "Challan no. DC-010",
+      "Date 2026-09-04",
+      "Place of supply Kolkata",
+      "SELLER",
+      "ABC Company",
+      "Shop 12, Market Road, City — 400001",
+      "CONSIGNEE",
+      "Usha",
+      "House- 72, Road- 24, Kolkata",
+      "Vehicle no.: MH 01 AB 1234",
+      "Purpose: Job work",
+      "# Description HSN/SAC Qty Rate Taxable GST %",
+      "1 Wireless Mouse 9207 50.00 ₹750.00 ₹37,500.00 20%",
+      "2 Computer Keyboard 3541 250.00 ₹900.00 ₹2,25,000.00 6%",
+      "3 USB-C Cable 1436 500.00 ₹250.00 ₹1,25,000.00 5%",
+      "Taxable value ₹3,87,500.00",
+      "CGST ₹13,625.00",
+      "SGST ₹13,625.00",
+      "Grand total ₹4,14,750.00",
+      "Amount in words: Four Lakh Fourteen Thousand Seven Hundred Fifty Rupees Only",
+      "Notes: Goods sent for the purpose stated above. Not a sale."
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [],
+    "notes": "Individually visually inspected photograph, including quantities, rates, totals and footer. Its visible content matches the reviewed digital form; reused checked text."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/9d3c43f5edd8.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

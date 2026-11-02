@@ -1,0 +1,109 @@
+{
+  "sample_id": "e24acf8b8294",
+  "source_path": "Dataset/Receipt/cord-train-0133.jpg",
+  "source_sha256": "096c643a721dd1c43aafa9fdf0f31c0752b64c2de4a1697df54c056a423fda52",
+  "prepared_image_path": "data/images/e24acf8b8294.jpg",
+  "prepared_image_sha256": "1c0a8b21bb6c31ec7cd2704d2f0ad0681fbceb2ff09fcb038745484d94cf2000",
+  "label": "receipt",
+  "split": "test",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "—— VT ————\n\nDONUT 10,000\n| 17,000\n\n",
+  "ocr_image_size": [
+    1400,
+    2100
+  ],
+  "words": [
+    {
+      "text": "——",
+      "confidence": 51.740509,
+      "box": [
+        770,
+        743,
+        32,
+        28
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "VT",
+      "confidence": 20.194489,
+      "box": [
+        807,
+        753,
+        462,
+        10
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "————",
+      "confidence": 0.0,
+      "box": [
+        1031,
+        743,
+        78,
+        28
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "DONUT",
+      "confidence": 95.275055,
+      "box": [
+        740,
+        797,
+        154,
+        65
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "10,000",
+      "confidence": 96.873848,
+      "box": [
+        1091,
+        797,
+        179,
+        61
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "|",
+      "confidence": 78.875671,
+      "box": [
+        879,
+        879,
+        2,
+        2
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "17,000",
+      "confidence": 96.854675,
+      "box": [
+        1091,
+        874,
+        178,
+        62
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    }
+  ]
+}

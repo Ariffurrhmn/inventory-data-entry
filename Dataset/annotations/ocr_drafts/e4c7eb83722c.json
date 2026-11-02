@@ -1,0 +1,278 @@
+{
+  "sample_id": "e4c7eb83722c",
+  "source_path": "Dataset/Customer_Copy/1176-receipt.jpg",
+  "source_sha256": "91193e0214ec1995209eea064db78507550e5ccd7abf834717e4d2b08d865247",
+  "prepared_image_path": "data/images/e4c7eb83722c.jpg",
+  "prepared_image_sha256": "95786ca0cbfc968680f20019e0be9f3263aa37be92178b90f01c69e0531e092a",
+  "label": "customer_copy",
+  "split": "val",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "HEDLEYS\n\n640 N ROBERTSON BLVD\n\nHOLLYWOOD CA 90269\n310-659-2009\n\n251 3430\n\nTerminal 10: 01528\n\n065231\n$41.45\n\nen em ee sn\n\n",
+  "ocr_image_size": [
+    1400,
+    1866
+  ],
+  "words": [
+    {
+      "text": "HEDLEYS",
+      "confidence": 92.422234,
+      "box": [
+        552,
+        399,
+        120,
+        35
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "640",
+      "confidence": 81.763077,
+      "box": [
+        451,
+        451,
+        50,
+        29
+      ],
+      "block": 2,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "N",
+      "confidence": 89.866028,
+      "box": [
+        519,
+        448,
+        17,
+        26
+      ],
+      "block": 2,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "ROBERTSON",
+      "confidence": 92.652733,
+      "box": [
+        552,
+        433,
+        156,
+        39
+      ],
+      "block": 2,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "BLVD",
+      "confidence": 96.668533,
+      "box": [
+        726,
+        426,
+        69,
+        31
+      ],
+      "block": 2,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "HOLLYWOOD",
+      "confidence": 86.305069,
+      "box": [
+        503,
+        477,
+        155,
+        39
+      ],
+      "block": 2,
+      "paragraph": 3,
+      "line": 1
+    },
+    {
+      "text": "CA",
+      "confidence": 95.997917,
+      "box": [
+        675,
+        473,
+        37,
+        28
+      ],
+      "block": 2,
+      "paragraph": 3,
+      "line": 1
+    },
+    {
+      "text": "90269",
+      "confidence": 82.276901,
+      "box": [
+        729,
+        464,
+        86,
+        33
+      ],
+      "block": 2,
+      "paragraph": 3,
+      "line": 1
+    },
+    {
+      "text": "310-659-2009",
+      "confidence": 94.510475,
+      "box": [
+        524,
+        512,
+        206,
+        46
+      ],
+      "block": 2,
+      "paragraph": 3,
+      "line": 2
+    },
+    {
+      "text": "251",
+      "confidence": 96.203873,
+      "box": [
+        668,
+        592,
+        46,
+        29
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "3430",
+      "confidence": 96.882637,
+      "box": [
+        843,
+        575,
+        68,
+        30
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Terminal",
+      "confidence": 83.708183,
+      "box": [
+        358,
+        607,
+        135,
+        37
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "10:",
+      "confidence": 93.801811,
+      "box": [
+        513,
+        606,
+        45,
+        36
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "01528",
+      "confidence": 96.095879,
+      "box": [
+        580,
+        596,
+        85,
+        31
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "065231",
+      "confidence": 95.3414,
+      "box": [
+        823,
+        916,
+        104,
+        38
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "$41.45",
+      "confidence": 94.179497,
+      "box": [
+        828,
+        986,
+        110,
+        35
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "en",
+      "confidence": 23.831573,
+      "box": [
+        760,
+        1092,
+        7,
+        5
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "em",
+      "confidence": 36.139824,
+      "box": [
+        780,
+        1080,
+        30,
+        29
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "ee",
+      "confidence": 33.130653,
+      "box": [
+        818,
+        1093,
+        30,
+        12
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "sn",
+      "confidence": 39.417213,
+      "box": [
+        862,
+        1091,
+        25,
+        8
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    }
+  ]
+}

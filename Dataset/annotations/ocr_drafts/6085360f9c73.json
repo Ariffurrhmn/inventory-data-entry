@@ -1,0 +1,603 @@
+{
+  "sample_id": "6085360f9c73",
+  "source_path": "Dataset/Dataset-2/Purchase order/IMG_0965.HEIC",
+  "source_sha256": "15053f626e2a0d2708b5664a7658ce0a18e507aac4cda501fa55ec0d49cc1a61",
+  "prepared_image_path": "data/images/6085360f9c73.jpg",
+  "prepared_image_sha256": "edf53171f3e05fe6b7e292b694ed24354c1eef18faf1bc821f8ae168765d2680",
+  "label": "purchase_order",
+  "split": "train",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "HGT Company PURCHASE ORDER\n\nShop-12,\n\nPanjora, Gazipur, Number PO - 20\n\nDhaka, :\n\nBanglasesh Bay ae\nDue Date 2026-10-16\n\nBILL TO\n\nXK Company\nShop-43,\n\nMirpue-10\n\nDhaka,\n\nBanglasesh\n\nAMOUNT\n\nDESCRIPTION\n\nTaxable Amount: $2.01\n—————————— EE\nTotal: $2.37\n\nThank you for your business!\nPowered by HGT Company\n",
+  "ocr_image_size": [
+    1400,
+    1866
+  ],
+  "words": [
+    {
+      "text": "HGT",
+      "confidence": 92.139313,
+      "box": [
+        84,
+        55,
+        82,
+        33
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Company",
+      "confidence": 94.922035,
+      "box": [
+        178,
+        56,
+        176,
+        41
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "PURCHASE",
+      "confidence": 96.494301,
+      "box": [
+        826,
+        63,
+        261,
+        38
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "ORDER",
+      "confidence": 96.277786,
+      "box": [
+        1103,
+        65,
+        164,
+        36
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Shop-12,",
+      "confidence": 63.922295,
+      "box": [
+        86,
+        116,
+        86,
+        22
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Panjora,",
+      "confidence": 92.122223,
+      "box": [
+        87,
+        151,
+        78,
+        21
+      ],
+      "block": 2,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "Gazipur,",
+      "confidence": 95.380997,
+      "box": [
+        174,
+        152,
+        79,
+        20
+      ],
+      "block": 2,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "Number",
+      "confidence": 73.665802,
+      "box": [
+        969,
+        158,
+        74,
+        15
+      ],
+      "block": 2,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "PO",
+      "confidence": 74.35376,
+      "box": [
+        1201,
+        159,
+        29,
+        16
+      ],
+      "block": 2,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "-",
+      "confidence": 74.35376,
+      "box": [
+        1235,
+        152,
+        8,
+        29
+      ],
+      "block": 2,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "20",
+      "confidence": 96.831642,
+      "box": [
+        1250,
+        158,
+        23,
+        16
+      ],
+      "block": 2,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "Dhaka,",
+      "confidence": 95.570923,
+      "box": [
+        87,
+        182,
+        66,
+        31
+      ],
+      "block": 2,
+      "paragraph": 3,
+      "line": 1
+    },
+    {
+      "text": ":",
+      "confidence": 60.167252,
+      "box": [
+        1236,
+        166,
+        7,
+        4
+      ],
+      "block": 2,
+      "paragraph": 3,
+      "line": 1
+    },
+    {
+      "text": "Banglasesh",
+      "confidence": 90.696831,
+      "box": [
+        87,
+        217,
+        113,
+        29
+      ],
+      "block": 2,
+      "paragraph": 4,
+      "line": 1
+    },
+    {
+      "text": "Bay",
+      "confidence": 39.46011,
+      "box": [
+        1002,
+        200,
+        42,
+        15
+      ],
+      "block": 2,
+      "paragraph": 4,
+      "line": 1
+    },
+    {
+      "text": "ae",
+      "confidence": 13.130066,
+      "box": [
+        1167,
+        200,
+        107,
+        16
+      ],
+      "block": 2,
+      "paragraph": 4,
+      "line": 1
+    },
+    {
+      "text": "Due",
+      "confidence": 96.087677,
+      "box": [
+        958,
+        241,
+        37,
+        15
+      ],
+      "block": 2,
+      "paragraph": 4,
+      "line": 2
+    },
+    {
+      "text": "Date",
+      "confidence": 96.668335,
+      "box": [
+        1003,
+        241,
+        43,
+        15
+      ],
+      "block": 2,
+      "paragraph": 4,
+      "line": 2
+    },
+    {
+      "text": "2026-10-16",
+      "confidence": 96.325363,
+      "box": [
+        1168,
+        241,
+        108,
+        16
+      ],
+      "block": 2,
+      "paragraph": 4,
+      "line": 2
+    },
+    {
+      "text": "BILL",
+      "confidence": 71.85228,
+      "box": [
+        83,
+        485,
+        56,
+        19
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "TO",
+      "confidence": 71.85228,
+      "box": [
+        148,
+        484,
+        33,
+        19
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "XK",
+      "confidence": 95.725754,
+      "box": [
+        81,
+        541,
+        44,
+        24
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Company",
+      "confidence": 96.164536,
+      "box": [
+        135,
+        540,
+        147,
+        32
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Shop-43,",
+      "confidence": 91.837265,
+      "box": [
+        81,
+        594,
+        88,
+        22
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Mirpue-10",
+      "confidence": 88.857155,
+      "box": [
+        80,
+        630,
+        101,
+        21
+      ],
+      "block": 5,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "Dhaka,",
+      "confidence": 95.551689,
+      "box": [
+        80,
+        665,
+        69,
+        17
+      ],
+      "block": 5,
+      "paragraph": 3,
+      "line": 1
+    },
+    {
+      "text": "Banglasesh",
+      "confidence": 92.403671,
+      "box": [
+        80,
+        700,
+        116,
+        22
+      ],
+      "block": 5,
+      "paragraph": 4,
+      "line": 1
+    },
+    {
+      "text": "AMOUNT",
+      "confidence": 96.789841,
+      "box": [
+        1168,
+        874,
+        98,
+        16
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "DESCRIPTION",
+      "confidence": 95.76152,
+      "box": [
+        118,
+        889,
+        166,
+        17
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Taxable",
+      "confidence": 95.33606,
+      "box": [
+        737,
+        1129,
+        84,
+        21
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Amount:",
+      "confidence": 94.590317,
+      "box": [
+        829,
+        1128,
+        90,
+        21
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "$2.01",
+      "confidence": 95.337234,
+      "box": [
+        1219,
+        1122,
+        58,
+        23
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "——————————",
+      "confidence": 3.368607,
+      "box": [
+        699,
+        1189,
+        622,
+        19
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "EE",
+      "confidence": 27.606041,
+      "box": [
+        967,
+        1185,
+        151,
+        27
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Total:",
+      "confidence": 96.402496,
+      "box": [
+        739,
+        1232,
+        85,
+        46
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "$2.37",
+      "confidence": 96.143555,
+      "box": [
+        1188,
+        1233,
+        97,
+        38
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Thank",
+      "confidence": 96.26078,
+      "box": [
+        568,
+        1570,
+        63,
+        19
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "you",
+      "confidence": 96.755402,
+      "box": [
+        638,
+        1573,
+        34,
+        20
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "for",
+      "confidence": 96.837143,
+      "box": [
+        681,
+        1568,
+        25,
+        18
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "your",
+      "confidence": 95.597649,
+      "box": [
+        713,
+        1571,
+        45,
+        19
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "business!",
+      "confidence": 80.884781,
+      "box": [
+        764,
+        1564,
+        95,
+        20
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Powered",
+      "confidence": 95.534531,
+      "box": [
+        577,
+        1604,
+        86,
+        21
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "by",
+      "confidence": 93.165314,
+      "box": [
+        671,
+        1604,
+        22,
+        22
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "HGT",
+      "confidence": 93.165314,
+      "box": [
+        702,
+        1601,
+        47,
+        20
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Company",
+      "confidence": 95.711639,
+      "box": [
+        756,
+        1600,
+        96,
+        22
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 2
+    }
+  ]
+}

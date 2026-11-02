@@ -1,0 +1,226 @@
+{
+  "sample_id": "42d9b408c783",
+  "source_path": "Dataset/Dataset-2/Customer copy/IMG_1002.HEIC",
+  "source_sha256": "a3a97e474f517440207daa3948036881d578181cd41e44a38eea7508477e74b6",
+  "prepared_image_path": "data/images/42d9b408c783.jpg",
+  "prepared_image_sha256": "bfc211fa8df7c5268caf912fbecb25cf8214e9faa6b428bd88e7b7f3231284ae",
+  "label": "customer_copy",
+  "split": "train",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "Shop: Padma Distribution Ltd. Invoice No: INV-4532,\nDate: 13/09/2026.\nSales Invoice\n\nCustomer: Kashem Enterprise, Jatrabari, Dhaka.\n\n",
+  "ocr_image_size": [
+    1400,
+    2234
+  ],
+  "words": [
+    {
+      "text": "Shop:",
+      "confidence": 96.073753,
+      "box": [
+        75,
+        209,
+        94,
+        40
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Padma",
+      "confidence": 96.802086,
+      "box": [
+        183,
+        210,
+        106,
+        31
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Distribution",
+      "confidence": 96.856453,
+      "box": [
+        299,
+        211,
+        181,
+        30
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Ltd.",
+      "confidence": 95.535278,
+      "box": [
+        490,
+        211,
+        58,
+        30
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Invoice",
+      "confidence": 96.752914,
+      "box": [
+        917,
+        208,
+        111,
+        35
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "No:",
+      "confidence": 93.158859,
+      "box": [
+        1036,
+        211,
+        55,
+        33
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "INV-4532,",
+      "confidence": 46.094978,
+      "box": [
+        1105,
+        212,
+        148,
+        33
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Date:",
+      "confidence": 96.181366,
+      "box": [
+        918,
+        260,
+        85,
+        32
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "13/09/2026.",
+      "confidence": 96.793205,
+      "box": [
+        1020,
+        260,
+        173,
+        33
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Sales",
+      "confidence": 96.208229,
+      "box": [
+        514,
+        357,
+        124,
+        46
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Invoice",
+      "confidence": 95.426102,
+      "box": [
+        654,
+        359,
+        176,
+        45
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Customer:",
+      "confidence": 93.294724,
+      "box": [
+        67,
+        471,
+        177,
+        30
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Kashem",
+      "confidence": 91.54834,
+      "box": [
+        261,
+        470,
+        124,
+        31
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Enterprise,",
+      "confidence": 93.254219,
+      "box": [
+        396,
+        471,
+        167,
+        37
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Jatrabari,",
+      "confidence": 92.620193,
+      "box": [
+        573,
+        470,
+        140,
+        36
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Dhaka.",
+      "confidence": 96.515678,
+      "box": [
+        723,
+        471,
+        105,
+        31
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    }
+  ]
+}

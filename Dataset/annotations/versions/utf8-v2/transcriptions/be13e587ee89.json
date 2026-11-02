@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "be13e587ee89",
+  "source_image": {
+    "path": "Dataset/Receipt/cord-train-0140.jpg",
+    "sha256": "62269d4704984c86bc94e3cf8a92e39c6061e842bb0547b005a04469588886f4"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/be13e587ee89.jpg",
+    "sha256": "278a9d3278f1a83fcbb01527a315d6b836c92c50d7bcea8dbaa9d4e72d5a863c"
+  },
+  "classification": {
+    "label": "receipt",
+    "split": "test"
+  },
+  "transcription": {
+    "full_text": "[redacted]\n1 Seafood Tempura BBQ 40,000\n1 - Pedas sedikit 0\n1 Sweet Plum Potato* 29,000\nITEMS:2 69,000\nTotal......... 69,000\nPay Cash 80,000\nChange:11,000\n[redacted]",
+    "lines": [
+      "[redacted]",
+      "1 Seafood Tempura BBQ 40,000",
+      "1 - Pedas sedikit 0",
+      "1 Sweet Plum Potato* 29,000",
+      "ITEMS:2 69,000",
+      "Total......... 69,000",
+      "Pay Cash 80,000",
+      "Change:11,000",
+      "[redacted]"
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [
+      "Source has pixelated/blurred regions marked [redacted]; these cannot be recovered from the image."
+    ],
+    "notes": "Full visible receipt content reviewed; original spelling, language, and amounts preserved."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/be13e587ee89.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

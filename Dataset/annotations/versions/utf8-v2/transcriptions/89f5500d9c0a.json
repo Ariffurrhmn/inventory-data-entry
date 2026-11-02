@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "89f5500d9c0a",
+  "source_image": {
+    "path": "Dataset/Customer_Copy/image_1043.jpg",
+    "sha256": "0159b718365a711058a3266678fd34d4bfc59150aa0e0b58e7c563c1d875e33d"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/89f5500d9c0a.jpg",
+    "sha256": "76352926fb6caea3393e101b4ab95a5441e9d6a227634c871404edd4ea095a87"
+  },
+  "classification": {
+    "label": "customer_copy",
+    "split": "test"
+  },
+  "transcription": {
+    "full_text": "Welcome to Chick-fil-A\nMt. Pleasant (#00854)\n(843) 881-6811\nOperator: Josh Malone\nCUSTOMER COPY\n7/9/2010 7:20:58 PM\nEAT IN\nOrder Number: 964660\n1 Meal-CGSand 4.64\n1 Promo Free (1.59)\n1 Promo Free (4.64)\n1 Dt Lmnde MD 1.59\nSub. Total: $0.00\nTax: $0.00\nTotal: $0.00\nDiscount Total: ($6.23)\nChange $0.00\nExact Dollar $0.00\nRegister:6 Tran Seq No: 964660\nCashier:John Denniso\nIt was our pleasure serving you!\nHave a wonderful day.",
+    "lines": [
+      "Welcome to Chick-fil-A",
+      "Mt. Pleasant (#00854)",
+      "(843) 881-6811",
+      "Operator: Josh Malone",
+      "CUSTOMER COPY",
+      "7/9/2010 7:20:58 PM",
+      "EAT IN",
+      "Order Number: 964660",
+      "1 Meal-CGSand 4.64",
+      "1 Promo Free (1.59)",
+      "1 Promo Free (4.64)",
+      "1 Dt Lmnde MD 1.59",
+      "Sub. Total: $0.00",
+      "Tax: $0.00",
+      "Total: $0.00",
+      "Discount Total: ($6.23)",
+      "Change $0.00",
+      "Exact Dollar $0.00",
+      "Register:6 Tran Seq No: 964660",
+      "Cashier:John Denniso",
+      "It was our pleasure serving you!",
+      "Have a wonderful day."
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [],
+    "notes": "Visually checked; blank fields left blank. Printed masking is represented by [masked] where exact symbol count is not reliable."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/89f5500d9c0a.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

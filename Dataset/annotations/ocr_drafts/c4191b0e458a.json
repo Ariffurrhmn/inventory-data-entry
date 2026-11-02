@@ -1,0 +1,616 @@
+{
+  "sample_id": "c4191b0e458a",
+  "source_path": "Dataset/Dataset-2/Purchase order/IMG_0982.HEIC",
+  "source_sha256": "abeff9905c44e4d8a605015e885549f9da4793426252413b4dcaf175668505ce",
+  "prepared_image_path": "data/images/c4191b0e458a.jpg",
+  "prepared_image_sha256": "282531cde2350838095cae906af89d7f9ab037b2e3cb3ec78ba0526efe6631d4",
+  "label": "purchase_order",
+  "split": "test",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "YY Rahim General Store\n\noe Jatrabari, Dhaka.\n\nPurchase Order\n\nP.O. No: PO-5120\nOrder Date: 07/10/2026\n\nSupplier: Bill To / Ship To:\nTeesta Enterprise. Rahim General Store,\nJatrabari, Dhaka.\n\nMiniket Rice 25kg Tk 1,850\n\nSugar 1kg ne - Tk135 Tk 270\nPr IT\n\nTk 1,320\n\nAuthorized Signature\n",
+  "ocr_image_size": [
+    1400,
+    2017
+  ],
+  "words": [
+    {
+      "text": "YY",
+      "confidence": 52.099258,
+      "box": [
+        224,
+        103,
+        176,
+        144
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Rahim",
+      "confidence": 96.655708,
+      "box": [
+        441,
+        147,
+        252,
+        68
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "General",
+      "confidence": 96.740318,
+      "box": [
+        712,
+        152,
+        286,
+        70
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Store",
+      "confidence": 96.882492,
+      "box": [
+        1017,
+        159,
+        193,
+        70
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "oe",
+      "confidence": 6.860519,
+      "box": [
+        279,
+        252,
+        82,
+        29
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Jatrabari,",
+      "confidence": 91.999878,
+      "box": [
+        610,
+        244,
+        190,
+        42
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Dhaka.",
+      "confidence": 96.685028,
+      "box": [
+        814,
+        247,
+        137,
+        37
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Purchase",
+      "confidence": 95.929985,
+      "box": [
+        360,
+        380,
+        422,
+        85
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Order",
+      "confidence": 96.462189,
+      "box": [
+        808,
+        388,
+        268,
+        81
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "P.O.",
+      "confidence": 82.957237,
+      "box": [
+        98,
+        505,
+        77,
+        32
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "No:",
+      "confidence": 93.253593,
+      "box": [
+        186,
+        495,
+        67,
+        44
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "PO-5120",
+      "confidence": 90.891327,
+      "box": [
+        264,
+        509,
+        165,
+        35
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Order",
+      "confidence": 96.066925,
+      "box": [
+        96,
+        567,
+        117,
+        33
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Date:",
+      "confidence": 95.949738,
+      "box": [
+        223,
+        570,
+        103,
+        33
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "07/10/2026",
+      "confidence": 96.419312,
+      "box": [
+        343,
+        573,
+        206,
+        38
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Supplier:",
+      "confidence": 96.749023,
+      "box": [
+        112,
+        646,
+        170,
+        77
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Bill",
+      "confidence": 96.21907,
+      "box": [
+        760,
+        676,
+        64,
+        35
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "To",
+      "confidence": 93.298355,
+      "box": [
+        833,
+        680,
+        48,
+        32
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "/",
+      "confidence": 92.039619,
+      "box": [
+        890,
+        679,
+        17,
+        38
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Ship",
+      "confidence": 96.213226,
+      "box": [
+        918,
+        678,
+        84,
+        43
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "To:",
+      "confidence": 96.533936,
+      "box": [
+        1011,
+        679,
+        60,
+        34
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Teesta",
+      "confidence": 92.256485,
+      "box": [
+        111,
+        748,
+        115,
+        33
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Enterprise.",
+      "confidence": 96.506493,
+      "box": [
+        236,
+        751,
+        198,
+        41
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Rahim",
+      "confidence": 96.583092,
+      "box": [
+        762,
+        758,
+        114,
+        33
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "General",
+      "confidence": 96.840088,
+      "box": [
+        887,
+        759,
+        136,
+        34
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Store,",
+      "confidence": 96.63427,
+      "box": [
+        1034,
+        761,
+        101,
+        37
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Jatrabari,",
+      "confidence": 93.051109,
+      "box": [
+        760,
+        811,
+        165,
+        38
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Dhaka.",
+      "confidence": 96.507141,
+      "box": [
+        936,
+        812,
+        120,
+        34
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Miniket",
+      "confidence": 90.985397,
+      "box": [
+        86,
+        1083,
+        142,
+        35
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Rice",
+      "confidence": 93.282478,
+      "box": [
+        238,
+        1085,
+        77,
+        35
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "25kg",
+      "confidence": 93.160034,
+      "box": [
+        326,
+        1086,
+        88,
+        44
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Tk",
+      "confidence": 96.588486,
+      "box": [
+        803,
+        1093,
+        47,
+        33
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "1,850",
+      "confidence": 96.67144,
+      "box": [
+        864,
+        1096,
+        94,
+        37
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Sugar",
+      "confidence": 93.274864,
+      "box": [
+        79,
+        1202,
+        109,
+        43
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "1kg",
+      "confidence": 93.032913,
+      "box": [
+        201,
+        1201,
+        67,
+        45
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "ne",
+      "confidence": 23.311722,
+      "box": [
+        511,
+        1164,
+        197,
+        127
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "-",
+      "confidence": 0.0,
+      "box": [
+        740,
+        1248,
+        2,
+        2
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Tk135",
+      "confidence": 67.331711,
+      "box": [
+        816,
+        1210,
+        126,
+        36
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Tk",
+      "confidence": 96.395058,
+      "box": [
+        1146,
+        1215,
+        51,
+        35
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "270",
+      "confidence": 96.395058,
+      "box": [
+        1209,
+        1218,
+        65,
+        34
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Pr",
+      "confidence": 15.776741,
+      "box": [
+        71,
+        1326,
+        293,
+        48
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "IT",
+      "confidence": 18.52494,
+      "box": [
+        513,
+        1290,
+        195,
+        119
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Tk",
+      "confidence": 96.129715,
+      "box": [
+        1133,
+        1338,
+        49,
+        36
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "1,320",
+      "confidence": 96.864189,
+      "box": [
+        1198,
+        1341,
+        96,
+        39
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Authorized",
+      "confidence": 96.979607,
+      "box": [
+        929,
+        1901,
+        188,
+        37
+      ],
+      "block": 16,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Signature",
+      "confidence": 96.784996,
+      "box": [
+        1127,
+        1903,
+        163,
+        44
+      ],
+      "block": 16,
+      "paragraph": 1,
+      "line": 1
+    }
+  ]
+}

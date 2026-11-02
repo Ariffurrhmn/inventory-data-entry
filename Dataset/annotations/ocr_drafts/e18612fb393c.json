@@ -1,0 +1,369 @@
+{
+  "sample_id": "e18612fb393c",
+  "source_path": "Dataset/Dataset-2/Purchase order/IMG_0966.HEIC",
+  "source_sha256": "174e7c28f497321c849915b019b24cbbfcdeaeb9e7e5220ec4002da65847afa9",
+  "prepared_image_path": "data/images/e18612fb393c.jpg",
+  "prepared_image_sha256": "b6ad8499f3170c632136f3ae0a8f83bdfea426a744c7bf9cf3031c7a373885b3",
+  "label": "delivery_note",
+  "split": "test",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "; Order 1111\nPacking Slip October 1, 2028\n\n1\n1\n1\n1\n1\n1\n1\nL]\n1\n1\n1\n1\n|]\n1\n1\n1\n\n1\ni\n1B\n\n",
+  "ocr_image_size": [
+    1800,
+    1350
+  ],
+  "words": [
+    {
+      "text": ";",
+      "confidence": 34.28009,
+      "box": [
+        232,
+        328,
+        2,
+        2
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Order",
+      "confidence": 34.038635,
+      "box": [
+        1523,
+        347,
+        94,
+        2
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "1111",
+      "confidence": 66.82206,
+      "box": [
+        1629,
+        307,
+        49,
+        51
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Packing",
+      "confidence": 95.432961,
+      "box": [
+        148,
+        327,
+        175,
+        44
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Slip",
+      "confidence": 95.431091,
+      "box": [
+        334,
+        327,
+        80,
+        44
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "October",
+      "confidence": 92.750526,
+      "box": [
+        1516,
+        349,
+        167,
+        26
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "1,",
+      "confidence": 62.333664,
+      "box": [
+        1603,
+        333,
+        22,
+        50
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "2028",
+      "confidence": 62.333664,
+      "box": [
+        1632,
+        349,
+        51,
+        26
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "1",
+      "confidence": 91.71817,
+      "box": [
+        26,
+        321,
+        4,
+        15
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "1",
+      "confidence": 95.081924,
+      "box": [
+        25,
+        349,
+        5,
+        15
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "1",
+      "confidence": 67.174728,
+      "box": [
+        26,
+        378,
+        4,
+        14
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "1",
+      "confidence": 85.870804,
+      "box": [
+        24,
+        406,
+        6,
+        15
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "1",
+      "confidence": 78.98394,
+      "box": [
+        25,
+        435,
+        5,
+        15
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "1",
+      "confidence": 73.900803,
+      "box": [
+        26,
+        462,
+        4,
+        16
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "1",
+      "confidence": 43.597878,
+      "box": [
+        25,
+        491,
+        5,
+        15
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 7
+    },
+    {
+      "text": "L]",
+      "confidence": 0.0,
+      "box": [
+        24,
+        520,
+        5,
+        16
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 8
+    },
+    {
+      "text": "1",
+      "confidence": 67.098701,
+      "box": [
+        25,
+        548,
+        5,
+        15
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 9
+    },
+    {
+      "text": "1",
+      "confidence": 93.617317,
+      "box": [
+        24,
+        577,
+        5,
+        15
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 10
+    },
+    {
+      "text": "1",
+      "confidence": 96.07946,
+      "box": [
+        24,
+        606,
+        5,
+        15
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 11
+    },
+    {
+      "text": "1",
+      "confidence": 93.586952,
+      "box": [
+        24,
+        634,
+        5,
+        16
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 12
+    },
+    {
+      "text": "|]",
+      "confidence": 0.0,
+      "box": [
+        23,
+        662,
+        6,
+        16
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 13
+    },
+    {
+      "text": "1",
+      "confidence": 96.216064,
+      "box": [
+        24,
+        691,
+        5,
+        16
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 14
+    },
+    {
+      "text": "1",
+      "confidence": 95.134819,
+      "box": [
+        24,
+        720,
+        5,
+        16
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 15
+    },
+    {
+      "text": "1",
+      "confidence": 82.324898,
+      "box": [
+        23,
+        749,
+        6,
+        16
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 16
+    },
+    {
+      "text": "1",
+      "confidence": 94.434746,
+      "box": [
+        21,
+        777,
+        8,
+        16
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "i",
+      "confidence": 42.542309,
+      "box": [
+        15,
+        805,
+        14,
+        20
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "1B",
+      "confidence": 26.570984,
+      "box": [
+        20,
+        863,
+        30,
+        23
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 3
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "sample_id": "382ba345a187",
+  "source_path": "Dataset/Dataset-2/Customer copy/IMG_1003.HEIC",
+  "source_sha256": "0a91f6a327f794c70dbf265ab225e4574212eee991e548ed4b948f1c88815e31",
+  "prepared_image_path": "data/images/382ba345a187.jpg",
+  "prepared_image_sha256": "623e9fdaadbb56b0dd6169a287c3a964c1433e3a2598dacfc6901b40cbcdeaea",
+  "label": "customer_copy",
+  "split": "val",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "Cash Memo\n\nDhaka Trade House\n\n",
+  "ocr_image_size": [
+    1400,
+    1866
+  ],
+  "words": [
+    {
+      "text": "Cash",
+      "confidence": 96.627205,
+      "box": [
+        549,
+        271,
+        107,
+        46
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Memo",
+      "confidence": 96.454796,
+      "box": [
+        673,
+        276,
+        135,
+        39
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Dhaka",
+      "confidence": 95.840248,
+      "box": [
+        304,
+        154,
+        250,
+        73
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Trade",
+      "confidence": 96.206635,
+      "box": [
+        579,
+        161,
+        223,
+        71
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "House",
+      "confidence": 96.401764,
+      "box": [
+        827,
+        165,
+        226,
+        73
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    }
+  ]
+}

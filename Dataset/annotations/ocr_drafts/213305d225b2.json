@@ -1,0 +1,330 @@
+{
+  "sample_id": "213305d225b2",
+  "source_path": "Dataset/Receipt/cord-train-0020.jpg",
+  "source_sha256": "c60ae735a0a4f5f6017248015f942f6c59b8caf583470bcc30b448157fcd196b",
+  "prepared_image_path": "data/images/213305d225b2.jpg",
+  "prepared_image_sha256": "9fb73094f6ab871bb1e2a4ac19beb964c38efd4b3fde1db168465785a806b8bf",
+  "label": "receipt",
+  "split": "train",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "BUBUR UNGU\nDISC ITEM\n\nAMOUNT\nSENDOK BEBEK\nWAJ IK\n\nDISC ITEM\nAMOUNT\nCENTIK MANIS\nDISC ITEM\nAMOUNT\nPLASTIK SEDANG\nSUBTOTAL\nTOTAL\nCasH\nSa |\n\n",
+  "ocr_image_size": [
+    1400,
+    2490
+  ],
+  "words": [
+    {
+      "text": "BUBUR",
+      "confidence": 84.525116,
+      "box": [
+        272,
+        1160,
+        130,
+        46
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "UNGU",
+      "confidence": 91.601486,
+      "box": [
+        434,
+        1158,
+        101,
+        44
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "DISC",
+      "confidence": 96.279472,
+      "box": [
+        274,
+        1225,
+        103,
+        47
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "ITEM",
+      "confidence": 92.00061,
+      "box": [
+        411,
+        1222,
+        100,
+        47
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "AMOUNT",
+      "confidence": 96.74308,
+      "box": [
+        278,
+        1288,
+        153,
+        47
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "SENDOK",
+      "confidence": 90.327126,
+      "box": [
+        280,
+        1353,
+        154,
+        44
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "BEBEK",
+      "confidence": 90.327126,
+      "box": [
+        465,
+        1348,
+        126,
+        46
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "WAJ",
+      "confidence": 70.873222,
+      "box": [
+        282,
+        1415,
+        128,
+        44
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "IK",
+      "confidence": 95.383545,
+      "box": [
+        368,
+        1399,
+        42,
+        72
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "DISC",
+      "confidence": 96.600243,
+      "box": [
+        285,
+        1479,
+        101,
+        44
+      ],
+      "block": 2,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "ITEM",
+      "confidence": 96.76049,
+      "box": [
+        418,
+        1476,
+        100,
+        45
+      ],
+      "block": 2,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "AMOUNT",
+      "confidence": 94.264771,
+      "box": [
+        290,
+        1539,
+        150,
+        46
+      ],
+      "block": 2,
+      "paragraph": 2,
+      "line": 2
+    },
+    {
+      "text": "CENTIK",
+      "confidence": 90.463165,
+      "box": [
+        293,
+        1602,
+        151,
+        43
+      ],
+      "block": 2,
+      "paragraph": 2,
+      "line": 3
+    },
+    {
+      "text": "MANIS",
+      "confidence": 91.006226,
+      "box": [
+        473,
+        1597,
+        127,
+        45
+      ],
+      "block": 2,
+      "paragraph": 2,
+      "line": 3
+    },
+    {
+      "text": "DISC",
+      "confidence": 95.215065,
+      "box": [
+        297,
+        1662,
+        97,
+        44
+      ],
+      "block": 2,
+      "paragraph": 2,
+      "line": 4
+    },
+    {
+      "text": "ITEM",
+      "confidence": 95.315155,
+      "box": [
+        427,
+        1658,
+        98,
+        45
+      ],
+      "block": 2,
+      "paragraph": 2,
+      "line": 4
+    },
+    {
+      "text": "AMOUNT",
+      "confidence": 96.412544,
+      "box": [
+        305,
+        1718,
+        143,
+        46
+      ],
+      "block": 2,
+      "paragraph": 2,
+      "line": 5
+    },
+    {
+      "text": "PLASTIK",
+      "confidence": 92.403793,
+      "box": [
+        308,
+        1775,
+        169,
+        48
+      ],
+      "block": 2,
+      "paragraph": 2,
+      "line": 6
+    },
+    {
+      "text": "SEDANG",
+      "confidence": 91.908188,
+      "box": [
+        506,
+        1776,
+        151,
+        42
+      ],
+      "block": 2,
+      "paragraph": 2,
+      "line": 6
+    },
+    {
+      "text": "SUBTOTAL",
+      "confidence": 96.42778,
+      "box": [
+        312,
+        1833,
+        194,
+        47
+      ],
+      "block": 2,
+      "paragraph": 2,
+      "line": 7
+    },
+    {
+      "text": "TOTAL",
+      "confidence": 93.952629,
+      "box": [
+        320,
+        1888,
+        235,
+        51
+      ],
+      "block": 2,
+      "paragraph": 2,
+      "line": 8
+    },
+    {
+      "text": "CasH",
+      "confidence": 89.453415,
+      "box": [
+        320,
+        1943,
+        187,
+        53
+      ],
+      "block": 2,
+      "paragraph": 2,
+      "line": 9
+    },
+    {
+      "text": "Sa",
+      "confidence": 6.836464,
+      "box": [
+        328,
+        1995,
+        102,
+        53
+      ],
+      "block": 2,
+      "paragraph": 2,
+      "line": 10
+    },
+    {
+      "text": "|",
+      "confidence": 63.120247,
+      "box": [
+        418,
+        1990,
+        13,
+        71
+      ],
+      "block": 2,
+      "paragraph": 2,
+      "line": 10
+    }
+  ]
+}

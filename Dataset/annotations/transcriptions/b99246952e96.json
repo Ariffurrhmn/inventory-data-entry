@@ -1,0 +1,59 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "b99246952e96",
+  "source_image": {
+    "path": "Dataset/Purchase_Order/purchase order-PO - 20.jpg",
+    "sha256": "0136189a9a0155d0be814cd8e0e064e16439e82ca2252a05df57584845e04b04"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/b99246952e96.jpg",
+    "sha256": "fdbd540e5336e7a24e23a21160eec7c79fff5d80aa7084c3cb45a8eae66f6b1d"
+  },
+  "classification": {
+    "label": "purchase_order",
+    "split": "train"
+  },
+  "transcription": {
+    "full_text": "HGT Company\nShop-12,\nPanjora, Gazipur,\nDhaka,\nBanglasesh\nPURCHASE ORDER\nNumber: PO - 20\nDate: 2026-09-18\nDue Date: 2026-10-16\nBILL TO\nXK Company\nShop-43,\nMirpue-10\nDhaka,\nBanglasesh\nDESCRIPTION QTY RATE AMOUNT\nEarphones 1 $2.01 $2.37\nTaxable Amount: $2.01\nTotal: $2.37\nThank you for your business!\nPowered by HGT Company",
+    "lines": [
+      "HGT Company",
+      "Shop-12,",
+      "Panjora, Gazipur,",
+      "Dhaka,",
+      "Banglasesh",
+      "PURCHASE ORDER",
+      "Number: PO - 20",
+      "Date: 2026-09-18",
+      "Due Date: 2026-10-16",
+      "BILL TO",
+      "XK Company",
+      "Shop-43,",
+      "Mirpue-10",
+      "Dhaka,",
+      "Banglasesh",
+      "DESCRIPTION QTY RATE AMOUNT",
+      "Earphones 1 $2.01 $2.37",
+      "Taxable Amount: $2.01",
+      "Total: $2.37",
+      "Thank you for your business!",
+      "Powered by HGT Company"
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [],
+    "notes": "Preserved printed spelling Banglasesh and Mirpue-10; did not repair amounts."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/b99246952e96.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

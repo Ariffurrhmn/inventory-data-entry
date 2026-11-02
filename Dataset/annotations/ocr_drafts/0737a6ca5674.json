@@ -1,0 +1,486 @@
+{
+  "sample_id": "0737a6ca5674",
+  "source_path": "Dataset/Delivery_Note/packing-slip-1094.png",
+  "source_sha256": "34dbb8df64c786e5dc88495b4786e162721904444723cc6b974d38ed5d34eec3",
+  "prepared_image_path": "data/images/0737a6ca5674.jpg",
+  "prepared_image_sha256": "b700fda0cd988456858667d6b517b81c4cab963dc846c64fe9ad6594b64dbaeb",
+  "label": "delivery_note",
+  "split": "test",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "Packing Slip\n\nFrom\n\nCrimson&Co\n\n07 South Bishil Road\n1216\n\nBangladesh\n\nShip to\n\nOrder #1094\nSeptember 16, 2026\n\nOrder Details\n\nQty Item\n1 Vintage-Style Contrast Ringer Tee - XL\n\n1 Natural Raw Ecru Denim Jeans - 34\n",
+  "ocr_image_size": [
+    1400,
+    1680
+  ],
+  "words": [
+    {
+      "text": "Packing",
+      "confidence": 96.404297,
+      "box": [
+        83,
+        25,
+        129,
+        31
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Slip",
+      "confidence": 95.050819,
+      "box": [
+        225,
+        24,
+        58,
+        32
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "From",
+      "confidence": 96.56263,
+      "box": [
+        82,
+        92,
+        46,
+        14
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Crimson&Co",
+      "confidence": 90.856697,
+      "box": [
+        82,
+        112,
+        106,
+        15
+      ],
+      "block": 2,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "07",
+      "confidence": 96.890465,
+      "box": [
+        82,
+        134,
+        20,
+        13
+      ],
+      "block": 2,
+      "paragraph": 3,
+      "line": 1
+    },
+    {
+      "text": "South",
+      "confidence": 93.179329,
+      "box": [
+        108,
+        133,
+        48,
+        14
+      ],
+      "block": 2,
+      "paragraph": 3,
+      "line": 1
+    },
+    {
+      "text": "Bishil",
+      "confidence": 84.276947,
+      "box": [
+        165,
+        134,
+        42,
+        13
+      ],
+      "block": 2,
+      "paragraph": 3,
+      "line": 1
+    },
+    {
+      "text": "Road",
+      "confidence": 96.993179,
+      "box": [
+        215,
+        134,
+        43,
+        13
+      ],
+      "block": 2,
+      "paragraph": 3,
+      "line": 1
+    },
+    {
+      "text": "1216",
+      "confidence": 96.774689,
+      "box": [
+        83,
+        153,
+        40,
+        14
+      ],
+      "block": 2,
+      "paragraph": 3,
+      "line": 2
+    },
+    {
+      "text": "Bangladesh",
+      "confidence": 96.618141,
+      "box": [
+        82,
+        174,
+        99,
+        18
+      ],
+      "block": 2,
+      "paragraph": 4,
+      "line": 1
+    },
+    {
+      "text": "Ship",
+      "confidence": 95.987785,
+      "box": [
+        700,
+        92,
+        39,
+        17
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "to",
+      "confidence": 96.619896,
+      "box": [
+        744,
+        92,
+        18,
+        14
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Order",
+      "confidence": 96.834396,
+      "box": [
+        1212,
+        21,
+        47,
+        15
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "#1094",
+      "confidence": 96.9049,
+      "box": [
+        1265,
+        22,
+        52,
+        13
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "September",
+      "confidence": 96.74955,
+      "box": [
+        1146,
+        42,
+        92,
+        18
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "16,",
+      "confidence": 96.771027,
+      "box": [
+        1245,
+        43,
+        24,
+        16
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "2026",
+      "confidence": 96.877075,
+      "box": [
+        1275,
+        43,
+        42,
+        13
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Order",
+      "confidence": 96.473885,
+      "box": [
+        82,
+        254,
+        56,
+        15
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Details",
+      "confidence": 94.377312,
+      "box": [
+        145,
+        254,
+        65,
+        15
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Qty",
+      "confidence": 95.663094,
+      "box": [
+        90,
+        301,
+        38,
+        30
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Item",
+      "confidence": 93.606232,
+      "box": [
+        278,
+        306,
+        38,
+        14
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "1",
+      "confidence": 96.849892,
+      "box": [
+        95,
+        348,
+        5,
+        13
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Vintage-Style",
+      "confidence": 92.075607,
+      "box": [
+        277,
+        348,
+        112,
+        17
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Contrast",
+      "confidence": 96.80835,
+      "box": [
+        395,
+        347,
+        72,
+        15
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Ringer",
+      "confidence": 96.525986,
+      "box": [
+        473,
+        348,
+        55,
+        17
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Tee",
+      "confidence": 92.843811,
+      "box": [
+        532,
+        348,
+        29,
+        14
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "-",
+      "confidence": 89.979401,
+      "box": [
+        568,
+        355,
+        5,
+        2
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "XL",
+      "confidence": 95.744865,
+      "box": [
+        580,
+        348,
+        21,
+        13
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "1",
+      "confidence": 96.901482,
+      "box": [
+        95,
+        389,
+        5,
+        13
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Natural",
+      "confidence": 96.942657,
+      "box": [
+        278,
+        389,
+        59,
+        13
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Raw",
+      "confidence": 96.968773,
+      "box": [
+        345,
+        388,
+        36,
+        14
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Ecru",
+      "confidence": 96.968773,
+      "box": [
+        387,
+        388,
+        36,
+        14
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Denim",
+      "confidence": 96.929581,
+      "box": [
+        431,
+        388,
+        52,
+        14
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Jeans",
+      "confidence": 93.253174,
+      "box": [
+        489,
+        389,
+        49,
+        13
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "-",
+      "confidence": 92.376122,
+      "box": [
+        546,
+        395,
+        5,
+        3
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "34",
+      "confidence": 95.216957,
+      "box": [
+        557,
+        388,
+        21,
+        14
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    }
+  ]
+}

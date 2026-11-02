@@ -1,0 +1,330 @@
+{
+  "sample_id": "53ed22a39c62",
+  "source_path": "Dataset/Dataset-2/Purchase order/IMG_0973.HEIC",
+  "source_sha256": "668076443f086d17b62ffa4eca534a27da0457a1429e635e84ae0aca022193b3",
+  "prepared_image_path": "data/images/53ed22a39c62.jpg",
+  "prepared_image_sha256": "086454427cab417caf0a9e2ac4d9323d7f06a35cb5faf50793e81dd12aab7560",
+  "label": "purchase_order",
+  "split": "test",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "NS Meghna Store\n\nMirpur-10, Dhaka.\n\nOrder Slip\n\nTo:\n\nOrderNo:  ORD-2611\nSurma Food Supply\n\nOrder Date: 11/10/2026\nRequired By: 16/10/2026\n\nPlease supply the following goods:\n\n",
+  "ocr_image_size": [
+    1400,
+    1866
+  ],
+  "words": [
+    {
+      "text": "NS",
+      "confidence": 81.995331,
+      "box": [
+        137,
+        37,
+        118,
+        138
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Meghna",
+      "confidence": 96.497231,
+      "box": [
+        284,
+        64,
+        243,
+        66
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Store",
+      "confidence": 96.152985,
+      "box": [
+        547,
+        71,
+        159,
+        54
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Mirpur-10,",
+      "confidence": 90.218697,
+      "box": [
+        284,
+        136,
+        189,
+        42
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Dhaka.",
+      "confidence": 96.151642,
+      "box": [
+        488,
+        139,
+        119,
+        36
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Order",
+      "confidence": 96.67804,
+      "box": [
+        482,
+        281,
+        234,
+        70
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Slip",
+      "confidence": 94.947578,
+      "box": [
+        738,
+        284,
+        146,
+        87
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "To:",
+      "confidence": 93.96199,
+      "box": [
+        119,
+        434,
+        58,
+        34
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "OrderNo:",
+      "confidence": 71.454453,
+      "box": [
+        789,
+        459,
+        147,
+        30
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": " ORD-2611",
+      "confidence": 71.454453,
+      "box": [
+        1009,
+        460,
+        165,
+        30
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Surma",
+      "confidence": 92.240059,
+      "box": [
+        120,
+        489,
+        133,
+        38
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Food",
+      "confidence": 96.58284,
+      "box": [
+        268,
+        492,
+        99,
+        37
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Supply",
+      "confidence": 96.371712,
+      "box": [
+        381,
+        494,
+        139,
+        46
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Order",
+      "confidence": 96.401207,
+      "box": [
+        790,
+        513,
+        89,
+        30
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Date:",
+      "confidence": 90.559288,
+      "box": [
+        887,
+        515,
+        79,
+        28
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "11/10/2026",
+      "confidence": 85.143623,
+      "box": [
+        1012,
+        514,
+        179,
+        36
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Required",
+      "confidence": 96.678818,
+      "box": [
+        791,
+        567,
+        136,
+        38
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "By:",
+      "confidence": 96.85939,
+      "box": [
+        938,
+        570,
+        47,
+        35
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "16/10/2026",
+      "confidence": 96.68821,
+      "box": [
+        1012,
+        570,
+        180,
+        35
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Please",
+      "confidence": 96.836929,
+      "box": [
+        119,
+        672,
+        115,
+        35
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "supply",
+      "confidence": 96.822021,
+      "box": [
+        245,
+        675,
+        119,
+        42
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "the",
+      "confidence": 96.948685,
+      "box": [
+        372,
+        675,
+        58,
+        34
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "following",
+      "confidence": 96.600983,
+      "box": [
+        438,
+        675,
+        159,
+        44
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "goods:",
+      "confidence": 96.66214,
+      "box": [
+        608,
+        678,
+        111,
+        41
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    }
+  ]
+}

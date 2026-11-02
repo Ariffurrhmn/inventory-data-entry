@@ -1,0 +1,30 @@
+{
+  "annotation_version": "Dataset/annotations/versions/utf8-v2",
+  "records": 140,
+  "records_with_corrected_text": 34,
+  "records_changed": 34,
+  "text_changes_by_split": {
+    "train": 32,
+    "val": 1,
+    "test": 1
+  },
+  "protected_files_unchanged": 863,
+  "workflow_tests_passed": 15,
+  "human_verified": 0,
+  "model_training": false,
+  "new_test_evaluation": false,
+  "images_visually_rechecked": [
+    "08811c30b08a",
+    "e8ad229bba0c"
+  ],
+  "reason": "Review actions were read as cp1252 on Windows instead of UTF-8; re-exported with explicit UTF-8, without changing review actions.",
+  "limitations": [
+    "Encoding correction is not an independent visual/human audit.",
+    "Old references and all historical results remain unchanged.",
+    "No corrected-reference classifier or OCR metric rerun performed."
+  ],
+  "review_page_image_links_checked": 140,
+  "intentional_documentation_updates_after_verification": [
+    "Dataset/annotations/README.md"
+  ]
+}

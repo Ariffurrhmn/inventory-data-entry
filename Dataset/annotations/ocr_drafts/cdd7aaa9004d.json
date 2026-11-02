@@ -1,0 +1,486 @@
+{
+  "sample_id": "cdd7aaa9004d",
+  "source_path": "Dataset/Dataset-2/Customer copy/IMG_0998.HEIC",
+  "source_sha256": "32cf7c747e0a733a3980efdfdea5091735fc52a7f15fac8621257ee5c63975b5",
+  "prepared_image_path": "data/images/cdd7aaa9004d.jpg",
+  "prepared_image_sha256": "3a782087b6f7af63728eddc13354e6be20247ab1b24e0cb01b6168ffee2287b3",
+  "label": "customer_copy",
+  "split": "train",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "Bengal Consumer Goods WU mms\n\nInvoice\n\nInvoice No: INV-9335.\nDate: 13/08/2026.\n\nBill To / Customer: Ruposhi Bazar, Mirpur-10, Dhaka.\n\nRed Lentils 1kg a Tk 110 Tk 440\n—— =\n\nTotal: Tk 45,340.\n\nPD. Sor\n\nAuthorised Signature\n\n",
+  "ocr_image_size": [
+    1400,
+    1866
+  ],
+  "words": [
+    {
+      "text": "Bengal",
+      "confidence": 95.784477,
+      "box": [
+        128,
+        157,
+        187,
+        58
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Consumer",
+      "confidence": 95.784477,
+      "box": [
+        335,
+        160,
+        272,
+        46
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Goods",
+      "confidence": 96.888168,
+      "box": [
+        625,
+        163,
+        168,
+        46
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "WU",
+      "confidence": 0.0,
+      "box": [
+        942,
+        201,
+        72,
+        14
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "mms",
+      "confidence": 23.899193,
+      "box": [
+        1024,
+        169,
+        215,
+        34
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Invoice",
+      "confidence": 93.875137,
+      "box": [
+        128,
+        296,
+        198,
+        42
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Invoice",
+      "confidence": 96.300735,
+      "box": [
+        125,
+        379,
+        140,
+        33
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "No:",
+      "confidence": 91.841927,
+      "box": [
+        279,
+        380,
+        67,
+        32
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "INV-9335.",
+      "confidence": 90.625854,
+      "box": [
+        363,
+        380,
+        184,
+        34
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Date:",
+      "confidence": 96.117401,
+      "box": [
+        122,
+        438,
+        104,
+        33
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "13/08/2026.",
+      "confidence": 96.117401,
+      "box": [
+        247,
+        437,
+        213,
+        40
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Bill",
+      "confidence": 96.366829,
+      "box": [
+        117,
+        546,
+        67,
+        34
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "To",
+      "confidence": 93.075676,
+      "box": [
+        197,
+        547,
+        49,
+        33
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "/",
+      "confidence": 92.812386,
+      "box": [
+        258,
+        546,
+        17,
+        38
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Customer:",
+      "confidence": 93.303474,
+      "box": [
+        287,
+        547,
+        200,
+        35
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Ruposhi",
+      "confidence": 92.179901,
+      "box": [
+        503,
+        549,
+        150,
+        43
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Bazar,",
+      "confidence": 93.280579,
+      "box": [
+        667,
+        550,
+        114,
+        39
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Mirpur-10,",
+      "confidence": 92.369789,
+      "box": [
+        795,
+        549,
+        194,
+        43
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Dhaka.",
+      "confidence": 96.763252,
+      "box": [
+        1002,
+        549,
+        121,
+        34
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Red",
+      "confidence": 96.515991,
+      "box": [
+        124,
+        778,
+        68,
+        32
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Lentils",
+      "confidence": 93.255157,
+      "box": [
+        203,
+        778,
+        115,
+        32
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "1kg",
+      "confidence": 92.641808,
+      "box": [
+        332,
+        778,
+        57,
+        40
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "a",
+      "confidence": 47.067627,
+      "box": [
+        583,
+        748,
+        189,
+        91
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Tk",
+      "confidence": 96.2435,
+      "box": [
+        858,
+        778,
+        44,
+        31
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "110",
+      "confidence": 96.2435,
+      "box": [
+        916,
+        778,
+        55,
+        31
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Tk",
+      "confidence": 95.941956,
+      "box": [
+        1153,
+        778,
+        45,
+        30
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "440",
+      "confidence": 96.530174,
+      "box": [
+        1208,
+        778,
+        58,
+        30
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "——",
+      "confidence": 17.196945,
+      "box": [
+        120,
+        873,
+        316,
+        41
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "=",
+      "confidence": 30.356453,
+      "box": [
+        845,
+        873,
+        145,
+        36
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Total:",
+      "confidence": 96.244339,
+      "box": [
+        923,
+        1123,
+        129,
+        56
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Tk",
+      "confidence": 96.68589,
+      "box": [
+        1165,
+        1131,
+        52,
+        36
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "45,340.",
+      "confidence": 96.68589,
+      "box": [
+        1227,
+        1129,
+        131,
+        44
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "PD.",
+      "confidence": 61.404884,
+      "box": [
+        132,
+        1477,
+        90,
+        90
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Sor",
+      "confidence": 70.346359,
+      "box": [
+        255,
+        1463,
+        166,
+        95
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Authorised",
+      "confidence": 96.594063,
+      "box": [
+        76,
+        1615,
+        194,
+        42
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Signature",
+      "confidence": 96.915802,
+      "box": [
+        281,
+        1616,
+        163,
+        45
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 1
+    }
+  ]
+}

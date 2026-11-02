@@ -1,0 +1,1071 @@
+{
+  "sample_id": "1ae7adb382c4",
+  "source_path": "Dataset/Dataset-2/Delivery note challan/IMG_0952.HEIC",
+  "source_sha256": "691917ce5e6ad32cca54b12455888ef0ebed38fcf9c36e5530c372fc0fbc4f67",
+  "prepared_image_path": "data/images/1ae7adb382c4.jpg",
+  "prepared_image_sha256": "e31647e5d3d9e85218bd7e55ce163a879323bee7f5133c03c2b78f324f7e8877",
+  "label": "delivery_note",
+  "split": "train",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "CONSIGNEE\n\nSELLER\nABC Company Sojib\nShop 12, Market Road, Clty — 400001 House= 71, Road- 14 , Kolkata\n\nVehicle ho. MH 01 ABA234 Purpose! Job work\n\nTaxable\n\n3 Wireless Mouse 2056 150.00 2750.00 112,500.00 20%\n\n2 Computer Keyboard 3541 250.00 900.00 225,000.00 6%\n\n3 use 1436 300.00 ?550.00 165,000.00 10%\nTaxable value ¥5,02,500.00\nCOST ¥26,250.00\nSGST 286,250.00\nGrand total ¥5,55,000.00\n\nAmount in words: Five Lakh Fifty Five Thousand Rupees Only\n\nNotes: Goods sent for the purpose stated above. Not a sale.\n",
+  "ocr_image_size": [
+    1400,
+    1866
+  ],
+  "words": [
+    {
+      "text": "CONSIGNEE",
+      "confidence": 90.405205,
+      "box": [
+        718,
+        213,
+        117,
+        17
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "SELLER",
+      "confidence": 96.257286,
+      "box": [
+        80,
+        218,
+        70,
+        19
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "ABC",
+      "confidence": 74.477173,
+      "box": [
+        78,
+        254,
+        45,
+        19
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Company",
+      "confidence": 96.738556,
+      "box": [
+        129,
+        254,
+        96,
+        21
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Sojib",
+      "confidence": 83.365814,
+      "box": [
+        718,
+        246,
+        51,
+        26
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Shop",
+      "confidence": 95.22319,
+      "box": [
+        80,
+        291,
+        50,
+        22
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "12,",
+      "confidence": 53.165268,
+      "box": [
+        136,
+        289,
+        31,
+        22
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Market",
+      "confidence": 95.742432,
+      "box": [
+        173,
+        290,
+        68,
+        17
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Road,",
+      "confidence": 84.597992,
+      "box": [
+        248,
+        288,
+        54,
+        22
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Clty",
+      "confidence": 83.128815,
+      "box": [
+        309,
+        288,
+        39,
+        23
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "—",
+      "confidence": 93.010475,
+      "box": [
+        354,
+        297,
+        22,
+        4
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "400001",
+      "confidence": 95.82637,
+      "box": [
+        382,
+        288,
+        74,
+        19
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "House=",
+      "confidence": 59.581913,
+      "box": [
+        719,
+        287,
+        72,
+        19
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "71,",
+      "confidence": 83.532646,
+      "box": [
+        797,
+        285,
+        31,
+        22
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Road-",
+      "confidence": 92.02578,
+      "box": [
+        836,
+        286,
+        59,
+        18
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "14",
+      "confidence": 92.114197,
+      "box": [
+        901,
+        286,
+        20,
+        18
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": ",",
+      "confidence": 86.897873,
+      "box": [
+        929,
+        302,
+        3,
+        2
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Kolkata",
+      "confidence": 96.382278,
+      "box": [
+        941,
+        286,
+        72,
+        17
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Vehicle",
+      "confidence": 91.016487,
+      "box": [
+        79,
+        369,
+        165,
+        22
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "ho.",
+      "confidence": 39.860664,
+      "box": [
+        152,
+        365,
+        30,
+        32
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "MH",
+      "confidence": 93.538368,
+      "box": [
+        195,
+        365,
+        22,
+        32
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "01",
+      "confidence": 91.946777,
+      "box": [
+        224,
+        365,
+        25,
+        32
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "ABA234",
+      "confidence": 62.64386,
+      "box": [
+        250,
+        370,
+        79,
+        21
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Purpose!",
+      "confidence": 69.12719,
+      "box": [
+        381,
+        372,
+        79,
+        20
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Job",
+      "confidence": 95.510277,
+      "box": [
+        467,
+        365,
+        32,
+        31
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "work",
+      "confidence": 96.841873,
+      "box": [
+        508,
+        365,
+        48,
+        31
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Taxable",
+      "confidence": 88.267258,
+      "box": [
+        1105,
+        441,
+        68,
+        13
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "3",
+      "confidence": 66.530937,
+      "box": [
+        95,
+        491,
+        5,
+        15
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Wireless",
+      "confidence": 82.262253,
+      "box": [
+        156,
+        491,
+        78,
+        16
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Mouse",
+      "confidence": 96.687675,
+      "box": [
+        240,
+        491,
+        61,
+        15
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "2056",
+      "confidence": 58.168243,
+      "box": [
+        477,
+        487,
+        48,
+        28
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "150.00",
+      "confidence": 96.309517,
+      "box": [
+        706,
+        487,
+        59,
+        28
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "2750.00",
+      "confidence": 77.431969,
+      "box": [
+        859,
+        487,
+        73,
+        28
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "112,500.00",
+      "confidence": 41.210884,
+      "box": [
+        1049,
+        485,
+        111,
+        29
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "20%",
+      "confidence": 94.825844,
+      "box": [
+        1277,
+        490,
+        40,
+        15
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "2",
+      "confidence": 96.78447,
+      "box": [
+        94,
+        542,
+        9,
+        15
+      ],
+      "block": 9,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "Computer",
+      "confidence": 83.816681,
+      "box": [
+        155,
+        541,
+        92,
+        20
+      ],
+      "block": 9,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "Keyboard",
+      "confidence": 94.756447,
+      "box": [
+        251,
+        541,
+        87,
+        20
+      ],
+      "block": 9,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "3541",
+      "confidence": 76.125359,
+      "box": [
+        478,
+        542,
+        40,
+        16
+      ],
+      "block": 9,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "250.00",
+      "confidence": 80.311485,
+      "box": [
+        706,
+        538,
+        63,
+        29
+      ],
+      "block": 9,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "900.00",
+      "confidence": 78.573425,
+      "box": [
+        855,
+        538,
+        79,
+        28
+      ],
+      "block": 9,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "225,000.00",
+      "confidence": 0.0,
+      "box": [
+        1049,
+        536,
+        125,
+        29
+      ],
+      "block": 9,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "6%",
+      "confidence": 43.361782,
+      "box": [
+        1289,
+        540,
+        29,
+        16
+      ],
+      "block": 9,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "3",
+      "confidence": 96.5308,
+      "box": [
+        93,
+        592,
+        10,
+        15
+      ],
+      "block": 9,
+      "paragraph": 3,
+      "line": 1
+    },
+    {
+      "text": "use",
+      "confidence": 72.1409,
+      "box": [
+        150,
+        588,
+        50,
+        31
+      ],
+      "block": 9,
+      "paragraph": 3,
+      "line": 1
+    },
+    {
+      "text": "1436",
+      "confidence": 96.500679,
+      "box": [
+        477,
+        590,
+        42,
+        29
+      ],
+      "block": 9,
+      "paragraph": 3,
+      "line": 1
+    },
+    {
+      "text": "300.00",
+      "confidence": 96.437134,
+      "box": [
+        706,
+        589,
+        67,
+        29
+      ],
+      "block": 9,
+      "paragraph": 3,
+      "line": 1
+    },
+    {
+      "text": "?550.00",
+      "confidence": 13.346756,
+      "box": [
+        859,
+        589,
+        73,
+        28
+      ],
+      "block": 9,
+      "paragraph": 3,
+      "line": 1
+    },
+    {
+      "text": "165,000.00",
+      "confidence": 24.237656,
+      "box": [
+        1049,
+        587,
+        120,
+        29
+      ],
+      "block": 9,
+      "paragraph": 3,
+      "line": 1
+    },
+    {
+      "text": "10%",
+      "confidence": 71.43869,
+      "box": [
+        1277,
+        592,
+        41,
+        15
+      ],
+      "block": 9,
+      "paragraph": 3,
+      "line": 1
+    },
+    {
+      "text": "Taxable",
+      "confidence": 72.326813,
+      "box": [
+        870,
+        659,
+        69,
+        15
+      ],
+      "block": 9,
+      "paragraph": 3,
+      "line": 2
+    },
+    {
+      "text": "value",
+      "confidence": 87.810806,
+      "box": [
+        946,
+        660,
+        47,
+        14
+      ],
+      "block": 9,
+      "paragraph": 3,
+      "line": 2
+    },
+    {
+      "text": "¥5,02,500.00",
+      "confidence": 15.179054,
+      "box": [
+        1209,
+        657,
+        124,
+        20
+      ],
+      "block": 9,
+      "paragraph": 3,
+      "line": 2
+    },
+    {
+      "text": "COST",
+      "confidence": 46.107895,
+      "box": [
+        869,
+        694,
+        49,
+        15
+      ],
+      "block": 9,
+      "paragraph": 3,
+      "line": 3
+    },
+    {
+      "text": "¥26,250.00",
+      "confidence": 71.534134,
+      "box": [
+        1228,
+        691,
+        105,
+        19
+      ],
+      "block": 9,
+      "paragraph": 3,
+      "line": 3
+    },
+    {
+      "text": "SGST",
+      "confidence": 83.280518,
+      "box": [
+        869,
+        728,
+        50,
+        15
+      ],
+      "block": 9,
+      "paragraph": 3,
+      "line": 4
+    },
+    {
+      "text": "286,250.00",
+      "confidence": 1.8022,
+      "box": [
+        1227,
+        726,
+        107,
+        19
+      ],
+      "block": 9,
+      "paragraph": 3,
+      "line": 4
+    },
+    {
+      "text": "Grand",
+      "confidence": 96.493423,
+      "box": [
+        864,
+        765,
+        56,
+        37
+      ],
+      "block": 9,
+      "paragraph": 3,
+      "line": 5
+    },
+    {
+      "text": "total",
+      "confidence": 93.734001,
+      "box": [
+        928,
+        765,
+        47,
+        37
+      ],
+      "block": 9,
+      "paragraph": 3,
+      "line": 5
+    },
+    {
+      "text": "¥5,55,000.00",
+      "confidence": 90.951286,
+      "box": [
+        1157,
+        773,
+        183,
+        28
+      ],
+      "block": 9,
+      "paragraph": 3,
+      "line": 5
+    },
+    {
+      "text": "Amount",
+      "confidence": 89.449539,
+      "box": [
+        94,
+        852,
+        75,
+        30
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "in",
+      "confidence": 94.336296,
+      "box": [
+        176,
+        852,
+        18,
+        30
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "words:",
+      "confidence": 96.535995,
+      "box": [
+        204,
+        852,
+        55,
+        30
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Five",
+      "confidence": 96.40258,
+      "box": [
+        269,
+        852,
+        35,
+        30
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Lakh",
+      "confidence": 96.716034,
+      "box": [
+        311,
+        852,
+        38,
+        30
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Fifty",
+      "confidence": 96.930275,
+      "box": [
+        356,
+        852,
+        43,
+        30
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Five",
+      "confidence": 96.508682,
+      "box": [
+        406,
+        852,
+        38,
+        30
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Thousand",
+      "confidence": 96.384705,
+      "box": [
+        451,
+        852,
+        83,
+        30
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Rupees",
+      "confidence": 96.836845,
+      "box": [
+        544,
+        852,
+        60,
+        30
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Only",
+      "confidence": 96.06958,
+      "box": [
+        616,
+        852,
+        43,
+        30
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Notes:",
+      "confidence": 96.413353,
+      "box": [
+        73,
+        941,
+        60,
+        15
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Goods",
+      "confidence": 96.609398,
+      "box": [
+        138,
+        940,
+        58,
+        16
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "sent",
+      "confidence": 96.769028,
+      "box": [
+        203,
+        943,
+        38,
+        13
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "for",
+      "confidence": 96.769028,
+      "box": [
+        247,
+        941,
+        25,
+        15
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "the",
+      "confidence": 96.51725,
+      "box": [
+        278,
+        942,
+        28,
+        15
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "purpose",
+      "confidence": 96.813255,
+      "box": [
+        312,
+        945,
+        76,
+        15
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "stated",
+      "confidence": 96.813255,
+      "box": [
+        394,
+        942,
+        55,
+        15
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "above.",
+      "confidence": 89.73497,
+      "box": [
+        455,
+        943,
+        55,
+        14
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Not",
+      "confidence": 96.906982,
+      "box": [
+        520,
+        941,
+        31,
+        16
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "a",
+      "confidence": 95.942162,
+      "box": [
+        557,
+        945,
+        10,
+        12
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "sale.",
+      "confidence": 95.942162,
+      "box": [
+        574,
+        943,
+        39,
+        14
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 1
+    }
+  ]
+}

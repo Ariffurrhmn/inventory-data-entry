@@ -1,0 +1,174 @@
+{
+  "sample_id": "a162d6ad43e0",
+  "source_path": "Dataset/Receipt/cord-train-0024.jpg",
+  "source_sha256": "1ba60999902d69d61d8691076a57b712846c034a9a333325a134f2b112a77a48",
+  "prepared_image_path": "data/images/a162d6ad43e0.jpg",
+  "prepared_image_sha256": "c6530360b82a99a5e72ec4b0b3b49919fee78d109ef8fef9408fa7230ec58b68",
+  "label": "receipt",
+  "split": "train",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "A A rn, on SO\n\n1001-Choco Bun\n\n1032-Bounie Cheddar\n6002-Flastic Bag Medium\n\n",
+  "ocr_image_size": [
+    1400,
+    2100
+  ],
+  "words": [
+    {
+      "text": "A",
+      "confidence": 33.784088,
+      "box": [
+        257,
+        974,
+        55,
+        7
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "A",
+      "confidence": 40.657772,
+      "box": [
+        378,
+        972,
+        69,
+        9
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "rn,",
+      "confidence": 50.875656,
+      "box": [
+        456,
+        959,
+        19,
+        28
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "on",
+      "confidence": 28.268929,
+      "box": [
+        481,
+        959,
+        13,
+        28
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "SO",
+      "confidence": 20.992661,
+      "box": [
+        502,
+        969,
+        80,
+        7
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "1001-Choco",
+      "confidence": 60.496155,
+      "box": [
+        262,
+        1020,
+        214,
+        38
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Bun",
+      "confidence": 95.165047,
+      "box": [
+        502,
+        1018,
+        64,
+        38
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "1032-Bounie",
+      "confidence": 0.0,
+      "box": [
+        255,
+        1145,
+        236,
+        37
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Cheddar",
+      "confidence": 94.733826,
+      "box": [
+        516,
+        1145,
+        159,
+        38
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "6002-Flastic",
+      "confidence": 84.521538,
+      "box": [
+        237,
+        1269,
+        259,
+        45
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Bag",
+      "confidence": 69.302345,
+      "box": [
+        522,
+        1274,
+        66,
+        53
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Medium",
+      "confidence": 83.634377,
+      "box": [
+        617,
+        1276,
+        145,
+        44
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    }
+  ]
+}

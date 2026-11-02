@@ -1,0 +1,824 @@
+{
+  "sample_id": "9e24dadfc2de",
+  "source_path": "Dataset/Purchase_Order/PO-PO - 15.jpg",
+  "source_sha256": "80db57b71d8902c4dfd8c1e1f3c196d38b711d684aa0add510e49179f55ad046",
+  "prepared_image_path": "data/images/9e24dadfc2de.jpg",
+  "prepared_image_sha256": "cfcca2f72db16a709f53d1722290a06ee6dc82dddee6e0b6f3fd17523be6ce9d",
+  "label": "purchase_order",
+  "split": "test",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "Purchase Order\n\nGenerated using Mercury\n\nBuyer Shipping Vendor\n\nGHI Company Panjora NPK Company\n\nPanjora Gazipur, Dhaka 1211\n\nGazipur, Dhaka 1211 Bangladesh\n\nBangladesh\n\nItem # / SKU Product description Quantity Unit price\n\nRice 5kg 5 $4.50\nSubtotal\nTotal\n\nTerms Note\n\nPurchase order date 10/04/26\n\nDelivery date 10/13/26\n\nPayment method Credit card\n\nAuthorized signature Date\n\nDetails\n\nPO no. PO -15\n\nAmount\n\n$22.50\n\n$22.50\n\n$22.50\n",
+  "ocr_image_size": [
+    1411,
+    1800
+  ],
+  "words": [
+    {
+      "text": "Purchase",
+      "confidence": 96.713203,
+      "box": [
+        126,
+        126,
+        298,
+        56
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Order",
+      "confidence": 96.740715,
+      "box": [
+        447,
+        125,
+        190,
+        57
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Generated",
+      "confidence": 96.827713,
+      "box": [
+        122,
+        202,
+        102,
+        16
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "using",
+      "confidence": 96.694061,
+      "box": [
+        233,
+        203,
+        50,
+        19
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Mercury",
+      "confidence": 95.951416,
+      "box": [
+        289,
+        202,
+        83,
+        20
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Buyer",
+      "confidence": 96.338135,
+      "box": [
+        123,
+        270,
+        56,
+        28
+      ],
+      "block": 2,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "Shipping",
+      "confidence": 95.149681,
+      "box": [
+        439,
+        274,
+        86,
+        20
+      ],
+      "block": 2,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "Vendor",
+      "confidence": 96.438248,
+      "box": [
+        755,
+        274,
+        73,
+        16
+      ],
+      "block": 2,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "GHI",
+      "confidence": 88.924934,
+      "box": [
+        122,
+        358,
+        35,
+        16
+      ],
+      "block": 2,
+      "paragraph": 3,
+      "line": 1
+    },
+    {
+      "text": "Company",
+      "confidence": 96.417099,
+      "box": [
+        166,
+        358,
+        93,
+        20
+      ],
+      "block": 2,
+      "paragraph": 3,
+      "line": 1
+    },
+    {
+      "text": "Panjora",
+      "confidence": 90.717674,
+      "box": [
+        440,
+        358,
+        70,
+        20
+      ],
+      "block": 2,
+      "paragraph": 3,
+      "line": 1
+    },
+    {
+      "text": "NPK",
+      "confidence": 91.35173,
+      "box": [
+        756,
+        358,
+        40,
+        16
+      ],
+      "block": 2,
+      "paragraph": 3,
+      "line": 1
+    },
+    {
+      "text": "Company",
+      "confidence": 95.692314,
+      "box": [
+        805,
+        358,
+        93,
+        20
+      ],
+      "block": 2,
+      "paragraph": 3,
+      "line": 1
+    },
+    {
+      "text": "Panjora",
+      "confidence": 92.168205,
+      "box": [
+        123,
+        393,
+        71,
+        19
+      ],
+      "block": 2,
+      "paragraph": 4,
+      "line": 1
+    },
+    {
+      "text": "Gazipur,",
+      "confidence": 96.396629,
+      "box": [
+        439,
+        393,
+        79,
+        19
+      ],
+      "block": 2,
+      "paragraph": 4,
+      "line": 1
+    },
+    {
+      "text": "Dhaka",
+      "confidence": 96.418663,
+      "box": [
+        527,
+        392,
+        58,
+        16
+      ],
+      "block": 2,
+      "paragraph": 4,
+      "line": 1
+    },
+    {
+      "text": "1211",
+      "confidence": 96.296402,
+      "box": [
+        593,
+        393,
+        36,
+        15
+      ],
+      "block": 2,
+      "paragraph": 4,
+      "line": 1
+    },
+    {
+      "text": "Gazipur,",
+      "confidence": 94.201584,
+      "box": [
+        122,
+        427,
+        79,
+        20
+      ],
+      "block": 2,
+      "paragraph": 5,
+      "line": 1
+    },
+    {
+      "text": "Dhaka",
+      "confidence": 96.649414,
+      "box": [
+        210,
+        427,
+        59,
+        16
+      ],
+      "block": 2,
+      "paragraph": 5,
+      "line": 1
+    },
+    {
+      "text": "1211",
+      "confidence": 96.298531,
+      "box": [
+        276,
+        427,
+        37,
+        16
+      ],
+      "block": 2,
+      "paragraph": 5,
+      "line": 1
+    },
+    {
+      "text": "Bangladesh",
+      "confidence": 96.262627,
+      "box": [
+        440,
+        427,
+        110,
+        20
+      ],
+      "block": 2,
+      "paragraph": 5,
+      "line": 1
+    },
+    {
+      "text": "Bangladesh",
+      "confidence": 96.461983,
+      "box": [
+        123,
+        462,
+        111,
+        20
+      ],
+      "block": 2,
+      "paragraph": 6,
+      "line": 1
+    },
+    {
+      "text": "Item",
+      "confidence": 93.108864,
+      "box": [
+        123,
+        630,
+        42,
+        15
+      ],
+      "block": 2,
+      "paragraph": 7,
+      "line": 1
+    },
+    {
+      "text": "#",
+      "confidence": 91.335426,
+      "box": [
+        173,
+        630,
+        12,
+        15
+      ],
+      "block": 2,
+      "paragraph": 7,
+      "line": 1
+    },
+    {
+      "text": "/",
+      "confidence": 91.335426,
+      "box": [
+        192,
+        629,
+        8,
+        19
+      ],
+      "block": 2,
+      "paragraph": 7,
+      "line": 1
+    },
+    {
+      "text": "SKU",
+      "confidence": 95.660881,
+      "box": [
+        207,
+        630,
+        40,
+        15
+      ],
+      "block": 2,
+      "paragraph": 7,
+      "line": 1
+    },
+    {
+      "text": "Product",
+      "confidence": 95.760437,
+      "box": [
+        366,
+        629,
+        79,
+        16
+      ],
+      "block": 2,
+      "paragraph": 7,
+      "line": 1
+    },
+    {
+      "text": "description",
+      "confidence": 96.571304,
+      "box": [
+        452,
+        629,
+        112,
+        20
+      ],
+      "block": 2,
+      "paragraph": 7,
+      "line": 1
+    },
+    {
+      "text": "Quantity",
+      "confidence": 96.265121,
+      "box": [
+        707,
+        626,
+        85,
+        28
+      ],
+      "block": 2,
+      "paragraph": 7,
+      "line": 1
+    },
+    {
+      "text": "Unit",
+      "confidence": 96.205551,
+      "box": [
+        853,
+        630,
+        39,
+        15
+      ],
+      "block": 2,
+      "paragraph": 7,
+      "line": 1
+    },
+    {
+      "text": "price",
+      "confidence": 96.797142,
+      "box": [
+        900,
+        630,
+        49,
+        19
+      ],
+      "block": 2,
+      "paragraph": 7,
+      "line": 1
+    },
+    {
+      "text": "Rice",
+      "confidence": 93.255013,
+      "box": [
+        123,
+        691,
+        40,
+        16
+      ],
+      "block": 2,
+      "paragraph": 8,
+      "line": 1
+    },
+    {
+      "text": "5kg",
+      "confidence": 90.593559,
+      "box": [
+        171,
+        691,
+        33,
+        20
+      ],
+      "block": 2,
+      "paragraph": 8,
+      "line": 1
+    },
+    {
+      "text": "5",
+      "confidence": 96.856339,
+      "box": [
+        707,
+        691,
+        10,
+        16
+      ],
+      "block": 2,
+      "paragraph": 8,
+      "line": 1
+    },
+    {
+      "text": "$4.50",
+      "confidence": 96.783791,
+      "box": [
+        853,
+        690,
+        56,
+        17
+      ],
+      "block": 2,
+      "paragraph": 8,
+      "line": 1
+    },
+    {
+      "text": "Subtotal",
+      "confidence": 96.841011,
+      "box": [
+        707,
+        756,
+        80,
+        16
+      ],
+      "block": 2,
+      "paragraph": 8,
+      "line": 2
+    },
+    {
+      "text": "Total",
+      "confidence": 96.487389,
+      "box": [
+        707,
+        831,
+        68,
+        24
+      ],
+      "block": 2,
+      "paragraph": 8,
+      "line": 3
+    },
+    {
+      "text": "Terms",
+      "confidence": 96.551277,
+      "box": [
+        122,
+        909,
+        60,
+        16
+      ],
+      "block": 2,
+      "paragraph": 9,
+      "line": 1
+    },
+    {
+      "text": "Note",
+      "confidence": 96.546776,
+      "box": [
+        707,
+        909,
+        46,
+        16
+      ],
+      "block": 2,
+      "paragraph": 9,
+      "line": 1
+    },
+    {
+      "text": "Purchase",
+      "confidence": 96.365753,
+      "box": [
+        123,
+        945,
+        89,
+        16
+      ],
+      "block": 2,
+      "paragraph": 10,
+      "line": 1
+    },
+    {
+      "text": "order",
+      "confidence": 96.333344,
+      "box": [
+        220,
+        945,
+        52,
+        16
+      ],
+      "block": 2,
+      "paragraph": 10,
+      "line": 1
+    },
+    {
+      "text": "date",
+      "confidence": 96.40802,
+      "box": [
+        279,
+        945,
+        42,
+        16
+      ],
+      "block": 2,
+      "paragraph": 10,
+      "line": 1
+    },
+    {
+      "text": "10/04/26",
+      "confidence": 96.280251,
+      "box": [
+        423,
+        945,
+        91,
+        19
+      ],
+      "block": 2,
+      "paragraph": 10,
+      "line": 1
+    },
+    {
+      "text": "Delivery",
+      "confidence": 94.928574,
+      "box": [
+        123,
+        975,
+        78,
+        20
+      ],
+      "block": 2,
+      "paragraph": 11,
+      "line": 1
+    },
+    {
+      "text": "date",
+      "confidence": 96.635872,
+      "box": [
+        208,
+        975,
+        42,
+        16
+      ],
+      "block": 2,
+      "paragraph": 11,
+      "line": 1
+    },
+    {
+      "text": "10/13/26",
+      "confidence": 95.995636,
+      "box": [
+        423,
+        975,
+        85,
+        19
+      ],
+      "block": 2,
+      "paragraph": 11,
+      "line": 1
+    },
+    {
+      "text": "Payment",
+      "confidence": 96.437912,
+      "box": [
+        123,
+        1006,
+        83,
+        19
+      ],
+      "block": 2,
+      "paragraph": 12,
+      "line": 1
+    },
+    {
+      "text": "method",
+      "confidence": 95.68837,
+      "box": [
+        214,
+        1005,
+        73,
+        16
+      ],
+      "block": 2,
+      "paragraph": 12,
+      "line": 1
+    },
+    {
+      "text": "Credit",
+      "confidence": 96.161385,
+      "box": [
+        423,
+        1005,
+        60,
+        16
+      ],
+      "block": 2,
+      "paragraph": 12,
+      "line": 1
+    },
+    {
+      "text": "card",
+      "confidence": 96.874634,
+      "box": [
+        491,
+        1005,
+        41,
+        16
+      ],
+      "block": 2,
+      "paragraph": 12,
+      "line": 1
+    },
+    {
+      "text": "Authorized",
+      "confidence": 96.630959,
+      "box": [
+        122,
+        1096,
+        109,
+        16
+      ],
+      "block": 2,
+      "paragraph": 13,
+      "line": 1
+    },
+    {
+      "text": "signature",
+      "confidence": 96.687416,
+      "box": [
+        239,
+        1097,
+        91,
+        20
+      ],
+      "block": 2,
+      "paragraph": 13,
+      "line": 1
+    },
+    {
+      "text": "Date",
+      "confidence": 96.555168,
+      "box": [
+        707,
+        1097,
+        45,
+        15
+      ],
+      "block": 2,
+      "paragraph": 13,
+      "line": 1
+    },
+    {
+      "text": "Details",
+      "confidence": 96.139442,
+      "box": [
+        1073,
+        274,
+        66,
+        16
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "PO",
+      "confidence": 96.52169,
+      "box": [
+        1073,
+        358,
+        28,
+        16
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "no.",
+      "confidence": 96.262924,
+      "box": [
+        1109,
+        362,
+        27,
+        12
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "PO",
+      "confidence": 66.647385,
+      "box": [
+        1209,
+        358,
+        28,
+        16
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "-15",
+      "confidence": 66.647385,
+      "box": [
+        1245,
+        358,
+        35,
+        16
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Amount",
+      "confidence": 96.072189,
+      "box": [
+        1211,
+        630,
+        78,
+        15
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "$22.50",
+      "confidence": 96.787743,
+      "box": [
+        1211,
+        690,
+        69,
+        17
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "$22.50",
+      "confidence": 96.503799,
+      "box": [
+        1220,
+        756,
+        69,
+        17
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "$22.50",
+      "confidence": 96.782211,
+      "box": [
+        1185,
+        830,
+        103,
+        26
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    }
+  ]
+}

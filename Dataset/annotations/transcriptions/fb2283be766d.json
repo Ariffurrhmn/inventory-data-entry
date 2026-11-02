@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "fb2283be766d",
+  "source_image": {
+    "path": "Dataset/Purchase_Order/purchase order-PO - 19.jpg",
+    "sha256": "c290e1fd57a7dd11d98aa31f6cffcb55f114c56d8fb4714493af000a6e474b68"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/fb2283be766d.jpg",
+    "sha256": "a751c0bf700aa4a858d5887cfc5f84f062dead2d68c2cfb64596eca1ed2d31c7"
+  },
+  "classification": {
+    "label": "purchase_order",
+    "split": "train"
+  },
+  "transcription": {
+    "full_text": "HGT Company\nShop-12,\nPanjora, Gazipur,\nDhaka,\nBanglasesh\nPURCHASE ORDER\nNumber: PO - 19\nDate: 2026-09-18\nDue Date: 2026-10-16\nBILL TO\nXK Company\nShop-43,\nMirpue-10\nDhaka,\nBanglasesh\nDESCRIPTION QTY RATE AMOUNT\nWallet 10 $2.50 $29.50\nCeramic Mug 1 $4.50 $5.31\nEarphones 1 $2.01 $2.37\nTaxable Amount: $31.51\nTotal: $37.18\nThank you for your business!\nPowered by HGT Company",
+    "lines": [
+      "HGT Company",
+      "Shop-12,",
+      "Panjora, Gazipur,",
+      "Dhaka,",
+      "Banglasesh",
+      "PURCHASE ORDER",
+      "Number: PO - 19",
+      "Date: 2026-09-18",
+      "Due Date: 2026-10-16",
+      "BILL TO",
+      "XK Company",
+      "Shop-43,",
+      "Mirpue-10",
+      "Dhaka,",
+      "Banglasesh",
+      "DESCRIPTION QTY RATE AMOUNT",
+      "Wallet 10 $2.50 $29.50",
+      "Ceramic Mug 1 $4.50 $5.31",
+      "Earphones 1 $2.01 $2.37",
+      "Taxable Amount: $31.51",
+      "Total: $37.18",
+      "Thank you for your business!",
+      "Powered by HGT Company"
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [],
+    "notes": "Preserved printed spelling Banglasesh and Mirpue-10; did not repair amounts."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/fb2283be766d.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

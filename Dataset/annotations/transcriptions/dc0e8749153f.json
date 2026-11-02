@@ -1,0 +1,47 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "dc0e8749153f",
+  "source_image": {
+    "path": "Dataset/Receipt/cord-train-0155.jpg",
+    "sha256": "b1907c59dbe9f6a679f9fa1aca9a2b82a8d06d0eea0cf712dbd28ed113c0fe1d"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/dc0e8749153f.jpg",
+    "sha256": "c7308e0b5e1707c375a50c4bffd24b97c9370212e436239e478e2c6b3f2bf37d"
+  },
+  "classification": {
+    "label": "receipt",
+    "split": "test"
+  },
+  "transcription": {
+    "full_text": "[redacted]\n1 BBQ Chicken 41,000\n1 - Tidak Pedas 0\nITEMS:1 41,000\nTotal......... 41,000\nDEBIT BCA: 41,000\n[redacted]",
+    "lines": [
+      "[redacted]",
+      "1 BBQ Chicken 41,000",
+      "1 - Tidak Pedas 0",
+      "ITEMS:1 41,000",
+      "Total......... 41,000",
+      "DEBIT BCA: 41,000",
+      "[redacted]"
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [
+      "Source has pixelated/blurred regions marked [redacted]; these cannot be recovered from the image."
+    ],
+    "notes": "Full visible receipt content reviewed; original spelling, language, and amounts preserved."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/dc0e8749153f.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

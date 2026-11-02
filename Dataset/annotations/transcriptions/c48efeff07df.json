@@ -1,0 +1,66 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "c48efeff07df",
+  "source_image": {
+    "path": "Dataset/Customer_Copy/1073-receipt.jpg",
+    "sha256": "594d44f77af3cea4db44bd1223e0e3abe688cfbc506f05dd100073a16068689a"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/c48efeff07df.jpg",
+    "sha256": "e5a61c54bafeae7ca4a149de0e306f67ad96d3cd16307577b45ff330e0989638"
+  },
+  "classification": {
+    "label": "customer_copy",
+    "split": "test"
+  },
+  "transcription": {
+    "full_text": "Subway#44969-0 Phone 626-585-9999\n625 S Fair Oaks Ave\nPasadena, CA, 91105\nServed by: 41 5/1/2019 2:25:37 pm\nTerm ID-Trans# 1/A-297424\nQty Size Item Price\n1 #SMS $11.99 Any 2 FtLong 11.99\n1 12\" -Steak & Chse Sub\n1 12\" -B.M.T. Sub\nSub Total 11.99\nSales Tax (10.25%) 1.23\nTotal (Eat In) 13.22\nCredit Card 13.22\nChange 0.00\nApproval No: 051140\nReference No: 912121113552\nCard Issuer: Visa\nAccount No: ************0002\nAcquired: Contact_EMV\nAmount: $13.22\nApplication: CHASE VISA\nAID: A0000000031010\nTVR: 0080008000\nTSI: E800\nDate/Time: 5/1/2019 2:25:37 PM\nCUSTOMER COPY",
+    "lines": [
+      "Subway#44969-0 Phone 626-585-9999",
+      "625 S Fair Oaks Ave",
+      "Pasadena, CA, 91105",
+      "Served by: 41 5/1/2019 2:25:37 pm",
+      "Term ID-Trans# 1/A-297424",
+      "Qty Size Item Price",
+      "1 #SMS $11.99 Any 2 FtLong 11.99",
+      "1 12\" -Steak & Chse Sub",
+      "1 12\" -B.M.T. Sub",
+      "Sub Total 11.99",
+      "Sales Tax (10.25%) 1.23",
+      "Total (Eat In) 13.22",
+      "Credit Card 13.22",
+      "Change 0.00",
+      "Approval No: 051140",
+      "Reference No: 912121113552",
+      "Card Issuer: Visa",
+      "Account No: ************0002",
+      "Acquired: Contact_EMV",
+      "Amount: $13.22",
+      "Application: CHASE VISA",
+      "AID: A0000000031010",
+      "TVR: 0080008000",
+      "TSI: E800",
+      "Date/Time: 5/1/2019 2:25:37 PM",
+      "CUSTOMER COPY"
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [
+      "Phone, payment identifiers, and literal masked-character count are best readings of a low-resolution image; independently check if exact character scoring is required."
+    ],
+    "notes": ""
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/c48efeff07df.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

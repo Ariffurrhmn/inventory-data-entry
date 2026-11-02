@@ -1,0 +1,252 @@
+{
+  "sample_id": "a35a5b21dd98",
+  "source_path": "Dataset/Dataset-2/Purchase order/IMG_0971.HEIC",
+  "source_sha256": "c568306353412cf3f8ab0256994e2fd018914d3edb9340e20370f82ff20a5499",
+  "prepared_image_path": "data/images/a35a5b21dd98.jpg",
+  "prepared_image_sha256": "036d73aad1057b9a56f7ff261f118a93e76eeb7f9e0ecc6d9d0291a5780e5fcd",
+  "label": "purchase_order",
+  "split": "train",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "+ From (buyer): Meghna Store, Badda, Dhaka.\n| To (supplier): Sonar Bangla Distributors .\nwos 2200 02 |\n\n",
+  "ocr_image_size": [
+    1400,
+    1866
+  ],
+  "words": [
+    {
+      "text": "+",
+      "confidence": 29.222679,
+      "box": [
+        88,
+        184,
+        3,
+        40
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "From",
+      "confidence": 70.309509,
+      "box": [
+        154,
+        158,
+        82,
+        70
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "(buyer):",
+      "confidence": 96.251213,
+      "box": [
+        255,
+        158,
+        135,
+        70
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Meghna",
+      "confidence": 95.67379,
+      "box": [
+        437,
+        157,
+        176,
+        86
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Store,",
+      "confidence": 70.056091,
+      "box": [
+        647,
+        170,
+        140,
+        62
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Badda,",
+      "confidence": 91.862411,
+      "box": [
+        829,
+        176,
+        165,
+        62
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Dhaka.",
+      "confidence": 91.698524,
+      "box": [
+        1030,
+        186,
+        170,
+        47
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "|",
+      "confidence": 73.529877,
+      "box": [
+        88,
+        225,
+        2,
+        31
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "To",
+      "confidence": 96.282089,
+      "box": [
+        150,
+        276,
+        44,
+        33
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "(supplier):",
+      "confidence": 78.613983,
+      "box": [
+        206,
+        278,
+        181,
+        45
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Sonar",
+      "confidence": 52.126507,
+      "box": [
+        445,
+        278,
+        134,
+        51
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Bangla",
+      "confidence": 96.691032,
+      "box": [
+        617,
+        282,
+        150,
+        74
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Distributors",
+      "confidence": 71.816399,
+      "box": [
+        802,
+        280,
+        255,
+        62
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": ".",
+      "confidence": 71.816399,
+      "box": [
+        1075,
+        322,
+        5,
+        7
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "wos",
+      "confidence": 5.76857,
+      "box": [
+        144,
+        443,
+        184,
+        157
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "2200",
+      "confidence": 23.413383,
+      "box": [
+        405,
+        443,
+        145,
+        157
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "02",
+      "confidence": 30.449951,
+      "box": [
+        601,
+        443,
+        119,
+        157
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "|",
+      "confidence": 66.515869,
+      "box": [
+        1341,
+        516,
+        4,
+        43
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 3
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "ddb01e6bbf91",
+  "source_image": {
+    "path": "Dataset/Dataset-2/Delivery note challan/IMG_0988.HEIC",
+    "sha256": "d331eeb99a608fa14bcdec1ee3a021e926a2b579ba6f34260b818ba6b5a5cc2e"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/ddb01e6bbf91.jpg",
+    "sha256": "c7c4682c715d8d2fa62ab805c6726b0882fd15da292e55c97b2f8fe1468138bc"
+  },
+  "classification": {
+    "label": "delivery_note",
+    "split": "val"
+  },
+  "transcription": {
+    "full_text": "Jamuna Wholesale\nDelivery Challan\nChallan No: DC-685\nDate: 16/10/2026\nFrom: Jamuna Wholesale\nTo: Hasan Brothers, Tongi, Gazipur.\nSl Item Description Qty.\n1 Sugar 1kg 1\n2 Soybean Oil 5L 20\n3 Toothpaste 100g 12\n4 Ball Pen box 6\n5 Miniket Rice 25kg 5\nReceived By: [signature]\nDelivered By: [signature]",
+    "lines": [
+      "Jamuna Wholesale",
+      "Delivery Challan",
+      "Challan No: DC-685",
+      "Date: 16/10/2026",
+      "From: Jamuna Wholesale",
+      "To: Hasan Brothers, Tongi, Gazipur.",
+      "Sl Item Description Qty.",
+      "1 Sugar 1kg 1",
+      "2 Soybean Oil 5L 20",
+      "3 Toothpaste 100g 12",
+      "4 Ball Pen box 6",
+      "5 Miniket Rice 25kg 5",
+      "Received By: [signature]",
+      "Delivered By: [signature]"
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [],
+    "notes": "Individually visually reviewed photograph. Whitespace and table reading order normalized; signatures marked rather than inferred."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/ddb01e6bbf91.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

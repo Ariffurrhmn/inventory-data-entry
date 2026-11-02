@@ -1,0 +1,1383 @@
+{
+  "sample_id": "645703699d96",
+  "source_path": "Dataset/Receipt/IMG_20251024_205804_jpg.rf.10e477b4db343f6c9fa7d0da694c11ff.jpg",
+  "source_sha256": "a31bf468248763282d7d61a751b9e77da32a56fee040a7b394c47dd2cb394346",
+  "prepared_image_path": "data/images/645703699d96.jpg",
+  "prepared_image_sha256": "96a3b6698298a05a0678dc51db900986900fa5d7d24adbd8b292f3585ba8f9b2",
+  "label": "receipt",
+  "split": "train",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "DIZ INDUST RIAL MACHINERY TRADING\n\n228 llaya St., Burol, City of Calamba 4027, Laguna, Philippines\nPANGANIBAN, GLADYS C. - = Prop.\nNON-VAT Reg. TIN: 411-344-556-00000\n\nSALES INVOICE\n\ni Sc\nNo SA Se Terms: ty\n\nTiN: : OSCAIPWD ID No:\n\nBusiness Se ree SC/PWD ‘Signature:\n\nN® 0000034 —\n\n—\n10 Bits, arity 0 D00001-900800 wih\n© Print No. 056 AU20220000006084 TT a\nBate : August 19, 2022 Py Cashier/Althorized Representative\n\nENTERP RIS\n7h Lk 5 Far 00000 AS, Printers Ackredfation No. 056MP23200000000001\nCell. No. 0533. 625 Saga an. Calamba City, Laguna Date Issued: 03-02-20; Expiry Date: 03-01-25\n\n“THIS DOCUMENT IS NOT VALID FOR CLAIMING INPUT TAXES\"\n\n",
+  "ocr_image_size": [
+    1400,
+    1400
+  ],
+  "words": [
+    {
+      "text": "DIZ",
+      "confidence": 95.652351,
+      "box": [
+        132,
+        37,
+        94,
+        76
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "INDUST",
+      "confidence": 92.575806,
+      "box": [
+        235,
+        22,
+        204,
+        66
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "RIAL",
+      "confidence": 95.792892,
+      "box": [
+        439,
+        20,
+        126,
+        67
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "MACHINERY",
+      "confidence": 96.429619,
+      "box": [
+        575,
+        15,
+        334,
+        72
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "TRADING",
+      "confidence": 96.402145,
+      "box": [
+        916,
+        22,
+        248,
+        73
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "228",
+      "confidence": 88.035645,
+      "box": [
+        249,
+        96,
+        48,
+        36
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "llaya",
+      "confidence": 63.735825,
+      "box": [
+        306,
+        90,
+        56,
+        31
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "St.,",
+      "confidence": 91.173347,
+      "box": [
+        374,
+        90,
+        42,
+        31
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Burol,",
+      "confidence": 91.008972,
+      "box": [
+        425,
+        95,
+        73,
+        20
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "City",
+      "confidence": 95.67408,
+      "box": [
+        508,
+        95,
+        48,
+        21
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "of",
+      "confidence": 92.86377,
+      "box": [
+        568,
+        90,
+        23,
+        31
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Calamba",
+      "confidence": 86.908081,
+      "box": [
+        596,
+        94,
+        115,
+        18
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "4027,",
+      "confidence": 94.705528,
+      "box": [
+        719,
+        90,
+        72,
+        24
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Laguna,",
+      "confidence": 96.011009,
+      "box": [
+        801,
+        92,
+        103,
+        23
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Philippines",
+      "confidence": 89.209038,
+      "box": [
+        913,
+        94,
+        139,
+        21
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "PANGANIBAN,",
+      "confidence": 88.503502,
+      "box": [
+        421,
+        108,
+        193,
+        27
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "GLADYS",
+      "confidence": 88.961067,
+      "box": [
+        623,
+        114,
+        116,
+        19
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "C.",
+      "confidence": 65.986244,
+      "box": [
+        755,
+        116,
+        48,
+        17
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "-",
+      "confidence": 65.986244,
+      "box": [
+        794,
+        104,
+        13,
+        39
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "=",
+      "confidence": 59.48811,
+      "box": [
+        793,
+        124,
+        9,
+        4
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Prop.",
+      "confidence": 92.25576,
+      "box": [
+        814,
+        112,
+        64,
+        30
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "NON-VAT",
+      "confidence": 92.160278,
+      "box": [
+        388,
+        131,
+        126,
+        32
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Reg.",
+      "confidence": 95.891083,
+      "box": [
+        526,
+        131,
+        59,
+        32
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "TIN:",
+      "confidence": 92.072746,
+      "box": [
+        593,
+        137,
+        53,
+        22
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "411-344-556-00000",
+      "confidence": 86.987,
+      "box": [
+        655,
+        135,
+        253,
+        24
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "SALES",
+      "confidence": 93.590576,
+      "box": [
+        119,
+        185,
+        138,
+        49
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "INVOICE",
+      "confidence": 96.00515,
+      "box": [
+        271,
+        161,
+        169,
+        58
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "i",
+      "confidence": 56.417297,
+      "box": [
+        595,
+        218,
+        16,
+        10
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Sc",
+      "confidence": 36.161785,
+      "box": [
+        687,
+        189,
+        493,
+        123
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "No",
+      "confidence": 77.007942,
+      "box": [
+        412,
+        256,
+        71,
+        25
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "SA",
+      "confidence": 14.443825,
+      "box": [
+        480,
+        231,
+        97,
+        63
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Se",
+      "confidence": 8.525887,
+      "box": [
+        575,
+        253,
+        63,
+        16
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Terms:",
+      "confidence": 94.418053,
+      "box": [
+        763,
+        251,
+        96,
+        42
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "ty",
+      "confidence": 23.755577,
+      "box": [
+        1134,
+        259,
+        58,
+        8
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "TiN:",
+      "confidence": 38.83493,
+      "box": [
+        112,
+        302,
+        156,
+        30
+      ],
+      "block": 6,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": ":",
+      "confidence": 77.458344,
+      "box": [
+        463,
+        314,
+        2,
+        2
+      ],
+      "block": 6,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "OSCAIPWD",
+      "confidence": 84.312332,
+      "box": [
+        766,
+        300,
+        212,
+        38
+      ],
+      "block": 6,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "ID",
+      "confidence": 74.41481,
+      "box": [
+        902,
+        291,
+        22,
+        51
+      ],
+      "block": 6,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "No:",
+      "confidence": 62.611832,
+      "box": [
+        936,
+        291,
+        43,
+        51
+      ],
+      "block": 6,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "Business",
+      "confidence": 95.920059,
+      "box": [
+        112,
+        348,
+        132,
+        33
+      ],
+      "block": 6,
+      "paragraph": 3,
+      "line": 1
+    },
+    {
+      "text": "Se",
+      "confidence": 0.0,
+      "box": [
+        254,
+        351,
+        78,
+        43
+      ],
+      "block": 6,
+      "paragraph": 3,
+      "line": 1
+    },
+    {
+      "text": "ree",
+      "confidence": 28.581467,
+      "box": [
+        440,
+        346,
+        313,
+        52
+      ],
+      "block": 6,
+      "paragraph": 3,
+      "line": 1
+    },
+    {
+      "text": "SC/PWD",
+      "confidence": 65.114494,
+      "box": [
+        767,
+        342,
+        101,
+        33
+      ],
+      "block": 6,
+      "paragraph": 3,
+      "line": 1
+    },
+    {
+      "text": "‘Signature:",
+      "confidence": 57.817795,
+      "box": [
+        868,
+        332,
+        113,
+        42
+      ],
+      "block": 6,
+      "paragraph": 3,
+      "line": 1
+    },
+    {
+      "text": "N®",
+      "confidence": 51.378174,
+      "box": [
+        159,
+        1074,
+        79,
+        51
+      ],
+      "block": 23,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "0000034",
+      "confidence": 72.459213,
+      "box": [
+        282,
+        1084,
+        254,
+        40
+      ],
+      "block": 23,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "—",
+      "confidence": 6.118393,
+      "box": [
+        1016,
+        1087,
+        152,
+        35
+      ],
+      "block": 23,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "—",
+      "confidence": 45.722809,
+      "box": [
+        983,
+        1121,
+        32,
+        12
+      ],
+      "block": 24,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "10",
+      "confidence": 56.864059,
+      "box": [
+        86,
+        1137,
+        20,
+        33
+      ],
+      "block": 24,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Bits,",
+      "confidence": 5.206619,
+      "box": [
+        116,
+        1133,
+        54,
+        41
+      ],
+      "block": 24,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "arity",
+      "confidence": 0.0,
+      "box": [
+        179,
+        1134,
+        37,
+        54
+      ],
+      "block": 24,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "0",
+      "confidence": 58.935795,
+      "box": [
+        229,
+        1139,
+        14,
+        34
+      ],
+      "block": 24,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "D00001-900800",
+      "confidence": 0.0,
+      "box": [
+        246,
+        1136,
+        167,
+        41
+      ],
+      "block": 24,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "wih",
+      "confidence": 14.926712,
+      "box": [
+        921,
+        1131,
+        50,
+        45
+      ],
+      "block": 24,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "©",
+      "confidence": 81.677048,
+      "box": [
+        230,
+        1162,
+        14,
+        11
+      ],
+      "block": 24,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Print",
+      "confidence": 95.780243,
+      "box": [
+        279,
+        1161,
+        18,
+        13
+      ],
+      "block": 24,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "No.",
+      "confidence": 96.028297,
+      "box": [
+        306,
+        1160,
+        33,
+        15
+      ],
+      "block": 24,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "056",
+      "confidence": 66.384384,
+      "box": [
+        351,
+        1156,
+        39,
+        28
+      ],
+      "block": 24,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "AU20220000006084",
+      "confidence": 66.384384,
+      "box": [
+        388,
+        1161,
+        217,
+        17
+      ],
+      "block": 24,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "TT",
+      "confidence": 45.970974,
+      "box": [
+        708,
+        1162,
+        57,
+        26
+      ],
+      "block": 24,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "a",
+      "confidence": 46.25943,
+      "box": [
+        806,
+        1168,
+        38,
+        4
+      ],
+      "block": 24,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Bate",
+      "confidence": 58.366394,
+      "box": [
+        85,
+        1165,
+        51,
+        47
+      ],
+      "block": 24,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": ":",
+      "confidence": 0.0,
+      "box": [
+        207,
+        1180,
+        4,
+        11
+      ],
+      "block": 24,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "August",
+      "confidence": 96.216415,
+      "box": [
+        216,
+        1177,
+        75,
+        18
+      ],
+      "block": 24,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "19,",
+      "confidence": 90.971939,
+      "box": [
+        299,
+        1178,
+        29,
+        17
+      ],
+      "block": 24,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "2022",
+      "confidence": 96.580444,
+      "box": [
+        336,
+        1179,
+        52,
+        15
+      ],
+      "block": 24,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "Py",
+      "confidence": 22.47348,
+      "box": [
+        634,
+        1185,
+        26,
+        21
+      ],
+      "block": 24,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "Cashier/Althorized",
+      "confidence": 75.260468,
+      "box": [
+        778,
+        1177,
+        209,
+        21
+      ],
+      "block": 24,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "Representative",
+      "confidence": 95.088959,
+      "box": [
+        996,
+        1180,
+        166,
+        20
+      ],
+      "block": 24,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "ENTERP",
+      "confidence": 25.178177,
+      "box": [
+        233,
+        1186,
+        105,
+        36
+      ],
+      "block": 25,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "RIS",
+      "confidence": 25.178177,
+      "box": [
+        344,
+        1186,
+        45,
+        36
+      ],
+      "block": 25,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "7h",
+      "confidence": 45.382668,
+      "box": [
+        84,
+        1190,
+        54,
+        63
+      ],
+      "block": 25,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Lk",
+      "confidence": 45.14254,
+      "box": [
+        144,
+        1210,
+        64,
+        41
+      ],
+      "block": 25,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "5",
+      "confidence": 28.094322,
+      "box": [
+        238,
+        1216,
+        62,
+        38
+      ],
+      "block": 25,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Far",
+      "confidence": 51.566872,
+      "box": [
+        316,
+        1218,
+        60,
+        57
+      ],
+      "block": 25,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "00000",
+      "confidence": 0.0,
+      "box": [
+        369,
+        1197,
+        78,
+        49
+      ],
+      "block": 25,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "AS,",
+      "confidence": 27.683357,
+      "box": [
+        597,
+        1200,
+        99,
+        38
+      ],
+      "block": 25,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Printers",
+      "confidence": 19.928009,
+      "box": [
+        749,
+        1194,
+        80,
+        56
+      ],
+      "block": 25,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Ackredfation",
+      "confidence": 20.041794,
+      "box": [
+        837,
+        1194,
+        117,
+        56
+      ],
+      "block": 25,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "No.",
+      "confidence": 93.279907,
+      "box": [
+        961,
+        1224,
+        34,
+        16
+      ],
+      "block": 25,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "056MP23200000000001",
+      "confidence": 79.585533,
+      "box": [
+        1001,
+        1224,
+        233,
+        19
+      ],
+      "block": 25,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Cell.",
+      "confidence": 32.262253,
+      "box": [
+        88,
+        1248,
+        42,
+        17
+      ],
+      "block": 25,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "No.",
+      "confidence": 21.955673,
+      "box": [
+        136,
+        1251,
+        40,
+        16
+      ],
+      "block": 25,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "0533.",
+      "confidence": 62.657722,
+      "box": [
+        184,
+        1246,
+        58,
+        23
+      ],
+      "block": 25,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "625",
+      "confidence": 49.353985,
+      "box": [
+        249,
+        1232,
+        26,
+        44
+      ],
+      "block": 25,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Saga",
+      "confidence": 18.875595,
+      "box": [
+        290,
+        1257,
+        52,
+        15
+      ],
+      "block": 25,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "an.",
+      "confidence": 73.388062,
+      "box": [
+        351,
+        1238,
+        32,
+        17
+      ],
+      "block": 25,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Calamba",
+      "confidence": 89.976822,
+      "box": [
+        391,
+        1239,
+        93,
+        16
+      ],
+      "block": 25,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "City,",
+      "confidence": 95.826241,
+      "box": [
+        493,
+        1242,
+        44,
+        17
+      ],
+      "block": 25,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Laguna",
+      "confidence": 96.686607,
+      "box": [
+        547,
+        1242,
+        77,
+        19
+      ],
+      "block": 25,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Date",
+      "confidence": 93.931847,
+      "box": [
+        753,
+        1241,
+        43,
+        17
+      ],
+      "block": 25,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Issued:",
+      "confidence": 53.52829,
+      "box": [
+        803,
+        1242,
+        65,
+        18
+      ],
+      "block": 25,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "03-02-20;",
+      "confidence": 94.620667,
+      "box": [
+        875,
+        1244,
+        91,
+        20
+      ],
+      "block": 25,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Expiry",
+      "confidence": 75.792099,
+      "box": [
+        973,
+        1246,
+        58,
+        22
+      ],
+      "block": 25,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Date:",
+      "confidence": 94.231956,
+      "box": [
+        1039,
+        1248,
+        49,
+        16
+      ],
+      "block": 25,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "03-01-25",
+      "confidence": 88.708916,
+      "box": [
+        1096,
+        1248,
+        85,
+        17
+      ],
+      "block": 25,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "“THIS",
+      "confidence": 83.113533,
+      "box": [
+        479,
+        1275,
+        65,
+        16
+      ],
+      "block": 26,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "DOCUMENT",
+      "confidence": 95.406868,
+      "box": [
+        553,
+        1276,
+        136,
+        20
+      ],
+      "block": 26,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "IS",
+      "confidence": 94.873474,
+      "box": [
+        695,
+        1280,
+        23,
+        16
+      ],
+      "block": 26,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "NOT",
+      "confidence": 96.354691,
+      "box": [
+        726,
+        1281,
+        49,
+        17
+      ],
+      "block": 26,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "VALID",
+      "confidence": 96.184441,
+      "box": [
+        781,
+        1282,
+        71,
+        20
+      ],
+      "block": 26,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "FOR",
+      "confidence": 96.474831,
+      "box": [
+        861,
+        1284,
+        49,
+        17
+      ],
+      "block": 26,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "CLAIMING",
+      "confidence": 95.490738,
+      "box": [
+        918,
+        1286,
+        121,
+        18
+      ],
+      "block": 26,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "INPUT",
+      "confidence": 95.905441,
+      "box": [
+        1047,
+        1278,
+        76,
+        26
+      ],
+      "block": 26,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "TAXES\"",
+      "confidence": 67.139717,
+      "box": [
+        1128,
+        1284,
+        90,
+        31
+      ],
+      "block": 26,
+      "paragraph": 1,
+      "line": 1
+    }
+  ]
+}

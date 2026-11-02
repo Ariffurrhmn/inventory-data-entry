@@ -1,0 +1,57 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "9a3b168b4497",
+  "source_image": {
+    "path": "Dataset/Purchase_Order/Purchase Order 4.jpg",
+    "sha256": "7fcf77db3f48e436cd02f13ccaa3516eb1002bdc14adbf8b5c3bb855e89a2cf9"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/9a3b168b4497.jpg",
+    "sha256": "f188b74a6218121d11e5180dd45be2f7f22d7ec5d402dff6b9512bb6194694c8"
+  },
+  "classification": {
+    "label": "purchase_order",
+    "split": "train"
+  },
+  "transcription": {
+    "full_text": "Arifur Rahman PURCHASE\nORDER\n\nPurchase Order # 4\n\nBill To: Ship To:\nMaliha Usha Date: Oct 7, 2026\n\nRequired By: Oct 12, 2026\nItem Quantity Rate Amount\nUSB Flash Drive 10 $5.50 $55.00\nWireless Mouse 5 $7.50 $37.50\nKeyboard 1 $9.00 $9.00\nUSB-C Cable 1 $2.50 $2.50\n\nSubtotal: $104.00\nTax (0.25%): $0.26\n\nTotal: $104.26",
+    "lines": [
+      "Arifur Rahman PURCHASE",
+      "ORDER",
+      "",
+      "Purchase Order # 4",
+      "",
+      "Bill To: Ship To:",
+      "Maliha Usha Date: Oct 7, 2026",
+      "",
+      "Required By: Oct 12, 2026",
+      "Item Quantity Rate Amount",
+      "USB Flash Drive 10 $5.50 $55.00",
+      "Wireless Mouse 5 $7.50 $37.50",
+      "Keyboard 1 $9.00 $9.00",
+      "USB-C Cable 1 $2.50 $2.50",
+      "",
+      "Subtotal: $104.00",
+      "Tax (0.25%): $0.26",
+      "",
+      "Total: $104.26"
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [],
+    "notes": ""
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/9a3b168b4497.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

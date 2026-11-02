@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "00814f24e77a",
+  "source_image": {
+    "path": "Dataset/Purchase_Order/Purchase Order 1.jpg",
+    "sha256": "48be16e22da7393bced904ba6f4dc1ce13bc64384e718cc6f8f7b4d5c16ad429"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/00814f24e77a.jpg",
+    "sha256": "e73032680b8e25d0d8b5253126791c37cce83dbbb0bb821718c04f80a6472d95"
+  },
+  "classification": {
+    "label": "purchase_order",
+    "split": "train"
+  },
+  "transcription": {
+    "full_text": "Arifur Rahman PURCHASE\nORDER\n\nPurchase Order # 1\n\nBill To: Ship To:\n\nHasan Mahmood Hasnara Begum Date: Oct 8, 2026\nRequired By: Oct 16, 2026\n\nItem Quantity Rate Amount\n\nPen 20 $0.15 $3.00\n\nSubtotal: $3.00\nTax (0.02%): $0.00\nTotal: $3.00",
+    "lines": [
+      "Arifur Rahman PURCHASE",
+      "ORDER",
+      "",
+      "Purchase Order # 1",
+      "",
+      "Bill To: Ship To:",
+      "",
+      "Hasan Mahmood Hasnara Begum Date: Oct 8, 2026",
+      "Required By: Oct 16, 2026",
+      "",
+      "Item Quantity Rate Amount",
+      "",
+      "Pen 20 $0.15 $3.00",
+      "",
+      "Subtotal: $3.00",
+      "Tax (0.02%): $0.00",
+      "Total: $3.00"
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [],
+    "notes": ""
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/00814f24e77a.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

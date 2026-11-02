@@ -1,0 +1,54 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "0737a6ca5674",
+  "source_image": {
+    "path": "Dataset/Delivery_Note/packing-slip-1094.png",
+    "sha256": "34dbb8df64c786e5dc88495b4786e162721904444723cc6b974d38ed5d34eec3"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/0737a6ca5674.jpg",
+    "sha256": "b700fda0cd988456858667d6b517b81c4cab963dc846c64fe9ad6594b64dbaeb"
+  },
+  "classification": {
+    "label": "delivery_note",
+    "split": "test"
+  },
+  "transcription": {
+    "full_text": "Packing Slip\nOrder #1094\nSeptember 16, 2026\nFrom\nCrimson&Co\n07 South Bishil Road\n1216\nBangladesh\nShip to\n[redacted]\nOrder Details\nQty Item\n1 Vintage-Style Contrast Ringer Tee - XL\n1 Natural Raw Ecru Denim Jeans - 34",
+    "lines": [
+      "Packing Slip",
+      "Order #1094",
+      "September 16, 2026",
+      "From",
+      "Crimson&Co",
+      "07 South Bishil Road",
+      "1216",
+      "Bangladesh",
+      "Ship to",
+      "[redacted]",
+      "Order Details",
+      "Qty Item",
+      "1 Vintage-Style Contrast Ringer Tee - XL",
+      "1 Natural Raw Ecru Denim Jeans - 34"
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [
+      "Recipient details were blurred in the source and are not reconstructed."
+    ],
+    "notes": ""
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/0737a6ca5674.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

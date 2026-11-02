@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "4672e3a30c1f",
+  "source_image": {
+    "path": "Dataset/Purchase_Order/Purchase Order 5.jpg",
+    "sha256": "c54fc7a4e59eb0af8154bf15893146088d19c616a842ca77d9d50a3a786ac52e"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/4672e3a30c1f.jpg",
+    "sha256": "4f1ad7fd5aa840d9f82305c41d7892bb4503142e0374ee27ebd52995caddbd1d"
+  },
+  "classification": {
+    "label": "purchase_order",
+    "split": "train"
+  },
+  "transcription": {
+    "full_text": "Suraiya Rahman PURCHASE\nORDER\n\nPurchase Order # 5\n\nBill To: Ship To:\nTithy Khan Usha Islam Date: Oct 7, 2026\nRequired By: Oct 12, 2026\nItem Quantity Rate Amount\nEarphone 10 $4.50 $45.00\nWater Bottle 5 $3.50 $17.50\nMug 2 $2.80 $5.60\nLED Lamp 5 $8.50 $42.50\n\nSubtotal: $110.60\nTax (0.25%): $0.28\nTotal: $110.88",
+    "lines": [
+      "Suraiya Rahman PURCHASE",
+      "ORDER",
+      "",
+      "Purchase Order # 5",
+      "",
+      "Bill To: Ship To:",
+      "Tithy Khan Usha Islam Date: Oct 7, 2026",
+      "Required By: Oct 12, 2026",
+      "Item Quantity Rate Amount",
+      "Earphone 10 $4.50 $45.00",
+      "Water Bottle 5 $3.50 $17.50",
+      "Mug 2 $2.80 $5.60",
+      "LED Lamp 5 $8.50 $42.50",
+      "",
+      "Subtotal: $110.60",
+      "Tax (0.25%): $0.28",
+      "Total: $110.88"
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [],
+    "notes": ""
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/4672e3a30c1f.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "f94a1cc40a05",
+  "source_image": {
+    "path": "Dataset/Receipt/IMG_20251026_133147_jpg.rf.7c1871edc0c5fa593ead79391c3ee632.jpg",
+    "sha256": "aa85c0d59e0b5578c8716ec70ec1ff01bf13d2776d497ed06315f3fa277a6034"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/f94a1cc40a05.jpg",
+    "sha256": "2f67b394e16a9e726c635926a09d6a70e5bafe2ebee3196d88abe56b07ff3a00"
+  },
+  "classification": {
+    "label": "receipt",
+    "split": "train"
+  },
+  "transcription": {
+    "full_text": "DIZ INDUSTRIAL MACHINERY TRADING\n228 Ilaya St., Burol, City of Calamba 4027, Laguna, Philippines\nPANGANIBAN, GLADYS C. - Prop.\nNON-VAT Reg. TIN: 411-344-556-00000\nSALES INVOICE\nSOLD TO: IRON WORKS\nDate: 9/16 2022\nTerms: 15 DAYS\nTIN:\nBusiness Style:\nAddress:\nOSCA/PWD ID No.:\nSC/PWD Signature:\nQTY. UNIT ARTICLES U/PRICE AMOUNT\n250 PCS POWER CRAFT GRINDING DISC 4\" 35 8,750.00\nP.O NO: 2022 22-066\nTotal Sales\nLess: SC/PWD-Discount\nTOTAL AMOUNT DUE 8,750.00\nNo. 0000008\n10 Bklts. (50x2) 000001-000500\nBIR Authority to Print No. 056AU20220000008084\nDate of ATP: August 19, 2022\nCashier/Authorized Representative [signature]\n[cut off]",
+    "lines": [
+      "DIZ INDUSTRIAL MACHINERY TRADING",
+      "228 Ilaya St., Burol, City of Calamba 4027, Laguna, Philippines",
+      "PANGANIBAN, GLADYS C. - Prop.",
+      "NON-VAT Reg. TIN: 411-344-556-00000",
+      "SALES INVOICE",
+      "SOLD TO: IRON WORKS",
+      "Date: 9/16 2022",
+      "Terms: 15 DAYS",
+      "TIN:",
+      "Business Style:",
+      "Address:",
+      "OSCA/PWD ID No.:",
+      "SC/PWD Signature:",
+      "QTY. UNIT ARTICLES U/PRICE AMOUNT",
+      "250 PCS POWER CRAFT GRINDING DISC 4\" 35 8,750.00",
+      "P.O NO: 2022 22-066",
+      "Total Sales",
+      "Less: SC/PWD-Discount",
+      "TOTAL AMOUNT DUE 8,750.00",
+      "No. 0000008",
+      "10 Bklts. (50x2) 000001-000500",
+      "BIR Authority to Print No. 056AU20220000008084",
+      "Date of ATP: August 19, 2022",
+      "Cashier/Authorized Representative [signature]",
+      "[cut off]"
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [
+      "Quantity, handwritten PO number punctuation and date are best visual readings; lower print-shop footer is cut off in source."
+    ],
+    "notes": "Did not reconstruct footer from other similar invoices."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/f94a1cc40a05.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

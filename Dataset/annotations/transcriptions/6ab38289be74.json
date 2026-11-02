@@ -1,0 +1,54 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "6ab38289be74",
+  "source_image": {
+    "path": "Dataset/Dataset-2/Purchase order/IMG_0967.HEIC",
+    "sha256": "37756ae9ceac3c947c0a484917d2fa427e0e0120c12d8a16286468a040f4b115"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/6ab38289be74.jpg",
+    "sha256": "1df99f193330b00fa0607c7f12ce9e5a79882a698a2f3919c0b5fe3b03225844"
+  },
+  "classification": {
+    "label": "delivery_note",
+    "split": "test"
+  },
+  "transcription": {
+    "full_text": "Packing Slip\nOrder #1094\nSeptember 16, 2026\nFrom\nCrimson&Co\n07 South Bishil Road\n1216\nBangladesh\nShip to\n[redacted]\nOrder Details\nQty Item\n1 Vintage-Style Contrast Ringer Tee - XL\n1 Natural Raw Ecru Denim Jeans - 34",
+    "lines": [
+      "Packing Slip",
+      "Order #1094",
+      "September 16, 2026",
+      "From",
+      "Crimson&Co",
+      "07 South Bishil Road",
+      "1216",
+      "Bangladesh",
+      "Ship to",
+      "[redacted]",
+      "Order Details",
+      "Qty Item",
+      "1 Vintage-Style Contrast Ringer Tee - XL",
+      "1 Natural Raw Ecru Denim Jeans - 34"
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [
+      "Recipient details were blurred in the source and are not reconstructed."
+    ],
+    "notes": "Photograph visually inspected; visible content matches the checked digital counterpart. Reused its text after comparison."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/6ab38289be74.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

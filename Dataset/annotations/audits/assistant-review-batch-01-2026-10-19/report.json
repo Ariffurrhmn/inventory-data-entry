@@ -1,0 +1,67 @@
+{
+  "batch": "assistant-review-batch-01",
+  "date": "2026-10-19T17:26:41.899031+00:00",
+  "visually_inspected": 10,
+  "saved": 0,
+  "text_corrected": 0,
+  "payment_status_flags": 0,
+  "human_verified_created": 0,
+  "reviewer_type": "ai",
+  "status": "needs_review",
+  "pre_existing_latest_reviews_preserved": 20,
+  "protected_source_files_unchanged": 14,
+  "classifier_training": false,
+  "classifier_evaluation": false,
+  "results": [
+    {
+      "sample_id": "d6b7679bc0a8",
+      "result": "skipped_existing_review",
+      "revision": 1
+    },
+    {
+      "sample_id": "7bd460b8c269",
+      "result": "skipped_existing_review",
+      "revision": 1
+    },
+    {
+      "sample_id": "5564ab2d8b11",
+      "result": "skipped_existing_review",
+      "revision": 1
+    },
+    {
+      "sample_id": "fcac4e4559e8",
+      "result": "skipped_existing_review",
+      "revision": 1
+    },
+    {
+      "sample_id": "e24acf8b8294",
+      "result": "skipped_existing_review",
+      "revision": 1
+    },
+    {
+      "sample_id": "be13e587ee89",
+      "result": "skipped_existing_review",
+      "revision": 1
+    },
+    {
+      "sample_id": "c4e63d9e78fe",
+      "result": "skipped_existing_review",
+      "revision": 1
+    },
+    {
+      "sample_id": "dc0e8749153f",
+      "result": "skipped_existing_review",
+      "revision": 1
+    },
+    {
+      "sample_id": "99227d025be4",
+      "result": "skipped_existing_review",
+      "revision": 1
+    },
+    {
+      "sample_id": "684abec37a2d",
+      "result": "skipped_existing_review",
+      "revision": 1
+    }
+  ]
+}

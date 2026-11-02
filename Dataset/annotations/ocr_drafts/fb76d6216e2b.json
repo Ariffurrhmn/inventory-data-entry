@@ -1,0 +1,239 @@
+{
+  "sample_id": "fb76d6216e2b",
+  "source_path": "Dataset/Dataset-2/Customer copy/IMG_1006.HEIC",
+  "source_sha256": "09d896d9731f7b68fae3bf931cb4598db7114656a32c0be7f4b080bc79925f6b",
+  "prepared_image_path": "data/images/fb76d6216e2b.jpg",
+  "prepared_image_sha256": "d281f7b9a307a8ff57496d059d105e4699864511670f61e24b02c30a20773297",
+  "label": "customer_copy",
+  "split": "val",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "Jamuna Wholesale\n\nCash Memo\nOFFICE COPY\n\nBill To / Customer:\n\nNabil Departmental Store, UHara Sector 7, Dhaka.\n\n",
+  "ocr_image_size": [
+    1400,
+    1866
+  ],
+  "words": [
+    {
+      "text": "Jamuna",
+      "confidence": 92.523514,
+      "box": [
+        281,
+        59,
+        369,
+        78
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Wholesale",
+      "confidence": 95.925964,
+      "box": [
+        681,
+        59,
+        471,
+        83
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Cash",
+      "confidence": 96.308121,
+      "box": [
+        581,
+        189,
+        115,
+        41
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Memo",
+      "confidence": 96.212555,
+      "box": [
+        715,
+        190,
+        144,
+        39
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "OFFICE",
+      "confidence": 96.462814,
+      "box": [
+        596,
+        254,
+        135,
+        32
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "COPY",
+      "confidence": 94.997643,
+      "box": [
+        744,
+        253,
+        102,
+        32
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Bill",
+      "confidence": 96.136139,
+      "box": [
+        124,
+        324,
+        60,
+        48
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "To",
+      "confidence": 92.94648,
+      "box": [
+        200,
+        324,
+        28,
+        48
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "/",
+      "confidence": 92.94648,
+      "box": [
+        244,
+        331,
+        12,
+        33
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Customer:",
+      "confidence": 96.57074,
+      "box": [
+        264,
+        328,
+        160,
+        36
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Nabil",
+      "confidence": 94.082588,
+      "box": [
+        150,
+        385,
+        114,
+        68
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Departmental",
+      "confidence": 93.838982,
+      "box": [
+        303,
+        385,
+        273,
+        86
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Store,",
+      "confidence": 92.38488,
+      "box": [
+        620,
+        386,
+        125,
+        76
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "UHara",
+      "confidence": 78.287819,
+      "box": [
+        769,
+        384,
+        125,
+        66
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Sector",
+      "confidence": 96.606163,
+      "box": [
+        930,
+        382,
+        124,
+        63
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "7,",
+      "confidence": 83.431503,
+      "box": [
+        1077,
+        388,
+        42,
+        71
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Dhaka.",
+      "confidence": 83.697998,
+      "box": [
+        1147,
+        387,
+        134,
+        63
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    }
+  ]
+}

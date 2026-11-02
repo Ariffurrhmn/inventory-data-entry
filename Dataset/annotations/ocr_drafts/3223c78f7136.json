@@ -1,0 +1,17 @@
+{
+  "sample_id": "3223c78f7136",
+  "source_path": "Dataset/Receipt/cord-train-0023.jpg",
+  "source_sha256": "c554928f373a0ec59c41946e5df22eb5e9618690842b2200828457fe5a198179",
+  "prepared_image_path": "data/images/3223c78f7136.jpg",
+  "prepared_image_sha256": "d862bb486ab1aaf3736a58a12b7a1aa31710f5c1c9d9d6ab93edd94b8da0b707",
+  "label": "receipt",
+  "split": "train",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "",
+  "ocr_image_size": [
+    1400,
+    2100
+  ],
+  "words": []
+}

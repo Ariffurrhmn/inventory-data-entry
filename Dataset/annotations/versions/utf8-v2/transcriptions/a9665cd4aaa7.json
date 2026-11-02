@@ -1,0 +1,54 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "a9665cd4aaa7",
+  "source_image": {
+    "path": "Dataset/Purchase_Order/Purchase Order 3.jpg",
+    "sha256": "f68844b0346bd44aa9e0a94474c221aeee511c889a3b6296c98a8db63ae6b206"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/a9665cd4aaa7.jpg",
+    "sha256": "b242141ade2c91058112b7ecf0d29594afd7dd0ff039e35c201636db4003c8ac"
+  },
+  "classification": {
+    "label": "purchase_order",
+    "split": "train"
+  },
+  "transcription": {
+    "full_text": "Arifur Rahman PURCHASE\nORDER\n\nPurchase Order # 3\n\nBill To: Ship To:\nMishal Asha Date: Oct 13, 2026\nRequired By: Oct 15, 2026\nItem Quantity Rate Amount\nUSB Flash Drive 10 $5.50 $55.00\nWireless Mouse 5 $7.50 $37.50\n\nSubtotal: $92.50\nTax (0.55%): $0.51\n\nTotal: $93.01",
+    "lines": [
+      "Arifur Rahman PURCHASE",
+      "ORDER",
+      "",
+      "Purchase Order # 3",
+      "",
+      "Bill To: Ship To:",
+      "Mishal Asha Date: Oct 13, 2026",
+      "Required By: Oct 15, 2026",
+      "Item Quantity Rate Amount",
+      "USB Flash Drive 10 $5.50 $55.00",
+      "Wireless Mouse 5 $7.50 $37.50",
+      "",
+      "Subtotal: $92.50",
+      "Tax (0.55%): $0.51",
+      "",
+      "Total: $93.01"
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [],
+    "notes": ""
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/a9665cd4aaa7.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

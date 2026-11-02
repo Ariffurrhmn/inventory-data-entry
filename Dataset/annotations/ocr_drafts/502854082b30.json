@@ -1,0 +1,200 @@
+{
+  "sample_id": "502854082b30",
+  "source_path": "Dataset/Dataset-2/Delivery note challan/IMG_0994.HEIC",
+  "source_sha256": "18be27ff8671899ad35ea966b4e2c0da9b24f31b761ffda770776f279df3a779",
+  "prepared_image_path": "data/images/502854082b30.jpg",
+  "prepared_image_sha256": "300ba2d75879a0b38536d5e76c0b487445dc0b34a6a96f07b3998d5ea4e98d5e",
+  "label": "delivery_note",
+  "split": "val",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "Deli very Challan\n\ni\n\nMW Fm: Karnaphuli Traders.\n\n_ Challan No: DC-369. Date: tims.\n\n",
+  "ocr_image_size": [
+    1400,
+    1866
+  ],
+  "words": [
+    {
+      "text": "Deli",
+      "confidence": 93.207047,
+      "box": [
+        467,
+        194,
+        121,
+        81
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "very",
+      "confidence": 91.782616,
+      "box": [
+        596,
+        222,
+        124,
+        72
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Challan",
+      "confidence": 91.782616,
+      "box": [
+        762,
+        209,
+        222,
+        61
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "i",
+      "confidence": 95.919151,
+      "box": [
+        182,
+        414,
+        5,
+        17
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "MW",
+      "confidence": 25.437027,
+      "box": [
+        8,
+        412,
+        133,
+        96
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Fm:",
+      "confidence": 9.92543,
+      "box": [
+        177,
+        441,
+        191,
+        91
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Karnaphuli",
+      "confidence": 30.586494,
+      "box": [
+        379,
+        444,
+        289,
+        77
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Traders.",
+      "confidence": 23.495209,
+      "box": [
+        682,
+        422,
+        243,
+        156
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "_",
+      "confidence": 0.0,
+      "box": [
+        162,
+        395,
+        19,
+        17
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Challan",
+      "confidence": 69.677773,
+      "box": [
+        195,
+        351,
+        329,
+        65
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "No:",
+      "confidence": 92.633759,
+      "box": [
+        432,
+        347,
+        90,
+        89
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "DC-369.",
+      "confidence": 88.493187,
+      "box": [
+        529,
+        366,
+        229,
+        56
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Date:",
+      "confidence": 53.696251,
+      "box": [
+        811,
+        374,
+        161,
+        53
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "tims.",
+      "confidence": 31.5131,
+      "box": [
+        962,
+        370,
+        304,
+        139
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    }
+  ]
+}

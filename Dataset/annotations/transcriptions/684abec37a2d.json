@@ -1,0 +1,72 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "684abec37a2d",
+  "source_image": {
+    "path": "Dataset/Receipt/cord-train-0750.jpg",
+    "sha256": "20878072cec296e43de6230d77c2f99213c98eafd65a3baeeef2a3338d21332e"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/684abec37a2d.jpg",
+    "sha256": "6ac772f1c9699953888f8ca95d3f18a706f023f92d5dc00c022398aa4b4f8f80"
+  },
+  "classification": {
+    "label": "receipt",
+    "split": "val"
+  },
+  "transcription": {
+    "full_text": "[redacted]\n1 Bakpao telur asin 22,800\n1 Cai Mieo 15,800\n1 Caisim special 15,800\n1 Carsiupau Ayam 22,800\n1 Fish Glue 27,800\n1 Jamur Isi Ayam 32,800\n1 Jamur Kuping 21,800\n1 Kailan hongkong 15,800\n1 Kuah Kaldu Ayam\n1 Kue Macok 22,800\n1 Pangsit Special 27,800\n1 Sirloin Roll Enoki 34,800\n1 Sutake Kombinasi 31,800\n1 Tahu Jepang 10,800\n1 Tahu Sandwidh 26,800\n1 TOM YAM\n1 Udon 19,800\n2 Chines Tea Green Tea 21,600\n2 Tahu Isi Ayam 55,600\n5 Green tea Dingin 84,000\n7 Nasi Putih 68,600\n1 Bakso Ikan 25,800\nITEMS TOTAL 605,600\nPromo UOB 20% (100,000)\nSUBTOTAL 505,600\nServices 5% 25,280\nTAX 10% 53,088\nTOTAL 583,968\nBCA MASTER 583,968\n[redacted]",
+    "lines": [
+      "[redacted]",
+      "1 Bakpao telur asin 22,800",
+      "1 Cai Mieo 15,800",
+      "1 Caisim special 15,800",
+      "1 Carsiupau Ayam 22,800",
+      "1 Fish Glue 27,800",
+      "1 Jamur Isi Ayam 32,800",
+      "1 Jamur Kuping 21,800",
+      "1 Kailan hongkong 15,800",
+      "1 Kuah Kaldu Ayam",
+      "1 Kue Macok 22,800",
+      "1 Pangsit Special 27,800",
+      "1 Sirloin Roll Enoki 34,800",
+      "1 Sutake Kombinasi 31,800",
+      "1 Tahu Jepang 10,800",
+      "1 Tahu Sandwidh 26,800",
+      "1 TOM YAM",
+      "1 Udon 19,800",
+      "2 Chines Tea Green Tea 21,600",
+      "2 Tahu Isi Ayam 55,600",
+      "5 Green tea Dingin 84,000",
+      "7 Nasi Putih 68,600",
+      "1 Bakso Ikan 25,800",
+      "ITEMS TOTAL 605,600",
+      "Promo UOB 20% (100,000)",
+      "SUBTOTAL 505,600",
+      "Services 5% 25,280",
+      "TAX 10% 53,088",
+      "TOTAL 583,968",
+      "BCA MASTER 583,968",
+      "[redacted]"
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [
+      "Source has pixelated/blurred regions marked [redacted]; these cannot be recovered from the image.",
+      "Some item lines wrap and show no aligned amount; no missing amount was inferred. Item spellings Cai Mieo and Tahu Sandwidh follow the visible print."
+    ],
+    "notes": "Full visible receipt content reviewed; original spelling, language, and amounts preserved."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/684abec37a2d.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

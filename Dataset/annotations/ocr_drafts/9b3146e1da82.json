@@ -1,0 +1,304 @@
+{
+  "sample_id": "9b3146e1da82",
+  "source_path": "Dataset/Dataset-2/Delivery note challan/IMG_0943.HEIC",
+  "source_sha256": "9d21f799658eb3b8b03a81bce0c05c90ea068f733895da1de90a4872cfaa8b41",
+  "prepared_image_path": "data/images/9b3146e1da82.jpg",
+  "prepared_image_sha256": "100e2d0efbab590299fb84a42e07a8a5a9b9384736eca8737d4c7d3d31fbbdc4",
+  "label": "delivery_note",
+  "split": "train",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "House- 64, Road- 35, Kolkata\n\n2320.00\n#45000\n2500.00\n\nChallan rio. DE-014\n\nDate 2026-09-04\n\nPlace of supply Kolkata\n\nGST %\n%\n5%\n8%\n\n",
+  "ocr_image_size": [
+    1400,
+    1866
+  ],
+  "words": [
+    {
+      "text": "House-",
+      "confidence": 91.037735,
+      "box": [
+        765,
+        251,
+        65,
+        31
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "64,",
+      "confidence": 93.167549,
+      "box": [
+        839,
+        255,
+        25,
+        20
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Road-",
+      "confidence": 86.439186,
+      "box": [
+        870,
+        255,
+        51,
+        18
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "35,",
+      "confidence": 89.59214,
+      "box": [
+        926,
+        257,
+        27,
+        19
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Kolkata",
+      "confidence": 94.257675,
+      "box": [
+        960,
+        257,
+        62,
+        16
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "2320.00",
+      "confidence": 83.868286,
+      "box": [
+        1071,
+        430,
+        66,
+        16
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "#45000",
+      "confidence": 0.0,
+      "box": [
+        1072,
+        471,
+        66,
+        18
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "2500.00",
+      "confidence": 82.238998,
+      "box": [
+        1073,
+        517,
+        66,
+        16
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Challan",
+      "confidence": 75.388847,
+      "box": [
+        1128,
+        74,
+        58,
+        15
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "rio.",
+      "confidence": 76.646431,
+      "box": [
+        1191,
+        78,
+        22,
+        11
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "DE-014",
+      "confidence": 40.917988,
+      "box": [
+        1228,
+        73,
+        63,
+        17
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Date",
+      "confidence": 79.568954,
+      "box": [
+        1139,
+        101,
+        35,
+        14
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "2026-09-04",
+      "confidence": 5.263443,
+      "box": [
+        1189,
+        101,
+        106,
+        15
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Place",
+      "confidence": 79.624077,
+      "box": [
+        1102,
+        125,
+        43,
+        14
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "of",
+      "confidence": 95.730927,
+      "box": [
+        1150,
+        126,
+        16,
+        13
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "supply",
+      "confidence": 78.381897,
+      "box": [
+        1171,
+        126,
+        52,
+        17
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Kolkata",
+      "confidence": 69.098557,
+      "box": [
+        1236,
+        127,
+        60,
+        14
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "GST",
+      "confidence": 88.492935,
+      "box": [
+        1235,
+        387,
+        34,
+        16
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "%",
+      "confidence": 88.492935,
+      "box": [
+        1274,
+        388,
+        15,
+        14
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "%",
+      "confidence": 21.016975,
+      "box": [
+        1265,
+        431,
+        26,
+        15
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "5%",
+      "confidence": 96.537033,
+      "box": [
+        1266,
+        473,
+        26,
+        15
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "8%",
+      "confidence": 95.830765,
+      "box": [
+        1267,
+        515,
+        27,
+        18
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 4
+    }
+  ]
+}

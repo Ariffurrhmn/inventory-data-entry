@@ -1,0 +1,512 @@
+{
+  "sample_id": "33a6690bb891",
+  "source_path": "Dataset/Dataset-2/Customer copy/IMG_1005.HEIC",
+  "source_sha256": "a650913c244b66f758c84d89c46e5e2f4ca39880af42e3b1d361432abd5eede4",
+  "prepared_image_path": "data/images/33a6690bb891.jpg",
+  "prepared_image_sha256": "d9dad640dc89196079b4f8901cba53d197f240d9d0b08540489588feef9d04b1",
+  "label": "customer_copy",
+  "split": "train",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "i\nLl\n{\n|\n|\n|\n1\n|\nL]\n|\n1\nLl]\n1\n}\n1\n1\n1\n1\n1\n\nKarnaphuli Traders CETONER COPY)\na—\n\nInvoice\n\nInvoice No: INV-3937.\n\nDate: 21/07/2026.\n\nBill To / Customer: Bismillah Store, Tongi, Gazipur.\n\n",
+  "ocr_image_size": [
+    1400,
+    1866
+  ],
+  "words": [
+    {
+      "text": "i",
+      "confidence": 52.555218,
+      "box": [
+        86,
+        20,
+        3,
+        14
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Ll",
+      "confidence": 27.606247,
+      "box": [
+        85,
+        50,
+        4,
+        14
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "{",
+      "confidence": 52.026825,
+      "box": [
+        85,
+        79,
+        3,
+        16
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "|",
+      "confidence": 57.71785,
+      "box": [
+        85,
+        110,
+        3,
+        15
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "|",
+      "confidence": 71.327492,
+      "box": [
+        85,
+        140,
+        3,
+        16
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "|",
+      "confidence": 73.559723,
+      "box": [
+        84,
+        171,
+        4,
+        16
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "1",
+      "confidence": 93.337021,
+      "box": [
+        84,
+        201,
+        4,
+        16
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 7
+    },
+    {
+      "text": "|",
+      "confidence": 31.237213,
+      "box": [
+        84,
+        232,
+        4,
+        16
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 8
+    },
+    {
+      "text": "L]",
+      "confidence": 0.0,
+      "box": [
+        83,
+        262,
+        5,
+        16
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 9
+    },
+    {
+      "text": "|",
+      "confidence": 62.427467,
+      "box": [
+        84,
+        293,
+        4,
+        16
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 10
+    },
+    {
+      "text": "1",
+      "confidence": 85.101746,
+      "box": [
+        83,
+        323,
+        5,
+        16
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 11
+    },
+    {
+      "text": "Ll]",
+      "confidence": 0.0,
+      "box": [
+        83,
+        354,
+        5,
+        14
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 12
+    },
+    {
+      "text": "1",
+      "confidence": 88.15667,
+      "box": [
+        83,
+        383,
+        5,
+        16
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 13
+    },
+    {
+      "text": "}",
+      "confidence": 10.276291,
+      "box": [
+        83,
+        413,
+        5,
+        17
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 14
+    },
+    {
+      "text": "1",
+      "confidence": 96.047615,
+      "box": [
+        82,
+        443,
+        5,
+        17
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 15
+    },
+    {
+      "text": "1",
+      "confidence": 95.708969,
+      "box": [
+        81,
+        473,
+        6,
+        17
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 16
+    },
+    {
+      "text": "1",
+      "confidence": 91.471115,
+      "box": [
+        82,
+        504,
+        5,
+        17
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 17
+    },
+    {
+      "text": "1",
+      "confidence": 95.650642,
+      "box": [
+        81,
+        533,
+        6,
+        17
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 18
+    },
+    {
+      "text": "1",
+      "confidence": 61.122257,
+      "box": [
+        80,
+        562,
+        22,
+        20
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 19
+    },
+    {
+      "text": "Karnaphuli",
+      "confidence": 91.41658,
+      "box": [
+        179,
+        113,
+        278,
+        66
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Traders",
+      "confidence": 92.897606,
+      "box": [
+        470,
+        134,
+        185,
+        46
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "CETONER",
+      "confidence": 0.0,
+      "box": [
+        944,
+        71,
+        223,
+        143
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "COPY)",
+      "confidence": 37.617973,
+      "box": [
+        1190,
+        71,
+        120,
+        143
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "a—",
+      "confidence": 0.0,
+      "box": [
+        956,
+        198,
+        120,
+        34
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Invoice",
+      "confidence": 95.703873,
+      "box": [
+        180,
+        212,
+        161,
+        45
+      ],
+      "block": 2,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "Invoice",
+      "confidence": 95.614014,
+      "box": [
+        178,
+        302,
+        129,
+        36
+      ],
+      "block": 2,
+      "paragraph": 3,
+      "line": 1
+    },
+    {
+      "text": "No:",
+      "confidence": 93.082458,
+      "box": [
+        318,
+        308,
+        58,
+        32
+      ],
+      "block": 2,
+      "paragraph": 3,
+      "line": 1
+    },
+    {
+      "text": "INV-3937.",
+      "confidence": 88.661255,
+      "box": [
+        388,
+        312,
+        159,
+        31
+      ],
+      "block": 2,
+      "paragraph": 3,
+      "line": 1
+    },
+    {
+      "text": "Date:",
+      "confidence": 96.657005,
+      "box": [
+        179,
+        361,
+        97,
+        37
+      ],
+      "block": 2,
+      "paragraph": 4,
+      "line": 1
+    },
+    {
+      "text": "21/07/2026.",
+      "confidence": 96.69313,
+      "box": [
+        286,
+        365,
+        206,
+        38
+      ],
+      "block": 2,
+      "paragraph": 4,
+      "line": 1
+    },
+    {
+      "text": "Bill",
+      "confidence": 42.596466,
+      "box": [
+        172,
+        443,
+        61,
+        61
+      ],
+      "block": 2,
+      "paragraph": 5,
+      "line": 1
+    },
+    {
+      "text": "To",
+      "confidence": 93.100937,
+      "box": [
+        248,
+        443,
+        31,
+        61
+      ],
+      "block": 2,
+      "paragraph": 5,
+      "line": 1
+    },
+    {
+      "text": "/",
+      "confidence": 92.430931,
+      "box": [
+        293,
+        454,
+        14,
+        36
+      ],
+      "block": 2,
+      "paragraph": 5,
+      "line": 1
+    },
+    {
+      "text": "Customer:",
+      "confidence": 95.595993,
+      "box": [
+        310,
+        450,
+        178,
+        40
+      ],
+      "block": 2,
+      "paragraph": 5,
+      "line": 1
+    },
+    {
+      "text": "Bismillah",
+      "confidence": 91.611534,
+      "box": [
+        500,
+        457,
+        141,
+        33
+      ],
+      "block": 2,
+      "paragraph": 5,
+      "line": 1
+    },
+    {
+      "text": "Store,",
+      "confidence": 93.304222,
+      "box": [
+        651,
+        461,
+        92,
+        35
+      ],
+      "block": 2,
+      "paragraph": 5,
+      "line": 1
+    },
+    {
+      "text": "Tongi,",
+      "confidence": 74.802246,
+      "box": [
+        752,
+        463,
+        93,
+        37
+      ],
+      "block": 2,
+      "paragraph": 5,
+      "line": 1
+    },
+    {
+      "text": "Gazipur.",
+      "confidence": 95.600624,
+      "box": [
+        853,
+        464,
+        130,
+        36
+      ],
+      "block": 2,
+      "paragraph": 5,
+      "line": 1
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "6639e70671f3",
+  "source_image": {
+    "path": "Dataset/Dataset-2/Customer copy/IMG_1001.HEIC",
+    "sha256": "45a2c34f46125f2b39c47afd0f3b06b47fb7e9ae15023d3d85b5358a9216b25a"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/6639e70671f3.jpg",
+    "sha256": "2d8d1c5090a7eeec4b5c9c641306f8044c41daa91cbee7f8f21082f2e5cc2dd1"
+  },
+  "classification": {
+    "label": "customer_copy",
+    "split": "train"
+  },
+  "transcription": {
+    "full_text": "Surma Food Supply\nInvoice\nBill To / Customer: Bismillah Store, Tongi, Gazipur.\nInvoice No: INV-5865.\nDate: 24/07/2026.\nItem Qty Rate (Tk) Amount (Tk)\nRed Lentils 1kg 5 Tk 110 Tk 550\nToothpaste 100g 6 Tk 120 Tk 720\nExercise Book 1 Tk 45 Tk 45\nInstant Noodles 8-pack 10 Tk 160 Tk 1,600\nShampoo 340ml 1 Tk 450 Tk 450\nTotal: Tk 3,365.\n[signature]\nAuthorised Signature\nT. Sultana\nCUSTOMER COPY",
+    "lines": [
+      "Surma Food Supply",
+      "Invoice",
+      "Bill To / Customer: Bismillah Store, Tongi, Gazipur.",
+      "Invoice No: INV-5865.",
+      "Date: 24/07/2026.",
+      "Item Qty Rate (Tk) Amount (Tk)",
+      "Red Lentils 1kg 5 Tk 110 Tk 550",
+      "Toothpaste 100g 6 Tk 120 Tk 720",
+      "Exercise Book 1 Tk 45 Tk 45",
+      "Instant Noodles 8-pack 10 Tk 160 Tk 1,600",
+      "Shampoo 340ml 1 Tk 450 Tk 450",
+      "Total: Tk 3,365.",
+      "[signature]",
+      "Authorised Signature",
+      "T. Sultana",
+      "CUSTOMER COPY"
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [],
+    "notes": "Individually visually reviewed photograph; table rows linearized, signatures marked."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/6639e70671f3.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

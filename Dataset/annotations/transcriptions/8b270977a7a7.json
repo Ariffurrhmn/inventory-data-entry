@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "8b270977a7a7",
+  "source_image": {
+    "path": "Dataset/Dataset-2/Customer copy/IMG_0999.HEIC",
+    "sha256": "10c1bd96b09d319afdf385db53ea677fa68fef703c45c6b60de5088c380e5d6c"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/8b270977a7a7.jpg",
+    "sha256": "a82cf8521b3309da0099905bd6e56866a5f87341269ba7c167e2429b02d42bb6"
+  },
+  "classification": {
+    "label": "customer_copy",
+    "split": "train"
+  },
+  "transcription": {
+    "full_text": "Karnaphuli Traders\nInvoice\nBill To / Customer: Shapla Grocery, Savar, Dhaka.\nInvoice No: INV-6897.\nDate: 24/10/2026.\nItem Qty Rate (Tk) Amount (Tk)\nBath Soap 100g 1 Tk 55 Tk 55\nExercise Book 4 Tk 45 Tk 180\nHand Wash 200ml 12 Tk 140 Tk 1,680\nSoybean Oil 5L 1 Tk 960 Tk 960\nTotal: Tk 2,875.\nDUPLICATE\n[signature]\nAuthorised Signature",
+    "lines": [
+      "Karnaphuli Traders",
+      "Invoice",
+      "Bill To / Customer: Shapla Grocery, Savar, Dhaka.",
+      "Invoice No: INV-6897.",
+      "Date: 24/10/2026.",
+      "Item Qty Rate (Tk) Amount (Tk)",
+      "Bath Soap 100g 1 Tk 55 Tk 55",
+      "Exercise Book 4 Tk 45 Tk 180",
+      "Hand Wash 200ml 12 Tk 140 Tk 1,680",
+      "Soybean Oil 5L 1 Tk 960 Tk 960",
+      "Total: Tk 2,875.",
+      "DUPLICATE",
+      "[signature]",
+      "Authorised Signature"
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [],
+    "notes": "Individually visually reviewed photograph; table rows linearized, signatures marked."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/8b270977a7a7.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "c444a2174871",
+  "source_image": {
+    "path": "Dataset/Receipt/IMG_20250823_031335_jpg.rf.5a199981b4aa990a64567daf31f4f7c6.jpg",
+    "sha256": "be2fef08f6ef3a5aec35bf8a0d44cfcc803f6cef6529e2d1ca2496e183091f92"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/c444a2174871.jpg",
+    "sha256": "6b7d94e2887580a9b4c5268e1cb827e655f5a899cf497ead13d066f5302a5edd"
+  },
+  "classification": {
+    "label": "receipt",
+    "split": "val"
+  },
+  "transcription": {
+    "full_text": "KOI'S LAUNDRY SHOP\n5 Curtains 750.00\n1 Comforter (king) 350.00\nIroning Service 100.00\nTOTAL 1,200.00",
+    "lines": [
+      "KOI'S LAUNDRY SHOP",
+      "5 Curtains 750.00",
+      "1 Comforter (king) 350.00",
+      "Ironing Service 100.00",
+      "TOTAL 1,200.00"
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [],
+    "notes": ""
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/c444a2174871.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

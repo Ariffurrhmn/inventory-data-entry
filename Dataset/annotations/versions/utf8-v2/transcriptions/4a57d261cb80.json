@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "4a57d261cb80",
+  "source_image": {
+    "path": "Dataset/Delivery_Note/delivery-challan-DC-008.jpg",
+    "sha256": "76768454b1af8fd9355603579b7b1b673369a2faf26e42e89ac31436b2983549"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/4a57d261cb80.jpg",
+    "sha256": "b8487749e1e751586636a56493385eb53206adc0c5d225906aa83aad6e1b23a7"
+  },
+  "classification": {
+    "label": "delivery_note",
+    "split": "train"
+  },
+  "transcription": {
+    "full_text": "DELIVERY CHALLAN\nABC Company\nChallan no. DC-008\nDate 2026-09-04\nPlace of supply Kolkata\nSELLER\nABC Company\nShop 12, Market Road, City — 400001\nCONSIGNEE\nTahmina\nHouse- 76, Road- 34, Kolkata\nVehicle no.: MH 01 AB 1234\nPurpose: Job work\n# Description HSN/SAC Qty Rate Taxable GST %\n1 Pencil Box 9056 150.00 ₹180.00 ₹27,000.00 5%\n2 Stapler 3541 250.00 ₹150.00 ₹37,500.00 6%\n3 USB 1436 300.00 ₹550.00 ₹1,65,000.00 10%\nTaxable value ₹2,29,500.00\nCGST ₹10,050.00\nSGST ₹10,050.00\nGrand total ₹2,49,600.00\nAmount in words: Two Lakh Forty Nine Thousand Six Hundred Rupees Only\nNotes: Goods sent for the purpose stated above. Not a sale.",
+    "lines": [
+      "DELIVERY CHALLAN",
+      "ABC Company",
+      "Challan no. DC-008",
+      "Date 2026-09-04",
+      "Place of supply Kolkata",
+      "SELLER",
+      "ABC Company",
+      "Shop 12, Market Road, City — 400001",
+      "CONSIGNEE",
+      "Tahmina",
+      "House- 76, Road- 34, Kolkata",
+      "Vehicle no.: MH 01 AB 1234",
+      "Purpose: Job work",
+      "# Description HSN/SAC Qty Rate Taxable GST %",
+      "1 Pencil Box 9056 150.00 ₹180.00 ₹27,000.00 5%",
+      "2 Stapler 3541 250.00 ₹150.00 ₹37,500.00 6%",
+      "3 USB 1436 300.00 ₹550.00 ₹1,65,000.00 10%",
+      "Taxable value ₹2,29,500.00",
+      "CGST ₹10,050.00",
+      "SGST ₹10,050.00",
+      "Grand total ₹2,49,600.00",
+      "Amount in words: Two Lakh Forty Nine Thousand Six Hundred Rupees Only",
+      "Notes: Goods sent for the purpose stated above. Not a sale."
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [],
+    "notes": "Visually checked all entries; retained printed spelling and numeric inconsistencies. Whitespace/table layout linearized."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/4a57d261cb80.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

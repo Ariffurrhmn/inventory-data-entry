@@ -1,0 +1,798 @@
+{
+  "sample_id": "723ee7e6a909",
+  "source_path": "Dataset/Customer_Copy/image_1553.jpg",
+  "source_sha256": "0abb5f98ebe3900d387dec2a5ad628f33ef330bb9d14f1085cddb05435e63202",
+  "prepared_image_path": "data/images/723ee7e6a909.jpg",
+  "prepared_image_sha256": "4e8d89a26cc472d6e88558d324e30f8fa3481ba47e8d522a9bca2028894407eb",
+  "label": "customer_copy",
+  "split": "train",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "ELEVEN wispy 000M\n\nS52 BRENTWOOD BLVD\n\nSHERWOOD pagk ag T8A 2H6\nAB TBA\nTEL (788) qg7-2055\n\nTERM ID: K0474643 BATCHI: 825\nSHIFTH: 001\nINV Sale\n: OOBBEEVZS\nMCARD Chip\n\nSEQH: 6250010881825\nfipplication Label: MasterCard\nAlD: ABBBBBBYBO41010\nTVR: 06 60 60 86 66\nTSI:E8 0608\n\nwxkrxxrnkekx9581\n\nTotal: CAD$ T.11\n\nVED 11G3:\nAPPROVED 38\n\n13-Feb -14 03:03:37\n\nTOMER Cop\nCUS TONE ¥\n\n",
+  "ocr_image_size": [
+    1400,
+    1866
+  ],
+  "words": [
+    {
+      "text": "ELEVEN",
+      "confidence": 59.683212,
+      "box": [
+        428,
+        281,
+        174,
+        82
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "wispy",
+      "confidence": 42.440849,
+      "box": [
+        626,
+        304,
+        125,
+        69
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "000M",
+      "confidence": 29.591591,
+      "box": [
+        796,
+        287,
+        105,
+        77
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "S52",
+      "confidence": 66.014938,
+      "box": [
+        473,
+        369,
+        41,
+        34
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "BRENTWOOD",
+      "confidence": 37.03957,
+      "box": [
+        539,
+        376,
+        190,
+        46
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "BLVD",
+      "confidence": 89.989738,
+      "box": [
+        754,
+        379,
+        81,
+        40
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "SHERWOOD",
+      "confidence": 92.139648,
+      "box": [
+        405,
+        447,
+        177,
+        46
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "pagk",
+      "confidence": 19.974228,
+      "box": [
+        606,
+        465,
+        81,
+        39
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "ag",
+      "confidence": 46.875824,
+      "box": [
+        711,
+        439,
+        41,
+        69
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "T8A",
+      "confidence": 64.630417,
+      "box": [
+        802,
+        468,
+        5,
+        2
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "2H6",
+      "confidence": 67.474548,
+      "box": [
+        860,
+        456,
+        63,
+        37
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "AB",
+      "confidence": 72.298157,
+      "box": [
+        711,
+        474,
+        39,
+        32
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "TBA",
+      "confidence": 92.158768,
+      "box": [
+        776,
+        466,
+        59,
+        35
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "TEL",
+      "confidence": 96.359665,
+      "box": [
+        476,
+        496,
+        62,
+        37
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "(788)",
+      "confidence": 70.021858,
+      "box": [
+        565,
+        505,
+        100,
+        38
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "qg7-2055",
+      "confidence": 60.357681,
+      "box": [
+        690,
+        506,
+        166,
+        42
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "TERM",
+      "confidence": 96.606636,
+      "box": [
+        188,
+        607,
+        95,
+        40
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "ID:",
+      "confidence": 92.938148,
+      "box": [
+        313,
+        615,
+        58,
+        36
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "K0474643",
+      "confidence": 26.775536,
+      "box": [
+        405,
+        623,
+        177,
+        42
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "BATCHI:",
+      "confidence": 41.575401,
+      "box": [
+        882,
+        627,
+        148,
+        39
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "825",
+      "confidence": 37.248535,
+      "box": [
+        1065,
+        619,
+        68,
+        37
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "SHIFTH:",
+      "confidence": 84.506996,
+      "box": [
+        882,
+        672,
+        148,
+        39
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "001",
+      "confidence": 60.10117,
+      "box": [
+        1065,
+        664,
+        68,
+        38
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "INV",
+      "confidence": 41.936943,
+      "box": [
+        190,
+        844,
+        183,
+        38
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Sale",
+      "confidence": 96.877441,
+      "box": [
+        562,
+        767,
+        161,
+        73
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": ":",
+      "confidence": 42.538925,
+      "box": [
+        391,
+        859,
+        14,
+        22
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "OOBBEEVZS",
+      "confidence": 0.0,
+      "box": [
+        473,
+        851,
+        384,
+        40
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "MCARD",
+      "confidence": 93.040154,
+      "box": [
+        183,
+        888,
+        122,
+        38
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "Chip",
+      "confidence": 96.248573,
+      "box": [
+        1043,
+        896,
+        93,
+        33
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "SEQH:",
+      "confidence": 46.794437,
+      "box": [
+        754,
+        943,
+        98,
+        32
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "6250010881825",
+      "confidence": 10.198318,
+      "box": [
+        863,
+        941,
+        273,
+        35
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "fipplication",
+      "confidence": 8.048172,
+      "box": [
+        182,
+        982,
+        263,
+        36
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Label:",
+      "confidence": 95.8937,
+      "box": [
+        471,
+        983,
+        123,
+        35
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "MasterCard",
+      "confidence": 95.077507,
+      "box": [
+        625,
+        984,
+        213,
+        34
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "AlD:",
+      "confidence": 44.55806,
+      "box": [
+        181,
+        1029,
+        89,
+        37
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "ABBBBBBYBO41010",
+      "confidence": 18.521088,
+      "box": [
+        281,
+        1027,
+        321,
+        39
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "TVR:",
+      "confidence": 45.666893,
+      "box": [
+        181,
+        1074,
+        88,
+        38
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "06",
+      "confidence": 45.666893,
+      "box": [
+        283,
+        1073,
+        43,
+        37
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "60",
+      "confidence": 68.777428,
+      "box": [
+        353,
+        1072,
+        45,
+        37
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "60",
+      "confidence": 67.769852,
+      "box": [
+        424,
+        1072,
+        44,
+        36
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "86",
+      "confidence": 61.224335,
+      "box": [
+        493,
+        1071,
+        43,
+        36
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "66",
+      "confidence": 78.616287,
+      "box": [
+        560,
+        1070,
+        41,
+        36
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "TSI:E8",
+      "confidence": 32.65416,
+      "box": [
+        180,
+        1121,
+        145,
+        41
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "0608",
+      "confidence": 67.648804,
+      "box": [
+        352,
+        1120,
+        45,
+        37
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "wxkrxxrnkekx9581",
+      "confidence": 0.0,
+      "box": [
+        178,
+        1161,
+        378,
+        43
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Total:",
+      "confidence": 79.43483,
+      "box": [
+        177,
+        1263,
+        269,
+        84
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "CAD$",
+      "confidence": 59.349716,
+      "box": [
+        487,
+        1253,
+        154,
+        80
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "T.11",
+      "confidence": 77.102295,
+      "box": [
+        955,
+        1257,
+        185,
+        82
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "VED",
+      "confidence": 70.480209,
+      "box": [
+        558,
+        1386,
+        126,
+        41
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "11G3:",
+      "confidence": 34.843132,
+      "box": [
+        730,
+        1384,
+        189,
+        45
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "APPROVED",
+      "confidence": 53.056442,
+      "box": [
+        322,
+        1394,
+        355,
+        81
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "38",
+      "confidence": 80.489914,
+      "box": [
+        911,
+        1394,
+        87,
+        38
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "13-Feb",
+      "confidence": 84.487099,
+      "box": [
+        175,
+        1502,
+        143,
+        74
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "-14",
+      "confidence": 88.838882,
+      "box": [
+        348,
+        1496,
+        65,
+        71
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "03:03:37",
+      "confidence": 93.636032,
+      "box": [
+        959,
+        1491,
+        186,
+        77
+      ],
+      "block": 10,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "TOMER",
+      "confidence": 85.83667,
+      "box": [
+        509,
+        1607,
+        218,
+        44
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Cop",
+      "confidence": 36.340466,
+      "box": [
+        778,
+        1610,
+        130,
+        42
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "CUS",
+      "confidence": 0.0,
+      "box": [
+        368,
+        1624,
+        124,
+        43
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "TONE",
+      "confidence": 0.0,
+      "box": [
+        523,
+        1617,
+        230,
+        82
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "¥",
+      "confidence": 43.107529,
+      "box": [
+        914,
+        1619,
+        40,
+        37
+      ],
+      "block": 11,
+      "paragraph": 1,
+      "line": 2
+    }
+  ]
+}

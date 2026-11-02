@@ -1,0 +1,21 @@
+{
+  "version": "printed-only-v1",
+  "date": "2026-10-20",
+  "scope": "Four-class printed-text documents only",
+  "allow": [
+    "Typeset and thermal text",
+    "Photographs of printed/synthetic typeset documents",
+    "Incidental signatures omitted from transcription"
+  ],
+  "exclude": [
+    "Handwritten slips",
+    "Handwritten transaction fields on printed templates",
+    "Handwriting-style synthetic body text, even after printing"
+  ],
+  "hold": [
+    "Printed pages with handwritten notes or values until reviewed printed-only derivative exists"
+  ],
+  "review_method": "AI visual scope screening; not human-verified transcription or label audit",
+  "existing_split_rule": "Subset existing assignments; no regrouping or resplit",
+  "historical_results": "Unchanged; legacy models were trained on broader scope"
+}

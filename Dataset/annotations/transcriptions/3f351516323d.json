@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "3f351516323d",
+  "source_image": {
+    "path": "Dataset/Customer_Copy/1164-receipt.jpg",
+    "sha256": "250f7e07dfa5ddbd875f93522112087cef2ff62df98b7d0533f5b322246f9c85"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/3f351516323d.jpg",
+    "sha256": "06ab841151127e8327a4aa6b7389ad9111bea69e0ba45a9570545f89a52b84a7"
+  },
+  "classification": {
+    "label": "customer_copy",
+    "split": "train"
+  },
+  "transcription": {
+    "full_text": "the Golden Pear\nCafe\nEast Hampton, NY\n(631) 329-1600\nFax (631) 329-1648\nwww.goldenpearcafe.com\nDate: Aug06'15 11:01AM\nCard Type: Visa\nAcct #: XXXXXXXXXXXX1779\nExp Date: XX/XX\nAuth Code: 08316C\nCheck: 9391\nCheck ID: CHINO\nServer: 5 Karina\nSubtotal: 22.70\nTip\nTotal\nSignature\nI agree to pay above total\naccording to my card issuer\nagreement.\nCustomer Copy",
+    "lines": [
+      "the Golden Pear",
+      "Cafe",
+      "East Hampton, NY",
+      "(631) 329-1600",
+      "Fax (631) 329-1648",
+      "www.goldenpearcafe.com",
+      "Date: Aug06'15 11:01AM",
+      "Card Type: Visa",
+      "Acct #: XXXXXXXXXXXX1779",
+      "Exp Date: XX/XX",
+      "Auth Code: 08316C",
+      "Check: 9391",
+      "Check ID: CHINO",
+      "Server: 5 Karina",
+      "Subtotal: 22.70",
+      "Tip",
+      "Total",
+      "Signature",
+      "I agree to pay above total",
+      "according to my card issuer",
+      "agreement.",
+      "Customer Copy"
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [],
+    "notes": "Tip, total and signature fields are blank in the source; no amounts were filled in."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/3f351516323d.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

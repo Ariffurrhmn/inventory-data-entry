@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "e396ade11def",
+  "source_image": {
+    "path": "Dataset/Dataset-2/Customer copy/IMG_1007.HEIC",
+    "sha256": "0eedfe0765649932a20f7f371c68412cc853b0f3f2e2f7549e7d3c3b95e0c79e"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/e396ade11def.jpg",
+    "sha256": "b9f12f27d77447b831b0976cf9e4fd4265fb6f17e158cd85528c4bdde5053c00"
+  },
+  "classification": {
+    "label": "customer_copy",
+    "split": "train"
+  },
+  "transcription": {
+    "full_text": "Jamuna Wholesale\nInvoice\nOFFICE COPY\nInvoice No: INV-9957.\nDate: 10/09/2026.\nBill To / Customer: Tazin Super Shop, Dhanmondi 27, Dhaka.\nItem Qty Rate (Tk) Amount (Tk)\nToothpaste 100g 10 Tk 120 Tk 1,200\nExercise Book 1 Tk 45 Tk 45\nTotal: Tk 1,245.\n[signature]\nAuthorised Signature",
+    "lines": [
+      "Jamuna Wholesale",
+      "Invoice",
+      "OFFICE COPY",
+      "Invoice No: INV-9957.",
+      "Date: 10/09/2026.",
+      "Bill To / Customer: Tazin Super Shop, Dhanmondi 27, Dhaka.",
+      "Item Qty Rate (Tk) Amount (Tk)",
+      "Toothpaste 100g 10 Tk 120 Tk 1,200",
+      "Exercise Book 1 Tk 45 Tk 45",
+      "Total: Tk 1,245.",
+      "[signature]",
+      "Authorised Signature"
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [],
+    "notes": "Individually visually reviewed photograph; table rows linearized, signatures marked."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/e396ade11def.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

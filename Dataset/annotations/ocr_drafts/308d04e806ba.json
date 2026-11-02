@@ -1,0 +1,993 @@
+{
+  "sample_id": "308d04e806ba",
+  "source_path": "Dataset/Dataset-2/Purchase order/IMG_0974.HEIC",
+  "source_sha256": "aee05a48f4dfce67172eff48309c7fb1fbe2b6645b1f2729ee2e121d8b7b82b1",
+  "prepared_image_path": "data/images/308d04e806ba.jpg",
+  "prepared_image_sha256": "4a163bebe75ccd4ddca6dd4642f231c1f7ddef5a16b5240ab934ea7828ee55ad",
+  "label": "purchase_order",
+  "split": "train",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "Order\n\nOrder No : ORD-1229\nOrder Date : 05/10/2026\nRequired By : 10/10/2026\n\nFrom ¢ Al-Madina Traders\nBadda, Dhaka\nTo ¢ Bengal Consumer Goods\n\nPlease supply the following goods:\n\nItem 0}3Y Rate (Tk) Amount (Tk)\n| Instant Noodles 8-pack 2 160 320\n| Onion 1kg 5 65 325 |\n| Saltlkg 12 42 504\n[Sry Ls | = | am |\n| Total: | Tka209\nL FUSS 1 ¢ al\n\nAuthorized by\n(fot\n\nAl-Madina Traders\n\n",
+  "ocr_image_size": [
+    1400,
+    1866
+  ],
+  "words": [
+    {
+      "text": "Order",
+      "confidence": 95.943733,
+      "box": [
+        176,
+        74,
+        98,
+        34
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Order",
+      "confidence": 93.750938,
+      "box": [
+        173,
+        136,
+        97,
+        33
+      ],
+      "block": 1,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "No",
+      "confidence": 96.735672,
+      "box": [
+        279,
+        145,
+        44,
+        28
+      ],
+      "block": 1,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": ":",
+      "confidence": 11.725937,
+      "box": [
+        399,
+        159,
+        7,
+        18
+      ],
+      "block": 1,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "ORD-1229",
+      "confidence": 91.905968,
+      "box": [
+        437,
+        155,
+        165,
+        32
+      ],
+      "block": 1,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "Order",
+      "confidence": 96.176163,
+      "box": [
+        172,
+        187,
+        96,
+        31
+      ],
+      "block": 1,
+      "paragraph": 2,
+      "line": 2
+    },
+    {
+      "text": "Date",
+      "confidence": 96.176163,
+      "box": [
+        277,
+        194,
+        76,
+        31
+      ],
+      "block": 1,
+      "paragraph": 2,
+      "line": 2
+    },
+    {
+      "text": ":",
+      "confidence": 0.0,
+      "box": [
+        398,
+        208,
+        7,
+        20
+      ],
+      "block": 1,
+      "paragraph": 2,
+      "line": 2
+    },
+    {
+      "text": "05/10/2026",
+      "confidence": 95.820602,
+      "box": [
+        436,
+        204,
+        184,
+        35
+      ],
+      "block": 1,
+      "paragraph": 2,
+      "line": 2
+    },
+    {
+      "text": "Required",
+      "confidence": 95.169426,
+      "box": [
+        172,
+        235,
+        144,
+        39
+      ],
+      "block": 1,
+      "paragraph": 2,
+      "line": 3
+    },
+    {
+      "text": "By",
+      "confidence": 93.048294,
+      "box": [
+        328,
+        247,
+        40,
+        35
+      ],
+      "block": 1,
+      "paragraph": 2,
+      "line": 3
+    },
+    {
+      "text": ":",
+      "confidence": 91.691376,
+      "box": [
+        397,
+        258,
+        6,
+        18
+      ],
+      "block": 1,
+      "paragraph": 2,
+      "line": 3
+    },
+    {
+      "text": "10/10/2026",
+      "confidence": 93.129532,
+      "box": [
+        437,
+        254,
+        181,
+        34
+      ],
+      "block": 1,
+      "paragraph": 2,
+      "line": 3
+    },
+    {
+      "text": "From",
+      "confidence": 95.898216,
+      "box": [
+        169,
+        341,
+        82,
+        45
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "¢",
+      "confidence": 32.441254,
+      "box": [
+        393,
+        366,
+        7,
+        20
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Al-Madina",
+      "confidence": 61.452312,
+      "box": [
+        432,
+        360,
+        166,
+        33
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Traders",
+      "confidence": 96.703323,
+      "box": [
+        608,
+        366,
+        119,
+        30
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Badda,",
+      "confidence": 92.496605,
+      "box": [
+        434,
+        412,
+        110,
+        36
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Dhaka",
+      "confidence": 96.386726,
+      "box": [
+        558,
+        415,
+        99,
+        30
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "To",
+      "confidence": 96.806046,
+      "box": [
+        163,
+        455,
+        40,
+        31
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "¢",
+      "confidence": 38.085121,
+      "box": [
+        391,
+        471,
+        8,
+        23
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Bengal",
+      "confidence": 86.05452,
+      "box": [
+        424,
+        466,
+        117,
+        50
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Consumer",
+      "confidence": 95.877319,
+      "box": [
+        557,
+        466,
+        151,
+        50
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Goods",
+      "confidence": 96.519485,
+      "box": [
+        724,
+        466,
+        97,
+        50
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Please",
+      "confidence": 96.491325,
+      "box": [
+        163,
+        588,
+        109,
+        34
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "supply",
+      "confidence": 96.329597,
+      "box": [
+        282,
+        597,
+        109,
+        38
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "the",
+      "confidence": 96.886742,
+      "box": [
+        399,
+        598,
+        53,
+        31
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "following",
+      "confidence": 96.963005,
+      "box": [
+        461,
+        599,
+        147,
+        42
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "goods:",
+      "confidence": 96.835411,
+      "box": [
+        616,
+        605,
+        104,
+        36
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Item",
+      "confidence": 77.953438,
+      "box": [
+        188,
+        689,
+        68,
+        25
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "0}3Y",
+      "confidence": 24.308327,
+      "box": [
+        726,
+        698,
+        51,
+        39
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Rate",
+      "confidence": 96.180984,
+      "box": [
+        897,
+        703,
+        64,
+        24
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "(Tk)",
+      "confidence": 96.699127,
+      "box": [
+        977,
+        701,
+        56,
+        31
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Amount",
+      "confidence": 96.066757,
+      "box": [
+        1121,
+        702,
+        122,
+        23
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "(Tk)",
+      "confidence": 96.008965,
+      "box": [
+        1256,
+        697,
+        57,
+        32
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "|",
+      "confidence": 89.185638,
+      "box": [
+        153,
+        864,
+        3,
+        46
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Instant",
+      "confidence": 76.501808,
+      "box": [
+        177,
+        857,
+        120,
+        57
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Noodles",
+      "confidence": 20.210716,
+      "box": [
+        315,
+        857,
+        124,
+        57
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "8-pack",
+      "confidence": 81.74144,
+      "box": [
+        457,
+        857,
+        115,
+        57
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "2",
+      "confidence": 96.813492,
+      "box": [
+        739,
+        871,
+        20,
+        29
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "160",
+      "confidence": 96.777756,
+      "box": [
+        935,
+        866,
+        60,
+        48
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "320",
+      "confidence": 96.901253,
+      "box": [
+        1220,
+        872,
+        59,
+        29
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "|",
+      "confidence": 91.724525,
+      "box": [
+        151,
+        927,
+        3,
+        71
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Onion",
+      "confidence": 91.292519,
+      "box": [
+        178,
+        954,
+        99,
+        31
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "1kg",
+      "confidence": 88.388313,
+      "box": [
+        288,
+        955,
+        59,
+        39
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "5",
+      "confidence": 96.955467,
+      "box": [
+        739,
+        961,
+        20,
+        28
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "65",
+      "confidence": 96.833031,
+      "box": [
+        947,
+        962,
+        38,
+        28
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "325",
+      "confidence": 93.097054,
+      "box": [
+        1222,
+        962,
+        58,
+        29
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "|",
+      "confidence": 93.097054,
+      "box": [
+        1341,
+        959,
+        3,
+        46
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "|",
+      "confidence": 51.510921,
+      "box": [
+        148,
+        1065,
+        2,
+        7
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "Saltlkg",
+      "confidence": 67.453041,
+      "box": [
+        174,
+        1045,
+        136,
+        41
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "12",
+      "confidence": 96.965134,
+      "box": [
+        732,
+        1051,
+        37,
+        28
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "42",
+      "confidence": 93.372696,
+      "box": [
+        948,
+        1053,
+        39,
+        27
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "504",
+      "confidence": 96.719727,
+      "box": [
+        1225,
+        1054,
+        59,
+        29
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "[Sry",
+      "confidence": 15.77404,
+      "box": [
+        143,
+        1118,
+        325,
+        133
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "Ls",
+      "confidence": 57.466774,
+      "box": [
+        653,
+        1129,
+        106,
+        65
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "|",
+      "confidence": 73.106071,
+      "box": [
+        845,
+        1139,
+        3,
+        55
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "=",
+      "confidence": 18.410454,
+      "box": [
+        901,
+        1143,
+        99,
+        63
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "|",
+      "confidence": 71.293655,
+      "box": [
+        1092,
+        1147,
+        4,
+        50
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "am",
+      "confidence": 36.418491,
+      "box": [
+        1194,
+        1145,
+        93,
+        36
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "|",
+      "confidence": 70.65036,
+      "box": [
+        1347,
+        1142,
+        3,
+        61
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "|",
+      "confidence": 89.855293,
+      "box": [
+        142,
+        1252,
+        3,
+        15
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "Total:",
+      "confidence": 95.294724,
+      "box": [
+        168,
+        1235,
+        101,
+        33
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "|",
+      "confidence": 8.720703,
+      "box": [
+        1093,
+        1225,
+        4,
+        60
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "Tka209",
+      "confidence": 40.74474,
+      "box": [
+        1163,
+        1237,
+        151,
+        39
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "L",
+      "confidence": 85.086243,
+      "box": [
+        141,
+        1268,
+        9,
+        33
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 7
+    },
+    {
+      "text": "FUSS",
+      "confidence": 28.082245,
+      "box": [
+        398,
+        1278,
+        52,
+        29
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 7
+    },
+    {
+      "text": "1",
+      "confidence": 10.943916,
+      "box": [
+        844,
+        1285,
+        13,
+        12
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 7
+    },
+    {
+      "text": "¢",
+      "confidence": 0.0,
+      "box": [
+        1094,
+        1287,
+        4,
+        4
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 7
+    },
+    {
+      "text": "al",
+      "confidence": 81.058182,
+      "box": [
+        1336,
+        1273,
+        18,
+        33
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 7
+    },
+    {
+      "text": "Authorized",
+      "confidence": 96.896988,
+      "box": [
+        136,
+        1437,
+        237,
+        45
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "by",
+      "confidence": 96.989731,
+      "box": [
+        333,
+        1430,
+        40,
+        59
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "(fot",
+      "confidence": 46.871902,
+      "box": [
+        156,
+        1514,
+        229,
+        104
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Al-Madina",
+      "confidence": 92.133202,
+      "box": [
+        129,
+        1658,
+        174,
+        34
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Traders",
+      "confidence": 96.745018,
+      "box": [
+        311,
+        1656,
+        125,
+        33
+      ],
+      "block": 9,
+      "paragraph": 1,
+      "line": 1
+    }
+  ]
+}

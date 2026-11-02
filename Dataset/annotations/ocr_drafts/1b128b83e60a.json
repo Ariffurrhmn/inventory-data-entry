@@ -1,0 +1,785 @@
+{
+  "sample_id": "1b128b83e60a",
+  "source_path": "Dataset/Purchase_Order/purchase order-PO - 16.jpg",
+  "source_sha256": "34f24cd5e679373ecc4d756f7928667451b19568e13343acafa2868dd2c9271c",
+  "prepared_image_path": "data/images/1b128b83e60a.jpg",
+  "prepared_image_sha256": "c18ab20bb05b411e9fc71988aa7802741083faee57be3a7d9101935d5f3f719e",
+  "label": "purchase_order",
+  "split": "train",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "HGT Company PURCHASE ORDER\n\nShop-12,\nPanjora, Gazipur, Number: PO-16\n. - . Date: 2026-09-07\nanglases\nDue Date: 2026-10-20\nBILLTO\nXK Company\nShop-43,\nMirpue-10\nDhaka,\nBanglasesh\nDESCRIPTION TY RATE AMO\nWater Bottle 4 Rs.350.00 Rs.1652.00\nCeramic Mug 10 Rs.280.00 Rs.3304.00\nLED Desk Lamp 1 Rs.850.00 Rs.1003.00\n\nTaxable Amount: Rs.5050.00\n\nTotal: Rs.5959.00\n\nThank you for your business!\nPowered by HGT Company\n",
+  "ocr_image_size": [
+    1400,
+    1979
+  ],
+  "words": [
+    {
+      "text": "HGT",
+      "confidence": 92.417915,
+      "box": [
+        120,
+        123,
+        77,
+        30
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Company",
+      "confidence": 96.65007,
+      "box": [
+        209,
+        123,
+        168,
+        37
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "PURCHASE",
+      "confidence": 96.881165,
+      "box": [
+        839,
+        125,
+        258,
+        36
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "ORDER",
+      "confidence": 96.720406,
+      "box": [
+        1114,
+        125,
+        166,
+        36
+      ],
+      "block": 1,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Shop-12,",
+      "confidence": 92.18644,
+      "box": [
+        119,
+        181,
+        82,
+        20
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Panjora,",
+      "confidence": 87.913643,
+      "box": [
+        120,
+        215,
+        74,
+        20
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Gazipur,",
+      "confidence": 96.912727,
+      "box": [
+        202,
+        215,
+        76,
+        20
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Number:",
+      "confidence": 96.357231,
+      "box": [
+        978,
+        214,
+        79,
+        30
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "PO-16",
+      "confidence": 79.2202,
+      "box": [
+        1210,
+        219,
+        71,
+        17
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": ".",
+      "confidence": 0.0,
+      "box": [
+        119,
+        249,
+        13,
+        50
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "-",
+      "confidence": 0.462273,
+      "box": [
+        134,
+        249,
+        49,
+        49
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": ".",
+      "confidence": 0.0,
+      "box": [
+        218,
+        283,
+        9,
+        15
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "Date:",
+      "confidence": 93.99604,
+      "box": [
+        1010,
+        249,
+        47,
+        40
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "2026-09-07",
+      "confidence": 96.443184,
+      "box": [
+        1174,
+        262,
+        107,
+        16
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "anglases",
+      "confidence": 92.341805,
+      "box": [
+        133,
+        287,
+        82,
+        16
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "Due",
+      "confidence": 96.244118,
+      "box": [
+        965,
+        304,
+        36,
+        16
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "Date:",
+      "confidence": 95.933884,
+      "box": [
+        1010,
+        304,
+        47,
+        16
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "2026-10-20",
+      "confidence": 96.773369,
+      "box": [
+        1174,
+        304,
+        107,
+        16
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "BILLTO",
+      "confidence": 91.017654,
+      "box": [
+        120,
+        544,
+        92,
+        18
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "XK",
+      "confidence": 95.9049,
+      "box": [
+        119,
+        599,
+        41,
+        23
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 7
+    },
+    {
+      "text": "Company",
+      "confidence": 95.9049,
+      "box": [
+        170,
+        599,
+        137,
+        30
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 7
+    },
+    {
+      "text": "Shop-43,",
+      "confidence": 91.169876,
+      "box": [
+        119,
+        651,
+        82,
+        20
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 8
+    },
+    {
+      "text": "Mirpue-10",
+      "confidence": 92.52153,
+      "box": [
+        119,
+        685,
+        93,
+        20
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 9
+    },
+    {
+      "text": "Dhaka,",
+      "confidence": 96.494919,
+      "box": [
+        119,
+        718,
+        64,
+        16
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 10
+    },
+    {
+      "text": "Banglasesh",
+      "confidence": 90.706367,
+      "box": [
+        119,
+        752,
+        108,
+        20
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 11
+    },
+    {
+      "text": "DESCRIPTION",
+      "confidence": 96.515961,
+      "box": [
+        154,
+        927,
+        154,
+        28
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 12
+    },
+    {
+      "text": "TY",
+      "confidence": 95.659515,
+      "box": [
+        816,
+        931,
+        27,
+        15
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 12
+    },
+    {
+      "text": "RATE",
+      "confidence": 96.938568,
+      "box": [
+        969,
+        931,
+        57,
+        15
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 12
+    },
+    {
+      "text": "AMO",
+      "confidence": 76.946861,
+      "box": [
+        1147,
+        931,
+        51,
+        15
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 12
+    },
+    {
+      "text": "Water",
+      "confidence": 96.107559,
+      "box": [
+        153,
+        1018,
+        55,
+        16
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 13
+    },
+    {
+      "text": "Bottle",
+      "confidence": 95.996147,
+      "box": [
+        216,
+        1017,
+        52,
+        17
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 13
+    },
+    {
+      "text": "4",
+      "confidence": 96.105965,
+      "box": [
+        834,
+        1018,
+        11,
+        15
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 13
+    },
+    {
+      "text": "Rs.350.00",
+      "confidence": 92.318024,
+      "box": [
+        934,
+        1017,
+        93,
+        17
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 13
+    },
+    {
+      "text": "Rs.1652.00",
+      "confidence": 92.751068,
+      "box": [
+        1139,
+        1017,
+        107,
+        16
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 13
+    },
+    {
+      "text": "Ceramic",
+      "confidence": 96.525291,
+      "box": [
+        154,
+        1112,
+        77,
+        17
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 14
+    },
+    {
+      "text": "Mug",
+      "confidence": 96.525291,
+      "box": [
+        239,
+        1113,
+        38,
+        20
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 14
+    },
+    {
+      "text": "10",
+      "confidence": 96.731194,
+      "box": [
+        824,
+        1113,
+        21,
+        16
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 14
+    },
+    {
+      "text": "Rs.280.00",
+      "confidence": 91.655647,
+      "box": [
+        934,
+        1113,
+        93,
+        16
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 14
+    },
+    {
+      "text": "Rs.3304.00",
+      "confidence": 91.142258,
+      "box": [
+        1139,
+        1113,
+        107,
+        16
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 14
+    },
+    {
+      "text": "LED",
+      "confidence": 96.396713,
+      "box": [
+        154,
+        1209,
+        39,
+        16
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 15
+    },
+    {
+      "text": "Desk",
+      "confidence": 96.037224,
+      "box": [
+        202,
+        1209,
+        46,
+        16
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 15
+    },
+    {
+      "text": "Lamp",
+      "confidence": 96.658836,
+      "box": [
+        255,
+        1209,
+        51,
+        20
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 15
+    },
+    {
+      "text": "1",
+      "confidence": 96.955444,
+      "box": [
+        836,
+        1209,
+        5,
+        16
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 15
+    },
+    {
+      "text": "Rs.850.00",
+      "confidence": 92.410591,
+      "box": [
+        934,
+        1209,
+        93,
+        16
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 15
+    },
+    {
+      "text": "Rs.1003.00",
+      "confidence": 89.198204,
+      "box": [
+        1139,
+        1209,
+        107,
+        16
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 15
+    },
+    {
+      "text": "Taxable",
+      "confidence": 96.580803,
+      "box": [
+        730,
+        1360,
+        79,
+        18
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Amount:",
+      "confidence": 96.601318,
+      "box": [
+        817,
+        1360,
+        86,
+        18
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Rs.5050.00",
+      "confidence": 90.018921,
+      "box": [
+        1127,
+        1360,
+        119,
+        18
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Total:",
+      "confidence": 96.762871,
+      "box": [
+        730,
+        1452,
+        78,
+        42
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Rs.5959.00",
+      "confidence": 90.726471,
+      "box": [
+        1055,
+        1464,
+        191,
+        28
+      ],
+      "block": 7,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Thank",
+      "confidence": 96.76635,
+      "box": [
+        566,
+        1756,
+        57,
+        15
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "you",
+      "confidence": 96.603485,
+      "box": [
+        631,
+        1760,
+        31,
+        15
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "for",
+      "confidence": 96.253052,
+      "box": [
+        671,
+        1756,
+        21,
+        15
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "your",
+      "confidence": 96.321472,
+      "box": [
+        700,
+        1760,
+        36,
+        15
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "business!",
+      "confidence": 96.685333,
+      "box": [
+        747,
+        1756,
+        86,
+        15
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Powered",
+      "confidence": 96.270363,
+      "box": [
+        574,
+        1789,
+        78,
+        15
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "by",
+      "confidence": 93.228355,
+      "box": [
+        661,
+        1789,
+        19,
+        19
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "HGT",
+      "confidence": 92.175293,
+      "box": [
+        689,
+        1789,
+        42,
+        15
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Company",
+      "confidence": 96.141068,
+      "box": [
+        739,
+        1789,
+        87,
+        19
+      ],
+      "block": 8,
+      "paragraph": 1,
+      "line": 2
+    }
+  ]
+}

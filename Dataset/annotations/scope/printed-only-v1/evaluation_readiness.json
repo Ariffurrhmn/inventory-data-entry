@@ -1,0 +1,34 @@
+{
+  "printed_scope_version": "printed-only-v1",
+  "class_counts": {
+    "train": {
+      "purchase_order": 38,
+      "receipt": 56,
+      "delivery_note": 53,
+      "customer_copy": 15
+    },
+    "val": {
+      "purchase_order": 8,
+      "receipt": 3,
+      "delivery_note": 0,
+      "customer_copy": 2
+    },
+    "test": {
+      "purchase_order": 6,
+      "receipt": 5,
+      "delivery_note": 10,
+      "customer_copy": 6
+    }
+  },
+  "missing_classes": {
+    "train": [],
+    "val": [
+      "delivery_note"
+    ],
+    "test": []
+  },
+  "ready_for_four_class_validation_selection": false,
+  "reason": "No eligible printed delivery notes remain in the inherited validation split.",
+  "next_step": "Acquire independent printed delivery notes for development validation, or create an explicitly versioned group-separated development split from non-test families. Do not move exposed test documents into development.",
+  "legacy_metrics_not_recomputed": true
+}

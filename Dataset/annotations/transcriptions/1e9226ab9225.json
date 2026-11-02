@@ -1,0 +1,63 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "1e9226ab9225",
+  "source_image": {
+    "path": "Dataset/Customer_Copy/image_0042.jpg",
+    "sha256": "df3492482365f8dc2223ca3412814f21b36f86f401cdcfa36431aa5fc20dab97"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/1e9226ab9225.jpg",
+    "sha256": "c31864b33e12af53102bd96bdd97eafd2449278c67ceb252c2455f2574ebdfd3"
+  },
+  "classification": {
+    "label": "customer_copy",
+    "split": "val"
+  },
+  "transcription": {
+    "full_text": "25\n[signature]\nMitcheldean Garage\nNew Road\nMitcheldean\nGlos\nGL17 0BX\nM[masked]4558 T[masked]2628\nCUSTOMER COPY\nThis is not VAT receipt\nVisa\nAID:A0000000031010\nCARD:[masked]4152\nPAN Seq Nr :04\nICC SALE\nTOTAL Â£15.25\nCustomer PIN verified\nPlease retain receipt\nfor your records\nAuth Code: 009969\nT019082\n13/06/15 14:12 R7961\nThank You.",
+    "lines": [
+      "25",
+      "[signature]",
+      "Mitcheldean Garage",
+      "New Road",
+      "Mitcheldean",
+      "Glos",
+      "GL17 0BX",
+      "M[masked]4558 T[masked]2628",
+      "CUSTOMER COPY",
+      "This is not VAT receipt",
+      "Visa",
+      "AID:A0000000031010",
+      "CARD:[masked]4152",
+      "PAN Seq Nr :04",
+      "ICC SALE",
+      "TOTAL Â£15.25",
+      "Customer PIN verified",
+      "Please retain receipt",
+      "for your records",
+      "Auth Code: 009969",
+      "T019082",
+      "13/06/15 14:12 R7961",
+      "Thank You."
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [
+      "Payment masking, small terminal/reference identifiers and character counts need a human audit for exact-character scoring."
+    ],
+    "notes": "Visually checked; blank fields left blank. Printed masking is represented by [masked] where exact symbol count is not reliable."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/1e9226ab9225.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

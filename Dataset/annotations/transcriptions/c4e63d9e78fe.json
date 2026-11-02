@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "c4e63d9e78fe",
+  "source_image": {
+    "path": "Dataset/Receipt/cord-train-0145.jpg",
+    "sha256": "10c800e1da76eaddcaa30a8c3e8082dedc35ab501e414c11dd38ca0ee65b7791"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/c4e63d9e78fe.jpg",
+    "sha256": "86e2daf05d04cc0083acafc796b859a2fdfa69232042bb3e75ff13b991299f12"
+  },
+  "classification": {
+    "label": "receipt",
+    "split": "test"
+  },
+  "transcription": {
+    "full_text": "[redacted]\nALMOND CHOCO CREAM CHEESE\n1 [redacted] 28,000 28,000\nSUB TOTAL 28,000\nGRAND TOTAL 28,000\nCASH IDR 50,000\nCHANGE DUE 22,000\n[redacted]",
+    "lines": [
+      "[redacted]",
+      "ALMOND CHOCO CREAM CHEESE",
+      "1 [redacted] 28,000 28,000",
+      "SUB TOTAL 28,000",
+      "GRAND TOTAL 28,000",
+      "CASH IDR 50,000",
+      "CHANGE DUE 22,000",
+      "[redacted]"
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [
+      "Source has pixelated/blurred regions marked [redacted]; these cannot be recovered from the image."
+    ],
+    "notes": "Full visible receipt content reviewed; original spelling, language, and amounts preserved."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/c4e63d9e78fe.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

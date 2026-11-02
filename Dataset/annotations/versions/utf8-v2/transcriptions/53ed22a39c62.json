@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0",
+  "sample_id": "53ed22a39c62",
+  "source_image": {
+    "path": "Dataset/Dataset-2/Purchase order/IMG_0973.HEIC",
+    "sha256": "668076443f086d17b62ffa4eca534a27da0457a1429e635e84ae0aca022193b3"
+  },
+  "prepared_image": {
+    "path": "services/document_classifier/data/images/53ed22a39c62.jpg",
+    "sha256": "086454427cab417caf0a9e2ac4d9323d7f06a35cb5faf50793e81dd12aab7560"
+  },
+  "classification": {
+    "label": "purchase_order",
+    "split": "test"
+  },
+  "transcription": {
+    "full_text": "Meghna Store\nMirpur-10, Dhaka.\nOrder Slip\nTo: Surma Food Supply\nOrder No: ORD-2611\nOrder Date: 11/10/2026\nRequired By: 16/10/2026\nPlease supply the following goods:\nItem Qty Rate (Tk) Amount (Tk)\nExercise Book 12 45 540\nMustard Oil 1L 12 290 3,480\nToothpaste 100g 20 120 2,400\nTea 400g 12 240 2,880\nInstant Noodles 8-pack 10 160 1,600\nTotal: Tk 10,900\nAuthorized by: [signature]\nfor Meghna Store",
+    "lines": [
+      "Meghna Store",
+      "Mirpur-10, Dhaka.",
+      "Order Slip",
+      "To: Surma Food Supply",
+      "Order No: ORD-2611",
+      "Order Date: 11/10/2026",
+      "Required By: 16/10/2026",
+      "Please supply the following goods:",
+      "Item Qty Rate (Tk) Amount (Tk)",
+      "Exercise Book 12 45 540",
+      "Mustard Oil 1L 12 290 3,480",
+      "Toothpaste 100g 20 120 2,400",
+      "Tea 400g 12 240 2,880",
+      "Instant Noodles 8-pack 10 160 1,600",
+      "Total: Tk 10,900",
+      "Authorized by: [signature]",
+      "for Meghna Store"
+    ],
+    "reading_order": "top-to-bottom, left-to-right; tables may be linearized"
+  },
+  "review": {
+    "status": "assistant_visual_reviewed",
+    "reviewer": "Codex",
+    "human_verified": false,
+    "uncertainties": [],
+    "notes": "Handwritten/printed entries visually transcribed; signatures marked, not interpreted."
+  },
+  "provenance": {
+    "ocr_draft": "Dataset/annotations/ocr_drafts/53ed22a39c62.json",
+    "method": "OCR-assisted visual transcription",
+    "date": "2026-10-19"
+  },
+  "usage": {
+    "ocr_evaluation": "exclude uncertainty markers and unresolved spans; human audit recommended",
+    "classifier_input": "Use transcription text only, never label, filename, split, notes, or reviewer metadata. Fit text features on train only."
+  }
+}

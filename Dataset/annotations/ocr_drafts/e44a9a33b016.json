@@ -1,0 +1,655 @@
+{
+  "sample_id": "e44a9a33b016",
+  "source_path": "Dataset/Dataset-2/Delivery note challan/IMG_0946.HEIC",
+  "source_sha256": "b95804587262692d053a54d1ebdbbc30dda0f9c020a27c561742a68a63ac58b2",
+  "prepared_image_path": "data/images/e44a9a33b016.jpg",
+  "prepared_image_sha256": "d7da144f879faf81c3fb86ac33e0dbb65f3eeb1e9f51cdf3fa7d33fdfb135167",
+  "label": "delivery_note",
+  "split": "train",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "°450.00 450.00 5%\n¥500.00 0500.00 6%\n¥180.00 ¥180.00 2%\n2220.00 440.00 a%\nToxablo value = 1,890.00\ncesT 52.05\nSGST = €52.05\nGrand total 21,994.10\n\nAmount in words: One Thousand Nine Hundred Ninety Four Rupees and Ten Paise Only\n\nfiotas: Goods sent for the purpose stated above. Not a sale.\n\n",
+  "ocr_image_size": [
+    1400,
+    1866
+  ],
+  "words": [
+    {
+      "text": "°450.00",
+      "confidence": 3.42334,
+      "box": [
+        845,
+        541,
+        77,
+        31
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "450.00",
+      "confidence": 61.573532,
+      "box": [
+        1038,
+        539,
+        77,
+        31
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "5%",
+      "confidence": 96.63237,
+      "box": [
+        1251,
+        541,
+        28,
+        16
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "¥500.00",
+      "confidence": 54.473682,
+      "box": [
+        842,
+        590,
+        81,
+        31
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "0500.00",
+      "confidence": 23.380402,
+      "box": [
+        1034,
+        587,
+        80,
+        32
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "6%",
+      "confidence": 94.525162,
+      "box": [
+        1251,
+        589,
+        29,
+        18
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "¥180.00",
+      "confidence": 37.716221,
+      "box": [
+        846,
+        638,
+        71,
+        31
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "¥180.00",
+      "confidence": 30.282516,
+      "box": [
+        1035,
+        634,
+        75,
+        32
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "2%",
+      "confidence": 93.586037,
+      "box": [
+        1252,
+        637,
+        29,
+        17
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "2220.00",
+      "confidence": 72.154747,
+      "box": [
+        846,
+        685,
+        76,
+        32
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "440.00",
+      "confidence": 60.681564,
+      "box": [
+        1039,
+        684,
+        76,
+        30
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "a%",
+      "confidence": 70.91555,
+      "box": [
+        1252,
+        686,
+        29,
+        16
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 4
+    },
+    {
+      "text": "Toxablo",
+      "confidence": 32.920418,
+      "box": [
+        915,
+        753,
+        68,
+        15
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "value",
+      "confidence": 80.08136,
+      "box": [
+        989,
+        753,
+        48,
+        15
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "=",
+      "confidence": 77.073669,
+      "box": [
+        1097,
+        755,
+        7,
+        3
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "1,890.00",
+      "confidence": 30.668274,
+      "box": [
+        1212,
+        748,
+        88,
+        19
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 5
+    },
+    {
+      "text": "cesT",
+      "confidence": 56.966553,
+      "box": [
+        916,
+        781,
+        51,
+        31
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "52.05",
+      "confidence": 45.307007,
+      "box": [
+        1241,
+        781,
+        63,
+        18
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 6
+    },
+    {
+      "text": "SGST",
+      "confidence": 87.56752,
+      "box": [
+        913,
+        810,
+        52,
+        34
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 7
+    },
+    {
+      "text": "=",
+      "confidence": 84.074341,
+      "box": [
+        1037,
+        831,
+        3,
+        1
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 7
+    },
+    {
+      "text": "€52.05",
+      "confidence": 90.163757,
+      "box": [
+        1242,
+        814,
+        62,
+        17
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 7
+    },
+    {
+      "text": "Grand",
+      "confidence": 96.699394,
+      "box": [
+        912,
+        853,
+        54,
+        36
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 8
+    },
+    {
+      "text": "total",
+      "confidence": 96.444809,
+      "box": [
+        975,
+        853,
+        45,
+        36
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 8
+    },
+    {
+      "text": "21,994.10",
+      "confidence": 76.084351,
+      "box": [
+        1175,
+        858,
+        122,
+        27
+      ],
+      "block": 4,
+      "paragraph": 1,
+      "line": 8
+    },
+    {
+      "text": "Amount",
+      "confidence": 58.668167,
+      "box": [
+        95,
+        939,
+        75,
+        33
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "in",
+      "confidence": 67.255997,
+      "box": [
+        177,
+        939,
+        16,
+        33
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "words:",
+      "confidence": 87.944153,
+      "box": [
+        202,
+        939,
+        58,
+        33
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "One",
+      "confidence": 96.075974,
+      "box": [
+        271,
+        939,
+        31,
+        33
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Thousand",
+      "confidence": 95.822899,
+      "box": [
+        304,
+        928,
+        89,
+        41
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Nine",
+      "confidence": 95.312218,
+      "box": [
+        403,
+        928,
+        38,
+        41
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Hundred",
+      "confidence": 96.918701,
+      "box": [
+        450,
+        928,
+        70,
+        41
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Ninety",
+      "confidence": 95.509811,
+      "box": [
+        529,
+        928,
+        56,
+        41
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Four",
+      "confidence": 94.573547,
+      "box": [
+        591,
+        928,
+        38,
+        41
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Rupees",
+      "confidence": 89.503143,
+      "box": [
+        638,
+        928,
+        59,
+        41
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "and",
+      "confidence": 96.014511,
+      "box": [
+        707,
+        928,
+        28,
+        41
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Ten",
+      "confidence": 93.087585,
+      "box": [
+        744,
+        928,
+        29,
+        41
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Paise",
+      "confidence": 87.535492,
+      "box": [
+        782,
+        928,
+        42,
+        41
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Only",
+      "confidence": 95.135033,
+      "box": [
+        833,
+        928,
+        42,
+        41
+      ],
+      "block": 5,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "fiotas:",
+      "confidence": 0.0,
+      "box": [
+        99,
+        1016,
+        59,
+        16
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Goods",
+      "confidence": 95.148445,
+      "box": [
+        169,
+        1007,
+        50,
+        33
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "sent",
+      "confidence": 96.794731,
+      "box": [
+        227,
+        1007,
+        36,
+        33
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "for",
+      "confidence": 95.627106,
+      "box": [
+        271,
+        1015,
+        24,
+        15
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "the",
+      "confidence": 95.81385,
+      "box": [
+        300,
+        1015,
+        29,
+        15
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "purpose",
+      "confidence": 89.431717,
+      "box": [
+        334,
+        1017,
+        74,
+        18
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "stated",
+      "confidence": 96.290886,
+      "box": [
+        414,
+        1013,
+        53,
+        16
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "above.",
+      "confidence": 95.661926,
+      "box": [
+        473,
+        1013,
+        58,
+        15
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Not",
+      "confidence": 96.869011,
+      "box": [
+        536,
+        1012,
+        31,
+        15
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "a",
+      "confidence": 96.706711,
+      "box": [
+        572,
+        1015,
+        10,
+        13
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "sale.",
+      "confidence": 93.122177,
+      "box": [
+        589,
+        1011,
+        39,
+        16
+      ],
+      "block": 6,
+      "paragraph": 1,
+      "line": 1
+    }
+  ]
+}

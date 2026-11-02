@@ -1,0 +1,590 @@
+{
+  "sample_id": "71fa862a7998",
+  "source_path": "Dataset/Customer_Copy/image_1850.jpg",
+  "source_sha256": "1a3fb690a0b2f88ae4339ac7542b17113cf6977b499a00709ec154f75280e213",
+  "prepared_image_path": "data/images/71fa862a7998.jpg",
+  "prepared_image_sha256": "5760b0728e42876efe2cb1f75e9fa9c50bc28e22fcff90890360526731b7bfda",
+  "label": "customer_copy",
+  "split": "val",
+  "status": "unreviewed_ocr_draft",
+  "engine": "Tesseract 5.5.3, tessdata_best eng, PSM 3",
+  "full_text": "1 baz Sirloin/Rib 24.93\nFries :\nSalad\n\n1 Boz SIr/NES Chx 24.98\nMao and Cheese\nLoaded Mashed\n\n1 Straw Lemonade 3.99\n\nSub-Total: 63.15\n) Tax: 5.54\nfora) pue : 74.69\n\nJicate # 1\non Draft $1 pints & 85 Pitchers!\n© MONDAY and TUESDAY'S\n\n",
+  "ocr_image_size": [
+    1044,
+    1044
+  ],
+  "words": [
+    {
+      "text": "1",
+      "confidence": 61.039253,
+      "box": [
+        225,
+        398,
+        28,
+        29
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "baz",
+      "confidence": 64.170769,
+      "box": [
+        267,
+        397,
+        48,
+        30
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Sirloin/Rib",
+      "confidence": 71.603134,
+      "box": [
+        332,
+        394,
+        162,
+        30
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "24.93",
+      "confidence": 45.522415,
+      "box": [
+        551,
+        399,
+        71,
+        25
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "Fries",
+      "confidence": 93.78334,
+      "box": [
+        318,
+        428,
+        73,
+        39
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": ":",
+      "confidence": 3.960564,
+      "box": [
+        570,
+        425,
+        2,
+        2
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Salad",
+      "confidence": 91.428421,
+      "box": [
+        317,
+        465,
+        75,
+        29
+      ],
+      "block": 2,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "1",
+      "confidence": 85.025299,
+      "box": [
+        243,
+        504,
+        9,
+        25
+      ],
+      "block": 2,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "Boz",
+      "confidence": 87.873177,
+      "box": [
+        272,
+        504,
+        43,
+        27
+      ],
+      "block": 2,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "SIr/NES",
+      "confidence": 44.260754,
+      "box": [
+        333,
+        500,
+        104,
+        29
+      ],
+      "block": 2,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "Chx",
+      "confidence": 63.192402,
+      "box": [
+        452,
+        497,
+        44,
+        27
+      ],
+      "block": 2,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "24.98",
+      "confidence": 0.0,
+      "box": [
+        556,
+        496,
+        72,
+        27
+      ],
+      "block": 2,
+      "paragraph": 2,
+      "line": 1
+    },
+    {
+      "text": "Mao",
+      "confidence": 44.759975,
+      "box": [
+        313,
+        530,
+        47,
+        43
+      ],
+      "block": 2,
+      "paragraph": 2,
+      "line": 2
+    },
+    {
+      "text": "and",
+      "confidence": 92.980804,
+      "box": [
+        378,
+        530,
+        45,
+        43
+      ],
+      "block": 2,
+      "paragraph": 2,
+      "line": 2
+    },
+    {
+      "text": "Cheese",
+      "confidence": 89.29911,
+      "box": [
+        438,
+        535,
+        90,
+        30
+      ],
+      "block": 2,
+      "paragraph": 2,
+      "line": 2
+    },
+    {
+      "text": "Loaded",
+      "confidence": 90.534447,
+      "box": [
+        318,
+        564,
+        91,
+        46
+      ],
+      "block": 2,
+      "paragraph": 2,
+      "line": 3
+    },
+    {
+      "text": "Mashed",
+      "confidence": 85.137451,
+      "box": [
+        425,
+        564,
+        89,
+        46
+      ],
+      "block": 2,
+      "paragraph": 2,
+      "line": 3
+    },
+    {
+      "text": "1",
+      "confidence": 65.12709,
+      "box": [
+        243,
+        616,
+        8,
+        25
+      ],
+      "block": 2,
+      "paragraph": 3,
+      "line": 1
+    },
+    {
+      "text": "Straw",
+      "confidence": 48.989254,
+      "box": [
+        271,
+        614,
+        76,
+        28
+      ],
+      "block": 2,
+      "paragraph": 3,
+      "line": 1
+    },
+    {
+      "text": "Lemonade",
+      "confidence": 71.67778,
+      "box": [
+        365,
+        608,
+        119,
+        30
+      ],
+      "block": 2,
+      "paragraph": 3,
+      "line": 1
+    },
+    {
+      "text": "3.99",
+      "confidence": 80.561584,
+      "box": [
+        579,
+        600,
+        57,
+        28
+      ],
+      "block": 2,
+      "paragraph": 3,
+      "line": 1
+    },
+    {
+      "text": "Sub-Total:",
+      "confidence": 85.538658,
+      "box": [
+        365,
+        645,
+        147,
+        31
+      ],
+      "block": 2,
+      "paragraph": 4,
+      "line": 1
+    },
+    {
+      "text": "63.15",
+      "confidence": 39.364758,
+      "box": [
+        580,
+        638,
+        73,
+        28
+      ],
+      "block": 2,
+      "paragraph": 4,
+      "line": 1
+    },
+    {
+      "text": ")",
+      "confidence": 0.0,
+      "box": [
+        171,
+        720,
+        4,
+        2
+      ],
+      "block": 2,
+      "paragraph": 4,
+      "line": 2
+    },
+    {
+      "text": "Tax:",
+      "confidence": 94.869606,
+      "box": [
+        461,
+        682,
+        54,
+        24
+      ],
+      "block": 2,
+      "paragraph": 4,
+      "line": 2
+    },
+    {
+      "text": "5.54",
+      "confidence": 94.355362,
+      "box": [
+        597,
+        675,
+        58,
+        27
+      ],
+      "block": 2,
+      "paragraph": 4,
+      "line": 2
+    },
+    {
+      "text": "fora)",
+      "confidence": 66.802963,
+      "box": [
+        183,
+        723,
+        144,
+        67
+      ],
+      "block": 2,
+      "paragraph": 4,
+      "line": 3
+    },
+    {
+      "text": "pue",
+      "confidence": 78.407654,
+      "box": [
+        368,
+        722,
+        79,
+        26
+      ],
+      "block": 2,
+      "paragraph": 4,
+      "line": 3
+    },
+    {
+      "text": ":",
+      "confidence": 78.407654,
+      "box": [
+        470,
+        723,
+        10,
+        18
+      ],
+      "block": 2,
+      "paragraph": 4,
+      "line": 3
+    },
+    {
+      "text": "74.69",
+      "confidence": 73.154709,
+      "box": [
+        647,
+        704,
+        141,
+        31
+      ],
+      "block": 2,
+      "paragraph": 4,
+      "line": 3
+    },
+    {
+      "text": "Jicate",
+      "confidence": 65.589058,
+      "box": [
+        279,
+        789,
+        182,
+        39
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "#",
+      "confidence": 91.862259,
+      "box": [
+        494,
+        786,
+        26,
+        26
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "1",
+      "confidence": 96.721992,
+      "box": [
+        592,
+        785,
+        11,
+        25
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 1
+    },
+    {
+      "text": "on",
+      "confidence": 64.264404,
+      "box": [
+        265,
+        831,
+        37,
+        33
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Draft",
+      "confidence": 85.90992,
+      "box": [
+        306,
+        824,
+        83,
+        32
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "$1",
+      "confidence": 68.530113,
+      "box": [
+        406,
+        822,
+        26,
+        28
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "pints",
+      "confidence": 92.541039,
+      "box": [
+        450,
+        822,
+        74,
+        28
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "&",
+      "confidence": 92.047012,
+      "box": [
+        539,
+        823,
+        14,
+        24
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "85",
+      "confidence": 59.89389,
+      "box": [
+        571,
+        820,
+        29,
+        28
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "Pitchers!",
+      "confidence": 3.195038,
+      "box": [
+        615,
+        817,
+        145,
+        26
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 2
+    },
+    {
+      "text": "©",
+      "confidence": 20.406723,
+      "box": [
+        342,
+        861,
+        2,
+        3
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "MONDAY",
+      "confidence": 45.069191,
+      "box": [
+        377,
+        857,
+        90,
+        28
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "and",
+      "confidence": 82.823425,
+      "box": [
+        481,
+        857,
+        45,
+        25
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 3
+    },
+    {
+      "text": "TUESDAY'S",
+      "confidence": 37.690144,
+      "box": [
+        540,
+        854,
+        134,
+        30
+      ],
+      "block": 3,
+      "paragraph": 1,
+      "line": 3
+    }
+  ]
+}
