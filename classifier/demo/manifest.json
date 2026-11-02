@@ -1,0 +1,57 @@
+[
+  {
+    "id": "76cc99d39da4",
+    "title": "Purchase request",
+    "expected_label": "purchase_order",
+    "known_failure": false,
+    "image": "demo/images/76cc99d39da4.jpg",
+    "record": "demo/records/76cc99d39da4.json",
+    "image_sha256": "c008a22c1f76dc1b9d9e89cf948d589ec7bc9d64e8119a640c6a8c6af6fd626a",
+    "provenance": "Photograph of a printed synthetic document \u00b7 recorded OCR analysis",
+    "split": "val"
+  },
+  {
+    "id": "5dffabcb47cb",
+    "title": "Retail receipt",
+    "expected_label": "receipt",
+    "known_failure": false,
+    "image": "demo/images/5dffabcb47cb.jpg",
+    "record": "demo/records/5dffabcb47cb.json",
+    "image_sha256": "e51375a245dde8dacc6e43ae9f83726a17363e9cc5cb5210e1c7ed5ab345e2c0",
+    "provenance": "Existing development document \u00b7 recorded OCR analysis",
+    "split": "val"
+  },
+  {
+    "id": "f9918570b903",
+    "title": "Delivery challan",
+    "expected_label": "delivery_note",
+    "known_failure": false,
+    "image": "demo/images/f9918570b903.jpg",
+    "record": "demo/records/f9918570b903.json",
+    "image_sha256": "bc4e1f5f2758199a5b77f34cba6bedf0a71d78335a9eb2c0a8a6d0e8af7cc60c",
+    "provenance": "Photograph of a printed synthetic document \u00b7 recorded OCR analysis",
+    "split": "val"
+  },
+  {
+    "id": "e396ade11def",
+    "title": "Office copy",
+    "expected_label": "customer_copy",
+    "known_failure": false,
+    "image": "demo/images/e396ade11def.jpg",
+    "record": "demo/records/e396ade11def.json",
+    "image_sha256": "b9f12f27d77447b831b0976cf9e4fd4265fb6f17e158cd85528c4bdde5053c00",
+    "provenance": "Photograph of a printed synthetic document \u00b7 recorded OCR analysis",
+    "split": "val"
+  },
+  {
+    "id": "cdd7aaa9004d",
+    "title": "Faint copy stamp",
+    "expected_label": "customer_copy",
+    "known_failure": true,
+    "image": "demo/images/cdd7aaa9004d.jpg",
+    "record": "demo/records/cdd7aaa9004d.json",
+    "image_sha256": "3a782087b6f7af63728eddc13354e6be20247ab1b24e0cb01b6168ffee2287b3",
+    "provenance": "Photograph of a printed synthetic document \u00b7 recorded OCR analysis",
+    "split": "val"
+  }
+]

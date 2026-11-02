@@ -1,0 +1,11 @@
+{
+  "pre_scan_hashed": 941,
+  "post_scan_files": 1237,
+  "pre_scan_data_and_code_hashes_match": true,
+  "windows_folder_metadata_differences": [
+    "data/desktop.ini"
+  ],
+  "note": "The pre-scan overlapped relocation and covers941 files rather than the whole directory. The full post-scan is preserved; Move-Item moved all non-data entries and data was copied, never deleted.",
+  "legacy_data_preserved": true,
+  "raw_datasets_or_annotations_modified": false
+}

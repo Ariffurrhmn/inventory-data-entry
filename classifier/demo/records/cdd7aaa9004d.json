@@ -1,0 +1,169 @@
+{
+  "sample_id": "cdd7aaa9004d",
+  "actual_existing_label": "customer_copy",
+  "result": {
+    "decision_trace": {
+      "selected_component": "learned_fallback",
+      "heading_matches": [],
+      "ambiguous_heading": false,
+      "normalized_heading_evidence": null,
+      "learned_top_class": "purchase_order",
+      "learned_alternative_class": "customer_copy",
+      "learned_score_margin": 0.18326422174251938,
+      "scores_calibrated": false,
+      "rule": null,
+      "explanation_method": "Deterministic rule trace or exact n-gram contributions; transformers use fixed-model text omissions"
+    },
+    "label": "purchase_order",
+    "decision_source": "trained_classifier",
+    "heading_evidence": null,
+    "ambiguous_heading": false,
+    "statistical_label": "purchase_order",
+    "scores_kind": "statistical_fallback_scores",
+    "scores": {
+      "customer_copy": 0.2702956885030563,
+      "delivery_note": 0.15863639851711941,
+      "purchase_order": 0.4535599102455757,
+      "receipt": 0.11750800273424915
+    },
+    "scores_calibrated": false,
+    "ocr_empty": false,
+    "text_characters": 205,
+    "input_origin": "provided_text",
+    "ocr_text": "Co ——\r\n! pp N\\ :\r\n! TOMER COPY\r\nBengal Consumer Goods {louse me\r\nInvoice :\r\n| Invoice No: INV-9335. :\r\nDate: 13/08/2026.\r\nBill To / Customer: Ruposhi Bazar, Mirpur-10, Dhaka.\r\nTotal:  Tk45,340.\r\nAuthorised Signature\r\n",
+    "heading_ocr_text": "—\r\n\r\ncv\r\n\r\nBengal Consumer Goods\r\n\r\n—\r\n\r\nInvoice\r\n\r\nInvoice No: INV-9335\r\n\r\nDate: 13/08/2026\r\n\r\nBill To / Customer: Ruposhi Bazar, Mirpur-10, Dhaka\r\n\r\nin Jo [em [ae\r\n\r\nEEE TT BT\r\n\r\nD. Se\r\n\r\nuthorised Signature\r\n\fCUSTOMER on\r\nBengal Consumer Goods —mn—\r\nInvoice :\r\n+ Invoice No: INV-9335. j\r\nDate: 13/08/2026. |\r\n© Bill To / Customer: Ruposhi Bazar, Mirpur-10, Dhaka.\r\n\nAuthorised Signature\r\n\fCo ——\r\n! pp N\\ :\r\n! TOMER COPY\r\nBengal Consumer Goods {louse me\r\nInvoice :\r\n| Invoice No: INV-9335. :\r\nDate: 13/08/2026.\r\nBill To / Customer: Ruposhi Bazar, Mirpur-10, Dhaka.\r\nTotal:  Tk45,340.\r\nAuthorised Signature\r\n\fp\r\n\r\nnyo\r\n\r\nICe\r\n\r\nCUSTOMER ( R COFY\r\n\r\nBil o/ Custom\r\n\r\nUposh; p\r\n\fp\r\n\r\n——\r\n\r\n—om—\r\n\r\nBengal Consumer Goods cus CTONER © &\r\n\r\ni) |\r\n\r\nt\r\n\r\nInvoice\r\n\r\nInvoice No: INV-9335\r\n\r\nDate: 13/08/2026\r\n\r\nBill To / Customer: Ruposhi Bazar, Mirpur-10, Dhaka\r\n\r\nItem\r\n\r\nQty\r\n\r\n—\r\n\fiS\r\n\r\nWe\r\n\r\nREN\r\n\r\nGood\r\n\r\nal Consume’\r\n\r\nBend\r\n\r\nvoice ous.\r\n\r\nnv ice\r\n\r\nMirpur iO:\r\n\r\npater}\r\n\r\n3 10812026:\r\n\r\nposh Bazah\r\n\r\nAmo\r\n\r\nstomer: R\r\n\r\note (9\r\n\r\ngin To | C\r\n",
+    "validation_only": true,
+    "run": "printed_v3_explainable",
+    "model": "classifier",
+    "backend": "complement_nb",
+    "model_sha256": "bd1dba65eb03c3f2282697a502400794ce754543c5e16150625b73cea62ce0bd",
+    "scope_version": "printed-only-v1",
+    "ocr_policy": "illumination",
+    "heading_rules": true,
+    "edge_recovery": true,
+    "classes": [
+      "purchase_order",
+      "receipt",
+      "delivery_note",
+      "customer_copy"
+    ],
+    "experimental": true,
+    "heading_module": "heading_rules_v3",
+    "illumination_recovery": true
+  },
+  "explanation": {
+    "label": "purchase_order",
+    "decision_source": "trained_classifier",
+    "model_run": "printed_v3_explainable",
+    "scores_calibrated": false,
+    "method": "exact_ngram_log_score_contributions",
+    "component": "learned_fallback_only",
+    "alternative_class": "customer_copy",
+    "logit_margin": 0.5176108648437818,
+    "intercept_contribution": 0.0,
+    "sum_feature_contributions": 0.5176108648437713,
+    "reconstructed_logit_margin": 0.5176108648437713,
+    "reconstruction_error": 1.0547118733938987e-14,
+    "supporting_features": [
+      {
+        "feature": "dhaka",
+        "contribution": 0.4924585644260957,
+        "feature_value": 0.20859089128298094
+      },
+      {
+        "feature": "10 dhaka",
+        "contribution": 0.41350006345188695,
+        "feature_value": 0.20859089128298094
+      },
+      {
+        "feature": "consumer",
+        "contribution": 0.13091116172752595,
+        "feature_value": 0.29071976729169136
+      },
+      {
+        "feature": "2026",
+        "contribution": 0.11129839692655656,
+        "feature_value": 0.13289345846468467
+      },
+      {
+        "feature": "co",
+        "contribution": 0.10325521593108548,
+        "feature_value": 0.159784721021048
+      },
+      {
+        "feature": "bill to",
+        "contribution": 0.0890716366668122,
+        "feature_value": 0.14105851251375862
+      },
+      {
+        "feature": "bill",
+        "contribution": 0.08319701566775523,
+        "feature_value": 0.13932490165509884
+      },
+      {
+        "feature": "to",
+        "contribution": 0.06796257587141846,
+        "feature_value": 0.10500025668778856
+      },
+      {
+        "feature": "date",
+        "contribution": 0.06147099475359918,
+        "feature_value": 0.09281569152025944
+      },
+      {
+        "feature": "10",
+        "contribution": 0.052622455150121296,
+        "feature_value": 0.11605892309127065
+      },
+      {
+        "feature": "08",
+        "contribution": 0.04212793793218913,
+        "feature_value": 0.17717361806424697
+      },
+      {
+        "feature": "total",
+        "contribution": 0.010298109133852424,
+        "feature_value": 0.06900270587692851
+      }
+    ],
+    "opposing_features": [
+      {
+        "feature": "copy",
+        "contribution": -0.3892887931204737,
+        "feature_value": 0.23073097108276205
+      },
+      {
+        "feature": "signature",
+        "contribution": -0.2235511882214223,
+        "feature_value": 0.29071976729169136
+      },
+      {
+        "feature": "inv",
+        "contribution": -0.22320913555691055,
+        "feature_value": 0.29071976729169136
+      },
+      {
+        "feature": "invoice",
+        "contribution": -0.1546375598177595,
+        "feature_value": 0.42814790684700854
+      },
+      {
+        "feature": "customer",
+        "contribution": -0.047453838046122236,
+        "feature_value": 0.1447001386952248
+      },
+      {
+        "feature": "340",
+        "contribution": -0.036315197903757375,
+        "feature_value": 0.29071976729169136
+      }
+    ],
+    "active_feature_count": 23,
+    "interpretation": "Feature value times the learned coefficient difference exactly reconstructs the target-versus-alternative logit margin, including the intercept. Contributions are not probability percentages.",
+    "limitations": [
+      "Correlated word/character n-grams can share evidence.",
+      "A learned association is not proof of document type or real-world causation.",
+      "This explains the learned fallback only; any heading rules are held fixed."
+    ]
+  }
+}

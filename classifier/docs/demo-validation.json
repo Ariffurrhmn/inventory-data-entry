@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-20",
+  "app_url": "http://127.0.0.1:8770",
+  "model_run": "printed_v3_explainable",
+  "model_hash_unchanged": true,
+  "protected_historical_hashes_verified": 6,
+  "example_image_and_model_hashes_verified": 5,
+  "legacy_ocr_json_copies_verified": 434,
+  "automated_checks": {
+    "demo_api": 5,
+    "classifier": 30,
+    "annotation_portal": 8,
+    "total": 43
+  },
+  "portal_catalog_images_resolved": 236,
+  "existing_portal_session": {
+    "check_error": "URLError: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>"
+  },
+  "browser_checks": [
+    "recorded purchase intent",
+    "receipt exact learned-feature contributions",
+    "office-copy heading",
+    "known failure transparently labelled",
+    "live image OCR and classification",
+    "OCR inspection",
+    "model/evidence page",
+    "explicit project report save",
+    "JSON download"
+  ],
+  "live_image_check": {
+    "sample_id": "76cc99d39da4",
+    "predicted_label": "purchase_order",
+    "elapsed_seconds": 10.51,
+    "new_benchmark": false
+  },
+  "demo_examples_use_historical_test": false,
+  "recorded_mode_clearly_labelled": true,
+  "raw_datasets_and_annotation_truth_modified": false,
+  "setup_new_pc_executed": false,
+  "preview": "classifier/docs/demo-preview.png"
+}

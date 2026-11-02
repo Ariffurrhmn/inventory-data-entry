@@ -1,0 +1,12 @@
+{
+  "old": "services/document_classifier",
+  "new": "classifier/engine",
+  "historical_images": "services/document_classifier/data retained as immutable compatibility assets; canonical copy in classifier/engine/data",
+  "files": 941,
+  "raw_dataset_moved": false,
+  "historical_ocr_caches": [
+    "services/document_classifier/runs/text_preliminary/ocr",
+    "services/document_classifier/runs/text_delivery_v2/ocr_sparse"
+  ],
+  "pre_scan_was_partial": true
+}
