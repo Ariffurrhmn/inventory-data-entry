@@ -1,0 +1,11 @@
+# Assistant visual review — batch 01
+
+The user asked Codex to perform the first 10 flagged reviews. The selected 10 images were individually visually inspected. During review, the portal acquired unchanged, unnamed draft saves for all 10. The first no-overwrite attempt therefore skipped them (report.json). After confirming these drafts had no edited text, class, notes or reviewer, Codex appended an AI review as revision 2, retaining revision 1 in history. Edited/named reviews and concurrent saves would be skipped by apply_batch.py.
+
+The authoritative final result is applied.json: 10 AI reviews saved, 3 texts corrected, 2 payment-status flags. Existing 20 saved reviews remained in history; 14 protected source/reference/label/split files matched their before hashes. All 10 new records are reviewer_type=ai, reviewer=Codex (AI visual review), status=needs_review, human_verified=false. reviews.json is a portable copy; the live records are in Dataset/annotations/human_review/reviews.sqlite3.
+
+Changes: removed an unsupported internal [redacted] marker from one receipt, added two missing MEDIUM item qualifiers in another, and revised visible total/payment grouping punctuation in a third (retaining a character-level uncertainty note). The other seven visible transcriptions were retained with image-specific review notes. Two pages show totals but no visible payment confirmation, so their existing receipt labels are explicitly pending a receipt-versus-bill taxonomy decision. Mixed Indonesian text was flagged against the intended English corpus. Hidden source content was not inferred. Literal printed [D] was preserved.
+
+Five reviewed records are from the historical test split. These reviews are annotation maintenance only: no model training, tuning or evaluation was performed, and frozen labels/splits and reference editions were not replaced. Human review remains pending. The bank/payment labels and masked headers must not be guessed. Broad CER/WER claims cannot be made from this batch.
+
+review_plan.json records the findings and exact replacements. apply_batch.py refuses replay after applied.json exists and rejects replacing edited/named/verified reviews. reviews-before.sqlite3 preserves the pre-application database. The initial report.json documents the skipped first attempt; use applied.json for completion counts.
