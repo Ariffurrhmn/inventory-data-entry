@@ -1,0 +1,20 @@
+{
+  "counts": {
+    "purchase_order": 41,
+    "receipt": 30,
+    "delivery_note": 44,
+    "customer_copy": 30
+  },
+  "sources": {
+    "curated": 91,
+    "printed_synthetic_photo": 54
+  },
+  "errors": [],
+  "exact_duplicates": [],
+  "excluded_sources": [
+    "synthetic_dataset/images",
+    "ChatGPT_Bridge/4_approved",
+    "Dataset/_excluded"
+  ],
+  "note": "Generated originals excluded; Dataset-2 is printed-synthetic phone photography per user. Curated provenance is not assumed real."
+}

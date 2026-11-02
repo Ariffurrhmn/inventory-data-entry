@@ -1,0 +1,146 @@
+source_path,label,group_id,label_status,include,notes
+Dataset/Purchase_Order/PO-PO - 15.jpg,purchase_order,po:minimal-form,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Purchase_Order/POPO-10.jpg,purchase_order,po:abc-grey-table,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Purchase_Order/POPO-11.jpg,purchase_order,po:abc-grey-table,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Purchase_Order/POPO-12.jpg,purchase_order,po:abc-grey-table,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Purchase_Order/POPO-13.jpg,purchase_order,po:abc-grey-table,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Purchase_Order/POPO-14.jpg,purchase_order,po:abc-grey-table,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Purchase_Order/POPO-8.jpg,purchase_order,po:abc-grey-table,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Purchase_Order/POPO-9.jpg,purchase_order,po:abc-grey-table,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Purchase_Order/Purchase Order 1.jpg,purchase_order,po:personal-grey-table,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Purchase_Order/Purchase Order 2.jpg,purchase_order,po:personal-grey-table,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Purchase_Order/Purchase Order 3.jpg,purchase_order,po:personal-grey-table,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Purchase_Order/Purchase Order 4.jpg,purchase_order,po:personal-grey-table,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Purchase_Order/Purchase Order 5.jpg,purchase_order,po:personal-grey-table,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Purchase_Order/Purchase Order 6.jpg,purchase_order,po:personal-grey-table,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Purchase_Order/Purchase Order 7.jpg,purchase_order,po:personal-grey-table,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Purchase_Order/purchase order-PO - 16.jpg,purchase_order,po:hgt-colour-table,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Purchase_Order/purchase order-PO - 18.jpg,purchase_order,po:hgt-colour-table,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Purchase_Order/purchase order-PO - 19.jpg,purchase_order,po:hgt-colour-table,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Purchase_Order/purchase order-PO - 20.jpg,purchase_order,po:hgt-colour-table,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Purchase_Order/Screenshot 2026-10-03 180354.png,purchase_order,po:dots-handwritten,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Receipt/6161_jpg.rf.4636e9955eb8868698303d78c7ef72cc.jpg,receipt,receipt:6161_jpg.rf.4636e9955eb8868698303d78c7ef72cc,reviewed,no,Tax invoice without clear payment/copy evidence; exclude pending team review.
+Dataset/Receipt/aaaa_jpg.rf.2e47601f234d7c54e2f7e015491d4cee.jpg,receipt,receipt:handwritten-bills,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Receipt/cord-train-0008.jpg,receipt,receipt:cord-train-0008,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Receipt/cord-train-0015.jpg,receipt,receipt:cord-train-0015,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Receipt/cord-train-0017.jpg,receipt,receipt:cord-train-0017,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Receipt/cord-train-0020.jpg,receipt,receipt:cord-train-0020,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Receipt/cord-train-0023.jpg,receipt,receipt:cord-train-0023,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Receipt/cord-train-0024.jpg,receipt,receipt:cord-train-0024,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Receipt/cord-train-0036.jpg,receipt,receipt:cord-train-0036,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Receipt/cord-train-0050.jpg,receipt,receipt:cord-train-0050,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Receipt/cord-train-0070.jpg,receipt,receipt:cord-train-0070,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Receipt/cord-train-0075.jpg,receipt,receipt:cord-train-0075,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Receipt/cord-train-0114.jpg,receipt,receipt:cord-train-0114,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Receipt/cord-train-0124.jpg,receipt,receipt:cord-train-0124,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Receipt/cord-train-0133.jpg,receipt,receipt:cord-train-0133,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Receipt/cord-train-0140.jpg,receipt,receipt:cord-similar-thermal-pair,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Receipt/cord-train-0145.jpg,receipt,receipt:cord-train-0145,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Receipt/cord-train-0155.jpg,receipt,receipt:cord-similar-thermal-pair,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Receipt/cord-train-0165.jpg,receipt,receipt:cord-train-0165,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Receipt/cord-train-0750.jpg,receipt,receipt:cord-train-0750,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Receipt/IMG_20250823_030114_jpg.rf.3862ebeaef9f4db0e7d45c6b2127ea07.jpg,receipt,receipt:handwritten-bills,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Receipt/IMG_20250823_031335_jpg.rf.5a199981b4aa990a64567daf31f4f7c6.jpg,receipt,receipt:handwritten-bills,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Receipt/IMG_20250823_031803_jpg.rf.34405351a39fd281345d6d0597a696f4.jpg,receipt,receipt:handwritten-bills,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Receipt/IMG_20251024_205717_jpg.rf.1b1b4a57e89a9b5d635e874d85c398b9 - Copy.jpg,receipt,receipt:diz-paid-sales-invoice,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Receipt/IMG_20251024_205725_jpg.rf.6e536cb87cc396e65a09e9018cb7009e.jpg,receipt,receipt:diz-paid-sales-invoice,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Receipt/IMG_20251024_205757_jpg.rf.2cc45e34b944cd17410a7e6aa3e010a4.jpg,receipt,receipt:diz-paid-sales-invoice,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Receipt/IMG_20251024_205804_jpg.rf.10e477b4db343f6c9fa7d0da694c11ff.jpg,receipt,receipt:diz-paid-sales-invoice,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Receipt/IMG_20251024_205811_jpg.rf.02f15079f1584d7f849965926a3ed366.jpg,receipt,receipt:diz-paid-sales-invoice,reviewed,no,Sales invoice marked cancelled; exclude pending team review.
+Dataset/Receipt/IMG_20251024_205835_jpg.rf.5daf54087b5537070793a7b829bb5bd8.jpg,receipt,receipt:diz-paid-sales-invoice,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Receipt/IMG_20251026_133147_jpg.rf.7c1871edc0c5fa593ead79391c3ee632.jpg,receipt,receipt:diz-paid-sales-invoice,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Delivery_Note/delivery-challan-DC-001.jpg,delivery_note,dn:abc-generated-family,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Delivery_Note/delivery-challan-DC-004.jpg,delivery_note,dn:abc-generated-family,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Delivery_Note/delivery-challan-DC-005.jpg,delivery_note,dn:abc-generated-family,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Delivery_Note/delivery-challan-DC-006.jpg,delivery_note,dn:abc-generated-family,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Delivery_Note/delivery-challan-DC-007.jpg,delivery_note,dn:abc-generated-family,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Delivery_Note/delivery-challan-DC-008.jpg,delivery_note,dn:abc-generated-family,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Delivery_Note/delivery-challan-DC-009.jpg,delivery_note,dn:abc-generated-family,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Delivery_Note/delivery-challan-DC-010.jpg,delivery_note,dn:abc-generated-family,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Delivery_Note/delivery-challan-DC-011.jpg,delivery_note,dn:abc-generated-family,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Delivery_Note/delivery-challan-DC-012.jpg,delivery_note,dn:abc-generated-family,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Delivery_Note/delivery-challan-DC-013.jpg,delivery_note,dn:abc-generated-family,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Delivery_Note/delivery-challan-DC-014 (1).jpg,delivery_note,dn:abc-generated-family,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Delivery_Note/delivery-challan-DC-014 (2).jpg,delivery_note,dn:abc-generated-family,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Delivery_Note/delivery-challan-DC-014 (3).jpg,delivery_note,dn:abc-generated-family,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Delivery_Note/delivery-challan-DC-014.jpg,delivery_note,dn:abc-generated-family,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Delivery_Note/packing-slip-1064.png,delivery_note,dn:shopify-packing-slip,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Delivery_Note/packing-slip-1079.png,delivery_note,dn:shopify-packing-slip,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Delivery_Note/packing-slip-1087.png,delivery_note,dn:shopify-packing-slip,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Delivery_Note/packing-slip-1094.png,delivery_note,dn:shopify-packing-slip,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Delivery_Note/packing-slip-1111.png,delivery_note,dn:shopify-packing-slip,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Customer_Copy/1057-receipt.jpg,customer_copy,customer_copy:1057-receipt,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Customer_Copy/1073-receipt.jpg,customer_copy,customer_copy:1073-receipt,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Customer_Copy/1164-receipt.jpg,customer_copy,customer_copy:1164-receipt,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Customer_Copy/1176-receipt.jpg,customer_copy,customer_copy:1176-receipt,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Customer_Copy/express_srd_1085-receipt.jpg,customer_copy,customer_copy:express_srd_1085-receipt,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Customer_Copy/image_0018.jpg,customer_copy,customer_copy:image_0018,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Customer_Copy/image_0042.jpg,customer_copy,customer_copy:image_0042,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Customer_Copy/image_0311.jpg,customer_copy,customer_copy:image_0311,reviewed,no,Merchant-copy or no unambiguous copy marking; excluded pending team label review.
+Dataset/Customer_Copy/image_0592.jpg,customer_copy,customer_copy:image_0592,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Customer_Copy/image_0711.jpg,customer_copy,customer_copy:image_0711,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Customer_Copy/image_0799.jpg,customer_copy,cc:chick-fil-a,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Customer_Copy/image_1043.jpg,customer_copy,cc:chick-fil-a,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Customer_Copy/image_1065.jpg,customer_copy,customer_copy:image_1065,reviewed,no,Merchant-copy or no unambiguous copy marking; excluded pending team label review.
+Dataset/Customer_Copy/image_1208.jpg,customer_copy,customer_copy:image_1208,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Customer_Copy/image_1553.jpg,customer_copy,customer_copy:image_1553,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Customer_Copy/image_1559.jpg,customer_copy,customer_copy:image_1559,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Customer_Copy/image_1687.jpg,customer_copy,customer_copy:image_1687,reviewed,no,Merchant-copy or no unambiguous copy marking; excluded pending team label review.
+Dataset/Customer_Copy/image_1748.jpg,customer_copy,customer_copy:image_1748,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Customer_Copy/image_1758.jpg,customer_copy,cc:chick-fil-a,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Customer_Copy/image_1850.jpg,customer_copy,customer_copy:image_1850,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Customer_Copy/image_1858.jpg,customer_copy,customer_copy:image_1858,reviewed,yes,Visual review: class is consistent with page content.
+Dataset/Dataset-2/Purchase order/IMG_0965.HEIC,purchase_order,po:hgt-colour-table,reviewed,yes,Visual review of printed synthetic photo; original retained. Known related originals/templates share group.
+Dataset/Dataset-2/Purchase order/IMG_0966.HEIC,delivery_note,dn:shopify-packing-slip,reviewed,yes,Visual review of printed synthetic photo; original retained. Known related originals/templates share group. Corrected purchase-order folder label: page says Packing Slip.
+Dataset/Dataset-2/Purchase order/IMG_0967.HEIC,delivery_note,dn:shopify-packing-slip,reviewed,yes,Visual review of printed synthetic photo; original retained. Known related originals/templates share group. Corrected purchase-order folder label: page says Packing Slip.
+Dataset/Dataset-2/Purchase order/IMG_0968.HEIC,delivery_note,dn:shopify-packing-slip,reviewed,yes,Visual review of printed synthetic photo; original retained. Known related originals/templates share group. Corrected purchase-order folder label: page says Packing Slip.
+Dataset/Dataset-2/Purchase order/IMG_0969.HEIC,delivery_note,dn:shopify-packing-slip,reviewed,yes,Visual review of printed synthetic photo; original retained. Known related originals/templates share group. Corrected purchase-order folder label: page says Packing Slip.
+Dataset/Dataset-2/Purchase order/IMG_0970.HEIC,delivery_note,dn:shopify-packing-slip,reviewed,yes,Visual review of printed synthetic photo; original retained. Known related originals/templates share group. Corrected purchase-order folder label: page says Packing Slip.
+Dataset/Dataset-2/Purchase order/IMG_0971.HEIC,purchase_order,po:bridge-handwritten,reviewed,yes,Visual review of printed synthetic photo; original retained. Known related originals/templates share group.
+Dataset/Dataset-2/Purchase order/IMG_0972.HEIC,purchase_order,po:bridge-printed-table,reviewed,yes,Visual review of printed synthetic photo; original retained. Known related originals/templates share group.
+Dataset/Dataset-2/Purchase order/IMG_0973.HEIC,purchase_order,po:bridge-printed-table,reviewed,yes,Visual review of printed synthetic photo; original retained. Known related originals/templates share group.
+Dataset/Dataset-2/Purchase order/IMG_0974.HEIC,purchase_order,po:bridge-monospace,reviewed,yes,Visual review of printed synthetic photo; original retained. Known related originals/templates share group.
+Dataset/Dataset-2/Purchase order/IMG_0975.HEIC,purchase_order,po:bridge-monospace,reviewed,yes,Visual review of printed synthetic photo; original retained. Known related originals/templates share group.
+Dataset/Dataset-2/Purchase order/IMG_0977.HEIC,delivery_note,dn:bridge-handwritten,reviewed,yes,Visual review of printed synthetic photo; original retained. Known related originals/templates share group. Corrected purchase-order folder label: handwritten challan and receipt acknowledgement.
+Dataset/Dataset-2/Purchase order/IMG_0978.HEIC,purchase_order,po:bridge-printed-table,reviewed,yes,Visual review of printed synthetic photo; original retained. Known related originals/templates share group.
+Dataset/Dataset-2/Purchase order/IMG_0979.HEIC,purchase_order,po:bridge-printed-table,reviewed,yes,Visual review of printed synthetic photo; original retained. Known related originals/templates share group.
+Dataset/Dataset-2/Purchase order/IMG_0980.HEIC,purchase_order,po:bridge-order-form,reviewed,yes,Visual review of printed synthetic photo; original retained. Known related originals/templates share group.
+Dataset/Dataset-2/Purchase order/IMG_0981.HEIC,purchase_order,po:bridge-printed-table,reviewed,yes,Visual review of printed synthetic photo; original retained. Known related originals/templates share group.
+Dataset/Dataset-2/Purchase order/IMG_0982.HEIC,purchase_order,po:bridge-printed-table,reviewed,yes,Visual review of printed synthetic photo; original retained. Known related originals/templates share group.
+Dataset/Dataset-2/Purchase order/IMG_0983.HEIC,purchase_order,po:personal-grey-table,reviewed,yes,Visual review of printed synthetic photo; original retained. Known related originals/templates share group.
+Dataset/Dataset-2/Purchase order/IMG_0984.HEIC,purchase_order,po:hgt-colour-table,reviewed,yes,Visual review of printed synthetic photo; original retained. Known related originals/templates share group.
+Dataset/Dataset-2/Purchase order/IMG_0985.HEIC,purchase_order,po:hgt-colour-table,reviewed,yes,Visual review of printed synthetic photo; original retained. Known related originals/templates share group.
+Dataset/Dataset-2/Purchase order/IMG_0986.HEIC,purchase_order,po:hgt-colour-table,reviewed,yes,Visual review of printed synthetic photo; original retained. Known related originals/templates share group.
+Dataset/Dataset-2/Delivery note challan/IMG_0943.HEIC,delivery_note,dn:abc-generated-family,reviewed,yes,Visual review of printed synthetic photo; original retained. Known related originals/templates share group.
+Dataset/Dataset-2/Delivery note challan/IMG_0945.HEIC,delivery_note,dn:abc-generated-family,reviewed,yes,Visual review of printed synthetic photo; original retained. Known related originals/templates share group.
+Dataset/Dataset-2/Delivery note challan/IMG_0946.HEIC,delivery_note,dn:abc-generated-family,reviewed,yes,Visual review of printed synthetic photo; original retained. Known related originals/templates share group.
+Dataset/Dataset-2/Delivery note challan/IMG_0947.HEIC,delivery_note,dn:abc-generated-family,reviewed,yes,Visual review of printed synthetic photo; original retained. Known related originals/templates share group.
+Dataset/Dataset-2/Delivery note challan/IMG_0948.HEIC,delivery_note,dn:abc-generated-family,reviewed,yes,Visual review of printed synthetic photo; original retained. Known related originals/templates share group.
+Dataset/Dataset-2/Delivery note challan/IMG_0949.HEIC,delivery_note,dn:abc-generated-family,reviewed,yes,Visual review of printed synthetic photo; original retained. Known related originals/templates share group.
+Dataset/Dataset-2/Delivery note challan/IMG_0950.HEIC,delivery_note,dn:abc-generated-family,reviewed,yes,Visual review of printed synthetic photo; original retained. Known related originals/templates share group.
+Dataset/Dataset-2/Delivery note challan/IMG_0951.HEIC,delivery_note,dn:abc-generated-family,reviewed,yes,Visual review of printed synthetic photo; original retained. Known related originals/templates share group.
+Dataset/Dataset-2/Delivery note challan/IMG_0952.HEIC,delivery_note,dn:abc-generated-family,reviewed,yes,Visual review of printed synthetic photo; original retained. Known related originals/templates share group.
+Dataset/Dataset-2/Delivery note challan/IMG_0953.HEIC,delivery_note,dn:abc-generated-family,reviewed,yes,Visual review of printed synthetic photo; original retained. Known related originals/templates share group.
+Dataset/Dataset-2/Delivery note challan/IMG_0954.HEIC,delivery_note,dn:abc-generated-family,reviewed,yes,Visual review of printed synthetic photo; original retained. Known related originals/templates share group.
+Dataset/Dataset-2/Delivery note challan/IMG_0955.HEIC,delivery_note,dn:abc-generated-family,reviewed,yes,Visual review of printed synthetic photo; original retained. Known related originals/templates share group.
+Dataset/Dataset-2/Delivery note challan/IMG_0956.HEIC,delivery_note,dn:abc-generated-family,reviewed,yes,Visual review of printed synthetic photo; original retained. Known related originals/templates share group.
+Dataset/Dataset-2/Delivery note challan/IMG_0957.HEIC,delivery_note,dn:abc-generated-family,reviewed,yes,Visual review of printed synthetic photo; original retained. Known related originals/templates share group.
+Dataset/Dataset-2/Delivery note challan/IMG_0958.HEIC,delivery_note,dn:abc-generated-family,reviewed,yes,Visual review of printed synthetic photo; original retained. Known related originals/templates share group.
+Dataset/Dataset-2/Delivery note challan/IMG_0988.HEIC,delivery_note,dn:bridge-handwritten,reviewed,yes,Visual review of printed synthetic photo; original retained. Known related originals/templates share group.
+Dataset/Dataset-2/Delivery note challan/IMG_0989.HEIC,delivery_note,dn:bridge-handwritten,reviewed,yes,Visual review of printed synthetic photo; original retained. Known related originals/templates share group.
+Dataset/Dataset-2/Delivery note challan/IMG_0990.HEIC,delivery_note,dn:bridge-handwritten,reviewed,yes,Visual review of printed synthetic photo; original retained. Known related originals/templates share group.
+Dataset/Dataset-2/Delivery note challan/IMG_0991.HEIC,delivery_note,dn:bridge-printed,reviewed,yes,Visual review of printed synthetic photo; original retained. Known related originals/templates share group.
+Dataset/Dataset-2/Delivery note challan/IMG_0992.HEIC,delivery_note,dn:bridge-printed,reviewed,yes,Visual review of printed synthetic photo; original retained. Known related originals/templates share group.
+Dataset/Dataset-2/Delivery note challan/IMG_0993.HEIC,delivery_note,dn:bridge-monospace,reviewed,yes,Visual review of printed synthetic photo; original retained. Known related originals/templates share group.
+Dataset/Dataset-2/Delivery note challan/IMG_0994.HEIC,delivery_note,dn:bridge-handwritten,reviewed,yes,Visual review of printed synthetic photo; original retained. Known related originals/templates share group.
+Dataset/Dataset-2/Delivery note challan/IMG_0995.HEIC,delivery_note,dn:bridge-printed,reviewed,yes,Visual review of printed synthetic photo; original retained. Known related originals/templates share group.
+Dataset/Dataset-2/Delivery note challan/IMG_0996.HEIC,delivery_note,dn:bridge-handwritten,reviewed,yes,Visual review of printed synthetic photo; original retained. Known related originals/templates share group.
+Dataset/Dataset-2/Customer copy/IMG_0998.HEIC,customer_copy,cc:bridge-printed-invoice,reviewed,yes,Visual review of printed synthetic photo; original retained. Known related originals/templates share group.
+Dataset/Dataset-2/Customer copy/IMG_0999.HEIC,customer_copy,cc:bridge-printed-invoice,reviewed,yes,Visual review of printed synthetic photo; original retained. Known related originals/templates share group.
+Dataset/Dataset-2/Customer copy/IMG_1001.HEIC,customer_copy,cc:bridge-printed-invoice,reviewed,yes,Visual review of printed synthetic photo; original retained. Known related originals/templates share group.
+Dataset/Dataset-2/Customer copy/IMG_1002.HEIC,customer_copy,cc:bridge-printed-invoice,reviewed,yes,Visual review of printed synthetic photo; original retained. Known related originals/templates share group.
+Dataset/Dataset-2/Customer copy/IMG_1003.HEIC,customer_copy,cc:bridge-handwritten-memo,reviewed,yes,Visual review of printed synthetic photo; original retained. Known related originals/templates share group.
+Dataset/Dataset-2/Customer copy/IMG_1004.HEIC,customer_copy,cc:bridge-printed-invoice,reviewed,yes,Visual review of printed synthetic photo; original retained. Known related originals/templates share group.
+Dataset/Dataset-2/Customer copy/IMG_1005.HEIC,customer_copy,cc:bridge-printed-invoice,reviewed,yes,Visual review of printed synthetic photo; original retained. Known related originals/templates share group.
+Dataset/Dataset-2/Customer copy/IMG_1006.HEIC,customer_copy,cc:bridge-handwritten-memo,reviewed,yes,Visual review of printed synthetic photo; original retained. Known related originals/templates share group. OFFICE COPY accepted under existing figure-5 taxonomy.
+Dataset/Dataset-2/Customer copy/IMG_1007.HEIC,customer_copy,cc:bridge-monospace,reviewed,yes,Visual review of printed synthetic photo; original retained. Known related originals/templates share group. OFFICE COPY accepted under existing figure-5 taxonomy.

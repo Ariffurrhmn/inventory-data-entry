@@ -1,0 +1,143 @@
+first,second,hamming_distance,labels_match
+Dataset/Purchase_Order/POPO-10.jpg,Dataset/Purchase_Order/POPO-12.jpg,2,True
+Dataset/Purchase_Order/POPO-11.jpg,Dataset/Purchase_Order/POPO-12.jpg,6,True
+Dataset/Purchase_Order/POPO-11.jpg,Dataset/Purchase_Order/POPO-13.jpg,1,True
+Dataset/Purchase_Order/POPO-12.jpg,Dataset/Purchase_Order/POPO-13.jpg,5,True
+Dataset/Purchase_Order/POPO-10.jpg,Dataset/Purchase_Order/POPO-14.jpg,3,True
+Dataset/Purchase_Order/POPO-12.jpg,Dataset/Purchase_Order/POPO-14.jpg,3,True
+Dataset/Purchase_Order/POPO-13.jpg,Dataset/Purchase_Order/POPO-14.jpg,6,True
+Dataset/Purchase_Order/POPO-10.jpg,Dataset/Purchase_Order/POPO-8.jpg,5,True
+Dataset/Purchase_Order/POPO-14.jpg,Dataset/Purchase_Order/POPO-8.jpg,4,True
+Dataset/Purchase_Order/POPO-10.jpg,Dataset/Purchase_Order/POPO-9.jpg,0,True
+Dataset/Purchase_Order/POPO-12.jpg,Dataset/Purchase_Order/POPO-9.jpg,2,True
+Dataset/Purchase_Order/POPO-14.jpg,Dataset/Purchase_Order/POPO-9.jpg,3,True
+Dataset/Purchase_Order/POPO-8.jpg,Dataset/Purchase_Order/POPO-9.jpg,5,True
+Dataset/Purchase_Order/Purchase Order 1.jpg,Dataset/Purchase_Order/Purchase Order 2.jpg,6,True
+Dataset/Purchase_Order/Purchase Order 1.jpg,Dataset/Purchase_Order/Purchase Order 3.jpg,3,True
+Dataset/Purchase_Order/Purchase Order 2.jpg,Dataset/Purchase_Order/Purchase Order 3.jpg,3,True
+Dataset/Purchase_Order/Purchase Order 1.jpg,Dataset/Purchase_Order/Purchase Order 4.jpg,5,True
+Dataset/Purchase_Order/Purchase Order 2.jpg,Dataset/Purchase_Order/Purchase Order 4.jpg,1,True
+Dataset/Purchase_Order/Purchase Order 3.jpg,Dataset/Purchase_Order/Purchase Order 4.jpg,2,True
+Dataset/Purchase_Order/Purchase Order 1.jpg,Dataset/Purchase_Order/Purchase Order 5.jpg,6,True
+Dataset/Purchase_Order/Purchase Order 2.jpg,Dataset/Purchase_Order/Purchase Order 5.jpg,0,True
+Dataset/Purchase_Order/Purchase Order 3.jpg,Dataset/Purchase_Order/Purchase Order 5.jpg,3,True
+Dataset/Purchase_Order/Purchase Order 4.jpg,Dataset/Purchase_Order/Purchase Order 5.jpg,1,True
+Dataset/Purchase_Order/Purchase Order 1.jpg,Dataset/Purchase_Order/Purchase Order 6.jpg,2,True
+Dataset/Purchase_Order/Purchase Order 2.jpg,Dataset/Purchase_Order/Purchase Order 6.jpg,4,True
+Dataset/Purchase_Order/Purchase Order 3.jpg,Dataset/Purchase_Order/Purchase Order 6.jpg,1,True
+Dataset/Purchase_Order/Purchase Order 4.jpg,Dataset/Purchase_Order/Purchase Order 6.jpg,3,True
+Dataset/Purchase_Order/Purchase Order 5.jpg,Dataset/Purchase_Order/Purchase Order 6.jpg,4,True
+Dataset/Purchase_Order/Purchase Order 1.jpg,Dataset/Purchase_Order/Purchase Order 7.jpg,5,True
+Dataset/Purchase_Order/Purchase Order 2.jpg,Dataset/Purchase_Order/Purchase Order 7.jpg,1,True
+Dataset/Purchase_Order/Purchase Order 3.jpg,Dataset/Purchase_Order/Purchase Order 7.jpg,4,True
+Dataset/Purchase_Order/Purchase Order 4.jpg,Dataset/Purchase_Order/Purchase Order 7.jpg,2,True
+Dataset/Purchase_Order/Purchase Order 5.jpg,Dataset/Purchase_Order/Purchase Order 7.jpg,1,True
+Dataset/Purchase_Order/Purchase Order 6.jpg,Dataset/Purchase_Order/Purchase Order 7.jpg,5,True
+Dataset/Purchase_Order/purchase order-PO - 16.jpg,Dataset/Purchase_Order/purchase order-PO - 19.jpg,5,True
+Dataset/Receipt/IMG_20250823_030114_jpg.rf.3862ebeaef9f4db0e7d45c6b2127ea07.jpg,Dataset/Receipt/IMG_20250823_031335_jpg.rf.5a199981b4aa990a64567daf31f4f7c6.jpg,6,True
+Dataset/Receipt/IMG_20250823_030114_jpg.rf.3862ebeaef9f4db0e7d45c6b2127ea07.jpg,Dataset/Receipt/IMG_20250823_031803_jpg.rf.34405351a39fd281345d6d0597a696f4.jpg,6,True
+Dataset/Receipt/IMG_20251024_205725_jpg.rf.6e536cb87cc396e65a09e9018cb7009e.jpg,Dataset/Receipt/IMG_20251024_205804_jpg.rf.10e477b4db343f6c9fa7d0da694c11ff.jpg,6,True
+Dataset/Receipt/IMG_20251024_205757_jpg.rf.2cc45e34b944cd17410a7e6aa3e010a4.jpg,Dataset/Receipt/IMG_20251024_205804_jpg.rf.10e477b4db343f6c9fa7d0da694c11ff.jpg,5,True
+Dataset/Delivery_Note/delivery-challan-DC-001.jpg,Dataset/Delivery_Note/delivery-challan-DC-004.jpg,1,True
+Dataset/Delivery_Note/delivery-challan-DC-001.jpg,Dataset/Delivery_Note/delivery-challan-DC-005.jpg,5,True
+Dataset/Delivery_Note/delivery-challan-DC-004.jpg,Dataset/Delivery_Note/delivery-challan-DC-005.jpg,4,True
+Dataset/Delivery_Note/delivery-challan-DC-001.jpg,Dataset/Delivery_Note/delivery-challan-DC-006.jpg,1,True
+Dataset/Delivery_Note/delivery-challan-DC-004.jpg,Dataset/Delivery_Note/delivery-challan-DC-006.jpg,0,True
+Dataset/Delivery_Note/delivery-challan-DC-005.jpg,Dataset/Delivery_Note/delivery-challan-DC-006.jpg,4,True
+Dataset/Delivery_Note/delivery-challan-DC-004.jpg,Dataset/Delivery_Note/delivery-challan-DC-007.jpg,6,True
+Dataset/Delivery_Note/delivery-challan-DC-005.jpg,Dataset/Delivery_Note/delivery-challan-DC-007.jpg,4,True
+Dataset/Delivery_Note/delivery-challan-DC-006.jpg,Dataset/Delivery_Note/delivery-challan-DC-007.jpg,6,True
+Dataset/Delivery_Note/delivery-challan-DC-001.jpg,Dataset/Delivery_Note/delivery-challan-DC-008.jpg,6,True
+Dataset/Delivery_Note/delivery-challan-DC-004.jpg,Dataset/Delivery_Note/delivery-challan-DC-008.jpg,5,True
+Dataset/Delivery_Note/delivery-challan-DC-005.jpg,Dataset/Delivery_Note/delivery-challan-DC-008.jpg,3,True
+Dataset/Delivery_Note/delivery-challan-DC-006.jpg,Dataset/Delivery_Note/delivery-challan-DC-008.jpg,5,True
+Dataset/Delivery_Note/delivery-challan-DC-007.jpg,Dataset/Delivery_Note/delivery-challan-DC-008.jpg,3,True
+Dataset/Delivery_Note/delivery-challan-DC-004.jpg,Dataset/Delivery_Note/delivery-challan-DC-009.jpg,6,True
+Dataset/Delivery_Note/delivery-challan-DC-005.jpg,Dataset/Delivery_Note/delivery-challan-DC-009.jpg,2,True
+Dataset/Delivery_Note/delivery-challan-DC-006.jpg,Dataset/Delivery_Note/delivery-challan-DC-009.jpg,6,True
+Dataset/Delivery_Note/delivery-challan-DC-007.jpg,Dataset/Delivery_Note/delivery-challan-DC-009.jpg,2,True
+Dataset/Delivery_Note/delivery-challan-DC-008.jpg,Dataset/Delivery_Note/delivery-challan-DC-009.jpg,1,True
+Dataset/Delivery_Note/delivery-challan-DC-004.jpg,Dataset/Delivery_Note/delivery-challan-DC-010.jpg,6,True
+Dataset/Delivery_Note/delivery-challan-DC-005.jpg,Dataset/Delivery_Note/delivery-challan-DC-010.jpg,2,True
+Dataset/Delivery_Note/delivery-challan-DC-006.jpg,Dataset/Delivery_Note/delivery-challan-DC-010.jpg,6,True
+Dataset/Delivery_Note/delivery-challan-DC-007.jpg,Dataset/Delivery_Note/delivery-challan-DC-010.jpg,2,True
+Dataset/Delivery_Note/delivery-challan-DC-008.jpg,Dataset/Delivery_Note/delivery-challan-DC-010.jpg,1,True
+Dataset/Delivery_Note/delivery-challan-DC-009.jpg,Dataset/Delivery_Note/delivery-challan-DC-010.jpg,0,True
+Dataset/Delivery_Note/delivery-challan-DC-005.jpg,Dataset/Delivery_Note/delivery-challan-DC-011.jpg,4,True
+Dataset/Delivery_Note/delivery-challan-DC-007.jpg,Dataset/Delivery_Note/delivery-challan-DC-011.jpg,4,True
+Dataset/Delivery_Note/delivery-challan-DC-008.jpg,Dataset/Delivery_Note/delivery-challan-DC-011.jpg,3,True
+Dataset/Delivery_Note/delivery-challan-DC-009.jpg,Dataset/Delivery_Note/delivery-challan-DC-011.jpg,2,True
+Dataset/Delivery_Note/delivery-challan-DC-010.jpg,Dataset/Delivery_Note/delivery-challan-DC-011.jpg,2,True
+Dataset/Delivery_Note/delivery-challan-DC-005.jpg,Dataset/Delivery_Note/delivery-challan-DC-012.jpg,6,True
+Dataset/Delivery_Note/delivery-challan-DC-007.jpg,Dataset/Delivery_Note/delivery-challan-DC-012.jpg,6,True
+Dataset/Delivery_Note/delivery-challan-DC-009.jpg,Dataset/Delivery_Note/delivery-challan-DC-012.jpg,6,True
+Dataset/Delivery_Note/delivery-challan-DC-010.jpg,Dataset/Delivery_Note/delivery-challan-DC-012.jpg,6,True
+Dataset/Delivery_Note/delivery-challan-DC-011.jpg,Dataset/Delivery_Note/delivery-challan-DC-012.jpg,6,True
+Dataset/Delivery_Note/delivery-challan-DC-005.jpg,Dataset/Delivery_Note/delivery-challan-DC-013.jpg,5,True
+Dataset/Delivery_Note/delivery-challan-DC-007.jpg,Dataset/Delivery_Note/delivery-challan-DC-013.jpg,5,True
+Dataset/Delivery_Note/delivery-challan-DC-012.jpg,Dataset/Delivery_Note/delivery-challan-DC-013.jpg,3,True
+Dataset/Delivery_Note/delivery-challan-DC-004.jpg,Dataset/Delivery_Note/delivery-challan-DC-014 (1).jpg,6,True
+Dataset/Delivery_Note/delivery-challan-DC-005.jpg,Dataset/Delivery_Note/delivery-challan-DC-014 (1).jpg,4,True
+Dataset/Delivery_Note/delivery-challan-DC-006.jpg,Dataset/Delivery_Note/delivery-challan-DC-014 (1).jpg,6,True
+Dataset/Delivery_Note/delivery-challan-DC-009.jpg,Dataset/Delivery_Note/delivery-challan-DC-014 (1).jpg,6,True
+Dataset/Delivery_Note/delivery-challan-DC-010.jpg,Dataset/Delivery_Note/delivery-challan-DC-014 (1).jpg,6,True
+Dataset/Delivery_Note/delivery-challan-DC-011.jpg,Dataset/Delivery_Note/delivery-challan-DC-014 (2).jpg,6,True
+Dataset/Delivery_Note/delivery-challan-DC-012.jpg,Dataset/Delivery_Note/delivery-challan-DC-014 (2).jpg,2,True
+Dataset/Delivery_Note/delivery-challan-DC-013.jpg,Dataset/Delivery_Note/delivery-challan-DC-014 (2).jpg,5,True
+Dataset/Delivery_Note/delivery-challan-DC-001.jpg,Dataset/Delivery_Note/delivery-challan-DC-014 (3).jpg,4,True
+Dataset/Delivery_Note/delivery-challan-DC-004.jpg,Dataset/Delivery_Note/delivery-challan-DC-014 (3).jpg,5,True
+Dataset/Delivery_Note/delivery-challan-DC-006.jpg,Dataset/Delivery_Note/delivery-challan-DC-014 (3).jpg,5,True
+Dataset/Delivery_Note/delivery-challan-DC-013.jpg,Dataset/Delivery_Note/delivery-challan-DC-014 (3).jpg,6,True
+Dataset/Delivery_Note/delivery-challan-DC-007.jpg,Dataset/Delivery_Note/delivery-challan-DC-014.jpg,6,True
+Dataset/Delivery_Note/delivery-challan-DC-012.jpg,Dataset/Delivery_Note/delivery-challan-DC-014.jpg,2,True
+Dataset/Delivery_Note/delivery-challan-DC-013.jpg,Dataset/Delivery_Note/delivery-challan-DC-014.jpg,3,True
+Dataset/Delivery_Note/delivery-challan-DC-014 (2).jpg,Dataset/Delivery_Note/delivery-challan-DC-014.jpg,4,True
+Dataset/Delivery_Note/packing-slip-1064.png,Dataset/Delivery_Note/packing-slip-1079.png,5,True
+Dataset/Delivery_Note/packing-slip-1064.png,Dataset/Delivery_Note/packing-slip-1087.png,0,True
+Dataset/Delivery_Note/packing-slip-1079.png,Dataset/Delivery_Note/packing-slip-1087.png,5,True
+Dataset/Delivery_Note/packing-slip-1064.png,Dataset/Delivery_Note/packing-slip-1094.png,4,True
+Dataset/Delivery_Note/packing-slip-1079.png,Dataset/Delivery_Note/packing-slip-1094.png,1,True
+Dataset/Delivery_Note/packing-slip-1087.png,Dataset/Delivery_Note/packing-slip-1094.png,4,True
+Dataset/Delivery_Note/packing-slip-1064.png,Dataset/Delivery_Note/packing-slip-1111.png,4,True
+Dataset/Delivery_Note/packing-slip-1079.png,Dataset/Delivery_Note/packing-slip-1111.png,3,True
+Dataset/Delivery_Note/packing-slip-1087.png,Dataset/Delivery_Note/packing-slip-1111.png,4,True
+Dataset/Delivery_Note/packing-slip-1094.png,Dataset/Delivery_Note/packing-slip-1111.png,2,True
+Dataset/Delivery_Note/packing-slip-1064.png,Dataset/Dataset-2/Delivery note challan/IMG_0943.HEIC,6,True
+Dataset/Delivery_Note/packing-slip-1087.png,Dataset/Dataset-2/Delivery note challan/IMG_0943.HEIC,6,True
+Dataset/Delivery_Note/delivery-challan-DC-005.jpg,Dataset/Dataset-2/Delivery note challan/IMG_0951.HEIC,6,True
+Dataset/Delivery_Note/delivery-challan-DC-009.jpg,Dataset/Dataset-2/Delivery note challan/IMG_0951.HEIC,6,True
+Dataset/Delivery_Note/delivery-challan-DC-010.jpg,Dataset/Dataset-2/Delivery note challan/IMG_0951.HEIC,6,True
+Dataset/Delivery_Note/delivery-challan-DC-001.jpg,Dataset/Dataset-2/Delivery note challan/IMG_0952.HEIC,5,True
+Dataset/Delivery_Note/delivery-challan-DC-004.jpg,Dataset/Dataset-2/Delivery note challan/IMG_0952.HEIC,6,True
+Dataset/Delivery_Note/delivery-challan-DC-005.jpg,Dataset/Dataset-2/Delivery note challan/IMG_0952.HEIC,6,True
+Dataset/Delivery_Note/delivery-challan-DC-006.jpg,Dataset/Dataset-2/Delivery note challan/IMG_0952.HEIC,6,True
+Dataset/Delivery_Note/packing-slip-1079.png,Dataset/Dataset-2/Delivery note challan/IMG_0952.HEIC,6,True
+Dataset/Dataset-2/Delivery note challan/IMG_0950.HEIC,Dataset/Dataset-2/Delivery note challan/IMG_0952.HEIC,5,True
+Dataset/Dataset-2/Delivery note challan/IMG_0952.HEIC,Dataset/Dataset-2/Delivery note challan/IMG_0953.HEIC,5,True
+Dataset/Delivery_Note/delivery-challan-DC-001.jpg,Dataset/Dataset-2/Delivery note challan/IMG_0954.HEIC,6,True
+Dataset/Delivery_Note/packing-slip-1079.png,Dataset/Dataset-2/Delivery note challan/IMG_0954.HEIC,5,True
+Dataset/Delivery_Note/packing-slip-1094.png,Dataset/Dataset-2/Delivery note challan/IMG_0954.HEIC,6,True
+Dataset/Dataset-2/Delivery note challan/IMG_0943.HEIC,Dataset/Dataset-2/Delivery note challan/IMG_0954.HEIC,6,True
+Dataset/Dataset-2/Delivery note challan/IMG_0950.HEIC,Dataset/Dataset-2/Delivery note challan/IMG_0954.HEIC,4,True
+Dataset/Dataset-2/Delivery note challan/IMG_0952.HEIC,Dataset/Dataset-2/Delivery note challan/IMG_0954.HEIC,1,True
+Dataset/Dataset-2/Delivery note challan/IMG_0953.HEIC,Dataset/Dataset-2/Delivery note challan/IMG_0954.HEIC,6,True
+Dataset/Delivery_Note/packing-slip-1064.png,Dataset/Dataset-2/Delivery note challan/IMG_0956.HEIC,5,True
+Dataset/Delivery_Note/packing-slip-1079.png,Dataset/Dataset-2/Delivery note challan/IMG_0956.HEIC,4,True
+Dataset/Delivery_Note/packing-slip-1087.png,Dataset/Dataset-2/Delivery note challan/IMG_0956.HEIC,5,True
+Dataset/Delivery_Note/packing-slip-1094.png,Dataset/Dataset-2/Delivery note challan/IMG_0956.HEIC,5,True
+Dataset/Dataset-2/Delivery note challan/IMG_0952.HEIC,Dataset/Dataset-2/Delivery note challan/IMG_0956.HEIC,6,True
+Dataset/Dataset-2/Delivery note challan/IMG_0954.HEIC,Dataset/Dataset-2/Delivery note challan/IMG_0956.HEIC,5,True
+Dataset/Delivery_Note/packing-slip-1064.png,Dataset/Dataset-2/Delivery note challan/IMG_0957.HEIC,4,True
+Dataset/Delivery_Note/packing-slip-1087.png,Dataset/Dataset-2/Delivery note challan/IMG_0957.HEIC,4,True
+Dataset/Dataset-2/Delivery note challan/IMG_0943.HEIC,Dataset/Dataset-2/Delivery note challan/IMG_0957.HEIC,6,True
+Dataset/Dataset-2/Delivery note challan/IMG_0956.HEIC,Dataset/Dataset-2/Delivery note challan/IMG_0957.HEIC,3,True
+Dataset/Delivery_Note/packing-slip-1064.png,Dataset/Dataset-2/Delivery note challan/IMG_0958.HEIC,4,True
+Dataset/Delivery_Note/packing-slip-1079.png,Dataset/Dataset-2/Delivery note challan/IMG_0958.HEIC,5,True
+Dataset/Delivery_Note/packing-slip-1087.png,Dataset/Dataset-2/Delivery note challan/IMG_0958.HEIC,4,True
+Dataset/Delivery_Note/packing-slip-1094.png,Dataset/Dataset-2/Delivery note challan/IMG_0958.HEIC,6,True
+Dataset/Dataset-2/Delivery note challan/IMG_0943.HEIC,Dataset/Dataset-2/Delivery note challan/IMG_0958.HEIC,6,True
+Dataset/Dataset-2/Delivery note challan/IMG_0950.HEIC,Dataset/Dataset-2/Delivery note challan/IMG_0958.HEIC,6,True
+Dataset/Dataset-2/Delivery note challan/IMG_0952.HEIC,Dataset/Dataset-2/Delivery note challan/IMG_0958.HEIC,5,True
+Dataset/Dataset-2/Delivery note challan/IMG_0954.HEIC,Dataset/Dataset-2/Delivery note challan/IMG_0958.HEIC,4,True
+Dataset/Dataset-2/Delivery note challan/IMG_0956.HEIC,Dataset/Dataset-2/Delivery note challan/IMG_0958.HEIC,3,True
+Dataset/Dataset-2/Delivery note challan/IMG_0957.HEIC,Dataset/Dataset-2/Delivery note challan/IMG_0958.HEIC,4,True
