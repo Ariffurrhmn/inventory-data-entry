@@ -1,0 +1,8 @@
+{
+  "model_run": "printed_v1_minilm",
+  "method": "Fixed-model token-block omission with exact score differences, plus deterministic heading trace",
+  "model_fitted": false,
+  "samples": "All five previously recorded validation errors plus first heading-selected validation record",
+  "explain_code_sha256": "37270c0c196ec75c45579e32cc0228df81c97cab4cff0c44b017838b2e272585",
+  "historical_test_inputs_opened": 0
+}

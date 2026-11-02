@@ -1,0 +1,15 @@
+{
+  "sample_id": "srd_1140-receipt",
+  "image_path": "Dataset\\intake\\2026-10-19\\expressexpense_srd\\images\\1140-receipt.jpg",
+  "image_sha256": "c653f7caddf1574517249c2fd6071cb9b14196c5c5f08c29d82b59c591e196fa",
+  "full_text": "SHAKE SHACK\r\n1450 S. Dixie Highway\r\nHost: Nelson\r\n12 A=\r\nShackBurger\r\nSmoke Shack\r\n\r\ncheese fries\r\n\r\nREG Soda (2 62.73)\r\n(2)REG Rootbeer\r\n\r\nREG Iced Tea\r\n\r\nSubtotal\r\nTax\r\n\r\nTo Stay Total\r\n\r\nVisa #EXXXXXXXXXAXXS197\r\nAuth: 130960\r\n\r\nWe Tweet.\r\nYou Tweet.\r\n@ShakeShack\r\n\r\nFT Lo AP\r\n= pil Ed\r\nnL\r\n\r\nTE hala\r\ni ton ah mb\r\nTREE\r\n\r\nMN\r\n\r\nI\r\nBe\r\n\r\n0\r\n}\r\n\r\n5.4\r\n\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

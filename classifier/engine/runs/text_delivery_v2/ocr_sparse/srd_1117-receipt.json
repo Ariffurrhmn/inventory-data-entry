@@ -1,0 +1,13 @@
+{
+  "sample_id": "srd_1117-receipt",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "d8bf0339a7187fc6683298ed74f1a7c51b38da663190fce20c0dee69789ca7a6",
+  "full_text": "ou\r\n\r\n« An\r\n\r\nCod)\r\n\r\nPANES\r\n\r\ny\r\n\r\nKOBE JA\r\n\r\n9838\r\n\r\nPARRY 113\r\n\r\nRANCHO M\r\n\r\nIRAGE . CA.\r\n\r\n760-324\r\n\r\nLE 2831\r\n\r\nS\r\n\r\nUH\r\n\r\nSale\r\n\r\nvooooood TT\r\n\r\nHE\r\n\r\nEntry Method: Chip\r\n\r\nAmount: $\r\n\r\n158.07\r\n\r\nTip:\r\n\r\n00\r\n\r\nE— SE\r\n\r\n———\r\n\r\nTotal:\r\n\r\n—_ Ct\r\n\r\n57\r\n\r\nWA\r\n\r\nInv H: 00A00061\r\n\r\nfopr Codes B30.\r\n\r\nApr: Online\r\n\r\n¥\r\n\r\nVI4 DEBIT\r\n\r\nAID: ANDO0A0G31010\r\n\r\nTUR: 80 80 00 800\r\n\r\n191: 80d\r\n\r\nS, wr\r\n\r\nCustomer Copy\r\n",
+  "status": "unreviewed_OCR_output"
+}

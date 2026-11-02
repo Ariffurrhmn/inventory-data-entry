@@ -1,0 +1,27 @@
+{
+  "sample_id": "srd_1013-receipt",
+  "image_sha256": "1b194784844014873be7a421665d207b44312a42399bb2510a043b679c758052",
+  "views": {
+    "full": "ALBETOS\r\nMEXICAN FOOD\r\n11730 ARTESIA BLVD.\r\nARTESIA, CA.\r\nPh: (562) 860-2530\r\nPHONE ORDERS WELCOME\r\nORDER # 01029\r\n3 ASADA TACO wh\r\nATH CHARGE A\r\nSUBTOTAL\r\nTAX TOTAL : Sa\r\nTOTAL 1 BE\r\nATH STE\r\nRECALL 636\r\n",
+    "top_-12": "ALBETDS\r\n\r\nCc\r\n\r\n11732 4\r\n\r\noop\r\n\r\nTESIA B\r\n\r\nLID,\r\n\r\nARTEST\r\n\r\n! '\r\n\r\n62) 860\r\n\r\n~2530\r\n\r\nPHONE 0\r\n\r\nRDER\r\n\r\nELCOME\r\n",
+    "top_0": "ALBETOS\r\n\r\nMEXICAN FOOD\r\n\r\n11732 ARTESIA BLVD.\r\n\r\nARTESIA, CA.\r\n\r\nPh: (562) 860-2530\r\n\r\nPHONE ORDERS WELCOME\r\n",
+    "top_12": "o0V\r\n\r\nNEN RIESIR Bub:\r\n\r\nLY\r\n\r\n30\r\n\r\nA\r\n\r\n) 2\r\n\r\n0-18\r\n\r\nCOME\r\n\r\npiv\r\n\r\ng WEL\r\n\r\n\\\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

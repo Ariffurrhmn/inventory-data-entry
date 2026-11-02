@@ -1,0 +1,27 @@
+{
+  "sample_id": "334d0ebf3186",
+  "image_sha256": "ce2322e6ef6b6bb1d64ca4d6cff12988dddc8369139e0bf90bf3e578a1f08174",
+  "views": {
+    "full": "AVERT Y |\r\nFIOTSHINE\"\r\nCAR WASH & LUBE CENTERS\r\nMister Car Wash 002/102\r\n1038 Gessner Rd D\r\nHouston, TX 77099\r\n113-461-0541 ‘a\r\n002-WCash2, 02/20/16, 04:39 PM\r\nShift 1, Empl 1539, Sale # 73583514882\r\n1 Final Touch 39.99 |\r\n1 Dissolve-All 20.00\r\n1 Lube Wash Coupon# -13.99\r\n(Lube Free Wash,Bal: 0)\r\nSubtotal 46.00 «\r\nSales Tax 0.00\r\nTotal 46.00\r\nAMEX X2526 46.00\r\n(Sale Appr # 344020:284179)\r\n(Merchant # 196026) Ab\r\nCar# 630\r\nCustomer# DCN3468-TX\r\n",
+    "top_-12": "od.\r\n\r\nAvo\r\n\r\nAR Wag\r\n\r\nIster\r\n\r\nENTER\r\n\r\n103\r\n\r\n8 Ge\r\n\r\nash 00\r\n\r\n2/107\r\n\r\nHous\r\n\r\nton\r\n\r\nSher p\r\n\r\n77055\r\n\r\nme TT 713-45.\r\n\r\n~ - - -\r\n\r\n34\r\n\r\n\"a - -\r\n\r\nCTT 'q\r\n",
+    "top_0": "IVIDIDGE\r\n\r\nFOTSHINE\r\n\r\nCAR WASH & LUBE CENTERS\r\n\r\nMister Car Wash 002/102\r\n\r\n1038 Gessner Rd\r\n\r\nHouston, TX 77099\r\n\r\na\r\n\r\n713-461-0541\r\n\r\nBRM CS GN AR Me G8 MS A mm Sr Ee Se I ER GS Se Ge ED We mE GE TR WE SP Gee a Ge We Me SE EE GE RS we we =\r\n\r\n—_ —\r\n\r\n—- am\r\n",
+    "top_12": "ILA\r\n\r\nrs\r\n\r\nCENT ERS\r\n\r\ncar WA\r\n\r\n002/10\r\n\r\nwister\r\n\r\na\r\n\r\n3p Gest\r\n\r\nT1090\r\n\r\n--\r\n\r\nHouston\r\n\r\n1-058\r\n\r\n.-\r\n\r\n. - ov\r\n\r\nJE —-\r\n\r\nmem [pl\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

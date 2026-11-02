@@ -1,0 +1,15 @@
+{
+  "sample_id": "srd_1053-receipt",
+  "image_path": "Dataset\\intake\\2026-10-19\\expressexpense_srd\\images\\1053-receipt.jpg",
+  "image_sha256": "aacbcc4b2f00348940e0b3934ab308bd9a3fb442c91c1950147c196c22793554",
+  "full_text": "Primo\r\n\r\nFamily Restaurant\r\n\r\nServer:\r\nTable No:\r\nDheck No\r\n\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

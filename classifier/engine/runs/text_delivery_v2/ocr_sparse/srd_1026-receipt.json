@@ -1,0 +1,13 @@
+{
+  "sample_id": "srd_1026-receipt",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "ff9e140a19dd1915f3a329a11046cfb6ca7ddf82980fa8caf3289f0617d91547",
+  "full_text": "pp\r\n\r\nrr\r\n\r\ntm ore tine mia bm\r\n\r\nve a\r\n\r\n[respee\r\n\r\n200,\r\n\r\n-\r\n\r\n”~\r\n\r\ni\r\n\r\nTil\r\n\r\ni.\r\n\r\ni\r\n\r\nit\r\n\r\nie\r\n\r\nhes\r\n\r\nfri\r\n\r\n1\r\n\r\nwh\r\n\r\nY\r\n\r\n1}\r\n\r\ntr\r\n\r\n.y\r\n\r\nTigo\r\n\r\nfd\r\n\r\n\"\r\n\r\nie\r\n\r\np-\r\n\r\nif\r\n\r\nWid\r\n\r\nii\r\n\r\ni\r\n\r\nid\r\n\r\n+3\r\n\r\n-—\r\n\r\n16\r\n\r\n0\r\n\r\nAE\r\n\r\na\r\n\r\n7\r\n\r\nSoS\r\n\r\nor\r\n\r\nA\r\n\r\n54\r\n\r\nNn\r\n\r\n7\r\n\r\nx\r\n\r\n-\r\n\r\npa—\r\n\r\n+1\r\n\r\nr~\r\n\r\n{i\r\n\r\n2\r\n\r\nsd\r\n\r\n9,\r\n\r\nL\r\n\r\nof\r\n\r\nba\r\n\r\na\r\n\r\nAr\r\n\r\n-~\r\n\r\n1)\r\n\r\nad\r\n\r\n[32\r\n\r\nx\r\n\r\n13h\r\n\r\nhis\r\n\r\nwy\r\n\r\nlia\r\n\r\nJA\r\n\r\nERT\r\n",
+  "status": "unreviewed_OCR_output"
+}

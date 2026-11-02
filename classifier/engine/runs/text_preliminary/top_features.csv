@@ -1,0 +1,61 @@
+label,feature,coefficient
+customer_copy,word__customer,0.411009857858307
+customer_copy,word__invoice,0.33235609579893605
+customer_copy,char__ q ,0.3107643342519866
+customer_copy,char__ § ,0.3051962250537306
+customer_copy,word__copy,0.2984594209581502
+customer_copy,word__tk,0.2901057816513371
+customer_copy,char__ s ,0.2806429471866241
+customer_copy,word__inv,0.27338837524842097
+customer_copy,char__ o ,0.2715819347539149
+customer_copy,word__customer copy,0.2663835862240882
+customer_copy,word__no inv,0.25128102736836844
+customer_copy,word__invoice no,0.25128102736836844
+customer_copy,char__ ® ,0.22860242834030534
+customer_copy,char__mer,0.21191486392782216
+customer_copy,word__to customer,0.20078226086344317
+delivery_note,word__challan,0.27459598670519497
+delivery_note,word__description hsn,0.21978498864846707
+delivery_note,word__hsn sac,0.21929034451989488
+delivery_note,word__hsn,0.21929034451989488
+delivery_note,word__sac,0.21929034451989488
+delivery_note,word__road,0.21428797883966522
+delivery_note,word__00,0.20627031972464635
+delivery_note,word__purpose,0.19731084227085685
+delivery_note,word__000 00,0.18518851891792038
+delivery_note,word__delivery,0.17850107810060692
+delivery_note,word__description,0.17099742225381367
+delivery_note,word__no dc,0.1694209164944807
+delivery_note,word__dc,0.1694209164944807
+delivery_note,word__kolkata,0.1677923128520547
+delivery_note,word__abc,0.16552761587700007
+purchase_order,word__order,0.5241742809757379
+purchase_order,word__purchase,0.3468624154393236
+purchase_order,word__purchase order,0.3468624154393236
+purchase_order,word__by,0.3448567489083654
+purchase_order,word__oct,0.2973794482664606
+purchase_order,word__to,0.27802468670356745
+purchase_order,word__2026,0.2752300659265318
+purchase_order,word__dhaka,0.25216617852266565
+purchase_order,char__ ord,0.2401817834464085
+purchase_order,char__rder,0.23880207753984517
+purchase_order,char__ orde,0.23880207753984517
+purchase_order,char__rder ,0.23880207753984517
+purchase_order,char__rde,0.23880207753984517
+purchase_order,char__orde,0.23880207753984517
+purchase_order,char__order,0.23880207753984517
+receipt,word__000,0.42980065368834414
+receipt,char__000 ,0.32398837266389835
+receipt,"char__,000 ",0.28674292102959265
+receipt,char__000,0.2182388533183686
+receipt,word__cash,0.21143431995432782
+receipt,word__000 000,0.2037926304502277
+receipt,word__on,0.18419179491811047
+receipt,word__500 24,0.17853935271410615
+receipt,word__24 500,0.17853935271410615
+receipt,char__ 000,0.16783031825505607
+receipt,word__disc item,0.1650025186066241
+receipt,word__disc,0.1650025186066241
+receipt,word__item amount,0.1650025186066241
+receipt,word__000 service,0.157608148333507
+receipt,word__tin,0.15758049120850376

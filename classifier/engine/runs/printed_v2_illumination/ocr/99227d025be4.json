@@ -1,0 +1,27 @@
+{
+  "sample_id": "99227d025be4",
+  "image_sha256": "df997f699539a7fbd3a07bbe7bebff781b14e7f5fcc485c783da49892fcf6484",
+  "views": {
+    "full": "Mtskaadiadabbg AV TIAN TIAL TUN TT TYTN\r\nb ¥\r\nA\r\n!\r\nLOE ake\r\n¥ bid pa Bes i EP\r\nme Ba PRT AL SEE TI\r\nkanal i\r\nLai 4\r\n1 A Chicken 21.000\r\nMonster L\r\ntA +Cheese\r\nSubtotal 21.000\r\nCASH oy or\r\nKembalian glam\r\nwe ®t wi 1\r\n- ow wo\r\n",
+    "top_-12": "-\r\n\r\n~\r\n\r\nSe\r\n\r\ni\r\n\r\n- a,\r\n\r\nCh BN\r\n\r\n~~.\r\n\r\nhl\r\n\r\nLa’\r\n\r\nie\r\n\r\nLL)\r\n\r\n*\r\n\r\n‘e\r\n",
+    "top_0": "- mmr im\r\n\r\n[EE\r\n\r\nhE of\r\n\r\nTE Wa \"Ry\r\n\r\nr 4\r\n\r\n\"\r\n\r\n—\r\n\r\nL)\r\n\r\n- oe\r\n\r\n®\r\n\r\nLJ\r\n\r\nsid\r\n\r\nert\r\n\r\n“»\r\n\r\nwe\r\n\r\n“\r\n\r\n4+ 0\r\n",
+    "top_12": "- Pr\r\n\r\n--\r\n\r\nPE\r\n\r\n-\r\n\r\n- ek ~\r\n\r\nRY\r\n\r\n. a\r\n\r\na.\r\n\r\na °v\r\n\r\nIt\r\n\r\n& 1]\r\n\r\n[ll\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

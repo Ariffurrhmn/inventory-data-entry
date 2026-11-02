@@ -1,0 +1,89 @@
+{
+  "sample_id": "11d42d9168f2",
+  "actual_existing_label": "customer_copy",
+  "result": {
+    "decision_trace": {
+      "selected_component": "printed_heading",
+      "heading_matches": [
+        "customer_copy"
+      ],
+      "ambiguous_heading": false,
+      "normalized_heading_evidence": "CUSTOMER COPY",
+      "learned_top_class": "delivery_note",
+      "learned_alternative_class": "customer_copy",
+      "learned_score_margin": 0.05498699200293866,
+      "scores_calibrated": false,
+      "rule": {
+        "kind": "exact_heading",
+        "evidence": "CUSTOMER COPY",
+        "matched_terms": [
+          "CUSTOMER COPY"
+        ],
+        "ocr_section_index": -1
+      },
+      "explanation_method": "Deterministic rule trace or exact n-gram contributions; transformers use fixed-model text omissions"
+    },
+    "label": "customer_copy",
+    "decision_source": "printed_heading",
+    "heading_evidence": "CUSTOMER COPY",
+    "ambiguous_heading": false,
+    "statistical_label": "delivery_note",
+    "scores_kind": "statistical_fallback_scores",
+    "scores": {
+      "customer_copy": 0.2884840583696689,
+      "delivery_note": 0.34347105037260756,
+      "purchase_order": 0.2340624597781899,
+      "receipt": 0.13398243147953703
+    },
+    "scores_calibrated": false,
+    "ocr_empty": false,
+    "text_characters": 360,
+    "input_origin": "provided_text",
+    "ocr_text": "~ Karnaphuli Traders\r\n\r\nInvoice\r\n\r\nInvoice No: INV-9869. Date: 06/07/2026. |\r\n\r\nBill To / Customer: Green Leaf Mart, Badda, Dhaka. |\r\n\r\nItem Qty Rate (Tk)  Asount (Tk) |\r\n' Miniket Rice 25kg 10 Tk 1,850 Tk 18,500 |\r\n\"Milk Powder 500g 10 Tk 420 Tk 4,200 |\r\n| Atta 2g 10 Tk 130 Tk 1,300\r\n| Toothpaste 100g 4 Tk 120 Tk 480\r\nTotal: Tk 24,480.\r\n\"Authorised Signature i\r\n| CUSTOMER COPY\r\n",
+    "heading_ocr_text": "Karnaphuli Traders\r\n\r\nInvoice\r\n\r\n~~\r\n\r\nInvoice No: INV-9869. Date: 06/07/2026\r\n\r\nBill To / Customer: Green Leaf Mart, Badda, Dhaka.\r\n\r\n——\r\n\r\n]\r\n\r\nItem\r\n\r\n7\r\n\r\nQty\r\n\r\nRate (Tk)\r\n\r\nAmount (Tk)\r\n\r\nS.A Ae A ——\r\n\r\n10\r\n\r\nMiniket Rice 25kg\r\n\r\nTk 1,850\r\n\r\nTk 18,500\r\n\r\nMilk Powder 500g\r\n\r\n10\r\n\r\nTk 420\r\n\r\nTk 4,200\r\n\r\n®\r\n\r\n10\r\n\r\nTk 130\r\n\r\non\r\n\r\n5\r\n\r\nTk 1,300\r\n\r\niE;\r\n\r\nfa\r\n\r\nel\r\n\r\nFa\r\n\r\nRU\r\n\r\nTk\r\n\r\n480\r\n\r\nTk 120\r\n\r\n-\r\n\r\n-———\r\n\r\na\r\n\r\n8\r\n\r\nFf\r\n\r\n2)\r\n\r\nLe\r\n\r\n24,480\r\n\r\n2\r\n\r\na\r\n\r\nhe\r\n\r\n-——\r\n\r\nSY\r\n\r\nGt\r\n\r\ni\r\n\r\n=\r\n\f~ Karnaphuli Traders\r\n\r\nInvoice\r\n\r\nInvoice No: INV-9869. Date: 06/07/2026.\r\nBill To / Customer: Green Leaf Mart, Badda, Dhaka.\r\n\nTotal: Tk 24,480.\r\n\"Authorised Signature\r\nCUSTOMER COPY\r\n\f~ Karnaphuli Traders\r\n\r\nInvoice\r\n\r\nInvoice No: INV-9869. Date: 06/07/2026. |\r\n\r\nBill To / Customer: Green Leaf Mart, Badda, Dhaka. |\r\n\r\nItem Qty Rate (Tk)  Asount (Tk) |\r\n' Miniket Rice 25kg 10 Tk 1,850 Tk 18,500 |\r\n\"Milk Powder 500g 10 Tk 420 Tk 4,200 |\r\n| Atta 2g 10 Tk 130 Tk 1,300\r\n| Toothpaste 100g 4 Tk 120 Tk 480\r\nTotal: Tk 24,480.\r\n\"Authorised Signature i\r\n| CUSTOMER COPY\r\n\f1\r\n\r\narp\r\n\r\nIny\r\n\r\naphy] ;\r\n\r\n1c\r\n\r\nTradep,\r\n\r\nad TO ~.\r\n\r\ni\r\n\r\nInvojeg\r\n\r\nor\r\n\r\nnL\r\n\r\n11] To\r\n\r\nust\r\n\r\na:\r\n\r\nTe.\r\n\r\n06/07/2095 TT\r\n\r\nnd TO\r\n\r\nTie\r\n\r\npl rt, Badg, Dhay,\r\n\r\nEa\r\n\r\nRate (ry) Ch\r\n\r\nTe t——\r\n\r\nen. front (Tk)\r\n\r\n———\r\n\fKarnaphuli Traders\r\n\r\nInvoice\r\n\r\nOr a DE PY CVD ET A EY SD EE ES ND ER Ss EES PY SD EE AY SY ED AD ay eS ED\r\n\r\nInvoice No: INV-9869. Date: 06/07/2026.\r\n\r\nBill To / Customer: Green Leaf Mart, Badda, Dhaka.\r\n\r\nDm ED TR TED DE = nD ED Gn Gh EE Gh CE ES Th Wh Ee Ee TD GE DE ED an\r\n\r\nItem\r\n\r\nQty\r\n\r\nRate (Tk)\r\n\r\nAmount (Tk)\r\n\r\nJ\r\n\r\nAD LTD A SL A DC DL 0 HD D-DD\r\n\fi\r\n\r\n--\r\n\r\n-—\r\n\r\n. Karnaph\r\n\r\n-\r\n\r\n-—\r\n\r\npm\"\r\n\r\nny\r\n\r\nplce\r\n\r\n———\r\n\r\nmem\" La\r\n\r\n06/01!\r\n\r\n2076\r\n\r\nJE wy-9862 .\r\n\r\n--\r\n\r\ninvoice N\r\n\r\n|ea Wart,\r\n\r\nee\"\r\n\r\n—— o\r\n\r\nJP La\r\n\r\nour (TO\r\n\r\npill\r\n\r\nTo / ustomet\r\n\r\n———\r\n\r\nmee\"\r\n\r\n—-— pm\r\n\r\navy\r\n\r\nate TW)\r\n\r\nJEP\r\n\r\nJa\r\n\r\nET NC\r\n\r\nmmm\"\r\n",
+    "validation_only": true,
+    "run": "printed_v3_explainable",
+    "model": "classifier",
+    "backend": "complement_nb",
+    "model_sha256": "bd1dba65eb03c3f2282697a502400794ce754543c5e16150625b73cea62ce0bd",
+    "scope_version": "printed-only-v1",
+    "ocr_policy": "illumination",
+    "heading_rules": true,
+    "edge_recovery": true,
+    "classes": [
+      "purchase_order",
+      "receipt",
+      "delivery_note",
+      "customer_copy"
+    ],
+    "experimental": true,
+    "heading_module": "heading_rules_v3",
+    "illumination_recovery": true
+  },
+  "explanation": {
+    "label": "customer_copy",
+    "decision_source": "printed_heading",
+    "model_run": "printed_v3_explainable",
+    "scores_calibrated": false,
+    "method": "deterministic_heading_trace",
+    "rule": {
+      "kind": "exact_heading",
+      "evidence": "CUSTOMER COPY",
+      "matched_terms": [
+        "CUSTOMER COPY"
+      ],
+      "ocr_section_index": -1
+    },
+    "normalized_matched_text": "CUSTOMER COPY",
+    "matched_classes": [
+      "customer_copy"
+    ],
+    "ambiguous": false,
+    "learned_fallback_label": "delivery_note",
+    "reason": "The unique matched printed-text rule selected the class. The learned model did not determine the final label.",
+    "limitations": [
+      "This explains the decision rule, not whether OCR correctly read the source image.",
+      "Heading evidence may come from separate page-region OCR."
+    ]
+  }
+}

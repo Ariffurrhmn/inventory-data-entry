@@ -1,0 +1,13 @@
+{
+  "sample_id": "srd_1090-receipt",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "5f6f454ca153e917635b3e6833219199c8e7c05a45e66b500bae885b5e63310d",
+  "full_text": "FIVE GUYS\r\n\r\nSTORE # CA-1661\r\n\r\n2640 Reynolds Ranch Pkwy\r\n\r\nte 140\r\n\r\nLodi, CA 85240\r\n\r\nPhone (209)\r\n\r\n333-8750\r\n\r\n5/26/2017\r\n\r\n1:08\r\n\r\n17 PM\r\n\r\nOrder 1d: AAAP2FGWAEBP\r\n\r\n47\r\n\r\nFIVE GUYS\r\n\r\nEmployee: Robert C\r\n\r\nAa\r\n\r\n—— ee\r\n\r\n4\r\n\r\n——\r\n\r\nmmm men\r\n\r\n—\r\n\r\nittle Hamburger\r\n\r\n$5.19\r\n\r\nLettuce\r\n\r\n$0.00\r\n\r\nPickles\r\n\r\n$0.\r\n\r\nTomatoes\r\n\r\n$0.00\r\n\r\nGrilled Onions\r\n\r\n$0.00\r\n\r\nGrilled Mushrooms\r\n\r\n$0.00\r\n\r\nMustard\r\n\r\n$0.00\r\n\r\nKetchup\r\n\r\n$0.00\r\n\r\nJalapeno Peppers\r\n\r\n$0.00\r\n\r\n2 Large Fry (85.79)\r\n\r\n$11.56\r\n\r\n1 Large Soda\r\n\r\n$2.9\r\n\r\n1 Cheeseburger\r\n\r\n$7.\r\n\r\n8\r\n\r\n$0.00\r\n\r\nMayo\r\n\r\nLettuce\r\n\r\n$0.00\r\n\r\nPickles\r\n\r\n$0.00\r\n\r\nBBQ Sauce\r\n\r\n$0.00\r\n\r\nA\r\n\r\n1 Regular Soda\r\n\r\n$2.70\r\n\r\nSub Total\r\n\r\n$30.31\r\n\r\nSales Tax\r\n\r\n$2.35\r\n\r\nOrder Total\r\n\r\n$32.66\r\n\r\nMasterCard\r\n\r\nOy\r\n\r\na\r\n\r\n$32.66\r\n\r\nCard#: ssxvsxsrsess293]\r\n\r\nbi\r\n\r\nAuthorization: 728767\r\n\r\nAig\r\n\r\nfe\r\n\r\nOrder Closed <--\r\n\r\nIR\r\n\r\nRE PRT Te pera\r\n\r\n2\r\n\r\n1H\r\n\r\nDon't throw away your receipt\r\n\r\niH\r\n\r\ncould win!\r\n\r\n.COm/Survey\r\n\r\n1 out a brief survey!\r\n\r\n10 lucky people will win a\r\n\r\nve Guys Gift Card each month\r\n\r\nWorth $25 each!\r\n\r\nnecessary\r\n\r\n12/31/2017.\r\n\r\nrs old and\r\n\r\nyeu\r\n\r\n30 days\r\n\r\nenter.\r\n\r\ncom/survey\r\n\r\n{v\r\n\r\nff\r\n\r\nhow to enter\r\n\r\npurchase or\r\n\r\n\"\r\n\r\neting a survey.\r\n\r\nd where prohibited\r\n\r\n7\r\n\r\nfod\r\n\r\nFEE RA EE ix\r\n",
+  "status": "unreviewed_OCR_output"
+}

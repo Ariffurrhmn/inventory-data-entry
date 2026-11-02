@@ -1,0 +1,13 @@
+{
+  "sample_id": "f8a4d08ece59",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "04a83df660cf3484e11296d2598d4167338c39b5c379244a06092634cb826633",
+  "full_text": "#\r\n\r\nDescription\r\n\r\nHSN/SAC\r\n\r\nQty\r\n\r\nRate\r\n\r\nTaxable\r\n\r\nGST %\r\n",
+  "status": "unreviewed_OCR_output"
+}

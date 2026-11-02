@@ -1,0 +1,169 @@
+{
+  "sample_id": "684abec37a2d",
+  "actual_existing_label": "receipt",
+  "result": {
+    "decision_trace": {
+      "selected_component": "learned_fallback",
+      "heading_matches": [],
+      "ambiguous_heading": false,
+      "normalized_heading_evidence": null,
+      "learned_top_class": "receipt",
+      "learned_alternative_class": "delivery_note",
+      "learned_score_margin": 0.3726811907334182,
+      "scores_calibrated": false,
+      "rule": null,
+      "explanation_method": "Deterministic rule trace or exact n-gram contributions; transformers use fixed-model text omissions"
+    },
+    "label": "receipt",
+    "decision_source": "trained_classifier",
+    "heading_evidence": null,
+    "ambiguous_heading": false,
+    "statistical_label": "receipt",
+    "scores_kind": "statistical_fallback_scores",
+    "scores": {
+      "customer_copy": 0.09049673783106495,
+      "delivery_note": 0.2273168575142728,
+      "purchase_order": 0.08218835640696785,
+      "receipt": 0.599998048247691
+    },
+    "scores_calibrated": false,
+    "ocr_empty": false,
+    "text_characters": 742,
+    "input_origin": "provided_text",
+    "ocr_text": "Fl Aste\r\nLy I > |\r\nL — ‘\r\nview wr sr ZZ 20\r\n1 Cai Mieo 15, 800\r\n1 caisim special 15, 800\r\nVi 1 Carsiupau Ayam 22, 800\r\nf 1 1 Fish Glue 27,800\r\n1 Jamur Isi Ayam 32, 800\r\n] 1 Jamur Kuping 21, 800\r\n4 1 Kailan hongkong 15, 800\r\nj 1 Kuah Kaldu Ayam\r\nA 1 Kue Macok 22, 800\r\n1 1 Pangsit Special 27,800\r\nie 1 Sirloin Roll Enoki 34, 800\r\n1 Sutake Kombinasi 31, 800\r\n - 1 Tahu Jepang 10, 800\r\nJ 1 Tahu Sandwidh 26, 800\r\nJd 1 TOM YAM —\r\nF- 8 1 Udon 19,800 4 \\\r\n2 Chines Tea Green Tea 21,600 © JF\r\n: 2 Tahu Isi Ayam 55.600 § Lf\r\nLee 5 Green tea Dingin 84, 000 oo &\r\nEo, 7 Nasi Putih 68. 600 %\r\na 1 Bakso lon NO 5800 alias.\r\n8% ITEMS TOTAL 605,600 §\r\nBd Promo eo 100,000) Be. he\r\nFn EET 505, 600\r\nNia Services 5% 25, 280 |\r\nhing TAX WY eR 53, 088\r\nTOTAL 583, 968 |\r\na BCA MASTER 583, 968\r\n",
+    "heading_ocr_text": "To tn i a\r\n\r\n—\r\n\r\nA mn i sie en i\r\n\r\na mn\r\n\r\nBakpag telur asin\r\n\r\n29, 800\r\n\r\nal\r\n\r\n1e0\r\n\r\n15, 800\r\n\r\ncaisim special\r\n\r\n16, 800\r\n\r\narsiupau Ayam\r\n\r\n15 ue\r\n\r\nJamur\r\n\r\nJamur Isi Ayam\r\n\r\n32, 800\r\n\r\nuping\r\n\r\n21, 800\r\n\r\nKuah Kaldu Ayam\r\n\r\nKailan hongkong\r\n\r\n15, 800\r\n\r\nue Macok\r\n\r\n22, 800\r\n\r\nPangsit Special\r\n\r\nSirloin Roll Enoki\r\n\r\n34, 800\r\n\r\nSutake Kombinasi\r\n\r\n31,800\r\n\r\nanu Jepang\r\n\r\n10, 800\r\n\r\n26, 800\r\n\r\nTon Sandwidh\r\n\r\n19, 800\r\n\r\n2 Ena Tea Green Tea\r\n\r\nTahu Isi\r\n\r\nyan\r\n\r\n21, 600\r\n\r\n5 Green tea Dingin\r\n\r\n55, 600\r\n\r\n7 Nasi Puti\r\n\r\n68, 600\r\n\r\n84, 000\r\n\r\n25, 800\r\n\r\ncer en fe wm es a se\r\n\r\n1 Bakso Ikan\r\n\r\nITEMS TOTAL\r\n\r\n605, 600\r\n\r\nPromo UDB 20%\r\n\r\nsa i\r\n\r\nream\r\n\r\n( 100, 000)\r\n\r\nsa tn ro a ot\r\n\r\nSUBTOTAL\r\n\r\n5085, 600\r\n\r\nServices 5%\r\n\r\n2\r\n\r\n2\r\n\r\na a a er\r\n\r\n4 53, 088\r\n\r\nER\r\n\r\n583. ong\r\n\r\n2 EE om re\r\n\r\n—\r\n\r\n583, 968\r\n\r\nco a en me ms\r\n\r\n—\r\n\r\nEteichond\r\n\r\ngon\r\n\r\non do\r\n\r\nLil\r\n\r\nFT ee nt\r\n\f100 a 0 15, 800\r\n1 caisim special 15, 800\r\n1 Carsiupau Ayam 22, 800\r\n1 Fish Glue 27,800\r\n1 Jamur Isi Avam 22.800\r\n\nITEMS TOTAL 605, 600\r\nSUBTOTAL 508, 600\r\n4 Services 5% 26, 280\r\nAx 0000 53. 088\r\neee ee TR stn eh wv i i\r\nTOTAL 683, 968\r\n\fFl Aste\r\nLy I > |\r\nL — ‘\r\nview wr sr ZZ 20\r\n1 Cai Mieo 15, 800\r\n1 caisim special 15, 800\r\nVi 1 Carsiupau Ayam 22, 800\r\nf 1 1 Fish Glue 27,800\r\n1 Jamur Isi Ayam 32, 800\r\n] 1 Jamur Kuping 21, 800\r\n4 1 Kailan hongkong 15, 800\r\nj 1 Kuah Kaldu Ayam\r\nA 1 Kue Macok 22, 800\r\n1 1 Pangsit Special 27,800\r\nie 1 Sirloin Roll Enoki 34, 800\r\n1 Sutake Kombinasi 31, 800\r\n - 1 Tahu Jepang 10, 800\r\nJ 1 Tahu Sandwidh 26, 800\r\nJd 1 TOM YAM —\r\nF- 8 1 Udon 19,800 4 \\\r\n2 Chines Tea Green Tea 21,600 © JF\r\n: 2 Tahu Isi Ayam 55.600 § Lf\r\nLee 5 Green tea Dingin 84, 000 oo &\r\nEo, 7 Nasi Putih 68. 600 %\r\na 1 Bakso lon NO 5800 alias.\r\n8% ITEMS TOTAL 605,600 §\r\nBd Promo eo 100,000) Be. he\r\nFn EET 505, 600\r\nNia Services 5% 25, 280 |\r\nhing TAX WY eR 53, 088\r\nTOTAL 583, 968 |\r\na BCA MASTER 583, 968\r\n\fPN\r\n\r\nERY\r\n\r\nEL\r\n\r\nTt\r\n\r\nih\r\n\r\nTe\r\n\r\n—\r\n\r\nCai\r\n\r\nHialelur a\r\n\r\na\r\n\r\nCa\r\n\r\nsn\r\n\r\n| Fj\r\n\r\nCa\r\n\r\nts\r\n\r\nup,\r\n\r\nSPecig)\r\n\r\n22\r\n\r\n800\r\n\r\nsh G)\r\n\r\nY Ayam\r\n\r\n15,\r\n\r\n800\r\n\r\nJa\r\n\r\nan\r\n\r\nS]\r\n\r\n5,\r\n\r\n00\r\n\r\n! K3\r\n\r\nil\r\n\r\nMur f,\r\n\r\nPing\r\n\r\nAvan\r\n\r\n22\r\n\r\na0\r\n\r\nNgkon\r\n\r\n27.8\r\n\r\n2, 800\r\n\r\n15\r\n\r\n800\r\n\r\n800\r\n\fpare\r\n\r\nhs ro\r\n\r\nid\r\n\r\nod\r\n\r\nVAN;\r\n\r\n:\r\n\r\nTS a nm et ce a mae a a > Ae Sh on he bn No hb AD am St om\r\n\r\n1 Bakpao\r\n\r\naj\r\n\r\n]\r\n\r\n22, 800\r\n\r\n15, 800\r\n\r\ncaisim special\r\n\r\ntelur asin\r\n\r\n15, 800\r\n\r\n22, 800\r\n\r\n1 Carsiupau Ayam\r\n\r\n1S ue\r\n\r\n27,800\r\n\r\n1 Jamur Isi Ayam\r\n\r\n32, 800\r\n\r\n1 Jamur Kuping\r\n\r\n21,800\r\n\r\n1 Kailan hongkong\r\n\r\n“4 1\r\n\fFrais\r\n\r\ntd\r\n\r\nAn\r\n\r\nrd\r\n\r\nee\r\n\r\n72,\r\n\r\nTT\r\n\r\n19,\r\n\r\n800\r\n\r\nJa\r\n\r\nRakpal y\r\n\r\nA asin\r\n\r\n22\r\n\r\n20\r\n\r\nCal Wie\r\n\r\ngpet\r\n\r\njal\r\n\r\n1,\r\n\r\n200\r\n\r\n80\r\n\r\nA cais\\®\r\n\r\nAyal\r\n\r\n32\r\n\r\n200\r\n\r\n1 Car\r\n\r\n1\r\n\r\n800\r\n\r\n1 Fd\r\n\r\nnh G\r\n\r\n1 Ayal\r\n\r\nJam\r\n\r\n¢ Xue\r\n\r\nA Jam\r\n\r\nhong\r\n\r\nkong\r\n",
+    "validation_only": true,
+    "run": "printed_v3_explainable",
+    "model": "classifier",
+    "backend": "complement_nb",
+    "model_sha256": "bd1dba65eb03c3f2282697a502400794ce754543c5e16150625b73cea62ce0bd",
+    "scope_version": "printed-only-v1",
+    "ocr_policy": "illumination",
+    "heading_rules": true,
+    "edge_recovery": true,
+    "classes": [
+      "purchase_order",
+      "receipt",
+      "delivery_note",
+      "customer_copy"
+    ],
+    "experimental": true,
+    "heading_module": "heading_rules_v3",
+    "illumination_recovery": true
+  },
+  "explanation": {
+    "label": "receipt",
+    "decision_source": "trained_classifier",
+    "model_run": "printed_v3_explainable",
+    "scores_calibrated": false,
+    "method": "exact_ngram_log_score_contributions",
+    "component": "learned_fallback_only",
+    "alternative_class": "delivery_note",
+    "logit_margin": 0.9705815100187678,
+    "intercept_contribution": 0.0,
+    "sum_feature_contributions": 0.9705815100187851,
+    "reconstructed_logit_margin": 0.9705815100187851,
+    "reconstruction_error": 1.7319479184152442e-14,
+    "supporting_features": [
+      {
+        "feature": "tea",
+        "contribution": 0.32696040691019107,
+        "feature_value": 0.25069041078491633
+      },
+      {
+        "feature": "special",
+        "contribution": 0.19434257051759168,
+        "feature_value": 0.21481978268200208
+      },
+      {
+        "feature": "be",
+        "contribution": 0.1904487017993336,
+        "feature_value": 0.08065795487471508
+      },
+      {
+        "feature": "sr",
+        "contribution": 0.16949940780154032,
+        "feature_value": 0.09581979177464339
+      },
+      {
+        "feature": "eo",
+        "contribution": 0.16773395920264067,
+        "feature_value": 0.16683856606320902
+      },
+      {
+        "feature": "vi",
+        "contribution": 0.15615353663071804,
+        "feature_value": 0.10899643434637277
+      },
+      {
+        "feature": "oo",
+        "contribution": 0.14774655207674187,
+        "feature_value": 0.1050201490627603
+      },
+      {
+        "feature": "green",
+        "contribution": 0.14044434621150223,
+        "feature_value": 0.23252822212344135
+      },
+      {
+        "feature": "zz",
+        "contribution": 0.11100948665238998,
+        "feature_value": 0.12687602421601557
+      },
+      {
+        "feature": "ie",
+        "contribution": 0.10827512575972804,
+        "feature_value": 0.09336128516436387
+      },
+      {
+        "feature": "tom",
+        "contribution": 0.09417377185010081,
+        "feature_value": 0.13733491381803045
+      },
+      {
+        "feature": "fish",
+        "contribution": 0.09265424106076377,
+        "feature_value": 0.13733491381803045
+      }
+    ],
+    "opposing_features": [
+      {
+        "feature": "800",
+        "contribution": -0.7294104798647034,
+        "feature_value": 0.3486937155797239
+      },
+      {
+        "feature": "600",
+        "contribution": -0.47973797051639727,
+        "feature_value": 0.2966914770829142
+      },
+      {
+        "feature": "100",
+        "contribution": -0.16104385472080168,
+        "feature_value": 0.08213234447871234
+      },
+      {
+        "feature": "32 800",
+        "contribution": -0.13338165552801032,
+        "feature_value": 0.12687602421601557
+      },
+      {
+        "feature": "34 800",
+        "contribution": -0.08902952793885856,
+        "feature_value": 0.13733491381803045
+      },
+      {
+        "feature": "cai",
+        "contribution": -0.08275849750545057,
+        "feature_value": 0.13733491381803045
+      }
+    ],
+    "active_feature_count": 54,
+    "interpretation": "Feature value times the learned coefficient difference exactly reconstructs the target-versus-alternative logit margin, including the intercept. Contributions are not probability percentages.",
+    "limitations": [
+      "Correlated word/character n-grams can share evidence.",
+      "A learned association is not proof of document type or real-world causation.",
+      "This explains the learned fallback only; any heading rules are held fixed."
+    ]
+  }
+}

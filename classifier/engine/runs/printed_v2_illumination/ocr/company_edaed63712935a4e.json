@@ -1,0 +1,27 @@
+{
+  "sample_id": "company_edaed63712935a4e",
+  "image_sha256": "2d4231b0cbe31a4cd0aff9f459503bea10a0a6345e31da1bbde72fcf4e5516e3",
+  "views": {
+    "full": "Harbor Velo Co-\r\nRide farther, live lighter with Harbor Velo.\r\n88 Elm Avenue.\r\n‘Suite 817\r\nbilling@harborvelo.com\r\nwww.harborvelo.com\r\nNUMBER DATE ORDER NO. CUSTOMER ID CARRIER\r\nDN25066413 February 21, 5066413 AW00019340 Xrq - Truck\r\n2025 Ground\r\nBILL TO\r\nRenee Dominguez\r\nHaberstr 57\r\n48001 Minster\r\nGermany\r\nPhone: 1 (11) 500 555-0169\r\nItem Description Unit Ordered Shipped\r\nBK-T44U-54 Touring-2000 Blue, 54 EA 1 1\r\nThe plush custom saddle keeps you riding all day, and there's\r\nplenty of space to add panniers and bike bags to the newly-\r\nredesigned carrier. This bike has stability when fully-loaded.\r\nCA-1098 AWC Logo Cap EA 1 il\r\nTraditional style with a flip-up brim; one-size fits all.\r\nPackages 1\r\nTotal weight 12.56 kg\r\nUnits on hand 2\r\nPacked by Received by\r\nThank you for riding with Harbor Velo Co.\r\nwww.harborvelo.com - billing@harborvelo.com - (407) 555-9878\r\nPacking Slip DN25066413 Pagel/1\r\n",
+    "top_-12": "he’ PACK\r\n\r\nNG\r\n\r\nin\r\n\r\nSLIp\r\n\r\nHarpe, Velo ¢\r\n\r\nit Harte, Ver\r\n\r\nEly Ay, ony\r\n\r\nSuite g;\r\n\r\nver, cpl\r\n\r\nNumgeg\r\n\r\nUs,\r\n\r\nitiin, @h\r\n\r\n5-987,\r\n\r\nN25066 47\r\n\r\nDarg\r\n\r\nTvelg, co\r\n\r\nWW. hay,\r\n\r\nvel,\r\n\r\nTu,\r\n\r\n2025\r\n\r\nary 23\r\n\r\nORpgy No.\r\n\r\n6201\r\n\r\nS064 13\r\n\r\nBlLL yg\r\n\r\nCUSTomep, Ps\r\n\r\nReng,\r\n\r\nW000143,\r\n\r\nCARRIgR\r\n\r\nAberst, 5\r\n\r\nNyuey\r\n\r\nTru,\r\n\r\nck\r\n\r\nGerm, a\r\n\r\nUnster\r\n\r\nFoung\r\n\r\nOne: 1 (13) 5005 5\r\n\r\n016\r\n",
+    "top_0": "Harbor Velo C\r\n\r\nith Harbor Velgd\r\n\r\nElm Avenuis\r\n\r\nSuite 81\r\n\r\nPACKING\r\n\r\nHV\r\n\r\n02:Denver, CY\r\n\r\nUs.\r\n\r\nSLIP\r\n\r\n5-987\r\n\r\nling@harborvelo.comy\r\n\r\nww.harborvelo.col\r\n\r\nE|\r\n\r\nIN.75:67014!\r\n\r\nNUMBER\r\n\r\nDATE\r\n\r\nORDER NO.\r\n\r\nCUSTOMER ID\r\n\r\nCARRIER\r\n\r\nDN25066413\r\n\r\nFebruary 21,\r\n\r\n$066413\r\n\r\nAW00019340\r\n\r\nXrq - Truck\r\n\r\n2025\r\n\r\nGround\r\n\r\nLL TO\r\n\r\nRenee Dominguez\r\n\r\nHaberstr 57\r\n\r\n48001 Minster\r\n\r\nGermany\r\n\r\nPhone: 1 (11) 500 555-0169\r\n",
+    "top_12": "0:\r\n\r\nHarboe’ Vv\r\n\r\nroo!\r\n\r\n7 elds\r\n\r\n5)\r\n\r\nen\r\n\r\nquite\r\n\r\n®)\r\n\r\n6)\r\n\r\naver\r\n\r\n5.0879\r\n\r\nA] LO!\r\n\r\nFina @\r\n\r\nroorvel\r\n\r\n0.c0\r\n\r\nKING\r\n\r\nPAC\r\n\r\nHv\r\n\r\nsL\\P\r\n\r\nCARRIER\r\n\r\nLoud\r\n\r\nRAD\r\n\r\nXra\r\n\r\ncusTOME\r\n\r\nGround\r\n\r\npwo00\r\n\r\n193\r\n\r\norOER NT\r\n\r\n5066012\r\n\r\nPATE\r\n\r\n2%\r\n\r\ngebrud\r\n\r\nHuMBE\r\n\r\n66413\r\n\r\n202%\r\n\r\npn250\r\n\r\nan 10\r\n\r\ningue?\r\n\r\nene®\r\n\r\nwaberst\r\n\r\nMu\r\n\r\nneste’\r\n\r\nGer\r\n\r\nany \"\r\n\r\n1) 50\r\n\r\n0555-018\r\n\r\nphone\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

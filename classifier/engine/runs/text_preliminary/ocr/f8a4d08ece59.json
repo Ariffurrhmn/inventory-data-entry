@@ -1,0 +1,16 @@
+{
+  "sample_id": "f8a4d08ece59",
+  "image_path": "services\\document_classifier\\data\\images\\f8a4d08ece59.jpg",
+  "image_sha256": "04a83df660cf3484e11296d2598d4167338c39b5c379244a06092634cb826633",
+  "full_text": "Description HSN/SAC Taxable\n\nGrand total 1,518.90\n\nAmount in words: One Thousand Five Hundred Eighteen Rupees and Ninety Paise Only\n\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\f8a4d08ece59.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

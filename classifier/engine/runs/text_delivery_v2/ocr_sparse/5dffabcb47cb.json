@@ -1,0 +1,13 @@
+{
+  "sample_id": "5dffabcb47cb",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "e51375a245dde8dacc6e43ae9f83726a17363e9cc5cb5210e1c7ed5ab345e2c0",
+  "full_text": "il\r\n\r\nfa\r\n\r\nwa,\r\n\r\nhe\r\n\r\naE\r\n\r\nBg\r\n\r\nLol\r\n\r\now:\r\n\r\nBw\r\n\r\nW\r\n\r\nei\r\n\r\nite\r\n\r\nWeak\r\n\r\nhl\r\n\r\ni\r\n\r\n1x 36.000\r\n\r\n36.000\r\n\r\n3\r\n\r\nell\r\n\r\nKimchi p\r\n\r\n1x 0.000\r\n\r\nRe0. 000\r\n\r\nlad\r\n\r\nFre ice grentea\r\n\r\n#x[0[AL Ww» 36. 000\r\n\r\nCASH\r\n\r\nRe51. 000\r\n\r\naie Se\r\n\r\n_--.\r\n\r\n(Wi\r\n\r\n7.\r\n\r\niH\r\n",
+  "status": "unreviewed_OCR_output"
+}

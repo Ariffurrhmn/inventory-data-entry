@@ -1,0 +1,16 @@
+{
+  "sample_id": "40ba7ce1f258",
+  "image_path": "services\\document_classifier\\data\\images\\40ba7ce1f258.jpg",
+  "image_sha256": "ecd8f2d84883a30a930905d25fdacd3c1c788e6e6ec4a3baa5b66e6a5c3370fe",
+  "full_text": "DELIVERY CHALLAN\n\nABC Company\n\nChallan no.: DC- 005 Date: 2026-09-04 Place of supply: Maharashtra\n\nSELLER CONSIGNEE\nABC Company Hasna\nShop 12, Market Road, City — 400001 House- 56, Road- 3, Maharashtra\n\nVehicle no.: MH 01 AB 1234 Purpose: Job work\n\n# Description HSN/SAC Qty Rate Taxable GST %\n\n1 Fan 9087 15.00 %3,000.00 %45,000.00 5%\n\n2 Purfume 3546 20.00 %450.00 29,000.00 3%\n\n3 Light 1324 20.00 %800.00 16,000.00 5%\nTaxable value ¥70,000.00\nCGST ¥3,910.00\nSGST %3,910.00\nGrand total 77,820.00\n\nAmount in words: Seventy Seven Thousand Eight Hundred Twenty Rupees Only\n\nNotes: Goods sent for the purpose stated above. Not a sale.\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\40ba7ce1f258.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

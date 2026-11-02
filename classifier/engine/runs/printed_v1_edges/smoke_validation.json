@@ -1,0 +1,57 @@
+{
+  "active_model": {
+    "run": "printed_v1_edges",
+    "model": "statistical",
+    "model_sha256": "03ac56cddda53c8b6760cc127f48d7060c20c1fe710d2a25635981d1ced27026",
+    "scope_version": "printed-only-v1",
+    "ocr_policy": "sparse",
+    "heading_rules": true,
+    "edge_recovery": true,
+    "classes": [
+      "purchase_order",
+      "receipt",
+      "delivery_note",
+      "customer_copy"
+    ],
+    "experimental": true
+  },
+  "persisted_validation_predictions_reproduced": 25,
+  "image_upload_smokes": [
+    {
+      "sample_id": "cc6e515ae67f",
+      "expected_label": "purchase_order",
+      "predicted_label": "purchase_order",
+      "matches_label": true,
+      "image_matches_cached_pipeline": true,
+      "decision_source": "printed_heading"
+    },
+    {
+      "sample_id": "5dffabcb47cb",
+      "expected_label": "receipt",
+      "predicted_label": "receipt",
+      "matches_label": true,
+      "image_matches_cached_pipeline": true,
+      "decision_source": "trained_classifier"
+    },
+    {
+      "sample_id": "f9918570b903",
+      "expected_label": "delivery_note",
+      "predicted_label": "delivery_note",
+      "matches_label": true,
+      "image_matches_cached_pipeline": true,
+      "decision_source": "printed_heading"
+    },
+    {
+      "sample_id": "cdd7aaa9004d",
+      "expected_label": "customer_copy",
+      "predicted_label": "receipt",
+      "matches_label": false,
+      "image_matches_cached_pipeline": true,
+      "decision_source": "trained_classifier"
+    }
+  ],
+  "empty_text_and_invalid_image_rejected": true,
+  "protected_source_files_unchanged": 6,
+  "workflow_tests_passed": 21,
+  "historical_test_inputs_opened": 0
+}

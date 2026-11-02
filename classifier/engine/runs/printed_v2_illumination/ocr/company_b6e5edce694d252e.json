@@ -1,0 +1,27 @@
+{
+  "sample_id": "company_b6e5edce694d252e",
+  "image_sha256": "80d0d59d7ab74c9c25f466572aa21b89f7475b58d9ef8a10a781cdae3f280688",
+  "views": {
+    "full": "Boreal Components Co.\r\nPedal Power, Precision Built\r\n36 Industrial Pkwy - 80202 Denver, CO - USA\r\nNumber P0-2025-2262\r\nDate 03/09/2025\r\nDelivery date 03/18/2025\r\nAccount no. SUPERSAL0001\r\nRequested by Annette Hill\r\nPURC HASE ORDER Carrier Xrq - Truck Ground\r\nVENDOR DELIVER TO\r\nSUPERSALES INC. Boreal Components Co.\r\n9443 Oaxaca 36 Industrial Pkwy\r\n90712 Lakewood, CA 80202 Denver, CO\r\nUnited States USA\r\nEL 2 YB)\r\nPAYMENT TERMS\r\nSubtotal $525.00\r\nNet 30 days\r\nPlease confirm this order and quote our PO number on all freignt $13.12\r\ninvoices and delivery notes. Tax 8% $42.00\r\nTotal $580.12\r\nApproved by\r\nRide on, thanks for choosing Boreal Bank: Northern Trust Bank Boreal Components Co.\r\nComponents. Account: 8815694933 EIN 59-2005511\r\nRouting no.: 079558108\r\nPurchase Order P0-2025-2262 Page 1 / 1\r\n",
+    "top_-12": "Bore,\r\n\r\ndust,\r\n\r\n931 py,\r\n\r\nNe ts\r\n\r\n“151 ” vig\r\n\r\nver co\r\n\r\nuss\r\n\r\nVumpe,.\r\n\r\nDate\r\n\r\nPURCHp gE ORDER\r\n\r\nPo-2025\r\n\r\nVENDOR\r\n\r\nvery go\r\n\r\n2262\r\n\r\nup,\r\n\r\n3/89/20,\r\n\r\nAccoyny\r\n\r\n9443 5.\r\n\r\nALES yy\r\n\r\n3/18 1/2 025\r\n\r\n9073\r\n\r\nXacy\r\n\r\nQues teg b\r\n\r\nWoo\r\n\r\nCarrie\r\n\r\nPERS AL gg, \"\r\n\r\nUng tey\r\n\r\n+ CA\r\n\r\nElTvgg 7\r\n\r\nrg rr tte hig\r\n\r\nBorg\r\n\r\nk Touny\r\n\r\n36\r\n\r\n80205 > trial\r\n\r\nNts Co\r\n\r\nUsa\r\n\r\nNver\r\n",
+    "top_0": "oc]\r\n\r\nBoreal Components Co.\r\n\r\nPedal Power, Precision Built\r\n\r\n36 Industrial Pkwy\r\n\r\n80202 Denver, CO\r\n\r\nUSA\r\n\r\nNumber\r\n\r\nP0-2625-2262\r\n\r\nDate\r\n\r\n03/09/2025\r\n\r\nDelivery date\r\n\r\n93/18/2025\r\n\r\nAccount no.\r\n\r\nSUPERSAL8601\r\n\r\nAnnette Hill\r\n\r\nRequested by\r\n\r\nPURCHASE ORDER\r\n\r\nCarrier\r\n\r\nXrq -\r\n\r\nTruck Ground\r\n\r\nVENDOR\r\n\r\nDELIVER TO\r\n\r\nSUPERSALES INC.\r\n\r\nBoreal Components Co.\r\n\r\n9443 Oaxaca\r\n\r\n36 Industrial Pkwy\r\n\r\n90712 Lakewood, CA\r\n\r\n80202 Denver, CO\r\n\r\nUnited States\r\n\r\nUSA\r\n",
+    "top_12": "s Co-\r\n\r\n530\r\n\r\nno BUL\r\n\r\nush\r\n\r\nore 1\r\n\r\npowe’s\r\n\r\ndat\r\n\r\na2 pe ners\r\n\r\nPO\r\n\r\n2925-228\r\n\r\n3709/2\r\n\r\n925\r\n\r\n26 Tay\r\n\r\nStY\r\n\r\nRupe’\r\n\r\n3/18.\r\n\r\n1207\r\n\r\npate\r\n\r\nig\r\n\r\nERSMLO®\r\n\r\npel\r\n\r\njvery °\r\n\r\naetre BW\r\n\r\nAn\r\n\r\naccount\r\n\r\nTruck\r\n\r\nground\r\n\r\npeaue\r\n\r\nste\r\n\r\nq4 °\r\n\r\ncarrie\r\n\r\nRDER\r\n\r\npELIY\r\n\r\nCo\r\n\r\npone?!\r\n\r\nURC\r\n\r\nASE ©\r\n\r\nred\r\n\r\nus cial oo\r\n\r\navers\r\n\r\ng02®\r\n\r\nUsk\r\n\r\nVENDOR\r\n\r\ngs INC\r\n\r\nPERS!\r\n\r\nad\r\n\r\n3 0axeC\r\n\r\nwood ’\r\n\r\nLL IRe\r\n\r\ncrates\r\n\r\nUnite\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

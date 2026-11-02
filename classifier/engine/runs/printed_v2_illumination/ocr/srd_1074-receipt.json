@@ -1,0 +1,27 @@
+{
+  "sample_id": "srd_1074-receipt",
+  "image_sha256": "0774c1baaf7b55661dc7a5085e67d06c0456a4d0d2d4441fb6ab557bca5a79e3",
+  "views": {
+    "full": "Hy 0270 : |\r\nLin Buffet\r\n7988 N. Expressway\r\nBrownsville, TX\r\nFhone (956) 544-6600\r\nJate: Feb 24, 2019 Time: 03:22PM |\r\nserver: kKenye Judith # Guest: 1\r\nBill: 0270\r\n:\r\n§ 2 Weekend Buffet 27.18 |\r\n| 2 Drink 3.98 |\r\n| Subtotal 31.16 |\r\n3 “Sales Tax 2.57 |\r\nTotal 33.73 |\r\n| Vise 3.73 |\r\n| Geverages 9.98\r\nFood 27.18\r\nOpen Time : Feb 24, 2019 03:22PM\r\n",
+    "top_-12": "Te\r\n\r\n#1\r\n\r\n270\r\n\r\nCe\r\n\r\n96g 1 Buffer\r\n\r\nSSwa\r\n\r\na\r\n\r\noa\r\n\r\na\r\n\r\nFhon\r\n\r\nle\r\n\r\n——\r\n\r\na mv,\r\n\r\n-\r\n\r\n———,\r\n\r\n—\r\n\r\n©(856)\r\n\r\nTX\r\n\r\n~~\r\n\r\n* — ~3ne\r\n\r\n< ea,\r\n\r\n—\r\n\r\n~6600\r\n\r\nServe\r\n\r\n24\r\n\r\n——\r\n\r\n~~ —\r\n\r\n-—\r\n\r\n~~ —\r\n\r\n—\r\n\r\nbn\r\n\r\na 2,\r\n\r\n~—\r\n\r\nTime\r\n\r\n03\r\n\r\nTima.\r\n\r\na\r\n\r\nIE lonenve J\r\n\r\nuit\r\n\r\n22py\r\n",
+    "top_0": "—\r\n\r\n=~ ts —\r\n\r\nHa 0270\r\n\r\nLin Buffet\r\n\r\n2988 N. Expressway\r\n\r\nBrownsville, TX\r\n\r\nFhone (956) 544-6600\r\n\r\nov a a\r\n\r\neo nn oan a om\r\n\r\nra mar om me © 8 > Ww 0 Sm mem et me me Se = = 2 07 TO SD OLED\r\n\r\nEe EE EE mm mo om om ote mr em mt 10 a mr ee 0 fom\r\n\r\nDate: Feb 24, 2019\r\n\r\nTime: 03:22PM\r\n\r\n# Guest: 1\r\n\r\nServer: kenya Judith\r\n\r\ngill: 0270\r\n",
+    "top_12": "Flas\r\n\r\naes\r\n\r\nTTT Rm\r\n\r\n2 T\r\n\r\nwit ©\r\n\r\narownsy) Cy 6600\r\n\r\nTET\r\n\r\nam\r\n\r\n-—\r\n\r\n-\r\n\r\n-—\r\n\r\nPR\r\n\r\nProne\r\n\r\n-\r\n\r\n-=s\r\n\r\n-\r\n\r\npnt\r\n\r\n-\r\n\r\n-—\r\n\r\n1°\r\n\r\nel vt\r\n\r\n—— -\r\n\r\nsty\r\n\r\nnT -\r\n\r\n-\r\n\r\n0\r\n\r\n—\r\n\r\n—\r\n\r\n\"ed see\r\n\r\n\\9\r\n\r\n3 Gue\r\n\r\nfeb\r\n\r\nJudith\r\n\r\npate\r\n\r\nVe\r\n\r\ngery\r\n\r\n{0\r\n\r\ngill\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

@@ -1,0 +1,27 @@
+{
+  "sample_id": "srd_1159-receipt",
+  "image_sha256": "3f00a336baa60544516ad18c9f62289836fced83446abacfa652f9586ca066eb",
+  "views": {
+    "full": "Taco Time - Kenmore . \\\r\n(425) 486-4412\r\n‘ §733 NE 181TH ST\r\nh KENMORE WA 98028\r\nDT>248\r\nsts 04/24/2018\r\n30126 Ls\r\n3 jer Type: Drive Thru 5\r\nSFT TACO BF 5.99 3 a\r\nbrive Thru Total 6.59 WL\r\n2 $10.00 \\\r\nChange \\\r\n$3.41 RN\r\nPlease cone again! \\N\r\n",
+    "top_-12": "Taco Tiga\r\n\r\n(425) 44 & ore\r\n\r\nJI ok\r\n\r\nwy\r\n\r\nt 1811y Sr\r\n\r\nKE hoasg,\r\n\r\n8028\r\n\r\n105 BN\r\n\r\n3!\r\n\r\n24g\r\n\r\n-\r\n\r\n——\r\n",
+    "top_0": "Taco Tire - Kencore\r\n\r\n(475) 485 4472\r\n\r\n5153 NL 181TH ST\r\n\r\nKENMORE WA 98028\r\n\r\nD1 >248\r\n\r\nSt\r\n\r\n04/24/2018\r\n\r\nJRO\r\n",
+    "top_12": "eof 8\r\n\r\n1\r\n\r\n1\r\n\r\n\\6\r\n\r\nail\r\n\r\n(8c\r\n\r\ne150 8\r\n\r\npid’\r\n\r\nWh qa\r\n\r\n249\r\n\r\n12\r\n\r\npal2\r\n\r\nst\r\n\r\n-\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "52dd257aa6bf",
+  "image_path": "services\\document_classifier\\data\\images\\52dd257aa6bf.jpg",
+  "image_sha256": "c9f903151e9e59f9ceaa2a914c3ccad43ed2cbca2651f199e9ceb08121a3334d",
+  "full_text": "PURCHASE ORDER\n\nNumber: PO-18\nDat 2026-09-18\nDue Date:\n\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\52dd257aa6bf.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

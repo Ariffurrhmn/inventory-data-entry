@@ -1,0 +1,37 @@
+{
+  "scope_version": "printed-only-v1",
+  "scope_manifest_sha256": "534a9bc28038968509569919a785f995a7d55f0e60c7ca676d3e3047a476d578",
+  "split_rule": "Keep historical test IDs untouched; retain historical validation; move complete Bridge generator family into development validation across all classes.",
+  "candidate_policies": [
+    "baseline",
+    "sparse",
+    "combined"
+  ],
+  "model": "Fixed training-only word TF-IDF 1-2 and character 3-5 TF-IDF, balanced logistic regression C=1, random_state=42",
+  "selection": "Maximum validation macro-F1; ties prefer baseline, sparse, combined in that order",
+  "class_counts": {
+    "train": {
+      "purchase_order": 36,
+      "receipt": 56,
+      "delivery_note": 50,
+      "customer_copy": 8
+    },
+    "val": {
+      "purchase_order": 10,
+      "receipt": 3,
+      "customer_copy": 9,
+      "delivery_note": 3
+    },
+    "test": {
+      "purchase_order": 6,
+      "receipt": 5,
+      "delivery_note": 10,
+      "customer_copy": 6
+    }
+  },
+  "test_images_or_text_opened": 0,
+  "historical_test_usage": "Excluded entirely, including five Bridge relatives of development validation. Not an independent new test.",
+  "refit_on_validation": false,
+  "python": "3.12.14",
+  "sklearn": "1.9.1"
+}

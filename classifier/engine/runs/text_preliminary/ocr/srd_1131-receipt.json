@@ -1,0 +1,15 @@
+{
+  "sample_id": "srd_1131-receipt",
+  "image_path": "Dataset\\intake\\2026-10-19\\expressexpense_srd\\images\\1131-receipt.jpg",
+  "image_sha256": "f08f1cb37c0646feacbc426b4f8da35a8d41894d71eeb8939d17766338fac00f",
+  "full_text": "Hil 1 >\r\nIAMBURGERSS\r\n3950 SLAUSON MAYWOOD, CA 90270\r\nPHONE 323-588-1607\r\n\r\nMC #01\r\nREG CASHIER 11 24-2017 12:13 PM 000072\r\n\r\nM150 $0.01\r\nB CHZ B SPC $8.80\r\nno pickles\r\nF FRIES - LRG\r\nCRISPY\r\nLRISPY\r\nF FRIES - LRG\r\nCRISPY\r\nPEEM MED DRIN $2.15\r\nhorchata\r\nCH! BURGER\" SPEC $7.57\r\nro onions\r\nEAT-IN\r\nT4XABLE SALES $25.85\r\n4X $2.46\r\nIl $28.31\r\nCASH $40.00\r\nCG $11.69\r\n\r\nORDER # 0000000052\r\n\r\nPLEASE HELP US SERVE YOU BETTER\r\nGOOD []\r\nPOOR wl\r\n\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

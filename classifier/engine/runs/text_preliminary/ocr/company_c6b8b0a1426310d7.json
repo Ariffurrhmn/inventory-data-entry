@@ -1,0 +1,15 @@
+{
+  "sample_id": "company_c6b8b0a1426310d7",
+  "image_path": "Dataset\\intake\\2026-10-19\\company_documents_v2\\images\\purchase_order\\c6b8b0a1426310d7.jpg",
+  "image_sha256": "5c22d786ebaf72de02a057b6b4697674514b675670bb02b919490b107f13e4aa",
+  "full_text": "Boreal Components Co.\r\nPedal Power, Precision Built\r\n36 Industrial Pkwy - 80202 Denver, CO - USA\r\n\r\nNumber P0-2025-1765\r\nDate 20 Jan 2025\r\nDelivery date 29 Jan 2025\r\nAccount no. JACKSONOOOL\r\nRequested by Arvind Rao\r\n\r\nPURC HASE ORDER Carrier Cargo Transport 5\r\n\r\nVENDOR DELIVER TO\r\n\r\nJackson Authority Boreal Components Co.\r\n\r\n32 East 87th Street 36 Industrial Pkwy\r\n\r\n90802 Long Beach, CA 80202 Denver, CO\r\n\r\nUnited States USA\r\n\r\nItem Description Qty Unit price Disc. Amount\r\n\r\nPD-R347 LL Road Pedal 550 $31.49 = $17,319.50\r\n\r\nClipless pedals - aluminum.\r\nPD-R563 ML Road Pedal 550 $48.29 os $26,559.50\r\nLightweight aluminum alloy construction.\r\n\r\nRM-M823 HL Mountain Rim 550 $36.28 = $19,954.00\r\n\r\nPAYMENT TERMS\r\nSubtotal $63,833.00\r\nNet 60 days\r\nPlease confirm this order and quote our PO number on all Freight $1,595.78\r\ninvoices and delivery notes. Tax 8% $5,106.49\r\nTotal $70,535.27\r\n\r\nApproved by\r\nRide on, thanks for choosing Boreal Bank: Northern Trust Bank Boreal Components Co.\r\nComponents. Account: 8815694933 EIN 59-2005511\r\n\r\nRouting no.: 079558108\r\n\r\nPurchase Order P0-2025-1765 Page 1 / 1\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

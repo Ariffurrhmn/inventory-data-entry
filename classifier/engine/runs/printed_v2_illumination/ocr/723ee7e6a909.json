@@ -1,0 +1,27 @@
+{
+  "sample_id": "723ee7e6a909",
+  "image_sha256": "4e8d89a26cc472d6e88558d324e30f8fa3481ba47e8d522a9bca2028894407eb",
+  "views": {
+    "full": "GR Lh\r\nNm ow i\r\n\\ 2 BRENTWQQD BLVD WHEN\r\nNN SHERWOOD ( 3a 2HE Rie\r\nANN TERM ID: Kad7aeda CHI: B25 ANE\r\n\\ \\ A\r\n\\ NN Sale\r\nA | INV: oOosupavzs = Bd\r\nWy MCARD ~~ Chip RAR\r\nASA SEQH: 025001801825 ho \\\r\nNAN Application Label: MasterCard L\r\nWN AID: ABBUOCEY041010 SRN\r\nWN TVR: 00 & 00 80 00 A hy\r\nDN BL\r\nWN fap PRO S100 Si Wl\r\nNN 13-Feb 14 09:03:37 \\\r\nh cus FOr YOU OF Ra \\\r\nvo AN\r\ni oi AOA\r\n",
+    "top_-12": "WF\r\n\r\nWy A;\r\n\r\nJ)\r\n\r\nHele)\r\n\r\ni\r\n\r\nLh\r\n\r\nNA\r\n\r\npA\r\n\r\nX3\r\n\r\n0\r\n\r\nf 04\r\n\r\ni\r\n\r\niii\r\n\r\nhh\r\n\r\nR\r\n\r\nhl\r\n\r\n{1\r\n\r\n1\r\n\r\np15\r\n\r\nV 0234\r\n\r\ni\r\n\r\nEL ad : £8 180 21g\r\n\r\nLl\r\n\r\nfi\r\n\r\ni)\r\n\r\ni\r\n\r\nTERM In -\r\n\r\n964\r\n\r\ni\r\n\r\n|\r\n\r\nBarc\r\n\r\nHi: 625\r\n\r\n)\r\n\r\nWt\r\n\r\nSHIF\r\n\r\n3,\r\n\r\nji\r\n\r\ni\r\n\r\nil\r\n\r\neid\r\n\r\nah\r\n\r\n3\r\n",
+    "top_0": "h} AT\r\n\r\n(1\r\n\r\nWES\r\n\r\nA\r\n\r\ni\r\n\r\nht\r\n\r\n\",\r\n\r\nWy\r\n\r\n0\r\n\r\n\"Al\r\n\r\nA)\r\n\r\nN\r\n\r\na\r\n\r\nhy\r\n\r\n4]\r\n\r\nhwy\r\n\r\nRE\r\n\r\ni\r\n\r\nN\r\n\r\nLEVEN uts50p D200\r\n\r\np\r\n\r\nA\r\n\r\n;\r\n\r\n2 BRENTWOOD BLVD\r\n\r\n\\\r\n\r\n|\r\n\r\nNo\r\n\r\nN\r\n\r\ni\r\n\r\n\\\r\n\r\nSHERWOOD PARK pB TBA 2HO\r\n\r\n\\\r\n\r\n(788) 467-2055\r\n\r\nh\\\r\n\r\nAN\r\n\r\ni!\r\n\r\nTERM ID: Ko474643\r\n\r\nBATCHH: 825\r\n\r\nA\r\n\r\nfa\r\n\r\n\\\r\n\r\nSHIFTH: 001\r\n\r\n\\\r\n\r\nTa\r\n",
+    "top_12": "hy\r\n\r\nWk i\r\n\r\nHER\r\n\r\n0\r\n\r\nyt\r\n\r\n\\\r\n\r\nWt\r\n\r\nhoy Aye\r\n\r\nHo\r\n\r\noN\r\n\r\n3\r\n\r\nh\r\n\r\n3\r\n\r\nA\r\n\r\n0 Lh\r\n\r\ny WS\r\n\r\nWW\r\n\r\nhg\r\n\r\nx\r\n\r\naN\r\n\r\nTREN HER\r\n\r\npn\r\n\r\nLD\r\n\r\n\\\r\n\r\nrh\r\n\r\n52 BRENTWOU\r\n\r\nN\r\n\r\nN\r\n\r\nTN\r\n\r\n8\r\n\r\n2055\r\n\r\nh\r\n\r\nNg\r\n\r\nTn\r\n\r\nSHERWOOD LON\r\n\r\n46°”\r\n\r\nWN\r\n\r\naN \\\r\n\r\nWV\r\n\r\nON\r\n\r\nrot.\r\n\r\n643\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

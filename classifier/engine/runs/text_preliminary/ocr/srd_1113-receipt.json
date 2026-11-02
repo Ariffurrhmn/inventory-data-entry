@@ -1,0 +1,15 @@
+{
+  "sample_id": "srd_1113-receipt",
+  "image_path": "Dataset\\intake\\2026-10-19\\expressexpense_srd\\images\\1113-receipt.jpg",
+  "image_sha256": "7b80f67f02dce82cc075ac17099627fd2733d19d850bc7ce3f5f1ec830117953",
+  "full_text": "4%. Golden Panda Buffet\r\n\r\n14428 Ramona Blvd. #70\r\n\r\nBaldwin Park, CA 91706\r\n\r\nTel: 626-337-5666\r\n\r\nStation: 1 6/02/2018 04:18:31 PM\r\n\r\nCashier: 010\r\n\r\nInvoice #68554 T# hot food\r\nAdult Dinner 2 23.98\r\nSoda 2 3.38\r\ni\r\nSubtotal 27.36\r\nTax 2.60\r\n\r\nGrand Total 29.96\r\n\r\nAmount Tendered 29.96\r\n\r\nDebit Card sale 29.96\r\n\r\na —\r\n\r\nThank you very much.\r\n\r\nOrder # 1562\r\n\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

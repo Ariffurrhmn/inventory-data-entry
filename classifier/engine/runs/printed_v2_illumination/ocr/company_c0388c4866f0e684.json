@@ -1,0 +1,27 @@
+{
+  "sample_id": "company_c0388c4866f0e684",
+  "image_sha256": "275234a964fca4bdc75eb3d8637d157c2e8d3a3b359b8882bdd1d43dc47e0852",
+  "views": {
+    "full": "Juniper Bikes PLC\r\nBuilt for every ride\r\n144 High Street - BS1 4DJ Bristol - United Kingdom\r\nNumber JB-BL-73601\r\nDate May 29, 2025\r\nOrder no. S073601\r\nP k - S | - Customer ID AW00016957\r\nac [ n Jg | P Carrier Xrq - Truck Ground\r\nBILL TO\r\nSeth Wilson\r\n9563 Lani Kai Drive\r\n98403 Tacoma, WA\r\nUnited States\r\nItem Description Unit Ordered Shipped\r\nWB-H098 Water Bottle - 30 oz. EA 1 1\r\nHL-U509-R Sport-100 Helmet, Red EA 1 1\r\nPackages 1\r\nUnits on hand 2\r\nNOTES\r\nThanks for choosing Juniper Bikes for your next adventure.\r\nPacked by Received by\r\nPedal on, from all of us Bank: Crédit Régional Juniper Bikes PLC\r\nIBAN: GB14 8176 5608 1621 8634 9723 VAT GB883310779\r\nBIC/SWIFT: JUNIGB80\r\nPacking Slip JB-BL-73601 Pagel1/1\r\n",
+    "top_-12": "Jun\r\n\r\nIper\r\n\r\nI for\r\n\r\nesp\r\n\r\noh 3, reg,\r\n\r\nTY ik\r\n\r\nBristo Uniteg i; lo)\r\n\r\nPac\r\n\r\nIng g,;\r\n\r\nIp\r\n\r\nNumb,\r\n\r\nDate\r\n\r\nBug To\r\n\r\nOrde, no,\r\n\r\n8-81. 7360,\r\n\r\net\r\n\r\nay 29, 2025\r\n\r\n9563\r\n\r\nWilsop,\r\n\r\nUstome, ID\r\n\r\n$0736,\r\n\r\n840,\r\n\r\nKaj Drive\r\n\r\nCarrigy\r\n\r\n01695 7\r\n\r\nUnitey Sta hl\r\n\r\nTq - 1, Cl\r\n\r\nGroyng\r\n",
+    "top_0": "a\r\n\r\nJuniper Bikes PLC\r\n\r\nBuilt for every ride\r\n\r\n144 High Street - BS1 4DJ Bristol - United Kingdom\r\n\r\nNumber\r\n\r\nJB-BL-73601\r\n\r\nDate\r\n\r\nMay 29, 2025\r\n\r\nOrder no.\r\n\r\nS073601\r\n\r\nCustomer ID\r\n\r\nAW00016957\r\n\r\nPacking Slip\r\n\r\nCarrier\r\n\r\nXrq - Truck Ground\r\n\r\nBILLTO\r\n\r\nSeth Wilson\r\n\r\n9563 Lani Kai Drive\r\n\r\n98403 Tacoma, WA\r\n\r\nUnited States\r\n",
+    "top_12": "es PL\r\n\r\nJu\r\n\r\njt for every\r\n\r\nunited win\r\n\r\nqdo™\r\n\r\n380s!\r\n\r\n73601\r\n\r\nBBL\r\n\r\neet\r\n\r\nway 2%\r\n\r\n20\r\n\r\na HiD Si\r\n\r\number\r\n\r\npate\r\n\r\ngo7360%\r\n\r\nodel no\r\n\r\n00016957\r\n\r\nomer ¥\r\n\r\nound\r\n\r\nCust\r\n\r\nPa\r\n\r\no- Truck ©\r\n\r\ncaret\r\n\r\nsp\r\n\r\nckind\r\n\r\nPa\r\n\r\nwi 10\r\n\r\ngeth wit\r\n\r\nKal Drive\r\n\r\n563 La!\r\n\r\n8403\r\n\r\ncorma w\r\n\r\nUnd\r\n\r\nxed Sto S\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

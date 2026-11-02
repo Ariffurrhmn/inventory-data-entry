@@ -1,0 +1,27 @@
+{
+  "sample_id": "company_73f4814646431469",
+  "image_sha256": "ddea6919181a8f3ede539bec6698092b4a173c938876f81b987c59ab2a0e07ed",
+  "views": {
+    "full": "Iris Sports Corp.\r\nPedal power. Ride the future.\r\nPACKING ibe\r\nS L 1 P Phone: (989) 555-7243\r\naccounts@irissports.com\r\nwww.irissports.com\r\nNUMBER DATE ORDER NO. CUSTOMER ID CARRIER\r\n1S-BL-58856 November 4, 2024 S058856 AW00025882 Xrq - Truck Ground\r\nBILL TO\r\nEdward Roberts\r\n130 North Main St.\r\n92102 San Diego, CA\r\nUnited States\r\nPhone: 597-555-0116\r\nItem Description Unit Ordered Shipped\r\nTT-M928 Mountain Tire Tube EA 1 1\r\nTI-M267 LL Mountain Tire EA 1 1\r\nHL-U509-R Sport-100 Helmet, Red EA 1 1\r\nPackages i,\r\nUnits on hand 3\r\nNOTES\r\nMountain bikes built for long-distance riders.\r\nPacked by Received by\r\nGear up strong and ride safely today.\r\nwww.irissports.com - accounts @irissports.com - (989) 555-7243\r\nPacking Slip I1S-BL-58856 Pagel/1\r\n",
+    "top_-12": "US\r\n\r\nING\r\n\r\nSLIp\r\n\r\nS Spo,\r\n\r\n2\r\n\r\nde the 1g,\r\n\r\n© Harbor B\r\n\r\nNum eg\r\n\r\n9895 5;\r\n\r\nPS @irissp,\r\n\r\nS-BL 5805,\r\n\r\nDare\r\n\r\nissporss co\r\n\r\n(62:0\r\n\r\nVembey 4 202,\r\n\r\nRDeg N\r\n\r\nBir To\r\n\r\nSOs8g5,\r\n\r\nCUSTomg, f\r\n\r\nEq\r\n\r\nAW000254,\r\n\r\n230 gry, Rope\r\n\r\nCARRgp\r\n\r\n9210,\r\n\r\nain st\r\n\r\nXrg\r\n\r\nNited 5\r\n\r\n\"800, Ca\r\n\r\nTruck Sroung\r\n\r\nhone, 597.,\r\n\r\n5-011\r\n",
+    "top_0": "s Sports Cor\r\n\r\nide the futyl\r\n\r\n79 Harbor Bh\r\n\r\nPACKING\r\n\r\nDeni\r\n\r\n[}\r\n\r\ney\r\n\r\nil\r\n\r\nSLIP\r\n\r\n[E\r\n\r\n980) 555-72:\r\n\r\nnts@irissports.con\r\n\r\nissports.coi\r\n\r\n[9:2440)\r\n\r\n5101\r\n\r\nNUMBER\r\n\r\nDATE\r\n\r\nORDER NO\r\n\r\nCUSTOMER ID\r\n\r\nCARRIER\r\n\r\nI1S-BL-58856\r\n\r\nNovember 4, 2024\r\n\r\nS058856\r\n\r\nAW00025882\r\n\r\nXrq - Truck Ground\r\n\r\nBILLTO\r\n\r\nEdward Roberts\r\n\r\n130 North Main St\r\n\r\n92102 San Diego, CA\r\n\r\nUnited States\r\n\r\nPhone: 597-555-0116\r\n",
+    "top_12": "5 5p0!\r\n\r\nthe ul\r\n\r\nde\r\n\r\nBeg\r\n\r\n176 Har\r\n\r\n2 pend\r\n\r\n{98°\r\n\r\njy 55517\r\n\r\n£4\r\n\r\nis @is=F\r\n\r\nI\r\n\r\nCRRA\r\n\r\nground\r\n\r\npit Tou\r\n\r\ncusToNER!\r\n\r\na000258%\r\n\r\noroER NO\r\n\r\nPATE\r\n\r\n4058850\r\n\r\n202\r\n\r\nNov\r\n\r\nember &\r\n\r\nNUMBER\r\n\r\n1s-BY\r\n\r\naul TO\r\n\r\nRoberts\r\n\r\nawa\r\n\r\n130 NO\r\n\r\ncin ain St\r\n\r\nCh\r\n\r\nDead\r\n\r\n92\r\n\r\nUnie\r\n\r\nq 518 i 55 0116\r\n\r\nphone\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

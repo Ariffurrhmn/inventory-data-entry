@@ -1,0 +1,13 @@
+{
+  "sample_id": "srd_1180-receipt",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "c6ffb95012a42beabefb3797afecf9583511a3870b5261e7b762500b4e48b44d",
+  "full_text": "a.\r\n\r\nWd spinach\r\n\r\n©\r\n\r\ndw\r\n\r\nAA\r\n\r\nSA\r\n\r\n———.\r\n\r\n10.98\r\n\r\nMatoos, and Onions\r\n\r\nServed with a Maxican sated\r\n\r\n13.08\r\n\r\n—\r\n\r\n—\r\n\r\n10.95\r\n\r\nlo BBQ §\r\n\r\nHE ——————\r\n\r\nSauce, >. 10f\r\n\r\noid\r\n\r\nt\r\n\r\nv and grilled. Sk\r\n\r\nNE EY\r\n\r\nhoice of B\r\n\r\nWw\r\n\r\ni)\r\n\r\n(812)341-56\r\n\r\n:\r\n\r\ni\r\n\r\n7\r\n\r\n£5 BAR\r\n\r\n[4\r\n\r\n———— —\r\n\r\nhk 4427\r\n\r\n3 COR\r\n\r\nte rffe\r\n\r\nKio 14 01:20PM\r\n\r\na ——\r\n\r\nLo)\r\n\r\nno\r\n\r\nChips y Salsa\r\n\r\nRed Bull\r\n\r\n1)\r\n\r\nEL LTT TT Try\r\n\r\n2.18\r\n\r\n| cajun seasoning\r\n\r\nSoft Drink\r\n\r\n12.03\r\n\r\nh fries or rice & B\r\n\r\ncash\r\n\r\nTR “\r\n\r\nN24\r\n\r\nSubtotal\r\n\r\n0.13\r\n\r\nime Pie, Car\r\n\r\nTotal Paid\r\n\r\n0.19\r\n\r\nState a\r\n\r\nhe\r\n\r\nwm dt\r\n\r\n“uh\r\n\r\nni]\r\n\r\ni\r\n\r\nog\r\n\r\na\r\n",
+  "status": "unreviewed_OCR_output"
+}

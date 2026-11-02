@@ -1,0 +1,16 @@
+{
+  "sample_id": "e5a5a0f1a894",
+  "image_path": "services\\document_classifier\\data\\images\\e5a5a0f1a894.jpg",
+  "image_sha256": "c200e3fa105f75693c6e15936dec6ae9c314f1f46326b736906c25ca607ab528",
+  "full_text": "ABC Company PURCHASE ORDER\n\nArifur Rahman\n\nMirpur-2,\nDhaka,\nBangladesh\nVendor Address: PO# PO-8\nFL Company OrderDate Oct 04, 2026\nMirpu-12,\nDhaka, Delivery Date Oct 06, 2026\nBangladesh\nItem Description Qty Rate Amount\nCeramic Mug 2 2 4\nLED Desk Lamp 1 8.5 8.5\nBackpack 1 2 12\nSub Total 24.5\nPurchase Tax (10%) 2.45\nTOTAL $26.95\nNotes\n\nIt was great doing business with you.\n\nTerms & Conditions\n\nUpon accepting this purchase order, you hereby agree to the terms & conditions.\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\e5a5a0f1a894.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

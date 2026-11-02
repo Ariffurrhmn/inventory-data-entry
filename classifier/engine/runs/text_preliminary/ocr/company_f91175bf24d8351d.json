@@ -1,0 +1,15 @@
+{
+  "sample_id": "company_f91175bf24d8351d",
+  "image_path": "Dataset\\intake\\2026-10-19\\company_documents_v2\\images\\purchase_order\\f91175bf24d8351d.jpg",
+  "image_sha256": "8aa902c3694cf699989d6a9368c01d282867fd23ecbac75fbb0521469847b687",
+  "full_text": "Delta Sports & Co. Ltd\r\nRide further, ride stronger\r\n464 High Street\r\n\r\nBS1 4DJ Bristol\r\n\r\nUnited Kingdom\r\n\r\nPhone: +44 20 6440622\r\nbilling@deltasports.co.uk\r\nwww.deltasports.co.uk\r\nVAT GB531255379\r\n\r\nVENDOR\r\nInner City Bikes\r\n102 Silverado Drive\r\n\r\n97068 W. Linn, OR\r\nUnited States\r\n\r\nItem Description\r\nLW-3800 Lock Washer 8\r\nLW-4000 Lock Washer 1\r\nLW-5160 Lock Washer 7\r\nLW-5800 Lock Washer 12\r\n\r\nPAYMENT TERMS\r\nNet 60 days\r\n\r\nPlease confirm this order and quote our PO number on all invoices\r\n\r\nand delivery notes.\r\n\r\nApproved by\r\n\r\nNumber P0O000201\r\n27 Jul 2023\r\n\r\nDelivery date 5 Aug 2023\r\nAccount no. INNERCI0001\r\nRequested by Erin Hagens\r\nCargo Transport 5\r\n\r\nDELIVER TO\r\n\r\nDelta Sports & Co. Ltd\r\n464 High Street\r\n\r\nBS1 4DJ Bristol\r\n\r\nUnited Kingdom\r\n\r\nPhone: +44 20 6440622\r\n\r\nQty Unit price Disc.\r\n\r\n3 £37.60\r\n3 £34.22\r\n3 £32.56\r\n3 £35.95\r\n\r\nSubtotal\r\n\r\nFreight\r\n\r\nTax 8%\r\n\r\nTotal\r\n\r\nKeep pedalling, we've got you covered.\r\n\r\nDelta Sports & Co. Ltd - 464 High Street - BS1 4DJ Bristol - United Kingdom - VAT GB531255379\r\n\r\nPurchase Order PO000201\r\n\r\nPURCHASE ORDER\r\n\r\nAmount\r\n£112.80\r\n£102.66\r\n\r\n£97.68\r\n\r\n£107.85\r\n\r\n£420.99\r\n£10.52\r\n\r\n£33.68\r\n\r\n£465.19\r\n\r\nPage 1/1\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

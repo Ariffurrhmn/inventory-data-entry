@@ -1,0 +1,18 @@
+{
+  "parent": "printed_v1_transformers",
+  "adaptive_validation": true,
+  "selection": "Best validation macro-F1, keep earlier candidate on ties",
+  "candidates": [
+    {
+      "C": 1,
+      "features": "Training-fitted word/char TF-IDF normalized to unit norm concatenated with frozen first/last MiniLM vectors normalized jointly to unit norm"
+    },
+    {
+      "C": 10,
+      "features": "Training-fitted word/char TF-IDF normalized to unit norm concatenated with frozen first/last MiniLM vectors normalized jointly to unit norm"
+    }
+  ],
+  "headings": "Same fixed edge/heading policy as printed_v1_edges",
+  "training_only_feature_fit": true,
+  "historical_test_inputs_opened": 0
+}

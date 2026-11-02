@@ -1,0 +1,13 @@
+{
+  "sample_id": "fb76d6216e2b",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "d281f7b9a307a8ff57496d059d105e4699864511670f61e24b02c30a20773297",
+  "full_text": "Jamuna Wholesale\r\n\r\nCash Memo\r\n\r\nOFFICE COPY\r\n\r\nBill To / Customer:\r\n\r\nNabil Departmental Store, Uttara Sector 7, Dhaka.\r\n\r\nTwice No: TNY-95(2.\r\n\r\nDate: 07/08/2026.\r\n\r\nis\r\n\r\n15\r\n\r\nJEE———\r\n\r\non\r\n\r\nby\r\n\r\nSs\r\n\r\nnN\r\n\r\na\r\n\r\n30 | Tk i120\r\n\r\n-\r\n\r\nne\r\n\r\nTk\r\n\r\n37,000\r\n\r\nil\r\n\r\nPe\r\n\r\ni]\r\n",
+  "status": "unreviewed_OCR_output"
+}

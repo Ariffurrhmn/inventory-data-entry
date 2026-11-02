@@ -1,0 +1,27 @@
+{
+  "sample_id": "6639e70671f3",
+  "image_sha256": "2d8d1c5090a7eeec4b5c9c641306f8044c41daa91cbee7f8f21082f2e5cc2dd1",
+  "views": {
+    "full": "\\# Surma Food Supply\r\n: EE ———————————————————————————————————\r\n°\r\nInvoice\r\n| Bill To / Customer: Invoice No: INV-5865.\r\nBismillah Store, Tongi, Gazipur. Date: 24/07/2026.\r\n\r\nInstant Noodles 8-pack Tk 160 Tk 1,600\r\n\r\n| | shampoo 340ml Tk 450 Tk 450\r\n\r\nAuthorised Signature\r\n\r\n| T. Sultana\r\n",
+    "top_-12": "\\\r\n\r\nSurm, Fooq upp]\r\n\r\nBismijyap, Stomey,\r\n\r\nZipyr,\r\n\r\nVoice\r\n\r\nDate: 24/0,\r\n",
+    "top_0": "FEU UO\r\n\r\n—- mm mm moe\r\n\r\n\\ Surma Food Supply\r\n\r\nInvoice\r\n\r\nBill To / Customer:\r\n\r\nInvoice No: INV-5865.\r\n\r\nBismillah Store, Tongi, Gazipur.\r\n\r\nDate: 24/07/2026.\r\n\r\nEC 0\r\n",
+    "top_12": "food Supply\r\n\r\nqurma\r\n\r\n\\nvoice\r\n\r\n£865\r\n\r\nnv ol\r\n\r\n(07/2026\r\n\r\n1To | CU°\r\n\r\nSt\r\n\r\n\" Garp\r\n\r\nBi milla\r\n\r\na\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

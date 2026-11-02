@@ -1,0 +1,27 @@
+{
+  "sample_id": "943348c8acbb",
+  "image_sha256": "3504d7822cb0415804d53531b3bc3fb1e658314b751d835caf2a73722a79ca36",
+  "views": {
+    "full": "211 E Roosevelt Rd\r\nLombard, IL 60148\r\nPhone:\r\nnttp://eatpitapita.com/default/ .\r\nOrd #78\r\nTo Go\r\nEmp1:Mohammad H. 5/4/2017 4:10 PM\r\n20 Mixed Meat Lunch 180.00\r\n1 Reg 12pc Falafel 6.50\r\n1 Reg 12pc Falafel 6.50\r\n1 Miscelanceous 20.00\r\nSubtotal 213.00\r\nTax 15.92\r\nTotal 228.92\r\nVisa 8414 Payment 228.92\r\nTip Pe —_—,\r\nTotal i i —-;e\r\n*x%¥ Quest Copy **x ~\r\nJennifer Pail iso ag\r\n",
+    "top_-12": "217\r\n\r\n3 Pits\r\n\r\nI\r\n\r\nWw\r\n\r\net fo\r\n\r\nm/\r\n\r\nOrd #7\r\n\r\nFmn ] Mrhap,\r\n\r\n0 Gop\r\n\r\nArf\r\n\r\nnp\r\n",
+    "top_0": "Pita Pita - [oer\r\n\r\n211 E Roosevelt Rd\r\n\r\nLombard, IL 60148\r\n\r\nhttp: //eatpitapita.con/default/\r\n\r\nOrd #78\r\n\r\nTo Go\r\n\r\nFmnl Mohammad H\r\n\r\nC/A/M1T A.1N0 DU\r\n",
+    "top_12": "PEs\r\n\r\n2 -\r\n\r\n{ we!\r\n\r\nXi\r\n\r\nevel a\r\n\r\n11 E ROCS\r\n\r\nRolle\r\n\r\nphone\r\n\r\nn/\r\n\r\ndefault!\r\n\r\nhte\r\n\r\n| Jeatpite®! °\r\n\r\n#18\r\n\r\nOr\r\n\r\n10\r\n\r\nthe!\r\n\r\nlA!\r\n\r\nsar AY o\r\n\r\ngant MW\r\n\r\nAnammat H\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "4672e3a30c1f",
+  "image_path": "services\\document_classifier\\data\\images\\4672e3a30c1f.jpg",
+  "image_sha256": "4f1ad7fd5aa840d9f82305c41d7892bb4503142e0374ee27ebd52995caddbd1d",
+  "full_text": "Suraiya Rahman P U RC HAS E\nORDER\n\nPurchase Order # 5\n\nBill To: Ship To:\nTithy Khan Usha Islam Date: Oct 7, 2026\nRequired By: Oct 12, 2026\nItem Rate Amount\nEarphone 10 $4.50 $45.00\nWater Bottle 5 $3.50 $17.50\nMug 2 $2.80 $5.60\nLED Lamp 5 $8.50 $42.50\n\nSubtotal: $110.60\nTax (0.25%): $0.28\nTotal: $110.88\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\4672e3a30c1f.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

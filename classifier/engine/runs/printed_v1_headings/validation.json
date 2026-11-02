@@ -1,0 +1,242 @@
+{
+  "candidates": {
+    "baseline": {
+      "n": 25,
+      "correct": 16,
+      "accuracy": 0.64,
+      "macro_f1": 0.6368421052631579,
+      "class_report": {
+        "purchase_order": {
+          "precision": 1.0,
+          "recall": 0.9,
+          "f1-score": 0.9473684210526315,
+          "support": 10.0
+        },
+        "receipt": {
+          "precision": 0.25,
+          "recall": 1.0,
+          "f1-score": 0.4,
+          "support": 3.0
+        },
+        "delivery_note": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 3.0
+        },
+        "customer_copy": {
+          "precision": 1.0,
+          "recall": 0.1111111111111111,
+          "f1-score": 0.2,
+          "support": 9.0
+        },
+        "accuracy": 0.64,
+        "macro avg": {
+          "precision": 0.8125,
+          "recall": 0.7527777777777778,
+          "f1-score": 0.6368421052631579,
+          "support": 25.0
+        },
+        "weighted avg": {
+          "precision": 0.91,
+          "recall": 0.64,
+          "f1-score": 0.6189473684210526,
+          "support": 25.0
+        }
+      },
+      "confusion_matrix": [
+        [
+          9,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          3,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          3,
+          0
+        ],
+        [
+          0,
+          8,
+          0,
+          1
+        ]
+      ]
+    },
+    "sparse": {
+      "n": 25,
+      "correct": 17,
+      "accuracy": 0.68,
+      "macro_f1": 0.6848940533151059,
+      "class_report": {
+        "purchase_order": {
+          "precision": 1.0,
+          "recall": 0.9,
+          "f1-score": 0.9473684210526315,
+          "support": 10.0
+        },
+        "receipt": {
+          "precision": 0.2727272727272727,
+          "recall": 1.0,
+          "f1-score": 0.42857142857142855,
+          "support": 3.0
+        },
+        "delivery_note": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 3.0
+        },
+        "customer_copy": {
+          "precision": 1.0,
+          "recall": 0.2222222222222222,
+          "f1-score": 0.36363636363636365,
+          "support": 9.0
+        },
+        "accuracy": 0.68,
+        "macro avg": {
+          "precision": 0.8181818181818181,
+          "recall": 0.7805555555555556,
+          "f1-score": 0.6848940533151059,
+          "support": 25.0
+        },
+        "weighted avg": {
+          "precision": 0.9127272727272728,
+          "recall": 0.68,
+          "f1-score": 0.6812850307587149,
+          "support": 25.0
+        }
+      },
+      "confusion_matrix": [
+        [
+          9,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          3,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          3,
+          0
+        ],
+        [
+          0,
+          7,
+          0,
+          2
+        ]
+      ]
+    },
+    "combined": {
+      "n": 25,
+      "correct": 17,
+      "accuracy": 0.68,
+      "macro_f1": 0.6848940533151059,
+      "class_report": {
+        "purchase_order": {
+          "precision": 1.0,
+          "recall": 0.9,
+          "f1-score": 0.9473684210526315,
+          "support": 10.0
+        },
+        "receipt": {
+          "precision": 0.2727272727272727,
+          "recall": 1.0,
+          "f1-score": 0.42857142857142855,
+          "support": 3.0
+        },
+        "delivery_note": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 3.0
+        },
+        "customer_copy": {
+          "precision": 1.0,
+          "recall": 0.2222222222222222,
+          "f1-score": 0.36363636363636365,
+          "support": 9.0
+        },
+        "accuracy": 0.68,
+        "macro avg": {
+          "precision": 0.8181818181818181,
+          "recall": 0.7805555555555556,
+          "f1-score": 0.6848940533151059,
+          "support": 25.0
+        },
+        "weighted avg": {
+          "precision": 0.9127272727272728,
+          "recall": 0.68,
+          "f1-score": 0.6812850307587149,
+          "support": 25.0
+        }
+      },
+      "confusion_matrix": [
+        [
+          9,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          3,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          3,
+          0
+        ],
+        [
+          0,
+          7,
+          0,
+          2
+        ]
+      ]
+    }
+  },
+  "selection": {
+    "selected": "statistical",
+    "ocr_policy": "sparse",
+    "heading_rules": true,
+    "heading_rule_sha256": "f764ebc96771d23a2f0c689efaa5c105d04d19b8b24eb67ab60464ea9118ac4f",
+    "scope_version": "printed-only-v1",
+    "validation_macro_f1": 0.6848940533151059,
+    "validation_accuracy": 0.68,
+    "new_test_result": null,
+    "test_images_opened": 0,
+    "adaptive_validation": true
+  },
+  "training_records": 150,
+  "validation_records": 25,
+  "decision_counts": {
+    "printed_heading": 13,
+    "trained_classifier": 12
+  },
+  "limitations": [
+    "Adaptive development validation, not a final independent test.",
+    "Validation has only three synthetic delivery notes and three receipts.",
+    "Heading rules cannot recover a heading that OCR missed.",
+    "Unresolved copy/order hybrid taxonomy uses statistical fallback.",
+    "No handwriting detector; only printed inputs supported."
+  ]
+}

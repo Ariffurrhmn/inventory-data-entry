@@ -1,0 +1,16 @@
+{
+  "sample_id": "8b270977a7a7",
+  "image_path": "services\\document_classifier\\data\\images\\8b270977a7a7.jpg",
+  "image_sha256": "a82cf8521b3309da0099905bd6e56866a5f87341269ba7c167e2429b02d42bb6",
+  "full_text": "Karnaphuli Traders rh\n\nInvoice\n\nBill To / Customer:\n\nInvoice No: INV-6897.\nShapla Grocery, Savar, Dhaka.\n\nDate: 24/10/2026.\n\nRate (Tk) Amount (Tk)\n\nBath Soap 100g Tk 55\n\nTk 55\n\nExercise Book\n\nTk 45 Tk 180\n\nHand Wash 200ml Tk 140 Tk 1,680\n\nSutesn Oil 5L Tk 960\n\n2,875.\n\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\8b270977a7a7.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

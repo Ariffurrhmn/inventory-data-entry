@@ -1,0 +1,18 @@
+{
+  "selected": "minilm",
+  "ocr_policy": "sparse",
+  "heading_rules": true,
+  "heading_rule_sha256": "f764ebc96771d23a2f0c689efaa5c105d04d19b8b24eb67ab60464ea9118ac4f",
+  "scope_version": "printed-only-v1",
+  "validation_macro_f1": 0.8035714285714286,
+  "validation_accuracy": 0.8,
+  "new_test_result": null,
+  "test_images_opened": 0,
+  "adaptive_validation": true,
+  "edge_recovery": true,
+  "edge_code_sha256": "153fac0961e85630b54ddb9d394b078dc5f9153ea476880f793662327d976449",
+  "backend": "minilm",
+  "transformer_code_sha256": "80bd95e2f1ef35a4a51911a74851f865003b109cd49eca0f5d2ae07e7581de56",
+  "source_run": "printed_v1_transformers",
+  "validation_adaptive": true
+}

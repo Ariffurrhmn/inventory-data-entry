@@ -1,0 +1,15 @@
+{
+  "sample_id": "srd_1097-receipt",
+  "image_path": "Dataset\\intake\\2026-10-19\\expressexpense_srd\\images\\1097-receipt.jpg",
+  "image_sha256": "60268709424d114136b1193186d8265a9072f96da1a96167e8bafaa15ece4121",
+  "full_text": "om om mom me mm mien STE\r\n\r\nhk 1924 Jun28'17 05: 36P Gst\r\nDrive Thru\r\n1 Burrito Cmb 8.28\r\nChk Ranchero Bur\r\nADD\r\nAvo Slcs\r\nInd Chips\r\nSM DRINK\r\nCoke\r\n2 Bur-BRC @ 1.89 3.18\r\nCash 13.25\r\nFood 12.06\r\nTax 1.06\r\nPayment B.12\r\n\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

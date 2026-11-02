@@ -1,0 +1,16 @@
+{
+  "sample_id": "adab8f169fec",
+  "image_path": "services\\document_classifier\\data\\images\\adab8f169fec.jpg",
+  "image_sha256": "dfbd17cd500fa9d117f54195e775567a3feb9d8928d3334dc3fb12ab3a039bb8",
+  "full_text": "From Siilpto\n\n{\nI\ni\n|\naty teen\n\n: 1 Heritage Horse Ribbed Tank Top - L\nI\n\ni\n\nI\n\nI\n\nP Vintage-Style Contrast Ringer Tee - XL\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\adab8f169fec.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

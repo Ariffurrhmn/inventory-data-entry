@@ -1,0 +1,16 @@
+{
+  "sample_id": "57a2af8488b1",
+  "image_path": "services\\document_classifier\\data\\images\\57a2af8488b1.jpg",
+  "image_sha256": "992f7e3b944c0d791ee096fa0b9e2eaeabcfd1adf4dd74291ac91eb79ba76e49",
+  "full_text": "DIZ INDUSTRIAL MACHINERY TRADING\n\n228 llaya St., Burol, City of Calamba 4027, Laguna, Philippines\nPANGANIBAN, GLADYS C. - Prop.\nNON-VAT Reg. TIN: 411-344-656-0 -00000\n\nSALES INVOICE . y,\nDate: ma © x22\n\nSOLD TO: Ra WOR S Terms:\n\nNe OSCAIPWDID No\n\nSCPWD Signature:\n\nBusiness Style: :\n\nTotal Sales\nLess: SC/PWD-Discount\nTOTAL AMOUNT DUE\n\nNT 0000033 A\nEe ona) 000001- 00 g\nity to Print No. iii\nDate a Sust19. 2 H20220000008084 ah Cashier/Adthorized Representative\nbe; irae J 78.086.715-00000 PLC Printer's Accreditation No. 056MP29200000000001\nCell No: a i Parian, alam City, Laguna | Date Issued: 03-02-20; Expiry Date: 03-01-25\n\n“THIS DOCUMENT IS NOT VALID FOR CLAIMING INPUT TAXES”\n\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\57a2af8488b1.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

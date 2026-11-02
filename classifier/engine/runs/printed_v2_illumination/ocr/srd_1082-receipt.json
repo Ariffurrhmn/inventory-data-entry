@@ -1,0 +1,27 @@
+{
+  "sample_id": "srd_1082-receipt",
+  "image_sha256": "b469446a9a8d353551b91991c5456178f9d254d3578a3ed70343845ab76b2505",
+  "views": {
+    "full": "SURATI FARSAN MART a\r\n11814 186TH STREET Te\r\n| ARTESIA, cA 90701 a\r\n562-860-2310 ae\r\n\\ N WWW SURATIFARSAN . COM ; |\r\n16 Daksh D y\r\nChk 45 {ot bt 30,\r\nAug08 \"19. 07:33PM }\r\n\"1 Chole Samosa *x%-T0 GO *x* 5,99 2\r\nKAXXXAXXXXXXB402 of : %\r\nVISA 6.56 ar\r\nfoo 4 59 §\r\nTAX 7 0.57 i\r\n~ PAYMENT £.56\r\n-=--==--——--16 Check Clcsed---=a-m-an__\r\n~mmmmeee—--pug08'19 07:34PM--=on_ B\r\nThank You for your business\r\nFree ground Shipping on orders A\r\nof 71bs or more...\r\nWil. SURATIFARSAN. COM\r\n",
+    "top_-12": "1%\r\n\r\n11814\", F SAEs MART\r\n\r\nAR TES I\r\n\r\nor STREET\r\n\r\n562.0\r\n\r\n90701\r\n\r\nWi,\r\n\r\nGp. -2310\r\n\r\n16 Daksp\r\n\r\nFirs, con\r\n\r\n-~\r\n\r\nal TEN\r\n\r\nChk gs \"mee\r\n\r\n§ 2\r\n\r\n£2\r\n\r\nNy\r\n\r\n14\r\n\r\na\r\n\r\nLT.\r\n",
+    "top_0": "SURATI FARSAN MART\r\n\r\n11814 186TH STREET\r\n\r\nLY\r\n\r\nARTESIA, CA 90701\r\n\r\n562-860-2310\r\n\r\nAY\r\n\r\nWH. SURATIFARSH. OOH\r\n\r\n16 Daksh D\r\n\r\naE i la Tt SY J, ———\r\n\r\nTN\r\n\r\nChk 45\r\n\r\nfaYel ~ ~~ —\r\n\r\n14\r\n\r\nGst 0\r\n",
+    "top_12": "/\r\n\r\nRATT FORAY Yo\r\n\r\n11814 18\r\n\r\npry\r\n\r\nARTESIA,\r\n\r\n562-\r\n\r\n860\r\n\r\n2310\r\n\r\ncot\r\n\r\nghN.\r\n\r\nWi SURATE\r\n\r\n=\"\r\n\r\nPe a\r\n\r\n—-——\r\n\r\n/\r\n\r\ngst\r\n\r\ng Daksh LI\r\n\r\n-\r\n\r\n14\r\n\r\n-—\r\n\r\nPatan\r\n\r\n~~\r\n\r\nCrk\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

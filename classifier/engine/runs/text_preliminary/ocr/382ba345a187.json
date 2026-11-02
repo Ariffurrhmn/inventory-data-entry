@@ -1,0 +1,16 @@
+{
+  "sample_id": "382ba345a187",
+  "image_path": "services\\document_classifier\\data\\images\\382ba345a187.jpg",
+  "image_sha256": "623e9fdaadbb56b0dd6169a287c3a964c1433e3a2598dacfc6901b40cbcdeaea",
+  "full_text": "Cash Memo\n\nDhaka Trade House\n\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\382ba345a187.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

@@ -1,0 +1,15 @@
+{
+  "sample_id": "company_29060e0e98d19833",
+  "image_path": "Dataset\\intake\\2026-10-19\\company_documents_v2\\images\\packing_slip\\29060e0e98d19833.jpg",
+  "image_sha256": "52f3e5b644772faab8d3ab2fbcf2b85b36d23f4c47d21b80521c8e5d71d87349",
+  "full_text": "36 Industrial Pkwy -\r\n\r\nBoreal Components Co.\r\n\r\nPedal Power, Precision Built\r\n\r\n80202 Denver, CO -\r\n\r\nUSA\r\n\r\nNumber DN24053471\r\nDate 6 Aug 2024\r\nOrder no. 5053471\r\nCustomer ID AW00029528\r\nCarrier Cargo Transport 5\r\nPACKING SLIP Tracking no. 787€-4032-82\r\nBILL TO SHIP TO\r\nWork and Play Association Work and Play Association\r\n2533 Eureka Rd. 2533 Eureka Rd.\r\n48195 Southgate, MI 48195 Southgate, MI\r\nUnited States United States\r\nItem Description Ordered Shipped\r\nFR-R72Y-38 ML Road Frame-W - Yellow, 38 3 3\r\nMade from the same aluminum alloy as our top-of-the line HL frame, the ML features\r\na lightweight down-tube milled to the perfect diameter for optimal strength.\r\nWomen's version.\r\nBK-R79Y-40 Road-350-W Yellow, 40 1 1\r\nCross-train, race, or just socialize on a sleek, aerodynamic bike designed for a\r\nwoman. Advanced seat technology provides comfort all day.\r\nBK-R64Y-38 Road-550-W Yellow, 38 2 2\r\nSame technology as all of our Road series bikes, but the frame is sized for a\r\nwoman. Perfect all-around bike for road or racing.\r\nPackages 1\r\nTotal weight 25.67 kg\r\nUnits on hand 6\r\nPacked by Received by\r\nRide on, thanks for choosing Boreal Bank: Northern Trust Bank Boreal Components Co.\r\nComponents. Account: 8815694933 EIN 59-2005511\r\nRouting no.: 079558108\r\nPacking Slip DN24053471 Page 1 / 1\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

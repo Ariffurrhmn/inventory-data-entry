@@ -1,0 +1,27 @@
+{
+  "sample_id": "a9665cd4aaa7",
+  "image_sha256": "b242141ade2c91058112b7ecf0d29594afd7dd0ff039e35c201636db4003c8ac",
+  "views": {
+    "full": "Russi PURCHASE\r\nPurchase Order # 3\r\nBill To: Ship To:\r\nMishal Asha Date: Oct 13, 2026\r\nRequired By: Oct 15, 2026\r\nItem Quantity Rate Amount\r\nUSB Flash Drive 10 $5.50 $55.00\r\nWireless Mouse 5 $7.50 $37.50\r\nSubtotal: $92.50\r\nTax (0.55%): $0.51\r\nTotal: $93.01\r\n",
+    "top_-12": "itu Raha,\r\n\r\nBill 15.\r\n\r\nMish,\r\n\r\nSE\r\n\r\nShip To\r\n\r\nAsha\r\n\r\nOR\r\n\r\nUrchage Order 4 3\r\n\r\ntem\r\n\r\nDate.\r\n\r\nUsp Flag\r\n\r\nQUiraq By:\r\n\r\nOct 13, 2004\r\n\r\nh Driye\r\n\r\nWir, elgg,\r\n\r\nM,\r\n\r\nCt 15, 200g\r\n\r\nQuantip,\r\n\r\nRate\r\n\r\n10\r\n\r\nAmong\r\n\r\n$5.50\r\n\r\n$7.50\r\n\r\n$55. 00\r\n\r\n$3 7.50\r\n",
+    "top_0": "Arifur Rahman\r\n\r\nPURCHASE\r\n\r\nORDER\r\n\r\nPurchase Order # 3\r\n\r\nBill To:\r\n\r\nShip To:\r\n\r\nMishal\r\n\r\nAsha\r\n\r\nDate:\r\n\r\nOct 13, 2026\r\n\r\nRequired By:\r\n\r\nOct 15, 2026\r\n\r\nltem\r\n\r\n[\r\n\r\nQuantity\r\n\r\n|\r\n\r\nRate\r\n\r\n|\r\n\r\nAmount\r\n\r\nUSB Flash Drive\r\n\r\n10\r\n\r\n$5.50\r\n\r\n$55.00\r\n\r\nWireless Mouse\r\n\r\n5\r\n\r\n$7.50\r\n\r\n$37.50\r\n",
+    "top_12": "HASE\r\n\r\nPURC\r\n\r\npER\r\n\r\nOrder #3\r\n\r\nPur chas\r\n\r\nAxi\r\n\r\nur Reb\r\n\r\nct 13s 2026\r\n\r\nDae\r\n\r\n2026\r\n\r\noat 15:\r\n\r\nReo\r\n\r\nred BY\r\n\r\ngrip te\r\n\r\npasha\r\n\r\ngin To!\r\n\r\nAmount\r\n\r\nRate\r\n\r\nisha\r\n\r\n985.00\r\n\r\nQuantity\r\n\r\n$550\r\n\r\n$37 50\r\n\r\n$7 50\r\n\r\n40\r\n\r\nyere\r\n\r\nn prive\r\n\r\nuse Flas!\r\n\r\nwiirele\r\n\r\nss W\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

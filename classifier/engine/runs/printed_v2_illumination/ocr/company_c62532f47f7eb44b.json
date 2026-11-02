@@ -1,0 +1,27 @@
+{
+  "sample_id": "company_c62532f47f7eb44b",
+  "image_sha256": "f613837aabe581c652bbc51e0e61d8ee97de878f07fc89fb72eaaf6618f0a0ec",
+  "views": {
+    "full": "Juniper Bikes PLC\r\nBuilt for every ride\r\n144 High Street - BS1 4DJ Bristol - United Kingdom\r\nNumber P0O002597\r\nDate 04/13/2025\r\nDelivery date 04/22/2025\r\nAccount no. BEAUMONTO0001\r\nP h (0) d Requested by Mikael Sandberg\r\nu rc as e r e r Carrier Cargo Transport 5\r\nVENDOR\r\nBeaumont Bikes\r\n2472 Alexander Place\r\n83301 West Covina, ID\r\nUnited States\r\nItem Description Qty Unit price Disc. Amount\r\nCB-2903 Chainring Bolts 3 £37.50 - £112.50\r\nCN-6137 Chainring Nut 3 £33.81 - £101.43\r\nCR-7833 Chainring 60 £20.08 - £1,204.80\r\nPAYMENT TERMS\r\nSubtotal £1,418.73\r\nNet 60 days\r\nFreight £35.47\r\nPlease confirm this order and quote our PO number on all invoices\r\nand delivery notes. Tax 8% £113.51\r\nTotal £1,567.71\r\nApproved by\r\nPedal on, from all of us Juniper Bikes PLC\r\nVAT GB883310779\r\nPurchase Order PO002597 Page 1/1\r\n",
+    "top_-12": "Jun\r\n\r\nIper\r\n\r\nesp\r\n\r\noh 3, reg,\r\n\r\nI for\r\n\r\nTY ik\r\n\r\nBristo Uniteg i; lo)\r\n\r\nNumpe,\r\n\r\nDate\r\n\r\n000254,\r\n\r\nPure ase Orde,\r\n\r\nlivery, d.\r\n\r\nVENDoR\r\n\r\n0413/2055\r\n\r\nAccoyn ny\r\n\r\n22/2025\r\n\r\n2472\r\n\r\nNM Bikes\r\n\r\nquesta\r\n\r\nA MONTO0,\r\n\r\n8330;\r\n\r\nder Plag,\r\n\r\nCarrigy\r\n\r\nikaey\r\n\r\nOving\r\n\r\nbey,\r\n\r\nUniteg St,\r\n\r\niD\r\n\r\nUgo Trang,\r\n",
+    "top_0": "a\r\n\r\nJuniper Bikes PLC\r\n\r\nBuilt for every ride\r\n\r\n144 High Street - BS1 4DJ Bristol - United Kingdom\r\n\r\nNumber\r\n\r\nP0O002597\r\n\r\nDate\r\n\r\n04/13/2025\r\n\r\nDelivery date\r\n\r\n04/22/2025\r\n\r\nAccount no.\r\n\r\nBEAUMONTO0001\r\n\r\nRequested by\r\n\r\nMikael Sandberg\r\n\r\nPurchase Order\r\n\r\nCarrier\r\n\r\nCargo Transport 5\r\n\r\nVENDOR\r\n\r\nBeaumont Bikes\r\n\r\n2472 Alexander Place\r\n\r\n83301 West Covina, ID\r\n\r\nUnited States\r\n",
+    "top_12": "es PL\r\n\r\nJu\r\n\r\njt for every\r\n\r\nunited win\r\n\r\nqdo™\r\n\r\n380s!\r\n\r\n000257\r\n\r\neet\r\n\r\n41312025\r\n\r\na HiD Si\r\n\r\nurnbet\r\n\r\npale\r\n\r\n22120258\r\n\r\nonTooot\r\n\r\npelive\r\n\r\noy dal\r\n\r\nEAU\r\n\r\ndherd\r\n\r\nAc count\r\n\r\nwikae S\r\n\r\nport\r\n\r\nRe queste\r\n\r\n40 Tran\r\n\r\ncarviel\r\n\r\nrdeY\r\n\r\nchas ©\r\n\r\npur\r\n\r\nERD\r\n\r\nke\r\n\r\neau\r\n\r\n(ace\r\n\r\nde\r\n\r\n247\r\n\r\n2 AE\r\n\r\nIe NINE.\r\n\r\n33\r\n\r\nurited 5\r\n\r\n(ates\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

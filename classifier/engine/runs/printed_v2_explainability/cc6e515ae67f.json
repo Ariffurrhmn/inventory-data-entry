@@ -1,0 +1,23 @@
+{
+  "sample_id": "cc6e515ae67f",
+  "actual_existing_label": "purchase_order",
+  "prediction": "purchase_order",
+  "explanation": {
+    "label": "purchase_order",
+    "decision_source": "printed_heading",
+    "model_run": "printed_v1_minilm",
+    "scores_calibrated": false,
+    "method": "deterministic_heading_trace",
+    "normalized_matched_text": "PURCHASE ORDER",
+    "matched_classes": [
+      "purchase_order"
+    ],
+    "ambiguous": false,
+    "learned_fallback_label": "purchase_order",
+    "reason": "The unique matched printed heading selected the class. The learned model did not determine the final label.",
+    "limitations": [
+      "This explains the decision rule, not whether OCR correctly read the source image.",
+      "Heading evidence may come from separate page-region OCR."
+    ]
+  }
+}

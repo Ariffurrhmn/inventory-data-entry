@@ -1,0 +1,27 @@
+{
+  "sample_id": "c671941cf57c",
+  "image_sha256": "2b946ffed9ef4bd002a9accfb739beebad1f7f9276766d31324c36e937f4a92f",
+  "views": {
+    "full": "EE —,\r\nDELIVERY CHALLAN\r\nYour Business Name\r\nChallan no.: DC- 001 Date: 2026- 09- 04 Place of supply: Maharashtra\r\nSELLER CONSIGNEE\r\nYour Business Name Customer Name\r\nShop 12 , Market Road, City — 400001\r\nVehicle no.: MH 01 AB 1234 Purpose: Job work\r\n# Description HSN/SAC Qty Rate Taxable GST %\r\n1 Item / service 9983 1.00 1,000.00 %1,000.00 18 %\r\nTaxable value %1,000.00\r\nCGST 90.00\r\nSGST 90.00\r\nGrand total 1,180.00\r\nAmount in words: One Thousand One Hundred Eighty Rupees Only\r\nNotes: Goods sent for the purpose stated above. Not a sale.\r\n",
+    "top_-12": "SELLER\r\n\r\nPELiveg,\r\n\r\nhallan no,\r\n\r\nHar py\r\n\r\n001\r\n\r\nYour Bus es.\r\n\r\nUr Bus;\r\n\r\nDate, 202g.\r\n\r\nShop 1\r\n\r\ness Name\r\n\r\n09. g,\r\n\r\narkat Oa\r\n\r\nPlace of Suppy,\r\n\r\nd, City 40000,\r\n\r\nMg, ashy,\r\n\r\nhicle no,\r\n\r\nONSIGNg, [3\r\n\r\nH 07 AB 134\r\n\r\nStome, N;\r\n\r\nYpose, Job Worj\r\n\r\n©SCription\r\n\r\ntem Servi,\r\n\r\nHsNisae\r\n\r\n9983\r\n\r\nQty\r\n\r\nLoo\r\n\r\nRate\r\n\r\n#1,000.0¢\r\n\r\nTaxapye\r\n\r\nGST 9;\r\n\r\n1.000.094\r\n\r\n84\r\n\r\nC\r\n\r\nAshley Valye\r\n\r\nMoyne  worgyg O Thousang\r\n\r\nSGsr\r\n\r\n#100004\r\n\r\n%90.09\r\n\r\ntang totyy\r\n\r\nHu, drag Eight Rupee Only\r\n\r\n#90, 00\r\n\r\nF180 00\r\n",
+    "top_0": "DELIVERY CHALLAN\r\n\r\nYour Business Name\r\n\r\nChallan no.: DC- 001\r\n\r\nDate: 2026-09-04\r\n\r\nPlace of supply: Maharashtra\r\n\r\nSELLER\r\n\r\nCONSIGNEE\r\n\r\nYour Business Name\r\n\r\nCustomer Name\r\n\r\nShop 12, Market Road, City — 400001\r\n\r\nVehicle no.: MH 01 AB 1234\r\n\r\nPurpose: Job work\r\n\r\nDescription\r\n\r\nHSN/SAC\r\n\r\nQty\r\n\r\nRate\r\n\r\nTaxable\r\n\r\nGST %\r\n\r\n1\r\n\r\nItem / service\r\n\r\n9983\r\n\r\n1.00\r\n\r\n¥1,000.00\r\n\r\n#1,000.00\r\n\r\n18%\r\n\r\nTaxable value\r\n\r\n#,000.00\r\n\r\nCGST\r\n\r\n90.00\r\n\r\nSGST\r\n\r\n90.00\r\n\r\nGrand total\r\n\r\n¥1,180.00\r\n\r\nAmount in words: One Thousand One Hundred Eighty Rupees Only\r\n",
+    "top_12": "crALLAN\r\n\r\npEL\r\n\r\nVER\r\n\r\nnar\r\n\r\nPO\r\n\r\naus\r\n\r\nness Na ©\r\n\r\nce of suPP 2\r\n\r\npla\r\n\r\n2026°\r\n\r\n09\r\n\r\npate\r\n\r\n.00Y\r\n\r\nONSIGNEE\r\n\r\nchatie® ao\r\n\r\nstomer\r\n\r\nost %\r\n\r\nSELLER\r\n\r\nTaxable\r\n\r\n5S\r\n\r\n__ 40000\"\r\n\r\nB%\r\n\r\nour BY\r\n\r\not ROC:\r\n\r\nRate\r\n\r\n7.00000\r\n\r\nnop\r\n\r\npurpose\r\n\r\nJop work\r\n\r\nory\r\n\r\n©0000\r\n\r\n700000\r\n\r\n#0 ABE\r\n\r\n290.00\r\n\r\nwsshC\r\n\r\n100\r\n\r\n000\r\n\r\nyevice ne\r\n\r\narable vale\r\n\r\nscription\r\n\r\n0983\r\n\r\ncost\r\n\r\n480.00\r\n\r\n56ST\r\n\r\n«0\r\n\r\noo | se\r\n\r\nne\r\n\r\norang 9!\r\n\r\nees OW\r\n\r\ngry ROP\r\n\r\nard O1€\r\n\r\nundred ©\r\n\r\ne Thov!\r\n\r\nAraou\r\n\r\natin words\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

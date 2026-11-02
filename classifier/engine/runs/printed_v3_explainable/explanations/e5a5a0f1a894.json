@@ -1,0 +1,89 @@
+{
+  "sample_id": "e5a5a0f1a894",
+  "actual_existing_label": "purchase_order",
+  "result": {
+    "decision_trace": {
+      "selected_component": "printed_heading",
+      "heading_matches": [
+        "purchase_order"
+      ],
+      "ambiguous_heading": false,
+      "normalized_heading_evidence": "PURCHASE ORDER",
+      "learned_top_class": "purchase_order",
+      "learned_alternative_class": "delivery_note",
+      "learned_score_margin": 0.9881253021892835,
+      "scores_calibrated": false,
+      "rule": {
+        "kind": "exact_heading",
+        "evidence": "PURCHASE ORDER",
+        "matched_terms": [
+          "PURCHASE ORDER"
+        ],
+        "ocr_section_index": -1
+      },
+      "explanation_method": "Deterministic rule trace or exact n-gram contributions; transformers use fixed-model text omissions"
+    },
+    "label": "purchase_order",
+    "decision_source": "printed_heading",
+    "heading_evidence": "PURCHASE ORDER",
+    "ambiguous_heading": false,
+    "statistical_label": "purchase_order",
+    "scores_kind": "statistical_fallback_scores",
+    "scores": {
+      "customer_copy": 0.0028967081038801332,
+      "delivery_note": 0.0034006477119742046,
+      "purchase_order": 0.9915259499012578,
+      "receipt": 0.0021766942828891677
+    },
+    "scores_calibrated": false,
+    "ocr_empty": false,
+    "text_characters": 436,
+    "input_origin": "provided_text",
+    "ocr_text": "ABC Company PURCHASE ORDER\r\nArifur Rahman\r\nMirpur-2,\r\nDhaka,\r\nBangladesh\r\nVendor Address: PO# PO-8\r\nRZ Company OrderDate Oct 04, 2026\r\nMirpu-12,\r\nDhaka, Delivery Date Oct 06, 2026\r\nBangladesh\r\nCeramic Mug 2 2 4\r\nLED Desk Lamp 1 8.5 8.5\r\nBackpack 1 12 12\r\nSub Total 24.5\r\nPurchase Tax (10%) 2.45\r\nTOTAL $26.95\r\nNotes\r\nIt was great doing business with you.\r\nTerms & Conditions\r\nUpon accepting this purchase order, you hereby agree to the terms & conditions.\r\n",
+    "heading_ocr_text": "ABC Company\r\n\r\nPURCHASE ORDER\r\n\r\nArifur Rahman\r\n\r\nMirpur-2,\r\n\r\nDhaka,\r\n\r\nBangladesh\r\n\r\nVendor Address:\r\n\r\nPO#\r\n\r\nPO-8\r\n\r\nXYZ Company\r\n\r\nOrder Date\r\n\r\nOct 04, 2026\r\n\r\nMirpu-12,\r\n\r\nDhaka,\r\n\r\nDelivery Date\r\n\r\nOct 06, 2026\r\n\r\nBangladesh\r\n\r\nItem Description\r\n\r\nQty\r\n\r\nRate\r\n\r\nAmount\r\n\r\nCeramic Mug\r\n\r\n2\r\n\r\n2\r\n\r\n4\r\n\r\nLED Desk Lamp\r\n\r\n1\r\n\r\n85\r\n\r\n85\r\n\r\nBackpack\r\n\r\n1\r\n\r\n12\r\n\r\n12\r\n\r\nSub Total\r\n\r\n24.5\r\n\r\n245\r\n\r\nPurchase Tax (10%)\r\n\r\nTOTAL\r\n\r\n$26.95\r\n\r\nNotes\r\n\r\nIt was great doing business with you.\r\n\r\nTerms & Conditions\r\n\r\nUpon accepting this purchase order, you hereby agree to the terms & conditions.\r\n\fABC Company PURCHASE ORDER\r\nArifur Rahman\r\n\r\nMirpur-2,\r\n\r\nDhaka,\r\n\r\nBangladesh\r\n\r\nVendor Address: PO# PO-8\r\n\r\nXYZ Company Order Date Oct 04, 2026\r\nMirpu-12,\r\n\r\nDhaka, Delivery Date Oct 06, 2026\r\nBangladesh\r\n\nNotes\r\n\r\nIt was great doing business with you.\r\n\r\nTerms & Conditions\r\n\r\nUpon accepting this purchase order, you hereby agree to the terms & conditions.\r\n\fABC Company PURCHASE ORDER\r\nArifur Rahman\r\nMirpur-2,\r\nDhaka,\r\nBangladesh\r\nVendor Address: PO# PO-8\r\nRZ Company OrderDate Oct 04, 2026\r\nMirpu-12,\r\nDhaka, Delivery Date Oct 06, 2026\r\nBangladesh\r\nCeramic Mug 2 2 4\r\nLED Desk Lamp 1 8.5 8.5\r\nBackpack 1 12 12\r\nSub Total 24.5\r\nPurchase Tax (10%) 2.45\r\nTOTAL $26.95\r\nNotes\r\nIt was great doing business with you.\r\nTerms & Conditions\r\nUpon accepting this purchase order, you hereby agree to the terms & conditions.\r\n\fABc\r\n\r\nPany\r\n\r\nArifyr R, h\r\n\r\npur\r\n\r\nDhak,\r\n\r\nBanglages h\r\n\r\nPURCHASE ORDER\r\n\r\nendo, Ad, dres\r\n\r\nZz Com an\r\n\r\nMirp,, 12\r\n\r\nDhaj,\r\n\r\nPog\r\n\r\nNgladegy,\r\n\r\nPO. 8\r\n\r\nOrder Date\r\n\r\nliver, Date\r\n\fABC Company\r\n\r\nArifur Rahman\r\n\r\nPURCHASE ORDER\r\n\r\nMirpur-2,\r\n\r\nDhaka,\r\n\r\nBangladesh\r\n\r\nVendor Address:\r\n\r\nPO#\r\n\r\nPO-8\r\n\r\nXYZ Company\r\n\r\nOrder Date\r\n\r\nOct 04, 2026\r\n\r\nMirpu-12,\r\n\r\nDhaka,\r\n\r\nDelivery Date\r\n\r\nOct 06, 2026\r\n\r\nBangladesh\r\n\fURCHA\r\n\r\nC company\r\n\r\nArif\r\n\r\nur Ran?\r\n\r\nWIrpYY\r\n\r\n2\r\n\r\npO-8\r\n\r\nphaka .\r\n\r\ngang\r\n\r\nades\r\n\r\npO#\r\n\r\nOct 04 2026\r\n\r\nord\r\n\r\nex pate\r\n\r\nad 06, 202\r\n\r\npeliv\r\n\r\nery pate\r\n\r\nve\r\n\r\nndot pddres\r\n\r\nMirp\r\n\r\nuA\r\n\r\nnaka\r\n\r\nBan\r\n\r\nglades®\r\n",
+    "validation_only": true,
+    "run": "printed_v3_explainable",
+    "model": "classifier",
+    "backend": "complement_nb",
+    "model_sha256": "bd1dba65eb03c3f2282697a502400794ce754543c5e16150625b73cea62ce0bd",
+    "scope_version": "printed-only-v1",
+    "ocr_policy": "illumination",
+    "heading_rules": true,
+    "edge_recovery": true,
+    "classes": [
+      "purchase_order",
+      "receipt",
+      "delivery_note",
+      "customer_copy"
+    ],
+    "experimental": true,
+    "heading_module": "heading_rules_v3",
+    "illumination_recovery": true
+  },
+  "explanation": {
+    "label": "purchase_order",
+    "decision_source": "printed_heading",
+    "model_run": "printed_v3_explainable",
+    "scores_calibrated": false,
+    "method": "deterministic_heading_trace",
+    "rule": {
+      "kind": "exact_heading",
+      "evidence": "PURCHASE ORDER",
+      "matched_terms": [
+        "PURCHASE ORDER"
+      ],
+      "ocr_section_index": -1
+    },
+    "normalized_matched_text": "PURCHASE ORDER",
+    "matched_classes": [
+      "purchase_order"
+    ],
+    "ambiguous": false,
+    "learned_fallback_label": "purchase_order",
+    "reason": "The unique matched printed-text rule selected the class. The learned model did not determine the final label.",
+    "limitations": [
+      "This explains the decision rule, not whether OCR correctly read the source image.",
+      "Heading evidence may come from separate page-region OCR."
+    ]
+  }
+}

@@ -1,0 +1,3 @@
+{
+  "reason": "Pre-training family audit correctly rejected broader Bridge overlap with the excluded historical test. No model fitted. Revised experiment excludes all historical test inputs and checks family disjointness within development only."
+}

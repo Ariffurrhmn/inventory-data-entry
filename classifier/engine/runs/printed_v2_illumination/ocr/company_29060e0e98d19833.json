@@ -1,0 +1,27 @@
+{
+  "sample_id": "company_29060e0e98d19833",
+  "image_sha256": "52f3e5b644772faab8d3ab2fbcf2b85b36d23f4c47d21b80521c8e5d71d87349",
+  "views": {
+    "full": "Boreal Components Co.\r\nPedal Power, Precision Built\r\n36 Industrial Pkwy - 80202 Denver, CO - USA\r\nNumber DN24053471\r\nDate 6 Aug 2024\r\nOrder no. 5053471\r\nCustomer ID AW00029528\r\nCarrier Cargo Transport 5\r\nPACKI NG S LI P Tracking no. 7B7E-4C32-B2\r\nBILL TO SHIP TO\r\nWork and Play Association Work and Play Association\r\n2533 Eureka Rd. 2533 Eureka Rd.\r\n48195 Southgate, MI 48195 Southgate, MI\r\nUnited States United States\r\nFR-R72Y-38 ML Road Frame-W - Yellow, 38 3 3\r\nMade from the same aluminum alloy as our top-of-the line HL frame, the ML features\r\na lightweight down-tube milled to the perfect diameter for optimal strength.\r\nWomen's version.\r\nBK-R79Y-40 Road-350-W Yellow, 40 1 1\r\nCross-train, race, or just socialize on a sleek, aerodynamic bike designed for a\r\nwoman. Advanced seat technology provides comfort all day.\r\nBK-R64Y-38 Road-550-W Yellow, 38 2 2\r\nSame technology as all of our Road series bikes, but the frame is sized for a\r\nwoman. Perfect all-around bike for road or racing.\r\nPackages 1\r\nTotal weight 25.67 kg\r\nUnits on hand 6\r\nPacked by Received by\r\nRide on, thanks for choosing Boreal Bank: Northern Trust Bank Boreal Components Co.\r\nComponents. Account: 8815694933 EIN 59-2005511\r\nRouting no.: 079558108\r\nPacking Slip DN24053471 Page 1 / 1\r\n",
+    "top_-12": "Bore,\r\n\r\ndust,\r\n\r\n931 py,\r\n\r\nNe ts\r\n\r\n“151 ” vig\r\n\r\nver co\r\n\r\nuss\r\n\r\nNunpe,.\r\n\r\nPACKING SLzp\r\n\r\nDate\r\n\r\nBIL py\r\n\r\nOrde, ne\r\n\r\nPM246534,\r\n\r\n8 Aug 29,\r\n\r\nYS tome, I\r\n\r\n2533\r\n\r\narrie\r\n\r\n505347,\r\n\r\n48195\r\n\r\nEurey, Re\r\n\r\nSociay io\r\n\r\nTracking n\r\n\r\nCar, 0\r\n\r\n0029525\r\n\r\nUnjtey ©\r\n\r\ngate Mr\r\n\r\nSpore 5\r\n\r\nSHIP 7,\r\n\r\nork\r\n\r\n743.4,\r\n\r\n2533\r\n\r\n48195 o ka Ry\r\n\r\nSS0Ciatie,\r\n\r\nQate\r\n\r\nUnite P\r\n\r\n«MI\r\n",
+    "top_0": "oc]\r\n\r\nBoreal Components Co.\r\n\r\nPedal Power, Precision Built\r\n\r\n36 Industrial Pkwy\r\n\r\n80202 Denver, CO\r\n\r\nUSA\r\n\r\nNumber\r\n\r\nDN240853471\r\n\r\nDate\r\n\r\n6 Aug 2024\r\n\r\nQrder no.\r\n\r\n5053471\r\n\r\nCustomer ID\r\n\r\nAWB0029528\r\n\r\nCarrier\r\n\r\nCargo Transport 5\r\n\r\nPACKING SLIP\r\n\r\nTracking no\r\n\r\n7B7E-4(32-B2\r\n\r\nBILL TO\r\n\r\nSHIP TO\r\n\r\nWork and Play Association\r\n\r\nWork and Play Association\r\n\r\n2533 Eureka Rd.\r\n\r\n2533 Eureka Rd.\r\n\r\n48195 Southgate, MI\r\n\r\n48195 Southgate, MI\r\n\r\nUnited States\r\n\r\nUnited States\r\n",
+    "top_12": "s Co-\r\n\r\n530\r\n\r\nno BUL\r\n\r\nush\r\n\r\nore 1\r\n\r\npowe’s\r\n\r\ndat\r\n\r\na2 pe ners\r\n\r\n2485347\r\n\r\nAu 20%\r\n\r\n26 Tay\r\n\r\nStY\r\n\r\nHume r\r\n\r\n5053472\r\n\r\npate\r\n\r\na00293%\r\n\r\nordeY o\r\n\r\ncustone’\r\n\r\ncare® TF\r\n\r\nag32-®\r\n\r\nCarrie’\r\n\r\nracking\r\n\r\nPG\r\n\r\npsso\r\n\r\nciatid\r\n\r\n6 SLIP\r\n\r\nLay\r\n\r\nwork 2\r\n\r\nP ACKIN\r\n\r\n2533 BY\r\n\r\ngate:\r\n\r\nciatio\r\n\r\nya\r\n\r\nre sate’\r\n\r\npil\r\n\r\nnay AS\r\n\r\nS0\r\n\r\nvork 2\r\n\r\n25\r\n\r\n33 BUTE\r\n\r\nnate:\r\n\r\nates\r\n\r\ngnitet SY\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

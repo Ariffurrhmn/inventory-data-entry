@@ -1,0 +1,13 @@
+{
+  "sample_id": "cc6e515ae67f",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "ee87c1d82b9e27bd2cb5d96743b2e647d59672bee36c4b1da03854473210b4a1",
+  "full_text": "ABC Company\r\n\r\nPURCHASE ORDER\r\n\r\nArifur Rahman\r\n\r\nMirpur-2,\r\n\r\nDhaka,\r\n\r\nBangladesh\r\n\r\nVendor Address:\r\n\r\nPO#\r\n\r\nPO-10\r\n\r\nXYZ Company\r\n\r\nOrder Date\r\n\r\nOct 14, 2026\r\n\r\nMirpur-12,\r\n\r\nDhaka,\r\n\r\nDelivery Date\r\n\r\nOct 19, 2026\r\n\r\nBangladesh\r\n\r\nItem Description\r\n\r\nQty\r\n\r\nRate\r\n\r\nunt\r\n\r\nFace Wash\r\n\r\n2\r\n\r\n4\r\n\r\nShampoo 400ml\r\n\r\n5\r\n\r\n4.5\r\n\r\n22.5\r\n\r\nBody Lotion\r\n\r\n4\r\n\r\n5\r\n\r\n20\r\n\r\nCotton T-Shirt\r\n\r\n5\r\n\r\n7\r\n\r\n85\r\n\r\nDenim Jeans\r\n\r\n2\r\n\r\n15\r\n\r\n30\r\n\r\nSub Total\r\n\r\n115.5\r\n\r\nPurchase Tax (10%)\r\n\r\n11.55\r\n\r\nTOTAL\r\n\r\n$127.05\r\n\r\nNotes\r\n\r\nIt was great doing business with you.\r\n\r\nTerms & Conditions\r\n\r\nUpon accepting this purchase order, you hereby agree to the terms & conditions.\r\n",
+  "status": "unreviewed_OCR_output"
+}

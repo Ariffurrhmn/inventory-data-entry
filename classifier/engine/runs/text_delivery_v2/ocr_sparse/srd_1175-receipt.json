@@ -1,0 +1,13 @@
+{
+  "sample_id": "srd_1175-receipt",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "c66e861c22d390519d25797b013568614b845484652610dfd96f1d615cf12572",
+  "full_text": "Bar Louie Huntsville\r\n\r\n365 The Bridge St.,Suitel\r\n\r\nHuntsviile, AL, 35806\r\n\r\nServer:\r\n\r\n07/03/2015\r\n\r\nCashier:\r\n\r\n143/2\r\n\r\n4:42 PM\r\n\r\nGuests: 1\r\n\r\n20111\r\n\r\nReprint #: 1\r\n\r\nWhiskey\r\n\r\n8.258\r\n\r\nSubtotal\r\n\r\n6.25\r\n\r\nTax\r\n\r\n1.31\r\n\r\nTotal\r\n\r\n7.56\r\n\r\n10.00\r\n\r\nCASH\r\n\r\nChange\r\n\r\n2.44\r\n\r\nThank you for visiting us!\r\n\r\nAsk us about hosting\r\n\r\nyoul party or private event\r\n\r\nat Bar Louie Huntsville!\r\n\r\nEat, Drink, Be Happy!\r\n\r\nhuntsville@ibarlouieamerica.com\r\n\r\n--- Check Closed ---\r\n",
+  "status": "unreviewed_OCR_output"
+}

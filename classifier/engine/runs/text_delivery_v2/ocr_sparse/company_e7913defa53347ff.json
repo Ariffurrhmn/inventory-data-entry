@@ -1,0 +1,13 @@
+{
+  "sample_id": "company_e7913defa53347ff",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "659c27a842c3827d588555463f53f872cac6400de1c42238b30de7884c04f4bb",
+  "full_text": "Iw\r\n\r\nPurchase Order\r\n\r\nIris Wheelworks LLC\r\n\r\nPrecision wheels, smooth rides for\r\n\r\nNumber\r\n\r\nPO-2025-3961\r\n\r\nall.\r\n\r\nDate\r\n\r\nJuly 31, 2025\r\n\r\n410 Oak Street\r\n\r\nDelivery date\r\n\r\nAugust 9, 2025\r\n\r\nSuite 143\r\n\r\nAccount no.\r\n\r\nWIDEWOR0001\r\n\r\n02110 Boston, MA\r\n\r\nUSA\r\n\r\nRequested by\r\n\r\nBen Miller\r\n\r\nPhone: (591) 555-4212\r\n\r\nCarrier\r\n\r\nCargo Transport 5\r\n\r\ncontact\r\n\r\nriswheelworks.com\r\n\r\nwww.iriswheelworks.com\r\n\r\nEIN 80-1423\r\n\r\n/ENDOR\r\n\r\nDELIVER\r\n\r\nTO\r\n\r\nWide World Importers\r\n\r\nIris Wheelworks LLC\r\n\r\n50 Edward Ave\r\n\r\n410 Oak Street\r\n\r\nBANK DE\r\n\r\n94519 Concord, CA\r\n\r\nSuite 143\r\n\r\nBank: Northern Trust Bank\r\n\r\nAccount: 5585791826\r\n\r\nUnited States\r\n\r\n02110 Boston, MA\r\n\r\nUSA\r\n\r\nRouting no.: 440248973\r\n\r\nPhone: (591) 555-4212\r\n\r\nItem\r\n\r\nAmount\r\n\r\nDescription\r\n\r\nQty\r\n\r\nUnit price\r\n\r\nKW-4091\r\n\r\nKeyed Washer\r\n\r\n3\r\n\r\n$47.47\r\n\r\n$142.41\r\n\r\nPAYMENT TERMS\r\n\r\nSubtotal\r\n\r\n$142.41\r\n\r\nNet 30 days\r\n\r\nFreight\r\n\r\n$3.56\r\n\r\nPlease confirm this order and quote our PO\r\n\r\nnumber on all invoices and delivery notes\r\n\r\nTax 8%\r\n\r\n$11.39\r\n\r\nTotal\r\n\r\n$157.36\r\n\r\nApproved by\r\n\r\nYour next ride is just around the corner\r\n\r\nPurchase Order PO-202¢\r\n\r\n961\r\n\r\nPage 1/1\r\n",
+  "status": "unreviewed_OCR_output"
+}

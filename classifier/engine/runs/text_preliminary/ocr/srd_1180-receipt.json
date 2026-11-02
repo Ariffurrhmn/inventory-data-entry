@@ -1,0 +1,15 @@
+{
+  "sample_id": "srd_1180-receipt",
+  "image_path": "Dataset\\intake\\2026-10-19\\expressexpense_srd\\images\\1180-receipt.jpg",
+  "image_sha256": "c6ffb95012a42beabefb3797afecf9583511a3870b5261e7b762500b4e48b44d",
+  "full_text": "Co TETTHEROSS, nd spinach « orved with a oe\r\n\r\n10.98\r\nA ————. 10.95\r\nle BBQ Since 108 oe a\r\ntila and grilled. S¢ NE EYAL\r\n. aren y :\r\nr choice of B § :S |\r\nbl, Pa.\r\n(912)341-58\r\ntart £5 BAR 7\r\n- Chk 4427 3 COR\r\ntufted 3 : Rasiiod 14 01:20PM\r\non : TER 85\r\n4 antro ne 1 Chips y Salsa 3%\r\n1 Red Bull 2.13\r\nBr 1 Soft Drink $\r\n\r\n| cajun seasoning 12.03\r\nh fries or rice & B Cash\r\n\r\nrae mois 4 subtotal\r\n\r\nTax i\r\nime Pie, Car Total Paid 12.03\r\n\r\nState Tax\r\n5 Che\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

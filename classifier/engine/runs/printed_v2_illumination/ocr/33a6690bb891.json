@@ -1,0 +1,27 @@
+{
+  "sample_id": "33a6690bb891",
+  "image_sha256": "d9dad640dc89196079b4f8901cba53d197f240d9d0b08540489588feef9d04b1",
+  "views": {
+    "full": "| }\r\n° -— PY |\r\nKarnaphuli Traders (pustoMER £2\r\n1 i am— |\r\n. | Invoice No: INV-3937. :\r\n. | Date: 21/07/2026.\r\n: |\r\n. | ill To / Customer: Bismillah Store, Tongi, Gazipur. :\r\nJ }\r\nJ |}\r\nNC EN ET\r\n|\r\nI\r\n}\r\nHE Rr\r\n|\r\n|\r\n|\r\n|\r\n}\r\n| 2. ped —\r\nAuthorised Signature\r\n{\r\n|\r\n|\r\ni p ~\r\n1\r\nI\r\ni\r\n",
+    "top_-12": "ul,\r\n\r\nIn\r\n\r\nTrag,\r\n\r\ni\r\n\r\nNv-393,\r\n\r\n[cusTomER MER COPY]\r\n\r\n21/p;\r\n\r\n72\r\n\r\n/ Custome,,\r\n\r\nBismijy,\r\n\r\nRate (Tk)\r\n\r\na\r\n",
+    "top_0": "yo\r\n\r\nKarnaphuli Traders\r\n\r\nSER OO\r\n\r\nis\r\n\r\nInvoice\r\n\r\nInvoice No: INV-3937.\r\n\r\nDate: 21/07/2026.\r\n\r\nBiH To / Customer: Bismillah Store, Tongi, Gazipur.\r\n\r\nres [wm | wer |\r\n",
+    "top_12": "yO)\r\n\r\npt\r\n\r\n7)\r\n\r\n<\\\r\n\r\n©\r\n\r\nTrade\r\n\r\nKarnaphutt\r\n\r\n\\nvoice\r\n\r\n3937\r\n\r\nvo\r\n\r\nNo WV\r\n\r\n21071292\r\n\r\nGazipws\r\n\r\nte (TW)\r\n\r\npiv /C\r\n\r\natta 268\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

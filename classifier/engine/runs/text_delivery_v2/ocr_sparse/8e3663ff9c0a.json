@@ -1,0 +1,13 @@
+{
+  "sample_id": "8e3663ff9c0a",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "b824f72e5b821df6a9366df291596be021c99a998d543927727b6a87d1acfc6a",
+  "full_text": "x\r\n\r\nDELIVERY\r\n\r\nHALLAN\r\n\r\nSELLER\r\n\r\nCONSIONEE\r\n\r\nABC Company\r\n\r\nTahmina\r\n\r\nShop 12 , Market Road, City — 400001\r\n\r\nHouse- 76, Road- 34, Kolkata\r\n\r\nVehicle no MH O1 AB 1238\r\n\r\nPurpose: Job work\r\n\r\niptio\r\n\r\nAC\r\n\r\nQty\r\n\r\nRate\r\n\r\nstile\r\n\r\nPencil Box\r\n\r\n2056\r\n\r\n180.00\r\n\r\n5%\r\n\r\n150.00\r\n\r\n27,000.00\r\n\r\nStapler\r\n\r\nKEL]\r\n\r\n250.00\r\n\r\n150.00\r\n\r\n?37,500.00\r\n\r\n6%\r\n\r\n3\r\n\r\n300.00\r\n\r\n¥550.00\r\n\r\n165,000.00\r\n\r\n10 %\r\n\r\nuss\r\n\r\n1436\r\n\r\nTaxable value\r\n\r\n¥2,29,500.00\r\n\r\nCast\r\n\r\n10,050.00\r\n\r\nSGST\r\n\r\n210,050.00\r\n\r\n————————————\r\n\r\nGrand total\r\n\r\n¥2,49,600.00\r\n\r\nAmount in words: Two Lakh Forty Nine Thousand Six Hundred Rupees Only\r\n\r\nNotes: Goods sent for the purpose stated above. Not a sale.\r\n",
+  "status": "unreviewed_OCR_output"
+}

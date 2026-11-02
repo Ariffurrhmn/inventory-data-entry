@@ -1,0 +1,27 @@
+{
+  "sample_id": "srd_1158-receipt",
+  "image_sha256": "459c47ef17e9b8a9779ee6c16117e182c4c1af8518d73f115a6df63fc2d38547",
+  "views": {
+    "full": "| HITASU JAPANESE RESTAURANT SDN BHD :\r\n| B-01, CENTRAL PLAZA,\r\n34, JALAN SULTAN ISMAIL,\r\n50250 KUALA LUMPUR\r\nTEL 03-2110 2833 A\r\nA (GST Reg. No : 001774428160)\r\nTax Invoice\r\nTable D2 \\\r\nB81114#:V001-201060 0dr No: 199535 |\r\n| Date : 29-06-2018 19:59:15 :\r\nA Cashier: AARON Pax(s): 11\r\n: Qty Description Total TAX |\r\nol, Samadi. SMECOE\r\n1 11 (28.01) Adult D 709.50 SR\r\n| Subtotal: 708.50\r\n. Serv. Charge (10%): 70.95\r\n| GST Payable (0%): 0.00\r\n] Total: 780.45\r\nTOTAL: 780.45\r\n] Closed: 001 29-06-2018 21:52:03\r\n| Server; AARON\r\n: VISA 780.45\r\n~ pkkrkkkkrkk3042\r\n- LIM CHAI JA\r\nAr inn\r\n",
+    "top_-12": "/\r\n\r\n[Lan\r\n\r\n8-01 ¢\r\n\r\nE.\r\n\r\nSTauR\r\n\r\nENTR4\r\n\r\n50250 kg,\r\n\r\nNV Ismay\r\n\r\nLumpy\r\n\r\n(csr EL 03-21;\r\n\r\nTap\r\n\r\nIs\r\n\r\nDoS\r\n\r\n174428150,\r\n\r\nte\r\n\r\n~201 060\r\n\r\n~U6\r\n\r\niio\r\n\r\n2018 19:59. for ha:\r\n\r\n199535\r\n\r\n-\r\n\r\nES Pax(s)\r\n\r\nhn\r\n\r\nSS ———\r\n",
+    "top_0": "—\r\n\r\nMITASU JAPANESE RESTAURANT SDN BHD\r\n\r\nB-01,CENTRAL PLAZA,\r\n\r\n34, JALAN SULTAN ISMAIL,\r\n\r\n50250 KUALA LUMPUR\r\n\r\nTEL 03-2110 2833\r\n\r\n001774428160)\r\n\r\n(GST Reg. No\r\n\r\nTax Invoice\r\n\r\nTable DZ\r\n\r\n0dr No: 199535\r\n\r\n0\r\n\r\nB81114:v001-201060\r\n\r\nDate\r\n\r\n: 29-06-2018 19:59:15\r\n\r\nCashier: AARON\r\n\r\nPax(s):\r\n\r\n1\r\n",
+    "top_12": "CR\r\n\r\npt SN\r\n\r\nAR\r\n\r\not\r\n\r\npLALA.\r\n\r\nWi\r\n\r\np60 3\r\n\r\nB\r\n\r\n0b\r\n\r\nSaw.\r\n\r\nTPR\r\n\r\n24, REA\r\n\r\n02%\r\n\r\nAN\r\n\r\ngar\r\n\r\n0 8 a\r\n\r\nTe\r\n\r\noy 12s\r\n\r\na\r\n\r\n0\r\n\r\ntab!\r\n\r\nN00)\r\n\r\n€ 901080\r\n\r\n8 19:53\" oaie):\r\n\r\n-—\r\n\r\n-—\r\n\r\ngi\r\n\r\ng-06-\r\n\r\nee\r\n\r\npate\r\n\r\nOMRON\r\n\r\nLe\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

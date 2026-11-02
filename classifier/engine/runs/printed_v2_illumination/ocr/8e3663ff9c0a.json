@@ -1,0 +1,27 @@
+{
+  "sample_id": "8e3663ff9c0a",
+  "image_sha256": "b824f72e5b821df6a9366df291596be021c99a998d543927727b6a87d1acfc6a",
+  "views": {
+    "full": "DELIVERY CHALLAN a\r\nDELIVERY CHALLAN. ns see\r\nSELLER CONSIONEE\r\nABC Company Tahmina\r\nShop 12, Market Road, City — 400001 House- 76, Road- 34, Kolkata\r\nVehicle no: MH 01 AB 1238 Purpose: Job work\r\n: 1 Pencil Box 9056 150.00 2180.00 227,000.00 5%\r\n2 Stapler 35a 250.00 150.00 37,500.00 8%\r\n3 uss 1436 300.00 ¥550.00 65,000.00 0 %\r\nTaxable value ¥2,29,500.00\r\n; CGST #10,050.00\r\nSGST %10,050.00\r\n—————————————————————————\r\n; Grand total ¥2,49,600.00\r\nAmount in words: Two Lakh Forty Nine Thousand Six Hundred Rupees Only :\r\nNotes: Goods sent for the purpose stated above. Not a sale,\r\n",
+    "top_-12": "SEL &R\r\n\r\nAbo Com,\r\n\r\nShop 15\r\n\r\n' Markey Re\r\n\r\neh\r\n\r\nCry 40000;\r\n\r\nONSiongg\r\n\r\nie ny HO! ag py\r\n\r\ning\r\n\r\nHouse.\r\n\r\nPurpose 0b wg\r\n\r\n78. Rong. 3,\r\n\r\n» Kolkay,\r\n\r\nPencir pg,\r\n\r\n805\r\n\r\nStag,\r\n\r\n354;\r\n\r\nSb\r\n\r\nUsa\r\n\r\n150, 00\r\n\r\nPap 06\r\n\r\n1435\r\n\r\n250.0\r\n\r\nC5,\r\n\r\n300.09\r\n\r\nPiso, 00\r\n\r\n#22000. 0g\r\n\r\n5%\r\n\r\n550.09\r\n\r\n3250p 00\r\n\r\n6%\r\n\r\n65,000 09\r\n\r\nyy\r\n",
+    "top_0": "ce\r\n\r\ngtd\r\n\r\noe\r\n\r\nSELLER\r\n\r\nCONSIGNEE\r\n\r\nABC Company\r\n\r\nTahmina\r\n\r\nShop 12 , Market Road, City — 400001\r\n\r\nHouse- 76, Road- 34, Kolkata\r\n\r\nVehicle no: MN O1 AB 1208\r\n\r\nPurpose: Job work\r\n\r\nPencii Box\r\n\r\n056\r\n\r\n150.00\r\n\r\n0180.00\r\n\r\n$27,000.00\r\n\r\n5%\r\n\r\n3541\r\n\r\n250.00\r\n\r\n®ns0.00\r\n\r\n€37,500.00\r\n\r\n6%\r\n\r\nStapiar\r\n\r\nusa\r\n\r\n1436\r\n\r\n300.00\r\n\r\n£550.08\r\n\r\n,65,000.00\r\n\r\n10%\r\n",
+    "top_12": "CONSIONEE\r\n\r\nfonmin®\r\n\r\not 3 Koka?\r\n\r\nwouse- 78\"\r\n\r\nELLER\r\n\r\n__ aoc!\r\n\r\ngc Comps”\r\n\r\n5%\r\n\r\nwar\r\n\r\net road.\r\n\r\nsnob\r\n\r\n7100000\r\n\r\n&%\r\n\r\nuf\r\n\r\nneo\r\n\r\n3?\r\n\r\n0 Ye\r\n\r\naot aan\r\n\r\n15000\r\n\r\norice 0\r\n\r\nnooo\r\n\r\n085\r\n\r\np00\r\n\r\na058\r\n\r\n95000\r\n\r\n5000\r\n\r\npench BX\r\n\r\n3583\r\n\r\n130000\r\n\r\nSap\r\n\r\n1436\r\n\r\nuse\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

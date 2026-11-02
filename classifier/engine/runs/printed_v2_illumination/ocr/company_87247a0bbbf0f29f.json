@@ -1,0 +1,27 @@
+{
+  "sample_id": "company_87247a0bbbf0f29f",
+  "image_sha256": "39c3772c6ea7c813100bfceaa4f8bb189a58d741a379c3e09d43160cc3b47690",
+  "views": {
+    "full": "Juniper Bikes PLC\r\nBuilt for every ride\r\n144 High Street - BS1 4DJ Bristol - United Kingdom\r\nNumber JB-BL-53202\r\nDate 1 Aug 2024\r\nOrder no. S053202\r\nCustomer ID AWO00027249\r\nP k = S | = PO number P0O-45080\r\nac [ n g | P Carrier Xrq - Truck Ground\r\nBILL TO\r\nEmma Cox\r\n6703 Milburn Dr.\r\n90401 Santa Monica, CA\r\nUnited States\r\nItem Description Ordered Shipped\r\nTI-T723 Touring Tire il 1\r\nPackages 1\r\nUnits on hand 1\r\nPacked by Received by\r\nPedal on, from all of us Juniper Bikes PLC\r\nVAT GB883310779\r\nPacking Slip JB-BL-53202 Pagel1/1\r\n",
+    "top_-12": "Jun\r\n\r\nIper\r\n\r\nesp\r\n\r\noh 3, reg,\r\n\r\nI for\r\n\r\nTY ik\r\n\r\nBristo Uniteg i; lo)\r\n\r\nPac\r\n\r\nNumb,\r\n\r\nIng g\r\n\r\nDate\r\n\r\nIp\r\n\r\nJIB-g;\r\n\r\n~5320,\r\n\r\nOrder ny\r\n\r\nBi To\r\n\r\nAug 2024\r\n\r\nStomer In\r\n\r\nEmmg\r\n\r\nCox\r\n\r\nS05329,\r\n\r\n670\r\n\r\nPumbg,\r\n\r\nW00027544\r\n\r\nEo)\r\n\r\nilbury 0\r\n\r\nCarri,\r\n\r\n4503g\r\n\r\nUniteg St,\r\n\r\n- once CA\r\n\r\nXrg . Tr\r\n\r\nToung\r\n",
+    "top_0": "a\r\n\r\nJuniper Bikes PLC\r\n\r\nBuilt for every ride\r\n\r\n144 High Street - BS1 4DJ Bristol - United Kingdom\r\n\r\nNumber\r\n\r\nJB-BL-53202\r\n\r\nDate\r\n\r\n1 Aug 2024\r\n\r\nOrder no.\r\n\r\nS053202\r\n\r\nCustomer ID\r\n\r\nAW00027249\r\n\r\nPO number\r\n\r\nPO-45080\r\n\r\nPacking Slip\r\n\r\nCarrier\r\n\r\nXrq - Truck Ground\r\n\r\nBILL TO\r\n\r\nEmma Cox\r\n\r\n6703 Milburn Dr.\r\n\r\n90401 Santa Monica, CA\r\n\r\nUnited States\r\n",
+    "top_12": "es PL\r\n\r\nJu\r\n\r\njt for every\r\n\r\nunited win\r\n\r\nqdo™\r\n\r\n380s!\r\n\r\np1L53202\r\n\r\npic\r\n\r\neet\r\n\r\n4 pug\r\n\r\n20%\r\n\r\na HiD Si\r\n\r\number\r\n\r\npate\r\n\r\n4083202\r\n\r\nodel no\r\n\r\npwoo02248\r\n\r\nomer ¥\r\n\r\npO-45080\r\n\r\nCust\r\n\r\nTeuck\r\n\r\nGroun\r\n\r\npO ure!\r\n\r\nhit\r\n\r\ncartief\r\n\r\n9 s\\ip\r\n\r\npack\"\r\n\r\nBi\r\n\r\nLTO\r\n\r\naC\r\n\r\nCh\r\n\r\n3 Mil!\r\n\r\nCE\r\n\r\nurited 5\r\n\r\n(ates\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

@@ -1,0 +1,141 @@
+sample_id,split,label,included,exclusion_reason,reference_characters,character_edits,reference_words,word_edits
+9e24dadfc2de,test,purchase_order,True,,433,190,72,41
+cc6e515ae67f,val,purchase_order,True,,519,12,91,5
+4840bfe10310,val,purchase_order,True,,490,11,89,6
+9446fd410ee3,val,purchase_order,True,,525,12,90,8
+02bfde5bf771,val,purchase_order,True,,496,12,91,8
+a20b14dd771c,val,purchase_order,True,,512,5,88,7
+e5a5a0f1a894,val,purchase_order,True,,471,5,81,4
+ee4df28e7c36,val,purchase_order,True,,518,12,91,5
+00814f24e77a,train,purchase_order,True,,230,13,40,6
+c5ffa86a7c34,train,purchase_order,True,,300,13,54,6
+a9665cd4aaa7,train,purchase_order,True,,260,13,45,6
+9a3b168b4497,train,purchase_order,True,,310,13,54,6
+4672e3a30c1f,train,purchase_order,True,,305,13,54,6
+9b53f368be38,train,purchase_order,True,,267,13,47,6
+4a87af5776ae,train,purchase_order,True,,351,13,60,6
+1b128b83e60a,train,purchase_order,True,,415,68,60,14
+de306abe6ff8,train,purchase_order,True,,380,64,59,10
+fb2283be766d,train,purchase_order,True,,371,66,57,10
+b99246952e96,train,purchase_order,True,,320,67,48,10
+e8ad229bba0c,train,purchase_order,False,explicit uncertainty,0,0,0,0
+476131eff924,val,receipt,True,,65,33,12,14
+5dffabcb47cb,val,receipt,False,explicit uncertainty,0,0,0,0
+7c33fa811984,val,receipt,False,explicit uncertainty,0,0,0,0
+66f77b274d3f,train,receipt,False,explicit uncertainty,0,0,0,0
+213305d225b2,train,receipt,False,explicit uncertainty,0,0,0,0
+3223c78f7136,train,receipt,False,explicit uncertainty,0,0,0,0
+a162d6ad43e0,train,receipt,False,explicit uncertainty,0,0,0,0
+4ee98001cc91,train,receipt,False,explicit uncertainty,0,0,0,0
+c33ada961240,train,receipt,False,explicit uncertainty,0,0,0,0
+d6b7679bc0a8,train,receipt,False,explicit uncertainty,0,0,0,0
+7bd460b8c269,train,receipt,False,explicit uncertainty,0,0,0,0
+5564ab2d8b11,test,receipt,False,explicit uncertainty,0,0,0,0
+fcac4e4559e8,train,receipt,False,explicit uncertainty,0,0,0,0
+e24acf8b8294,test,receipt,False,explicit uncertainty,0,0,0,0
+be13e587ee89,test,receipt,False,explicit uncertainty,0,0,0,0
+c4e63d9e78fe,test,receipt,False,explicit uncertainty,0,0,0,0
+dc0e8749153f,test,receipt,False,explicit uncertainty,0,0,0,0
+99227d025be4,train,receipt,False,explicit uncertainty,0,0,0,0
+684abec37a2d,val,receipt,False,explicit uncertainty,0,0,0,0
+6d09ac8fd547,val,receipt,True,,92,28,15,12
+c444a2174871,val,receipt,True,,100,35,15,12
+6329716534d8,val,receipt,True,,78,68,13,13
+8c92842adf8d,train,receipt,False,explicit uncertainty,0,0,0,0
+0ce1130827a7,train,receipt,False,explicit uncertainty,0,0,0,0
+57a2af8488b1,train,receipt,False,explicit uncertainty,0,0,0,0
+645703699d96,train,receipt,False,explicit uncertainty,0,0,0,0
+fcd28e1cf903,train,receipt,False,explicit uncertainty,0,0,0,0
+f94a1cc40a05,train,receipt,False,explicit uncertainty,0,0,0,0
+c671941cf57c,train,delivery_note,True,,530,74,82,20
+6f5831a6d9e7,train,delivery_note,True,,592,66,88,22
+40ba7ce1f258,train,delivery_note,True,,643,69,101,19
+f06d5208a0a0,train,delivery_note,True,,596,62,95,16
+982d3081da15,train,delivery_note,True,,597,128,93,26
+4a57d261cb80,train,delivery_note,True,,649,108,102,26
+192e9fb6775d,train,delivery_note,True,,655,139,101,32
+885c97fddc39,train,delivery_note,True,,676,136,104,27
+7875077c420c,train,delivery_note,True,,723,140,113,30
+dad342ae96cd,train,delivery_note,True,,721,472,116,73
+a7a5a3135540,train,delivery_note,True,,615,119,98,28
+f8a4d08ece59,train,delivery_note,True,,708,579,115,97
+3177e03984b6,train,delivery_note,True,,730,368,121,78
+4c2e748c6bc8,train,delivery_note,True,,775,115,127,35
+cbce3b093ee3,train,delivery_note,True,,643,112,106,22
+450255bc884a,test,delivery_note,False,explicit uncertainty,0,0,0,0
+4784d328f244,test,delivery_note,False,explicit uncertainty,0,0,0,0
+07b749907de5,test,delivery_note,False,explicit uncertainty,0,0,0,0
+0737a6ca5674,test,delivery_note,False,explicit uncertainty,0,0,0,0
+d6174f39143f,test,delivery_note,False,explicit uncertainty,0,0,0,0
+54a5c3334a7e,train,customer_copy,True,,275,18,45,7
+c48efeff07df,test,customer_copy,False,explicit uncertainty,0,0,0,0
+3f351516323d,train,customer_copy,True,,353,131,55,35
+e4c7eb83722c,val,customer_copy,True,,274,173,42,31
+943348c8acbb,train,customer_copy,False,explicit uncertainty,0,0,0,0
+346ff589b408,train,customer_copy,False,explicit uncertainty,0,0,0,0
+1e9226ab9225,val,customer_copy,False,explicit uncertainty,0,0,0,0
+4f2b8c0f0665,train,customer_copy,False,explicit uncertainty,0,0,0,0
+d1f27e35f5f3,test,customer_copy,True,,296,52,45,22
+4ee52bb59124,test,customer_copy,True,,436,33,66,13
+89f5500d9c0a,test,customer_copy,True,,426,49,69,10
+f39cc34d6d46,train,customer_copy,False,explicit uncertainty,0,0,0,0
+723ee7e6a909,train,customer_copy,False,explicit uncertainty,0,0,0,0
+334d0ebf3186,train,customer_copy,True,,409,95,66,35
+560a1b9a6415,test,customer_copy,False,explicit uncertainty,0,0,0,0
+8f6f9027cdb3,test,customer_copy,True,,393,148,62,39
+71fa862a7998,val,customer_copy,False,explicit uncertainty,0,0,0,0
+6472ff0a74e9,train,customer_copy,True,,364,43,54,20
+6085360f9c73,train,purchase_order,True,,320,122,48,22
+e18612fb393c,test,delivery_note,False,explicit uncertainty,0,0,0,0
+6ab38289be74,test,delivery_note,False,explicit uncertainty,0,0,0,0
+adab8f169fec,test,delivery_note,False,explicit uncertainty,0,0,0,0
+26fe0fcbc04b,test,delivery_note,False,explicit uncertainty,0,0,0,0
+6b6a915859a2,test,delivery_note,False,explicit uncertainty,0,0,0,0
+a35a5b21dd98,train,purchase_order,False,annotation marker,0,0,0,0
+63d735225c26,test,purchase_order,False,annotation marker,0,0,0,0
+53ed22a39c62,test,purchase_order,False,annotation marker,0,0,0,0
+308d04e806ba,train,purchase_order,False,annotation marker,0,0,0,0
+76cc99d39da4,train,purchase_order,False,annotation marker,0,0,0,0
+dcd1a6bdfa0a,val,delivery_note,False,annotation marker,0,0,0,0
+558ab17fe557,test,purchase_order,True,,378,329,58,110
+11b4da10d765,test,purchase_order,True,,321,63,54,8
+12d89294d43a,val,purchase_order,False,annotation marker,0,0,0,0
+772f10ad9975,test,purchase_order,True,,306,124,52,26
+c4191b0e458a,test,purchase_order,True,,359,136,62,29
+85bbff3bf001,train,purchase_order,True,,351,47,60,11
+11929597c29a,train,purchase_order,True,,363,165,51,31
+52dd257aa6bf,train,purchase_order,True,,380,327,59,53
+2a0efadf472e,train,purchase_order,True,,319,219,48,38
+9b3146e1da82,train,delivery_note,True,,643,556,106,98
+9c963148c0b7,train,delivery_note,True,,775,561,127,104
+e44a9a33b016,train,delivery_note,True,,730,462,121,92
+d6c285c6c5d0,train,delivery_note,True,,708,689,115,113
+e0835ab84434,train,delivery_note,True,,615,157,98,41
+08811c30b08a,train,delivery_note,True,,721,721,116,116
+3019fd45ae14,train,delivery_note,True,,723,192,113,46
+9d3c43f5edd8,train,delivery_note,True,,676,185,104,43
+1ae7adb382c4,train,delivery_note,True,,655,189,101,46
+8e3663ff9c0a,train,delivery_note,True,,649,204,102,42
+3613644641fd,train,delivery_note,True,,597,251,93,58
+c3288c82627e,train,delivery_note,True,,596,596,95,95
+ff15e557fb64,train,delivery_note,True,,643,643,101,101
+926169f08e35,train,delivery_note,True,,592,592,88,88
+9d2600fd4658,train,delivery_note,True,,530,530,82,82
+ddb01e6bbf91,val,delivery_note,False,annotation marker,0,0,0,0
+2c1013e6c832,val,delivery_note,False,annotation marker,0,0,0,0
+29bd052c0c45,val,delivery_note,False,annotation marker,0,0,0,0
+f9918570b903,train,delivery_note,False,annotation marker,0,0,0,0
+398c6ef688e4,train,delivery_note,False,annotation marker,0,0,0,0
+1610534c8b1f,train,delivery_note,False,annotation marker,0,0,0,0
+502854082b30,val,delivery_note,False,annotation marker,0,0,0,0
+f86fbe7e1303,train,delivery_note,False,annotation marker,0,0,0,0
+74a4bb73855d,val,delivery_note,False,annotation marker,0,0,0,0
+cdd7aaa9004d,train,customer_copy,False,annotation marker,0,0,0,0
+8b270977a7a7,train,customer_copy,False,annotation marker,0,0,0,0
+6639e70671f3,train,customer_copy,False,annotation marker,0,0,0,0
+42d9b408c783,train,customer_copy,True,,255,126,43,28
+382ba345a187,val,customer_copy,False,annotation marker,0,0,0,0
+11d42d9168f2,train,customer_copy,False,annotation marker,0,0,0,0
+33a6690bb891,train,customer_copy,False,annotation marker,0,0,0,0
+fb76d6216e2b,val,customer_copy,False,annotation marker,0,0,0,0
+e396ade11def,train,customer_copy,False,annotation marker,0,0,0,0

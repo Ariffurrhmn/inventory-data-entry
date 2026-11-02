@@ -1,0 +1,13 @@
+{
+  "sample_id": "2a0efadf472e",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "0d56c882c504744f8cbf2dbbe36e1f4341316e2dccb7bc5d5abd9197c798bf67",
+  "full_text": "HGT Company\r\n\r\nPURCHASE ORDER\r\n\r\nShop-12,\r\n\r\nPanjora, Gazipur,\r\n\r\nNumber:\r\n\r\nPO 19\r\n\r\nDhaka,\r\n\r\nDate:\r\n\r\n2026-09-18\r\n\r\nBanglasesh\r\n\r\nDue Date:\r\n\r\n2026-10-16\r\n\r\nBILL TO\r\n\r\nXK Company\r\n\r\nShop-43,\r\n\r\nMirpue-10\r\n\r\nDhaka,\r\n\r\nBanglasesh\r\n\r\na\r\n\r\nSCRIPTION\r\n\r\nQty\r\n\r\nRATE\r\n\r\nAMOUNT\r\n\r\n10\r\n\r\neR es\r\n\r\nEe,\r\n\r\nSea\r\n\r\nie\r\n\r\niis\r\n\r\neras\r\n\r\ncy\r\n\r\nCeramic Mug\r\n\r\n$4.50\r\n\r\nEE ER Se\r\n\r\nea\r\n\r\nen 2 eA\r\n\r\nSiN\r\n\r\niE\r\n\r\nSeo ENA\r\n\r\nSRR\r\n\r\n1\r\n\r\n$2.01\r\n\r\neen\r\n\r\nEE RR\r\n\r\na\r\n\r\n3%\r\n\r\ni\r\n\r\nS\r\n\r\nRs\r\n\r\noN\r\n\r\nBe\r\n\r\n%\r\n\r\nSy\r\n\r\n$31.51\r\n\r\nTs\r\n\r\nio\r\n\r\n2\r\n\r\nTR\r\n\r\nis\r\n\r\na\r\n\r\non\r\n\r\ni\r\n\r\nSk\r\n\r\ney\r\n\r\n=\r\n\r\nhas\r\n\r\nSRE\r\n\r\nGo\r\n\r\nTe\r\n\r\ni\r\n\r\nes\r\n\r\nor\r\n\r\n433\r\n\r\nfEhh\r\n\r\n0\r\n\r\na\r\n\r\ni\r\n\r\n3\r\n\r\nI;\r\n\r\nBe\r\n\r\nTe\r\n\r\nee\r\n\r\nhs\r\n\r\nre\r\n\r\ndg\r\n\r\nRey\r\n\r\ni\r\n\r\nit\r\n\r\nSr\r\n\r\nRe\r\n\r\nof\r\n\r\nNe\r\n\r\n“a\r\n\r\nGE\r\n\r\nEn\r\n\r\na\r\n\r\nek?\r\n\r\nSe\r\n\r\na\r\n\r\nhis\r\n\r\nTs\r\n\r\nSa\r\n",
+  "status": "unreviewed_OCR_output"
+}

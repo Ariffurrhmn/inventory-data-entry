@@ -1,0 +1,13 @@
+{
+  "sample_id": "srd_1190-receipt",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "9912be248dc4a8715c39a2b95534ff633183a43771b6c5d5051636e0f513ff02",
+  "full_text": "Fe\r\n\r\nYC\r\n\r\nWk\r\n\r\nfn?\r\n\r\n=r\r\n\r\nSind\r\n\r\nbef\r\n\r\nved\r\n\r\nBomsay Grit\r\n\r\nHouse\r\n\r\nIndian Cuisine\r\n\r\nBombay Grill House\r\n\r\n764 9TH AVE\r\n\r\nNEW YORK, NY 10019\r\n\r\n2129771010\r\n\r\nAny Special Offer will be at End of Receipt\r\n\r\nORDER: Table 2\r\n\r\nDine In\r\n\r\n30-Jun-2018 10:36:38P\r\n\r\nTransaction 104379\r\n\r\n1\r\n\r\nOnion Bhaja\r\n\r\n$5.95\r\n\r\nLamb Vindaloo\r\n\r\n$14.95\r\n\r\n1\r\n\r\nmedium\r\n\r\n1\r\n\r\nKonkan Fish Curry\r\n\r\n$16.95\r\n\r\nmedium\r\n\r\n$16.95\r\n\r\n1\r\n\r\nShrimp Briyani\r\n\r\nmedium\r\n\r\n$4.00\r\n\r\n1\r\n\r\nGarlic Naan\r\n\r\n$50.00\r\n\r\n1\r\n\r\nHess Cabernet\r\n\r\n$108.80\r\n\r\nSubtotal\r\n\r\nTax\r\n\r\n$9.66\r\n\r\n$118.46\r\n\r\nTotal\r\n\r\nCREDIT CARD AUTH\r\n\r\n$118.46\r\n\r\nMASTERCARD 0148\r\n\r\np”\r\n\r\n-C\r\n\r\n>\r\n\r\nS\r\n\r\nS¥\r\n\r\n—\r\n\r\nEE\r\n\r\nTip\r\n\r\n1S4.00\r\n\r\nTotal\r\n\r\ni —\r\n\r\n-—\r\n\r\n-—\r\n\r\nin\r\n\r\n—\r\n\r\n——\r\n\r\ncwWiIN Al EXANDER\r\n",
+  "status": "unreviewed_OCR_output"
+}

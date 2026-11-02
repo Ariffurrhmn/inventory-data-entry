@@ -1,0 +1,27 @@
+{
+  "sample_id": "9d3c43f5edd8",
+  "image_sha256": "b9febd188fbbc841d644b5ae5b109230385ab5a8d80baef6e078e37a44f9c693",
+  "views": {
+    "full": "DELIVERY CHALLAN = via 20.05.08\r\nSELLER CONSIGNEE\r\nABC Company Usha\r\nShop 12 , Market Road, City — 400001 HMouse- 72, Road- 24, Kolkata\r\nVehicle no MH 01 AB 1238 Purpose: Job work\r\n#- Description © Lol HSNISAC Liha Rate Taxable 0 GST%\r\n1 Wireless Mouse 9207 50.00 £750.00 237,500.00 20%\r\n2 Computer Keyboard 3541 250.00 960.00 ¥2,25,000.00 6%\r\n3 USB- C Cable 1436 500.00 2250.00 %1,25,000.00 5%\r\nTaxable value ¥3,87,500.00\r\nCGST 13,625.00\r\nSGST ®13,625.00\r\nGrand total ¥4,14,750.00\r\nAmount in words: Four Lakh Fourteen Thousand Seven Hundred Fifty Rupees Only\r\nNotes: Goods sent for the purpose stated above. Not a sale.\r\n",
+    "top_-12": "Sor\r\n\r\nSELigq\r\n\r\nAsp\r\n\r\n+ Marke 1) Ro,\r\n\r\nhy 0000\r\n\r\nCONSIGN, &\r\n\r\nha\r\n\r\nShicle ng MH oy AB 129g\r\n\r\nMolseq. 72\r\n\r\nPurpose Jop ws,\r\n\r\n« Roa, 24 Kok\r\n\r\nelegy Mouse\r\n\r\nCompura, Ke\r\n\r\nS20,\r\n\r\nUsa.o\r\n\r\n54;\r\n\r\n50.09\r\n\r\n750, 0g\r\n\r\n143g\r\n\r\n250 00\r\n\r\n900.0,\r\n\r\n#3250009\r\n\r\n*2.25.000.00,\r\n\r\n05,\r\n\r\n025 %0\r\n\r\n6%\r\n\r\n#1250004\r\n\r\nvai wan\r\n\r\n5%\r\n\r\n\"97500 ng\r\n",
+    "top_0": "SA,\r\n\r\nEON\r\n\r\nee\r\n\r\n_—\r\n\r\nSELLER\r\n\r\nCONSIGNEE\r\n\r\nABC Company\r\n\r\nUsha\r\n\r\nShop 12, Market Road, City — 400001\r\n\r\nHouse- 72, Road- 24, Kolkata\r\n\r\nVehicle no. MH 01 AB 123\r\n\r\nPurpose: Job work\r\n\r\n1\r\n\r\nWireless Mouse\r\n\r\n9207\r\n\r\n50.00\r\n\r\n750.00\r\n\r\n37,500.00\r\n\r\n20%\r\n\r\n2\r\n\r\nCompuner Keyboard\r\n\r\n3541\r\n\r\n250.00\r\n\r\n9900.00\r\n\r\n¥2,26,000.00\r\n\r\n6%\r\n\r\n3\r\n\r\nUSB-C Cable\r\n\r\n1436\r\n\r\n600.00\r\n\r\n2250.00\r\n\r\n€1,25,000.00\r\n\r\n§%\r\n\r\nTawalia vais\r\n\r\n12 A78H0 Hn\r\n",
+    "top_12": "CONS\r\n\r\n\\GNEE\r\n\r\nkat\r\n\r\nys n poat- 24\r\n\r\nous®\r\n\r\ngener\r\n\r\n_ 400001\r\n\r\n20%\r\n\r\nanc ©0\r\n\r\nwarket\r\n\r\noad\r\n\r\nnop V2\r\n\r\n«37500 %\r\n\r\n8%\r\n\r\npur\r\n\r\nose: Job we\r\n\r\not spud\r\n\r\nRee\r\n\r\n© 2500090\r\n\r\n8%\r\n\r\n£0.00\r\n\r\n\\ehicie no’\r\n\r\nwn\r\n\r\n©.25\r\n\r\n00080\r\n\r\n020!\r\n\r\n250.00\r\n\r\nws ®\r\n\r\npers Lud\r\n\r\n9541\r\n\r\nwrele\r\n\r\n58 Mouse\r\n\r\n5000\r\n\r\npats\r\n\r\nJET\r\n\r\ncompute’\r\n\r\n1436\r\n\r\nuse-c\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

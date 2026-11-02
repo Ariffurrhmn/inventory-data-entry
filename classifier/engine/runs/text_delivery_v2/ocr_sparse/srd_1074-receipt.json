@@ -1,0 +1,13 @@
+{
+  "sample_id": "srd_1074-receipt",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "0774c1baaf7b55661dc7a5085e67d06c0456a4d0d2d4441fb6ab557bca5a79e3",
+  "full_text": "Li,\r\n\r\nai ie\r\n\r\n4 Lot\r\n\r\nH#H# OO:\r\n\r\n270\r\n\r\nLin Buffet\r\n\r\n7988 N. Expressway\r\n\r\nBrownsville, TX\r\n\r\n+ 1 2 x me Se Se 2 SE TE INIT IID IIIT\r\n\r\nFhone(856)544-6600\r\n\r\nPrigeepaniepespeps\r\n\r\npede Co ms EE El CE EE mr or = = om ae mt hm mn ee om mm ee\r\n\r\ntate: Feb 24, 2019\r\n\r\nTime: 03:22PM\r\n\r\nServer: Kenyve Judith\r\n\r\n# Guest: 1\r\n\r\ngill: 0270\r\n\r\n2 Weekend Buffet\r\n\r\n21.18\r\n\r\n3.98\r\n\r\nVy 2 Drink\r\n\r\nes es\r\n\r\n© ——— soe se Vt 7\r\n\r\n———————EEEE EE\r\n\r\nSubtotal\r\n\r\n31.16\r\n\r\nSales Tax\r\n\r\n2.57\r\n\r\n ———\r\n\r\nA — 1 ————— \"So ———\r\n\r\nTot\r\n\r\ni 0\r\n\r\n0 33.73\r\n\r\nVise\r\n\r\n33.73\r\n\r\nka\r\n\r\nBeverages\r\n\r\nJ.98\r\n\r\nFood\r\n\r\n27.18\r\n\r\nOpen Time : Feb 24, 2018 03:22PM\r\n",
+  "status": "unreviewed_OCR_output"
+}

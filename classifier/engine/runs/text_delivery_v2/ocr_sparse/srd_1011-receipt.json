@@ -1,0 +1,13 @@
+{
+  "sample_id": "srd_1011-receipt",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "792eceb2a92a091f427d41f62d9316d8a6a164fdc7c849d7027ff474f924855f",
+  "full_text": "Quick 73\r\n\r\nity\r\n\r\nMark L\r\n\r\nNuys Bl\r\n\r\nvD\r\n\r\nSher\r\n\r\nad\r\n\r\n010.0\r\n\r\nOaks Cc A 91401\r\n\r\n4\r\n\r\n1 &£\r\n\r\nol\r\n\r\nJun 26\r\n\r\nBeef Ribs\r\n\r\n0\r\n\r\n$36 86\r\n\r\nWeight\r\n\r\n189Ibs @ %\r\n\r\n19 50/bs\r\n\r\nPulled Pork Sand\r\n\r\n$8.50\r\n\r\n$0.00\r\n\r\n‘Reg\r\n\r\n$3.35\r\n\r\nCreamed Com[Small]\r\n\r\nLonghorn Mac & Cheese[sm]\r\n\r\n$4.20\r\n\r\nC\r\n\r\n~hocolate Cake[Slice]\r\n\r\n$3.95\r\n\r\n$2.25\r\n\r\n—\r\n\r\nws\r\n\r\nFountain Soda\r\n\r\n$59.11\r\n\r\nSubtotal\r\n\r\nCA Sales Tax\r\n\r\n$5.32\r\n\r\nTotal\r\n\r\n$64.43\r\n\r\n$64.43\r\n\r\nWells Fargo\r\n\r\nChange\r\n\r\n$0.00\r\n\r\nThank You for Visiting\r\n\r\nPlease visit our website:\r\n\r\nwww.smokecitymarket. com\r\n\r\nEnjoy our BBQ? 'Like' us on\r\n\r\nfacebook and Yelp\r\n\r\nPlease rate us on Zagat\r\n\r\nWW Zagat com/r/smoke-city-market-van-nuy\r\n",
+  "status": "unreviewed_OCR_output"
+}

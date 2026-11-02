@@ -1,0 +1,13 @@
+{
+  "sample_id": "c671941cf57c",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "2b946ffed9ef4bd002a9accfb739beebad1f7f9276766d31324c36e937f4a92f",
+  "full_text": "DELIVERY CHALLAN\r\n\r\nYour Business Name\r\n\r\nChallan no.: DC-001\r\n\r\nDate: 2026-09-04\r\n\r\nPlace of supply: Maharashtra\r\n\r\nSELLER\r\n\r\nCONSIGNEE\r\n\r\nYour Business Name\r\n\r\nCustomer Name\r\n\r\nShop 12, Market Road, City — 400001\r\n\r\nVehicle no.: MH 01 AB 1234\r\n\r\nPurpose: Job work\r\n\r\nDescription\r\n\r\nHSN/SAC\r\n\r\nQty\r\n\r\nRate\r\n\r\nTaxable\r\n\r\nGST %\r\n\r\n1\r\n\r\n9983\r\n\r\n1.00\r\n\r\n18%\r\n\r\nItem / service\r\n\r\n21,000.00\r\n\r\n21,000.00\r\n\r\nTaxable value\r\n\r\n%1,000.00\r\n\r\nCGST\r\n\r\n%90.00\r\n\r\nSGST\r\n\r\n%90.00\r\n\r\nGrand total\r\n\r\n1,180.00\r\n\r\nAmount in words: One Thousand One Hundred Eighty Rupees Only\r\n\r\nNotes: Goods sent for the purpose stated above. Not a sale.\r\n",
+  "status": "unreviewed_OCR_output"
+}

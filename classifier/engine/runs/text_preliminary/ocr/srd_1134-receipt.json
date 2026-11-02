@@ -1,0 +1,15 @@
+{
+  "sample_id": "srd_1134-receipt",
+  "image_path": "Dataset\\intake\\2026-10-19\\expressexpense_srd\\images\\1134-receipt.jpg",
+  "image_sha256": "17343b6eed229cdaf42e094bf7f06aa7c9f0f7757c6329a4291e75169fc5ebf8",
+  "full_text": "be\r\na —— —_\r\n—— Ba _ —_—\r\n= 3 ~~ i\r\n— — -\r\n. KFC\r\n~ Restaurant #Cip0014 a.\r\n3880 Hempstead Turnpike %\r\n- Levittown\r\na (516)735-3508\r\n[icket #zZ884 :\r\n2016-07-08 Lo S:8 PN\r\nC160014 2 117 2884 = i\r\nCashier: TIANA\r\nFamily Fill Up 20.00 8\r\nLrg Coleslaw\r\nLrg Mash/ Gvy\r\nLrg Mash Only\r\n\r\nVE THRU $21.73\r\n\r\ner Credit\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

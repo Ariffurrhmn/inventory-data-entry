@@ -1,0 +1,76 @@
+{
+  "selected_by_training_cv": "complement_nb",
+  "selected_validation": {
+    "n": 25,
+    "correct": 22,
+    "accuracy": 0.88,
+    "macro_f1": 0.8755952380952381,
+    "class_report": {
+      "purchase_order": {
+        "precision": 0.9090909090909091,
+        "recall": 1.0,
+        "f1-score": 0.9523809523809523,
+        "support": 10.0
+      },
+      "receipt": {
+        "precision": 0.6,
+        "recall": 1.0,
+        "f1-score": 0.75,
+        "support": 3.0
+      },
+      "delivery_note": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 3.0
+      },
+      "customer_copy": {
+        "precision": 1.0,
+        "recall": 0.6666666666666666,
+        "f1-score": 0.8,
+        "support": 9.0
+      },
+      "accuracy": 0.88,
+      "macro avg": {
+        "precision": 0.8772727272727272,
+        "recall": 0.9166666666666666,
+        "f1-score": 0.8755952380952381,
+        "support": 25.0
+      },
+      "weighted avg": {
+        "precision": 0.9156363636363636,
+        "recall": 0.88,
+        "f1-score": 0.878952380952381,
+        "support": 25.0
+      }
+    },
+    "confusion_matrix": [
+      [
+        10,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        3,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        3,
+        0
+      ],
+      [
+        1,
+        2,
+        0,
+        6
+      ]
+    ]
+  },
+  "historical_test_inputs_opened": 0,
+  "activated": false
+}

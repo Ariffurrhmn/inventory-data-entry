@@ -1,0 +1,15 @@
+{
+  "sample_id": "company_6521e7b53cc02376",
+  "image_path": "Dataset\\intake\\2026-10-19\\company_documents_v2\\images\\packing_slip\\6521e7b53cc02376.jpg",
+  "image_sha256": "340c682ec886cc2eeac43fb3bdf8e0efd10f7737b6306aebc09637eb0decd37e",
+  "full_text": "Iw Packing Slip\r\n\r\nIris Wheelworks LLC\r\n\r\nNumber PS-66155\r\nPrecision wheels, smooth rides for\r\nall Date 2025-02-17\r\n410 Oak Street Order no S066155\r\nSuite 143 Customer ID AW00012048\r\n02110 Boston, MA 9 K A\r\nUSA Carrie Xrq - Truck Groun\r\nPhone: (591) 555-4212\r\ncontact@iriswheelworks.com BILL TO\r\n\r\nwww.iriswheelworks.com\r\nEIN 80-142. 3\r\n\r\nKayla Coleman\r\n\r\n6869 Meier Road\r\n\r\n97034 Lake Oswego, OR\r\nBANK DETA United States\r\n\r\nBank: Northern Trust Bank Phone: 225-555-0182\r\nAccount: 5585791826\r\n\r\nRouting no.: 440248973\r\n\r\nItem Description Ordered Shipped\r\nLJ-0192- Long-Sleeve Logo Jersey, XL i i\r\nX Unisex long-sleeve AWC logo microfiber cycling jersey\r\n\r\nCA-1098 AWC Logo Cap 1 1\r\n\r\nTraditional style with a flip-up brim; one-size fits al\r\n\r\nPackages 1\r\n\r\nUnits on hand 2\r\n\r\nNOTES\r\n\r\nTires tested for maximum durability.\r\n\r\nPacked by Received by\r\n\r\nYour next ride is just around the corner\r\n\r\nPacking Slip F Page 1/1\r\n\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

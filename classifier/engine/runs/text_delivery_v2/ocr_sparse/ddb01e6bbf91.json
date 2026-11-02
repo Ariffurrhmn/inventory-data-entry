@@ -1,0 +1,13 @@
+{
+  "sample_id": "ddb01e6bbf91",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "c7c4682c715d8d2fa62ab805c6726b0882fd15da292e55c97b2f8fe1468138bc",
+  "full_text": "Jamuna Wholesale\r\n\r\nDelivery Challan\r\n\r\n-\r\n\r\nLT\r\n\r\n» Wott of Tp\r\n\r\nEy 1\r\n\r\n2 Soybean oil 51\r\n\r\n5 [Togore 00g | 12\r\n\r\nBall Pen box\r\n\r\nEN\r\n\r\n5 | bit ee\r\n\r\nReceived By\r\n\r\nDelivered By\r\n\r\nTT me Ty a a\r\n",
+  "status": "unreviewed_OCR_output"
+}

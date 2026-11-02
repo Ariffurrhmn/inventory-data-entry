@@ -1,0 +1,27 @@
+{
+  "sample_id": "srd_1028-receipt",
+  "image_sha256": "0a46baab3fa5f88f22848fea2b61659d55635c40fbe8c380a03b7a5dafe6aeda",
+  "views": {
+    "full": "1 Ape ,\r\ni= TERME ILITEXIEIZ] )\r\nHFS\r\nvii\r\nEEE a (jac ¢\r\nrE! DOUGLAS BURGERS #15 A H\r\npk Bl 11325 Hasnington Blvd ¢ !\r\nBEd hitter, Calif 50805 | .\r\nHEE (562) 699-7424 a \\\r\nbE Check 20018\r\nPEE Buf ur 2/09/13 5:30pa t\r\n[fo : zzz Po TTS oe 1s df Spe\r\n‘Cs X81 BURGER COMBO 9.99 ay\r\nkt * fries ¢ g\r\nvt *aserican che 0.70 Fa\r\n\r\n3 1 #+add bacon 1.98 130\r\n35 gril onionsk 1gea\r\n: $f 1 SUB 2UCCHIN] 2.48 pe\r\nfoe Bi! Raspberry Ice Te Rt\r\nrap ord Burger (174) 5.89 .\r\n= i} * sesame bun 4\r\nmpg! REGULARS *\r\nGG Xiy 1 #*add baconsx 1.88 \\\r\nBB EPIy 1 *%add avocadoss 1.99 ASA\r\nBU MAKE SPECIAL 3.0 AT\r\nb = * onions rings * 2.48 \\ h\r\n3 & * lesonade * A\r\nBi SERV.CHARGE(2%) 0:81\r\nN WB! Er IIIIIIIIIIIITISIussIsImTrsrs=cossos\r\nB® Sut] 31.24 8\r\nTax 2.97\r\n¥! *DRV THRU 34.21 .\r\nA |\r\nt® Cash %.2! |\r\n",
+    "top_-12": "FJ\r\n\r\n3s\r\n\r\n2:3\r\n\r\n[1\r\n\r\nhd\r\n\r\n1]\r\n\r\n11325 yao\r\n\r\n$Y ngtg\r\n\r\nERS\r\n\r\n#5\r\n\r\nter\r\n\r\nCalg\r\n\r\nlng\r\n\r\nhE TN\r\n\r\n(562)\r\n\r\n24,\r\n\r\nS47\r\n\r\nhE\r\n\r\nChee,\r\n\r\n20,\r\n\r\n—\r\n\r\n~~.\r\n\r\n3a\r\n\r\nzs.\r\n\r\n20097;\r\n\r\nO18\r\n\r\nSR\r\n\r\nR\r\n\r\na FH\r\n\r\ntang\r\n\r\nir\r\n\r\nles\r\n\r\nerase\r\n\r\nSize\r\n\r\n_ 5:30pg\r\n\r\nSrp\r\n\r\n==\r\n\r\nA\r\n\r\n~\r\n\r\n8.99\r\n\r\nLRN\r\n\r\ni]\r\n",
+    "top_0": "2\r\n\r\nHe FATS F HAE FHI He 4\r\n\r\nxs\r\n\r\n91\r\n\r\n4\r\n\r\ni\r\n\r\nDOUGLAS BURGERS 815\r\n\r\n11325 Masrington Blvd\r\n\r\nWhtter, Calif S005\r\n\r\nJR.\r\n\r\n(562) 699-7434\r\n\r\ncm\r\n\r\nPE\r\n\r\nCheck 20018\r\n\r\nSAT\r\n\r\n2/08/18\r\n\r\n5:30p8\r\n\r\n-====\r\n\r\n—2s\r\n\r\nLaz=zzzi\r\n\r\n[FETT PT PRPPORTE IT 4\r\n\r\nz=zz\r\n\r\n1 BURGER\r\n\r\n9.93\r\n\r\n* {res\r\n\r\nRaRAriAnA Aha\r\n\r\nh mn\r\n\r\npa\r\n",
+    "top_12": "reds\r\n\r\n. vB\r\n\r\nanea®\r\n\r\nLE 1\r\n\r\nrs\r\n\r\n\"no\r\n\r\n[a1\r\n\r\n»s BURGE\r\n\r\nvd\r\n\r\nvy\r\n\r\n“3\r\n\r\n11325 WB\r\n\r\npis\r\n\r\nRE\r\n\r\n-—\r\n\r\ni\r\n\r\nwater\r\n\r\n£9 1434\r\n\r\npera\r\n\r\na\r\n\r\nPER\r\n\r\n5:08\r\n\r\n018\r\n\r\nPray\r\n\r\n223\r\n\r\nchet 108/18\r\n\r\nLeer\r\n\r\nPTT\r\n\r\nme\r\n\r\nAY\r\n\r\nLae\r\n\r\npy\r\n\r\nJRE\r\n\r\nTh\r\n\r\nnm\r\n\r\n2\r\n\r\n¥ {r1es * pre]\r\n\r\ngana’\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

@@ -1,0 +1,13 @@
+{
+  "sample_id": "52dd257aa6bf",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "c9f903151e9e59f9ceaa2a914c3ccad43ed2cbca2651f199e9ceb08121a3334d",
+  "full_text": "PURCHASE ORDER\r\n\r\nHGT Company\r\n\r\nShop-12,\r\n\r\nPanjora, Gazipur,\r\n\r\nNumber:\r\n\r\nPO-18\r\n\r\nDhaka,\r\n\r\nDat\r\n\r\n2026-09-18\r\n\r\nBanglasesh\r\n\r\nDue Date:\r\n\r\n2026-10-16\r\n\r\nBILL TO\r\n\r\nCo\r\n\r\nmpany\r\n\r\ni\r\n\r\nHs\r\n\r\nees\r\n\r\nrpu\r\n\r\n=\r\n\r\nfe\r\n\r\n1\r\n\r\noi\r\n\r\nok\r\n\r\nEe\r\n\r\nFE\r\n\r\ni\r\n\r\ncistad\r\n\r\nGe\r\n\r\nGi\r\n\r\nGe\r\n\r\n3\r\n\r\n2\r\n\r\ni;\r\n\r\n3\r\n\r\n5S\r\n\r\n5\r\n\r\na\r\n\r\nkK\r\n\r\nQTY\r\n\r\nRATE\r\n\r\nAMOUNT\r\n\r\nESCRIPTION\r\n\r\n5\r\n\r\na\r\n\r\nLL\r\n\r\nSan\r\n\r\n$3.50\r\n\r\n$16.52\r\n\r\n¥\r\n\r\nas\r\n\r\n-\r\n\r\nRey\r\n\r\n.\r\n\r\n§\r\n\r\npi\r\n\r\nApres\r\n\r\nie\r\n\r\n2:\r\n\r\nRas\r\n\r\nar\r\n\r\ni\r\n\r\nA\r\n\r\nes\r\n\r\nRe\r\n\r\nite\r\n\r\nhe\r\n\r\nCoa\r\n\r\na\r\n\r\n01.\r\n\r\nSa\r\n\r\nR\r\n\r\n¢ Li\r\n\r\n+¥\r\n\r\nUATE\r\n\r\n=\r\n\r\ni\r\n\r\n5\r\n\r\n7\r\n\r\nad\r\n\r\n=\r\n\r\n—\r\n\r\non\r\n\r\nSET\r\n\r\nThy\r\n\r\n4\r\n\r\n$2.9\r\n\r\nos\r\n\r\n01\r\n\r\nGl\r\n\r\ni\r\n",
+  "status": "unreviewed_OCR_output"
+}

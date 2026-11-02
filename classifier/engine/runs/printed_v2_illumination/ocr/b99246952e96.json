@@ -1,0 +1,27 @@
+{
+  "sample_id": "b99246952e96",
+  "image_sha256": "fdbd540e5336e7a24e23a21160eec7c79fff5d80aa7084c3cb45a8eae66f6b1d",
+  "views": {
+    "full": "HGT Company PURCHASE ORDER\r\nShop-12,\r\nPanjora, Gazipur, Number: PO -20\r\nDhaka, Date: 2026-09-18\r\nBanglasesh\r\nDue Date: 2026-10-16\r\nJ —————————————————GG—GG—G—G—G—;\r\nBILL TO\r\nXK Company\r\nShop-43,\r\nMirpue-10\r\nDhaka,\r\nBanglasesh\r\nDESCRIPTION i amy i RATE AMOUNT\r\nEarphones 1 $2.01 $2.37\r\nTaxable Amount: $2.01\r\nTotal: $2.37\r\nThank you for your business!\r\nPowered by HGT Company\r\n",
+    "top_-12": "HGT\r\n\r\nShop, 12\r\n\r\nMpan\r\n\r\nPan; a\r\n\r\nDhay,\r\n\r\nGazip,,,\r\n\r\nMYlasagy,\r\n\r\nURCHAg ORDER\r\n\r\nNumpe,\r\n\r\nDate\r\n\r\nPO. 29\r\n\r\nDue Date\r\n\r\n202g. 0g.\r\n\r\n18\r\n\r\n2026.10.15\r\n\r\nBILL vo\r\n\r\nXK Co\r\n\r\nMpany,\r\n\r\nShop.qg\r\n\r\nMirpye. 10\r\n\r\nhala,\r\n\r\nMYlasesn\r\n",
+    "top_0": "HGT Company\r\n\r\nPURCHASE ORDER\r\n\r\nShop-12,\r\n\r\nPanjora, Gazipur,\r\n\r\nNumber:\r\n\r\nPO-20\r\n\r\nDhaka,\r\n\r\nDate:\r\n\r\n2026-09-18\r\n\r\nBanglasesh\r\n\r\nDue Date:\r\n\r\n2026-10-16\r\n\r\nBILL TO\r\n\r\nXK Company\r\n\r\nShop-43,\r\n\r\nMirpue-10\r\n\r\nDhaka,\r\n\r\nBanglasesh\r\n",
+    "top_12": "g ORDER\r\n\r\npURCHA®\r\n\r\npo-20\r\n\r\nures:\r\n\r\n006-0018\r\n\r\npate’\r\n\r\n202!\r\n\r\n6-10-16\r\n\r\nmpa\r\n\r\nHGT C°\r\n\r\npue D2\r\n\r\nShop\r\n\r\npanio\r\n\r\na, GAZ\r\n\r\nDhaka\r\n\r\npanglase®\r\n\r\ngiLl 10\r\n\r\nK Com\r\n\r\npany\r\n\r\nsnopé3:\r\n\r\nwirpue?\r\n\r\nDhaka\r\n\r\npang\r\n\r\nase\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

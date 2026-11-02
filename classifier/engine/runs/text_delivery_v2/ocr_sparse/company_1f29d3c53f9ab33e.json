@@ -1,0 +1,13 @@
+{
+  "sample_id": "company_1f29d3c53f9ab33e",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "f908d6e3de097833c6d7e98810f90579745926100b3657b08cdd58058aa513b4",
+  "full_text": "Iw\r\n\r\nPurchase Order\r\n\r\nIris Wheelworks LLC\r\n\r\nPrecision wheels, smooth rides for\r\n\r\nNumber\r\n\r\nPO-2023-234\r\n\r\nall.\r\n\r\nDate\r\n\r\n28 Aug 2023\r\n\r\n410 Oak Street\r\n\r\nDelivery date\r\n\r\n6 Sep 2023\r\n\r\nSuite 143\r\n\r\nAccount no.\r\n\r\nVISTARO0001\r\n\r\n02110 Boston, MA\r\n\r\nUSA\r\n\r\nRequested by\r\n\r\nReinout Hillmann\r\n\r\nPhone: (591) 555-4212\r\n\r\nCarrier\r\n\r\nCargo Transport 5\r\n\r\ncontact\r\n\r\nriswheelworks.com\r\n\r\nwww.iriswheelworks.com\r\n\r\nEIN 80-1423\r\n\r\n/ENDOR\r\n\r\nDELIVER\r\n\r\nTO\r\n\r\nVista Road Bikes\r\n\r\nIris Wheelworks LLC\r\n\r\n8197 Hermosa\r\n\r\n410 Oak Street\r\n\r\nBANK DE\r\n\r\n97301 Salem, OR\r\n\r\nSuite 143\r\n\r\nBank: Northern Trust Bank\r\n\r\nAccount: 5585791826\r\n\r\nUnited States\r\n\r\n02110 Boston, MA\r\n\r\nUSA\r\n\r\nRouting no.: 440248973\r\n\r\nPhone: (591) 555-4212\r\n\r\nItem\r\n\r\nDisc.\r\n\r\nAmount\r\n\r\nDescription\r\n\r\nQty\r\n\r\nUnit price\r\n\r\nTI-M267\r\n\r\nLL Mountain Tire\r\n\r\n550\r\n\r\n$32.25\r\n\r\n=\r\n\r\n$17,737.50\r\n\r\nComparible traction, less expensive\r\n\r\nwire be:\r\n\r\nsing.\r\n\r\n—\r\n\r\nTI-M602\r\n\r\nML Mountain Tire\r\n\r\n550\r\n\r\n$36.56\r\n\r\n$20,108.00\r\n\r\nGreat traction, high-density rubber\r\n\r\nPAYMENT TER\r\n\r\nSubtotal\r\n\r\n$37,845.50\r\n\r\nNet 45 days\r\n\r\n$946.09\r\n\r\nFreight\r\n\r\nPlease confirm this order and quote our PO\r\n\r\nnumber on all invoices and delivery notes.\r\n\r\nTax 8%\r\n\r\n$3,027.49\r\n\r\nTotal\r\n\r\n$41,819.08\r\n\r\nApproved by\r\n\r\nYour next ride is\r\n\r\nst around ti\r\n\r\norner\r\n\r\nPurchase Order PO-2C\r\n\r\nPage 1/1\r\n",
+  "status": "unreviewed_OCR_output"
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "e4c7eb83722c",
+  "image_path": "services\\document_classifier\\data\\images\\e4c7eb83722c.jpg",
+  "image_sha256": "95786ca0cbfc968680f20019e0be9f3263aa37be92178b90f01c69e0531e092a",
+  "full_text": "HEDLEYS\n\n640 N ROBERTSON BLVD\n\nHOLLYWOOD CA 90269\n310-659-2009\n\n251 3430\n\nTerminal 10: 01528\n\n065231\n$41.45\n\nen em ee sn\n\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\e4c7eb83722c.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

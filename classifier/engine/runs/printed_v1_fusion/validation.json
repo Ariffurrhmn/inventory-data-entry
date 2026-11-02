@@ -1,0 +1,290 @@
+{
+  "candidates": {
+    "fusion_c1": {
+      "n": 25,
+      "correct": 13,
+      "accuracy": 0.52,
+      "macro_f1": 0.42954545454545456,
+      "class_report": {
+        "purchase_order": {
+          "precision": 0.75,
+          "recall": 0.9,
+          "f1-score": 0.8181818181818182,
+          "support": 10.0
+        },
+        "receipt": {
+          "precision": 0.25,
+          "recall": 1.0,
+          "f1-score": 0.4,
+          "support": 3.0
+        },
+        "delivery_note": {
+          "precision": 1.0,
+          "recall": 0.3333333333333333,
+          "f1-score": 0.5,
+          "support": 3.0
+        },
+        "customer_copy": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 9.0
+        },
+        "accuracy": 0.52,
+        "macro avg": {
+          "precision": 0.5,
+          "recall": 0.5583333333333333,
+          "f1-score": 0.42954545454545456,
+          "support": 25.0
+        },
+        "weighted avg": {
+          "precision": 0.45,
+          "recall": 0.52,
+          "f1-score": 0.4352727272727273,
+          "support": 25.0
+        }
+      },
+      "confusion_matrix": [
+        [
+          9,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          3,
+          0,
+          0
+        ],
+        [
+          1,
+          1,
+          1,
+          0
+        ],
+        [
+          2,
+          7,
+          0,
+          0
+        ]
+      ]
+    },
+    "fusion_c1_headings": {
+      "n": 25,
+      "correct": 19,
+      "accuracy": 0.76,
+      "macro_f1": 0.7652097902097902,
+      "class_report": {
+        "purchase_order": {
+          "precision": 0.9,
+          "recall": 0.9,
+          "f1-score": 0.9,
+          "support": 10.0
+        },
+        "receipt": {
+          "precision": 0.375,
+          "recall": 1.0,
+          "f1-score": 0.5454545454545454,
+          "support": 3.0
+        },
+        "delivery_note": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 3.0
+        },
+        "customer_copy": {
+          "precision": 1.0,
+          "recall": 0.4444444444444444,
+          "f1-score": 0.6153846153846154,
+          "support": 9.0
+        },
+        "accuracy": 0.76,
+        "macro avg": {
+          "precision": 0.81875,
+          "recall": 0.836111111111111,
+          "f1-score": 0.7652097902097902,
+          "support": 25.0
+        },
+        "weighted avg": {
+          "precision": 0.885,
+          "recall": 0.76,
+          "f1-score": 0.7669930069930069,
+          "support": 25.0
+        }
+      },
+      "confusion_matrix": [
+        [
+          9,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          3,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          3,
+          0
+        ],
+        [
+          1,
+          4,
+          0,
+          4
+        ]
+      ]
+    },
+    "fusion_c10": {
+      "n": 25,
+      "correct": 12,
+      "accuracy": 0.48,
+      "macro_f1": 0.2982954545454546,
+      "class_report": {
+        "purchase_order": {
+          "precision": 0.75,
+          "recall": 0.9,
+          "f1-score": 0.8181818181818182,
+          "support": 10.0
+        },
+        "receipt": {
+          "precision": 0.23076923076923078,
+          "recall": 1.0,
+          "f1-score": 0.375,
+          "support": 3.0
+        },
+        "delivery_note": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 3.0
+        },
+        "customer_copy": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 9.0
+        },
+        "accuracy": 0.48,
+        "macro avg": {
+          "precision": 0.2451923076923077,
+          "recall": 0.475,
+          "f1-score": 0.2982954545454546,
+          "support": 25.0
+        },
+        "weighted avg": {
+          "precision": 0.32769230769230767,
+          "recall": 0.48,
+          "f1-score": 0.37227272727272726,
+          "support": 25.0
+        }
+      },
+      "confusion_matrix": [
+        [
+          9,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          3,
+          0,
+          0
+        ],
+        [
+          1,
+          2,
+          0,
+          0
+        ],
+        [
+          2,
+          7,
+          0,
+          0
+        ]
+      ]
+    },
+    "fusion_c10_headings": {
+      "n": 25,
+      "correct": 19,
+      "accuracy": 0.76,
+      "macro_f1": 0.7652097902097902,
+      "class_report": {
+        "purchase_order": {
+          "precision": 0.9,
+          "recall": 0.9,
+          "f1-score": 0.9,
+          "support": 10.0
+        },
+        "receipt": {
+          "precision": 0.375,
+          "recall": 1.0,
+          "f1-score": 0.5454545454545454,
+          "support": 3.0
+        },
+        "delivery_note": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 3.0
+        },
+        "customer_copy": {
+          "precision": 1.0,
+          "recall": 0.4444444444444444,
+          "f1-score": 0.6153846153846154,
+          "support": 9.0
+        },
+        "accuracy": 0.76,
+        "macro avg": {
+          "precision": 0.81875,
+          "recall": 0.836111111111111,
+          "f1-score": 0.7652097902097902,
+          "support": 25.0
+        },
+        "weighted avg": {
+          "precision": 0.885,
+          "recall": 0.76,
+          "f1-score": 0.7669930069930069,
+          "support": 25.0
+        }
+      },
+      "confusion_matrix": [
+        [
+          9,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          3,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          3,
+          0
+        ],
+        [
+          1,
+          4,
+          0,
+          4
+        ]
+      ]
+    }
+  },
+  "adaptive": true,
+  "historical_test_inputs_opened": 0
+}

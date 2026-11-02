@@ -1,0 +1,16 @@
+{
+  "sample_id": "99227d025be4",
+  "image_path": "services\\document_classifier\\data\\images\\99227d025be4.jpg",
+  "image_sha256": "df997f699539a7fbd3a07bbe7bebff781b14e7f5fcc485c783da49892fcf6484",
+  "full_text": "————\n\na\n\ni a\n\nCASH 1\nKembal ian 5\n\n}\n\n“ ie\n\ntain mR \\\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\99227d025be4.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

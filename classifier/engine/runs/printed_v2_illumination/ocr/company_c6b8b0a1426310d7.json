@@ -1,0 +1,27 @@
+{
+  "sample_id": "company_c6b8b0a1426310d7",
+  "image_sha256": "5c22d786ebaf72de02a057b6b4697674514b675670bb02b919490b107f13e4aa",
+  "views": {
+    "full": "Boreal Components Co.\r\nPedal Power, Precision Built\r\n36 Industrial Pkwy - 80202 Denver, CO - USA\r\nNumber P0-2025-1765\r\nDate 20 Jan 2025\r\nDelivery date 29 Jan 2025\r\nAccount no. JACKSONGOOL\r\nRequested by Arvind Rao\r\nPURC HASE ORDER Carrier Cargo Transport 5\r\nVENDOR DELIVER TO\r\nJackson Authority Boreal Components Co.\r\n32 East 87th Street 36 Industrial Pkwy\r\n90802 Long Beach, CA 80202 Denver, CO\r\nUnited States USA\r\n2) BC BY\r\nPD-R347 LL Road Pedal 550 $31.49 $17,319.50\r\nClipless pedals - aluminum.\r\nPD-R563 ML Road Pedal 550 $48.29 $26,559.50\r\nLightweight aluminum alloy construction.\r\nRM-M823 HL Mountain Rim 550 $36.28 - $19,954.00\r\nPAYMENT TERMS\r\nSubtotal $63,833.00\r\nNet 60 days\r\nPlease confirm this order and quote our PO number on all Ereignt $1,505.78\r\ninvoices and delivery notes. Tax 8% $5,106.49\r\nTotal $70,535.27\r\nApproved by\r\nRide on, thanks for choosing Boreal Bank: Northern Trust Bank Boreal Components Co.\r\nComponents. Account: 8815694933 EIN 59-2005511\r\nRouting no.: 079558108\r\nPurchase Order P0-2025-1765 Page 1 / 1\r\n",
+    "top_-12": "Bore,\r\n\r\n931 py,\r\n\r\nNe ts\r\n\r\ndust,\r\n\r\n“151 ” vig\r\n\r\nver co\r\n\r\nuss\r\n\r\nNumpe, r\r\n\r\nDate\r\n\r\nPURCHp gE ORDER\r\n\r\nVENDOR\r\n\r\n“Liver, da\r\n\r\nP0295. 1765\r\n\r\nJan 2g,\r\n\r\nAccoyny\r\n\r\n32\r\n\r\non Aytp,\r\n\r\nJan 5 5\r\n\r\n9089,\r\n\r\nST 87¢\r\n\r\nority\r\n\r\nques teg b\r\n\r\nStregt\r\n\r\nCarpiq\r\n\r\nACKS og 05.\r\n\r\nUnjtey 5\r\n\r\n» C4\r\n\r\ning R\r\n\r\nElTvgg 7\r\n\r\nCargq Tran\r\n\r\nSport\r\n\r\nBorg\r\n\r\n36\r\n\r\n80205 > trial\r\n\r\nNts Co\r\n\r\nNver\r\n\r\nUsa\r\n",
+    "top_0": "oc]\r\n\r\nBoreal Components Co.\r\n\r\nPedal Power, Precision Built\r\n\r\n36 Industrial Pkwy\r\n\r\n80202 Denver, CO\r\n\r\nUSA\r\n\r\nNumber\r\n\r\nP0-2025-1765\r\n\r\nDate\r\n\r\n20 Jan 2025\r\n\r\nDelivery date\r\n\r\n29 Jan 2025\r\n\r\nAccount no.\r\n\r\nJACKSONGOOL\r\n\r\nArvind Rao\r\n\r\nRequested by\r\n\r\nPURCHASE ORDER\r\n\r\nCarrier\r\n\r\nCargo Transport 5\r\n\r\nVENDOR\r\n\r\nDELIVER TO\r\n\r\nJackson Authority\r\n\r\nBoreal Components Co.\r\n\r\n32 East 87th Street\r\n\r\n36 Industrial Pkwy\r\n\r\n90802 Long Beach, CA\r\n\r\n80202 Denver, CO\r\n\r\nUnited States\r\n\r\nUSA\r\n",
+    "top_12": "s Co-\r\n\r\n530\r\n\r\nno BUL\r\n\r\nush\r\n\r\nore 1\r\n\r\npowe’s\r\n\r\n1765\r\n\r\ndat\r\n\r\na2 pe ners\r\n\r\nPO\r\n\r\n2025\r\n\r\nJan\r\n\r\na2!\r\n\r\n26 Tay\r\n\r\nStY\r\n\r\nwumoet\r\n\r\n3a\r\n\r\no 287\r\n\r\npate\r\n\r\nacKsonees\r\n\r\ngelivery\r\n\r\narvind b\r\n\r\naccount\r\n\r\nRregy\r\n\r\neste\r\n\r\n90 Transeo’ ®\r\n\r\ncarviel\r\n\r\nRDER\r\n\r\npELIY\r\n\r\nCo\r\n\r\npone?!\r\n\r\nURC\r\n\r\nASE ©\r\n\r\nred\r\n\r\nus cial oo\r\n\r\navers\r\n\r\ng02®\r\n\r\nUsk\r\n\r\nENDO\r\n\r\nnority\r\n\r\nJacks\r\n\r\n4 87\r\n\r\nfy Stree\r\n\r\n32\r\n\r\nas\r\n\r\ngeaths\r\n\r\n0802 VU ves\r\n\r\nUnite st\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

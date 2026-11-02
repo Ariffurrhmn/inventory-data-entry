@@ -1,0 +1,13 @@
+{
+  "sample_id": "company_c62532f47f7eb44b",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "f613837aabe581c652bbc51e0e61d8ee97de878f07fc89fb72eaaf6618f0a0ec",
+  "full_text": "=]\r\n\r\nJuniper Bikes PLC\r\n\r\nBuilt for every ride\r\n\r\n144 High Street\r\n\r\nBS1 4DJ Bristol -\r\n\r\nUnited Kingdom\r\n\r\nNumber\r\n\r\nP0O002597\r\n\r\nDate\r\n\r\n04/13/2025\r\n\r\nDelivery date\r\n\r\n04/22/2025\r\n\r\nAccount no\r\n\r\nBEAUMONTO0001\r\n\r\nRequested by\r\n\r\nMikael Sandberg\r\n\r\nPurchase Order\r\n\r\nCarrier\r\n\r\nCargo Transport 5\r\n\r\nVENDOR\r\n\r\nBeaumont Bikes\r\n\r\n2472 Alexander Place\r\n\r\n83301 West Covina, ID\r\n\r\nUnited States\r\n\r\nItem\r\n\r\nDescription\r\n\r\nQty\r\n\r\nUnit price\r\n\r\nDisc.\r\n\r\nAmount\r\n\r\nCB-2903\r\n\r\nChainring Bolts\r\n\r\n£37.50\r\n\r\n£112.50\r\n\r\nCN-6137\r\n\r\nChainring Nut\r\n\r\n£33.81\r\n\r\n£101.43\r\n\r\nCR-7833\r\n\r\nChainring\r\n\r\n60\r\n\r\n£20.08\r\n\r\n£1,204.80\r\n\r\nPAYMENT TERMS\r\n\r\nSubtotal\r\n\r\n£1,418.73\r\n\r\nNet 60 days\r\n\r\nFreight\r\n\r\n£35.47\r\n\r\nPlease confirm this order and quote our PO number on all invoices\r\n\r\nand delivery notes.\r\n\r\nTax 8%\r\n\r\n£113.51\r\n\r\nTotal\r\n\r\n£1,567.71\r\n\r\nApproved by\r\n\r\nPedal on, from all of us\r\n\r\nJuniper Bikes PLC\r\n\r\nVAT GB883310779\r\n\r\nPurchase Order PO002597\r\n\r\nPage 1/1\r\n",
+  "status": "unreviewed_OCR_output"
+}

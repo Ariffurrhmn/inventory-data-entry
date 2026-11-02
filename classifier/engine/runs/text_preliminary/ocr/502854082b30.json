@@ -1,0 +1,16 @@
+{
+  "sample_id": "502854082b30",
+  "image_path": "services\\document_classifier\\data\\images\\502854082b30.jpg",
+  "image_sha256": "300ba2d75879a0b38536d5e76c0b487445dc0b34a6a96f07b3998d5ea4e98d5e",
+  "full_text": "Deli very Challan\n\ni\n\nMW Fm: Karnaphuli Traders.\n\n_ Challan No: DC-369. Date: tims.\n\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\502854082b30.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

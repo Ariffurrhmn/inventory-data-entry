@@ -1,0 +1,13 @@
+{
+  "sample_id": "srd_1002-receipt",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "7d84106e1b46f24b8802becd1f0ee83b34f1cab6bc331bf5caf734b6b1c5142a",
+  "full_text": "-\r\n\r\nEa,\r\n\r\nx Bist FI,\r\n\r\nka\r\n\r\nNap\r\n\r\nxy\r\n\r\nRY]\r\n\r\nXXX Kp\r\n\r\nack of\r\n\r\n0 KIN\r\n\r\nrvey\r\n\r\n08\r\n\r\n£2\r\n\r\n(Digan\r\n\r\nIS ar\r\n\r\na;\r\n\r\nIU]\r\n\r\nSpano)\r\n\r\nAUUY\r\n\r\na\r\n\r\nXXX Xt\r\n\r\n“H\r\n\r\nEXO A x1 ¥\r\n\r\n- .\r\n\r\n180 Be]\r\n\r\n194\r\n\r\nendleton\r\n\r\n™N\r\n\r\n(31\r\n\r\nN\r\n\r\n9/1/2016\r\n\r\n~ 4\r\n\r\nOrder 3787 92\r\n\r\n%\r\n\r\nCashier\r\n\r\nDA\r\n\r\nAL\r\n\r\n1 Power Veg Bow]\r\n\r\n0 Sour Cream\r\n\r\nN\r\n\r\n-\r\n\r\n0 Cheese\r\n\r\n1 Rg Orange Crsh Fz\r\n\r\n0]\r\n\r\n40\r\n\r\nBN\r\n\r\nJubTotal\r\n\r\n6.9\r\n\r\n0.63\r\n\r\nTotal\r\n\r\n7 61\r\n\r\nA\r\n\r\nVisa\r\n\r\nAcct *RAXXXXXX2276\r\n\r\n7.61\r\n\r\nAY\r\n\r\n§\r\n\r\n/\r\n\r\nApproval : 57188 3\r\n\r\n.\r\n\r\nNe\r\n\r\nDRIVE THR\r\n\r\nMN\r\n\r\n“W\r\n\r\n; A i > Thank\r\n\r\nyou for\r\n\r\nVisiting!\r\n\r\nLl\r\n\r\nb\r\n\r\nACO\r\n\r\n[2\r\n\r\n~\r\n\r\nBary\r\n\r\nMOBIL\r\n\r\nORDERING\r\n\r\nIS MERE\r\n\r\nOADTHEAPP\r\n\r\n)/ id\r\n",
+  "status": "unreviewed_OCR_output"
+}

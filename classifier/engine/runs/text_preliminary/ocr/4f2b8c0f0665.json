@@ -1,0 +1,16 @@
+{
+  "sample_id": "4f2b8c0f0665",
+  "image_path": "services\\document_classifier\\data\\images\\4f2b8c0f0665.jpg",
+  "image_sha256": "19a53bacc3bd0a9411d04c27e4df18d111cc3a762496fb13a0d23c0ceb878acb",
+  "full_text": "_ Issuer\n\n0031010\nUa UIT\n\n0601 040360 2002\n8 ARC:\n1 369011 TID: 001 RRN:\nSubTotal ushD ¢\n\nTip\n\nCUSTOMER COPY\n\nTHANK YOU!\n\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\4f2b8c0f0665.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

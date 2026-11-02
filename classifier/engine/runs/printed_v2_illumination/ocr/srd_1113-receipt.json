@@ -1,0 +1,27 @@
+{
+  "sample_id": "srd_1113-receipt",
+  "image_sha256": "7b80f67f02dce82cc075ac17099627fd2733d19d850bc7ce3f5f1ec830117953",
+  "views": {
+    "full": "A Er Golden Panda Buffet\r\n14428 Ramona Bivd. #70\r\nBaldwin Park, CA 91706\r\nTel: 626-337-5666\r\nStation: 1 6/02/2018 04:18:31 PM\r\nCashier: 010\r\nInvoice #68554 T# hot food\r\noe — 1\r\nAdult Dinner 2 23.98 r\r\na “4\r\n; Subtotal 27.36 a\r\nTax 2.60 Ar\r\n> il\r\nGrand Total 29.96 J]\r\nAmount Tendered 29.96 :\r\nDebit Card sale 29.96 1\r\noe  ——————————————————————————— A\r\nThank you very much. ’\r\nOrder # 1562\r\n",
+    "top_-12": "wi\r\n\r\n1?\r\n\r\nco]\r\n\r\nY Golly\r\n\r\n144\r\n\r\nAndy Buffet\r\n\r\nldwin p\r\n\r\n91706\r\n\r\nStation\r\n\r\nS666\r\n\r\nShier: 04\r\n\r\nNvojce #6855\r\n\r\n022018 g 18:31 py,\r\n\r\n~~ t Dinng,\r\n\r\nT¥# hot food\r\n",
+    "top_0": "¥\r\n\r\nCR\r\n\r\n«\r\n\r\nEN\r\n\r\nA\r\n\r\n. Golden Pancla Buffet\r\n\r\nHY\r\n\r\n14428 Ramona Bivd. #70\r\n\r\nBaldwin Park, CA 91706\r\n\r\nTel: 626-337-5666\r\n\r\nStation: 1\r\n\r\n6/02/2018 04:18:31 PM\r\n\r\nCashier: 010\r\n\r\nInvoice #68554\r\n\r\nT# hot food\r\n\r\nA ——————————S ir 25 AL eto eA\r\n\r\nAcuilt Dinner\r\n\r\n2\r\n\r\n23.98\r\n\r\n~~ A\r\n\r\n2\r\n\r\n3.38\r\n",
+    "top_12": "¥ oy\r\n\r\n/\r\n\r\npuffer\r\n\r\nYIN\r\n\r\n4\r\n\r\nan\r\n\r\nGolden v\r\n\r\n“¥\r\n\r\ned]\r\n\r\n#70\r\n\r\n14428\r\n\r\npaldw!\r\n\r\nnba\r\n\r\n5660\r\n\r\n33\r\n\r\noa AB 31 PM\r\n\r\n3-0\r\n\r\nTel 626\r\n\r\n102/208\r\n\r\nstation\r\n\r\nA0\r\n\r\nt {009\r\n\r\nCashel\r\n\r\nTH nO\r\n\r\n5.99\r\n\r\nq.38\r\n\r\n\\nVOICe #\r\n\r\npinne¥\r\n\r\npal\r\n\r\n~~ -\r\n\r\np. to\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

@@ -1,0 +1,27 @@
+{
+  "sample_id": "srd_1140-receipt",
+  "image_sha256": "c653f7caddf1574517249c2fd6071cb9b14196c5c5f08c29d82b59c591e196fa",
+  "views": {
+    "full": "% 1450 5. Dixie #ighwy es\r\n$s) Host: Nelson GA rr 3 SoA\r\n+4 ShackBurger £ 13 ro\r\n“4 Smoke Shack £ i a\r\n-% cheese fries 2.9% ¥7 4\r\n$€ REG Soda (2 62.75) 550 Ber\r\n(2)REG Rootbeer\r\n4 REG Iced Tea 2.2% or\r\n= Subtotal 7357 re\r\n= Tax 1.22 &~\r\ni 70 stay Total 25.47 §\r\nVisa #XXXXOAAXXS1S7 5.4 %\r\nAuth: 130960 F\r\nHe Tweet.\r\n\r\nYou Tueel.\r\n\r\n- We A11 Tweed.\r\n\r\nA @ShakeSnack\r\n\r\n--- Check Closed ---\r\n",
+    "top_-12": "to Pe\r\n\r\nHog\r\n\r\nSh,\r\n\r\nad\r\n\r\nE: Me jgop 20\r\n\r\nae Shar.\r\n\r\n12\r\n\r\n\" Oixig yy,\r\n\r\nok\r\n\r\nv=\r\n\r\nry\r\n\r\nCL ry\r\n\r\n, Hm\r\n\r\n-_\r\n\r\nvr\r\n\r\nre 1\r\n\r\nft\r\n\r\nnr\r\n\r\nSmo\r\n\r\nCkBuyr. ger\r\n\r\n~“y\r\n\r\nChe\r\n\r\n€ Shack\r\n\r\nTe\r\n\r\nREG\r\n\r\n“r\r\n\r\n«=\r\n\r\n(2\r\n\r\naz,\r\n\r\nREG\r\n\r\n75)\r\n\r\n7%\r\n\r\nIH ee\r\n\r\noy\r\n\r\nREG\r\n\r\nCed\r\n\r\nRoot\r\n\r\nEd\r\n\r\npe 4\r\n\r\nFd\r\n\r\nPS\r\n\r\naudi\r\n\r\nLago}\r\n\r\n2.\r\n\r\nar\r\n\r\npai\r\n",
+    "top_0": "Lh\r\n\r\nWL\r\n\r\nSHAKE SHACK\r\n\r\n1450 S. Dixie M!grwsy\r\n\r\n5\r\n\r\nHost: Nelson\r\n\r\nsf “Jz tr re po\r\n\r\n12\r\n\r\n1\r\n\r\nLAN Add\r\n\r\na\r\n\r\n5 Q\r\n\r\n—\r\n\r\n«\r\n\r\nShackBurger\r\n\r\nFA\r\n\r\nrd\r\n\r\n£2.50\r\n\r\npr a]\r\n\r\nor\r\n\r\nSmoke Shack\r\n\r\n“ HE\r\n\r\ncheese fries\r\n\r\nss\r\n\r\nA\r\n\r\ni)\r\n\r\n+\r\n\r\nREG Soda (2 62.75)\r\n\r\n(2)REG Rootbeer\r\n\r\nREG Iced Tea\r\n\r\n1.7%\r\n\r\nvc _A\r\n",
+    "top_12": "ot\r\n\r\nFa 4\r\n\r\nower\r\n\r\n~\r\n\r\nred “2\r\n\r\nal\r\n\r\ngM\r\n\r\nNY Ladd eer]\r\n\r\nses les ’\r\n\r\nrr\r\n\r\n7\r\n\r\nye \\8\r\n\r\n»v\r\n\r\np-\r\n\r\n1450\r\n\r\ng. 8\r\n\r\nst 4\r\n\r\nHost: “e\r\n\r\nry,\r\n\r\noT\r\n\r\n\\2\r\n\r\nx\r\n\r\n“4\r\n\r\nvr’\r\n\r\n=,\r\n\r\ngrackBu’® ck\r\n\r\n“A\r\n\r\nsmoke\r\n\r\ng:2\r\n\r\n1\r\n\r\nchees\r\n\r\n£G SO\r\n\r\npootoee’\r\n\r\n2R\r\n\r\n6 1c\r\n\r\ned Ted\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

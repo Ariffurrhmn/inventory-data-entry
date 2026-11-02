@@ -1,0 +1,16 @@
+{
+  "sample_id": "3177e03984b6",
+  "image_path": "services\\document_classifier\\data\\images\\3177e03984b6.jpg",
+  "image_sha256": "f44733027a87cc0739688609b2b33ebf9c44bd93d9be1dbebda00822c64cfcf9",
+  "full_text": "DELIVERY CHALLAN\n\nABC Company\n\nSELLER\nABC Company\nShop 12, Market Road, City — 400001\n\nVehicle no. MH 01 AB 1234 Purpose: Job work\n\n# Description HSN/SAC\n1 Face Wash 1837\n2 Shampoo 8864\n3 Body lotion 8778\n4 Toothpaste 9753\n5 Hand Wash 5487\n\nChallan no. DC-014\nDate 2026-09-04\nPlace of supply Kolkata\n\nCONSIGNEE\nUrmi Khatun\nHouse- 64, Road- 35, Kolkata\n\nQty Rate Taxable GST %\n1.00 %320.00 %320.00 4%\n1.00 %450.00 %450.00 5%\n1.00 %500.00 %500.00 6%\n1.00 180.00 %180.00 2%\n2.00 %220.00 %440.00 8%\n\nTaxable value %1,890.00\nCGST ?52.05\nSGST %52.05\nGrand total 1,994.10\n\nAmount in words: One Thousand Nine Hundred Ninety Four Rupees and Ten Paise Only\n\nNotes: Goods sent for the purpose stated above. Not a sale.\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\3177e03984b6.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

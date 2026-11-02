@@ -1,0 +1,27 @@
+{
+  "sample_id": "srd_1136-receipt",
+  "image_sha256": "8cff792371936b13035845b1069f50f2d85b4452bca5cf7a6770a7cdf1d1a782",
+  "views": {
+    "full": ". The Shawarma Factory = _\r\n= 14817 S. Western Ave Apr 10, 2019 ==\r\n=“S Gardena, CA 90249 12:34 PM SS —\r\n—— Vince  —\r\nps — Ticket: #29 Visa 7286 _—\r\n— Authorization 173245 =\r\n— Receipt 03WE E Se\r\n\r\n— RE SL pe A Se Le EE —\r\n— VISA DEBIT ad\r\n—— AID AO 00 00 00 031010 J\r\nEE a 3 ‘ : Eas\r\n\r\na Flame Broiled Chicken $11.99 | a\r\npn 1/2 Chicken, Hummus , House Salad =\r\ni Subtotal $11.99 pe\r\n— Sales Tax $1.14 E\r\n= Total $13.13 -\r\nFe LL PS EE t4T 172 |\r\n",
+    "top_-12": "a.\r\n\r\n~—  ——\r\n\r\n~~ Tray _\r\n\r\n—\r\n\r\n—\r\n\r\n~~ Th\r\n\r\nrane.\r\n\r\nTN\r\n\r\niar SS —\r\n\r\nhaa\r\n\r\nRE\r\n\r\nSage\r\n\r\nEH\r\n\r\nRE\r\n\r\n~Na\r\n\r\ni\r\n\r\n—\r\n\r\nh Shawa,.\r\n\r\n14817 5\r\n\r\nactory\r\n\r\nba\r\n\r\n~~\r\n\r\nGa Fi de\r\n\r\ntern A\r\n\r\nApr 10, 2019\r\n\r\n12:34 PM\r\n\r\nVince\r\n\r\nEl\r\n\r\nLS,\r\n",
+    "top_0": "~\r\n\r\nrz i\r\n\r\nmn c—\r\n\r\n————\r\n\r\nARPS\r\n\r\n=o TTT TE BE A AN man. +\r\n\r\nRE a\r\n\r\n—_—\r\n\r\n‘——\r\n\r\n—\r\n\r\n—_——\r\n\r\nls URI\r\n\r\nOR ot\r\n\r\niin,\r\n\r\noe.\r\n\r\n———\r\n\r\n— a es cn = OR Mi\r\n\r\nTC — -\r\n\r\nrn very —\r\n\r\n——  —\r\n\r\n—_—r\r\n\r\n—\r\n\r\n_\r\n\r\n——— i\r\n\r\nremy\r\n\r\niat ——\r\n\r\n———\r\n\r\n———a\r\n\r\n[3% ~§\r\n\r\n[\r\n\r\nThe Shawarma Factory\r\n\r\n- em ae\r\n\r\n-\r\n\r\n14817 S. Western Ave\r\n\r\nApr 10, 2019\r\n\r\n12:34 PM\r\n\r\nPE\r\n\r\n——\r\n\r\nGardena, CA 90249\r\n\r\nEa.\r\n\r\n————\r\n\r\nVince\r\n\r\n———\r\n\r\n[reo\r\n",
+    "top_12": "AT\r\n\r\n——\r\n\r\n—_\r\n\r\na\r\n\r\np\r\n\r\nren TT een\r\n\r\n-—\r\n\r\nana\r\n\r\nJT\r\n\r\n—\r\n\r\nor\r\n\r\nae\r\n\r\n—1if\r\n\r\n(nY\r\n\r\nGI\r\n\r\nSy\r\n\r\n—\r\n\r\nenn\r\n\r\na fe ¥\r\n\r\n3\r\n\r\nOE ry\r\n\r\nPe Co\r\n\r\nJO Chow\r\n\r\nens\r\n\r\nee 3\r\n\r\nJa\r\n\r\nXO\r\n\r\noe\r\n\r\nY —\r\n\r\n0 10,\r\n\r\naa WE\r\n\r\nThe\r\n\r\nghaWw arm\r\n\r\na PM\r\n\r\n—\r\n\r\nerm A\r\n\r\n\\ince\r\n\r\n3 ti\r\n\r\n—\r\n\r\nGarde\r\n\r\nna,\r\n\r\na\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

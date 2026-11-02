@@ -1,0 +1,27 @@
+{
+  "sample_id": "4672e3a30c1f",
+  "image_sha256": "4f1ad7fd5aa840d9f82305c41d7892bb4503142e0374ee27ebd52995caddbd1d",
+  "views": {
+    "full": "Busiarato PURCHASE\r\nPurchase Order # 5\r\n\r\nBill To: Ship To:\r\nTithy Khan Usha Islam Date: Oct 7, 2026\r\nRequired By: Oct 12, 2026\r\nItem Quantity Rate Amount\r\nEarphone 10 $4.50 $45.00\r\nWater Bottle 5 $3.50 $17.50\r\nMug 2 $2.80 $5.60\r\nLED Lamp 5 $8.50 $42.50\r\nSubtotal: $110.60\r\nTax (0.25%): $0.28\r\nTotal: $110.88\r\n",
+    "top_-12": "Uraiya Rahmay,\r\n\r\nBill 15.\r\n\r\nTithy, Khan\r\n\r\nSE\r\n\r\nShip To.\r\n\r\nOR\r\n\r\nUsh, Isla,\r\n\r\nUrchage Order 4 5\r\n\r\ntem\r\n\r\nDate.\r\n\r\nQUiraq By:\r\n\r\nOct 7, 202g\r\n\r\nEar, Phone\r\n\r\nater Boge\r\n\r\nCt 12, 202g\r\n\r\nug\r\n\r\nQuantip,\r\n\r\nLEp Lamy,\r\n\r\nRate\r\n\r\n10\r\n\r\nAmong\r\n\r\n$4.50\r\n\r\n$3.50\r\n\r\n$45.00\r\n\r\n$2.80\r\n\r\n$1 7.50\r\n\r\n$8.50\r\n\r\n$5.60\r\n\r\n$42.50\r\n",
+    "top_0": "Suraiya Rahman\r\n\r\nPURCHASE\r\n\r\nORDER\r\n\r\nPurchase Order # 5\r\n\r\nBill To:\r\n\r\nShip To:\r\n\r\nTithy Khan\r\n\r\nUsha Islam\r\n\r\nDate:\r\n\r\nOct 7, 2026\r\n\r\nRequired By:\r\n\r\nOct 12, 2026\r\n\r\nltem\r\n\r\nRate\r\n\r\nAmount\r\n\r\n[\r\n\r\nQuantity\r\n\r\n|\r\n\r\nEarphone\r\n\r\n10\r\n\r\n$4.50\r\n\r\n$45.00\r\n\r\nWater Bottle\r\n\r\n5\r\n\r\n$3.50\r\n\r\n$17.50\r\n\r\nMug\r\n\r\n2\r\n\r\n$2.80\r\n\r\n$5.60\r\n\r\nLED Lamp\r\n\r\n5\r\n\r\n$8.50\r\n\r\n$42.50\r\n",
+    "top_12": "HASE\r\n\r\nPURC\r\n\r\npER\r\n\r\nOrder #5\r\n\r\nPur chas\r\n\r\nman\r\n\r\nSur\r\n\r\naiya Aa\"\r\n\r\noats 202\r\n\r\nDae\r\n\r\n12,2028\r\n\r\noct\r\n\r\nReo\r\n\r\nred BY\r\n\r\ngrip TO:\r\n\r\nysha\r\n\r\nslam\r\n\r\ngin To!\r\n\r\nAmount\r\n\r\nRate\r\n\r\nTithy Khatt\r\n\r\n$45.00\r\n\r\nQuantity\r\n\r\n$4.50\r\n\r\n$1750\r\n\r\n$3 50\r\n\r\n40\r\n\r\n$5 20\r\n\r\n$2 20\r\n\r\n$42.50\r\n\r\n38 50\r\n\r\nyere\r\n\r\ngarphon®\r\n\r\nwater\r\n\r\ngot\r\n\r\nMug\r\n\r\nLED Lamp\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

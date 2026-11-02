@@ -1,0 +1,232 @@
+sample_id,image_path,label,split,group_id,include,source,reason
+9e24dadfc2de,services\document_classifier\data\images\9e24dadfc2de.jpg,purchase_order,test,po:minimal-form,yes,original,frozen assignment
+cc6e515ae67f,services\document_classifier\data\images\cc6e515ae67f.jpg,purchase_order,val,po:abc-grey-table,yes,original,frozen assignment
+4840bfe10310,services\document_classifier\data\images\4840bfe10310.jpg,purchase_order,val,po:abc-grey-table,yes,original,frozen assignment
+9446fd410ee3,services\document_classifier\data\images\9446fd410ee3.jpg,purchase_order,val,po:abc-grey-table,yes,original,frozen assignment
+02bfde5bf771,services\document_classifier\data\images\02bfde5bf771.jpg,purchase_order,val,po:abc-grey-table,yes,original,frozen assignment
+a20b14dd771c,services\document_classifier\data\images\a20b14dd771c.jpg,purchase_order,val,po:abc-grey-table,yes,original,frozen assignment
+e5a5a0f1a894,services\document_classifier\data\images\e5a5a0f1a894.jpg,purchase_order,val,po:abc-grey-table,yes,original,frozen assignment
+ee4df28e7c36,services\document_classifier\data\images\ee4df28e7c36.jpg,purchase_order,val,po:abc-grey-table,yes,original,frozen assignment
+00814f24e77a,services\document_classifier\data\images\00814f24e77a.jpg,purchase_order,train,po:personal-grey-table,yes,original,frozen assignment
+c5ffa86a7c34,services\document_classifier\data\images\c5ffa86a7c34.jpg,purchase_order,train,po:personal-grey-table,yes,original,frozen assignment
+a9665cd4aaa7,services\document_classifier\data\images\a9665cd4aaa7.jpg,purchase_order,train,po:personal-grey-table,yes,original,frozen assignment
+9a3b168b4497,services\document_classifier\data\images\9a3b168b4497.jpg,purchase_order,train,po:personal-grey-table,yes,original,frozen assignment
+4672e3a30c1f,services\document_classifier\data\images\4672e3a30c1f.jpg,purchase_order,train,po:personal-grey-table,yes,original,frozen assignment
+9b53f368be38,services\document_classifier\data\images\9b53f368be38.jpg,purchase_order,train,po:personal-grey-table,yes,original,frozen assignment
+4a87af5776ae,services\document_classifier\data\images\4a87af5776ae.jpg,purchase_order,train,po:personal-grey-table,yes,original,frozen assignment
+1b128b83e60a,services\document_classifier\data\images\1b128b83e60a.jpg,purchase_order,train,po:hgt-colour-table,yes,original,frozen assignment
+de306abe6ff8,services\document_classifier\data\images\de306abe6ff8.jpg,purchase_order,train,po:hgt-colour-table,yes,original,frozen assignment
+fb2283be766d,services\document_classifier\data\images\fb2283be766d.jpg,purchase_order,train,po:hgt-colour-table,yes,original,frozen assignment
+b99246952e96,services\document_classifier\data\images\b99246952e96.jpg,purchase_order,train,po:hgt-colour-table,yes,original,frozen assignment
+e8ad229bba0c,services\document_classifier\data\images\e8ad229bba0c.jpg,purchase_order,train,po:dots-handwritten,yes,original,frozen assignment
+476131eff924,services\document_classifier\data\images\476131eff924.jpg,receipt,val,receipt:handwritten-bills,yes,original,frozen assignment
+5dffabcb47cb,services\document_classifier\data\images\5dffabcb47cb.jpg,receipt,val,receipt:cord-train-0008,yes,original,frozen assignment
+7c33fa811984,services\document_classifier\data\images\7c33fa811984.jpg,receipt,val,receipt:cord-train-0015,yes,original,frozen assignment
+66f77b274d3f,services\document_classifier\data\images\66f77b274d3f.jpg,receipt,train,receipt:cord-train-0017,yes,original,frozen assignment
+213305d225b2,services\document_classifier\data\images\213305d225b2.jpg,receipt,train,receipt:cord-train-0020,yes,original,frozen assignment
+3223c78f7136,services\document_classifier\data\images\3223c78f7136.jpg,receipt,train,receipt:cord-train-0023,yes,original,frozen assignment
+a162d6ad43e0,services\document_classifier\data\images\a162d6ad43e0.jpg,receipt,train,receipt:cord-train-0024,yes,original,frozen assignment
+4ee98001cc91,services\document_classifier\data\images\4ee98001cc91.jpg,receipt,train,receipt:cord-train-0036,yes,original,frozen assignment
+c33ada961240,services\document_classifier\data\images\c33ada961240.jpg,receipt,train,receipt:cord-train-0050,yes,original,frozen assignment
+d6b7679bc0a8,services\document_classifier\data\images\d6b7679bc0a8.jpg,receipt,train,receipt:cord-train-0070,yes,original,frozen assignment
+7bd460b8c269,services\document_classifier\data\images\7bd460b8c269.jpg,receipt,train,receipt:cord-train-0075,yes,original,frozen assignment
+5564ab2d8b11,services\document_classifier\data\images\5564ab2d8b11.jpg,receipt,test,receipt:cord-train-0114,yes,original,frozen assignment
+fcac4e4559e8,services\document_classifier\data\images\fcac4e4559e8.jpg,receipt,train,receipt:cord-train-0124,yes,original,frozen assignment
+e24acf8b8294,services\document_classifier\data\images\e24acf8b8294.jpg,receipt,test,receipt:cord-train-0133,yes,original,frozen assignment
+be13e587ee89,services\document_classifier\data\images\be13e587ee89.jpg,receipt,test,receipt:cord-similar-thermal-pair,yes,original,frozen assignment
+c4e63d9e78fe,services\document_classifier\data\images\c4e63d9e78fe.jpg,receipt,test,receipt:cord-train-0145,yes,original,frozen assignment
+dc0e8749153f,services\document_classifier\data\images\dc0e8749153f.jpg,receipt,test,receipt:cord-similar-thermal-pair,yes,original,frozen assignment
+99227d025be4,services\document_classifier\data\images\99227d025be4.jpg,receipt,train,receipt:cord-train-0165,yes,original,frozen assignment
+684abec37a2d,services\document_classifier\data\images\684abec37a2d.jpg,receipt,val,receipt:cord-train-0750,yes,original,frozen assignment
+6d09ac8fd547,services\document_classifier\data\images\6d09ac8fd547.jpg,receipt,val,receipt:handwritten-bills,yes,original,frozen assignment
+c444a2174871,services\document_classifier\data\images\c444a2174871.jpg,receipt,val,receipt:handwritten-bills,yes,original,frozen assignment
+6329716534d8,services\document_classifier\data\images\6329716534d8.jpg,receipt,val,receipt:handwritten-bills,yes,original,frozen assignment
+8c92842adf8d,services\document_classifier\data\images\8c92842adf8d.jpg,receipt,train,receipt:diz-paid-sales-invoice,yes,original,frozen assignment
+0ce1130827a7,services\document_classifier\data\images\0ce1130827a7.jpg,receipt,train,receipt:diz-paid-sales-invoice,yes,original,frozen assignment
+57a2af8488b1,services\document_classifier\data\images\57a2af8488b1.jpg,receipt,train,receipt:diz-paid-sales-invoice,yes,original,frozen assignment
+645703699d96,services\document_classifier\data\images\645703699d96.jpg,receipt,train,receipt:diz-paid-sales-invoice,yes,original,frozen assignment
+fcd28e1cf903,services\document_classifier\data\images\fcd28e1cf903.jpg,receipt,train,receipt:diz-paid-sales-invoice,yes,original,frozen assignment
+f94a1cc40a05,services\document_classifier\data\images\f94a1cc40a05.jpg,receipt,train,receipt:diz-paid-sales-invoice,yes,original,frozen assignment
+c671941cf57c,services\document_classifier\data\images\c671941cf57c.jpg,delivery_note,train,dn:abc-generated-family,yes,original,frozen assignment
+6f5831a6d9e7,services\document_classifier\data\images\6f5831a6d9e7.jpg,delivery_note,train,dn:abc-generated-family,yes,original,frozen assignment
+40ba7ce1f258,services\document_classifier\data\images\40ba7ce1f258.jpg,delivery_note,train,dn:abc-generated-family,yes,original,frozen assignment
+f06d5208a0a0,services\document_classifier\data\images\f06d5208a0a0.jpg,delivery_note,train,dn:abc-generated-family,yes,original,frozen assignment
+982d3081da15,services\document_classifier\data\images\982d3081da15.jpg,delivery_note,train,dn:abc-generated-family,yes,original,frozen assignment
+4a57d261cb80,services\document_classifier\data\images\4a57d261cb80.jpg,delivery_note,train,dn:abc-generated-family,yes,original,frozen assignment
+192e9fb6775d,services\document_classifier\data\images\192e9fb6775d.jpg,delivery_note,train,dn:abc-generated-family,yes,original,frozen assignment
+885c97fddc39,services\document_classifier\data\images\885c97fddc39.jpg,delivery_note,train,dn:abc-generated-family,yes,original,frozen assignment
+7875077c420c,services\document_classifier\data\images\7875077c420c.jpg,delivery_note,train,dn:abc-generated-family,yes,original,frozen assignment
+dad342ae96cd,services\document_classifier\data\images\dad342ae96cd.jpg,delivery_note,train,dn:abc-generated-family,yes,original,frozen assignment
+a7a5a3135540,services\document_classifier\data\images\a7a5a3135540.jpg,delivery_note,train,dn:abc-generated-family,yes,original,frozen assignment
+f8a4d08ece59,services\document_classifier\data\images\f8a4d08ece59.jpg,delivery_note,train,dn:abc-generated-family,yes,original,frozen assignment
+3177e03984b6,services\document_classifier\data\images\3177e03984b6.jpg,delivery_note,train,dn:abc-generated-family,yes,original,frozen assignment
+4c2e748c6bc8,services\document_classifier\data\images\4c2e748c6bc8.jpg,delivery_note,train,dn:abc-generated-family,yes,original,frozen assignment
+cbce3b093ee3,services\document_classifier\data\images\cbce3b093ee3.jpg,delivery_note,train,dn:abc-generated-family,yes,original,frozen assignment
+450255bc884a,services\document_classifier\data\images\450255bc884a.jpg,delivery_note,test,dn:shopify-packing-slip,yes,original,frozen assignment
+4784d328f244,services\document_classifier\data\images\4784d328f244.jpg,delivery_note,test,dn:shopify-packing-slip,yes,original,frozen assignment
+07b749907de5,services\document_classifier\data\images\07b749907de5.jpg,delivery_note,test,dn:shopify-packing-slip,yes,original,frozen assignment
+0737a6ca5674,services\document_classifier\data\images\0737a6ca5674.jpg,delivery_note,test,dn:shopify-packing-slip,yes,original,frozen assignment
+d6174f39143f,services\document_classifier\data\images\d6174f39143f.jpg,delivery_note,test,dn:shopify-packing-slip,yes,original,frozen assignment
+54a5c3334a7e,services\document_classifier\data\images\54a5c3334a7e.jpg,customer_copy,train,customer_copy:1057-receipt,yes,original,frozen assignment
+c48efeff07df,services\document_classifier\data\images\c48efeff07df.jpg,customer_copy,test,customer_copy:1073-receipt,yes,original,frozen assignment
+3f351516323d,services\document_classifier\data\images\3f351516323d.jpg,customer_copy,train,customer_copy:1164-receipt,yes,original,frozen assignment
+e4c7eb83722c,services\document_classifier\data\images\e4c7eb83722c.jpg,customer_copy,val,customer_copy:1176-receipt,yes,original,frozen assignment
+943348c8acbb,services\document_classifier\data\images\943348c8acbb.jpg,customer_copy,train,customer_copy:express_srd_1085-receipt,yes,original,frozen assignment
+346ff589b408,services\document_classifier\data\images\346ff589b408.jpg,customer_copy,train,customer_copy:image_0018,yes,original,frozen assignment
+1e9226ab9225,services\document_classifier\data\images\1e9226ab9225.jpg,customer_copy,val,customer_copy:image_0042,yes,original,frozen assignment
+4f2b8c0f0665,services\document_classifier\data\images\4f2b8c0f0665.jpg,customer_copy,train,customer_copy:image_0592,yes,original,frozen assignment
+d1f27e35f5f3,services\document_classifier\data\images\d1f27e35f5f3.jpg,customer_copy,test,customer_copy:image_0711,yes,original,frozen assignment
+4ee52bb59124,services\document_classifier\data\images\4ee52bb59124.jpg,customer_copy,test,cc:chick-fil-a,yes,original,frozen assignment
+89f5500d9c0a,services\document_classifier\data\images\89f5500d9c0a.jpg,customer_copy,test,cc:chick-fil-a,yes,original,frozen assignment
+f39cc34d6d46,services\document_classifier\data\images\f39cc34d6d46.jpg,customer_copy,train,customer_copy:image_1208,yes,original,frozen assignment
+723ee7e6a909,services\document_classifier\data\images\723ee7e6a909.jpg,customer_copy,train,customer_copy:image_1553,yes,original,frozen assignment
+334d0ebf3186,services\document_classifier\data\images\334d0ebf3186.jpg,customer_copy,train,customer_copy:image_1559,yes,original,frozen assignment
+560a1b9a6415,services\document_classifier\data\images\560a1b9a6415.jpg,customer_copy,test,customer_copy:image_1748,yes,original,frozen assignment
+8f6f9027cdb3,services\document_classifier\data\images\8f6f9027cdb3.jpg,customer_copy,test,cc:chick-fil-a,yes,original,frozen assignment
+71fa862a7998,services\document_classifier\data\images\71fa862a7998.jpg,customer_copy,val,customer_copy:image_1850,yes,original,frozen assignment
+6472ff0a74e9,services\document_classifier\data\images\6472ff0a74e9.jpg,customer_copy,train,customer_copy:image_1858,yes,original,frozen assignment
+6085360f9c73,services\document_classifier\data\images\6085360f9c73.jpg,purchase_order,train,po:hgt-colour-table,yes,original,frozen assignment
+e18612fb393c,services\document_classifier\data\images\e18612fb393c.jpg,delivery_note,test,dn:shopify-packing-slip,yes,original,frozen assignment
+6ab38289be74,services\document_classifier\data\images\6ab38289be74.jpg,delivery_note,test,dn:shopify-packing-slip,yes,original,frozen assignment
+adab8f169fec,services\document_classifier\data\images\adab8f169fec.jpg,delivery_note,test,dn:shopify-packing-slip,yes,original,frozen assignment
+26fe0fcbc04b,services\document_classifier\data\images\26fe0fcbc04b.jpg,delivery_note,test,dn:shopify-packing-slip,yes,original,frozen assignment
+6b6a915859a2,services\document_classifier\data\images\6b6a915859a2.jpg,delivery_note,test,dn:shopify-packing-slip,yes,original,frozen assignment
+a35a5b21dd98,services\document_classifier\data\images\a35a5b21dd98.jpg,purchase_order,train,po:bridge-handwritten,yes,original,frozen assignment
+63d735225c26,services\document_classifier\data\images\63d735225c26.jpg,purchase_order,test,po:bridge-printed-table,yes,original,frozen assignment
+53ed22a39c62,services\document_classifier\data\images\53ed22a39c62.jpg,purchase_order,test,po:bridge-printed-table,yes,original,frozen assignment
+308d04e806ba,services\document_classifier\data\images\308d04e806ba.jpg,purchase_order,train,po:bridge-monospace,yes,original,frozen assignment
+76cc99d39da4,services\document_classifier\data\images\76cc99d39da4.jpg,purchase_order,train,po:bridge-monospace,yes,original,frozen assignment
+dcd1a6bdfa0a,services\document_classifier\data\images\dcd1a6bdfa0a.jpg,delivery_note,val,dn:bridge-handwritten,yes,original,frozen assignment
+558ab17fe557,services\document_classifier\data\images\558ab17fe557.jpg,purchase_order,test,po:bridge-printed-table,yes,original,frozen assignment
+11b4da10d765,services\document_classifier\data\images\11b4da10d765.jpg,purchase_order,test,po:bridge-printed-table,yes,original,frozen assignment
+12d89294d43a,services\document_classifier\data\images\12d89294d43a.jpg,purchase_order,val,po:bridge-order-form,yes,original,frozen assignment
+772f10ad9975,services\document_classifier\data\images\772f10ad9975.jpg,purchase_order,test,po:bridge-printed-table,yes,original,frozen assignment
+c4191b0e458a,services\document_classifier\data\images\c4191b0e458a.jpg,purchase_order,test,po:bridge-printed-table,yes,original,frozen assignment
+85bbff3bf001,services\document_classifier\data\images\85bbff3bf001.jpg,purchase_order,train,po:personal-grey-table,yes,original,frozen assignment
+11929597c29a,services\document_classifier\data\images\11929597c29a.jpg,purchase_order,train,po:hgt-colour-table,yes,original,frozen assignment
+52dd257aa6bf,services\document_classifier\data\images\52dd257aa6bf.jpg,purchase_order,train,po:hgt-colour-table,yes,original,frozen assignment
+2a0efadf472e,services\document_classifier\data\images\2a0efadf472e.jpg,purchase_order,train,po:hgt-colour-table,yes,original,frozen assignment
+9b3146e1da82,services\document_classifier\data\images\9b3146e1da82.jpg,delivery_note,train,dn:abc-generated-family,yes,original,frozen assignment
+9c963148c0b7,services\document_classifier\data\images\9c963148c0b7.jpg,delivery_note,train,dn:abc-generated-family,yes,original,frozen assignment
+e44a9a33b016,services\document_classifier\data\images\e44a9a33b016.jpg,delivery_note,train,dn:abc-generated-family,yes,original,frozen assignment
+d6c285c6c5d0,services\document_classifier\data\images\d6c285c6c5d0.jpg,delivery_note,train,dn:abc-generated-family,yes,original,frozen assignment
+e0835ab84434,services\document_classifier\data\images\e0835ab84434.jpg,delivery_note,train,dn:abc-generated-family,yes,original,frozen assignment
+08811c30b08a,services\document_classifier\data\images\08811c30b08a.jpg,delivery_note,train,dn:abc-generated-family,yes,original,frozen assignment
+3019fd45ae14,services\document_classifier\data\images\3019fd45ae14.jpg,delivery_note,train,dn:abc-generated-family,yes,original,frozen assignment
+9d3c43f5edd8,services\document_classifier\data\images\9d3c43f5edd8.jpg,delivery_note,train,dn:abc-generated-family,yes,original,frozen assignment
+1ae7adb382c4,services\document_classifier\data\images\1ae7adb382c4.jpg,delivery_note,train,dn:abc-generated-family,yes,original,frozen assignment
+8e3663ff9c0a,services\document_classifier\data\images\8e3663ff9c0a.jpg,delivery_note,train,dn:abc-generated-family,yes,original,frozen assignment
+3613644641fd,services\document_classifier\data\images\3613644641fd.jpg,delivery_note,train,dn:abc-generated-family,yes,original,frozen assignment
+c3288c82627e,services\document_classifier\data\images\c3288c82627e.jpg,delivery_note,train,dn:abc-generated-family,yes,original,frozen assignment
+ff15e557fb64,services\document_classifier\data\images\ff15e557fb64.jpg,delivery_note,train,dn:abc-generated-family,yes,original,frozen assignment
+926169f08e35,services\document_classifier\data\images\926169f08e35.jpg,delivery_note,train,dn:abc-generated-family,yes,original,frozen assignment
+9d2600fd4658,services\document_classifier\data\images\9d2600fd4658.jpg,delivery_note,train,dn:abc-generated-family,yes,original,frozen assignment
+ddb01e6bbf91,services\document_classifier\data\images\ddb01e6bbf91.jpg,delivery_note,val,dn:bridge-handwritten,yes,original,frozen assignment
+2c1013e6c832,services\document_classifier\data\images\2c1013e6c832.jpg,delivery_note,val,dn:bridge-handwritten,yes,original,frozen assignment
+29bd052c0c45,services\document_classifier\data\images\29bd052c0c45.jpg,delivery_note,val,dn:bridge-handwritten,yes,original,frozen assignment
+f9918570b903,services\document_classifier\data\images\f9918570b903.jpg,delivery_note,train,dn:bridge-printed,yes,original,frozen assignment
+398c6ef688e4,services\document_classifier\data\images\398c6ef688e4.jpg,delivery_note,train,dn:bridge-printed,yes,original,frozen assignment
+1610534c8b1f,services\document_classifier\data\images\1610534c8b1f.jpg,delivery_note,train,dn:bridge-monospace,yes,original,frozen assignment
+502854082b30,services\document_classifier\data\images\502854082b30.jpg,delivery_note,val,dn:bridge-handwritten,yes,original,frozen assignment
+f86fbe7e1303,services\document_classifier\data\images\f86fbe7e1303.jpg,delivery_note,train,dn:bridge-printed,yes,original,frozen assignment
+74a4bb73855d,services\document_classifier\data\images\74a4bb73855d.jpg,delivery_note,val,dn:bridge-handwritten,yes,original,frozen assignment
+cdd7aaa9004d,services\document_classifier\data\images\cdd7aaa9004d.jpg,customer_copy,train,cc:bridge-printed-invoice,yes,original,frozen assignment
+8b270977a7a7,services\document_classifier\data\images\8b270977a7a7.jpg,customer_copy,train,cc:bridge-printed-invoice,yes,original,frozen assignment
+6639e70671f3,services\document_classifier\data\images\6639e70671f3.jpg,customer_copy,train,cc:bridge-printed-invoice,yes,original,frozen assignment
+42d9b408c783,services\document_classifier\data\images\42d9b408c783.jpg,customer_copy,train,cc:bridge-printed-invoice,yes,original,frozen assignment
+382ba345a187,services\document_classifier\data\images\382ba345a187.jpg,customer_copy,val,cc:bridge-handwritten-memo,yes,original,frozen assignment
+11d42d9168f2,services\document_classifier\data\images\11d42d9168f2.jpg,customer_copy,train,cc:bridge-printed-invoice,yes,original,frozen assignment
+33a6690bb891,services\document_classifier\data\images\33a6690bb891.jpg,customer_copy,train,cc:bridge-printed-invoice,yes,original,frozen assignment
+fb76d6216e2b,services\document_classifier\data\images\fb76d6216e2b.jpg,customer_copy,val,cc:bridge-handwritten-memo,yes,original,frozen assignment
+e396ade11def,services\document_classifier\data\images\e396ade11def.jpg,customer_copy,train,cc:bridge-monospace,yes,original,frozen assignment
+srd_1002-receipt,Dataset\intake\2026-10-19\expressexpense_srd\images\1002-receipt.jpg,receipt,train,srd:merchant:taco-bell,yes,expressexpense_srd,new staged addition; train only
+srd_1003-receipt,Dataset\intake\2026-10-19\expressexpense_srd\images\1003-receipt.jpg,receipt,train,srd:merchant:el-gran-mar-de-plata,yes,expressexpense_srd,new staged addition; train only
+srd_1004-receipt,Dataset\intake\2026-10-19\expressexpense_srd\images\1004-receipt.jpg,receipt,train,srd:merchant:golden-bowl-teriyaki,yes,expressexpense_srd,new staged addition; train only
+srd_1011-receipt,Dataset\intake\2026-10-19\expressexpense_srd\images\1011-receipt.jpg,receipt,train,srd:merchant:smoke-city-market,yes,expressexpense_srd,new staged addition; train only
+srd_1013-receipt,Dataset\intake\2026-10-19\expressexpense_srd\images\1013-receipt.jpg,receipt,train,srd:merchant:albetos,yes,expressexpense_srd,new staged addition; train only
+srd_1017-receipt,Dataset\intake\2026-10-19\expressexpense_srd\images\1017-receipt.jpg,receipt,train,srd:merchant:umix,yes,expressexpense_srd,new staged addition; train only
+srd_1018-receipt,Dataset\intake\2026-10-19\expressexpense_srd\images\1018-receipt.jpg,receipt,train,srd:merchant:in-n-out,yes,expressexpense_srd,new staged addition; train only
+srd_1022-receipt,Dataset\intake\2026-10-19\expressexpense_srd\images\1022-receipt.jpg,receipt,train,srd:merchant:moonstar,yes,expressexpense_srd,new staged addition; train only
+srd_1025-receipt,Dataset\intake\2026-10-19\expressexpense_srd\images\1025-receipt.jpg,receipt,train,srd:merchant:mcdonalds,yes,expressexpense_srd,new staged addition; train only
+srd_1026-receipt,Dataset\intake\2026-10-19\expressexpense_srd\images\1026-receipt.jpg,receipt,train,srd:merchant:chriss-hamburgers,yes,expressexpense_srd,new staged addition; train only
+srd_1028-receipt,Dataset\intake\2026-10-19\expressexpense_srd\images\1028-receipt.jpg,receipt,train,srd:merchant:douglas-burgers,yes,expressexpense_srd,new staged addition; train only
+srd_1032-receipt,Dataset\intake\2026-10-19\expressexpense_srd\images\1032-receipt.jpg,receipt,train,srd:merchant:wings-things,yes,expressexpense_srd,new staged addition; train only
+srd_1037-receipt,Dataset\intake\2026-10-19\expressexpense_srd\images\1037-receipt.jpg,receipt,train,srd:merchant:panda-express,yes,expressexpense_srd,new staged addition; train only
+srd_1039-receipt,Dataset\intake\2026-10-19\expressexpense_srd\images\1039-receipt.jpg,receipt,train,srd:merchant:carls-jr,yes,expressexpense_srd,new staged addition; train only
+srd_1040-receipt,Dataset\intake\2026-10-19\expressexpense_srd\images\1040-receipt.jpg,receipt,train,srd:merchant:sukhothai,yes,expressexpense_srd,new staged addition; train only
+srd_1044-receipt,Dataset\intake\2026-10-19\expressexpense_srd\images\1044-receipt.jpg,receipt,train,srd:merchant:churchs-chicken,yes,expressexpense_srd,new staged addition; train only
+srd_1045-receipt,Dataset\intake\2026-10-19\expressexpense_srd\images\1045-receipt.jpg,receipt,train,srd:merchant:yums-restaurant,yes,expressexpense_srd,new staged addition; train only
+srd_1053-receipt,Dataset\intake\2026-10-19\expressexpense_srd\images\1053-receipt.jpg,receipt,train,srd:merchant:primo-family,yes,expressexpense_srd,new staged addition; train only
+srd_1054-receipt,Dataset\intake\2026-10-19\expressexpense_srd\images\1054-receipt.jpg,receipt,train,srd:merchant:big-jos,yes,expressexpense_srd,new staged addition; train only
+srd_1055-receipt,Dataset\intake\2026-10-19\expressexpense_srd\images\1055-receipt.jpg,receipt,train,srd:merchant:wings-things,yes,expressexpense_srd,new staged addition; train only
+srd_1072-receipt,Dataset\intake\2026-10-19\expressexpense_srd\images\1072-receipt.jpg,receipt,train,srd:merchant:ohana-hawaiian-bbq,yes,expressexpense_srd,new staged addition; train only
+srd_1074-receipt,Dataset\intake\2026-10-19\expressexpense_srd\images\1074-receipt.jpg,receipt,train,srd:merchant:lin-buffet,yes,expressexpense_srd,new staged addition; train only
+srd_1075-receipt,Dataset\intake\2026-10-19\expressexpense_srd\images\1075-receipt.jpg,receipt,train,srd:merchant:smokebox-bbq,yes,expressexpense_srd,new staged addition; train only
+srd_1082-receipt,Dataset\intake\2026-10-19\expressexpense_srd\images\1082-receipt.jpg,receipt,train,srd:merchant:surati-farsan,yes,expressexpense_srd,new staged addition; train only
+srd_1088-receipt,Dataset\intake\2026-10-19\expressexpense_srd\images\1088-receipt.jpg,receipt,train,srd:merchant:mooyah,yes,expressexpense_srd,new staged addition; train only
+srd_1090-receipt,Dataset\intake\2026-10-19\expressexpense_srd\images\1090-receipt.jpg,receipt,train,srd:merchant:five-guys,yes,expressexpense_srd,new staged addition; train only
+srd_1093-receipt,Dataset\intake\2026-10-19\expressexpense_srd\images\1093-receipt.jpg,receipt,train,srd:merchant:popeyes,yes,expressexpense_srd,new staged addition; train only
+srd_1094-receipt,Dataset\intake\2026-10-19\expressexpense_srd\images\1094-receipt.jpg,receipt,train,srd:merchant:pokeatery,yes,expressexpense_srd,new staged addition; train only
+srd_1095-receipt,Dataset\intake\2026-10-19\expressexpense_srd\images\1095-receipt.jpg,receipt,train,srd:merchant:golden-coin,yes,expressexpense_srd,new staged addition; train only
+srd_1097-receipt,Dataset\intake\2026-10-19\expressexpense_srd\images\1097-receipt.jpg,receipt,train,srd:merchant:el-pollo-loco,yes,expressexpense_srd,new staged addition; train only
+srd_1100-receipt,Dataset\intake\2026-10-19\expressexpense_srd\images\1100-receipt.jpg,customer_copy,train,srd:merchant:mcdonalds,yes,expressexpense_srd,new staged addition; train only
+srd_1108-receipt,Dataset\intake\2026-10-19\expressexpense_srd\images\1108-receipt.jpg,receipt,train,srd:merchant:go-mongo,yes,expressexpense_srd,new staged addition; train only
+srd_1113-receipt,Dataset\intake\2026-10-19\expressexpense_srd\images\1113-receipt.jpg,receipt,train,srd:merchant:golden-panda,yes,expressexpense_srd,new staged addition; train only
+srd_1117-receipt,Dataset\intake\2026-10-19\expressexpense_srd\images\1117-receipt.jpg,customer_copy,train,srd:merchant:kobe-japanese,yes,expressexpense_srd,new staged addition; train only
+srd_1119-receipt,Dataset\intake\2026-10-19\expressexpense_srd\images\1119-receipt.jpg,receipt,train,srd:merchant:panda-express,yes,expressexpense_srd,new staged addition; train only
+srd_1131-receipt,Dataset\intake\2026-10-19\expressexpense_srd\images\1131-receipt.jpg,receipt,train,srd:merchant:chriss-hamburgers,yes,expressexpense_srd,new staged addition; train only
+srd_1134-receipt,Dataset\intake\2026-10-19\expressexpense_srd\images\1134-receipt.jpg,receipt,train,srd:merchant:kfc,yes,expressexpense_srd,new staged addition; train only
+srd_1136-receipt,Dataset\intake\2026-10-19\expressexpense_srd\images\1136-receipt.jpg,receipt,train,srd:merchant:shawarma-factory,yes,expressexpense_srd,new staged addition; train only
+srd_1137-receipt,Dataset\intake\2026-10-19\expressexpense_srd\images\1137-receipt.jpg,receipt,train,srd:merchant:maui-teriyaki,yes,expressexpense_srd,new staged addition; train only
+srd_1140-receipt,Dataset\intake\2026-10-19\expressexpense_srd\images\1140-receipt.jpg,receipt,train,srd:merchant:shake-shack,yes,expressexpense_srd,new staged addition; train only
+srd_1144-receipt,Dataset\intake\2026-10-19\expressexpense_srd\images\1144-receipt.jpg,receipt,train,srd:merchant:chloe81,yes,expressexpense_srd,new staged addition; train only
+srd_1156-receipt,Dataset\intake\2026-10-19\expressexpense_srd\images\1156-receipt.jpg,receipt,train,srd:merchant:ikea,yes,expressexpense_srd,new staged addition; train only
+srd_1158-receipt,Dataset\intake\2026-10-19\expressexpense_srd\images\1158-receipt.jpg,receipt,train,srd:merchant:mitasu,yes,expressexpense_srd,new staged addition; train only
+srd_1159-receipt,Dataset\intake\2026-10-19\expressexpense_srd\images\1159-receipt.jpg,receipt,train,srd:merchant:taco-time,yes,expressexpense_srd,new staged addition; train only
+srd_1168-receipt,Dataset\intake\2026-10-19\expressexpense_srd\images\1168-receipt.jpg,receipt,train,srd:merchant:carls-jr,yes,expressexpense_srd,new staged addition; train only
+srd_1173-receipt,Dataset\intake\2026-10-19\expressexpense_srd\images\1173-receipt.jpg,receipt,train,srd:merchant:lalos,yes,expressexpense_srd,new staged addition; train only
+srd_1175-receipt,Dataset\intake\2026-10-19\expressexpense_srd\images\1175-receipt.jpg,receipt,train,srd:merchant:bar-louie,yes,expressexpense_srd,new staged addition; train only
+srd_1180-receipt,Dataset\intake\2026-10-19\expressexpense_srd\images\1180-receipt.jpg,receipt,train,srd:merchant:lizzy-tequilas,yes,expressexpense_srd,new staged addition; train only
+srd_1190-receipt,Dataset\intake\2026-10-19\expressexpense_srd\images\1190-receipt.jpg,receipt,train,srd:merchant:bombay-grill,yes,expressexpense_srd,new staged addition; train only
+srd_1191-receipt,Dataset\intake\2026-10-19\expressexpense_srd\images\1191-receipt.jpg,receipt,train,srd:merchant:mod-pizza,yes,expressexpense_srd,new staged addition; train only
+srd_1196-receipt,Dataset\intake\2026-10-19\expressexpense_srd\images\1196-receipt.jpg,receipt,train,srd:merchant:unknown-chicken-tikka,yes,expressexpense_srd,new staged addition; train only
+company_c6b8b0a1426310d7,Dataset\intake\2026-10-19\company_documents_v2\images\purchase_order\c6b8b0a1426310d7.jpg,purchase_order,train,company-v2:generator,yes,company_documents_v2,new staged addition; train only
+company_7aaa46e675512314,Dataset\intake\2026-10-19\company_documents_v2\images\purchase_order\7aaa46e675512314.jpg,purchase_order,train,company-v2:generator,yes,company_documents_v2,new staged addition; train only
+company_b6e5edce694d252e,Dataset\intake\2026-10-19\company_documents_v2\images\purchase_order\b6e5edce694d252e.jpg,purchase_order,train,company-v2:generator,yes,company_documents_v2,new staged addition; train only
+company_ff4e11fb5a9afed1,Dataset\intake\2026-10-19\company_documents_v2\images\purchase_order\ff4e11fb5a9afed1.jpg,purchase_order,train,company-v2:generator,yes,company_documents_v2,new staged addition; train only
+company_8f6b18fd227f9b49,Dataset\intake\2026-10-19\company_documents_v2\images\purchase_order\8f6b18fd227f9b49.jpg,purchase_order,train,company-v2:generator,yes,company_documents_v2,new staged addition; train only
+company_5a30984a1e54d553,Dataset\intake\2026-10-19\company_documents_v2\images\purchase_order\5a30984a1e54d553.jpg,purchase_order,train,company-v2:generator,yes,company_documents_v2,new staged addition; train only
+company_2aa2364144a5a826,Dataset\intake\2026-10-19\company_documents_v2\images\purchase_order\2aa2364144a5a826.jpg,purchase_order,train,company-v2:generator,yes,company_documents_v2,new staged addition; train only
+company_e7913defa53347ff,Dataset\intake\2026-10-19\company_documents_v2\images\purchase_order\e7913defa53347ff.jpg,purchase_order,train,company-v2:generator,yes,company_documents_v2,new staged addition; train only
+company_1f29d3c53f9ab33e,Dataset\intake\2026-10-19\company_documents_v2\images\purchase_order\1f29d3c53f9ab33e.jpg,purchase_order,train,company-v2:generator,yes,company_documents_v2,new staged addition; train only
+company_7c08e5c3559c0cfe,Dataset\intake\2026-10-19\company_documents_v2\images\purchase_order\7c08e5c3559c0cfe.jpg,purchase_order,train,company-v2:generator,yes,company_documents_v2,new staged addition; train only
+company_c62532f47f7eb44b,Dataset\intake\2026-10-19\company_documents_v2\images\purchase_order\c62532f47f7eb44b.jpg,purchase_order,train,company-v2:generator,yes,company_documents_v2,new staged addition; train only
+company_bf97759c9068167e,Dataset\intake\2026-10-19\company_documents_v2\images\purchase_order\bf97759c9068167e.jpg,purchase_order,train,company-v2:generator,yes,company_documents_v2,new staged addition; train only
+company_f91175bf24d8351d,Dataset\intake\2026-10-19\company_documents_v2\images\purchase_order\f91175bf24d8351d.jpg,purchase_order,train,company-v2:generator,yes,company_documents_v2,new staged addition; train only
+company_1dfd27cb2f72d330,Dataset\intake\2026-10-19\company_documents_v2\images\purchase_order\1dfd27cb2f72d330.jpg,purchase_order,train,company-v2:generator,yes,company_documents_v2,new staged addition; train only
+company_917a2d49d857f341,Dataset\intake\2026-10-19\company_documents_v2\images\purchase_order\917a2d49d857f341.jpg,purchase_order,train,company-v2:generator,yes,company_documents_v2,new staged addition; train only
+company_0c3bc09c853b92d1,Dataset\intake\2026-10-19\company_documents_v2\images\purchase_order\0c3bc09c853b92d1.jpg,purchase_order,train,company-v2:generator,yes,company_documents_v2,new staged addition; train only
+company_07459a2f7206a271,Dataset\intake\2026-10-19\company_documents_v2\images\purchase_order\07459a2f7206a271.jpg,purchase_order,train,company-v2:generator,yes,company_documents_v2,new staged addition; train only
+company_859bf518770c55ea,Dataset\intake\2026-10-19\company_documents_v2\images\purchase_order\859bf518770c55ea.jpg,purchase_order,train,company-v2:generator,yes,company_documents_v2,new staged addition; train only
+company_27b29669d19d5216,Dataset\intake\2026-10-19\company_documents_v2\images\purchase_order\27b29669d19d5216.jpg,purchase_order,train,company-v2:generator,yes,company_documents_v2,new staged addition; train only
+company_f3e42553f8df96e7,Dataset\intake\2026-10-19\company_documents_v2\images\purchase_order\f3e42553f8df96e7.jpg,purchase_order,train,company-v2:generator,yes,company_documents_v2,new staged addition; train only
+company_6f60f737faf5faa8,Dataset\intake\2026-10-19\company_documents_v2\images\packing_slip\6f60f737faf5faa8.jpg,delivery_note,train,company-v2:generator,yes,company_documents_v2,new staged addition; train only
+company_17758c3e1e524b8a,Dataset\intake\2026-10-19\company_documents_v2\images\packing_slip\17758c3e1e524b8a.jpg,delivery_note,train,company-v2:generator,yes,company_documents_v2,new staged addition; train only
+company_87247a0bbbf0f29f,Dataset\intake\2026-10-19\company_documents_v2\images\packing_slip\87247a0bbbf0f29f.jpg,delivery_note,train,company-v2:generator,yes,company_documents_v2,new staged addition; train only
+company_f9dd8f3f77f1a87c,Dataset\intake\2026-10-19\company_documents_v2\images\packing_slip\f9dd8f3f77f1a87c.jpg,delivery_note,train,company-v2:generator,yes,company_documents_v2,new staged addition; train only
+company_efc28d859270b978,Dataset\intake\2026-10-19\company_documents_v2\images\packing_slip\efc28d859270b978.jpg,delivery_note,train,company-v2:generator,yes,company_documents_v2,new staged addition; train only
+company_395f51420a924526,Dataset\intake\2026-10-19\company_documents_v2\images\packing_slip\395f51420a924526.jpg,delivery_note,train,company-v2:generator,yes,company_documents_v2,new staged addition; train only
+company_c0388c4866f0e684,Dataset\intake\2026-10-19\company_documents_v2\images\packing_slip\c0388c4866f0e684.jpg,delivery_note,train,company-v2:generator,yes,company_documents_v2,new staged addition; train only
+company_5ca07c2d98c45fad,Dataset\intake\2026-10-19\company_documents_v2\images\packing_slip\5ca07c2d98c45fad.jpg,delivery_note,train,company-v2:generator,yes,company_documents_v2,new staged addition; train only
+company_73f4814646431469,Dataset\intake\2026-10-19\company_documents_v2\images\packing_slip\73f4814646431469.jpg,delivery_note,train,company-v2:generator,yes,company_documents_v2,new staged addition; train only
+company_699124c384c73441,Dataset\intake\2026-10-19\company_documents_v2\images\packing_slip\699124c384c73441.jpg,delivery_note,train,company-v2:generator,yes,company_documents_v2,new staged addition; train only
+company_edaed63712935a4e,Dataset\intake\2026-10-19\company_documents_v2\images\packing_slip\edaed63712935a4e.jpg,delivery_note,train,company-v2:generator,yes,company_documents_v2,new staged addition; train only
+company_84ef0dc252763886,Dataset\intake\2026-10-19\company_documents_v2\images\packing_slip\84ef0dc252763886.jpg,delivery_note,train,company-v2:generator,yes,company_documents_v2,new staged addition; train only
+company_d2d988c4d125cbd5,Dataset\intake\2026-10-19\company_documents_v2\images\packing_slip\d2d988c4d125cbd5.jpg,delivery_note,train,company-v2:generator,yes,company_documents_v2,new staged addition; train only
+company_21446a717a0e76fe,Dataset\intake\2026-10-19\company_documents_v2\images\packing_slip\21446a717a0e76fe.jpg,delivery_note,train,company-v2:generator,yes,company_documents_v2,new staged addition; train only
+company_29060e0e98d19833,Dataset\intake\2026-10-19\company_documents_v2\images\packing_slip\29060e0e98d19833.jpg,delivery_note,train,company-v2:generator,yes,company_documents_v2,new staged addition; train only
+company_6521e7b53cc02376,Dataset\intake\2026-10-19\company_documents_v2\images\packing_slip\6521e7b53cc02376.jpg,delivery_note,train,company-v2:generator,yes,company_documents_v2,new staged addition; train only
+company_f6a4f6649ff672fe,Dataset\intake\2026-10-19\company_documents_v2\images\packing_slip\f6a4f6649ff672fe.jpg,delivery_note,train,company-v2:generator,yes,company_documents_v2,new staged addition; train only
+company_ef36a4bca77fde98,Dataset\intake\2026-10-19\company_documents_v2\images\packing_slip\ef36a4bca77fde98.jpg,delivery_note,train,company-v2:generator,yes,company_documents_v2,new staged addition; train only
+company_9346d42ebda27ba4,Dataset\intake\2026-10-19\company_documents_v2\images\packing_slip\9346d42ebda27ba4.jpg,delivery_note,train,company-v2:generator,yes,company_documents_v2,new staged addition; train only
+company_ba2bb7b40d08168e,Dataset\intake\2026-10-19\company_documents_v2\images\packing_slip\ba2bb7b40d08168e.jpg,delivery_note,train,company-v2:generator,yes,company_documents_v2,new staged addition; train only

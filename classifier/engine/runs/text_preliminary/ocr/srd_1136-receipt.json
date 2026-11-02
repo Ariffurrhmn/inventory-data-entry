@@ -1,0 +1,15 @@
+{
+  "sample_id": "srd_1136-receipt",
+  "image_path": "Dataset\\intake\\2026-10-19\\expressexpense_srd\\images\\1136-receipt.jpg",
+  "image_sha256": "8cff792371936b13035845b1069f50f2d85b4452bca5cf7a6770a7cdf1d1a782",
+  "full_text": "The Shawarma Factory\r\n\r\n14817 S. Western Ave Apr 10, 2019\r\nGardena, CA 90249 12:34 PM\r\nVince\r\n\r\n——————————— ALIS CA!\r\nTicket: #29 Visa 7286\r\nAuthorization 173245\r\n\r\nReceipt 03WE\r\n\r\nVISA DEBIT\r\nAID AO 00 00 00 03 10 10\r\n\r\nme At AS Sl FA\r\n\r\nFORE\r\n\r\nFlame Broiled Chicken $11.99\r\n1/2 Chicken, Hummus , House Salad\r\n\r\nSubtotal $11.99\r\nSales Tax $1.14\r\nEE EE ES ESS SIN A!\r\n\r\nTotal $13.13\r\n\r\nA ®nal | a MAT 11\r\n\r\na m——\r\n\r\na rem\r\n\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

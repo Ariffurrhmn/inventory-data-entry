@@ -1,0 +1,27 @@
+{
+  "sample_id": "srd_1168-receipt",
+  "image_sha256": "461c9e507d1cce1a446d18dc929e220f56e28b663e85289a1f0d83a8765b5a6a",
+  "views": {
+    "full": "hot Restaurant 1100580 gy:\r\nMoss 11961 Beach Blvd.\r\nSar Stanton, CA 90680 :\r\n. (714)895-5114 y\r\n4 9/21/2017 12:13:06 PH\r\n~~ Order 375719 Cashier: Alvaro I\r\nJA 1 Al) Star Meal #1 1.00 gw\r\nas Dbl Chbgr 0.00\r\noo Hot Dog 0.00\r\nSE Baked Cookie 0.00 |\r\ni Lg Fries 3.00\r\noe Lg Bev Bar 3.00 3 |\r\n; i SubTotal 7.00 Linde\r\n¥ Tax 0.61 a EE\r\nTotal RI Be\r\nj Cash 8.00 ea\r\n3 Change 0.39 |\r\na\" To Go\r\ni Thank you for visiting!\r\n| Ticket #4)\r\n51 Items in bag(s): 4\r\n",
+    "top_-12": "RL 'S\r\n\r\n[¢]\r\n\r\n11967\r\n\r\n\"110055,\r\n\r\nStantgy,\r\n\r\nIv\r\n\r\nder 3757\r\n\r\n(714 )895. 5 lego\r\n\r\nCashigy.. Fd i\r\n\r\n1 Ap\r\n",
+    "top_0": "CARL'S JR\r\n\r\nRestaurant 1100580\r\n\r\n11961 Beach Blvd.\r\n\r\nStanton, CA 90680\r\n\r\n(714)895-5114\r\n\r\n9/21/2017\r\n\r\n12:13:06 PH\r\n\r\nOrder 375718\r\n\r\nCashier: Alvaro I\r\n\r\n1 QAv #1\r\n\r\nNn NN\r\n",
+    "top_12": "JR\r\n\r\nCAR\r\n\r\n1100580\r\n\r\nRest\r\n\r\nBV\r\n\r\n1196\r\n\r\n1 Bed\r\n\r\n90680\r\n\r\ngrant\r\n\r\non,\r\n\r\n“e114\r\n\r\n4)095\r\n\r\n12:1\r\n\r\n01\r\n\r\nCast\r\n\r\nor: hard\r\n\r\npn 00\r\n\r\n9\r\n\r\n1\r\n\r\n415119\r\n\r\ndef\r\n\r\n4 Any\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

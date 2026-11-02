@@ -1,0 +1,16 @@
+{
+  "sample_id": "00814f24e77a",
+  "image_path": "services\\document_classifier\\data\\images\\00814f24e77a.jpg",
+  "image_sha256": "e73032680b8e25d0d8b5253126791c37cce83dbbb0bb821718c04f80a6472d95",
+  "full_text": "Arifur Rahman P U RC HAS E\nORDER\n\nPurchase Order # 1\n\nBill To: Ship To:\n\nHasan Mahmood Hasnara Begum Date: Oct 8, 2026\nRequired By: Oct 16, 2026\n\nItem Rate Amount\n\nPen 20 $0.15 $3.00\n\nSubtotal: $3.00\nTax (0.02%): $0.00\nTotal: $3.00\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\00814f24e77a.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

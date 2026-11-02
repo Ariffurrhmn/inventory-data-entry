@@ -1,0 +1,13 @@
+{
+  "sample_id": "srd_1134-receipt",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "17343b6eed229cdaf42e094bf7f06aa7c9f0f7757c6329a4291e75169fc5ebf8",
+  "full_text": "ES —e,\r\n\r\nKFC\r\n\r\nRestaurant #Ci160014\r\n\r\n3680 Hempstead\r\n\r\nT\r\n\r\n|\r\n\r\ninpike\r\n\r\nLevittown\r\n\r\n——\r\n\r\n(516) 735-3508\r\n\r\n-\r\n\r\n-\r\n\r\nicket\r\n\r\n#2884\r\n\r\n9:16 PM\r\n\r\n2016-07-08\r\n\r\nC160014 2\r\n\r\n117 2884\r\n\r\n~\r\n\r\nCashier:\r\n\r\n[TANA\r\n\r\nFamily Fill Up\r\n\r\n20.00\r\n\r\nLrg Coleslaw\r\n\r\nLrg Mash/ Gv\r\n\r\n\\\r\n\r\nJ\r\n\r\nLrg Mash Only\r\n\r\n4\r\n\r\nA\r\n\r\nBi\r\n\r\noul\r\n\r\nQrll\r\n\r\nit\r\n\r\n|\r\n\r\n(3\r\n\r\nVE THRU\r\n\r\nb21\r\n\r\n[J\r\n\r\n$21\r\n\r\ner Credit\r\n\r\n$0\r\n\r\nJU\r\n",
+  "status": "unreviewed_OCR_output"
+}

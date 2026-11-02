@@ -1,0 +1,16 @@
+{
+  "sample_id": "e0835ab84434",
+  "image_path": "services\\document_classifier\\data\\images\\e0835ab84434.jpg",
+  "image_sha256": "94c4546db1c6ed008623417b3d235e3386223c5d4dd3d3b93028cb7ecc5b95b4",
+  "full_text": "= Chafian no. DC-013\nABC Company Date 2026-09-04\n\nDELIVERY CHALLAN Placa of supply Kolkata\nSELLER CONSIGNEE\nABC Company Dina islam\nShop 12 , Market Road, City — 400001 House- 64, Road- 35, Kolkata\nVenlcle no MH 01 AB1234 Purpose. Job work\n8 Description HSN/SAC aty Rate Taxable GST %\n1 Cotton T- Shirt 1437 40.00 #320.00 12,800.00 8%\n2 Denim Jeans 8764 20.00 1,000.00 ¥20,000.00 0%\n¥32,800.00\n,512.00\n0,512.00\nGrand total ¥35,824.00\n\nAmount i= words: Thifty Five Thousand Eight Hundred Twenty Four Rupees Only\n\nNotes: Goods sent for the purpose stated above. Not a sale.\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\e0835ab84434.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

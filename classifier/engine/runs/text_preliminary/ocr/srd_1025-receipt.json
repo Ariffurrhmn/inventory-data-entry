@@ -1,0 +1,15 @@
+{
+  "sample_id": "srd_1025-receipt",
+  "image_path": "Dataset\\intake\\2026-10-19\\expressexpense_srd\\images\\1025-receipt.jpg",
+  "image_sha256": "b60f4beb70444a950e70ff43589a35e934a24e721d72b664515ed7bede53a1fd",
+  "full_text": "McDonald’: “es aira~t H:\r\n\r\n1617 N ESSTE0N AEN. 2\r\n63\r\n\r\n[.0S ANGELES, Cf 0 )5-\r\nTEL# 2% 5d T30-\r\n\r\nK3# 2 7 A\r\nSidel\r\n\r\n1 Dbl Qtr Crees:\r\nSpecial Regu: t\r\nADD |_eaf Lett: cu\r\nADD Mac Sauce\r\n\r\nSubtotal\r\nTax\r\nTake-0ut Total\r\n\r\n(ashless\r\nChange\r\n\r\nMzR# 439206\r\n\r\nCARD I3SUER Wr Ju\r\nBOW DEBIT CARD fA fi sehr kid\r\nTRANSACTION AMIN\r\n\r\nCHIP READ\r\n\r\nAJTHORIZATION CULE = 41504]\r\nS:Q# 039988\r\n\r\nAID: AD0000COCH: J:\r\n\r\nMcDonald's now avai al 2 or\r\n\r\n3100\r\n\r\n3 03:08 PM\r\nOrder 97\r\n\r\n5.99\r\n\r\n5.64\r\n\r\n0.63\r\n\r\nTZ\r\n\r\n1.7\r\n\r\n0.00\r\n|\r\n\r\n1.2\r\n\r\n| JoerEATS\r\n\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

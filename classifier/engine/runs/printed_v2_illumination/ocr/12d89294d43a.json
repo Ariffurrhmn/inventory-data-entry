@@ -1,0 +1,27 @@
+{
+  "sample_id": "12d89294d43a",
+  "image_sha256": "f9886a59e143bc70fab4a28f7ca898d1164e1374669b146f6f02c5b9792dafe3",
+  "views": {
+    "full": "~ Order Form\r\n| OrderNo:  ORD-3455\r\nOrder Date: 01/07/2026\r\n' Required By: 06/07/2026 |\r\n; From:\r\n| Shapla Grocery\r\n© Mohammadpur, Dhaka, ;\r\nTo:\r\n. Surma Food Supply.\r\n: Please supply the following goods:\r\n| Instant Noodles 8-pack 3,200\r\nHand Wash 200ml 1,680\r\nShampoo 340ml 4,500\r\nAuthorized by\r\nfor Shapla Grocery.\r\n",
+    "top_-12": "+\r\n\r\nOrde, For\r\n\r\nOrder p,\r\n\r\n©Quirey\r\n\r\nFrom,\r\n\r\nM ham\r\n\r\nTo\r\n\r\nUrmga Coq Sy Pol\r\n",
+    "top_0": "Order Form\r\n\r\nOrder No:\r\n\r\nORD-3455\r\n\r\nOrder Date\r\n\r\n01/07/2026\r\n\r\nRequired By\r\n\r\n: 06/07/2026\r\n\r\nFrom:\r\n\r\nShapla Grocery\r\n\r\nMohammadpur, Dhaka.\r\n\r\nTo:\r\n\r\nSurma Food Supply.\r\n",
+    "top_12": "form\r\n\r\norder\r\n\r\n.3455\r\n\r\norder NO:\r\n\r\n1/071\r\n\r\n2026\r\n\r\n26\r\n\r\ni}\r\n\r\nReaV\r\n\r\ni\r\n\r\n\\a Groc\r\n\r\nshap\r\n\r\ndou\r\n\r\nr, Ohad\r\n\r\nmoha®\r\n\r\nTo:\r\n\r\nJ Suppl:\r\n\r\ngqurma Foo\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

@@ -1,0 +1,274 @@
+{
+  "sample_id": "33a6690bb891",
+  "actual_existing_label": "customer_copy",
+  "prediction": "receipt",
+  "explanation": {
+    "label": "receipt",
+    "decision_source": "trained_classifier",
+    "model_run": "printed_v1_minilm",
+    "scores_calibrated": false,
+    "method": "token_block_occlusion",
+    "available": true,
+    "component": "learned_fallback_only",
+    "target_score": 0.4341582655906677,
+    "alternative_class": "customer_copy",
+    "alternative_score": 0.27440163493156433,
+    "score_margin": 0.1597566306591034,
+    "ambiguous_heading": false,
+    "input_tokens": 85,
+    "blocks_evaluated": 15,
+    "supporting_blocks": [
+      {
+        "start": 0,
+        "end": 34,
+        "text": "— Karnaphuli Traders HER OP) custo",
+        "removed_tokens": 6,
+        "target_score_drop": 0.07060796022415161,
+        "target_vs_alternative_margin_drop": 0.08343705534934998,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 172,
+        "end": 191,
+        "text": "T ww | 7 5 Biscuits",
+        "removed_tokens": 6,
+        "target_score_drop": 0.048772960901260376,
+        "target_vs_alternative_margin_drop": 0.05353349447250366,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 300,
+        "end": 313,
+        "text": "= 85 i i E at",
+        "removed_tokens": 6,
+        "target_score_drop": 0.012853235006332397,
+        "target_vs_alternative_margin_drop": 0.018536418676376343,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 229,
+        "end": 243,
+        "text": "now | 3 - a is",
+        "removed_tokens": 6,
+        "target_score_drop": 0.01248854398727417,
+        "target_vs_alternative_margin_drop": 0.007814943790435791,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 215,
+        "end": 228,
+        "text": "| mE 2 | mm |",
+        "removed_tokens": 6,
+        "target_score_drop": 0.005159169435501099,
+        "target_vs_alternative_margin_drop": -0.002296954393386841,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 284,
+        "end": 299,
+        "text": "fe 36 - ct ol i",
+        "removed_tokens": 6,
+        "target_score_drop": 0.0030498206615448,
+        "target_vs_alternative_margin_drop": -0.008855313062667847,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      }
+    ],
+    "opposing_blocks": [
+      {
+        "start": 83,
+        "end": 119,
+        "text": "Bill To / Customer: Bismillah Store,",
+        "removed_tokens": 6,
+        "target_score_drop": -0.06410044431686401,
+        "target_vs_alternative_margin_drop": -0.10330525040626526,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 120,
+        "end": 151,
+        "text": "Tongi, Gazipur. tem [ov | mateo",
+        "removed_tokens": 6,
+        "target_score_drop": -0.03746211528778076,
+        "target_vs_alternative_margin_drop": -0.04328799247741699,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 265,
+        "end": 283,
+        "text": "S2 i _— - i 38,250",
+        "removed_tokens": 6,
+        "target_score_drop": -0.030945569276809692,
+        "target_vs_alternative_margin_drop": -0.05457794666290283,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      }
+    ],
+    "all_effects": [
+      {
+        "start": 0,
+        "end": 34,
+        "text": "— Karnaphuli Traders HER OP) custo",
+        "removed_tokens": 6,
+        "target_score_drop": 0.07060796022415161,
+        "target_vs_alternative_margin_drop": 0.08343705534934998,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 35,
+        "end": 82,
+        "text": "Invoice Invoice No: INV-3937. Date: 21/07/2026.",
+        "removed_tokens": 6,
+        "target_score_drop": -0.003705233335494995,
+        "target_vs_alternative_margin_drop": -0.001368701457977295,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 83,
+        "end": 119,
+        "text": "Bill To / Customer: Bismillah Store,",
+        "removed_tokens": 6,
+        "target_score_drop": -0.06410044431686401,
+        "target_vs_alternative_margin_drop": -0.10330525040626526,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 120,
+        "end": 151,
+        "text": "Tongi, Gazipur. tem [ov | mateo",
+        "removed_tokens": 6,
+        "target_score_drop": -0.03746211528778076,
+        "target_vs_alternative_margin_drop": -0.04328799247741699,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 152,
+        "end": 171,
+        "text": "| amen | peg lc Tww",
+        "removed_tokens": 6,
+        "target_score_drop": -0.013668715953826904,
+        "target_vs_alternative_margin_drop": -0.021226048469543457,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 172,
+        "end": 191,
+        "text": "T ww | 7 5 Biscuits",
+        "removed_tokens": 6,
+        "target_score_drop": 0.048772960901260376,
+        "target_vs_alternative_margin_drop": 0.05353349447250366,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 192,
+        "end": 214,
+        "text": "carton |» | nom | masa",
+        "removed_tokens": 6,
+        "target_score_drop": -0.008871734142303467,
+        "target_vs_alternative_margin_drop": -0.028899729251861572,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 215,
+        "end": 228,
+        "text": "| mE 2 | mm |",
+        "removed_tokens": 6,
+        "target_score_drop": 0.005159169435501099,
+        "target_vs_alternative_margin_drop": -0.002296954393386841,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 229,
+        "end": 243,
+        "text": "now | 3 - a is",
+        "removed_tokens": 6,
+        "target_score_drop": 0.01248854398727417,
+        "target_vs_alternative_margin_drop": 0.007814943790435791,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 244,
+        "end": 264,
+        "text": "A Tk 100 Tk 1,000 ol",
+        "removed_tokens": 6,
+        "target_score_drop": -0.0026205480098724365,
+        "target_vs_alternative_margin_drop": -0.011952221393585205,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 265,
+        "end": 283,
+        "text": "S2 i _— - i 38,250",
+        "removed_tokens": 6,
+        "target_score_drop": -0.030945569276809692,
+        "target_vs_alternative_margin_drop": -0.05457794666290283,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 284,
+        "end": 299,
+        "text": "fe 36 - ct ol i",
+        "removed_tokens": 6,
+        "target_score_drop": 0.0030498206615448,
+        "target_vs_alternative_margin_drop": -0.008855313062667847,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 300,
+        "end": 313,
+        "text": "= 85 i i E at",
+        "removed_tokens": 6,
+        "target_score_drop": 0.012853235006332397,
+        "target_vs_alternative_margin_drop": 0.018536418676376343,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 314,
+        "end": 328,
+        "text": "i - oe Ge 2 hs",
+        "removed_tokens": 6,
+        "target_score_drop": -0.007457077503204346,
+        "target_vs_alternative_margin_drop": -0.020042777061462402,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 329,
+        "end": 331,
+        "text": "or",
+        "removed_tokens": 1,
+        "target_score_drop": -0.004315167665481567,
+        "target_vs_alternative_margin_drop": 0.0006412267684936523,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      }
+    ],
+    "interpretation": "A positive score drop means omitting this block lowered the fixed model score for the reported class. Scores are model preferences, not calibrated confidence.",
+    "limitations": [
+      "Omission measures sensitivity of this model on this input, not real-world causation or ground truth.",
+      "Blocks can interact; effects do not sum to the prediction.",
+      "Deletion can create unnatural inputs and alter which tokens fit the encoder window.",
+      "For conflicting headings, these omissions explain only the learned fallback; heading rules are held fixed."
+    ]
+  }
+}

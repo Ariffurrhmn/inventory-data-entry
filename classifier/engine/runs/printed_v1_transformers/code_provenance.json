@@ -1,0 +1,7 @@
+{
+  "files": {
+    "train_transformers.py": "7ec1f263e0f582d12762e24411fdaea84c82d737ea1ccc6a99e483e53ec09430",
+    "train_transformer_fusion.py": "e4b26b7e4f7ba3c4cf44586c6f9f1a79da90992502d00035093bd9530486f759",
+    "transformer_models.py": "80bd95e2f1ef35a4a51911a74851f865003b109cd49eca0f5d2ae07e7581de56"
+  }
+}

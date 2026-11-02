@@ -1,0 +1,13 @@
+{
+  "sample_id": "1610534c8b1f",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "e4ba13fda4e68538bba4445489c4f8a2e0376170c3499a42fac19845c876e701",
+  "full_text": "—\r\n\r\n£5\r\n\r\ni @\r\n\r\nDelivery Note\r\n\r\nFrom: Padma Distribution Ltd.\r\n\r\nChallan No: DC-460.\r\n\r\neo\r\n\r\nTo: Meghna Store, Dhanmondi 27, Dhaka.\r\n\r\nDate: 12/08/2026.\r\n\r\n=\r\n\r\ni\r\n\r\na\r\n\r\ni\r\n\r\nItem\r\n\r\n12\r\n\r\nGb\r\n\r\n——\r\n\r\npi\r\n\r\n£4\r\n\r\nI)\r\n\r\n14\r\n\r\nSal\r\n\r\ni\r\n",
+  "status": "unreviewed_OCR_output"
+}

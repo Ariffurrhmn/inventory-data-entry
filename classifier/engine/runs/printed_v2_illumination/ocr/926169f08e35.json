@@ -1,0 +1,27 @@
+{
+  "sample_id": "926169f08e35",
+  "image_sha256": "29931fa42a89a651229dd4fb9504dfb00bdf68559c9820c19c95a2410a319a44",
+  "views": {
+    "full": "Re LL. ee A. ii A ea re a ae Ca a a ————— ——\r\nDELIVERY CHALLAN\r\nABC Company\r\nChatian no. DC-004 Date: 2028-00-04 Place of supply: Maharashtra\r\nSELLER CONSIGNEE\r\nABC Company Rajib\r\nShop 12 , Market Road, City — 400001 House- 56, Road- 3, Maharashtra\r\nVehicle no. MM 01 AB 1234 Purpose: Job work\r\n® Description HSN/SAC Qty Rate Taxable OST %\r\n1 Shoes 8087 15.00 ,80000 927,000.00 B%\r\n2 Socks 3548 20.00 200.00 4,000.00 3%\r\nTaxable value T,000.00\r\nCOST 2,085.00\r\nsast 22,085.00\r\nGrand total ¥35,170.00\r\nAmount in words: Thirty Five Thousand One Hundred Seventy Rupees Only\r\nNotes: Goods sent for the purpose stated above. Not » sale.\r\n",
+    "top_-12": "Elvey,\r\n\r\nSEt gp\r\n\r\nChatign ng be.\r\n\r\nABC\r\n\r\nC Comp,\r\n\r\ngif 2024\r\n\r\nShop 12 Marg, Ro,\r\n\r\n7 sup\r\n\r\nSy ~ 40004;\r\n\r\nCoNgigy,\r\n\r\nV Mabarsepy,\r\n\r\nRajip\r\n\r\nYetcie py M0) 0g\r\n\r\nHouse.\r\n\r\nPurpoge Job\r\n\r\n56, Rog,\r\n\r\nBescriptigy,\r\n\r\nMabarssm,\r\n\r\n8085\r\n\r\n3545\r\n\r\n5.00\r\n\r\n20.00\r\n\r\n#.900.0¢\r\n\r\nTorney,\r\n\r\nOST o\r\n\r\n20000\r\n\r\n*22000,09\r\n\r\nBx\r\n\r\n4,000.09\r\n\r\nTatane\r\n\r\nax\r\n\r\ncesr\r\n\r\n‘ue\r\n\r\nSage\r\n\r\n1.00009\r\n\r\n2.085,\r\n\r\nrang ty TT\r\n\r\n——\r\n\r\n*2.085 00\r\n\r\n35,170, 00\r\n",
+    "top_0": "tf\r\n\r\nDELIVERY CHALLAN\r\n\r\nARC Company\r\n\r\nChatian no. DC- 004\r\n\r\nDate: 2028-08-04\r\n\r\nPlace of supply. Maharashtra\r\n\r\nCONSIGNEE\r\n\r\nSELLER\r\n\r\nRajib\r\n\r\nABC Company\r\n\r\nShop 12 , Market Road, City — 400001\r\n\r\nHouse- 56, Road- 3, Maharashtra\r\n\r\nVehicle no. MM O01 AB 1234\r\n\r\nPurpose: Job work\r\n\r\n[J\r\n\r\nDescription\r\n\r\nHSN/SAC\r\n\r\nRate\r\n\r\nGST %\r\n\r\n1,800.00\r\n\r\n27.000.00\r\n\r\nBx\r\n\r\n1\r\n\r\nShoes\r\n\r\n9087\r\n\r\n15.00\r\n\r\nx\r\n\r\n14\r\n\r\nSocks\r\n\r\n3548\r\n\r\n20.00\r\n\r\n€200 00\r\n\r\n4,000.00\r\n\r\nTaran Jake\r\n\r\n31,000.00\r\n\r\n2,085.00\r\n\r\nCesT\r\n\r\n8387\r\n\r\n€2,085.00\r\n\r\n—_—\r\n\r\nGrand total\r\n\r\n35,170.00\r\n",
+    "top_12": "cumth\r\n\r\n$f\r\n\r\nv.\r\n\r\noEeuY € carne\r\n\r\nTa\r\n\r\nLace oF 5\r\n\r\npac. 20787\r\n\r\nONSIGHEE\r\n\r\ncraven 0\r\n\r\nRape\r\n\r\nor 3m\r\n\r\nwouse”\r\n\r\nast\r\n\r\nqe ER\r\n\r\n_. a0000!\r\n\r\nEt ad\r\n\r\nw%\r\n\r\nare? ROP\r\n\r\n1000 ®\r\n\r\n3%\r\n\r\ngnop\r\n\r\nareese\r\n\r\n0 p00\r\n\r\none\r\n\r\noA\r\n\r\nano ®\r\n\r\nJee ne\r\n\r\nWENISAS\r\n\r\nwoo\r\n\r\nwoe\r\n\r\naoss®\r\n\r\npes crpion\r\n\r\n9087\r\n\r\n2000\r\n\r\nan Avie\r\n\r\naos\r\n\r\n6st\r\n\r\n2540\r\n\r\n35°\r\n\r\nGoCK¥\r\n\r\npe au\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

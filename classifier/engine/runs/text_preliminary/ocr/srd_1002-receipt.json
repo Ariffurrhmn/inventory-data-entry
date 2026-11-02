@@ -1,0 +1,15 @@
+{
+  "sample_id": "srd_1002-receipt",
+  "image_path": "Dataset\\intake\\2026-10-19\\expressexpense_srd\\images\\1002-receipt.jpg",
+  "image_sha256": "7d84106e1b46f24b8802becd1f0ee83b34f1cab6bc331bf5caf734b6b1c5142a",
+  "full_text": "08 or\r\n\r\n9/1/2016\r\nOrder 378752\r\n\r\nCashier:\r\n\r\nDA\r\n1 Power Veg Bow]\r\n0 Sour Cream 3.0\r\n0 Cheese 0.00\r\n1 Rg Orange Crsh Fz 1.9¢\r\nSubTotal 6.98\r\nax 0.63\r\nR1\r\nTota] 1.61\r\nVisa\r\n\r\nAcct *RAXXXXXX2276\r\n\r\nApproval :571883\r\n\r\nDRIVE THRU\r\n\r\n§ Thank you for Visiting!\r\n\r\n-\r\n[2\r\nSer\r\n\r\nMOBILE\r\nORDERING\r\n\r\nIS VERE\r\nbon\r\n\r\nMOVE NO AVMY:\r\n\r\nI\r\n\r\nS$\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

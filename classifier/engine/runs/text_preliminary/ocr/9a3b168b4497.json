@@ -1,0 +1,16 @@
+{
+  "sample_id": "9a3b168b4497",
+  "image_path": "services\\document_classifier\\data\\images\\9a3b168b4497.jpg",
+  "image_sha256": "f188b74a6218121d11e5180dd45be2f7f22d7ec5d402dff6b9512bb6194694c8",
+  "full_text": "Arifur Rahman P U RC HAS E\nORDER\n\nPurchase Order # 4\n\nBill To: Ship To:\nMaliha Usha Date: Oct 7, 2026\n\nRequired By: Oct 12, 2026\nItem Rate Amount\nUSB Flash Drive 10 $5.50 $55.00\nWireless Mouse 5 $7.50 $37.50\nKeyboard 1 $9.00 $9.00\nUSB-C Cable 1 $2.50 $2.50\n\nSubtotal: $104.00\nTax (0.25%): $0.26\n\nTotal: $104.26\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\9a3b168b4497.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

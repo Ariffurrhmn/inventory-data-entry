@@ -1,0 +1,15 @@
+{
+  "sample_id": "company_21446a717a0e76fe",
+  "image_path": "Dataset\\intake\\2026-10-19\\company_documents_v2\\images\\packing_slip\\21446a717a0e76fe.jpg",
+  "image_sha256": "aec789e107817c3de555f2d01821658cb5a4fbea2827c0761ecfda7612b9c789",
+  "full_text": "Iw Packing Slip\r\n\r\nIris Wheelworks LLC\r\n\r\nNumber PS-54297\r\nPrecision wheels, smooth rides for\r\nall Date August 18, 2024\r\n410 Oak Street Customer ID AW00020297\r\nSuite 143 PO number PO-12336\r\n02110 Boston, MA y K A\r\nUSA Carrie Xrq - Truck Groun\r\nPhone: (591) 555-4212\r\ncontact@iriswheelworks.com BILL TO\r\nwww.iriswheelworks.com fl\r\n\r\nValerie Wu\r\n\r\nEIN 80-142. 3\r\n\r\n4250 Park Tree Ct\r\n94704 Berkeley, CA\r\nBANK DET? United States\r\n\r\nBank: Northern Trust Bank Phone: 164-555-0125\r\nAccount: 5585791826\r\nRouting no.: 440248973\r\n\r\nItem Description Unit Ordered Shipped\r\nBK- Road-250 Black, 44 EA i i\r\nR89B-44  Alluminum-alloy frame provides a light, stiff\r\n\r\nde, whether you are racing in the velodrome\r\n\r\nor on a demanding club ride on country roads.\r\nBC-R205 Road Bottle Cage EA 1 1\r\n\r\nAluminum cage is lighter than our mountain\r\nversion; perfect for long distance trips\r\n\r\nWB-H098 Water Bottle - 30 oz. EA 1 1\r\nAWC logo water bottle - holds 30 oz; leak\r\nproof.\r\nPackages 1\r\nTotal weight 6.70 kg\r\nUnits on hand 3\r\nPacked by Received by\r\nYour next ride is just around the corner\r\n\r\nPacking Slip F Page 1/1\r\n\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

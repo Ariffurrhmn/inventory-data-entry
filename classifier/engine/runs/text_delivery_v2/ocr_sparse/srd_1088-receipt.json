@@ -1,0 +1,13 @@
+{
+  "sample_id": "srd_1088-receipt",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "4a165724ed9ec3e42a22c69924e8f73671d3699ab7abbf73d55adeccbd9a3ac6",
+  "full_text": "Oa\r\n\r\nFries\r\n\r\nTR\r\n\r\n#1\r\n\r\n$4\r\n\r\n$0\r\n\r\nC\r\n\r\n$3.49\r\n\r\nNet Total: $11 a7\r\n\r\nfax:\r\n\r\n-\r\n\r\n————\r\n\r\nTOTAL\r\n\r\n“$13.03\r\n\r\n¥\r\n\r\n0\r\n\r\nage.\r\n\r\n$2.99\r\n\r\n-\r\n\r\npes\r\n\r\n———\r\n\r\n-\r\n\r\ncosh\r\n\r\n-\r\n\r\n|\r\n\r\n-\r\n\r\nGet FREE Small French Fries!\r\n\r\nTake our 1-minute survey\r\n\r\nWithin 72 hours\r\n\r\nMOOYAH. com/survey\r\n",
+  "status": "unreviewed_OCR_output"
+}

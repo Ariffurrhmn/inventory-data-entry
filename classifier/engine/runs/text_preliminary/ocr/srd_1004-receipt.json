@@ -1,0 +1,15 @@
+{
+  "sample_id": "srd_1004-receipt",
+  "image_path": "Dataset\\intake\\2026-10-19\\expressexpense_srd\\images\\1004-receipt.jpg",
+  "image_sha256": "c27759f40abcac99b1e5f93a0d128f4c84fa17b721bd9760df9c643fb7595c88",
+  "full_text": "SDE Bou TERIYAKI\r\nSol AREIELD Ave,\r\ngeil GATE, CA. 90280\r\n\r\n-L: (552) g28-8999\r\n\r\noo 05-18-2019 11:18 AM\r\nanageri1 MC #01 000141\r\n\r\nORDER ooo 141\r\n\r\n1 #1 CHKN PLATE $9. 39\r\n1 + AVOCADO $1.95\r\n1 MD. DRINK $2.29\r\nsk IHE RE:\r\nTAX $1. 40\r\nTOTAL. $15. O33\r\nCASH $20. 00\r\nCG $4.97\r\n\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

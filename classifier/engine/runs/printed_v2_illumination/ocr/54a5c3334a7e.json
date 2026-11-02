@@ -1,0 +1,27 @@
+{
+  "sample_id": "54a5c3334a7e",
+  "image_sha256": "d1550aed36b57b9c9bc35cfa80db900b7283160a4d5bfb7c82b26ec9629b4f3b",
+  "views": {
+    "full": "J x\r\n—— im CA SET ia\r\noC\r\n3 CAFE PARISIEN LARCHMONT LLC 3\r\n3 242 N LARCHMONT BLVD a\r\n: x LOS ANGELES, CA 90004 x\r\nve gn. 73\r\n: (310) 815-8222 us\r\n3 Dine ln i Go\r\n.- 8 Server: Kimberly L. Jan 24,2019 E05\r\nAR\r\n24 Receipt: YWGH 10:29 AM as A)\r\n: Er Table: 36 B20\r\nco Item(s) TEER\r\nfi Subtotal CWA\r\njoi Sales Tax (9.5%) $083\r\ni Total $058 BO\r\nisa cima EE\r\nia ix\r\n",
+    "top_-12": "~~\r\n\r\nTN\r\n\r\nIN\r\n\r\nLS\r\n\r\nAFE PAR)g\r\n\r\n42N\r\n\r\nHMONT (| 0\r\n\r\n&\r\n\r\n(310) 815.55 90004\r\n\r\nServer Kimbep,, L\r\n\r\nMia\r\n\r\nJan 24, 2014\r\n\r\n=\r\n",
+    "top_0": "PE\r\n\r\n——\r\n\r\n=H\r\n\r\nn\r\n\r\n™\r\n\r\nCAFE PARISIEN LARCHMONT LLC\r\n\r\n2\r\n\r\n242 N LARCHMONI BLVD\r\n\r\nLOS ANGELES, CA 90004\r\n\r\n(310) 815-8222\r\n\r\nDine in\r\n\r\nJan 24,2019\r\n\r\nServer: Kimberly L.\r\n\r\n—\r\n\r\na \\AINK\r\n\r\n10:29 AM\r\n\r\nZvi\r\n",
+    "top_12": "| 3\r\n\r\n—\r\n\r\nLANG\r\n\r\na\r\n\r\nNT\r\n\r\nEnt\r\n\r\nSOA\r\n\r\nCA¥\r\n\r\nAY\r\n\r\npR\r\n\r\nRCH\r\n\r\nwon!\r\n\r\n0004\r\n\r\n202\r\n\r\nNAN\r\n\r\npO\r\n\r\n0)\r\n\r\nANG\r\n\r\n8222\r\n\r\n\\ 0%\r\n\r\n815”\r\n\r\noe\r\n\r\nJan 248.\r\n\r\nDine n\r\n\r\nA0\r\n\r\no AM\r\n\r\ncope\r\n\r\nSee! Tne\r\n\r\n-—\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

@@ -1,0 +1,27 @@
+{
+  "sample_id": "e4c7eb83722c",
+  "image_sha256": "95786ca0cbfc968680f20019e0be9f3263aa37be92178b90f01c69e0531e092a",
+  "views": {
+    "full": "HEDLEYS |\r\n640 N ROBERTSON BLVD\r\nWEST HOLLYWOOD CA 90069\r\n310-659-2009 |\r\nTerminal ID: 01528251 3430\r\nYEIAY 2:52 PM\r\nCREDIT SALE ,\r\nUID: 715615506682 REF #: 9395\r\nBATCH 4: 554 AUTH #: 065231\r\nAMOUNT $41.45\r\nTIP Po\r\nTOTAL meee\r\nAPPROVED\r\nTC = CO347EERBF2C3628\r\nCUSTOMER COPY a\r\n",
+    "top_-12": "!\r\n\r\n1 4\r\n\r\nADLEYS\r\n\r\nWEST HOLL oar ON BLVD\r\n\r\n2069\r\n\r\n310-656-2509\r\n\r\nTerming] 1D:\r\n\r\nhad\r\n\r\n01528251\r\n\r\n3430\r\n\r\n3/5/17\r\n\r\nhated TN\r\n\r\nhal TR\r\n\r\n2:52 py\r\n",
+    "top_0": "\\\r\n\r\ny\r\n\r\n¢\r\n\r\nHEDLEYS\r\n\r\n640\r\n\r\nN ROBERTSON BLVD\r\n\r\nWEST HOLLYW\r\n\r\n00D CA 9006\r\n\r\n3\r\n\r\n-659-\r\n\r\n2009\r\n\r\n3430\r\n\r\nTermina\r\n\r\n1 ID: 01528251\r\n\r\nmn\r\n\r\nmmm ————TTT\r\n\r\n2:52 PM\r\n\r\nTLTAY\r\n",
+    "top_12": "pers\r\n\r\nWY\r\n\r\nOBER\r\n\r\n(SON\r\n\r\n640\r\n\r\n2028\r\n\r\n430\r\n\r\nEST\r\n\r\n——\r\n\r\n-\r\n\r\n1%\r\n\r\na\r\n\r\n1528\r\n\r\nJ\r\n\r\nAd\r\n\r\nSita\r\n\r\nPI\r\n\r\nermind\r\n\r\n-\r\n\r\nTIAL\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

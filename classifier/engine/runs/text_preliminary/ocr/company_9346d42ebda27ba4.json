@@ -1,0 +1,15 @@
+{
+  "sample_id": "company_9346d42ebda27ba4",
+  "image_path": "Dataset\\intake\\2026-10-19\\company_documents_v2\\images\\packing_slip\\9346d42ebda27ba4.jpg",
+  "image_sha256": "1dbf8fac2f5dd6e8e33fc9d0277f47ff4917ffebae85ba3fb54003bf7ece7445",
+  "full_text": "Iw\r\n\r\nIris Wheelworks LLC\r\nPrecision wheels, smooth rides for\r\nall.\r\n\r\n410 Oak Street\r\n\r\nSuite 143\r\n\r\n02110 Boston, MA\r\n\r\nUSA\r\n\r\nPhone: (591) 555-4212\r\ncontact@iriswheelworks.com\r\nwww.iriswheelworks.com\r\n\r\nEIN 80-142. 3\r\n\r\nBANK DETA\r\nBank: Northern Trust Bank\r\nAccount: 5585791826\r\nRouting no.: 440248973\r\n\r\nPacking Slip\r\n\r\nNumber PS-71526\r\nDate 2025-05-03\r\nCustomer ID AW00026217\r\nCarrier Xrq - Truck Ground\r\nBILLTO\r\n\r\nPedro Blanco\r\n\r\n4312 Wintergreen Court\r\nBD1 4SJ W. York\r\n\r\nUnited Kingdom\r\n\r\nPhone: 1 (11) 500 555-0184\r\n\r\nItem Description Unit Ordered Shipped\r\n\r\nTT-R982 Road Tire Tube EA\r\n\r\nConventional all-purpose tube.\r\n\r\n1\r\n\r\n1\r\n\r\nHL-U509-  Sport-100 Helmet, Red EA 1 1\r\nR Universal fit, well-vented, lightweight , snap\r\non visor\r\nPackages 1\r\nUnits on hand 2\r\n\r\nNOTES\r\n\r\nAll wheels manufactured in USA factory.\r\n\r\nPacked by Received by\r\n\r\nYour next ride is just around the corner\r\n\r\nPacking Slip PS-71526\r\n\r\nPage 1/1\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

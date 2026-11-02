@@ -1,0 +1,15 @@
+{
+  "sample_id": "srd_1088-receipt",
+  "image_path": "Dataset\\intake\\2026-10-19\\expressexpense_srd\\images\\1088-receipt.jpg",
+  "image_sha256": "4a165724ed9ec3e42a22c69924e8f73671d3699ab7abbf73d55adeccbd9a3ac6",
+  "full_text": "Ngo\r\n\r\n) $3.43\r\net Total: $11.97\r\nNet Tors $1.06\r\n\r\nroTAaL: $13.03\r\nge: $2.99\r\n\r\nCASH\r\n\r\nGet FREE Small French Fries!\r\nTake our 1-minute survey\r\nWithin 72 hours\r\n\r\nMOOYAH. com/survey\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

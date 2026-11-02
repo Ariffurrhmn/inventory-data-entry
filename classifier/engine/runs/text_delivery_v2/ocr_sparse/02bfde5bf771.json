@@ -1,0 +1,13 @@
+{
+  "sample_id": "02bfde5bf771",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "58fb9dddcaa75ef819dbfa6f9ab0f5d7313b9b3652a0b0512f227c0f0c0a9532",
+  "full_text": "DEF Company\r\n\r\nPURCHASE ORDER\r\n\r\nShahadat Sarker\r\n\r\nUttara-10,\r\n\r\nDhaka,\r\n\r\nBangladesh\r\n\r\nVendor Address:\r\n\r\nPO#\r\n\r\nPO-13\r\n\r\nXYZ Company\r\n\r\nOrder Date\r\n\r\nSep 20, 2026\r\n\r\nMirpur-2,\r\n\r\nDhaka,\r\n\r\nDelivery Date\r\n\r\nSep 23, 2026\r\n\r\nBangladesh\r\n\r\nItem Description\r\n\r\nQty\r\n\r\nRate\r\n\r\nunt\r\n\r\nFace Wash\r\n\r\n2\r\n\r\n4\r\n\r\nShampoo 400ml\r\n\r\n1\r\n\r\n4.5\r\n\r\n45\r\n\r\nToothpaste\r\n\r\n10\r\n\r\n1.8\r\n\r\n18\r\n\r\nBiscuits 200g\r\n\r\n0.8\r\n\r\nInstant Noodles\r\n\r\n10\r\n\r\n0.4\r\n\r\n1.3\r\n\r\n13\r\n\r\nWhite Sugar 1kg\r\n\r\nRed Lentils 1kg\r\n\r\n1.5\r\n\r\n1.5\r\n\r\nRice 5kg\r\n\r\n1\r\n\r\n4.5\r\n\r\n4.5\r\n\r\nSub Total\r\n\r\n45.8\r\n\r\nPurchase Tax (10%)\r\n\r\n4.58\r\n\r\nTOTAL\r\n\r\n$50.38\r\n\r\nNotes\r\n\r\nIt was great doing business with you\r\n",
+  "status": "unreviewed_OCR_output"
+}

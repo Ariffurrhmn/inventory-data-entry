@@ -1,0 +1,27 @@
+{
+  "sample_id": "company_5ca07c2d98c45fad",
+  "image_sha256": "7977efec0be6754bda7a80ef3549d010fe72ad7a22f98a3e12407ad9df97c89e",
+  "views": {
+    "full": "Packing Suto 542\r\n97205 Partland, OR\r\nSales@vantageoutdoor.com\r\nwww.vantageoutdoor.com\r\nNUMBER DATE ORDER NO. CUSTOMER ID CARRIER\r\nVO-BL-65885 02/13/2025 S065885 AW00022155 Xrq - Truck Ground\r\nBILL TO\r\nSteve Cai\r\n2582 South Ranchford Ct.\r\n3429 Sunbury, VIC\r\nAustralia\r\nPhone: 1 (11) 500 555-0110\r\nItem Description Ordered Shipped\r\nSH-W890-L Women's Mountain Shorts, L 1 1\r\nHeavy duty, abrasion-resistant shorts feature seamless, lycra inner shorts with anti-bacterial\r\nchamois for comfort.\r\nPackages 1\r\nUnits on hand 1\r\nPacked by Received by\r\nThanks for trusting our adventure gear.\r\nwww.vantageoutdoor.com - sales@vantageoutdoor.com - (442) 555-7651\r\nPacking Slip VO-BL-65885 Page 1/1\r\n",
+    "top_-12": "ack\r\n\r\ning\r\n\r\nS|/\r\n\r\n[ite\r\n\r\nJY\r\n\r\nA:\r\n\r\n[EF\r\n\r\nNUMggq\r\n\r\nDX\r\n\r\nSit\r\n\r\n0-51,\r\n\r\n-65885\r\n\r\nDarg\r\n\r\nSOU\r\n\r\n21312025\r\n\r\nORDER No,\r\n\r\ni\r\n\r\nBig To\r\n\r\nS0655g5\r\n\r\nCUSTOM, no\r\n\r\neve Caj\r\n\r\n582 3\r\n\r\nW0002214\r\n\r\nCARR,\r\n\r\n3429 Sum,\r\n\r\nAching Ct,\r\n\r\nAustra;\r\n\r\nTruey Groypg\r\n\r\nNing. 4 11} Snr 585.0115\r\n",
+    "top_0": "Packing\r\n\r\na\r\n\r\nSil\r\n\r\nS|\r\n\r\nip\r\n\r\nNUMBER\r\n\r\nDATE\r\n\r\nORDER NO.\r\n\r\nCUSTOMER ID\r\n\r\nCARRIER\r\n\r\nVO-BL-65885\r\n\r\n02/13/2025\r\n\r\n5065885\r\n\r\nAW00022155\r\n\r\nXrq - Truck Ground\r\n\r\nBILL TO\r\n\r\nSteve Cai\r\n\r\n2582 South Ranchford Ct.\r\n\r\n3429 Sunbury, VIC\r\n\r\nAustralia\r\n\r\nPhone: 1 (11) RON KRE-N110\r\n",
+    "top_12": "hat\r\n\r\nys IF\r\n\r\nA\r\n\r\ngeo\r\n\r\nvo] S\\\\p\r\n\r\nRAE\r\n\r\nrownd\r\n\r\nKea\r\n\r\ncy\r\n\r\n1 oMER!\r\n\r\n000%\r\n\r\n2155\r\n\r\noroeR M7\r\n\r\n50658\r\n\r\nDATE\r\n\r\n211312025\r\n\r\nNuMEER\r\n\r\n285\r\n\r\nvo-Bl-\r\n\r\n0\r\n\r\naut 70\r\n\r\ngteve C\r\n\r\nqcniford C\r\n\r\n82 SO\r\n\r\n429 SU!\r\n\r\nuILY. VC\r\n\r\nARG\r\n\r\nann\r\n\r\nAustr ali\r\n\r\nAY [Iya]\r\n\r\nPhan\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

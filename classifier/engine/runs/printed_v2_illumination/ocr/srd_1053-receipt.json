@@ -1,0 +1,27 @@
+{
+  "sample_id": "srd_1053-receipt",
+  "image_sha256": "aacbcc4b2f00348940e0b3934ab308bd9a3fb442c91c1950147c196c22793554",
+  "views": {
+    "full": "HY, 174) THER S28\r\nenh! ye 3 We t 0\r\ni (4 nis 0\r\ngre cal aA\r\nas Family Restaurant “esih il\r\nhii 5/3/19 8:14 ou LS TM\r\nvey DARIN 0. Table:10 Check:137 ta: fh LAY\r\nVIM 3 prea Glass 47.50 ws Wii\r\nwe 1 MED Veggie $27.00 1.00 Bh LU\r\nTh Sub-Total $3.50 ogi pale 3\r\npict Sales Tax $2.97 ass\r\n0 i Payments # thi Ml dl\r\n{ Ol sTERCARD #6170 s2.41 WA f\r\nIHN \\ , Ar\r\nFil Dons kh 1 i!\r\n‘ f gp ie i!\r\n\") (harge Reneint eink\r\nServer: DARWIN O, / i It\r\nTable No: 10 [ Ahh,\r\nol Check No: 137 he, EN\r\nBL,\r\n",
+    "top_-12": "7\r\n\r\n2g;\r\n\r\ni\r\n\r\n£4,\r\n\r\na\r\n\r\nEars\r\n\r\n+ ¥\r\n\r\nay)\r\n\r\n27\r\n\r\n{i\r\n\r\nIn\r\n\r\n[td\r\n\r\n4\r\n\r\nPr\r\n\r\nal\r\n\r\nft\r\n\r\n4\r\n\r\nJ\r\n\r\ni\r\n\r\nFamjj\r\n\r\nlino\r\n\r\nSeis\r\n\r\nLt\r\n\r\n$\r\n\r\ni\r\n\r\n~\r\n\r\nir\r\n\r\nwa\r\n\r\n“en\r\n\r\nMIND. Jane 9 0 5 urant\r\n\r\nie\r\n\r\nTreen,\r\n\r\nkx] by Nines\r\n\r\nTreen.\r\n\r\nins\r\n\r\nE304\r\n\r\nPR Tee ’\r\n\r\nra KZ\r\n\r\n$22 5\r\n\r\nIA\r\n\r\nfry\r\n\r\nvA\r\n\r\nvA,\r\n\r\n24\r\n",
+    "top_0": "b\r\n\r\ngL ll\r\n\r\nin\r\n\r\nYi\r\n\r\ned\r\n\r\n{i\r\n\r\n[373\r\n\r\nn't\r\n\r\ni]\r\n\r\nYo\r\n\r\n[73\r\n\r\n4;\r\n\r\now\r\n\r\nIX\r\n\r\n!)\r\n\r\nA\r\n\r\nPat!\r\n\r\nPriino\r\n\r\nhe\r\n\r\nvi\r\n\r\n(NR\r\n\r\n7\r\n\r\nHi\r\n\r\nFamily\r\n\r\nRestaurant\r\n\r\nFATIREN\r\n\r\n2/3/79 Bits om\r\n\r\nx\r\n\r\nSARIN DL Tanle: 10 Cred?\r\n\r\nfa\r\n\r\nyf\r\n\r\nia\r\n\r\nJ\r\n\r\nfeiaeasiae. saresesmeeisseesccemscenvotes\r\n\r\nif\r\n\r\nIN\r\n\r\nno\r\n\r\nJ r\r\n\r\n4\r\n\r\n2 Oren Riace RT WN\r\n\r\n$72.50\r\n\r\n“\r\n",
+    "top_12": "BY\r\n\r\n[2 A\r\n\r\n1\r\n\r\n1d\r\n\r\n[SE\r\n\r\na\r\n\r\nvA\r\n\r\nA\r\n\r\na\r\n\r\ni\r\n\r\nA)\r\n\r\nCY\r\n\r\nA:\r\n\r\n[AN\r\n\r\nts\r\n\r\nRY\r\n\r\n“rE\r\n\r\nBe '\r\n\r\nWW\r\n\r\n'\r\n\r\n[ERI\r\n\r\nvob Ld\r\n\r\nhI\r\n\r\n{9\r\n\r\nht\r\n\r\nty\r\n\r\n14,\r\n\r\nmo\r\n\r\nal\r\n\r\n1)\r\n\r\n2\r\n\r\nvg\r\n\r\nti\r\n\r\nHT\r\n\r\n[a\r\n\r\nRes\r\n\r\n5 WH\r\n\r\n[A 4\r\n\r\ny te\r\n\r\nFam\r\n\r\nAl\r\n\r\n38\r\n\r\nAY)\r\n\r\nwart\r\n\r\nay!\r\n\r\nRT\r\n\r\ndy\r\n\r\nfr\r\n\r\nPPE\r\n\r\nLene\r\n\r\n7\r\n\r\nFi\r\n\r\nwh.\r\n\r\nnie\r\n\r\nPRE\r\n\r\neee\r\n\r\nert\r\n\r\nni\r\n\r\nVoi\r\n\r\nBA\r\n\r\n[a\r\n\r\nseen FIRES\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

@@ -1,0 +1,13 @@
+{
+  "sample_id": "943348c8acbb",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "3504d7822cb0415804d53531b3bc3fb1e658314b751d835caf2a73722a79ca36",
+  "full_text": "Pita Pitz\r\n\r\n- Lomoand\r\n\r\n211 E he - Rd\r\n\r\nLombard, IL 60148\r\n\r\nPhone\r\n\r\nhttp://eatpitapita com/default/\r\n\r\nOrd #78\r\n\r\n0 Go\r\n\r\nEmp1:Mohammad H\r\n\r\n5/4/2017 4:10 PM\r\n\r\n20 Mixed Meat Lunch\r\n\r\n180.00\r\n\r\n1 Reg 12pc Falafel\r\n\r\n6.50\r\n\r\n1 Reg 12pc Falafel\r\n\r\n6.50\r\n\r\n1 Miscelanceous\r\n\r\n20.00\r\n\r\n—————————~\r\n\r\nSubtotal\r\n\r\nTax\r\n\r\n213.00\r\n\r\nTotal\r\n\r\n15.92\r\n\r\n228.92\r\n\r\nVisa 8414 Payment\r\n\r\n228.92\r\n\r\nTip\r\n\r\nTotal\r\n\r\nJennifer P\r\n",
+  "status": "unreviewed_OCR_output"
+}

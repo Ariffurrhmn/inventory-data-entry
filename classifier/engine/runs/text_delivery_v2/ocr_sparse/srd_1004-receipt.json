@@ -1,0 +1,13 @@
+{
+  "sample_id": "srd_1004-receipt",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "c27759f40abcac99b1e5f93a0d128f4c84fa17b721bd9760df9c643fb7595c88",
+  "full_text": "SOLDEN 3owL TERIYAKI\r\n\r\n8810 GARFIELD AVE.\r\n\r\nSOUTH GATE, CA. 90280\r\n\r\nTEL: (552) g2s-8999\r\n\r\nREG\r\n\r\n05-18-2019 11:19 AM\r\n\r\nManagar\r\n\r\nMC #01\r\n\r\n000141\r\n\r\nORDER\r\n\r\no00 14\r\n\r\n$3. 39\r\n\r\n1 #1 CHKN PILATE\r\n\r\n1 + AVOCADO\r\n\r\n$1.95\r\n\r\n1 MD. DRINK\r\n\r\n$2.29\r\n\r\nsk HERE.\r\n\r\n$1. 40\r\n\r\nTAX\r\n\r\n$15. 03\r\n\r\nCASH\r\n\r\n$4.97\r\n\r\nCG\r\n",
+  "status": "unreviewed_OCR_output"
+}

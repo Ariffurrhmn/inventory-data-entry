@@ -1,0 +1,169 @@
+{
+  "sample_id": "7c33fa811984",
+  "actual_existing_label": "receipt",
+  "result": {
+    "decision_trace": {
+      "selected_component": "learned_fallback",
+      "heading_matches": [],
+      "ambiguous_heading": false,
+      "normalized_heading_evidence": null,
+      "learned_top_class": "receipt",
+      "learned_alternative_class": "customer_copy",
+      "learned_score_margin": 0.9341272652288575,
+      "scores_calibrated": false,
+      "rule": null,
+      "explanation_method": "Deterministic rule trace or exact n-gram contributions; transformers use fixed-model text omissions"
+    },
+    "label": "receipt",
+    "decision_source": "trained_classifier",
+    "heading_evidence": null,
+    "ambiguous_heading": false,
+    "statistical_label": "receipt",
+    "scores_kind": "statistical_fallback_scores",
+    "scores": {
+      "customer_copy": 0.020762760154617338,
+      "delivery_note": 0.014059622333180564,
+      "purchase_order": 0.010287592128730778,
+      "receipt": 0.9548900253834748
+    },
+    "scores_calibrated": false,
+    "ocr_empty": false,
+    "text_characters": 402,
+    "input_origin": "provided_text",
+    "ocr_text": "ems s—\r\n— i i cs cossiid\r\n— 1 a 2 —\r\n7 1 ne PEPPER MEATBALL 78,500 =\r\n= 1 GREE 0 FORMANGGI PASTA 82,500 =\r\n=, GREEN TEA WITH CRUMBLE 56,000 =\r\npt SUBTTL INAL BREWED TEA 46,000 Ee\r\n7 hie Bk 15,660\r\n= 10% 27,868 |\r\np= a a eee tr mi Ae to a A ;\r\nTOTAL 304 ,326\r\n= PT tL Es Eb - or]\r\neR Le re Ee\r\na a I et. i Ta et Ey Ne Bae nA\r\nEE at - wa —r ER : a Tr ————\r\n2 -o —. = > of me ER at aa ol — 4\r\na re ET\r\ncpm GE rl eB ee BE —\r\n",
+    "heading_ocr_text": "a,\r\n\r\nhd\r\n\r\nini\r\n\r\n-\r\n\r\n-—\r\n\r\n—_—\r\n\r\n—\r\n\r\n-\r\n\r\n-=\r\n\r\na EE\r\n\r\n=\r\n\r\n=\r\n\r\n—— STC EI-oTIIIIETS\r\n\r\n-\r\n\r\n—\r\n\r\n——\r\n\r\n——\r\n\r\n—\r\n\r\n———— EC ENCES SIITToTSITIEIIEST\r\n\r\nnt tt ce se ee ne\r\n\r\nBLACK PEPPER MEATBALL\r\n\r\n76,500\r\n\r\n—\r\n\r\n7\r\n\r\nQUARTO FORMANGGI PASTA\r\n\r\n82,500\r\n\r\n==\r\n\r\nEEN TEA WITH CRUMBLE\r\n\r\n56,000\r\n\r\nORIGINAL BREWED TEA\r\n\r\n46,000\r\n\r\nSU\r\n\r\n261,000\r\n\r\nSVC CHG 6%\r\n\r\n15,660\r\n\r\nPB1 10%\r\n\r\n27,866\r\n\r\n——————————————— A Vo. o_o on\r\n\r\n304,326\r\n\r\now\r\n\r\nLES\r\n\r\nSey?\r\n\r\nrT\r\n\r\nEE a\r\n\r\npo\"\r\n\fLL -\r\n\\ gi\r\n- ¥\r\n\n= SVC CHG 6% 15,660\r\nee PB1 10% 27,666\r\n. TOTAL 304 ,326\r\n\fems s—\r\n— i i cs cossiid\r\n— 1 a 2 —\r\n7 1 ne PEPPER MEATBALL 78,500 =\r\n= 1 GREE 0 FORMANGGI PASTA 82,500 =\r\n=, GREEN TEA WITH CRUMBLE 56,000 =\r\npt SUBTTL INAL BREWED TEA 46,000 Ee\r\n7 hie Bk 15,660\r\n= 10% 27,868 |\r\np= a a eee tr mi Ae to a A ;\r\nTOTAL 304 ,326\r\n= PT tL Es Eb - or]\r\neR Le re Ee\r\na a I et. i Ta et Ey Ne Bae nA\r\nEE at - wa —r ER : a Tr ————\r\n2 -o —. = > of me ER at aa ol — 4\r\na re ET\r\ncpm GE rl eB ee BE —\r\n\fEo.\r\n\r\n.\r\n\r\nay,\r\n\r\nHR\r\n\r\nwy,\r\n\r\n©\r\n\r\nHn\r\n\r\na\r\n\r\nBy\r\n\r\naa\r\n\r\n=\r\n\r\n' =\r\n\r\n“ay\r\n\r\n3\r\n\r\n-\r\n\r\nPA\r\n\r\nor M\r\n\r\nBrig\r\n\r\nhtt\r\n\r\n~~\r\n\r\nhe\r\n\r\n“\r\n\r\nTR\r\n\r\n-\r\n\r\nha?\r\n\r\nye\r\n\r\nEy\r\n\r\na.\r\n\r\n\\3\r\n\r\nae,\r\n\r\ndF\r\n\r\ni\r\n\r\nere\r\n\r\niy\r\n\r\nsw\r\n\r\n~~\r\n\r\n-—\r\n\r\nng\r\n\r\n-~\r\n\r\n~~\r\n\r\n~~\r\n\r\n-—e\r\n\r\n~~\r\n\r\n~~\r\n\r\nPaoli\r\n\r\nha PO\r\n\r\nem\r\n\r\nan,\r\n\r\nEvidevey\r\n\r\n~5\r\n\fS—\r\n\r\name ce\r\n\r\n8\r\n\r\nST\r\n\r\nnt\r\n\r\n — -\r\n\r\nsins\r\n\r\nRa\r\n\r\n-\r\n\r\nid\r\n\r\nram p!\r\n\r\nwr\r\n\r\ngh\r\n\r\n[PY\r\n\r\ni,\r\n\r\nre;\r\n\r\ncg,\r\n\r\n~g\r\n\r\n-\r\n\r\ncm,\r\n\r\n2m\r\n\r\nTAC ani\r\n\r\n.\r\n\r\n~~\r\n\r\npS\r\n\r\nwi\r\n\r\naon\r\n\r\nNagy\r\n\r\npo\r\n\r\nne\r\n\r\nT.-\r\n\r\nar\r\n\r\nEas]\r\n\r\nPE\r\n\r\nore\r\n\r\nwerd\r\n\r\n|\r\n\r\nFo =\r\n\r\na\r\n\r\n— all\r\n\r\npd\r\n\r\nass,\r\n\r\npoi\r\n\r\nEL ie\r\n\r\n-—\r\n\r\n—— ean\r\n\r\n——\r\n\foem\r\n\r\na\r\n\r\n[ S\r\n\r\ngern?\r\n\r\n~~\r\n\r\npr\r\n\r\neo\r\n\r\nSg\r\n\r\nEe\r\n\r\nJ\r\n\r\nB=\r\n\r\n£3\r\n\r\nvest\r\n\r\npe PH\r\n\r\npen\r\n\r\nopo——\r\n\r\nte\r\n\r\na\r\n\r\nwD xe, pg\r\n\r\nos\r\n\r\nrw So\r\n\r\nyou\r\n\r\npo\r\n\r\n-\r\n\r\non sav\r\n\r\nor.\r\n\r\noo”\r\n\r\nI\r\n\r\nwas BE\r\n\r\na\r\n\r\nA\r\n\r\n—\r\n\r\n—— ns\r\n\r\nnt tm ea\r\n\r\nrst\r\n\r\n——\r\n\r\na a\r\n\r\npr\r\n",
+    "validation_only": true,
+    "run": "printed_v3_explainable",
+    "model": "classifier",
+    "backend": "complement_nb",
+    "model_sha256": "bd1dba65eb03c3f2282697a502400794ce754543c5e16150625b73cea62ce0bd",
+    "scope_version": "printed-only-v1",
+    "ocr_policy": "illumination",
+    "heading_rules": true,
+    "edge_recovery": true,
+    "classes": [
+      "purchase_order",
+      "receipt",
+      "delivery_note",
+      "customer_copy"
+    ],
+    "experimental": true,
+    "heading_module": "heading_rules_v3",
+    "illumination_recovery": true
+  },
+  "explanation": {
+    "label": "receipt",
+    "decision_source": "trained_classifier",
+    "model_run": "printed_v3_explainable",
+    "scores_calibrated": false,
+    "method": "exact_ngram_log_score_contributions",
+    "component": "learned_fallback_only",
+    "alternative_class": "customer_copy",
+    "logit_margin": 3.8284351722985477,
+    "intercept_contribution": 0.0,
+    "sum_feature_contributions": 3.828435172298525,
+    "reconstructed_logit_margin": 3.828435172298525,
+    "reconstruction_error": 2.2648549702353193e-14,
+    "supporting_features": [
+      {
+        "feature": "ne",
+        "contribution": 0.32195614067187195,
+        "feature_value": 0.1956708922943811
+      },
+      {
+        "feature": "tea",
+        "contribution": 0.2660602730799763,
+        "feature_value": 0.24393634543965645
+      },
+      {
+        "feature": "et",
+        "contribution": 0.2646722015252289,
+        "feature_value": 0.25709786617925146
+      },
+      {
+        "feature": "at",
+        "contribution": 0.23638874901728427,
+        "feature_value": 0.1818509008078913
+      },
+      {
+        "feature": "be",
+        "contribution": 0.20892287772729962,
+        "feature_value": 0.09727998545611134
+      },
+      {
+        "feature": "ey",
+        "contribution": 0.1892701626482475,
+        "feature_value": 0.11556638108074586
+      },
+      {
+        "feature": "eee",
+        "contribution": 0.1791287110527115,
+        "feature_value": 0.13145847256421145
+      },
+      {
+        "feature": "re",
+        "contribution": 0.17537720075892665,
+        "feature_value": 0.1541390395101975
+      },
+      {
+        "feature": "er",
+        "contribution": 0.16823023892902694,
+        "feature_value": 0.21605658086315443
+      },
+      {
+        "feature": "tl",
+        "contribution": 0.16063101470148242,
+        "feature_value": 0.1371306055293047
+      },
+      {
+        "feature": "ge",
+        "contribution": 0.15876411237815335,
+        "feature_value": 0.1225085107751939
+      },
+      {
+        "feature": "ta",
+        "contribution": 0.1579174083769118,
+        "feature_value": 0.12666275247485384
+      }
+    ],
+    "opposing_features": [
+      {
+        "feature": "eb",
+        "contribution": -0.1249130056046073,
+        "feature_value": 0.25908994800885077
+      },
+      {
+        "feature": "mi",
+        "contribution": -0.04092055277701647,
+        "feature_value": 0.14407273522375272
+      },
+      {
+        "feature": "304",
+        "contribution": -0.03197247963246498,
+        "feature_value": 0.15302269701277027
+      },
+      {
+        "feature": "with",
+        "contribution": -0.02865199462474113,
+        "feature_value": 0.1371306055293047
+      },
+      {
+        "feature": "bk",
+        "contribution": -0.02352683895025128,
+        "feature_value": 0.11260122423213452
+      },
+      {
+        "feature": "46",
+        "contribution": -0.016842557730446118,
+        "feature_value": 0.1225085107751939
+      }
+    ],
+    "active_feature_count": 46,
+    "interpretation": "Feature value times the learned coefficient difference exactly reconstructs the target-versus-alternative logit margin, including the intercept. Contributions are not probability percentages.",
+    "limitations": [
+      "Correlated word/character n-grams can share evidence.",
+      "A learned association is not proof of document type or real-world causation.",
+      "This explains the learned fallback only; any heading rules are held fixed."
+    ]
+  }
+}

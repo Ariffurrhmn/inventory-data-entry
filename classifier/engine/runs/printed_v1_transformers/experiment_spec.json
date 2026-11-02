@@ -1,0 +1,22 @@
+{
+  "parent_run": "printed_v1_edges",
+  "validation_adaptive": true,
+  "train": 150,
+  "val": 25,
+  "historical_test_inputs_opened": 0,
+  "seed": 42,
+  "ocr_policy": "sparse",
+  "models": [
+    "sentence-transformers/all-MiniLM-L6-v2",
+    "google/bert_uncased_L-2_H-128_A-2"
+  ],
+  "minilm": "Frozen normalized mean-pooled first/last 254 token vectors concatenated, balanced LR C=1 and C=10; no encoder training",
+  "bert": "End-to-end four-class classification, first/last tokens within256, balanced cross entropy, AdamW lr5e-5 weight_decay0.01 batch8 12epochs, evaluate/save epochs4,8,12",
+  "hybrid": "Each candidate also evaluated with unchanged parent heading rules and cached validation edge OCR; no edge text enters learned features",
+  "selection": "Compare validation macro-F1 against active parent .765688; no automatic activation",
+  "environment": {
+    "python": "3.12.14",
+    "torch": "2.14.1+cpu",
+    "cuda": false
+  }
+}

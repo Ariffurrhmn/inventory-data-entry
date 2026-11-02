@@ -1,0 +1,14 @@
+{
+  "parent": "printed_v2_groupcv",
+  "selection": "complement_nb",
+  "selection_basis": "Retain training-group-CV selected classifier, do not reselect on validation",
+  "adaptive_validation": true,
+  "changes": [
+    "Three explicit printed field groups jointly identify a future purchase request: order number/date, required-by/date, please supply/request goods/items.",
+    "One edit allowed only for the distinctive 9-letter duplicate copy marker.",
+    "Preserve ambiguous cross-class cues as fallback, not arbitrary precedence."
+  ],
+  "rule_code_sha256": "ca15a69bb18ec8d6b16ec0d69ba5f105eaa0b14b5eec277d1c66b30d618165e3",
+  "historical_test_inputs_opened": 0,
+  "training_oof": "Three grouped folds; vocabulary/IDF/classifier refitted within training folds. Heading context uses sparse+new corrected views only; old edge cache was available only for validation and is omitted from training OOF."
+}

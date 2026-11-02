@@ -1,0 +1,15 @@
+{
+  "sample_id": "srd_1168-receipt",
+  "image_path": "Dataset\\intake\\2026-10-19\\expressexpense_srd\\images\\1168-receipt.jpg",
+  "image_sha256": "461c9e507d1cce1a446d18dc929e220f56e28b663e85289a1f0d83a8765b5a6a",
+  "full_text": "CARL'S JR\r\nRestaurant 1100580\r\n11961 Beach Blvd.\r\nStanton, CA 90680\r\n(714)895-5114\r\n9/27/2017 12:13:06 PH\r\nOrder 375719 Cashier: Alvaro I\r\n\r\n0.00\r\nStar Meal #1 1.00\r\nDbl Chbgr 0,00\r\nHot Dog 0.00\r\nBaked Cookie 0.00\r\nLg Fries 3.00\r\nLg Bev Bar 3.00\r\n\r\nSubTotal\r\nTax\r\n\r\nTotal\r\nCash\r\nChange\r\n\r\nTo Go\r\nThank you for visiting!\r\n\r\nTicket #45\r\ntens in bagls): 4\r\n\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

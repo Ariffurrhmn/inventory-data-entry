@@ -1,0 +1,13 @@
+{
+  "sample_id": "srd_1022-receipt",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "a58086293a115683a9b8c493bc8c69c38f33123095e2342730825cd37e2c2d7a",
+  "full_text": "Moonstar Rest auran it\r\n\r\nert Blvd.,\r\n\r\n(650)\r\n\r\nPAID REPRINT 1\r\n\r\nl0:332\r\n\r\n#2406\r\n\r\nNAME\r\n\r\nJINNER $29.8\r\n\r\nl\r\n\r\nR\r\n\r\nOA OERY LL\r\n\r\n4.48\r\n\r\nTax\r\n\r\n3 8)\r\n\r\n3\r\n\r\noho\r\n\r\n4\r\n\r\nLt\r\n\r\nVv\r\n\r\nIV\r\n\r\nTOTAL\r\n\r\n37.37\r\n\r\n2\r\n\r\nB62. 683\r\n\r\nJn\r\n\r\n10/29/20\r\n\r\nTHAN\r\n",
+  "status": "unreviewed_OCR_output"
+}

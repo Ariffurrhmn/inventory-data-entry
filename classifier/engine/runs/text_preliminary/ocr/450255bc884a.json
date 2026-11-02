@@ -1,0 +1,16 @@
+{
+  "sample_id": "450255bc884a",
+  "image_path": "services\\document_classifier\\data\\images\\450255bc884a.jpg",
+  "image_sha256": "ac2b2875b6c7e9b1628ecc5d9eca817272fbdf270bc60ffd6e7dccad252f198c",
+  "full_text": "Order #1064\n\nPacking Slip September 5, 2026\n\nFrom Ship to\nCrimson&Co\n\n07 South Bishil Road\n\n1216\n\nBangladesh\n\nOrder Details\n\nQty Item\n1 The Ascot Check Boxy Shirt - S\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\450255bc884a.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

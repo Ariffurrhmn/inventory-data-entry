@@ -1,0 +1,27 @@
+{
+  "sample_id": "11d42d9168f2",
+  "image_sha256": "675e7ea70d7e086f7360a31c435c0b063027a754f3f5acb3e153d20a6dcb32ef",
+  "views": {
+    "full": "~ Karnaphuli Traders\r\n\r\nInvoice\r\n\r\nInvoice No: INV-9869. Date: 06/07/2026. |\r\n\r\nBill To / Customer: Green Leaf Mart, Badda, Dhaka. |\r\n\r\nItem Qty Rate (Tk)  Asount (Tk) |\r\n' Miniket Rice 25kg 10 Tk 1,850 Tk 18,500 |\r\n\"Milk Powder 500g 10 Tk 420 Tk 4,200 |\r\n| Atta 2g 10 Tk 130 Tk 1,300\r\n| Toothpaste 100g 4 Tk 120 Tk 480\r\nTotal: Tk 24,480.\r\n\"Authorised Signature i\r\n| CUSTOMER COPY\r\n",
+    "top_-12": "1\r\n\r\narp\r\n\r\nIny\r\n\r\naphy] ;\r\n\r\n1c\r\n\r\nTradep,\r\n\r\nad TO ~.\r\n\r\ni\r\n\r\nInvojeg\r\n\r\nor\r\n\r\nnL\r\n\r\n11] To\r\n\r\nust\r\n\r\na:\r\n\r\nTe.\r\n\r\n06/07/2095 TT\r\n\r\nnd TO\r\n\r\nTie\r\n\r\npl rt, Badg, Dhay,\r\n\r\nEa\r\n\r\nRate (ry) Ch\r\n\r\nTe t——\r\n\r\nen. front (Tk)\r\n\r\n———\r\n",
+    "top_0": "Karnaphuli Traders\r\n\r\nInvoice\r\n\r\nOr a DE PY CVD ET A EY SD EE ES ND ER Ss EES PY SD EE AY SY ED AD ay eS ED\r\n\r\nInvoice No: INV-9869. Date: 06/07/2026.\r\n\r\nBill To / Customer: Green Leaf Mart, Badda, Dhaka.\r\n\r\nDm ED TR TED DE = nD ED Gn Gh EE Gh CE ES Th Wh Ee Ee TD GE DE ED an\r\n\r\nItem\r\n\r\nQty\r\n\r\nRate (Tk)\r\n\r\nAmount (Tk)\r\n\r\nJ\r\n\r\nAD LTD A SL A DC DL 0 HD D-DD\r\n",
+    "top_12": "i\r\n\r\n--\r\n\r\n-—\r\n\r\n. Karnaph\r\n\r\n-\r\n\r\n-—\r\n\r\npm\"\r\n\r\nny\r\n\r\nplce\r\n\r\n———\r\n\r\nmem\" La\r\n\r\n06/01!\r\n\r\n2076\r\n\r\nJE wy-9862 .\r\n\r\n--\r\n\r\ninvoice N\r\n\r\n|ea Wart,\r\n\r\nee\"\r\n\r\n—— o\r\n\r\nJP La\r\n\r\nour (TO\r\n\r\npill\r\n\r\nTo / ustomet\r\n\r\n———\r\n\r\nmee\"\r\n\r\n—-— pm\r\n\r\navy\r\n\r\nate TW)\r\n\r\nJEP\r\n\r\nJa\r\n\r\nET NC\r\n\r\nmmm\"\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

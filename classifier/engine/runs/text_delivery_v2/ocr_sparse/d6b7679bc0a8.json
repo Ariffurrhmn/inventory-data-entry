@@ -1,0 +1,13 @@
+{
+  "sample_id": "d6b7679bc0a8",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "94f799eefa5363eb9147326401e97decf6735e07e31dfa33beaccab821451ebf",
+  "full_text": "—— SC CC CS SC CC oC SoC ST ono\r\n\r\nte ts Se SS ee em ee ee Sr\r\n\r\net ergo\r\n\r\nmt en ee ne rs Se ee ee ee ee\r\n\r\n1 CAPTAIN HOOK\r\n\r\n00\r\n\r\nIZZY PINK ZIGZAG\r\n\r\n-\r\n\r\n1 PIRATES TREASURE\r\n\r\n75,000\r\n\r\n~ BILLY BROWN SMALL\r\n\r\n»* KIDS MEAL\r\n\r\n150,000\r\n\r\nSUBTTL\r\n\r\n150,000\r\n\r\n12,000\r\n\r\nSoe Charge\r\n\r\n16,200\r\n\r\na\r\n\r\n=\r\n\r\nTOT\r\n\r\n200\r\n\r\nys\r\n\r\n=\r\n\r\n=\r\n",
+  "status": "unreviewed_OCR_output"
+}

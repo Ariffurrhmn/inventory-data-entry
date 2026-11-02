@@ -1,0 +1,5 @@
+label,purchase_order,receipt,delivery_note,customer_copy
+purchase_order,4,0,0,3
+receipt,0,5,0,0
+delivery_note,10,0,0,0
+customer_copy,0,0,0,6

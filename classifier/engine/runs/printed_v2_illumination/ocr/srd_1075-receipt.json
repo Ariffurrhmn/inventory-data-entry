@@ -1,0 +1,27 @@
+{
+  "sample_id": "srd_1075-receipt",
+  "image_sha256": "a1bdd7253ebf3b1a0df4ad42c7038454cecb7f372a70e00f160b994c35294074",
+  "views": {
+    "full": "gt! NI : a a7 : fig (on “4 ¥ PI A IWR ad PT pia § wh 4 id ,\r\n\r\n4 -¥ CAE ee 2, yal A> cd A]\r\na AEA IEE US 2361 Whitney Ave Tite\r\nA MT AA 5/22/2014 2:00:48 PM GUESTS a 22\r\nENTER 1 FXN DIET BIRCH 1.50 RET\r\n[eg a Ee vor Ad\r\n= 2 Hee II ~ b> JY\r\nEr. I pc\r\nSH close 5/22/2014 2:02:00 PM RFR\r\nSE AAC Lr ween a es ee ee a i pd\r\nEo TT : \"5\r\nASTID J\r\ney THANK YOU! ! Ro\r\n",
+    "top_-12": "-\r\n\r\n-~.r\r\n\r\ni\r\n\r\nLd\r\n\r\n-\r\n\r\nne\r\n\r\nsy\r\n\r\n“5\r\n\r\nv\r\n\r\nmo\r\n\r\n236\r\n\r\n5\r\n\r\nHam,\r\n\r\n1 Whitn\r\n\r\ney A\r\n\r\nBRB\r\n\r\nde i! T 065 18\r\n\r\nTee ——.\r\n\r\n7\r\n\r\nOr,\r\n\r\nTre maaan\r\n\r\nte e———\r\n\r\nRar\r\n\r\nLY\r\n\r\nAS\r\n\r\nER\r\n\r\ntw\r\n\r\n-\r\n\r\n5/22/2014\r\n\r\n39 Tree\r\n\r\nTee\r\n\r\n00:48 PH\r\n\r\nTTT\r\n\r\nhal\r\n\r\nGUESTS\r\n\r\nI\r\n\r\nTeall\r\n\r\nOY\r\n\r\nOE\r\n",
+    "top_0": "-\r\n\r\n-v\r\n\r\nLE\r\n\r\nsmokeBoxBBQ\r\n\r\n2361 Whitney Ave\r\n\r\n5\r\n\r\nHamden, CT 06518\r\n\r\n203 909 6545\r\n\r\nWY\r\n\r\nPE]\r\n\r\n‘4\r\n\r\nmn mn ————— =\r\n\r\nORDER# 39\r\n\r\n(=\r\n\r\nAS\r\n\r\nGUESTS\r\n\r\n5/22/2014 2:00:48 PM\r\n\r\n-\r\n\r\nN\r\n\r\nmm a m= ———— = —————————\r\n\r\n[EU aN\r\n\r\nPEN\r\n\r\nrac\r\n",
+    "top_12": "a\r\n\r\nS.A\r\n\r\n£4\r\n\r\n-\r\n\r\nZe\r\n\r\n~\r\n\r\npl\r\n\r\no*\r\n\r\n‘4\r\n\r\nmo¥\r\n\r\nnitne\r\n\r\n6518\r\n\r\n. Ya\r\n\r\n236\r\n\r\nden:\r\n\r\ntoR\r\n\r\nam\r\n\r\n9 go42\r\n\r\neT\r\n\r\nPa\r\n\r\nIES\r\n\r\n*\r\n\r\n—\r\n\r\na4\r\n\r\neT\r\n\r\nvoy\r\n\r\nPrt as\r\n\r\nPt\r\n\r\n-\r\n\r\n39\r\n\r\nGu\r\n\r\n£S1S\r\n\r\np——\r\n\r\n-\r\n\r\nOR\r\n\r\neT\r\n\r\nALES. pH\r\n\r\n—\r\n\r\n——\r\n\r\n14\r\n\r\nJPA\r\n\r\n22/2\r\n\r\n-\r\n\r\n-\r\n\r\n-—\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

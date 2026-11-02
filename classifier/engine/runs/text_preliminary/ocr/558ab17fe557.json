@@ -1,0 +1,16 @@
+{
+  "sample_id": "558ab17fe557",
+  "image_path": "services\\document_classifier\\data\\images\\558ab17fe557.jpg",
+  "image_sha256": "fbbec5433711e1a515b262e42ac51c922119fd3aa62610816e17e314da1705ff",
+  "full_text": "Purchase Order\n\neS ——\nEE EE EE EE EE EE EE EE ee\n\nP.0. No: PO0-7880 Order Date: 13/09/2026\n\nESS aE FY\n\nSupplier:\nSonar Bangla Distributors.\n\nBill To: Ship To:\nAl-Madina Traders, Al-Madina Traders,\nChashara, Narayanganj. Chashara, Narayanganj.\n\nItem | aty | unit Price (Tk)| Amount (Tk) |\nre mr mr ff rr ee fe ef\n| Toothpaste 100g | an | 120 i nae |\nEns A\n| onion 1kg | 22 | 65 | 0 |\nfmm rr mr err et am fp mr mr mer ef rm er rm rm mm pm mm ———————\n| Milk Powder S003 | 20 | 420 | S40 |\nfm mm mene ee ce ee ef re ef et re en ee em err\n| Sugar 1kg je] =m | ws |\nme a mpm meme\n\nGrand Total: Tk 12,780\n\nAuthorized Signature\n\nen mm mm em me ——\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\558ab17fe557.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

@@ -1,0 +1,27 @@
+{
+  "sample_id": "9a3b168b4497",
+  "image_sha256": "f188b74a6218121d11e5180dd45be2f7f22d7ec5d402dff6b9512bb6194694c8",
+  "views": {
+    "full": "—— PURCHASE\r\nPurchase Order # 4\r\nBill To: Ship To:\r\nMaliha Usha Date: Oct 7, 2026\r\nRequired By: Oct 12, 2026\r\nItem Quantity Rate Amount\r\nUSB Flash Drive 10 $5.50 $55.00\r\nWireless Mouse 5 $7.50 $37.50\r\nKeyboard 1 $9.00 $9.00\r\nUSB-C Cable 1 $2.50 $2.50\r\nSubtotal: $104.00\r\nTax (0.25%): $0.26\r\nTotal: $104.26\r\n",
+    "top_-12": "itu Raha,\r\n\r\nBill 15.\r\n\r\nMajin,\r\n\r\nSE\r\n\r\nShip To\r\n\r\nUshg\r\n\r\nOR\r\n\r\nUrchage Order 4 p\r\n\r\ntem\r\n\r\nDate.\r\n\r\nUsp Flag\r\n\r\nQUiraq By:\r\n\r\nOct 7, 202g\r\n\r\nh Driye\r\n\r\nWirefag\r\n\r\nM,\r\n\r\nCt 12, 202g\r\n\r\nKeybog,, ”\r\n\r\nQuantip,\r\n\r\nUss.c Cable\r\n\r\nRate\r\n\r\n10\r\n\r\nAmong\r\n\r\n$5.50\r\n\r\n$7.50\r\n\r\n$55. 00\r\n\r\n$3.00\r\n\r\n$3 7.50\r\n\r\n$2.50\r\n\r\n$9.00\r\n\r\n$2.50\r\n",
+    "top_0": "Arifur Rahman\r\n\r\nPURCHASE\r\n\r\nORDER\r\n\r\nPurchase Order # 4\r\n\r\nBill To:\r\n\r\nShip To:\r\n\r\nMaliha\r\n\r\nUsha\r\n\r\nDate:\r\n\r\nOct 7, 2026\r\n\r\nRequired By:\r\n\r\nOct 12, 2026\r\n\r\nltem\r\n\r\nRate\r\n\r\nAmount\r\n\r\n[\r\n\r\nQuantity\r\n\r\n|\r\n\r\nUSB Flash Drive\r\n\r\n10\r\n\r\n$5.50\r\n\r\n$55.00\r\n\r\nWireless Mouse\r\n\r\n5\r\n\r\n$7.50\r\n\r\n$37.50\r\n\r\nKeyboard\r\n\r\n1\r\n\r\n$9.00\r\n\r\n$9.00\r\n\r\nUSB-C Cable\r\n\r\n1\r\n\r\n$2.50\r\n\r\n$2.50\r\n",
+    "top_12": "HASE\r\n\r\nPURC\r\n\r\npER\r\n\r\nOrder #4\r\n\r\nPur chas\r\n\r\nAxi\r\n\r\nur Reb\r\n\r\noats 202\r\n\r\nDae\r\n\r\n12,2028\r\n\r\noct\r\n\r\nReo\r\n\r\nred BY\r\n\r\ngrip te\r\n\r\nysha\r\n\r\ngin To!\r\n\r\nAmount\r\n\r\nRate\r\n\r\npalin\r\n\r\n985.00\r\n\r\nQuantity\r\n\r\n$550\r\n\r\n$37 50\r\n\r\n$7 50\r\n\r\n40\r\n\r\n$9 00\r\n\r\n$9 00\r\n\r\n$2.50\r\n\r\n$2 50\r\n\r\nyere\r\n\r\nn hii)\r\n\r\nuse Flas!\r\n\r\nwield\r\n\r\nss WO\r\n\r\nKd eyboatd\r\n\r\n58-C C\r\n\r\nable\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

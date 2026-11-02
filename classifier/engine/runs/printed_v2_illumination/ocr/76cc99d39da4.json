@@ -1,0 +1,27 @@
+{
+  "sample_id": "76cc99d39da4",
+  "image_sha256": "c008a22c1f76dc1b9d9e89cf948d589ec7bc9d64e8119a640c6a8c6af6fd626a",
+  "views": {
+    "full": "® §\r\n: ®\r\n\r\n! Om: Al-Madina Traders, Badda, Dhaka. 1® 1\r\n® To: Dhaka Trade House, “3\r\n® Order No: ORD-9953, ol\r\no Order Date: 04/07/2026. ik\r\n~ Required By: 09/07/2026. Tot |\r\n\r\n. Please supply the following goods: ah\r\n\r\nal : I\r\n| lim | Qty I Rate (Tk) Amount (TK)I\r\n+ ET GINENIEE SE ane an\r\n\r\no | Miniket Rice 25kg{ 24 | Tk 1,850 | Tk 44,400 { |\r\nfotos 5g. | B I%m 1% Low jig\r\n\r\no | per!\r\nat et este SH\r\n\r\n|\r\n\r\n° ”\r\n\r\nTotal: Tk 45,700. |.\r\n\r\n! |\r\n\r\n_ Authorized by |\r\nLp tod — 1\r\n: be b\r\n.. for Al-Madina Traders. oP\r\no o,\r\n\\ : |\r\n° Sl ¥\r\n; : sR\r\no 19],\r\n",
+    "top_-12": "Oon-\r\n\r\nA]\r\n\r\nLa) To.\r\n\r\nJ\r\n\r\nrag\r\n\r\n»\r\n\r\nOrge,.\r\n\r\nda, Dhg a.\r\n\r\n[ Orde, D\r\n\r\nqui reg\r\n\r\n#072006\r\n\r\nfd\r\n\r\n~\r\n\r\nFee\r\n\r\nUppy, the\r\n\r\nhat\r\n\r\nfolloy sn, 900gs\r\n\r\n~——— ~——\r\n\r\nSS ——\r\n\r\nry\r\n\r\nft\r\n\r\n~~\r\n\r\nne\r\n",
+    "top_0": "LI\r\n\r\nFrom:\r\n\r\nAl-Madina Traders, Badda, Dhaka\r\n\r\nTo:\r\n\r\nDhaka Trade House.\r\n\r\nOrder\r\n\r\nNo: ORD-9953.\r\n\r\nOrder\r\n\r\nDate: 04/07/2026.\r\n\r\nRequired By: 09/07/2026.\r\n\r\nPlease supply the following goods:\r\n\r\nFr m———————— tc me he mt me me —————— Lm mmm +\r\n\r\n~\r\n",
+    "top_12": "my\r\n\r\n-\r\n\r\nty\r\n\r\nLad\r\n\r\ngadda,\r\n\r\nphaka:\r\n\r\niy\r\n\r\naders»\r\n\r\n: e From\r\n\r\nHouse:\r\n\r\nTos\r\n\r\nD\r\n\r\nnaka Trade\r\n\r\nLa\r\n\r\n-99%53.\r\n\r\n~ Qrder No:\r\n\r\n10712026\r\n\r\norder D2 0 01/2078\r\n\r\n® Require\r\n\r\ngood\r\n\r\n|\r\n\r\nW gorlovind\r\n\r\nplease sup\r\n\r\nply t\r\n\r\nL Sutil\r\n\r\ngone\"\r\n\r\n-—\r\n\r\nFy\"\r\n\r\n-—\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

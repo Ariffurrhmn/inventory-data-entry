@@ -1,0 +1,13 @@
+{
+  "sample_id": "6085360f9c73",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "edf53171f3e05fe6b7e292b694ed24354c1eef18faf1bc821f8ae168765d2680",
+  "full_text": "HGT Company\r\n\r\nPURCHASE ORDER\r\n\r\nShop-12,\r\n\r\nPanjora, Gazipur,\r\n\r\nNumber\r\n\r\nPO - 20\r\n\r\nDhaka,\r\n\r\nData\r\n\r\n2026-09-18\r\n\r\nBanglasesh\r\n\r\nDue Date\r\n\r\n2026-10-16\r\n\r\nBILL TO\r\n\r\nXK Company\r\n\r\nShop-43,\r\n\r\nMirpue-10\r\n\r\nDhaka,\r\n\r\nBanglasesh\r\n\r\nAMOUNT\r\n\r\nDESCRIPTION\r\n\r\nQTY\r\n\r\nRATE\r\n\r\n$2.01\r\n\r\n$2.37\r\n\r\nEarphones\r\n\r\nTaxable Amount:\r\n\r\n$2.01\r\n\r\n——————————— Et)\r\n\r\nTotal:\r\n\r\n$2.37\r\n\r\nThank you for your business!\r\n\r\nPowered by HGT Company\r\n",
+  "status": "unreviewed_OCR_output"
+}

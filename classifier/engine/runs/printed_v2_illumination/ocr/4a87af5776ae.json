@@ -1,0 +1,27 @@
+{
+  "sample_id": "4a87af5776ae",
+  "image_sha256": "4496f560ca1955143233604ddd4f0585617d47b0c1f4bd520e0048220f1a1547",
+  "views": {
+    "full": "———— PURCHASE\r\nPurchase Order # 7\r\nBill To: Ship To:\r\nBillal Khan Rajib Hossain Date: Oct 9, 2026\r\nRequired By: Oct 10, 2026\r\nItem Quantity Rate Amount\r\nCeramic Mug 20 $2.80 $56.00\r\nLED Desk Lamp 10 $8.50 $85.00\r\nBackpack 5 $12.00 $60.00\r\nT-Shirt 10 $2.00 $20.00\r\nDenim Jeans 10 $15.00 $150.00\r\nSubtotal: $371.00\r\nTax (0.25%): $0.93\r\nTotal: $371.93\r\n",
+    "top_-12": "Uraiya Rahmay,\r\n\r\nBill 15.\r\n\r\nBj, lial Khan\r\n\r\nSE\r\n\r\nShip To.\r\n\r\nOR\r\n\r\najib Hosgg;\r\n\r\nUrchage Order 4 5\r\n\r\ntem\r\n\r\nDate.\r\n\r\nQUiraq By:\r\n\r\nOct\r\n\r\n9, 202¢\r\n\r\nCe, aie Mug\r\n\r\nLep Degy\r\n\r\nLamy,\r\n\r\nCt 10, 202g\r\n\r\nBackpacy\r\n\r\nQuantip,\r\n\r\nNh\r\n\r\nRate\r\n\r\n20\r\n\r\n10\r\n\r\nAmong\r\n\r\n$2.80\r\n\r\n$8.50\r\n\r\n$56.00\r\n\r\n10\r\n\r\n$1200\r\n\r\n$85. 0p\r\n\r\n$2.00\r\n\r\n$60 00\r\n\r\n~~\r\n\r\n$20, 00\r\n\r\n~~\r\n\r\naa\r\n",
+    "top_0": "Suraiya Rahman\r\n\r\nPURCHASE\r\n\r\nORDER\r\n\r\nPurchase Order # 7\r\n\r\nBill To:\r\n\r\nShip To:\r\n\r\nBillal Khan\r\n\r\nRajib Hossain\r\n\r\nDate:\r\n\r\nOct 9, 2026\r\n\r\nRequired By:\r\n\r\nOct 10, 2026\r\n\r\nltem\r\n\r\nRate\r\n\r\nAmount\r\n\r\n[\r\n\r\nQuantity\r\n\r\n|\r\n\r\n|\r\n\r\nCeramic Mug\r\n\r\n20\r\n\r\n$2.80\r\n\r\n$56.00\r\n\r\nLED Desk Lamp\r\n\r\n10\r\n\r\n$8.50\r\n\r\n$85.00\r\n\r\nBackpack\r\n\r\n5\r\n\r\n$12.00\r\n\r\n$60.00\r\n\r\n10\r\n\r\n$2.00\r\n\r\n$20.00\r\n\r\nT-shirt\r\n\r\n-\r\n\r\n-\r\n\r\nPOPRPON\r\n\r\nPOTTRION\r\n",
+    "top_12": "HASE\r\n\r\nPURC\r\n\r\npER\r\n\r\nOrder #7\r\n\r\nPur chas\r\n\r\nman\r\n\r\nSur\r\n\r\naiya Aa\"\r\n\r\noct? 202\r\n\r\nDae\r\n\r\n202\r\n\r\noct 10\r\n\r\nReo\r\n\r\nred BY\r\n\r\nShip\r\n\r\nHajiv\r\n\r\nHossai®\r\n\r\ngit To\r\n\r\nAmount\r\n\r\nRate\r\n\r\npie) Kn?\r\n\r\n66.00\r\n\r\nQuantity\r\n\r\n52 280\r\n\r\n485.00\r\n\r\n$8.50\r\n\r\n20\r\n\r\n$60 00\r\n\r\n10\r\n\r\n12.00\r\n\r\n$20.00\r\n\r\non\r\n\r\n$2 00\r\n\r\nWere\r\n\r\npes\r\n\r\n10\r\n\r\nic Mud\r\n\r\ncera!\r\n\r\nLEDD\r\n\r\nesk Lane\r\n\r\nBac!\r\n\r\nA3\r\n\r\npack\r\n\r\nont )\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

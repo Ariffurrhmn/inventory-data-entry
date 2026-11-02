@@ -1,0 +1,16 @@
+{
+  "sample_id": "3f351516323d",
+  "image_path": "services\\document_classifier\\data\\images\\3f351516323d.jpg",
+  "image_sha256": "06ab841151127e8327a4aa6b7389ad9111bea69e0ba45a9570545f89a52b84a7",
+  "full_text": "len\n\nSp cll:\n\na ate\ntast Hampton. NY\n(631) 328-1600\nFax (631) 329-1648\ny.goldenpearcafe.com\nAug06°'15 11: 01AM\n\nDate:\n\nCard Type: Visa\nAcCt #:\n\nXXXXXXXXXXXX1779\n\nXX/XX\n08316C\n8391\nCHINO\n5 Karina\n22 . #0\nTotal\n\nSignature —\n\n[ agree to pay\njccording t\nagreement .\nCustomer\ncopy\n\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\3f351516323d.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

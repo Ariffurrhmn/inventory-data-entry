@@ -1,0 +1,9 @@
+{
+  "parent": "printed_v2_rules",
+  "reason": "Concatenating OCR outputs imposed a single 30-line title window: corrected headers in later views were ignored. Preserve view boundaries and inspect each view independently.",
+  "model_fitted": false,
+  "model_unchanged": "Training-group-CV selected ComplementNB",
+  "adaptive_design": true,
+  "historical_test_inputs_opened": 0,
+  "code_sha256": "97a5277585a9d6146844c91041ecd74457fd708ade065fad350ab7236d156827"
+}

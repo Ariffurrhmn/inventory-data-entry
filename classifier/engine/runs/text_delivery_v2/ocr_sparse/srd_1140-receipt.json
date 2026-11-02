@@ -1,0 +1,13 @@
+{
+  "sample_id": "srd_1140-receipt",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "c653f7caddf1574517249c2fd6071cb9b14196c5c5f08c29d82b59c591e196fa",
+  "full_text": "1450 S. 01\r\n\r\nSHACK\r\n\r\nHost: Nelson\r\n\r\nwie Highway\r\n\r\n“\r\n\r\npee\r\n\r\n12 A=\r\n\r\nfess\r\n\r\n® pif 2 kd\r\n\r\ngt ed\r\n\r\nShackBurger\r\n\r\nSmoke Shack\r\n\r\n6.52\r\n\r\ncheese fries\r\n\r\n2.5\r\n\r\n2.50\r\n\r\nREG Soda (2 62.75)\r\n\r\n(2)REG Rootbeer\r\n\r\n2.5\r\n\r\nREG Iced Tea\r\n\r\nSubtotal\r\n\r\n23.58\r\n\r\nTax\r\n\r\n1.88\r\n\r\nTo Stay Total\r\n\r\nz5.47\r\n\r\n5.4\r\n\r\nVisa #XXXXXXXXXXXXS197\r\n\r\nAuth: 130960\r\n\r\nWe Tweet.\r\n\r\nYou Tweet.\r\n",
+  "status": "unreviewed_OCR_output"
+}

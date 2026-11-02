@@ -1,0 +1,27 @@
+{
+  "sample_id": "srd_1025-receipt",
+  "image_sha256": "b60f4beb70444a950e70ff43589a35e934a24e721d72b664515ed7bede53a1fd",
+  "views": {
+    "full": "McDonald’ “es aLra~t #3100\r\n1617 N ESSTEAN AEN. Z\r\nI.0S ANGELES, on %7 53-1263\r\nTELE 23 54 1300\r\n3% 2 Tae rientd 03:08 PM\r\nSidel Order 97\r\n1 Dbl Qtr Crees: 5.99\r\nSpecial Requi: 1\r\nADD |_eaf Letti cs 0.25\r\nADD Mac Sauce 0.40 4\r\nS.btotal 6.64\r\nTax 0.63\r\nTake-Out Total 1.20\r\nCashless i .21\r\nChange 0.00 To\r\nd (CARD ISSUER We MH &\r\ni TRANSACTION AMD I I 1.27 =\r\n9 CHIP READ | Ei\r\ni AJTHORIZATION LiL. ~ ABET =\r\n~~ S-Q# 039986 :\r\noi AID: AD00000OCH. & J: Eo\r\n= McDonald's now avai il: 2 ur JoerEATS =\r\n",
+    "top_-12": "1617\r\n\r\nLs Ae, Lig\r\n\r\nFor 7 Sy t 1310\r\n\r\nVEN\r\n\r\n£9\r\n\r\n“i\r\n\r\n5 1s\r\n\r\nKs o\r\n\r\nSi [a3]\r\n\r\nor\r\n\r\n13 03.04 PY\r\n\r\n' dtr Crees,\r\n\r\nOdor g7\r\n\r\nin Lay\r\n\r\nott\r\n\r\n5.99\r\n\r\nIC\r\n\r\n0.25\r\n\r\n0.40\r\n",
+    "top_0": "McDonald’: “5 aura-t E3100\r\n\r\n1617 N EX:\r\n\r\n)\r\n\r\nWEN. =\r\n\r\n1.OS ANGELF§&. n= 033-1563\r\n\r\nTEL# 221\r\n\r\n2H\r\n\r\n10\r\n\r\nK3# 2\r\n\r\nITE 03:08 PM\r\n\r\nSided\r\n\r\nOrder 97\r\n\r\n1 Dbl Qtr Crees\r\n\r\nH.99\r\n\r\nSpecial Requi:t\r\n\r\nADD |_eaf Lett: ca\r\n\r\n0.25\r\n\r\nADD Mac Sauce\r\n\r\n0.40\r\n",
+    "top_12": "ot El\r\n\r\nWoe.\r\n\r\n“el ve i\r\n\r\nyd\r\n\r\nOE\r\n\r\ney\r\n\r\nTk\r\n\r\nAA y (3° u\r\n\r\nyal 1\r\n\r\nOr av\r\n\r\nal\r\n\r\nKak 2\r\n\r\ngidel\r\n\r\n¢ Crees 3\r\n\r\n0.2\r\n\r\n\\ Dol 3%\r\n\r\n0.40\r\n\r\nSpec!\r\n\r\nFABLE 1\r\n\r\nLet pL\r\n\r\npop 12 -\r\n\r\nac Sauce?\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

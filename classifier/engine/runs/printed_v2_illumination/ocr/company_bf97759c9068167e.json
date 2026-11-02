@@ -1,0 +1,27 @@
+{
+  "sample_id": "company_bf97759c9068167e",
+  "image_sha256": "e4aa865ddab59a79346dc22b28342ac39453fe856396913ad77b8011ed2a641d",
+  "views": {
+    "full": "urchase Sue 542\r\n7205 Portland, OR\r\nOrde Phare: 442) 555.7651\r\nNUMBER DATE DELIVERY DATE ACCOUNT NO. REQUESTED BY CARRIER\r\nVO-PO-1586 31 Dec 2024 9 Jan 2025 CONSUMERO0001 Reinout Zy - Express\r\nHillmann\r\nVENDOR DELIVER TO\r\nConsumer Cycles Vantage Outdoor Corp.\r\n3 Chablis Court 304 5th Avenue\r\n90505 Torrance, CA Suite 542\r\nUnited States 97205 Portland, OR\r\nUSA\r\nPhone: (442) 555-7651\r\nItem Description Qty Unit price Disc. Amount\r\nNI-9522 HL Nipple 3 $19.98 - $59.94\r\nPAYMENT TERMS\r\nSubtotal $59.94\r\nNet 45 days\r\n) a er Freight $1.50\r\nPlease confirm this order and quote our PO number on all invoices\r\nand delivery notes. Tax 8.0% $4.80\r\nTotal $66.24\r\nApproved by\r\nThanks for trusting our adventure gear.\r\nwww.vantageoutdoor.com - sales@vantageoutdoor.com - (442) 555-7651\r\nPurchase Order VO-PO-1586 Page1/1\r\n",
+    "top_-12": "Urchag\r\n\r\nOrde )\r\n\r\nii\r\n\r\nIga\r\n\r\nNupyg Eq\r\n\r\nQO\r\n\r\nY0.po., 58\r\n\r\nDATE\r\n\r\n1\r\n\r\n31 Deg 202,\r\n\r\nDetrveg, Dar\r\n\r\nan 2025\r\n\r\nACCOuy, vo,\r\n\r\nVEND, or\r\n\r\nCONSUMER, 0\r\n\r\nREOUEg oy\r\n\r\nas\r\n\r\ning,\r\n\r\nCARRIER\r\n\r\n3 Chabyig\r\n\r\nCay\r\n\r\nYeleg\r\n\r\nHifi, ann\r\n\r\n05;\r\n\r\nZ Expregs\r\n\r\nHinitey\r\n\r\nnee fos\r\n\r\nEliveg\r\n\r\n304 51\r\n\r\ntdooy i,\r\n\r\nlite 54\r\n\r\n9705\r\n\r\nMane yp\r\n",
+    "top_0": "Purchase\r\n\r\na\r\n\r\nSil\r\n\r\nOrder\r\n\r\nNUMBER\r\n\r\nDATE\r\n\r\nDELIVERY DATE\r\n\r\nACCOUNT NO.\r\n\r\nREQUESTED BY\r\n\r\nCARRIER\r\n\r\nVO-PO-1586\r\n\r\n31 Dec 2024\r\n\r\n9 Jan 2025\r\n\r\nCONSUMER0001\r\n\r\nReinout\r\n\r\nZy - Express\r\n\r\nHillmann\r\n\r\nVENDOR\r\n\r\nDELIVER TO\r\n\r\nConsumer Cycles\r\n\r\nVantage Outdoor Corp.\r\n\r\n3 Chablis Court\r\n\r\n304 5th Avenue\r\n\r\n90505 Torrance, CA\r\n\r\nSuite 542\r\n\r\nI Initad Statee\r\n\r\na72n8% Partland OR\r\n",
+    "top_12": "hat\r\n\r\nys IF\r\n\r\nA\r\n\r\ngeo\r\n\r\nSurchase\r\n\r\nvo orde\r\n\r\nARRIER\r\n\r\nexpress\r\n\r\napqueste? ®t\r\n\r\nAcco\r\n\r\npeinout\r\n\r\npilimant\r\n\r\nELVERY\r\n\r\nCONS\r\n\r\n9%\r\n\r\njal\r\n\r\na 2025\r\n\r\nDATE\r\n\r\n4 De\r\n\r\nc 20\r\n\r\nNUMEER\r\n\r\nyoPot\r\n\r\npeuvER T°\r\n\r\n¢ Corp\r\n\r\ne\r\n\r\ndoo!\r\n\r\nant\r\n\r\nenue\r\n\r\n304 BN [ad\r\n\r\nSuite\r\n\r\na770%\r\n\r\nand OF\r\n\r\nENDO\r\n\r\nyoles\r\n\r\nsume’\r\n\r\n\\yabhs CO\r\n\r\n{orranc®:\r\n\r\n050%\r\n\r\nrates\r\n\r\nyt ht\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

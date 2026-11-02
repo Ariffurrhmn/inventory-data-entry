@@ -1,0 +1,27 @@
+{
+  "sample_id": "company_699124c384c73441",
+  "image_sha256": "0351abd695afbd947941e3ee4e4bc147b24217024bb08078f0308e086033faa6",
+  "views": {
+    "full": "Juniper Bikes PLC\r\nBuilt for every ride\r\n144 High Street - BS1 4DJ Bristol - United Kingdom\r\nNumber JB-BL-47634\r\nDate 09/01/2023\r\nOrder no. S047634\r\nP k - S | - Customer ID AW00011570\r\nac [ n Jg | P Carrier Xrq - Truck Ground\r\nBILL TO\r\nKristin Andersen\r\nZimmerstr 137\r\n13441 Berlin\r\nGermany\r\nItem Description Unit Ordered Shipped\r\nBK-M68S-46 Mountain-200 Silver, 46 EA 1 al\r\nSerious back-country riding. Perfect for all levels of competition. Uses\r\nthe same HL Frame as the Mountain-100.\r\nPackages 1\r\nTotal weight 10.94 kg\r\nUnits on hand 1\r\nNOTES\r\nFree standard delivery on orders over fifty pounds.\r\nPacked by Received by\r\nPedal on, from all of us Bank: Crédit Régional Juniper Bikes PLC\r\nIBAN: GB14 8176 5608 1621 8634 9723 VAT GB883310779\r\nBIC/SWIFT: JUNIGB80\r\nPacking Slip JB-BL-47634 Pagel/1\r\n",
+    "top_-12": "Jun\r\n\r\nIper\r\n\r\nesp\r\n\r\noh 3, reg,\r\n\r\nI for\r\n\r\nTY ik\r\n\r\nBristo Uniteg i; lo)\r\n\r\nPac\r\n\r\nIng g,;\r\n\r\nIp\r\n\r\nNumb,\r\n\r\nDate\r\n\r\nBig To\r\n\r\nB-BLg7624\r\n\r\nOrde, no,\r\n\r\nFistin\r\n\r\n08/01/20,\r\n\r\nTse,\r\n\r\nUstome, ID\r\n\r\nMerge, 13\r\n\r\nCarrigy\r\n\r\nSogq 7634\r\n\r\n1 €rlin\r\n\r\nW0001157,\r\n\r\nany\r\n\r\nrg\r\n\r\nTrye| Groyng\r\n",
+    "top_0": "a\r\n\r\nJuniper Bikes PLC\r\n\r\nBuilt for every ride\r\n\r\n144 High Street - BS1 4DJ Bristol - United Kingdom\r\n\r\nNumber\r\n\r\nJB-BL-47634\r\n\r\nDate\r\n\r\n09/01/2023\r\n\r\nOrder no.\r\n\r\nS047634\r\n\r\nCustomer ID\r\n\r\nAW00011570\r\n\r\nPacking Slip\r\n\r\nCarrier\r\n\r\nXrq - Truck Ground\r\n\r\nBILLTO\r\n\r\nKristin Andersen\r\n\r\nZimmerstr 137\r\n\r\n13441 Berlin\r\n\r\nGermany\r\n",
+    "top_12": "es PL\r\n\r\nJu\r\n\r\njt for every\r\n\r\nunited win\r\n\r\nqdo™\r\n\r\n380s!\r\n\r\n5 LATE\r\n\r\neet\r\n\r\nooiod\r\n\r\n2023\r\n\r\na HiD Si\r\n\r\number\r\n\r\npate\r\n\r\nc0aT634\r\n\r\nodel no\r\n\r\npnio0013570\r\n\r\nomer ¥\r\n\r\nCust\r\n\r\nPa\r\n\r\no- Truck Grou®\r\n\r\ncaret\r\n\r\nsp\r\n\r\nckind\r\n\r\nPa\r\n\r\nBul\r\n\r\nersen\r\n\r\nKristin\r\n\r\n137\r\n\r\nZi\r\n\r\nerstl\r\n\r\n2441\r\n\r\npert\r\n\r\nGermany\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

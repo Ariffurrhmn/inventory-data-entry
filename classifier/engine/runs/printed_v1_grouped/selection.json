@@ -1,0 +1,10 @@
+{
+  "selected": "baseline",
+  "ocr_policy": "baseline",
+  "scope_version": "printed-only-v1",
+  "validation_macro_f1": 0.4805555555555555,
+  "validation_accuracy": 0.52,
+  "selection_rule": "Maximum validation macro-F1; ties prefer baseline, sparse, combined in that order",
+  "new_test_result": null,
+  "test_images_opened": 0
+}

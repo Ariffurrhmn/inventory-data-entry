@@ -1,0 +1,15 @@
+{
+  "sample_id": "srd_1032-receipt",
+  "image_path": "Dataset\\intake\\2026-10-19\\expressexpense_srd\\images\\1032-receipt.jpg",
+  "image_sha256": "7ed6dd6b5aaefbf2977d0a8606164f398e0f4dbd6b4a6b6723c4510d4db5cfbd",
+  "full_text": "WINGS & THINGS\r\n1717 DUTCH BRDY ELMONT, NY 11003\r\nTHANKS CALL AGAIN 516-341-7075\r\n\r\nHI168 uy OUT\r\n1\"MAC&CHZ - SMALL 1.19\r\n1 COLL GRN - SMALL 1.19\r\n“~<=1 CORN BREAD .62\r\n“T5 WINGS 5.75\r\nSPCY FRY\r\n\r\nTXTL 75\r\nTOTL 9.50\r\nCASH 3.50\r\n\r\nCHNG\r\n\r\nTHANK YOU ~~ COME AGAIN\r\nPM #1\r\n\r\n0168 20:14 #04 MAR.19'17 REG00OT\r\n\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

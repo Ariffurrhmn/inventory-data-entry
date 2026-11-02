@@ -1,0 +1,27 @@
+{
+  "sample_id": "3019fd45ae14",
+  "image_sha256": "43e7e585fd9e240ea1bbbf91efef266ceab9286e4c687e025b3a08ce818ae33f",
+  "views": {
+    "full": "DELIVERY CHALLAN io 2028-09-04\r\nSELLER CONSIONEE\r\nABC Company Fatiha\r\nShop 12, Market Road, City — 400001 House-73, Road- 34, Kalkata\r\nVehicle no.: MH 01 AB1234 Purpose: Job work\r\n1 Earphones 9207 30.00 450.00 3,500.00 20%\r\n2 Computer Keyboard sq) 20.00 800.00 18,000.00 6%\r\n: 3 USB- C Cable 1438 10.00 ¥250.00 ¥2,500.00 5%\r\n4 Water Bottie 8764 15.00 ¥350.00 ¥5,250.00 5%\r\nx = Taxable vaiue 39,250.00\r\nCGST 2,083.78\r\n: SCST ¥2,083.78\r\n——————————————————————————\r\n: Grand total ¥43,417.80\r\n~ Amount in words: Forty Three Thousand Four Hundred Seventeen Rupeas and Fifty Paise Only X\r\nNotes: Goods sent for the purpose stated above. Nat a sale.\r\n",
+    "top_-12": "fe.\r\n\r\nSELLgg\r\n\r\nAsc\r\n\r\nShap 1\r\n\r\nhile no.\r\n\r\n+ Mar, Roay ty .\r\n\r\nONSioNg,\r\n\r\nor AB yy 1\r\n\r\nMoygg. 3\r\n\r\nPosa Jog\r\n\r\n«Roag.\r\n\r\nEy Kolk ap,\r\n\r\narpa,\r\n\r\nCompyy, Keston\r\n\r\n8207\r\n\r\nusg.\r\n\r\nC Cay\r\n\r\n545\r\n\r\n30.00\r\n\r\nWater Bog\r\n\r\nM35\r\n\r\n20.00\r\n\r\n¥a50 00\r\n\r\n9500.05\r\n\r\nXK\r\n\r\n8264\r\n\r\n10.00\r\n\r\n900,09\r\n\r\n20%\r\n\r\n5.00\r\n\r\n250.09\r\n\r\n8x\r\n\r\nasp op\r\n\r\nSx\r\n\r\n8,250.00\r\n\r\nhin -\r\n\r\n5x\r\n\r\nman ean,\r\n",
+    "top_0": "=\r\n\r\nSELLER\r\n\r\nCONSIONEE\r\n\r\nABC Company\r\n\r\nFatiha\r\n\r\nShop 12, Market Road, City — 400001\r\n\r\nHouse- 73, Road- 34, Kolkata\r\n\r\nVohicle no.. MH 01 ABY234\r\n\r\nPurpose: Job work\r\n\r\nGST\r\n\r\nEarphones\r\n\r\n8207\r\n\r\n30.00\r\n\r\n¥450.00\r\n\r\n4,500.00\r\n\r\n20%\r\n\r\nComputer Keybosrg\r\n\r\n3541\r\n\r\n20.00\r\n\r\n800.00\r\n\r\n€0,000.00\r\n\r\n6%\r\n\r\nUsB- C Cable\r\n\r\n1438\r\n\r\n10.00\r\n\r\n£250.00\r\n\r\n¥2,500.00\r\n\r\n5%\r\n\r\nWater Bottle\r\n\r\n8764\r\n\r\n15.00\r\n\r\n350.00\r\n\r\n5,250.00\r\n\r\n5%\r\n\r\nTavahia vats\r\n\r\n295 220 nA\r\n",
+    "top_12": "3\r\n\r\noHsO!\r\n\r\nNEE\r\n\r\ni\r\n\r\nran\r\n\r\na ad- 34\r\n\r\nKowkatd\r\n\r\nwouse”\r\n\r\nGELLER\r\n\r\n. ADOOO\r\n\r\n20%\r\n\r\nASC\r\n\r\nwant\r\n\r\nRod. chy\r\n\r\nnop 12 «\r\n\r\n1500\r\n\r\n8%\r\n\r\npuree\r\n\r\nco: Jobo WO\r\n\r\nLE\r\n\r\nM8 VA\r\n\r\n145000\r\n\r\n4, adel\r\n\r\n000\r\n\r\now\r\n\r\n2000\r\n\r\nS%\r\n\r\nerie 10\r\n\r\n+0000\r\n\r\n£00.00\r\n\r\ngb?\r\n\r\n| 3\r\n\r\n¢\r\n\r\n5%\r\n\r\n2000\r\n\r\n225000\r\n\r\nws 25050\r\n\r\ngarphone®\r\n\r\nasad\r\n\r\nwo\r\n\r\nano nen\"\r\n\r\n«soo\r\n\r\nCompute! -\r\n\r\n1438\r\n\r\n0\r\n\r\npaver\r\n\r\nJ\r\n\r\nc cave\r\n\r\naod\r\n\r\nuser\r\n\r\nates BOW\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

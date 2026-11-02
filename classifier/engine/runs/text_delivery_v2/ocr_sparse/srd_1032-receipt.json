@@ -1,0 +1,13 @@
+{
+  "sample_id": "srd_1032-receipt",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "7ed6dd6b5aaefbf2977d0a8606164f398e0f4dbd6b4a6b6723c4510d4db5cfbd",
+  "full_text": "WINGS & THINGS\r\n\r\n1717 DUTCH BRDY ELMONT, NY 11003\r\n\r\nTHANKS CALL AGAIN 516-341-7075\r\n\r\n#168\r\n\r\nouT\r\n\r\n™MAC&CHZ - S\r\n\r\n1.19\r\n\r\n1 COLL GRN -\r\n\r\nS\r\n\r\n1.18\r\n\r\n~—#=1 CORN BREAD\r\n\r\n062\r\n\r\n5 WINGS\r\n\r\n5.75\r\n\r\nSPCY FRY\r\n\r\n————————————————— ——— —— —\r\n\r\nTXTL\r\n\r\n75\r\n\r\nTOTL\r\n\r\nCASH\r\n\r\n9.50\r\n\r\nCHNG\r\n\r\nCOME AGAIN\r\n\r\nM #\r\n\r\nps YOU\r\n\r\n0168 20:14 #04 MAR.19'17 REG00OT\r\n",
+  "status": "unreviewed_OCR_output"
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "1610534c8b1f",
+  "image_path": "services\\document_classifier\\data\\images\\1610534c8b1f.jpg",
+  "image_sha256": "e4ba13fda4e68538bba4445489c4f8a2e0376170c3499a42fac19845c876e701",
+  "full_text": ".\n-\n-\nju\n&\nBel\n-\na\n=\n~\n®\n-\n“=\n:\noa\n-\n£\n\nDelivery Note\n\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\1610534c8b1f.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

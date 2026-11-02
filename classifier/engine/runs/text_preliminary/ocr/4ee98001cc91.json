@@ -1,0 +1,16 @@
+{
+  "sample_id": "4ee98001cc91",
+  "image_path": "services\\document_classifier\\data\\images\\4ee98001cc91.jpg",
+  "image_sha256": "468623d9bb4668cd6e9b364440330f666b5cb0bdf496d2aab437d43d7b58819a",
+  "full_text": "GONG GIBAB\nBO SSAM 320,000\nHAEMUL 85,000\n\nDENJANG\nJUIGAE\nMULNAENGMYO\n\nSub Total 510,000\nService 35,700\n\nTax\nDiscount\n\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\4ee98001cc91.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

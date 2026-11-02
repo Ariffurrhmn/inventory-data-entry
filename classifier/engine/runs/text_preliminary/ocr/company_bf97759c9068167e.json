@@ -1,0 +1,15 @@
+{
+  "sample_id": "company_bf97759c9068167e",
+  "image_path": "Dataset\\intake\\2026-10-19\\company_documents_v2\\images\\purchase_order\\bf97759c9068167e.jpg",
+  "image_sha256": "e4aa865ddab59a79346dc22b28342ac39453fe856396913ad77b8011ed2a641d",
+  "full_text": "Purchase\r\nOrder\r\n\r\nNUMBER DATE\r\nVO-PO-1586 31 Dec 2024\r\nVENDOR\r\n\r\nConsumer Cycles\r\n3 Chablis Court\r\n90505 Torrance, CA\r\nUnited States\r\n\r\nItem Description\r\n\r\nNI-9522 HL Nipple\r\n\r\nPAYMENT TERMS\r\nNet 45 days\r\n\r\nPlease confirm this order and quote our PO number on all invoices\r\n\r\nand delivery notes.\r\n\r\nVantage Outdoor Corp.\r\nRide Further, r Smarter\r\n304 5th Avenue\r\n\r\nSuite 542\r\n\r\n97205 Portland, OR\r\n\r\nUSA\r\n\r\nPhone: (442) 555-7651\r\nsales@vantageoutdoor.com\r\nWWW. vantageoutdoor.com\r\nEIN 43-3439968\r\n\r\nDELIVERY DATE ACCOUNT NO REQUESTED BY CARRIER\r\n9 Jan 2025 CONSUMER0001 Reinout Zy - Express\r\nHillmann\r\nDELIVER TO\r\n\r\nVantage Outdoor Corp.\r\n304 5th Avenue\r\n\r\nSuite 542\r\n\r\n97205 Portland, OR\r\n\r\nUSA\r\n\r\nPhone: (442) 555-7651\r\n\r\nQty Unit price Disc. Amount\r\n\r\n3 $19.98 - $59.94\r\nSubtotal $59.94\r\nFreight $1.50\r\nTax 8.0% $4.80\r\nTotal $66.24\r\n\r\nApproved by\r\n\r\nThanks for trusting our adventure gear.\r\n\r\nwww.vantageoutdoor.com - sales@vantageoutdoor.com - (442) 555-7651\r\n\r\nPurchase Order VO-PO-1586\r\n\r\nPage 1/1\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

@@ -1,0 +1,35 @@
+{
+  "workflow_tests": 10,
+  "passed": 10,
+  "image_prediction": {
+    "label": "purchase_order",
+    "scores": {
+      "customer_copy": 0.08317863697341284,
+      "delivery_note": 0.07529437391236071,
+      "purchase_order": 0.7665304946320981,
+      "receipt": 0.0749964944821284
+    },
+    "scores_calibrated": false,
+    "ocr_empty": false,
+    "text_characters": 225,
+    "input_origin": "Tesseract_OCR",
+    "model": "original_ocr",
+    "experimental": true
+  },
+  "text_prediction": {
+    "label": "purchase_order",
+    "scores": {
+      "customer_copy": 0.08317863697341284,
+      "delivery_note": 0.07529437391236071,
+      "purchase_order": 0.7665304946320981,
+      "receipt": 0.0749964944821284
+    },
+    "scores_calibrated": false,
+    "ocr_empty": false,
+    "text_characters": 225,
+    "input_origin": "provided_text",
+    "model": "original_ocr",
+    "experimental": true
+  },
+  "image_and_cached_text_label_match": true
+}

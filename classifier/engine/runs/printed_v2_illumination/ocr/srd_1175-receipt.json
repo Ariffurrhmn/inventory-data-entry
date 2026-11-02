@@ -1,0 +1,27 @@
+{
+  "sample_id": "srd_1175-receipt",
+  "image_sha256": "c66e861c22d390519d25797b013568614b845484652610dfd96f1d615cf12572",
+  "views": {
+    "full": "Bar Louie Huntsville\r\n365 The Bridge St.,Suite]\r\nHuntsville, AL, 35806\r\nServer: 07/03/2015\r\nCashier:\r\n143/2 4:42 PM\r\nGuests: 1 20111\r\nReprint #: 1\r\nWhiskey | 6.25\r\nSubtotal 6.25\r\nTax 1.3]\r\nTotal 7.56\r\nCASH 10.00\r\nChane Zz .434\r\nThank you for visiting us!\r\nAsk us about hosting\r\nyour party or private event\r\nat Bar Louie Huntsville!\r\nFat, Drink, Be Happy!\r\nhuntsville@barlouieamerica.com\r\n--~ Check Closed ---\r\n",
+    "top_-12": "65 11\r\n\r\nHunt «\r\n\r\n11]\r\n\r\nHunts,\r\n\r\n2 iy\r\n\r\n5t\r\n\r\nSe r Ve r\r\n\r\n10\r\n\r\nLash jg.\r\n\r\n143,/2\r\n\r\nGues t S\r\n\r\nV/03/;\r\n\r\nVIS\r\n\r\n!\r\n\r\n4:42 py\r\n\r\n201717\r\n",
+    "top_0": "Bar louie Huntsville\r\n\r\n365 The Bridge St. ,Suitel\r\n\r\nHuntsville, AL, 3580\r\n\r\nServer:\r\n\r\nU7/03/2015\r\n\r\nCashier:\r\n\r\n143/2\r\n\r\n4:42 PM\r\n\r\n20111\r\n\r\nGuests |\r\n",
+    "top_12": "ar \\D\r\n\r\nule a\r\n\r\nute)\r\n\r\nA 09\r\n\r\n(Wp\r\n\r\nHei\r\n\r\nseg, The Bt\r\n\r\n5) NEAL\r\n\r\n71\r\n\r\nSer\r\n\r\nA\r\n\r\n20\r\n\r\nshiel\r\n\r\nLa\r\n\r\n\\43(1\r\n\r\nGue\r\n\r\n15\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

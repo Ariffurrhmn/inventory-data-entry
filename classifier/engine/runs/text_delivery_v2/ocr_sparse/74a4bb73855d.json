@@ -1,0 +1,13 @@
+{
+  "sample_id": "74a4bb73855d",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "d376b0ede72b5dd916d712345478cb7e1bbb69ace2c284f67b886e19e4738719",
+  "full_text": "Karnaphuli Traders\r\n\r\nChallan\r\n\r\nDate: 04/0\r\n\r\n026\r\n\r\nli\r\n\r\nraqe\r\n\r\n'?\r\n\r\n3\r\n\r\nEr\r\n\r\nr8\r\n\r\n>a\r\n\r\npo\r\n\r\n4\r\n\r\nJ\r\n\r\nMid\r\n\r\ndodo\r\n\r\ndh\r\n\r\n3\r\n\r\ni\r\n\r\n4:\r\n\r\n#\r\n\r\nRois\r\n\r\ni}\r\n\r\n4\r\n",
+  "status": "unreviewed_OCR_output"
+}

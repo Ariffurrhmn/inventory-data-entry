@@ -1,0 +1,27 @@
+{
+  "sample_id": "srd_1039-receipt",
+  "image_sha256": "bc497b9bf2e2e99ecab64bb204dfca36281c610b72104492d0d81819126f11f1",
+  "views": {
+    "full": "CARL'S JR 1100375 SNA\r\ney FAIR 0AKS, CA d -\r\n\r\nEA Register 1 Order is Yara |\r\nEBA DriveThru #3100 / 362 oe Lo Te\r\nvimeue. a8 2 Santa Fe Ckn ; ? gS\r\nnia - American C 0 BS oEEE\r\nFE Fret. E Green Chile $0.7 Be\r\nSie od Sub Total $12.08 Ee\r\ncme SU Discounts $0. fore\r\ndena Total $13.05 forte mS\r\n2 ¥ : - i - = =. ola Fal ! p= I! I_ at “San BY 2 Ye\r\nag tat] | BE | ; Fe ror 1 = LE JULY ort PR ER] Wo A\r\ndl gem TE hy heen a ah RE,\r\nHAT g AR EA TEL GRE Wf atte IIR SESE ELAN the\r\n",
+    "top_-12": "P=\r\n\r\nFrovgen)\r\n\r\nae\r\n\r\n-\r\n\r\nEo TRE\r\n\r\nha\r\n\r\n~~\r\n\r\n—\r\n\r\n-\r\n\r\nAS\r\n\r\n- cw\r\n\r\n-\r\n\r\n~\r\n\r\n~\r\n\r\nRS\r\n\r\n- ve\r\n\r\n—\r\n\r\no~-\r\n\r\nard\r\n\r\nApe\r\n\r\ni\r\n\r\n=\r\n\r\n+\r\n\r\nCS ee\r\n\r\n=\r\n\r\n{~\r\n\r\nFae\r\n\r\n9)\r\n\r\nPE\r\n\r\nSor\r\n\r\nNov\r\n\r\nos\r\n\r\ni\r\n\r\nNZ\r\n\r\nCAR\r\n\r\nN\r\n\r\n(9\r\n\r\n~\r\n\r\n.\r\n\r\n;\r\n\r\n16)\r\n\r\n962\r\n\r\n1100375\r\n\r\n-\r\n\r\nNa\r\n\r\n810\r\n\r\n~3415\r\n\r\nADIs\r\n\r\nAVE\r\n\r\n:\r\n\r\nRegist\r\n\r\nFAIR\r\n\r\n04s\r\n\r\n» CA\r\n\r\nNa\r\n\r\n12/19/20\r\n\r\n6\r\n\r\nJS Yendered\r\n\r\n~~\r\n",
+    "top_0": "a\r\n\r\n—\r\n\r\nFOR\r\n\r\n—_\r\n\r\n==\r\n\r\n-_\r\n\r\n— le\r\n\r\n~~”\r\n\r\nw~_\r\n\r\n- -\r\n\r\nSY\r\n\r\npnt\r\n\r\n&~\r\n\r\npay\r\n\r\n»Z\r\n\r\n- =\r\n\r\nNo\r\n\r\nfa\r\n\r\npop\r\n\r\nlr\r\n\r\nrs\r\n\r\nsek\r\n\r\n—-—\r\n\r\nat\r\n\r\n-=\r\n\r\n[I\r\n\r\n\\,\r\n\r\na)\r\n\r\n/\r\n\r\n™\r\n\r\nCARL'S JR 1100375\r\n\r\n~ 4\r\n\r\n(916) 962-3415\r\n\r\n8105 MADISON AVE\r\n\r\n‘Ne\r\n\r\nFAIR DAKS, CA\r\n\r\ndered\r\n\r\nRegister 1 Order is Ten\r\n\r\n12/19/2016 7:42:42\r\n",
+    "top_12": "-\r\n\r\n7\r\n\r\n-\r\n\r\nSd\r\n\r\n-\r\n\r\nF\r\n\r\nTE od\r\n\r\n—\r\n\r\nTl\r\n\r\n—\r\n\r\nES\r\n\r\n=\r\n\r\n—\r\n\r\noo\r\n\r\n-\r\n\r\nam\r\n\r\nA ae\r\n\r\na\r\n\r\nAy\r\n\r\n>\r\n\r\nLT\r\n\r\nAr\r\n\r\nAy\r\n\r\nPe\r\n\r\nAT\r\n\r\nShy\r\n\r\nRES\r\n\r\nNOS\r\n\r\n—\r\n\r\n£\r\n\r\n031\r\n\r\nCARL\r\n\r\n'S\r\n\r\n9\r\n\r\n91\r\n\r\n8) 9\r\n\r\n62-34\r\n\r\naE\r\n\r\ng\\0\r\n\r\ng, ©\r\n\r\ndef od\r\n\r\nAIR ©\r\n\r\nAR\r\n\r\nen\r\n\r\nef\r\n\r\nA\r\n\r\nreal glel\r\n\r\nal\r\n\r\n0\r\n\r\ng 1:42\r\n\r\nPye\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

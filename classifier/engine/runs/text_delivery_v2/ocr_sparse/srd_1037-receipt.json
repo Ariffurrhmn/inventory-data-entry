@@ -1,0 +1,13 @@
+{
+  "sample_id": "srd_1037-receipt",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "454ba7e8ee946d22347602b7d1f3752005abf214b20062eba5b34e2a0200f3d2",
+  "full_text": "-\r\n\r\nStore #1291\r\n\r\nanda Express\r\n\r\nEverett, wa\r\n\r\n3/16/2013\r\n\r\n(425)710-0278\r\n\r\nOrder: 177437\r\n\r\n3:41:24 PM\r\n\r\nServer: Tameka J\r\n\r\n1 PARTY PK 18-22\r\n\r\nCHOW MEIN\r\n\r\n139.00\r\n\r\nFRIED RICE\r\n\r\nFRIED/C MEIN\r\n\r\nORANGE CKN\r\n\r\nPEPPERCORN SHRIMP\r\n\r\nGRILL TERIYAKI CKN\r\n\r\n12.00\r\n\r\nSubTotal\r\n\r\nTAX\r\n\r\n151.00\r\n\r\n13.89\r\n\r\nTotal\r\n\r\n164.89\r\n\r\nCash\r\n\r\n20.00\r\n\r\nChange\r\n\r\nD1\r\n\r\nKEXKKKEKKEKKEKKKKKKKKKKKK KKK KK XK KK KK KAKA K\r\n\r\nKEXKKKXKKKKLKKKKKKKKKKKKKKK KKK KKK KKK KK\r\n\r\nX\r\n\r\nFREE ENTREE ITEM!\r\n\r\nX\r\n\r\nHE VALUE YOUR OPINTON!\r\n\r\nx\r\n\r\nCall 1-888-51-PANDA(72632) or\r\n\r\nx\r\n\r\nVisit pandaexpress.com/guest\r\n\r\nx\r\n",
+  "status": "unreviewed_OCR_output"
+}

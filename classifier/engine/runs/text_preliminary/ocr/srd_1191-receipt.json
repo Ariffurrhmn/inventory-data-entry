@@ -1,0 +1,15 @@
+{
+  "sample_id": "srd_1191-receipt",
+  "image_path": "Dataset\\intake\\2026-10-19\\expressexpense_srd\\images\\1191-receipt.jpg",
+  "image_sha256": "d0e2f995c0628c28f1add8db935df99e4e805535cd56d736e8b3212ac63e339a",
+  "full_text": "MOD Pizza\r\n\r\n26902 92nd Ave NH\r\nSuite A\r\nStanwood, WA 98292\r\nPhone 360.205.9680\r\n\r\n5/19/2019 4:06:54 PM\r\nOrder Id: AABT4HNGACCM\r\n#77 - HERE\r\nDraft Beer (2 @ 4.97) $9.94\r\nFountain Drink (1602) $2.17\r\n1. $8.67\r\n$6.67\r\n$27.45\r\n$23.98\r\n$3.59\r\n\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

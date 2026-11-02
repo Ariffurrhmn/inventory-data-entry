@@ -1,0 +1,16 @@
+{
+  "sample_id": "dad342ae96cd",
+  "image_path": "services\\document_classifier\\data\\images\\dad342ae96cd.jpg",
+  "image_sha256": "62d8d41b95088c73ba86111fc44237ceeea8169af3abed18fd93eff83c38d22a",
+  "full_text": "ABC Company\nDELIVERY CHALLAN\n\nChallan no. DC-012\nDate 2026-09-04\nPlace of supply Kolkata\n\nSELLER CONSIGNEE\n\nABC Company Falaq Islam\nHouse- 74, Road- 34, Kolkata\n\nShop 12, Market Road, City — 400001\n\nVehicle no: MH 01 AB 1234 Purpose: Job work\n\n# Description HSN/SAC Qty\n1 Ceramic Mug 8207 2.00\n2 Backpack 2541 2.00\n3 Cotton T- Shirt 1437 15.00\n4 Denim Jeans 8764 15.00\n\nAmount in words: Twenty Six Thousand Nine Hundred Eighty Three Rupees and Twenty Paise Only\n\nNotes: Goods sent for the purpose stated above. Not a sale.\n\nRate\n2280.00\n1,200.00\n%320.00\n1,200.00\nTaxable value\nCGST\nSGST\n\nGrand total\n\nTaxable\n¥560.00\n¥2,400.00\n%4,800.00\n\n18,000.00\n\nGST %\n\n2%\n\n5%\n\n4%\n\n5%\n¥25,760.00\n\n%611.60\n611.60\n\n26,983.20\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\dad342ae96cd.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

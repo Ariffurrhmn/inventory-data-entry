@@ -1,0 +1,15 @@
+{
+  "sample_id": "srd_1082-receipt",
+  "image_path": "Dataset\\intake\\2026-10-19\\expressexpense_srd\\images\\1082-receipt.jpg",
+  "image_sha256": "b469446a9a8d353551b91991c5456178f9d254d3578a3ed70343845ab76b2505",
+  "full_text": "SURATI FARSAN MART\r\n11814 186TH STREET\r\nARTESIA, cA 90701\r\n562-860-2310\r\nWWW SURATIFARSAN. COM\r\n\r\n16 Daksh D\r\nChk 45 14 Gst 0\r\nAUg08' 19. 07:33PM\r\n\r\nT Chole Samosa ¥*kT0 G0 *x* 5,99\r\nXAXXXXRXXXKXB402\r\n\r\nVISA 6.56\r\nF000 5,99\r\nTAX / 0.57\r\nPAYVENT 6.56\r\n\r\nme dn 16 Check Closd---=a-----___\r\nmee Aug08'19 07: 34PM=-=—o———____\r\n\r\nThank You fer your business\r\nFree ground shiping on orders\r\nof 7]ps or More...\r\n\r\nwil. SURATIFARSAN. COM\r\n\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

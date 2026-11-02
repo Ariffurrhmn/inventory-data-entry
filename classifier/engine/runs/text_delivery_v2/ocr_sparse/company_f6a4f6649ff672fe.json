@@ -1,0 +1,13 @@
+{
+  "sample_id": "company_f6a4f6649ff672fe",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "f8d6cca96acae035cfad3438f7b008ca2feec2865b83b8ad9577855778178be3",
+  "full_text": "PACKING SLIP\r\n\r\nNumber\r\n\r\nDS-BL-58480\r\n\r\nDelta Sports & Co. Ltd\r\n\r\nDate\r\n\r\n2024-10-29\r\n\r\nRide further, ride stronger\r\n\r\nOrder no.\r\n\r\nS058480\r\n\r\n464 High Street\r\n\r\nBS1 4DJ Bristol\r\n\r\nCustomer ID\r\n\r\nAW00019630\r\n\r\nUnited Kingdom\r\n\r\nCarrier\r\n\r\nXrq - Truck Ground\r\n\r\nPhone: +44 20 6440622\r\n\r\nbilling@deltasports.co.uk\r\n\r\nwww.deltasports.co.uk\r\n\r\nVAT GB531255379\r\n\r\nBILL TO\r\n\r\nJodi Raje\r\n\r\n6004 Peabody Road\r\n\r\n4655 Hervey Bay, QLD\r\n\r\nAustralia\r\n\r\nPhone: 1 (11) 500 555-0166\r\n\r\nItem\r\n\r\nDescription\r\n\r\nUnit\r\n\r\nOrdered\r\n\r\nShipped\r\n\r\nTT-R982\r\n\r\nRoad Tire Tube\r\n\r\nEA\r\n\r\n1\r\n\r\n1\r\n\r\nTI-R092\r\n\r\nLL Road Tire\r\n\r\nEA\r\n\r\n1\r\n\r\ni\r\n\r\nPackages\r\n\r\nUnits on hand\r\n\r\nNOTES\r\n\r\nRegular maintenance advised: check tyre pressure and bolt tightness monthly.\r\n\r\nPacked by\r\n\r\nReceived by\r\n\r\nKeep pedalling, we've got you covered.\r\n\r\nDelta Sports & Co. Ltd - 464 High Street - BS1 4DJ Bristol - United Kingdom - VAT GB531255379\r\n\r\nPacking Slip DS-BL-58480\r\n\r\nPage 1/1\r\n",
+  "status": "unreviewed_OCR_output"
+}

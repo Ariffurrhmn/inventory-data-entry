@@ -1,0 +1,20 @@
+{
+  "activated": {
+    "run": "printed_v1_minilm",
+    "model": "minilm",
+    "model_sha256": "1355daf25ef42be1496f207ea4c89a573b335719b7c7bc284cd459b7cf670088",
+    "scope_version": "printed-only-v1",
+    "ocr_policy": "sparse",
+    "heading_rules": true,
+    "heading_rule_sha256": "f764ebc96771d23a2f0c689efaa5c105d04d19b8b24eb67ab60464ea9118ac4f",
+    "selected_by": "Adaptive development validation: frozen MiniLM start/end embeddings and trained LR, with unchanged heading/edge rules",
+    "test_result": null,
+    "edge_recovery": true,
+    "edge_code_sha256": "153fac0961e85630b54ddb9d394b078dc5f9153ea476880f793662327d976449",
+    "backend": "minilm"
+  },
+  "validation_predictions_reproduced": 25,
+  "encoder_features_reproduced": true,
+  "protected_before_activation": 10,
+  "historical_test_inputs_opened": 0
+}

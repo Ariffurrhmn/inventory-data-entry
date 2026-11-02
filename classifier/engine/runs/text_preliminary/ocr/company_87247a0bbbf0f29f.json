@@ -1,0 +1,15 @@
+{
+  "sample_id": "company_87247a0bbbf0f29f",
+  "image_path": "Dataset\\intake\\2026-10-19\\company_documents_v2\\images\\packing_slip\\87247a0bbbf0f29f.jpg",
+  "image_sha256": "39c3772c6ea7c813100bfceaa4f8bb189a58d741a379c3e09d43160cc3b47690",
+  "full_text": "144 High Street\r\n\r\nJuniper Bikes PLC\r\n\r\nBuilt for every ride\r\n\r\nBS1 4DJ Bristol - United Kingdom\r\n\r\nPacking Slip\r\n\r\nBILL TO\r\n\r\nEmma Cox\r\n\r\n6703 Milburn Dr.\r\n\r\n90401 Santa Monica, CA\r\nUnited States\r\n\r\nNumber\r\nDate\r\n\r\nOrder no.\r\nCustomer ID\r\nPO number\r\nCarrier\r\n\r\nJB-BL-53202\r\n\r\n1 Aug 2024\r\nS053202\r\nAW00027249\r\nPO-45080\r\n\r\nXrq - Truck Ground\r\n\r\nItem Description Ordered Shipped\r\nTI-T723 Touring Tire 1 1\r\nPackages 1\r\nUnits on hand 1\r\nPacked by Received by\r\nPedal on, from all of us Juniper Bikes PLC\r\nVAT GB883310779\r\nPacking Slip JB-BL-53202 Page 1/1\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

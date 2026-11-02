@@ -1,0 +1,16 @@
+{
+  "sample_id": "398c6ef688e4",
+  "image_path": "services\\document_classifier\\data\\images\\398c6ef688e4.jpg",
+  "image_sha256": "180eeab99e09a484252eb3c4c78e46dd880ad60d4c80c03b9e234302b14d0f7b",
+  "full_text": "Delivery Challan\n\nNo: DC-\n26/08/2026.\n\nChallan\nDate:\n\nDhaka Trade House.\n\nFrom\n\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\398c6ef688e4.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

@@ -1,0 +1,25 @@
+{
+  "parent": "printed_v1_minilm",
+  "adaptive": true,
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "all_development_images_same_policy": true,
+  "historical_test_inputs_opened": 0,
+  "selection": "Compare fixed learned fallback sparse/full/combined OCR with new recovered heading context; do not fit on validation",
+  "reason": "Uniform local illumination correction and rotated title views for faint/angled printed headings",
+  "code_sha256": "0d084cdf427bc9b2ce0533d0ea51f4e92b5a8e9ff21ed89a3b521c5856923bcc"
+}

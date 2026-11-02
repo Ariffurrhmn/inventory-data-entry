@@ -1,0 +1,27 @@
+{
+  "sample_id": "srd_1037-receipt",
+  "image_sha256": "454ba7e8ee946d22347602b7d1f3752005abf214b20062eba5b34e2a0200f3d2",
+  "views": {
+    "full": "“ Store #1291\r\nPanda Express\r\nEverett, wa\r\n(425)710-0278\r\n8/16/2013 3:41:24 PM\r\nOrder: 177437 Server: Tameka J\r\n1 PARTY PK 18-22 139.00\r\n} CHOW MEIN\r\nFRIED RICE\r\n| FRIED/C MEIN\r\nORANGE CKN |\r\nGRILL TERIYAKI CKN\r\nPEPPERCORN SHRIMP 12.00\r\n| SubTotal 151.00\r\nTAX 13.89 |\r\n| | Total 164.89\r\n|\r\nCash 20.0 |\r\n| Change 3.11\r\n| KEKKKKKKKEKKKKKKKKKEKK KKK KKK KK XKEKKK KAN,\r\n| KAXXKKEKKKKLKKKKKKKEKKKKKKK AK KE KKK KKK AK\r\nFP. FREE ENTREE ITEM! X\r\n|r EWEVRRIIN x\r\n| : Call 1-888-51-PANDA(72632) or «x\r\n| x Visit pandaexpress.com/guest x\r\nx x\r\n",
+    "top_-12": "Store\r\n\r\n11291\r\n\r\nEve\r\n\r\n0:\r\n\r\ni 16,\r\n\r\n2013\r\n\r\n(42\r\n\r\nrete\r\n\r\nress\r\n\r\nWA\r\n\r\nOry, ~\r\n\r\n9) 10-g\r\n\r\n17243;\r\n\r\n27,\r\n\r\n1 py\r\n\r\nRTy\r\n\r\nCHoy M\r\n\r\nEl,\r\n\r\nmek 5 J\r\n\r\nFRIep,\r\n\r\nRI CE\r\n\r\nC meg\r\n",
+    "top_0": "[aad\r\n\r\npe\r\n\r\nStore #1291\r\n\r\nanda Express\r\n\r\nEverett, WA\r\n\r\n(425) 710-0278\r\n\r\ni 3/16/201\r\n\r\n3:41:24 PM\r\n\r\n1 Order: 177437\r\n\r\nServer: Tameka J\r\n\r\n|\r\n\r\n1 PARTY PK 18-22\r\n\r\n139.00\r\n\r\n/\r\n\r\nCHOW MEIN\r\n\r\nFRIED RICE\r\n\r\nFRIED/C MEIN\r\n",
+    "top_12": "1 -\r\n\r\nes\r\n\r\nore HI\r\n\r\nPanda DXF\r\n\r\nEvere\r\n\r\nnt,\r\n\r\n42 71\r\n\r\nQ-0278 5.41:24 PM\r\n\r\nServe\r\n\r\nry Tame\r\n\r\n.\r\n\r\n39.\r\n\r\n'a/16/2013\r\n\r\n.\r\n\r\ni\r\n\r\nor\r\n\r\nor: 1774\r\n\r\npK 18-22\r\n\r\nARTY\r\n\r\nOW MEIN\r\n\r\n1e0 RI\r\n\r\nFRIED/C\r\n\r\nMEIN\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

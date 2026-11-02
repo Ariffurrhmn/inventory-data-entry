@@ -1,0 +1,16 @@
+{
+  "sample_id": "6f5831a6d9e7",
+  "image_path": "services\\document_classifier\\data\\images\\6f5831a6d9e7.jpg",
+  "image_sha256": "d38d61df40cbb5c4ffe43a00becc543686850f7fd943e9ecc700b4ab091ba43f",
+  "full_text": "DELIVERY CHALLAN\nABC Company\n\nChallan no.: DC- 004 Date: 2026-09-04 Place of supply: Maharashtra\n\nSELLER CONSIGNEE\nABC Company Rajib\nShop 12, Market Road, City — 400001 House- 56, Road- 3, Maharashtra\n\nVehicle no.: MH 01 AB 1234 Purpose: Job work\n\n# Description HSN/SAC Qty Rate Taxable GST %\n\n1 Shoes 9087 15.00 %1,800.00 %27,000.00 5%\n\n2 Socks 3546 20.00 %200.00 24,000.00 3%\nTaxable value %31,000.00\nCGST ¥2,085.00\nSGST ¥2,085.00\nGrand total ¥35,170.00\n\nAmount in words: Thirty Five Thousand One Hundred Seventy Rupees Only\n\nNotes: Goods sent for the purpose stated above. Not a sale.\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\6f5831a6d9e7.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

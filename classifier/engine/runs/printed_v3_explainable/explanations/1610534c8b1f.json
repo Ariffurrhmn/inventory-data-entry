@@ -1,0 +1,89 @@
+{
+  "sample_id": "1610534c8b1f",
+  "actual_existing_label": "delivery_note",
+  "result": {
+    "decision_trace": {
+      "selected_component": "printed_heading",
+      "heading_matches": [
+        "delivery_note"
+      ],
+      "ambiguous_heading": false,
+      "normalized_heading_evidence": "Delivery Note",
+      "learned_top_class": "receipt",
+      "learned_alternative_class": "delivery_note",
+      "learned_score_margin": 0.6196504086823174,
+      "scores_calibrated": false,
+      "rule": {
+        "kind": "exact_heading",
+        "evidence": "Delivery Note",
+        "matched_terms": [
+          "Delivery Note"
+        ],
+        "ocr_section_index": -1
+      },
+      "explanation_method": "Deterministic rule trace or exact n-gram contributions; transformers use fixed-model text omissions"
+    },
+    "label": "delivery_note",
+    "decision_source": "printed_heading",
+    "heading_evidence": "Delivery Note",
+    "ambiguous_heading": false,
+    "statistical_label": "receipt",
+    "scores_kind": "statistical_fallback_scores",
+    "scores": {
+      "customer_copy": 0.048173402300537106,
+      "delivery_note": 0.12684222273105844,
+      "purchase_order": 0.07849174355502533,
+      "receipt": 0.7464926314133759
+    },
+    "scores_calibrated": false,
+    "ocr_empty": false,
+    "text_characters": 727,
+    "input_origin": "provided_text",
+    "ocr_text": "ein ie a\r\n© Le\r\ns 1\r\ni } \\\r\n\r\ne i ® 1\r\nDelivery Note i )\r\n1? From: Padma Distribution Ltd. Challan No: DC-460. | © :\r\n\r\ni ‘ i\r\n\r\n ® To: Meghna Store, Dhanmondi 27, Dhaka. Date: 12/08/2026. | ® :\r\n\r\nH ¥ . :\r\n\r\n| 1 !\r\n\r\n0] eect isan teens ammvinaarenmem——————— } OF |\r\n\r\n1 :\r\n\r\n| @ 51 Item Description gy. ie!\r\n\r\n| [|| me——————————————————m mm mn re — | 3\r\n\r\nve! 1 Biscuits carton 12 le!\r\n\r\n| i tf. tc i A BS a ttl fo tl St Sst SS SS i \\\r\n\r\n. @ 2  Miniket Rice 25kg 6 le |\r\n\r\n: TT \\\r\n\r\n| 10 ! 1\r\n\r\n‘ie. 3 Sugar 1lkg ie!\r\n\r\n| 1 )\r\n\r\n1 ® | ® i\r\n\r\n| ¥ |\r\n\r\n| ! \\\r\n\r\n1 @ ® |\r\n\r\n! 1 |\r\n\r\n{ : |\r\n\r\n.® °® :\r\n\r\n{ : |\r\n\r\n! : |\r\n\r\n® | @ i\r\n\r\n! I\r\n\r\n| g |\r\n\r\n1 ® : @ i\r\n\r\n! f i\r\n\r\nI : |\r\n. i @\r\n\r\n@ Received By: s Karim. :\r\n\r\n! ——————— —— 0 |\r\n\r\n1 @® [\r\n\r\ni 3 i\r\n\r\n! : i . : [\r\n\r\n| @ Delivered By: oO ,\r\n\r\ni _—— —— i\r\n\r\n|] : i\r\n\r\n| @ Le!\r\n\r\nEe wm ee em ee me ee me a a ae\r\n",
+    "heading_ocr_text": "—\r\n\r\n£5\r\n\r\ni @\r\n\r\nDelivery Note\r\n\r\nFrom: Padma Distribution Ltd.\r\n\r\nChallan No: DC-460.\r\n\r\neo\r\n\r\nTo: Meghna Store, Dhanmondi 27, Dhaka.\r\n\r\nDate: 12/08/2026.\r\n\r\n=\r\n\r\ni\r\n\r\na\r\n\r\ni\r\n\r\nItem\r\n\r\n12\r\n\r\nGb\r\n\r\n——\r\n\r\npi\r\n\r\n£4\r\n\r\nI)\r\n\r\n14\r\n\r\nSal\r\n\r\ni\r\n\fo.oo i -\r\n1 Tm\r\nNo ain\r\niy he\r\nK. Ries]\r\n' eo\r\ni didn\r\n\nCE\r\n\r\n! '\r\n\r\n1\r\n\r\ni\r\n\r\nI\r\n\r\n}\r\n\r\nA\r\n\r\nai\r\n\fein ie a\r\n© Le\r\ns 1\r\ni } \\\r\n\r\ne i ® 1\r\nDelivery Note i )\r\n1? From: Padma Distribution Ltd. Challan No: DC-460. | © :\r\n\r\ni ‘ i\r\n\r\n ® To: Meghna Store, Dhanmondi 27, Dhaka. Date: 12/08/2026. | ® :\r\n\r\nH ¥ . :\r\n\r\n| 1 !\r\n\r\n0] eect isan teens ammvinaarenmem——————— } OF |\r\n\r\n1 :\r\n\r\n| @ 51 Item Description gy. ie!\r\n\r\n| [|| me——————————————————m mm mn re — | 3\r\n\r\nve! 1 Biscuits carton 12 le!\r\n\r\n| i tf. tc i A BS a ttl fo tl St Sst SS SS i \\\r\n\r\n. @ 2  Miniket Rice 25kg 6 le |\r\n\r\n: TT \\\r\n\r\n| 10 ! 1\r\n\r\n‘ie. 3 Sugar 1lkg ie!\r\n\r\n| 1 )\r\n\r\n1 ® | ® i\r\n\r\n| ¥ |\r\n\r\n| ! \\\r\n\r\n1 @ ® |\r\n\r\n! 1 |\r\n\r\n{ : |\r\n\r\n.® °® :\r\n\r\n{ : |\r\n\r\n! : |\r\n\r\n® | @ i\r\n\r\n! I\r\n\r\n| g |\r\n\r\n1 ® : @ i\r\n\r\n! f i\r\n\r\nI : |\r\n. i @\r\n\r\n@ Received By: s Karim. :\r\n\r\n! ——————— —— 0 |\r\n\r\n1 @® [\r\n\r\ni 3 i\r\n\r\n! : i . : [\r\n\r\n| @ Delivered By: oO ,\r\n\r\ni _—— —— i\r\n\r\n|] : i\r\n\r\n| @ Le!\r\n\r\nEe wm ee em ee me ee me a a ae\r\n\fvey, at\r\n\r\nFron, P\r\n\r\n[-}\r\n\r\ntry\r\n\r\neIhna Ly\r\n\r\ntion Le\r\n\r\nNong 2\r\n\r\nSe e—\r\n\r\n+ Dhag,\r\n\r\nhall, No:\r\n\r\n-—\r\n\r\n~~\r\n\r\n81\r\n\r\nate:\r\n\r\n* De-qgq\r\n\r\n,\r\n\r\n-—\r\n\r\nIe\r\n\r\n12 08/2026\r\n\r\nve\r\n\r\nCrips,\r\n\r\na]\r\n\r\n-\r\n\r\nSe ———\r\n\r\n~\r\n\r\nBlige,\r\n\r\nfan PO\r\n\r\na\r\n\r\nte co\r\n\r\n——\r\n\r\n—\r\n\r\n——\r\n\r\n~~\r\n\r\nrto\r\n\r\n———\r\n\r\n~~.\r\n\r\ner —\r\n\r\nQty,\r\n\r\nnd TY\r\n\r\n-\r\n\r\nInikgy\r\n\r\nRice 25k,\r\n\r\nTL\r\n\r\n! @\r\n\r\n-\r\n\r\nIS\r\n\r\n12\r\n\r\nSN  ———\r\n\r\nee\r\n\r\n————\r\n\r\n| O\r\n\r\nTe\r\n\r\nSS ——\r\n\r\n! »\r\n\f- —\r\n\r\nIT TE\r\n\r\nDelivery Note\r\n\r\nFrom: Padma Distribution Ltd.\r\n\r\nChallan Mo: DC-460.\r\n\r\nTo: Meghna Stores, Dhanmondi 27, Dhaka.\r\n\r\nDate:\r\n\r\n12/00/2026.\r\n\r\nI)\r\n\r\na\r\n\r\nEe ————\r\n\r\n81\r\n\r\nItem Description\r\n\r\nQty.\r\n\r\n — re fm i tl SE SA £50 4 AB TT A Sh Si a a Sn Se\r\n\r\n1\r\n\r\n12\r\n\r\nBiscuits carton\r\n\r\nC0\r\n\r\net = nD 2 DD rl SA A Gh TE = a\r\n\r\nHiniket Rice 25kg\r\n\r\n: ®\r\n\r\na 4 ED = A WY ED mn\r\n\fha\r\n\r\n-480.\r\n\r\nChal1sh\r\n\r\n®\r\n\r\nR 12/08\r\n\r\n120%\r\n\r\nnate\r\n\r\nperivery Note\r\n\r\n13\r\n\r\ntriby\r\n\r\nphakad-\r\n\r\n—\r\n\r\n. P\r\n\r\nhans\r\n\r\npn\r\n\r\nfros\r\n\r\ntor\r\n\r\n. Meghn®\r\n\r\na-——\r\n\r\neee Qey .\r\n\r\nto\r\n\r\n—\r\n\r\n—\r\n\r\n-\r\n\r\n—\r\n\r\na\r\n\r\nLo\r\n\r\n—\r\n\r\n——\r\n\r\n-——\r\n\r\n32\r\n\r\n-—\r\n\r\n——\r\n\r\n-\r\n\r\n——\r\n\r\n-\r\n\r\n,\r\n\r\nLe\r\n\r\n-—\r\n\r\nJP a\r\n\r\n-—\r\n\r\n—\r\n\r\n—\r\n\r\n_ —\r\n\r\n-—\r\n\r\n-\r\n\r\n-—\r\n\r\n———\"\r\n\r\n- PPT aa\r\n\r\nBle\r\n\r\ncults art\r\n\r\nJ ——\r\n\r\n——\r\n\r\n——\r\n\r\n-e- -\r\n\r\n——\r\n\r\nce 58\r\n\r\nwini\r\n\r\nwet R\r\n\r\nee -\r\n\r\npm\r\n\r\nJ\r\n",
+    "validation_only": true,
+    "run": "printed_v3_explainable",
+    "model": "classifier",
+    "backend": "complement_nb",
+    "model_sha256": "bd1dba65eb03c3f2282697a502400794ce754543c5e16150625b73cea62ce0bd",
+    "scope_version": "printed-only-v1",
+    "ocr_policy": "illumination",
+    "heading_rules": true,
+    "edge_recovery": true,
+    "classes": [
+      "purchase_order",
+      "receipt",
+      "delivery_note",
+      "customer_copy"
+    ],
+    "experimental": true,
+    "heading_module": "heading_rules_v3",
+    "illumination_recovery": true
+  },
+  "explanation": {
+    "label": "delivery_note",
+    "decision_source": "printed_heading",
+    "model_run": "printed_v3_explainable",
+    "scores_calibrated": false,
+    "method": "deterministic_heading_trace",
+    "rule": {
+      "kind": "exact_heading",
+      "evidence": "Delivery Note",
+      "matched_terms": [
+        "Delivery Note"
+      ],
+      "ocr_section_index": -1
+    },
+    "normalized_matched_text": "Delivery Note",
+    "matched_classes": [
+      "delivery_note"
+    ],
+    "ambiguous": false,
+    "learned_fallback_label": "receipt",
+    "reason": "The unique matched printed-text rule selected the class. The learned model did not determine the final label.",
+    "limitations": [
+      "This explains the decision rule, not whether OCR correctly read the source image.",
+      "Heading evidence may come from separate page-region OCR."
+    ]
+  }
+}

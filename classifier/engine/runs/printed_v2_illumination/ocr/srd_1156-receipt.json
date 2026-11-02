@@ -1,0 +1,27 @@
+{
+  "sample_id": "srd_1156-receipt",
+  "image_sha256": "507165dd8b2b9c9bb38d239f7f08a64a07a98437f9242ec86f5f44546a93bef3",
+  "views": {
+    "full": "b\r\nCD\r\nIKEA Foon\r\nIKEA MILTON KEYNES 185\r\nVAT: GB 527773320\r\nAddressq\r\nQty Name Price Total £\r\n1 Meathallis 10 3.80 3.80\r\n1 Fish 8 Chips Adult 4,95 4.95\r\n1 Petit Pain - White 0.50 0.50\r\n1 Wine rose 2.80 2.80\r\n1 Wine red 2.80 2.80\r\nNet SubTotal: 12.37\r\nTax:\r\n20%VAT 2.48\r\nTotal to Pay: 14.85\r\nReceived;\r\nVISA 14.85\r\nVisa Credit\r\nxrRRERRN FRA GHG\r\nStart : wx Sw\r\nBrRa/zoe 3:2 ar: 1890\r\n",
+    "top_-12": "Ike g\r\n\r\nMILT A Frog\r\n\r\nVar\r\n\r\nGH\r\n\r\nEvhe\r\n\r\nAng\r\n\r\n773320\r\n\r\n185\r\n\r\nY Name\r\n\r\n-~a\r\n\r\nATTN\r\n\r\nEE\r\n\r\nteen\r\n\r\n-—\r\n\r\n~ an\r\n\r\nSma\r\n\r\nfee r\r\n\r\n~-a\r\n\r\nStal ¢\r\n\r\n~~\r\n\r\nLW\r\n",
+    "top_0": "IKEA\r\n\r\nIKEA Fron\r\n\r\nIKEA MILTON KEVHES 18%\r\n\r\nVAT: GB 527773320\r\n\r\nAddressd\r\n\r\nQty Name\r\n\r\nPrice Total £\r\n\r\n-— me\r\n\r\ni Ug SOY _——-\r\n\r\nhd\r\n\r\nMoebal tn tN\r\n\r\nLa JN = Ta)\r\n\r\nnn nn\r\n",
+    "top_12": "h8\r\n\r\nIKER\r\n\r\nIKEA FOOD ES 18%\r\n\r\na OR 3020\r\n\r\nKA NS\r\n\r\npndress\r\n\r\nprt\r\n\r\nce 10%\r\n\r\n-\r\n\r\n--\r\n\r\nreal\r\n\r\nFla\r\n\r\n-\r\n\r\n-\r\n\r\nory Hane\r\n\r\n-—\r\n\r\n-—\r\n\r\n-\r\n\r\nA.\r\n\r\nA\r\n\r\n1\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

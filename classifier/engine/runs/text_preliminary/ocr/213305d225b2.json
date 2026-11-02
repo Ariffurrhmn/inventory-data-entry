@@ -1,0 +1,16 @@
+{
+  "sample_id": "213305d225b2",
+  "image_path": "services\\document_classifier\\data\\images\\213305d225b2.jpg",
+  "image_sha256": "9fb73094f6ab871bb1e2a4ac19beb964c38efd4b3fde1db168465785a806b8bf",
+  "full_text": "BUBUR UNGU\nDISC ITEM\n\nAMOUNT\nSENDOK BEBEK\nWAJ IK\n\nDISC ITEM\nAMOUNT\nCENTIK MANIS\nDISC ITEM\nAMOUNT\nPLASTIK SEDANG\nSUBTOTAL\nTOTAL\nCasH\nSa |\n\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\213305d225b2.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

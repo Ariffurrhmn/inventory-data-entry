@@ -1,0 +1,13 @@
+{
+  "sample_id": "srd_1168-receipt",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "461c9e507d1cce1a446d18dc929e220f56e28b663e85289a1f0d83a8765b5a6a",
+  "full_text": "CARL'S JR\r\n\r\nRestaurant 1100580\r\n\r\n11961 Beach Blvd.\r\n\r\nStanton, CA 90680\r\n\r\n(714)895-5114\r\n\r\n9/27/2017\r\n\r\n12:13:06 PH\r\n\r\nOrder 375719\r\n\r\nCashier: Alvaro I\r\n\r\n1 Box #1\r\n\r\n0.00\r\n\r\n1 Al\r\n\r\nStar Meal #1\r\n\r\n1.00\r\n\r\nDbl Chbar\r\n\r\n0.00\r\n\r\nHot Dog\r\n\r\n0.00\r\n\r\nBaked Cookie\r\n\r\n0.00\r\n\r\nLg Fries\r\n\r\n3.00\r\n\r\n3.00\r\n\r\nLg Bev Bar\r\n\r\nSubTotal\r\n\r\n7.00\r\n\r\nTax\r\n\r\n0.61\r\n\r\nTotal\r\n\r\nLA!\r\n\r\nCash\r\n\r\n8.00\r\n\r\nChange\r\n\r\n0.39\r\n\r\nTo Go\r\n\r\nThank you for visiting!\r\n\r\nTicket #49\r\n\r\nItens in bag(s): 4\r\n",
+  "status": "unreviewed_OCR_output"
+}

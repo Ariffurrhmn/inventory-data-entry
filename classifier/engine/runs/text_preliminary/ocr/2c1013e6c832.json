@@ -1,0 +1,16 @@
+{
+  "sample_id": "2c1013e6c832",
+  "image_path": "services\\document_classifier\\data\\images\\2c1013e6c832.jpg",
+  "image_sha256": "2d6fb71e4af07d8e58ef51cdeae111aeaa9d9fd7054a5aef609dfa8b44787ccb",
+  "full_text": "Chall po: De-tfo. Date: 22/07/04\n\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\2c1013e6c832.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

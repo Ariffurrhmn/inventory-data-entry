@@ -1,0 +1,27 @@
+{
+  "sample_id": "42d9b408c783",
+  "image_sha256": "bfc211fa8df7c5268caf912fbecb25cf8214e9faa6b428bd88e7b7f3231284ae",
+  "views": {
+    "full": "Shop: Padma Distribution Ltd. Invoice No: INV-4532. i\r\nDate: 13/09/2026.\r\n\r\nSales Invoice\r\n\r\nCustomer: Kashem Enterprise, Jatrabari, Dhaka.\r\n[vem | or | een\r\n",
+    "top_-12": "-\r\n\r\n~\r\n\r\n-\r\n\r\n~\r\n\r\n-\r\n\r\n-\r\n\r\n-\r\n\r\n-~\r\n\r\nop; p dmg \"tribution | d\r\n\r\n-\r\n\r\n~\r\n\r\nInvoice\r\n\r\nale:\r\n\r\n5 02\r\n\r\nCustome,,\r\n\r\n1 09),\r\n\r\nes Iny,\r\n\r\nICe\r\n\r\nem Enterp,;\r\n\r\nSe, Ja\r\n\r\ntrap Dp\r\n\r\nReq Leng, lkg\r\n\r\nBajy Pen p,,\r\n\r\n[i Rate (Tk)\r\n\r\nma\r\n",
+    "top_0": "Ui UU UG AU [_—\r\n\r\nShop: Padma Distribution Ltd.\r\n\r\nInvoice No: INV-4532,\r\n\r\nDate: 13/09/2026.\r\n\r\nSales Invoice\r\n\r\nCustomer: Kashem Enterprise, Jatrabari, Dhaka.\r\n\r\nCe [or [wwe | momen |\r\n\r\nfeiteniie |u| mmo | maw |\r\n\r\n[TET I BT ET\r\n\r\nTotal:\r\n\r\nTk 3,240\r\n",
+    "top_12": "A532.\r\n\r\npes \\\r\n\r\nJoa\r\n\r\nDistridy\r\n\r\nfon u\r\n\r\ndam\r\n\r\nShop\r\n\r\nSales Invoe\r\n\r\nJatrabast: D\r\n\r\nshem\r\n\r\nEnterprise\r\n\r\nC gstomer\r\n\r\noe\r\n\r\ns 1k8\r\n\r\n=\r\n\r\npall Per vor\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

@@ -1,0 +1,9 @@
+{
+  "Dataset/annotations/scope/printed-only-v1/eligible_manifest.csv": "534a9bc28038968509569919a785f995a7d55f0e60c7ca676d3e3047a476d578",
+  "services/document_classifier/data/splits.csv": "0b73f0153ae37a842289ff313d37fabba52f26d97b6fd38a4913957adeba695b",
+  "services/document_classifier/data/manifest.csv": "f4ce768a92308dde08a9d771bae3f9657e29fea07160a0c0e87b4291e47d6e9f",
+  "services/document_classifier/labels.csv": "137ea51441c37e2cb64dabfa8acf54baea4015d1838e7a5a2d8a249017710f42",
+  "services/document_classifier/runs/text_preliminary/evaluation.json": "657441316478035f57f6e60a0bf878f4389be181a496af8fd3f42ac353577285",
+  "services/document_classifier/runs/text_preliminary/original_ocr.joblib": "bb5dde78e37bf65d55d5136ae7ac2d978b789779a9ea87f7bb69a90bdbecf132",
+  "services\\document_classifier\\active_text_model.json": "0b2410dd47f8aa377404b43b6c7a1268e0ebae08943f2548665d78641c8b595d"
+}

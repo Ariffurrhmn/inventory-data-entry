@@ -1,0 +1,13 @@
+{
+  "sample_id": "885c97fddc39",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "d0b7333e404bc79a5369fbb1906f717d6a63ea48707eb416ec9c789e3fea0384",
+  "full_text": "Challan no. DC-010\r\n\r\nDELIVERY CHALLAN\r\n\r\nDate 2026-09-04\r\n\r\nABC Company\r\n\r\nPlace of supply Kolkata\r\n\r\nSELLER\r\n\r\nCONSIGNEE\r\n\r\nABC Company\r\n\r\nUsha\r\n\r\nShop 12, Market Road, City — 400001\r\n\r\nHouse- 72, Road- 24, Kolkata\r\n\r\nVehicle no.: MH 01 AB 1234\r\n\r\nPurpose: Job work\r\n\r\nDesc\r\n\r\nRate\r\n\r\nTaxable\r\n\r\nGST\r\n\r\nHSN/SAC\r\n\r\naty\r\n\r\n1\r\n\r\nWireless Mouse\r\n\r\n9207\r\n\r\n50.00\r\n\r\n%750.00\r\n\r\n%37,500.00\r\n\r\n20%\r\n\r\n2\r\n\r\nComputer Keyboard\r\n\r\n3541\r\n\r\n250.00\r\n\r\n2900.00\r\n\r\n¥2,25,000.00\r\n\r\n6%\r\n\r\n3\r\n\r\nUSB-C Cable\r\n\r\n1436\r\n\r\n500.00\r\n\r\n3250.00\r\n\r\n%1,25,000.00\r\n\r\n%\r\n\r\nTaxable value\r\n\r\n¥3,87,500.00\r\n\r\nCGST\r\n\r\n%13,625.00\r\n\r\nSGST\r\n\r\n?13,625.00\r\n\r\nGrand total\r\n\r\n414,750.00\r\n\r\nAmount in words: Four Lakh Fourteen Thousand Seven Hundred Fifty Rupees Only\r\n\r\nNotes: Goods sent for the purpose stated above. Not a sale.\r\n",
+  "status": "unreviewed_OCR_output"
+}

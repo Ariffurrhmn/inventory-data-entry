@@ -1,0 +1,41 @@
+{
+  "workflow_tests_passed": 13,
+  "image_text_agree": true,
+  "sparse_training_image": {
+    "label": "delivery_note",
+    "scores": {
+      "customer_copy": 0.11118543070703894,
+      "delivery_note": 0.6131511480114067,
+      "purchase_order": 0.08997952907790271,
+      "receipt": 0.18568389220365156
+    },
+    "scores_calibrated": false,
+    "ocr_empty": false,
+    "text_characters": 261,
+    "input_origin": "Tesseract_OCR",
+    "run": "text_delivery_v2",
+    "model": "sparse_augmented",
+    "ocr_policy": "sparse",
+    "validation_only": true,
+    "experimental": true
+  },
+  "default_model_smoke": {
+    "label": "purchase_order",
+    "scores": {
+      "customer_copy": 0.08317863697341284,
+      "delivery_note": 0.07529437391236071,
+      "purchase_order": 0.7665304946320981,
+      "receipt": 0.0749964944821284
+    },
+    "scores_calibrated": false,
+    "ocr_empty": false,
+    "text_characters": 225,
+    "input_origin": "provided_text",
+    "run": "text_preliminary",
+    "model": "original_ocr",
+    "ocr_policy": "baseline",
+    "validation_only": false,
+    "experimental": true
+  },
+  "new_test_evaluation": false
+}

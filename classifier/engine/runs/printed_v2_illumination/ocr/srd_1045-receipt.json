@@ -1,0 +1,27 @@
+{
+  "sample_id": "srd_1045-receipt",
+  "image_sha256": "b665c8d1e971e6f033e4fd29becd6ee1cb7ef18bbde76ed9017b7cb89252aad9",
+  "views": {
+    "full": "mel\r\nA% - ny i\r\n12, UM'S RES TAURAWN y A\r\nSerge. 18 04 19 Ph 347 %\r\nSteak greese I: gq Rolls (2) 4.49 pe\r\n| 4 Wings w French f nes 7.20 ga\r\nMumba Sof be\r\nA 4 Wings vi French nes 7.20 h\r\nMamba S. €!\r\nHot Sauce ot\r\nHomemade Hatl Fall 1.89\r\nFood Subtotal: 20.78\r\nBev Subtotal 0.00\r\n! Food Tax: 1.25\r\n~ Be Tax 0.00\r\nTotal: 22.03\r\nReceived: 2203\r\nChange. 0.09 ;\r\nPAID Cash -\r\n| hank You\r\nSa\r\ndill is sn\r\n",
+    "top_-12": "Upp.\r\n\r\n[1\r\n\r\nIS\r\n\r\nAu\r\n\r\nRa\r\n\r\na\r\n\r\n7\r\n\r\nei\r\n\r\nhig,\r\n\r\nve\r\n\r\nvo\r\n\r\n[$3 IE\r\n\r\nkin\r\n\r\nTirns\r\n\r\nChg\r\n\r\n347\r\n\r\n“4\r\n\r\nSey,\r\n\r\nTepe fy,\r\n\r\nHUREFN I)\r\n\r\n-~\r\n\r\n“1\r\n\r\nTrg\r\n\r\n449\r\n\r\n[2\r\n",
+    "top_0": "1s UM's RE NY (AUR AN,\r\n\r\nvod\r\n\r\nau\r\n\r\n!\r\n\r\n[I\r\n\r\nwl,\r\n\r\nGro\r\n\r\nWalk In\r\n\r\nv ity\r\n\r\nARS)\r\n\r\n347\r\n\r\nSe Tve\r\n\r\nLOTS\r\n\r\nSle gi Geese bog lis (2)\r\n\r\n4 a9\r\n\r\n4 Wangs Fro\r\n\r\nShr toreds\r\n\r\n720\r\n\r\n[CEP\r\n\r\nte’\r\n",
+    "top_12": "a\r\n\r\nJum\r\n\r\nt\r\n\r\n,\r\n\r\nWhee\r\n\r\n1\r\n\r\n[\r\n\r\nWalk 0\r\n\r\n341 -\r\n\r\n[ASR BX\r\n\r\n4 49\r\n\r\nOF a uy\r\n\r\not\r\n\r\nur\r\n\r\nServe\r\n\r\nfund\r\n\r\n[RX Ae 1G\r\n\r\n720\r\n\r\nte\r\n\r\n8\r\n\r\nPCR IRE\r\n\r\ntie an ©\r\n\r\nA\r\n\r\n\\ [Rid\r\n\r\ngt\r\n\r\n4 NN Fr bi '\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

@@ -1,0 +1,15 @@
+{
+  "sample_id": "company_395f51420a924526",
+  "image_path": "Dataset\\intake\\2026-10-19\\company_documents_v2\\images\\packing_slip\\395f51420a924526.jpg",
+  "image_sha256": "6f095f8b37339841b160e3d7030b07c56ad70a12e6b37a740d8a00d0379060a2",
+  "full_text": "Iw Packing Slip\r\n\r\nIris Wheelworks LLC\r\n\r\nNumber PS-68527\r\nPrecision wheels, smooth rides for\r\nall Date March 24, 2025\r\n410 Oak Street Order no 5068527\r\nSuite 143 Customer ID AW00027281\r\n02110 Boston, MA 9 K A\r\nUSA Carrie Xrq - Truck Groun\r\nPhone: (591) 555-4212\r\ncontact@iriswheelworks.com BILL TO\r\nwww.iriswheelworks.com\r\nEIN 80-1423683 Jenny Nath\r\n\r\n2530 Willow Court\r\n33755 Clearwater, FL\r\nBANK DET? United States\r\n\r\nBank: Northern Trust Bank Phone: 110-555-0167\r\nAccount: 5585791826\r\n\r\nRouting no.: 440248973\r\n\r\nItem Description Unit Ordered Shipped\r\nBK- Touring-1000 Blue, 50 EA i i\r\nT79U-50 Travel in style and comfort. Designed for\r\n\r\nmaximum comfort and safety. Wide gear\r\n\r\nange takes on all hills. High-tech aluminum\r\n\r\nalloy construction provides durability without\r\n\r\nadded weight\r\nHL-U509-  Sport-100 Helmet, Blue EA 1 1\r\nB Universal fit, well-vented, lightweight , snap-\r\n\r\non visor\r\nLJ-0192- Long-Sleeve Logo Jersey, S EA i 1\r\nS Unisex long-sleeve AWC logo microfiber\r\n\r\ncycling jersey\r\n\r\nPackages 1\r\nTotal weight 11.53 kg\r\nUnits on hand 3\r\n\r\nAdjustment services compatible with most bike frames.\r\n\r\nPacked by Received by\r\nYour next ride is just around the corner\r\nPacking Slip PS-6852 Page 1/1\r\n\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

@@ -1,0 +1,13 @@
+{
+  "sample_id": "54a5c3334a7e",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "d1550aed36b57b9c9bc35cfa80db900b7283160a4d5bfb7c82b26ec9629b4f3b",
+  "full_text": "SE\r\n\r\na\r\n\r\n—\\\r\n\r\nCAFE PARISIEN LARCHMONT LLC\r\n\r\n242 N LARCHMONT BLVD\r\n\r\nLOS ANGELES, CA 90004\r\n\r\n(310) 815-8222\r\n\r\nDine In\r\n\r\nServer: Kimberly L.\r\n\r\nJan 24,2019\r\n\r\n10:29 AM\r\n\r\nReceipt: YWGH\r\n\r\nTable: 36\r\n\r\nle a———\r\n\r\nItem(s)\r\n\r\n$4.00\r\n\r\nCROISSANT AUX RAISINS\r\n\r\n$4.75\r\n\r\nCappucino\r\n\r\n$8.75\r\n\r\nSubtotal\r\n\r\n$0.83\r\n\r\nSales Tax (9.5%)\r\n\r\n$9.58\r\n\r\nTotal\r\n\r\nBE ————\r\n\r\nCustomer Copy\r\n\r\nee —————————————————————————————————\r\n",
+  "status": "unreviewed_OCR_output"
+}

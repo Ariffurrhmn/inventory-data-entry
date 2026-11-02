@@ -1,0 +1,16 @@
+{
+  "sample_id": "0737a6ca5674",
+  "image_path": "services\\document_classifier\\data\\images\\0737a6ca5674.jpg",
+  "image_sha256": "b700fda0cd988456858667d6b517b81c4cab963dc846c64fe9ad6594b64dbaeb",
+  "full_text": "Packing Slip\n\nFrom\n\nCrimson&Co\n\n07 South Bishil Road\n1216\n\nBangladesh\n\nShip to\n\nOrder #1094\nSeptember 16, 2026\n\nOrder Details\n\nQty Item\n1 Vintage-Style Contrast Ringer Tee - XL\n\n1 Natural Raw Ecru Denim Jeans - 34\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\0737a6ca5674.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

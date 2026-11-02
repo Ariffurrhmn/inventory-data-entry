@@ -1,0 +1,16 @@
+{
+  "sample_id": "5dffabcb47cb",
+  "image_path": "services\\document_classifier\\data\\images\\5dffabcb47cb.jpg",
+  "image_sha256": "e51375a245dde8dacc6e43ae9f83726a17363e9cc5cb5210e1c7ed5ab345e2c0",
+  "full_text": "EE\nLAE THE. E.\n\n—\n1x 36.000 36. 000\nKimchi p\n1x 0.000 Re0. 000\n\nFre ice grentea\n\n#x[0[AL Ww» 36. 000\nCASH Re51. 000\nCHANGE #15. 000\n\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\5dffabcb47cb.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

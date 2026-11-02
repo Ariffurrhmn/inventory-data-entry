@@ -1,0 +1,16 @@
+{
+  "sample_id": "cdd7aaa9004d",
+  "image_path": "services\\document_classifier\\data\\images\\cdd7aaa9004d.jpg",
+  "image_sha256": "3a782087b6f7af63728eddc13354e6be20247ab1b24e0cb01b6168ffee2287b3",
+  "full_text": "Bengal Consumer Goods WU mms\n\nInvoice\n\nInvoice No: INV-9335.\nDate: 13/08/2026.\n\nBill To / Customer: Ruposhi Bazar, Mirpur-10, Dhaka.\n\nRed Lentils 1kg a Tk 110 Tk 440\n—— =\n\nTotal: Tk 45,340.\n\nPD. Sor\n\nAuthorised Signature\n\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\cdd7aaa9004d.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

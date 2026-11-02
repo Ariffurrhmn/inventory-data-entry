@@ -1,0 +1,264 @@
+{
+  "sample_id": "e396ade11def",
+  "actual_existing_label": "customer_copy",
+  "prediction": "receipt",
+  "explanation": {
+    "label": "receipt",
+    "decision_source": "trained_classifier",
+    "model_run": "printed_v1_minilm",
+    "scores_calibrated": false,
+    "method": "token_block_occlusion",
+    "available": true,
+    "component": "learned_fallback_only",
+    "target_score": 0.5490716695785522,
+    "alternative_class": "customer_copy",
+    "alternative_score": 0.2900601029396057,
+    "score_margin": 0.25901156663894653,
+    "ambiguous_heading": false,
+    "input_tokens": 40,
+    "blocks_evaluated": 14,
+    "supporting_blocks": [
+      {
+        "start": 28,
+        "end": 36,
+        "text": "In ice i",
+        "removed_tokens": 3,
+        "target_score_drop": 0.15558010339736938,
+        "target_vs_alternative_margin_drop": 0.28492680191993713,
+        "label_without_block": "customer_copy",
+        "label_changed_without_block": true
+      },
+      {
+        "start": 49,
+        "end": 56,
+        "text": "ek ot i",
+        "removed_tokens": 3,
+        "target_score_drop": 0.027105867862701416,
+        "target_vs_alternative_margin_drop": 0.045260220766067505,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 57,
+        "end": 62,
+        "text": "i 4 J",
+        "removed_tokens": 3,
+        "target_score_drop": 0.018957972526550293,
+        "target_vs_alternative_margin_drop": 0.028223246335983276,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 0,
+        "end": 8,
+        "text": "Er -— -—",
+        "removed_tokens": 3,
+        "target_score_drop": 0.01751840114593506,
+        "target_vs_alternative_margin_drop": 0.02867838740348816,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 71,
+        "end": 77,
+        "text": "3, 2 3",
+        "removed_tokens": 3,
+        "target_score_drop": 0.016845405101776123,
+        "target_vs_alternative_margin_drop": 0.033542126417160034,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 119,
+        "end": 120,
+        "text": "a",
+        "removed_tokens": 1,
+        "target_score_drop": 0.012456715106964111,
+        "target_vs_alternative_margin_drop": 0.0256597101688385,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      }
+    ],
+    "opposing_blocks": [
+      {
+        "start": 9,
+        "end": 27,
+        "text": "| Jamuna Wholesale",
+        "removed_tokens": 3,
+        "target_score_drop": -0.04036635160446167,
+        "target_vs_alternative_margin_drop": -0.12872809171676636,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 90,
+        "end": 96,
+        "text": "io ® i",
+        "removed_tokens": 3,
+        "target_score_drop": -0.023387014865875244,
+        "target_vs_alternative_margin_drop": -0.044272035360336304,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 63,
+        "end": 70,
+        "text": "fi co =",
+        "removed_tokens": 3,
+        "target_score_drop": -0.01830732822418213,
+        "target_vs_alternative_margin_drop": -0.04752260446548462,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      }
+    ],
+    "all_effects": [
+      {
+        "start": 0,
+        "end": 8,
+        "text": "Er -— -—",
+        "removed_tokens": 3,
+        "target_score_drop": 0.01751840114593506,
+        "target_vs_alternative_margin_drop": 0.02867838740348816,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 9,
+        "end": 27,
+        "text": "| Jamuna Wholesale",
+        "removed_tokens": 3,
+        "target_score_drop": -0.04036635160446167,
+        "target_vs_alternative_margin_drop": -0.12872809171676636,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 28,
+        "end": 36,
+        "text": "In ice i",
+        "removed_tokens": 3,
+        "target_score_drop": 0.15558010339736938,
+        "target_vs_alternative_margin_drop": 0.28492680191993713,
+        "label_without_block": "customer_copy",
+        "label_changed_without_block": true
+      },
+      {
+        "start": 37,
+        "end": 48,
+        "text": "He No: 026.",
+        "removed_tokens": 3,
+        "target_score_drop": -0.0009857416152954102,
+        "target_vs_alternative_margin_drop": -0.009169727563858032,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 49,
+        "end": 56,
+        "text": "ek ot i",
+        "removed_tokens": 3,
+        "target_score_drop": 0.027105867862701416,
+        "target_vs_alternative_margin_drop": 0.045260220766067505,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 57,
+        "end": 62,
+        "text": "i 4 J",
+        "removed_tokens": 3,
+        "target_score_drop": 0.018957972526550293,
+        "target_vs_alternative_margin_drop": 0.028223246335983276,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 63,
+        "end": 70,
+        "text": "fi co =",
+        "removed_tokens": 3,
+        "target_score_drop": -0.01830732822418213,
+        "target_vs_alternative_margin_drop": -0.04752260446548462,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 71,
+        "end": 77,
+        "text": "3, 2 3",
+        "removed_tokens": 3,
+        "target_score_drop": 0.016845405101776123,
+        "target_vs_alternative_margin_drop": 0.033542126417160034,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 78,
+        "end": 89,
+        "text": "—_—_—- - he",
+        "removed_tokens": 3,
+        "target_score_drop": 0.0021805763244628906,
+        "target_vs_alternative_margin_drop": 0.004059910774230957,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 90,
+        "end": 96,
+        "text": "io ® i",
+        "removed_tokens": 3,
+        "target_score_drop": -0.023387014865875244,
+        "target_vs_alternative_margin_drop": -0.044272035360336304,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 97,
+        "end": 103,
+        "text": "a ag 0",
+        "removed_tokens": 3,
+        "target_score_drop": 0.004429876804351807,
+        "target_vs_alternative_margin_drop": 0.005441933870315552,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 104,
+        "end": 110,
+        "text": ": i Si",
+        "removed_tokens": 3,
+        "target_score_drop": -0.007940292358398438,
+        "target_vs_alternative_margin_drop": -0.012826085090637207,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 111,
+        "end": 118,
+        "text": "bd 5 ——",
+        "removed_tokens": 3,
+        "target_score_drop": 0.0024152398109436035,
+        "target_vs_alternative_margin_drop": 0.03290665149688721,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 119,
+        "end": 120,
+        "text": "a",
+        "removed_tokens": 1,
+        "target_score_drop": 0.012456715106964111,
+        "target_vs_alternative_margin_drop": 0.0256597101688385,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      }
+    ],
+    "interpretation": "A positive score drop means omitting this block lowered the fixed model score for the reported class. Scores are model preferences, not calibrated confidence.",
+    "limitations": [
+      "Omission measures sensitivity of this model on this input, not real-world causation or ground truth.",
+      "Blocks can interact; effects do not sum to the prediction.",
+      "Deletion can create unnatural inputs and alter which tokens fit the encoder window.",
+      "For conflicting headings, these omissions explain only the learned fallback; heading rules are held fixed."
+    ]
+  }
+}

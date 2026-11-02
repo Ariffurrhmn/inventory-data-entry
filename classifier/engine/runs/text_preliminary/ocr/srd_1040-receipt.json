@@ -1,0 +1,15 @@
+{
+  "sample_id": "srd_1040-receipt",
+  "image_path": "Dataset\\intake\\2026-10-19\\expressexpense_srd\\images\\1040-receipt.jpg",
+  "image_sha256": "1c878488eec0ecff57353e5dadd1f56b7f81aee67fa5d8fee96bc46ec02cbc82",
+  "full_text": "SUKHE THAI\r\n\r\nSUKHOTHAI SUSHI + ASIAN\r\n\r\nFUSION\r\n17 J SW 147 AVE UNIT 36\r\nMIAMI FIL 33196\r\n(8051 (4888\r\n\r\nhttp://www sukhothaius.com\r\n\r\ns»++0rder online www.Sukhothaius.com##**\r\n\r\nORDER: 0003\r\nDINE-IN\r\n\r\nCashier: Sergio\r\n19-Apr-2019 2:02:26P\r\n\r\nTransaction 211209\r\n1 Chicken Fried Rice And Egg\r\n\r\n§7.99\r\nLunch\r\n\r\n1 California Tropic And Miso $7.99\r\nLunch\r\n\r\n1 Add Two Tostones $1.00\r\n\r\n1 Sprite $2.50\r\n\r\n1 Perrier Sparkling Water $3.50\r\n\r\nSubtotal $22.98\r\nTax\r\n\r\n$1.61\r\n\r\nService fees on tables. $3.45\r\n\r\nRestaurant (15.0%)\r\n\r\nTotal $28.04\r\nCREDIT CARD AUTH $28.04\r\n\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

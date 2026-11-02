@@ -1,0 +1,15 @@
+{
+  "sample_id": "company_84ef0dc252763886",
+  "image_path": "Dataset\\intake\\2026-10-19\\company_documents_v2\\images\\packing_slip\\84ef0dc252763886.jpg",
+  "image_sha256": "1a6c4b20e82c8cdc94b6cc67ea83ee66fbe706dca7c7b5f2a233137a4f19ec7c",
+  "full_text": "PACKING\r\n\r\nSLIP\r\n\r\nNUMBER DATE CUSTOMER ID\r\n1S-BL-49312 21 Jan 2024 AW00017086\r\nBILL TO\r\n\r\nXavier Anderson\r\nKronerweg 5615\r\n\r\n46236 Bottrop\r\n\r\nGermany\r\n\r\nPhone: 1 (11) 500 555-0112\r\n\r\nItem Description Unit\r\n\r\nBK-R89R-48 Road-250 Red, 48 EA\r\nPackages\r\nTotal weight\r\n\r\nUnits on hand\r\n\r\nIris Sports Corp.\r\n\r\nPedal power. Ride the future.\r\n279 Harbor Blvd\r\n\r\n80202 Denver, CO\r\n\r\nUSA\r\n\r\nPhone: (989) 555-7243\r\naccounts@irissports.com\r\nwww.irissports.com\r\n\r\nEIN 79-2440607\r\n\r\nCARRIER\r\nXrq - Truck Ground\r\n\r\nOrdered Shipped\r\n\r\n1 1\r\n\r\n6.86 kg\r\n\r\nPacked by Received by\r\n\r\nGear up strong and ride safely today.\r\nwww.irissports.com - accounts@irissports.com - (989) 555-7243\r\n\r\nPacking Slip IS-BL-49312\r\n\r\nPage 1/1\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

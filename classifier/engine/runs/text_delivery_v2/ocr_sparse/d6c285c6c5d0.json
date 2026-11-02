@@ -1,0 +1,13 @@
+{
+  "sample_id": "d6c285c6c5d0",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "25f6938be9beb21d5046ce5d6db9cc7fa78d16a08b5fd36c17ef079148cd5a1a",
+  "full_text": "Ee FR\r\n\r\n28\r\n\r\nBe\r\n\r\nie\r\n\r\n5\r\n\r\nDescription\r\n\r\nHSN/SAC\r\n\r\nay\r\n\r\nRate\r\n\r\nTaxable\r\n\r\nGST %\r\n\r\n——\r\n\r\n—\r\n\r\nem\r\n\r\nCs\r\n\r\na\r\n\r\nrs\r\n\r\n= so\r\n\r\n—\r\n\r\nSi\r\n\r\nSo\r\n\r\nGrand total\r\n\r\n%1,518.90\r\n\r\n2\r\n\r\n=\r\n\r\nA\r\n\r\nww\r\n\r\nAA 0\r\n\r\n4\r\n\r\nAmount in wort\r\n\r\nOne Thousand Five Hundred Eighteen Rupees and Ninety Paise Only\r\n\r\nTas\r\n\r\nSR\r\n\r\nSh\r\n\r\nthe;\r\n\r\nom\r\n\r\n=\r\n\r\nagi!\r\n",
+  "status": "unreviewed_OCR_output"
+}

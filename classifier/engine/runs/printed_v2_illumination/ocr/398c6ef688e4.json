@@ -1,0 +1,27 @@
+{
+  "sample_id": "398c6ef688e4",
+  "image_sha256": "180eeab99e09a484252eb3c4c78e46dd880ad60d4c80c03b9e234302b14d0f7b",
+  "views": {
+    "full": "Delivery Challan ;\r\nChallan No: DC-264.\r\nDate: 26/08/2026.\r\nFrom: Dhaka Trade House.\r\nTo: Tazin Super Shop, Savar, Dhaka.\r\n| = Soybean Oil 5L 128]\r\na Hand Wash 200ml ma\r\nCET BE\r\n| Received By Delivered By |\r\n",
+    "top_-12": "llan No\r\n\r\nC-264\r\n\r\n2026\r\n\r\nTo Tazi\r\n\r\naka Traq House\r\n",
+    "top_0": "- m= = =.\r\n\r\nDelivery Challan\r\n\r\nChallan No: DC-264.\r\n\r\nDate: 26/08/2026.\r\n\r\nFrom: Dhaka Trade House.\r\n\r\nTo: Tazin Super Shop, Savar, Dhaka\r\n",
+    "top_12": "—\r\n\r\n—-\r\n\r\n—-\r\n\r\nchalla®\r\n\r\npc-264\r\n\r\nChala?\r\n\r\n6/08/292°\r\n\r\npate\r\n\r\na Tra\r\n\r\ngrom: ©\r\n\r\nan\r\n\r\nnS per\r\n\r\n1 Taz\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

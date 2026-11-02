@@ -1,0 +1,27 @@
+{
+  "sample_id": "982d3081da15",
+  "image_sha256": "b0724c4389735a62a2dab62042b750127f915833369fd79c9c9f486f8e6d8f81",
+  "views": {
+    "full": "DELIVERY CHALLAN Bo Zoe 0o-00\r\nSELLER CONSIGNEE\r\nABC Company Tanjina\r\nShop 12, Market Road, City — 400001 House- 36, Road- 7, Maharashtra\r\nVehicle no.: MH 01 AB 1234 Purpose: Job work\r\n# Description HSN/SAC Qty Rate Taxable GST %\r\n1 Pencil Box 9056 100.00 180.00 18,000.00 5%\r\n2 Stapler 3541 500.00 ?150.00 75,000.00 6%\r\nTaxable value %93,000.00\r\nCGST ¥2,700.00\r\nSGST ¥2,700.00\r\nGrand total 298,400.00\r\nAmount in words: Ninety Eight Thousand Four Hundred Rupees Only\r\nNotes: Goods sent for the purpose stated above. Not a sale.\r\n",
+    "top_-12": "Sg LER\r\n\r\nBC oy,\r\n\r\nSho,\r\n\r\nMpan ry\r\n\r\narket Rog,\r\n\r\nA, City 40000;\r\n\r\nONSIGNg,\r\n\r\n@hicla no\r\n\r\nTanjing\r\n\r\nLEY] 123\r\n\r\nHoyge.\r\n\r\nUrpose. 4, b\r\n\r\n» Roag. »\r\n\r\nDescrition\r\n\r\nhar, ashi.\r\n\r\nengjf Boy\r\n\r\nHSN/sac\r\n\r\nStapier\r\n\r\n9055\r\n\r\n3547\r\n\r\nRate\r\n\r\n100.00\r\n\r\n500.00\r\n\r\n#1gp, 00\r\n\r\nTaxapy,\r\n\r\nGST of\r\n\r\n150.00\r\n\r\n6,000.90\r\n\r\n7s, 000.05\r\n\r\n5%\r\n\r\nTaxapje Value\r\n\r\n8%\r\n\r\nSas\r\n\r\n¥93,009,\r\n\r\nfang totay\r\n\r\n2.700,\r\n\r\n2.700,04\r\n\r\n8,400 0g\r\n",
+    "top_0": "DELIVE\r\n\r\nGi\r\n\r\nSELLER\r\n\r\nCONSIGNEE\r\n\r\nABC Company\r\n\r\nTanjina\r\n\r\nShop 12, Market Road, City — 400001\r\n\r\nHouse- 36, Road- 7, Maharashtra\r\n\r\nVehicle no.: MH 01 AB 1234\r\n\r\nPurpose: Job work\r\n\r\n# Description\r\n\r\nHSN/SAC\r\n\r\nRate\r\n\r\nGST %\r\n\r\n1\r\n\r\nPencil Box\r\n\r\n9056\r\n\r\n100.00\r\n\r\n2180.00\r\n\r\n218,000.00\r\n\r\n5%\r\n\r\n2\r\n\r\nStapler\r\n\r\n3541\r\n\r\n500.00\r\n\r\n#150.00\r\n\r\n#75,000.00\r\n\r\n6%\r\n\r\nTaxable value\r\n\r\n¥93,000.00\r\n\r\nCGST\r\n\r\n¥2,700.00\r\n\r\nSGST\r\n\r\n¥2,700.00\r\n\r\nGrand total\r\n\r\n298,400.00\r\n",
+    "top_12": "ONSIGNEE\r\n\r\nani\r\n\r\nanar\r\n\r\nashi@\r\n\r\nad”\r\n\r\nHouse” =\"\r\n\r\nast\r\n\r\nSELLER\r\n\r\ncy\r\n\r\n_ 40000\"\r\n\r\nTenable\r\n\r\n%o\r\n\r\n8c comp\r\n\r\not Road:\r\n\r\nwork\r\n\r\nrate\r\n\r\n218,000\r\n\r\n6%\r\n\r\nshop\r\n\r\nPurpos\r\n\r\ne: JO\r\n\r\n28000\r\n\r\n000. 00\r\n\r\not AB AZ\r\n\r\n75,\r\n\r\nVenice noe\r\n\r\nHeNISAS\r\n\r\n10000\r\n\r\n93\r\n\r\n00090\r\n\r\n©5000\r\n\r\n©7100\r\n\r\n500.00\r\n\r\npescr?®”\r\n\r\n056\r\n\r\n{arabe val\r\n\r\n22.7\r\n\r\n00.00\r\n\r\npend\r\n\r\n3 BOX\r\n\r\n3541\r\n\r\n[de\r\n\r\n2400.0\r\n\r\ngrapte’\r\n\r\n5657\r\n\r\nGrand 9%\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

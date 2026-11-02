@@ -1,0 +1,15 @@
+{
+  "sample_id": "company_c0388c4866f0e684",
+  "image_path": "Dataset\\intake\\2026-10-19\\company_documents_v2\\images\\packing_slip\\c0388c4866f0e684.jpg",
+  "image_sha256": "275234a964fca4bdc75eb3d8637d157c2e8d3a3b359b8882bdd1d43dc47e0852",
+  "full_text": "Juniper Bikes PLC\r\n\r\nBuilt for every ride\r\n144 High Street - BS1 4DJ Bristol - United Kingdom\r\n\r\nNumber JB-BL-73601\r\nDate May 29, 2025\r\nOrder no. S073601\r\nCustomer ID AW00016957\r\n\r\nPac ki ng Slip Carrier Xrq - Truck Ground\r\n\r\nBILLTO\r\n\r\nSeth Wilson\r\n9563 Lani Kai Drive\r\n98403 Tacoma, WA\r\nUnited States\r\n\r\nItem Description Unit Ordered Shipped\r\nWB-H098 Water Bottle - 30 oz. EA 1 i\r\nHL-U509-R Sport-100 Helmet, Red EA 1 1\r\nPackages 1\r\nUnits on hand 2\r\n\r\nNOTES\r\n\r\nThanks for choosing Juniper Bikes for your next adventure.\r\n\r\nPacked by Received by\r\n\r\nPedal on, from all of us Bank: Crédit Régional Juniper Bikes PLC\r\nIBAN: GB14 8176 5608 1621 8634 9723 VAT GB883310779\r\nBIC/SWIFT: JUNIGB80\r\n\r\nPacking Slip JB-BL-73601 Page 1/1\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

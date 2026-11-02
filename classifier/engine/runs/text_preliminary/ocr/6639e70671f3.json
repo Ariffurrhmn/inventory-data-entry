@@ -1,0 +1,16 @@
+{
+  "sample_id": "6639e70671f3",
+  "image_path": "services\\document_classifier\\data\\images\\6639e70671f3.jpg",
+  "image_sha256": "2d8d1c5090a7eeec4b5c9c641306f8044c41daa91cbee7f8f21082f2e5cc2dd1",
+  "full_text": "\\'Y 4 Surma Food Supply\n\nInvoice\n\nBill To / Customer: Invoice No: INV-5865.\n\nBismillah Store, Tongi, Gazipur. Date: 24/07/2026.\n\nERC\n\nAuthorised Signature\nT. Sultana\n\n;\n\nCUSTOMER COPY\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\6639e70671f3.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

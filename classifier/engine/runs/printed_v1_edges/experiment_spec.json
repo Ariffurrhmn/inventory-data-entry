@@ -1,0 +1,9 @@
+{
+  "parent_run": "printed_v1_headings",
+  "reason": "Adaptive, bounded OCR follow-up for missed printed copy markings; no independent test claim.",
+  "ocr": "PSM11 full-page text for statistical features, plus autocontrasted top/bottom 35% PSM6 for heading cues only",
+  "selection": "Promote only if validation macro-F1 improves over parent; no other parameter search.",
+  "model_fitted": false,
+  "test_inputs_opened": 0,
+  "edge_code_sha256": "153fac0961e85630b54ddb9d394b078dc5f9153ea476880f793662327d976449"
+}

@@ -1,0 +1,27 @@
+{
+  "sample_id": "cdd7aaa9004d",
+  "image_sha256": "3a782087b6f7af63728eddc13354e6be20247ab1b24e0cb01b6168ffee2287b3",
+  "views": {
+    "full": "Co ——\r\n! pp N\\ :\r\n! TOMER COPY\r\nBengal Consumer Goods {louse me\r\nInvoice :\r\n| Invoice No: INV-9335. :\r\nDate: 13/08/2026.\r\nBill To / Customer: Ruposhi Bazar, Mirpur-10, Dhaka.\r\nTotal:  Tk45,340.\r\nAuthorised Signature\r\n",
+    "top_-12": "p\r\n\r\nnyo\r\n\r\nICe\r\n\r\nCUSTOMER ( R COFY\r\n\r\nBil o/ Custom\r\n\r\nUposh; p\r\n",
+    "top_0": "p\r\n\r\n——\r\n\r\n—om—\r\n\r\nBengal Consumer Goods cus CTONER © &\r\n\r\ni) |\r\n\r\nt\r\n\r\nInvoice\r\n\r\nInvoice No: INV-9335\r\n\r\nDate: 13/08/2026\r\n\r\nBill To / Customer: Ruposhi Bazar, Mirpur-10, Dhaka\r\n\r\nItem\r\n\r\nQty\r\n\r\n—\r\n",
+    "top_12": "iS\r\n\r\nWe\r\n\r\nREN\r\n\r\nGood\r\n\r\nal Consume’\r\n\r\nBend\r\n\r\nvoice ous.\r\n\r\nnv ice\r\n\r\nMirpur iO:\r\n\r\npater}\r\n\r\n3 10812026:\r\n\r\nposh Bazah\r\n\r\nAmo\r\n\r\nstomer: R\r\n\r\note (9\r\n\r\ngin To | C\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

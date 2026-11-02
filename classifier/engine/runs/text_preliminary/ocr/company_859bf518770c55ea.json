@@ -1,0 +1,15 @@
+{
+  "sample_id": "company_859bf518770c55ea",
+  "image_path": "Dataset\\intake\\2026-10-19\\company_documents_v2\\images\\purchase_order\\859bf518770c55ea.jpg",
+  "image_sha256": "e4abeb4061c72a4e9381c224817790ef3b46358f4935a447f1977474ec501e67",
+  "full_text": "Delta Sports & Co. Ltd\r\nRide further, ride stronger\r\n\r\n464 High Street\r\n\r\nBS1 4DJ Bristol\r\n\r\nUnited Kingdom\r\n\r\nPhone: +44 20 6440622\r\nbilling@deltasports.co.uk\r\nwww.deltasports.co.uk\r\nVAT GB531255379\r\n\r\nVENDOR\r\n\r\nBeaumont Bikes\r\n2472 Alexander Place\r\n83301 West Covina, ID\r\nUnited States\r\n\r\nItem Description\r\nCB-2903 Chainring Bolts\r\nCN-6137 Chainring Nut\r\nCR-7833 Chainring\r\n\r\nPAYMENT TERMS\r\nNet 45 days\r\n\r\nPURCHASE ORDER\r\n\r\nNumber P0O001886\r\n\r\nDate 02/04/2025\r\n\r\nDelivery date 02/13/2025\r\n\r\nAccount no. BEAUMONTO0001\r\n\r\nRequested by ~~ Reinout Hillmann\r\n\r\nCarrier Cargo Transport 5\r\nDELIVER TO\r\n\r\nDelta Sports & Co. Ltd\r\n464 High Street\r\n\r\nBS1 4DJ Bristol\r\n\r\nUnited Kingdom\r\n\r\nPhone: +44 20 6440622\r\n\r\nPlease confirm this order and quote our PO number on all invoices\r\n\r\nand delivery notes.\r\n\r\nApproved by\r\n\r\nQty Unit price\r\n\r\n3 £37.50\r\n3 £33.81\r\n\r\n60 £20.08\r\n\r\nSubtotal\r\n\r\nFreight\r\n\r\nTax 8%\r\n\r\nTotal\r\n\r\nKeep pedalling, we've got you covered.\r\n\r\nDisc.\r\n\r\nDelta Sports & Co. Ltd - 464 High Street - BS1 4DJ Bristol - United Kingdom - VAT GB531255379\r\n\r\nPurchase Order PO001886\r\n\r\nAmount\r\n£112.50\r\n£101.43\r\n\r\n£1,204.80\r\n\r\n£1,418.73\r\n£35.47\r\n\r\n£113.51\r\n\r\n£1,567.71\r\n\r\nPage 1/1\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

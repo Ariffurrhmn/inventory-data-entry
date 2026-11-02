@@ -1,0 +1,15 @@
+{
+  "sample_id": "company_ff4e11fb5a9afed1",
+  "image_path": "Dataset\\intake\\2026-10-19\\company_documents_v2\\images\\purchase_order\\ff4e11fb5a9afed1.jpg",
+  "image_sha256": "68d48ccdba5cf2d9994e3a8184a75bb4d8aabd2235f42de4f94989d522e95ae2",
+  "full_text": "Iw\r\n\r\nIris Wheelworks LLC\r\nPrecision wheels, smooth rides for\r\nall.\r\n\r\n410 Oak Street\r\n\r\nSuite 143\r\n\r\n02110 Boston, MA\r\n\r\nUSA\r\n\r\nPhone: (591) 555-4212\r\ncontact@iriswheelworks.com\r\nwww.iriswheelworks.com\r\nEIN 80-1423\r\n\r\nPurchase Order\r\n\r\nNumber PO-2025-3966\r\nDate 2025-07-31\r\nDelivery date 2025-08-09\r\nAccount no. FIRSTRA0001\r\n\r\nRequested by  Reinout Hillmann\r\n\r\nCarrier Zy - Express\r\n\r\n/ENDOR\r\n\r\nFirst Rate Bicycles\r\n7053 Laurel Dr.\r\n\r\nDELIVER TO\r\n\r\nIris Wheelworks LLC\r\n410 Oak Street\r\n\r\nBANK DE 88044 La Mesa, NM Suite 143\r\n\r\nBank: Northern Trust Bank United States 02110 Boston, MA\r\nAccount: 5585791826 USA\r\n\r\nRouting no.: 440248973\r\nPhone: (591) 555-4212\r\n\r\nItem Description Qty Unit price Amount\r\nSE- LL Mountain Seat/Saddle 550 $21.09 $11,599.50\r\nM236 Synthetic leather. Features gel for increa:\r\ncomfort\r\n\r\nSE- ML Mountain Seat/Saddle 550 $30.44 $16,742.00\r\nM798 Designed to absorb shock\r\n\r\nSE- HL Road Seat/Saddle 550 $40.94 $22,517.00\r\nR995 Lightweight kevlar racing saddle. Leather\r\n\r\nPAYMENT TERMS Subtotal $50,858.50\r\nNet 30 days\r\nFreight $1,271.51\r\nPlease confirm this order and quote our PO\r\nnumber on all invoices and delivery notes Tax 8% $4,068.83\r\nTotal $56,198.84\r\n\r\nApproved by\r\n\r\nYour next ride is just around the corner\r\n\r\nPurchase Order PO-2025-396 Page 1/1\r\n\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

@@ -1,0 +1,15 @@
+{
+  "sample_id": "company_f6a4f6649ff672fe",
+  "image_path": "Dataset\\intake\\2026-10-19\\company_documents_v2\\images\\packing_slip\\f6a4f6649ff672fe.jpg",
+  "image_sha256": "f8d6cca96acae035cfad3438f7b008ca2feec2865b83b8ad9577855778178be3",
+  "full_text": "Delta Sports & Co. Ltd\r\nRide further, ride stronger\r\n464 High Street\r\n\r\nBS1 4DJ Bristol\r\n\r\nUnited Kingdom\r\n\r\nPhone: +44 20 6440622\r\nbilling@deltasports.co.uk\r\nwww.deltasports.co.uk\r\nVAT GB531255379\r\n\r\nBILLTO\r\n\r\nJodi Raje\r\n\r\n6004 Peabody Road\r\n\r\n4655 Hervey Bay, QLD\r\nAustralia\r\n\r\nPhone: 1 (11) 500 555-0166\r\n\r\nItem Description\r\n\r\nTT-R982 Road Tire Tube\r\n\r\nTI-R092 LL Road Tire\r\nNOTES\r\n\r\nPACKING SLIP\r\n\r\nNumber DS-BL-58480\r\nDate 2024-10-29\r\nOrder no. S058480\r\nCustomer ID AWO00019630\r\nCarrier Xrq - Truck Ground\r\n\r\nUnit Ordered\r\n\r\nEA 1\r\n\r\nEA 1\r\nPackages\r\n\r\nUnits on hand\r\n\r\nRegular maintenance advised: check tyre pressure and bolt tightness monthly.\r\n\r\nShipped\r\n1\r\n\r\ni\r\n\r\nPacked by\r\n\r\nReceived by\r\n\r\nKeep pedalling, we've got you covered.\r\n\r\nDelta Sports & Co. Ltd - 464 High Street - BS1 4DJ Bristol - United Kingdom - VAT GB531255379\r\n\r\nPacking Slip DS-BL-58480\r\n\r\nPage 1/1\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

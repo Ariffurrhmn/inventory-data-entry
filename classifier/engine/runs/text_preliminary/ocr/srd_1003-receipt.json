@@ -1,0 +1,15 @@
+{
+  "sample_id": "srd_1003-receipt",
+  "image_path": "Dataset\\intake\\2026-10-19\\expressexpense_srd\\images\\1003-receipt.jpg",
+  "image_sha256": "90d65fc9ab533710cfd41cb55acd42037dc85f55a208118c618e17960e4fdff8",
+  "full_text": "E] CL Ge Plt\r\n\r\nOrder #: 8262\r\nbz Tab: Bar Tab\r\n\r\nDSB\r\n\r\nSos Tax:\r\n\r\nTOTAL:\r\n\r\nCash Tendered:\r\n1)\r\nWi\r\n» Ticket 4: 3 «\r\nCreated: 4/20/2017 10:13:17 PM\r\nSETTLED: 4/20/2017 10:13:25 PM\r\n\r\nTHANK YOU!\r\n\r\nDU,\r\nWhy de\r\n\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

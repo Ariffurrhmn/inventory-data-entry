@@ -1,0 +1,13 @@
+{
+  "sample_id": "3613644641fd",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "24f7327870e06ae8706d7028cff8d2e60f1fbde6146b5c98d36e3c558a25b8ca",
+  "full_text": "N\r\n\r\nSELLER\r\n\r\nCONSIGNEE\r\n\r\nTanjine\r\n\r\nShop 12, Market Road, City — 400001\r\n\r\nHouse- 88, Road- 7, Maharashtra\r\n\r\nPencil Box\r\n\r\n8086\r\n\r\n100.00\r\n\r\n2180.00\r\n\r\n18,000.00\r\n\r\n5%\r\n\r\nStapler\r\n\r\nasa\r\n\r\n500.00\r\n\r\n2150.00\r\n\r\n75,000.00\r\n\r\n8%\r\n\r\nTaxable value\r\n\r\n93,000.00\r\n\r\nCGST\r\n\r\n¥2,700.00\r\n\r\nSGST\r\n\r\n€2,700.00\r\n\r\nGrand total\r\n\r\n¥98,400.00\r\n\r\nAmount in words: Ninety Eight Thousand Four Hundred Rupees Only\r\n\r\nNotes: Goods sent for the purpose stated above, Not a sale.\r\n",
+  "status": "unreviewed_OCR_output"
+}

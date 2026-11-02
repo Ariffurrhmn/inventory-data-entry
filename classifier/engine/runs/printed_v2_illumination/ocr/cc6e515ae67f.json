@@ -1,0 +1,27 @@
+{
+  "sample_id": "cc6e515ae67f",
+  "image_sha256": "ee87c1d82b9e27bd2cb5d96743b2e647d59672bee36c4b1da03854473210b4a1",
+  "views": {
+    "full": "ABC Company PURCHASE ORDER\r\nArifur Rahman\r\nMirpur-2,\r\nDhaka,\r\nBangladesh\r\nVendor Address: PO# PO-10\r\nBZ Company OrderDate Oct 14, 2026\r\nMirpur-12,\r\nDhaka, Delivery Date Oct 19, 2026\r\nBangladesh\r\ntem Description Quy Rate | Amount\r\nFace Wash 2 4 8\r\nShampoo 400ml 5 4.5 22.5\r\nBody Lotion 4 5 20\r\nCotton T-Shirt 5; 7 35\r\nDenim Jeans 2 15 30\r\nSub Total 115.5\r\nPurchase Tax (10%) 11.55\r\nTOTAL $127.05\r\nNotes\r\nIt was great doing business with you.\r\nTerms & Conditions\r\nUpon accepting this purchase order, you hereby agree to the terms & conditions.\r\n",
+    "top_-12": "ABc\r\n\r\nPany\r\n\r\nArifur Rahm,\r\n\r\nly Pur.\r\n\r\nDha ka,\r\n\r\nBanglages h\r\n\r\nPURCHASE ORDER\r\n\r\nVengo, Adg ress:\r\n\r\nXyz Com an\r\n\r\nMirpyr. 12\r\n\r\naka\r\n\r\nPog\r\n\r\nBangi, desh\r\n\r\nOrder Date\r\n\r\n14, 205\r\n\r\nliver, Date\r\n\r\nct 19. 2026\r\n",
+    "top_0": "ABC Company\r\n\r\nPURCHASE ORDER\r\n\r\nArifur Rahman\r\n\r\nMirpur-2,\r\n\r\nDhaka,\r\n\r\nBangladesh\r\n\r\nVendor Address:\r\n\r\nPO#\r\n\r\nPO-10\r\n\r\nXYZ Company\r\n\r\nOrder Date\r\n\r\nOct 14, 2026\r\n\r\nMirpur-12,\r\n\r\nDhaka,\r\n\r\nDelivery Date\r\n\r\nOct 19, 2026\r\n\r\nBangladesh\r\n",
+    "top_12": "URCHA\r\n\r\nC company\r\n\r\nArif\r\n\r\nur Ran?\r\n\r\nWIrpYY\r\n\r\n2\r\n\r\n0-0\r\n\r\nphaka .\r\n\r\ngang\r\n\r\nades\r\n\r\npO#\r\n\r\noct th 2026\r\n\r\nord\r\n\r\nex pate\r\n\r\n19,202\r\n\r\npeliv\r\n\r\nery pate\r\n\r\nve\r\n\r\nndot pddres\r\n\r\n12,\r\n\r\nMirpur\r\n\r\nnaka\r\n\r\nBan\r\n\r\nglades®\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

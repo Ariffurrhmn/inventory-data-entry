@@ -1,0 +1,17 @@
+Arifur Rahman P U RC HAS E
+ORDER
+
+Purchase Order # 1
+
+Bill To: Ship To:
+
+Hasan Mahmood Hasnara Begum Date: Oct 8, 2026
+Required By: Oct 16, 2026
+
+Item Rate Amount
+
+Pen 20 $0.15 $3.00
+
+Subtotal: $3.00
+Tax (0.02%): $0.00
+Total: $3.00

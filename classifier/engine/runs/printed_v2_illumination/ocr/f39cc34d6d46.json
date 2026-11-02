@@ -1,0 +1,27 @@
+{
+  "sample_id": "f39cc34d6d46",
+  "image_sha256": "a31d265c79d38914d1424b93bb4108142704e4c1026749379721d9df19a0b27f",
+  "views": {
+    "full": "74 WELCOME TO EB 4\r\n‘98 VINELAND SHELL RE CN\r\nCha SHELL 57 542 985501 x\r\nMW 9783 VINELAC 0 SIE? pA\r\nFx LANDQ FL 3821 KR:\r\nx Descr. aty amount Pky\r\nve <CUSTOMER COPY> fo\r\ni UNLD CR 807 4.2516 2550 fb pt » 5\r\nh SELF 85.899/ 6 \"3\r\n{Ah Sub Total 25.50 LE” =\r\nes Tax 0.00 TR\r\nie TOTAL 25.50 RE\r\n3: CREDIT § 25.50 a\r\nor BRR DISCOVER “563\r\nz INVOICE: 444547 AUTH #: 021698 a\r\ncv. | THANKS .COME AGAIN ~~ Pa\r\nyur REGH 0002 CSHE 012 DRE 01 TRAte 26065  WISg\r\nSe 03/21/16 18:43:54 ST# VINE] Far, |\r\ndE 3 5 $ TTT © Taig\r\n",
+    "top_-12": "os\r\n\r\n-\r\n\r\nvi,\r\n\r\nCo\r\n\r\nSHE,\r\n\r\nEL\r\n\r\nME To\r\n\r\n83\r\n\r\nAND 5 EL\r\n\r\nOR\r\n\r\nVINgL\r\n\r\nANG Ry\r\n\r\nLing\r\n\r\n57 42 99550,\r\n\r\nco,\r\n\r\nFL 32g\r\n\r\nanf Hyd\r\n\r\nuN\r\n\r\nJeser\r\n\r\n~——\r\n\r\nvr Vag\r\n\r\n———\r\n\r\nan\r\n\r\nJKLp cr\r\n\r\nSe...\r\n\r\n&\r\n\r\nner, Pa 4 2518\r\n\r\n‘no\r\n\r\n3\r\n",
+    "top_0": "7\r\n\r\nWELCOME TO\r\n\r\nfre\r\n\r\n4,\r\n\r\nVINELAND SHELL\r\n\r\nSHE.L\r\n\r\n57 542 985501\r\n\r\nond S00\r\n\r\nS1E0733\r\n\r\n0\r\n\r\nhe\r\n\r\n8783 VINELANG RO\r\n\r\nORLANDO\r\n\r\nFL 3282!\r\n\r\nEY\r\n\r\nLIN\r\n\r\nQescr.\r\n\r\nqty\r\n\r\namount\r\n\r\n————-\r\n\r\n————\r\n\r\n——\r\n\r\n<CUSTOMER COPY»\r\n\r\not\r\n\r\n‘NLD CR #07\r\n\r\n4.2516\r\n\r\n25.50\r\n\r\nAric ac O00!\r\n\r\np\r\n",
+    "top_12": "wv, A\r\n\r\nale\r\n\r\n§, 5A\r\n\r\n542\r\n\r\ngases\r\n\r\nIr”\r\n\r\nWE LCOoM\r\n\r\nwo\r\n\r\nSHEL\r\n\r\n51\r\n\r\n16073\r\n\r\n+b\r\n\r\nHEL\r\n\r\n8783\r\n\r\nVINELRE RR 3282\r\n\r\nasont\r\n\r\nORLA\r\n\r\naly\r\n\r\n——\r\n\r\nRa\r\n\r\n—\r\n\r\nQesct\r\n\r\nFo\r\n\r\n%\r\n\r\n—\r\n\r\n4.258\r\n\r\n0st\r\n\r\nover CO\r\n\r\nMORE as\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

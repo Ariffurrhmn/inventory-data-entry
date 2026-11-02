@@ -1,0 +1,13 @@
+{
+  "sample_id": "c33ada961240",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "b4ab7fbd5137cdbfcdc9352ec25ab370ece87e08d787094148108f25610d4230",
+  "full_text": "fet?\r\n\r\n07\r\n\r\nSh\r\n\r\nNf\r\n\r\n4\r\n\r\nSAE\r\n\r\npt\r\n\r\n0\r\n\r\n3:\r\n\r\nOe\r\n\r\nSr\r\n\r\nYr\r\n\r\n8\r\n\r\na\r\n\r\nny\r\n\r\ni —\r\n\r\n-e\r\n\r\nEE\r\n\r\n&\r\n\r\npi\r\n\r\ni —.\r\n\r\neo\r\n\r\ni\r\n\r\noe\r\n\r\neB\r\n\r\ni\r\n\r\nted\r\n\r\ni\r\n\r\n0 MOUSSE\r\n\r\n20, 000\r\n\r\nAPE JELLY\r\n\r\n13,000\r\n\r\n30, 000\r\n\r\nUBTO ITAL\r\n\r\n10%\r\n\r\n-3, 000\r\n\r\nPe\r\n\r\na\r\n\r\nsik\r\n\r\nre\r\n\r\n>\r\n\r\nO00\r\n\r\n50\r\n\r\n000\r\n\r\nNy\r\n\r\nI\r\n\r\n|\r\n\r\n000\r\n\r\nie\r\n\r\nize.\r\n\r\nos\r\n\r\nil\r\n\r\ni\r\n\r\nHT\r\n\r\nHil\r\n\r\npr\r\n\r\nct\r\n\r\nfA ¥,\r\n\r\nii\r\n\r\nRa\r\n\r\nin\r\n\r\nrE)\r\n\r\n»\r\n",
+  "status": "unreviewed_OCR_output"
+}

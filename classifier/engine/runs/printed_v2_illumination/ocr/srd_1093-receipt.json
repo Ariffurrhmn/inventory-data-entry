@@ -1,0 +1,27 @@
+{
+  "sample_id": "srd_1093-receipt",
+  "image_sha256": "c6e914ac8b4a11e7a3d05349b89131a701645e357abde16eb37fbd1f8dbbd056",
+  "views": {
+    "full": "| POPEYE'S\r\n| 11538\r\n| 201-885-2085\r\nCARRY-OUT, SUN JUN 24 20:49:53 2018\r\n| #150 Server #: 8325\r\n1 #55 WING COMBO 9,99\r\n| > SPICY\r\nREG CAJ FRIES\r\nCOKE\r\n1 #6 3 TENDER ML 8.69\r\nREG MACHEESE\r\nCOKE\r\n1 #6 3 TENDER ML 8.69\r\nREG CAJ FRIES\r\nCOKE\r\n1 #11/ POP SHRMP/COMBO 8.49\r\nREG CAJ FRIES\r\nCOKE\r\nTAX A 2.37\r\n150 Total D1-4 38.23\r\nCREDIT 38.23\r\nCHANGE 0.00\r\nTHANK YOu FOR\r\n",
+    "top_-12": "07-\r\n\r\n] 1538\r\n\r\nsi\r\n\r\n#150\r\n\r\nSe r ve\r\n\r\n4\r\n\r\n‘8\r\n\r\n> wre WIhg Comp\r\n\r\n3.99\r\n\r\nPie CAJ FRIEg\r\n",
+    "top_0": "POPEYE'S\r\n\r\n11538\r\n\r\n201-885-2085\r\n\r\nCARRY-0UT, SUN JUN 24 20:49:53 2018\r\n\r\n#150 Server #: 8325\r\n\r\n1\r\n\r\n#3 5 WING COMBO\r\n\r\n9.99\r\n\r\n> SPICY\r\n\r\nREG CAJ FRIES\r\n\r\nrE\r\n",
+    "top_12": "pop\r\n\r\nENE’ S\r\n\r\n11538\r\n\r\no\\-\r\n\r\n'ag5- -208\r\n\r\n20:43:\r\n\r\n. g310\r\n\r\nCARRY OUT, q Serv v\r\n\r\n9.9%\r\n\r\nWING COB\r\n\r\ny EY A) FRIES\r\n\r\npruE\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

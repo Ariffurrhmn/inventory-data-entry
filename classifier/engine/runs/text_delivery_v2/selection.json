@@ -1,0 +1,12 @@
+{
+  "candidate": "sparse_augmented",
+  "promoted_validation_candidate": false,
+  "previous_run": "text_preliminary",
+  "previous_candidate": "original_ocr",
+  "previous_validation_macro_f1": 0.7818181818181819,
+  "validation_macro_f1": 0.7258771929824561,
+  "ocr_policy": "sparse",
+  "new_test_result": null,
+  "test_images_opened": 0,
+  "reason": "validation-only comparison; no test-based promotion"
+}

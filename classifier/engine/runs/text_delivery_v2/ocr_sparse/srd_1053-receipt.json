@@ -1,0 +1,13 @@
+{
+  "sample_id": "srd_1053-receipt",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "aacbcc4b2f00348940e0b3934ab308bd9a3fb442c91c1950147c196c22793554",
+  "full_text": "Si\r\n\r\nPrimo\r\n\r\nhi\r\n\r\n5\r\n\r\nFamily Restaurant\r\n\r\nN\r\n\r\n{in\r\n\r\né\r\n\r\nDiass §\r\n\r\niH\r\n\r\nLl\r\n\r\nad\r\n\r\ny's\r\n\r\n#\r\n\r\n5)\r\n\r\n$2.9\r\n\r\nb-)\r\n\r\nax\r\n\r\nPPT\r\n\r\nota\r\n\r\nSu .8\r\n\r\n“\"\r\n\r\n*\r\n\r\nnr\r\n\r\nwv\r\n\r\nWe\r\n\r\nAAInt\r\n\r\nVill ov\r\n\r\n“harng\r\n\r\nwiv\r\n\r\nServer:\r\n\r\nTable No\r\n\r\nDheck No\r\n\r\na1\r\n\r\nAll\r\n\r\nvilew\r\n",
+  "status": "unreviewed_OCR_output"
+}

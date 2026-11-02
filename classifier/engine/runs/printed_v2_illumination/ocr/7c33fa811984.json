@@ -1,0 +1,27 @@
+{
+  "sample_id": "7c33fa811984",
+  "image_sha256": "9f576cd0d462b051a9e12bdb95348ee2c6c8bf0842c7426993eabb80ca67438a",
+  "views": {
+    "full": "ems s—\r\n— i i cs cossiid\r\n— 1 a 2 —\r\n7 1 ne PEPPER MEATBALL 78,500 =\r\n= 1 GREE 0 FORMANGGI PASTA 82,500 =\r\n=, GREEN TEA WITH CRUMBLE 56,000 =\r\npt SUBTTL INAL BREWED TEA 46,000 Ee\r\n7 hie Bk 15,660\r\n= 10% 27,868 |\r\np= a a eee tr mi Ae to a A ;\r\nTOTAL 304 ,326\r\n= PT tL Es Eb - or]\r\neR Le re Ee\r\na a I et. i Ta et Ey Ne Bae nA\r\nEE at - wa —r ER : a Tr ————\r\n2 -o —. = > of me ER at aa ol — 4\r\na re ET\r\ncpm GE rl eB ee BE —\r\n",
+    "top_-12": "Eo.\r\n\r\n.\r\n\r\nay,\r\n\r\nHR\r\n\r\nwy,\r\n\r\n©\r\n\r\nHn\r\n\r\na\r\n\r\nBy\r\n\r\naa\r\n\r\n=\r\n\r\n' =\r\n\r\n“ay\r\n\r\n3\r\n\r\n-\r\n\r\nPA\r\n\r\nor M\r\n\r\nBrig\r\n\r\nhtt\r\n\r\n~~\r\n\r\nhe\r\n\r\n“\r\n\r\nTR\r\n\r\n-\r\n\r\nha?\r\n\r\nye\r\n\r\nEy\r\n\r\na.\r\n\r\n\\3\r\n\r\nae,\r\n\r\ndF\r\n\r\ni\r\n\r\nere\r\n\r\niy\r\n\r\nsw\r\n\r\n~~\r\n\r\n-—\r\n\r\nng\r\n\r\n-~\r\n\r\n~~\r\n\r\n~~\r\n\r\n-—e\r\n\r\n~~\r\n\r\n~~\r\n\r\nPaoli\r\n\r\nha PO\r\n\r\nem\r\n\r\nan,\r\n\r\nEvidevey\r\n\r\n~5\r\n",
+    "top_0": "S—\r\n\r\name ce\r\n\r\n8\r\n\r\nST\r\n\r\nnt\r\n\r\n — -\r\n\r\nsins\r\n\r\nRa\r\n\r\n-\r\n\r\nid\r\n\r\nram p!\r\n\r\nwr\r\n\r\ngh\r\n\r\n[PY\r\n\r\ni,\r\n\r\nre;\r\n\r\ncg,\r\n\r\n~g\r\n\r\n-\r\n\r\ncm,\r\n\r\n2m\r\n\r\nTAC ani\r\n\r\n.\r\n\r\n~~\r\n\r\npS\r\n\r\nwi\r\n\r\naon\r\n\r\nNagy\r\n\r\npo\r\n\r\nne\r\n\r\nT.-\r\n\r\nar\r\n\r\nEas]\r\n\r\nPE\r\n\r\nore\r\n\r\nwerd\r\n\r\n|\r\n\r\nFo =\r\n\r\na\r\n\r\n— all\r\n\r\npd\r\n\r\nass,\r\n\r\npoi\r\n\r\nEL ie\r\n\r\n-—\r\n\r\n—— ean\r\n\r\n——\r\n",
+    "top_12": "oem\r\n\r\na\r\n\r\n[ S\r\n\r\ngern?\r\n\r\n~~\r\n\r\npr\r\n\r\neo\r\n\r\nSg\r\n\r\nEe\r\n\r\nJ\r\n\r\nB=\r\n\r\n£3\r\n\r\nvest\r\n\r\npe PH\r\n\r\npen\r\n\r\nopo——\r\n\r\nte\r\n\r\na\r\n\r\nwD xe, pg\r\n\r\nos\r\n\r\nrw So\r\n\r\nyou\r\n\r\npo\r\n\r\n-\r\n\r\non sav\r\n\r\nor.\r\n\r\noo”\r\n\r\nI\r\n\r\nwas BE\r\n\r\na\r\n\r\nA\r\n\r\n—\r\n\r\n—— ns\r\n\r\nnt tm ea\r\n\r\nrst\r\n\r\n——\r\n\r\na a\r\n\r\npr\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

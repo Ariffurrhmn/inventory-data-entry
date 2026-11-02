@@ -1,0 +1,15 @@
+{
+  "sample_id": "srd_1159-receipt",
+  "image_path": "Dataset\\intake\\2026-10-19\\expressexpense_srd\\images\\1159-receipt.jpg",
+  "image_sha256": "3f00a336baa60544516ad18c9f62289836fced83446abacfa652f9586ca066eb",
+  "full_text": "DT>248\r\n\r\nDrive Thru Total\r\n\r\nChange\r\n\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

@@ -1,0 +1,15 @@
+{
+  "sample_id": "srd_1026-receipt",
+  "image_path": "Dataset\\intake\\2026-10-19\\expressexpense_srd\\images\\1026-receipt.jpg",
+  "image_sha256": "ff9e140a19dd1915f3a329a11046cfb6ca7ddf82980fa8caf3289f0617d91547",
+  "full_text": "",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

@@ -1,0 +1,27 @@
+{
+  "sample_id": "company_5a30984a1e54d553",
+  "image_sha256": "0a3e002290864ab1f98d3abadd677a62c0662c9f9c67c98fc255ca730d659655",
+  "views": {
+    "full": "Boreal Components Co.\r\nPedal Power, Precision Built\r\n36 Industrial Pkwy - 80202 Denver, CO - USA\r\nNumber P0-2025-2895\r\nDate 2025-05-11\r\nDelivery date 2025-05-20\r\nAccount no. TRAININGOOO1\r\nRequested by Eric Kurjan\r\nPURC HASE ORDER Carrier Cargo Transport 5\r\nVENDOR DELIVER TO\r\nTraining Systems Boreal Components Co.\r\n6 Dancing Road 36 Industrial Pkwy\r\n98168 Burien, WA 80202 Denver, CO\r\nUnited States USA\r\n2) BC BY\r\nCB-2903 Chainring Bolts 3 $49.64 |] $148.92\r\nCN-6137 Chainring Nut 3 $44.32 |] $132.96\r\nCR-7833 Chainring 60 $28.70 = $1,722.00\r\nPAYMENT TERMS\r\nSubtotal $2,003.88\r\nNet 30 days\r\nPlease confirm this order and quote our PO number on all Ereight $20.03\r\ninvoices and delivery notes. Tax 8% $160.29\r\nTotal $2,214.26\r\nApproved by\r\nRide on, thanks for choosing Boreal Bank: Northern Trust Bank Boreal Components Co.\r\nComponents. Account: 8815694933 EIN 59-2005511\r\nRouting no.: 079558108\r\nPurchase Order P0-2025-2895 Page 1 / 1\r\n",
+    "top_-12": "Bore,\r\n\r\ndust,\r\n\r\n931 py,\r\n\r\nNe ts\r\n\r\n“151 ” vig\r\n\r\nver co\r\n\r\nuss\r\n\r\nNumpe, r\r\n\r\nDate\r\n\r\nPURCHp gE ORDER\r\n\r\nPo-2025\r\n\r\nVENDOR\r\n\r\n“Liver, da\r\n\r\n2895\r\n\r\n2925-05.13\r\n\r\nrain\r\n\r\nAccoyny\r\n\r\n6 Da\r\n\r\nStep\r\n\r\n2625.05.\r\n\r\n981s,\r\n\r\nNCing R\r\n\r\nOag\r\n\r\nques teg b\r\n\r\nCarpiq\r\n\r\nHINGgg,\r\n\r\nUnjtey + en, uy\r\n\r\nKurjap\r\n\r\nElTvgg 7\r\n\r\nCargq\r\n\r\nBorg\r\n\r\nPort\r\n\r\n36\r\n\r\n80205 > trial\r\n\r\nNts Co\r\n\r\nUsa\r\n\r\nNver\r\n",
+    "top_0": "oc]\r\n\r\nBoreal Components Co.\r\n\r\nPedal Power, Precision Built\r\n\r\n36 Industrial Pkwy\r\n\r\n80202 Denver, CO\r\n\r\nUSA\r\n\r\nNumber\r\n\r\nP0-2625-2895\r\n\r\nDate\r\n\r\n2025-05-11\r\n\r\nDelivery date\r\n\r\n2025-05-29\r\n\r\nAccount no.\r\n\r\nTRAININGOOO1\r\n\r\nRequested by\r\n\r\nEric Kurjan\r\n\r\nPURCHASE ORDER\r\n\r\nCarrier\r\n\r\nCargo Transport 5\r\n\r\nVENDOR\r\n\r\nDELIVER TO\r\n\r\nTraining Systems\r\n\r\nBoreal Components Co.\r\n\r\n6 Dancing Road\r\n\r\n36 Industrial Pkwy\r\n\r\n98168 Burien, WA\r\n\r\n80202 Denver, CO\r\n\r\nUnited States\r\n\r\nUSA\r\n",
+    "top_12": "s Co-\r\n\r\n530\r\n\r\nno BUL\r\n\r\nush\r\n\r\nore 1\r\n\r\npowe’s\r\n\r\n2895\r\n\r\ndat\r\n\r\na2 pe ners\r\n\r\nPO\r\n\r\n2025\r\n\r\n2025-95\"\r\n\r\n26 Tay\r\n\r\nStY\r\n\r\nwumoet\r\n\r\n2825\r\n\r\n05-29\r\n\r\npate\r\n\r\nARININGE®\r\n\r\ngelivery\r\n\r\njan\r\n\r\naccount\r\n\r\neric ue\r\n\r\nRregy\r\n\r\neste\r\n\r\n90 Transeo’ ®\r\n\r\ncarviel\r\n\r\nRDER\r\n\r\npELIY\r\n\r\nCo\r\n\r\npone?!\r\n\r\nURC\r\n\r\nASE ©\r\n\r\nred\r\n\r\nus cial oo\r\n\r\navers\r\n\r\ng02®\r\n\r\nUsk\r\n\r\nVENDOR\r\n\r\nstems\r\n\r\nraindf\r\n\r\no Rood\r\n\r\n Dancd\r\n\r\niets\r\n\r\n98168\r\n\r\nstates\r\n\r\nUnite\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

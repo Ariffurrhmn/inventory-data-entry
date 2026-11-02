@@ -1,0 +1,16 @@
+{
+  "sample_id": "4a87af5776ae",
+  "image_path": "services\\document_classifier\\data\\images\\4a87af5776ae.jpg",
+  "image_sha256": "4496f560ca1955143233604ddd4f0585617d47b0c1f4bd520e0048220f1a1547",
+  "full_text": "Suraiya Rahman P U RC HAS E\nORDER\n\nPurchase Order # 7\n\nBill To: Ship To:\nBillal Khan Rajib Hossain Date: Oct 9, 2026\nRequired By: Oct 10, 2026\nItem Rate Amount\nCeramic Mug 20 $2.80 $56.00\nLED Desk Lamp 10 $8.50 $85.00\nBackpack 5 $12.00 $60.00\nT-Shirt 10 $2.00 $20.00\nDenim Jeans 10 $15.00 $150.00\n\nSubtotal: $371.00\nTax (0.25%): $0.93\nTotal: $371.93\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\4a87af5776ae.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

@@ -1,0 +1,27 @@
+{
+  "sample_id": "6472ff0a74e9",
+  "image_sha256": "3bf6de0f37592e2e5e400a12f9ded6aeb2a074b13d26429e8440bbeb72117c19",
+  "views": {
+    "full": "Wal t ><\r\nalmart ><\r\n| Save money. Live better.\r\n\r\nMANAGER GREG BROWN\r\n( 936 ) 788 ~ 5400\r\nWAL-MART STORE # 400\r\nCONROE, TX\r\nST# 0400 OP# 00007298 TE# 91 TR# 07395\r\nMERCHANT# 439900590000400\r\nVISA ,\r\n¥x% CREDIT ISSUED xx\r\nGENERAL MDSE TOTAL 5.00-\r\nAPPROVAL # REFUND\r\nTERMINAL # WMT00000001\r\nLayaway ls back for Electronics,\r\nToys, and Jewelry. 10/11/11-12/16/11\r\n10/13/11 14:03:10\r\n¥% CUSTOMER COPY :\r\n",
+    "top_-12": "—.\r\n\r\n——\r\n\r\n——\r\n\r\nWai\r\n\r\nJ\r\n\r\nSave Mone, Live tt\r\n\r\nA\r\n\r\nANAGER GREG BRowy\r\n",
+    "top_0": "Walmart >,\r\n\r\nSave money. Live better.\r\n\r\nMANAGER GREG BROWN\r\n",
+    "top_12": "AT ><\r\n\r\naly)\r\n\r\nals.\r\n\r\ncave\r\n\r\nJGNPEER RE\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

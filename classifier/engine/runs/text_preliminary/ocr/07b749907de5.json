@@ -1,0 +1,16 @@
+{
+  "sample_id": "07b749907de5",
+  "image_path": "services\\document_classifier\\data\\images\\07b749907de5.jpg",
+  "image_sha256": "720744362e23597bb0b40dbfae73885bc3cb0c22a854852b5baa967396084145",
+  "full_text": "Packing Slip\n\nFrom\n\nCrimson&Co\n\n07 South Bishil Road\n1216\n\nBangladesh\n\nShip to\n\nOrder #1087\nSeptember 14, 2026\n\nOrder Details\n\nQty Item\n1 The Full Kit - 3 Piece Set-M/34/M\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\07b749907de5.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

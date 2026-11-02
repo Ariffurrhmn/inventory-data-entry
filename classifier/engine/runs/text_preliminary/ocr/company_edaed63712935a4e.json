@@ -1,0 +1,15 @@
+{
+  "sample_id": "company_edaed63712935a4e",
+  "image_path": "Dataset\\intake\\2026-10-19\\company_documents_v2\\images\\packing_slip\\edaed63712935a4e.jpg",
+  "image_sha256": "2d4231b0cbe31a4cd0aff9f459503bea10a0a6345e31da1bbde72fcf4e5516e3",
+  "full_text": "Harbor Velo Co.\r\nRide farther, live lighter with Harbor Velo.\r\n\r\n88 Elm Avenue\r\n\r\nPACKING cue\r\n\r\n80202 Denver, CO\r\n\r\n1) LI P Phone: (407) cn\r\n\r\nbilling@harborvelo.com\r\nwww.harborvelo.com\r\nEIN 75-6701454\r\n\r\nNUMBER DATE ORDER NO. CUSTOMER ID CARRIER\r\n\r\nDN25066413 February 21, S066413 AWO00019340 Xrq - Truck\r\n2025 Ground\r\n\r\nBILL TO\r\nRenee Dominguez\r\nHaberstr 57\r\n\r\n48001 Minster\r\n\r\nGermany\r\n\r\nPhone: 1 (11) 500 555-0169\r\n\r\nItem Description Uni Ordered Shipped\r\n\r\nBK-T44U-54 Touring-2000 Blue, 54 EA 1 1\r\nThe plush custom saddle keeps you riding all day, and there's\r\nplenty of space to add panniers and bike bags to the newly-\r\nredesigned carrier. This bike has stability when fully-loaded.\r\n\r\nCA-1098 AWC Logo Cap EA 1 1\r\nTraditional style with a flip-up brim; one-size fits all.\r\n\r\nPackages 1\r\n\r\nTotal weight 12.56 kg\r\n\r\nUnits on hand 2\r\nPacked by Received by\r\n\r\nThank you for riding with Harbor Velo Co.\r\nwww.harborvelo.com - billing@harborvelo.com - (407) 555-9878\r\n\r\nPacking Slip DN25066413 Pagel/1\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

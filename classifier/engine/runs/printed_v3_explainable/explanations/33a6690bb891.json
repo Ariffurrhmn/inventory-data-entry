@@ -1,0 +1,159 @@
+{
+  "sample_id": "33a6690bb891",
+  "actual_existing_label": "customer_copy",
+  "result": {
+    "decision_trace": {
+      "selected_component": "learned_fallback",
+      "heading_matches": [],
+      "ambiguous_heading": false,
+      "normalized_heading_evidence": null,
+      "learned_top_class": "receipt",
+      "learned_alternative_class": "customer_copy",
+      "learned_score_margin": 0.3144351657320731,
+      "scores_calibrated": false,
+      "rule": null,
+      "explanation_method": "Deterministic rule trace or exact n-gram contributions; transformers use fixed-model text omissions"
+    },
+    "label": "receipt",
+    "decision_source": "trained_classifier",
+    "heading_evidence": null,
+    "ambiguous_heading": false,
+    "statistical_label": "receipt",
+    "scores_kind": "statistical_fallback_scores",
+    "scores": {
+      "customer_copy": 0.20997304913647605,
+      "delivery_note": 0.09576243458912571,
+      "purchase_order": 0.16985630140584795,
+      "receipt": 0.5244082148685492
+    },
+    "scores_calibrated": false,
+    "ocr_empty": false,
+    "text_characters": 257,
+    "input_origin": "provided_text",
+    "ocr_text": "| }\r\n° -— PY |\r\nKarnaphuli Traders (pustoMER £2\r\n1 i am— |\r\n. | Invoice No: INV-3937. :\r\n. | Date: 21/07/2026.\r\n: |\r\n. | ill To / Customer: Bismillah Store, Tongi, Gazipur. :\r\nJ }\r\nJ |}\r\nNC EN ET\r\n|\r\nI\r\n}\r\nHE Rr\r\n|\r\n|\r\n|\r\n|\r\n}\r\n| 2. ped —\r\nAuthorised Signature\r\n{\r\n|\r\n|\r\ni p ~\r\n1\r\nI\r\ni\r\n",
+    "heading_ocr_text": "—\r\n\r\nKarnaphuli Traders\r\n\r\nHER OP)\r\n\r\ncusto\r\n\r\nInvoice\r\n\r\nInvoice No: INV-3937.\r\n\r\nDate: 21/07/2026.\r\n\r\nBill To / Customer: Bismillah Store, Tongi, Gazipur.\r\n\r\ntem [ov | mateo | amen |\r\n\r\npeg lc Tww T ww |\r\n\r\n7 5\r\n\r\nBiscuits carton\r\n\r\n|» | nom | masa |\r\n\r\nmE\r\n\r\n2 | mm | now |\r\n\r\n3\r\n\r\n-\r\n\r\na\r\n\r\nis\r\n\r\nA\r\n\r\nTk 100\r\n\r\nTk 1,000\r\n\r\nol\r\n\r\nS2\r\n\r\ni\r\n\r\n_—\r\n\r\n-\r\n\r\ni\r\n\r\n38,250\r\n\r\nfe\r\n\r\n36\r\n\r\n-\r\n\r\nct\r\n\r\nol\r\n\r\ni\r\n\r\n=\r\n\r\n85\r\n\r\ni\r\n\r\ni\r\n\r\nE\r\n\r\nat\r\n\r\ni\r\n\r\n-\r\n\r\noe\r\n\r\nGe\r\n\r\n2\r\n\r\nhs\r\n\r\nor\r\n\fKarnaphuli Traders (Eon) ;\r\n1 m— |\r\n. | Invoice No: INV-3937.\r\n. | Date: 21/07/2026. \\\r\n. | Bio / Customer: Bismillah Store, Tongi, Gazipur. :\r\n\n|\r\n| phd —\r\n: Authorised Signature\r\n1\r\n| §\r\n1\r\n}\r\n|\r\n1\r\n\f| }\r\n° -— PY |\r\nKarnaphuli Traders (pustoMER £2\r\n1 i am— |\r\n. | Invoice No: INV-3937. :\r\n. | Date: 21/07/2026.\r\n: |\r\n. | ill To / Customer: Bismillah Store, Tongi, Gazipur. :\r\nJ }\r\nJ |}\r\nNC EN ET\r\n|\r\nI\r\n}\r\nHE Rr\r\n|\r\n|\r\n|\r\n|\r\n}\r\n| 2. ped —\r\nAuthorised Signature\r\n{\r\n|\r\n|\r\ni p ~\r\n1\r\nI\r\ni\r\n\ful,\r\n\r\nIn\r\n\r\nTrag,\r\n\r\ni\r\n\r\nNv-393,\r\n\r\n[cusTomER MER COPY]\r\n\r\n21/p;\r\n\r\n72\r\n\r\n/ Custome,,\r\n\r\nBismijy,\r\n\r\nRate (Tk)\r\n\r\na\r\n\fyo\r\n\r\nKarnaphuli Traders\r\n\r\nSER OO\r\n\r\nis\r\n\r\nInvoice\r\n\r\nInvoice No: INV-3937.\r\n\r\nDate: 21/07/2026.\r\n\r\nBiH To / Customer: Bismillah Store, Tongi, Gazipur.\r\n\r\nres [wm | wer |\r\n\fyO)\r\n\r\npt\r\n\r\n7)\r\n\r\n<\\\r\n\r\n©\r\n\r\nTrade\r\n\r\nKarnaphutt\r\n\r\n\\nvoice\r\n\r\n3937\r\n\r\nvo\r\n\r\nNo WV\r\n\r\n21071292\r\n\r\nGazipws\r\n\r\nte (TW)\r\n\r\npiv /C\r\n\r\natta 268\r\n",
+    "validation_only": true,
+    "run": "printed_v3_explainable",
+    "model": "classifier",
+    "backend": "complement_nb",
+    "model_sha256": "bd1dba65eb03c3f2282697a502400794ce754543c5e16150625b73cea62ce0bd",
+    "scope_version": "printed-only-v1",
+    "ocr_policy": "illumination",
+    "heading_rules": true,
+    "edge_recovery": true,
+    "classes": [
+      "purchase_order",
+      "receipt",
+      "delivery_note",
+      "customer_copy"
+    ],
+    "experimental": true,
+    "heading_module": "heading_rules_v3",
+    "illumination_recovery": true
+  },
+  "explanation": {
+    "label": "receipt",
+    "decision_source": "trained_classifier",
+    "model_run": "printed_v3_explainable",
+    "scores_calibrated": false,
+    "method": "exact_ngram_log_score_contributions",
+    "component": "learned_fallback_only",
+    "alternative_class": "customer_copy",
+    "logit_margin": 0.9152912320025166,
+    "intercept_contribution": 0.0,
+    "sum_feature_contributions": 0.9152912320025158,
+    "reconstructed_logit_margin": 0.9152912320025158,
+    "reconstruction_error": 7.771561172376096e-16,
+    "supporting_features": [
+      {
+        "feature": "rr",
+        "contribution": 0.354351661827901,
+        "feature_value": 0.23637352313871215
+      },
+      {
+        "feature": "py",
+        "contribution": 0.26455119260337684,
+        "feature_value": 0.2779805239454831
+      },
+      {
+        "feature": "et",
+        "contribution": 0.24333730062068668,
+        "feature_value": 0.23637352313871215
+      },
+      {
+        "feature": "am",
+        "contribution": 0.1926309335863656,
+        "feature_value": 0.24438890705208194
+      },
+      {
+        "feature": "he",
+        "contribution": 0.1696883946415133,
+        "feature_value": 0.21725795141141402
+      },
+      {
+        "feature": "en",
+        "contribution": 0.13513913200501282,
+        "feature_value": 0.2072303272209213
+      },
+      {
+        "feature": "21",
+        "contribution": 0.10216560407904658,
+        "feature_value": 0.17844337100587496
+      },
+      {
+        "feature": "07",
+        "contribution": 0.09385004558291553,
+        "feature_value": 0.21725795141141402
+      },
+      {
+        "feature": "en et",
+        "contribution": 0.06788550916007476,
+        "feature_value": 0.3195875247522541
+      },
+      {
+        "feature": "invoice",
+        "contribution": 0.05980487418161689,
+        "feature_value": 0.2779805239454831
+      }
+    ],
+    "opposing_features": [
+      {
+        "feature": "signature",
+        "contribution": -0.27260250812952974,
+        "feature_value": 0.3195875247522541
+      },
+      {
+        "feature": "inv",
+        "contribution": -0.272226490477189,
+        "feature_value": 0.3195875247522541
+      },
+      {
+        "feature": "customer",
+        "contribution": -0.05906237388420557,
+        "feature_value": 0.15906850637547412
+      },
+      {
+        "feature": "gazipur",
+        "contribution": -0.04791053966983266,
+        "feature_value": 0.22930345346661132
+      },
+      {
+        "feature": "2026",
+        "contribution": -0.030523851134975324,
+        "feature_value": 0.14608945185306932
+      },
+      {
+        "feature": "store",
+        "contribution": -0.030285934361903067,
+        "feature_value": 0.2536419887060472
+      }
+    ],
+    "active_feature_count": 19,
+    "interpretation": "Feature value times the learned coefficient difference exactly reconstructs the target-versus-alternative logit margin, including the intercept. Contributions are not probability percentages.",
+    "limitations": [
+      "Correlated word/character n-grams can share evidence.",
+      "A learned association is not proof of document type or real-world causation.",
+      "This explains the learned fallback only; any heading rules are held fixed."
+    ]
+  }
+}

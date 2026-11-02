@@ -1,0 +1,13 @@
+{
+  "sample_id": "3223c78f7136",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "d862bb486ab1aaf3736a58a12b7a1aa31710f5c1c9d9d6ab93edd94b8da0b707",
+  "full_text": "Yuu\r\n\r\nRi\r\n\r\nRANE\r\n\r\nwe\r\n\r\niho\r\n\r\nie\r\n\r\npe\r\n\r\nYi\r\n\r\nre —— ——\r\n\r\n21,000\r\n\r\n--\r\n\r\n()\r\n\r\n53\r\n\r\n39\r\n",
+  "status": "unreviewed_OCR_output"
+}

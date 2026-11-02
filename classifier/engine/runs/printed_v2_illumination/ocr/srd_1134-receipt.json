@@ -1,0 +1,27 @@
+{
+  "sample_id": "srd_1134-receipt",
+  "image_sha256": "17343b6eed229cdaf42e094bf7f06aa7c9f0f7757c6329a4291e75169fc5ebf8",
+  "views": {
+    "full": "SE Ear\r\na i ———\r\n—_— i ~~ = ~~ —— a\r\n— ro T —===\r\n\r\nmi = Restaurant #C160014 | == LN a ~\r\n— 36880 Hempstead Turnpike Bas SX\r\n— Levittown Eee\r\na (516)735-3508 B= —_——\r\nh— : h —_—— ERD\r\n\r\name Ticket #zs8s84 —\r\nmma 4 2016-07-08 9:16 PM Te —_——.\r\nSr ya C160014 2 117 2884 = —\r\ni ~~ == Cashier: TIANA Boise —\r\na — Family Fill Up 20.00 eh\r\namelie Lrg Coleslaw E ——=\r\n= Lrg Mash/ Gvy Ee te =\r\na Lrg Mash Only ET\r\n: 4 Biscuit Eee\r\n# = Be\r\npe DRIVE THRU $21.73 Ea —==\r\n- —_— ET\r\nETender Credit IE ET\r\n4 Change $0.00 ——u\r\nA CHARGE DETAIL:SALE Zoe A\r\n- % a - Re 3 y x alain » - 27 : = or\r\n~. pA \\ Li i ~ . ig\r\n",
+    "top_-12": "\\.\r\n\r\ni.\r\n\r\n“=\r\n\r\n~~\r\n\r\nPe\r\n\r\n-\r\n\r\n-\r\n\r\nThea\r\n\r\n~~\r\n\r\n~\r\n\r\nKE\r\n\r\nxX ac\r\n\r\nDN,\r\n\r\nNS\r\n\r\nSlaurg,,,\r\n\r\nSa\r\n\r\nNC\r\n\r\nY0n te\r\n\r\nAD\r\n\r\nClgug,\r\n\r\n--\r\n\r\n~\r\n\r\n~~\r\n\r\n~~\r\n\r\n~~\r\n\r\nRs\r\n\r\n~~\r\n\r\nSe\r\n\r\n~ =e\r\n\r\nRT NN\r\n\r\n<=\r\n\r\n~™\r\n\r\na NE\r\n",
+    "top_0": "A.\r\n\r\n~~,\r\n\r\n~~.\r\n\r\nSey\r\n\r\nra\r\n\r\na teria, Sa 3 Se Rama\r\n\r\n-—\r\n\r\n=\r\n\r\n~~\r\n\r\n-— Ee\r\n\r\n-T~\r\n\r\nKFC\r\n\r\n- =\r\n\r\na=\r\n\r\n~~\r\n\r\n-—\r\n\r\nRestaurant\r\n\r\nHLI1BOO14\r\n\r\n—\r\n\r\n—_ ~~ Tee\r\n\r\n—\r\n\r\n~~\r\n\r\nAON\r\n\r\n4\r\n\r\n~.\r\n\r\nT\r\n\r\nSh\r\n",
+    "top_12": "LL\r\n\r\na\r\n\r\nA.\r\n\r\nAS\r\n\r\n. Raat tamand\r\n\r\nA\r\n\r\nRi SRP)\r\n\r\n“y\r\n\r\nEr——\r\n\r\ncll\r\n\r\nTe\r\n\r\nI ne.\r\n\r\n=\r\n\r\na tetas\r\n\r\nPR\r\n\r\n—\r\n\r\n-\r\n\r\n.-\r\n\r\nho IN\r\n\r\n-\r\n\r\n—\r\n\r\n-—\r\n\r\n-——\r\n\r\n—\r\n\r\n--\r\n\r\n[Ey\r\n\r\na\r\n\r\n—\r\n\r\nja.\r\n\r\np—\r\n\r\n=~\r\n\r\n—\r\n\r\nSS\r\n\r\nWF\r\n\r\nRTL\r\n\r\nwant\r\n\r\nResta\r\n\r\n7\r\n\r\n—\r\n\r\name HT\r\n\r\n—\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

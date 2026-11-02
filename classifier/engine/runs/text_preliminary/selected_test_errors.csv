@@ -1,0 +1,12 @@
+scenario,split,sample_id,expected,predicted,correct,max_score,ocr_empty,source_path
+original_ocr,test,be13e587ee89,receipt,delivery_note,False,0.2952022278703953,False,Dataset/Receipt/cord-train-0140.jpg
+original_ocr,test,450255bc884a,delivery_note,purchase_order,False,0.456516612290853,False,Dataset/Delivery_Note/packing-slip-1064.png
+original_ocr,test,4784d328f244,delivery_note,purchase_order,False,0.41408970643348675,False,Dataset/Delivery_Note/packing-slip-1079.png
+original_ocr,test,07b749907de5,delivery_note,purchase_order,False,0.44969516270254695,False,Dataset/Delivery_Note/packing-slip-1087.png
+original_ocr,test,0737a6ca5674,delivery_note,purchase_order,False,0.40824076195126163,False,Dataset/Delivery_Note/packing-slip-1094.png
+original_ocr,test,d6174f39143f,delivery_note,purchase_order,False,0.41583619231754054,False,Dataset/Delivery_Note/packing-slip-1111.png
+original_ocr,test,e18612fb393c,delivery_note,purchase_order,False,0.31750139939663663,False,Dataset/Dataset-2/Purchase order/IMG_0966.HEIC
+original_ocr,test,6ab38289be74,delivery_note,receipt,False,0.30105234917391654,False,Dataset/Dataset-2/Purchase order/IMG_0967.HEIC
+original_ocr,test,adab8f169fec,delivery_note,receipt,False,0.2878504752448593,False,Dataset/Dataset-2/Purchase order/IMG_0968.HEIC
+original_ocr,test,6b6a915859a2,delivery_note,receipt,False,0.31513326621656607,False,Dataset/Dataset-2/Purchase order/IMG_0970.HEIC
+original_ocr,test,c4191b0e458a,purchase_order,customer_copy,False,0.36997401326621027,False,Dataset/Dataset-2/Purchase order/IMG_0982.HEIC

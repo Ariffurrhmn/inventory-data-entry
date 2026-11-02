@@ -1,0 +1,25 @@
+{
+  "selected": "classifier",
+  "backend": "complement_nb",
+  "ocr_policy": "illumination",
+  "illumination_recovery": true,
+  "illumination_code_sha256": "0d084cdf427bc9b2ce0533d0ea51f4e92b5a8e9ff21ed89a3b521c5856923bcc",
+  "heading_rules": true,
+  "heading_module": "heading_rules_v3",
+  "heading_rule_sha256": "97a5277585a9d6146844c91041ecd74457fd708ade065fad350ab7236d156827",
+  "rule_dependencies": {
+    "heading_rules.py": "f764ebc96771d23a2f0c689efaa5c105d04d19b8b24eb67ab60464ea9118ac4f",
+    "heading_rules_v2.py": "ca15a69bb18ec8d6b16ec0d69ba5f105eaa0b14b5eec277d1c66b30d618165e3"
+  },
+  "edge_recovery": true,
+  "edge_code_sha256": "153fac0961e85630b54ddb9d394b078dc5f9153ea476880f793662327d976449",
+  "scope_version": "printed-only-v1",
+  "validation_accuracy": 0.92,
+  "validation_macro_f1": 0.9211309523809523,
+  "adaptive_validation": true,
+  "new_test_result": null,
+  "historical_test_inputs_opened": 0,
+  "source_run": "printed_v3_sections",
+  "training_group_cv_run": "printed_v2_groupcv",
+  "explanation_code_sha256": "b389014044c8b741f76e209dbe98507d4bcd1faadbd35d6446de9aaec758c47a"
+}

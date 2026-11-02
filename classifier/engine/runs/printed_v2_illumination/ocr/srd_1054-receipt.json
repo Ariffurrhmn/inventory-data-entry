@@ -1,0 +1,27 @@
+{
+  "sample_id": "srd_1054-receipt",
+  "image_sha256": "5882295058e47aaf30853204e7de9e56c18752aab7fea7378f1af7248af148cc",
+  "views": {
+    "full": "BIG JO'S\r\n1955 BROADWAY Jan 25, 2018\r\nSANTA MONICA, CA 90404 11:47 AM\r\n(310) 828-3191\r\nwww.bigjosburgers.com\r\nJ\r\nTicket: Shirley Cash\r\nReceipt QIXxi\r\nBE PICKUP\r\nHB $4.00\r\nRegular Price\r\nFrench Fries x 2 $5.00\r\n($2.50 each)\r\nTurkey Burger $8.85\r\nCombo\r\nHB $8.35\r\nCombo, Grilled Onion ($0.75)\r\nCB x2 $15.70\r\n($7.85 each)\r\nCombo\r\nCB $5.00\r\n\r\nRegular Price, Grilled Onion ($0.75)\r\n\r\nChili Fries $4.35\r\nSubtotal $51.25\r\nSales Tax $5.25\r\nTotal $56.50\r\n\r\nCash $60.00\r\nChange $3.50\r\n",
+    "top_-12": "8/c Jo\r\n\r\n's\r\n\r\n195\r\n\r\nSA\r\n\r\nADw 4,\r\n\r\n(310) 82.5\r\n\r\n+ CA 90404\r\n\r\n25 201g\r\n\r\nWw. \"Yosbyrge,. co\r\n\r\n11:47 apg\r\n\r\nIcket: gy, Ite\r\n\r\n€ceipt Ql\r\n\r\nCash\r\n\r\n| Pickup\r\n\r\nHs\r\n\r\nular Pri\r\n\r\nFre\r\n\r\n$4.09\r\n\r\n2.50 ¢\r\n\r\n$5.00\r\n\r\nLarfe,, a, _—\r\n\r\nAS\r\n",
+    "top_0": "BIG JO'S\r\n\r\nJan 25, 2018\r\n\r\n1955 BROADWAY\r\n\r\nSANTA MONICA, CA 90404\r\n\r\n11:47 AM\r\n\r\n(310) 828-3191\r\n\r\nwww.bigjosburgers.com\r\n\r\n5\r\n\r\nCash\r\n\r\nTicket: Shirley\r\n\r\nJ\r\n\r\nPICKUP\r\n\r\nHB\r\n\r\n$4.00\r\n\r\nRegular Price\r\n\r\nFrench Fries x 2\r\n\r\n$5.00\r\n\r\n($2.50 each)\r\n\r\nTurkev Rurnor\r\n\r\nLR RK\r\n",
+    "top_12": "5 oe\r\n\r\n'S\r\n\r\nJan\r\n\r\n1:47\r\n\r\nFAY\r\n\r\nBiG J\r\n\r\n4955 BR\r\n\r\nNICA:\r\n\r\ncn 9040?\r\n\r\nsAN\r\n\r\n23\r\n\r\n¢s.co™\r\n\r\n(310 2\r\n\r\nur\r\n\r\ncas®\r\n\r\nTick\r\n\r\nrece?\r\n\r\npickup\r\n\r\n$4.00\r\n\r\n$5.00\r\n\r\nrice\r\n\r\ngulf P\r\n\r\nFren\r\n\r\ncn Fr 7\r\n\r\naR A\r\n\r\n(52.50 ©%\r\n\r\nRurne\r\n\r\nTur uy\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

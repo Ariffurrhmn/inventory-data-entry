@@ -1,0 +1,16 @@
+{
+  "sample_id": "f06d5208a0a0",
+  "image_path": "services\\document_classifier\\data\\images\\f06d5208a0a0.jpg",
+  "image_sha256": "b1af325f3271380daab513871fa7485bf22479736b2d1624ff7d17fef5cd1c15",
+  "full_text": "DELIVERY CHALLAN\n\nABC Company\nChallan no.: DC- 006 Date: 2026-09-04 Place of supply: Maharashtra\n\nSELLER CONSIGNEE\nABC Company Hasna\nShop 12, Market Road, City — 400001 House- 36, Road- 7, Maharashtra\n\nVehicle no.: MH 01 AB 1234 Purpose: Job work\n\n# Description HSN/SAC Qty Rate Taxable GST %\n\n1 Ballpoint pen 9056 200.00 %20.00 %4,000.00 5%\n\n2 A4Notebook 3546 30.00 2120.00 ¥3,600.00 4%\nTaxable value %7,600.00\nCGST 172.00\nSGST 172.00\nGrand total ¥7,944.00\n\nAmount in words: Seven Thousand Nine Hundred Forty Four Rupees Only\n\nNotes: Goods sent for the purpose stated above. Not a sale.\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\f06d5208a0a0.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

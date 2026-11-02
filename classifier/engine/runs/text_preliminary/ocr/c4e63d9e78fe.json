@@ -1,0 +1,16 @@
+{
+  "sample_id": "c4e63d9e78fe",
+  "image_path": "services\\document_classifier\\data\\images\\c4e63d9e78fe.jpg",
+  "image_sha256": "86e2daf05d04cc0083acafc796b859a2fdfa69232042bb3e75ff13b991299f12",
+  "full_text": "ALMOND CHOCO CREAM CHEESE\n\n28 000 28.000\nCASH IDR 50.000\n\nCHANGE DUE\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\c4e63d9e78fe.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

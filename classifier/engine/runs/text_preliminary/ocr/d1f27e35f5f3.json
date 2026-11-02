@@ -1,0 +1,16 @@
+{
+  "sample_id": "d1f27e35f5f3",
+  "image_path": "services\\document_classifier\\data\\images\\d1f27e35f5f3.jpg",
+  "image_sha256": "8a3990b27fca48d7aae80080f16aeaef73e5efb30800deb439e0c2f7a23227d8",
+  "full_text": "**+ CREDIT CARD VOUCHER +#+\nANY RESTAURANT\nANYWHE RE\n\n(69) 69696969\nDATI 02/02/2014\nTIME 71:13\nCARD TYPt MC\nACCT XXXX XXXX XXXX 1111\nTRANS KEY HYU8789798234\nAUTH CODE 12345\nEXP DATE XX/ XX\nCHECK 1111\nTABLE 11/11\nERVI 34 MONIKA\n\n$1969 69\n\nolgnature\n\nCustomer Copy\n\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\d1f27e35f5f3.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

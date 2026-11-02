@@ -1,0 +1,79 @@
+{
+  "accuracy": 0.4642857142857143,
+  "macro_f1": 0.48344017094017094,
+  "classes": [
+    "purchase_order",
+    "receipt",
+    "delivery_note",
+    "customer_copy"
+  ],
+  "classification_report": {
+    "purchase_order": {
+      "precision": 0.2222222222222222,
+      "recall": 0.2857142857142857,
+      "f1-score": 0.25,
+      "support": 7.0
+    },
+    "receipt": {
+      "precision": 0.75,
+      "recall": 0.6,
+      "f1-score": 0.6666666666666666,
+      "support": 5.0
+    },
+    "delivery_note": {
+      "precision": 1.0,
+      "recall": 0.3,
+      "f1-score": 0.46153846153846156,
+      "support": 10.0
+    },
+    "customer_copy": {
+      "precision": 0.4166666666666667,
+      "recall": 0.8333333333333334,
+      "f1-score": 0.5555555555555556,
+      "support": 6.0
+    },
+    "accuracy": 0.4642857142857143,
+    "macro avg": {
+      "precision": 0.5972222222222222,
+      "recall": 0.5047619047619047,
+      "f1-score": 0.48344017094017094,
+      "support": 28.0
+    },
+    "weighted avg": {
+      "precision": 0.6359126984126985,
+      "recall": 0.4642857142857143,
+      "f1-score": 0.46543040293040294,
+      "support": 28.0
+    }
+  },
+  "confusion_matrix": [
+    [
+      2,
+      0,
+      0,
+      5
+    ],
+    [
+      0,
+      3,
+      0,
+      2
+    ],
+    [
+      7,
+      0,
+      3,
+      0
+    ],
+    [
+      0,
+      1,
+      0,
+      5
+    ]
+  ],
+  "test_images": 28,
+  "seconds": 2.4971818923950195,
+  "limitation": "Small mixed-origin group holdout, including photographed synthetic documents. Not an estimate of real-shop accuracy.",
+  "score_note": "Softmax scores are uncalibrated."
+}

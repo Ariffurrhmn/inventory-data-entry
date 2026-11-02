@@ -1,0 +1,15 @@
+{
+  "sample_id": "srd_1173-receipt",
+  "image_path": "Dataset\\intake\\2026-10-19\\expressexpense_srd\\images\\1173-receipt.jpg",
+  "image_sha256": "b5a94088b57ef80c091e59584e26eef273f554f4fbde778c8bea1acf957c6e2f",
+  "full_text": "ab le QOH\r\n\r\n4\r\nSI 9 PM.\r\n\r\nost\r\nQuan [Descr 1 t Ce s\r\n\r\nI Bottled Water “82. 45\r\n1 Add Pollo Taco $4.95\r\nAdd Carnitas Taco $4.95\r\nSour Cream $1.25\r\nChihuanua Cheese $1.25\r\n\r\nNet Total: i 85\r\n\r\nIL Sales $1.52\r\n\r\nMPEA Tax 2 15\r\nRestaurant\r\n\r\n1\r\n1\r\n1\r\n\r\nFood: $12.40\r\nBeverage: $2.45\r\n\r\nnN\r\nA Robinson Hill Company\r\n\r\n[t's The ExpeRHience That Counts!\r\nlel] us about your visit!\r\n\r\nwd robLnsonhi | Lusa, con/guest =Survey\r\n\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

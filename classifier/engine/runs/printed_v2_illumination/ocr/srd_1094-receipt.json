@@ -1,0 +1,27 @@
+{
+  "sample_id": "srd_1094-receipt",
+  "image_sha256": "2a937a6cd8be5cc207df77664181eef9987237f007d2c346f4a593873fbafa18",
+  "views": {
+    "full": "Lomad ¢ ?\r\nCi)\r\nal «\r\nPOKEATERY\r\n=\r\n. Pokeatery cv\r\nAQ 18911 Lake Chabot December 29 01g\r\n\\¥ Roaq 2:01 Pm\r\n; d Castro Valley, CA Ram elle\r\n1 94546\r\nAuthorization: 06007 :\r\nCHASE vs, 4\r\nyd AID AQ gg 000003 10 10 !\r\nPoke Boy $13.50 5\r\nRegular, Avocado ($1.00) :\r\n4 Vi Rh 5 = : a\r\n; 4 Subtotal $13.50\r\n/ : Castro Valley Syjes Tax $1.25 = =\r\nTip $148 gers =\r\n\\ Total $16.23 E ~\r\n23 —\r\nVisa 0642 (Chip) $16 | 2 2\r\n",
+    "top_-12": "a,\r\n\r\n{1\r\n\r\nsf\r\n\r\nwr\r\n\r\nAY\r\n\r\nors Te\r\n\r\n2\r\n\r\nA rEg,\r\n\r\nStro lay,\r\n\r\nOe, Mbe, 29 2070\r\n\r\n2 4} By,\r\n",
+    "top_0": "251\r\n\r\nC1 1]\r\n\r\nposi ATER TY\r\n\r\nPokeatery cy\r\n\r\n18911 Lake Chabot\r\n\r\nNA\r\n\r\nOad\r\n\r\nDecember 29, 201g\r\n\r\nCastro Vallaw, ~a\r\n\r\n2:01 Pas\r\n",
+    "top_12": "w—.—\r\n\r\nCo\r\n\r\nJapa\r\n\r\ni)\r\n\r\nEEA\r\n\r\np0®\r\n\r\n{\r\n\r\npokeatery CV\r\n\r\npecemb\r\n\r\ner 29, 2018\r\n\r\n18911 Lake Chabot\r\n\r\n01 PM\r\n\r\nRoad\r\n\r\nCastro Valier\r\n\r\nNON\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

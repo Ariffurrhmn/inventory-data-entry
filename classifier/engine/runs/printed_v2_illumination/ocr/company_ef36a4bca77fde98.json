@@ -1,0 +1,27 @@
+{
+  "sample_id": "company_ef36a4bca77fde98",
+  "image_sha256": "b414a46cdcd984e978a567fefb5c47042d5f7d8e69b4e0a864ea9e0fc6e4b3b4",
+  "views": {
+    "full": "Number DS-BL-64664\r\nDelta Sports & Co. Ltd\r\nRide further, ride stronger Dae January 26, 2025\r\n464 High Street Order no. S064664\r\nBS1 4DJ Bristol Customer ID AW00025081\r\nUnited Kingdom Carrier Xrq - Truck Ground\r\nPhone: +44 20 6440622\r\nbilling@deltasports.co.uk\r\nwww.deltasports.co.uk\r\nVAT GB531255379\r\nBILL TO\r\nMelanie Morris\r\n8042 Dent Way\r\n94536 Fremont, CA\r\nUnited States\r\nPhone: 135-555-0115\r\nItem Description Ordered Shipped\r\nBK-T18Y-44 Touring-3000 Yellow, 44 ul 1\r\nHL-U509 Sport-100 Helmet, Black 1 1\r\nPackages 1\r\nTotal weight 13.05 kg\r\nUnits on hand 2\r\nNOTES\r\nFrame warranty: 2 years; components covered per manufacturer guidelines.\r\nPacked by Received by\r\nKeep pedalling, we've got you covered.\r\nDelta Sports & Co. Ltd - 464 High Street - BS1 4DJ Bristol - United Kingdom - VAT GB531255379\r\nPacking Slip DS-BL-64664 Pagel/1\r\n",
+    "top_-12": "Defy\r\n\r\nRe fry, “\r\n\r\n0. Lig\r\n\r\nOnge,\r\n\r\nBs\r\n\r\n9h Stree;\r\n\r\nPAC\r\n\r\nited\r\n\r\nSto}\r\n\r\nhoy\r\n\r\nNgo,\r\n\r\nNumpg,\r\n\r\nING\r\n\r\nDate\r\n\r\nbillin, @\r\n\r\n0644p\r\n\r\n622\r\n\r\nOS-BL.g45\r\n\r\nSLIp\r\n\r\naSports,\r\n\r\nOrga, n\r\n\r\ntasp\r\n\r\nCo.\r\n\r\nhuary 5\r\n\r\n6 2025\r\n\r\nVig GB\r\n\r\nort; CO. yk\r\n\r\nUstome, a)\r\n\r\nS0646g4\r\n\r\nArtigr\r\n\r\n000250,\r\n\r\nBi To\r\n\r\n= Try, Groy\r\n\r\nMejy, ie\r\n\r\nMori\r\n\r\n94536 ro! Way\r\n\r\nont, CA\r\n\r\nniteq\r\n\r\nhone 135.555 011\r\n\r\nlem\r\n\r\n©SCriptio\r\n\r\nOrderey\r\n\r\nShippey\r\n",
+    "top_0": "PACKING SLIP\r\n\r\nNumber\r\n\r\nDS-BL-64664\r\n\r\nDelta Sports & Co. Ltd\r\n\r\nDate\r\n\r\nJanuary 26, 2025\r\n\r\nRide further, ride stronger\r\n\r\nOrder no.\r\n\r\n5064664\r\n\r\n464 High Street\r\n\r\nBS1 4DJ Bristol\r\n\r\nCustomer ID\r\n\r\nAW00025081\r\n\r\nUnited Kingdom\r\n\r\nCarrier\r\n\r\nXrq - Truck Ground\r\n\r\nPhone: +44 20 6440622\r\n\r\nbilling@deltasports.co.uk\r\n\r\nwww.deltasports.co.uk\r\n\r\nVAT GB531255379\r\n\r\nBILL TO\r\n\r\nMelanie Morris\r\n\r\n8042 Dent Way\r\n\r\n94536 Fremont, CA\r\n\r\nUnited States\r\n\r\nPhone: 135-555-0115\r\n\r\nItem\r\n\r\nDescription\r\n\r\nOrdered\r\n\r\nShipped\r\n",
+    "top_12": "11?\r\n\r\nING S\r\n\r\naL-6a68%\r\n\r\nPAC\r\n\r\n2025\r\n\r\nHurmoet\r\n\r\nJanuary 2\r\n\r\n56%\r\n\r\nDale\r\n\r\noO (der no-\r\n\r\n0002508\r\n\r\nK ground\r\n\r\ncustome\r\n\r\n~ Truc!\r\n\r\nco. WY\r\n\r\ncarrier\r\n\r\n11a. 5P\r\n\r\nid strom\r\n\r\nge!\r\n\r\nride fu\r\n\r\npn See\r\n\r\n38st!\r\n\r\nunited\r\n\r\nKingd\r\n\r\n440622\r\n\r\ncouk\r\n\r\npho\r\n\r\n5D!\r\n\r\npiting\r\n\r\nuk\r\n\r\nports\r\n\r\n379\r\n\r\nrw 09\r\n\r\n5317\r\n\r\nI GP\r\n\r\nsnipped\r\n\r\nBiLb\r\n\r\nthet\r\n\r\naie Mort\r\n\r\norder\r\n\r\npent W y\r\n\r\ngremonts\r\n\r\nAD\r\n\r\nunited\r\n\r\n555 0115\r\n\r\nphone\r\n\r\npest\r\n\r\nprion\r\n\r\ntert\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

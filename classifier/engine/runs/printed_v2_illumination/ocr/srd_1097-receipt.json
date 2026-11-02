@@ -1,0 +1,27 @@
+{
+  "sample_id": "srd_1097-receipt",
+  "image_sha256": "60268709424d114136b1193186d8265a9072f96da1a96167e8bafaa15ece4121",
+  "views": {
+    "full": "0 LOCO\r\nEL POLGRANT 5451\r\n7519 S, ATLANTIC AVE.\r\nCUDAHY ,CA 90201 i\r\n323-560-0758\r\n257 LIDIA H ;\r\nhk 1924 Junz8'17 05:36P Gst 0,\r\nDrive Thru\r\n1 Burrito Cmb 8.28\r\nChk Ranchero Bur\r\nADD\r\nAvo Slcs\r\nInd Chips\r\nSM DRINK\r\nCoke\r\n2 Bur-BRC @ 1.89 3.78\r\nCash 13.25\r\nFood 12.06\r\nTax 1.06\r\nPayment 13.12\r\nChange Due 0.13\r\nlz S257 Check Closed-----------\r\ncemmmmm===JUN28 17 05:38PH---=eee ae\r\nYour Order: 1924\r\n",
+    "top_-12": "EL\r\n\r\nOCcgo\r\n\r\nRESTAURANT\r\n\r\n45\r\n\r\n’519 S\r\n\r\nATLANTT\r\n\r\nCUDAY\r\n\r\n9020\r\n\r\nAVE\r\n\r\n~\r\n\r\n257 |\r\n\r\n23\r\n\r\n~560-\r\n\r\n-\r\n\r\nIngy\r\n\r\nhk 19\r\n\r\n24\r\n\r\na.\r\n\r\ndt\r\n\r\n~~ ~\r\n\r\nDr 5\r\n\r\net Ung\r\n\r\n17 050mm.\r\n\r\n“ —-.\r\n\r\n~~\r\n\r\n~~\r\n\r\nINE\r\n\r\nTN See i\r\n\r\nGst ¢\r\n\r\n\"An\r\n",
+    "top_0": "0CcO\r\n\r\nEL EOL sii)\r\n\r\n751\r\n\r\nCUDAHY ,CA 90201\r\n\r\nTORE TC Ae.\r\n\r\n323-560-0758\r\n\r\n257 LIDIA H\r\n\r\n- ww TT Gn wn Ee SS WR RE WR WP WR RIA Me EE GD Me En Ee GN We TR WN GS MD Ee we we - mm —\r\n\r\nhk 1924\r\n\r\nJun28'17 05:36P gst 0\r\n\r\nES TE Gm WE We Un ws GB NS GT UD ED CED SN ME WR GN PS GE WEY ME TYE GU ED WR WR WS GU EE WE Ee ww ae Wn OF\r\n\r\nDrive Thru\r\n\r\n~ \"NM\"\r\n",
+    "top_12": "oCO\r\n\r\n19\r\n\r\nS51\r\n\r\nel\r\n\r\nRES!\r\n\r\nANE\r\n\r\nTL\r\n\r\n0207\r\n\r\n0799\r\n\r\n751200 0\r\n\r\n-—\r\n\r\n-\r\n\r\nTy {\r\n\r\n——\r\n\r\nwp ©\r\n\r\nJa \\\r\n\r\n251\r\n\r\n-\r\n\r\nLIDIA Beem g'\\1 0\r\n\r\n-——\r\n\r\n—-\r\n\r\n-—\r\n\r\n—\r\n\r\n-\r\n\r\n-\r\n\r\n~~\r\n\r\nhk\r\n\r\nCYL\r\n\r\n-—\r\n\r\nThr\r\n\r\nS-—\r\n\r\nrive.\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

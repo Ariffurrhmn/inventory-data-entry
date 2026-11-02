@@ -1,0 +1,13 @@
+{
+  "sample_id": "1ae7adb382c4",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "e31647e5d3d9e85218bd7e55ce163a879323bee7f5133c03c2b78f324f7e8877",
+  "full_text": "{ALL\r\n\r\nSELLER\r\n\r\nCONSIGNEE\r\n\r\nABC Company\r\n\r\nSojib\r\n\r\nHouse= 71, Road- 14 , Kolkata\r\n\r\nShop 12, Market Roat, Clty — 400001\r\n\r\nYelm Wve! seus Purpose! Job work\r\n\r\nHSNJSA\r\n\r\nRat\r\n\r\nTaxable\r\n\r\nWireless Mouse\r\n\r\n2056\r\n\r\n150.00\r\n\r\n2750.00\r\n\r\n14,500.00\r\n\r\n20%\r\n\r\nComputer Keyboard\r\n\r\n3541\r\n\r\n25000\r\n\r\n2900.00\r\n\r\n€2,:25,000.00\r\n\r\n6%\r\n\r\nuse\r\n\r\n1436\r\n\r\n300.00\r\n\r\n$550.00\r\n\r\n165,000.00\r\n\r\n10%\r\n\r\nTaxable value\r\n\r\n¥5,02,500.00\r\n\r\nCost\r\n\r\n¥26,250.00\r\n\r\nSGST\r\n\r\n¥26,250.00\r\n\r\nGrand total\r\n\r\n¥5,55,000.00\r\n\r\nAmount in words: Five Lakh Fifty Five Thousand Rupees Only\r\n\r\nNotes: Goods sent for the purpose stated above. Not a sale.\r\n",
+  "status": "unreviewed_OCR_output"
+}

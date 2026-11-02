@@ -1,0 +1,217 @@
+scenario,split,sample_id,expected,predicted,correct,max_score,ocr_empty,source_path
+reference_on_reference,val,cc6e515ae67f,purchase_order,purchase_order,True,0.5347694711046913,False,Dataset/Purchase_Order/POPO-10.jpg
+reference_on_reference,val,4840bfe10310,purchase_order,purchase_order,True,0.4431423934740974,False,Dataset/Purchase_Order/POPO-11.jpg
+reference_on_reference,val,9446fd410ee3,purchase_order,purchase_order,True,0.4678206964139498,False,Dataset/Purchase_Order/POPO-12.jpg
+reference_on_reference,val,02bfde5bf771,purchase_order,purchase_order,True,0.4306215321604055,False,Dataset/Purchase_Order/POPO-13.jpg
+reference_on_reference,val,a20b14dd771c,purchase_order,purchase_order,True,0.461723880003658,False,Dataset/Purchase_Order/POPO-14.jpg
+reference_on_reference,val,e5a5a0f1a894,purchase_order,purchase_order,True,0.6373259012443622,False,Dataset/Purchase_Order/POPO-8.jpg
+reference_on_reference,val,ee4df28e7c36,purchase_order,purchase_order,True,0.6099466240381917,False,Dataset/Purchase_Order/POPO-9.jpg
+reference_on_reference,val,476131eff924,receipt,customer_copy,False,0.33024008796445364,False,Dataset/Receipt/aaaa_jpg.rf.2e47601f234d7c54e2f7e015491d4cee.jpg
+reference_on_reference,val,5dffabcb47cb,receipt,receipt,True,0.5601889005019808,False,Dataset/Receipt/cord-train-0008.jpg
+reference_on_reference,val,7c33fa811984,receipt,receipt,True,0.4529867587600932,False,Dataset/Receipt/cord-train-0015.jpg
+reference_on_reference,val,684abec37a2d,receipt,receipt,True,0.46345734998405524,False,Dataset/Receipt/cord-train-0750.jpg
+reference_on_reference,val,6d09ac8fd547,receipt,customer_copy,False,0.3316807060902635,False,Dataset/Receipt/IMG_20250823_030114_jpg.rf.3862ebeaef9f4db0e7d45c6b2127ea07.jpg
+reference_on_reference,val,c444a2174871,receipt,receipt,True,0.31892668784724243,False,Dataset/Receipt/IMG_20250823_031335_jpg.rf.5a199981b4aa990a64567daf31f4f7c6.jpg
+reference_on_reference,val,6329716534d8,receipt,customer_copy,False,0.36019815046085085,False,Dataset/Receipt/IMG_20250823_031803_jpg.rf.34405351a39fd281345d6d0597a696f4.jpg
+reference_on_reference,val,e4c7eb83722c,customer_copy,customer_copy,True,0.6126959585109104,False,Dataset/Customer_Copy/1176-receipt.jpg
+reference_on_reference,val,1e9226ab9225,customer_copy,customer_copy,True,0.5839118215158191,False,Dataset/Customer_Copy/image_0042.jpg
+reference_on_reference,val,71fa862a7998,customer_copy,customer_copy,True,0.34800189161010053,False,Dataset/Customer_Copy/image_1850.jpg
+reference_on_reference,val,dcd1a6bdfa0a,delivery_note,delivery_note,True,0.3256588401923233,False,Dataset/Dataset-2/Purchase order/IMG_0977.HEIC
+reference_on_reference,val,12d89294d43a,purchase_order,purchase_order,True,0.38168409225394273,False,Dataset/Dataset-2/Purchase order/IMG_0980.HEIC
+reference_on_reference,val,ddb01e6bbf91,delivery_note,delivery_note,True,0.33487065971295227,False,Dataset/Dataset-2/Delivery note challan/IMG_0988.HEIC
+reference_on_reference,val,2c1013e6c832,delivery_note,delivery_note,True,0.3618738139629548,False,Dataset/Dataset-2/Delivery note challan/IMG_0989.HEIC
+reference_on_reference,val,29bd052c0c45,delivery_note,delivery_note,True,0.40753050871452484,False,Dataset/Dataset-2/Delivery note challan/IMG_0990.HEIC
+reference_on_reference,val,502854082b30,delivery_note,delivery_note,True,0.35478288481920234,False,Dataset/Dataset-2/Delivery note challan/IMG_0994.HEIC
+reference_on_reference,val,74a4bb73855d,delivery_note,customer_copy,False,0.35104622240074906,False,Dataset/Dataset-2/Delivery note challan/IMG_0996.HEIC
+reference_on_reference,val,382ba345a187,customer_copy,customer_copy,True,0.7011659299636206,False,Dataset/Dataset-2/Customer copy/IMG_1003.HEIC
+reference_on_reference,val,fb76d6216e2b,customer_copy,customer_copy,True,0.6933743902158713,False,Dataset/Dataset-2/Customer copy/IMG_1006.HEIC
+reference_on_reference,test,9e24dadfc2de,purchase_order,purchase_order,True,0.49752410352906556,False,Dataset/Purchase_Order/PO-PO - 15.jpg
+reference_on_reference,test,5564ab2d8b11,receipt,receipt,True,0.5031705134152016,False,Dataset/Receipt/cord-train-0114.jpg
+reference_on_reference,test,e24acf8b8294,receipt,receipt,True,0.6488831357319578,False,Dataset/Receipt/cord-train-0133.jpg
+reference_on_reference,test,be13e587ee89,receipt,receipt,True,0.5780491293150835,False,Dataset/Receipt/cord-train-0140.jpg
+reference_on_reference,test,c4e63d9e78fe,receipt,receipt,True,0.6112069183669011,False,Dataset/Receipt/cord-train-0145.jpg
+reference_on_reference,test,dc0e8749153f,receipt,receipt,True,0.6089637542708538,False,Dataset/Receipt/cord-train-0155.jpg
+reference_on_reference,test,450255bc884a,delivery_note,purchase_order,False,0.425426082742639,False,Dataset/Delivery_Note/packing-slip-1064.png
+reference_on_reference,test,4784d328f244,delivery_note,purchase_order,False,0.39922745380336816,False,Dataset/Delivery_Note/packing-slip-1079.png
+reference_on_reference,test,07b749907de5,delivery_note,purchase_order,False,0.41792866620902797,False,Dataset/Delivery_Note/packing-slip-1087.png
+reference_on_reference,test,0737a6ca5674,delivery_note,purchase_order,False,0.3864706697983235,False,Dataset/Delivery_Note/packing-slip-1094.png
+reference_on_reference,test,d6174f39143f,delivery_note,purchase_order,False,0.392206856977761,False,Dataset/Delivery_Note/packing-slip-1111.png
+reference_on_reference,test,c48efeff07df,customer_copy,customer_copy,True,0.5459185366452387,False,Dataset/Customer_Copy/1073-receipt.jpg
+reference_on_reference,test,d1f27e35f5f3,customer_copy,customer_copy,True,0.6119544170542012,False,Dataset/Customer_Copy/image_0711.jpg
+reference_on_reference,test,4ee52bb59124,customer_copy,customer_copy,True,0.4328147702765402,False,Dataset/Customer_Copy/image_0799.jpg
+reference_on_reference,test,89f5500d9c0a,customer_copy,customer_copy,True,0.4224441470282716,False,Dataset/Customer_Copy/image_1043.jpg
+reference_on_reference,test,560a1b9a6415,customer_copy,customer_copy,True,0.6015993358213744,False,Dataset/Customer_Copy/image_1748.jpg
+reference_on_reference,test,8f6f9027cdb3,customer_copy,customer_copy,True,0.41725482591917024,False,Dataset/Customer_Copy/image_1758.jpg
+reference_on_reference,test,e18612fb393c,delivery_note,purchase_order,False,0.392206856977761,False,Dataset/Dataset-2/Purchase order/IMG_0966.HEIC
+reference_on_reference,test,6ab38289be74,delivery_note,purchase_order,False,0.3864706697983235,False,Dataset/Dataset-2/Purchase order/IMG_0967.HEIC
+reference_on_reference,test,adab8f169fec,delivery_note,purchase_order,False,0.39922745380336816,False,Dataset/Dataset-2/Purchase order/IMG_0968.HEIC
+reference_on_reference,test,26fe0fcbc04b,delivery_note,purchase_order,False,0.41792866620902797,False,Dataset/Dataset-2/Purchase order/IMG_0969.HEIC
+reference_on_reference,test,6b6a915859a2,delivery_note,purchase_order,False,0.425426082742639,False,Dataset/Dataset-2/Purchase order/IMG_0970.HEIC
+reference_on_reference,test,63d735225c26,purchase_order,purchase_order,True,0.5049573512668363,False,Dataset/Dataset-2/Purchase order/IMG_0972.HEIC
+reference_on_reference,test,53ed22a39c62,purchase_order,purchase_order,True,0.46038012747604046,False,Dataset/Dataset-2/Purchase order/IMG_0973.HEIC
+reference_on_reference,test,558ab17fe557,purchase_order,purchase_order,True,0.45255899733256677,False,Dataset/Dataset-2/Purchase order/IMG_0978.HEIC
+reference_on_reference,test,11b4da10d765,purchase_order,customer_copy,False,0.37213192971802367,False,Dataset/Dataset-2/Purchase order/IMG_0979.HEIC
+reference_on_reference,test,772f10ad9975,purchase_order,customer_copy,False,0.430347097257445,False,Dataset/Dataset-2/Purchase order/IMG_0981.HEIC
+reference_on_reference,test,c4191b0e458a,purchase_order,customer_copy,False,0.43108063983508366,False,Dataset/Dataset-2/Purchase order/IMG_0982.HEIC
+reference_on_ocr,val,cc6e515ae67f,purchase_order,purchase_order,True,0.508970577570645,False,Dataset/Purchase_Order/POPO-10.jpg
+reference_on_ocr,val,4840bfe10310,purchase_order,purchase_order,True,0.41491763748012767,False,Dataset/Purchase_Order/POPO-11.jpg
+reference_on_ocr,val,9446fd410ee3,purchase_order,purchase_order,True,0.443359230994222,False,Dataset/Purchase_Order/POPO-12.jpg
+reference_on_ocr,val,02bfde5bf771,purchase_order,purchase_order,True,0.39978170392350204,False,Dataset/Purchase_Order/POPO-13.jpg
+reference_on_ocr,val,a20b14dd771c,purchase_order,purchase_order,True,0.4467445181520256,False,Dataset/Purchase_Order/POPO-14.jpg
+reference_on_ocr,val,e5a5a0f1a894,purchase_order,purchase_order,True,0.6215673968979663,False,Dataset/Purchase_Order/POPO-8.jpg
+reference_on_ocr,val,ee4df28e7c36,purchase_order,purchase_order,True,0.5826316688757481,False,Dataset/Purchase_Order/POPO-9.jpg
+reference_on_ocr,val,476131eff924,receipt,customer_copy,False,0.31434587817033716,False,Dataset/Receipt/aaaa_jpg.rf.2e47601f234d7c54e2f7e015491d4cee.jpg
+reference_on_ocr,val,5dffabcb47cb,receipt,receipt,True,0.5358797088108199,False,Dataset/Receipt/cord-train-0008.jpg
+reference_on_ocr,val,7c33fa811984,receipt,receipt,True,0.4358968087086915,False,Dataset/Receipt/cord-train-0015.jpg
+reference_on_ocr,val,684abec37a2d,receipt,receipt,True,0.3892033044127875,False,Dataset/Receipt/cord-train-0750.jpg
+reference_on_ocr,val,6d09ac8fd547,receipt,receipt,True,0.3436775072874005,False,Dataset/Receipt/IMG_20250823_030114_jpg.rf.3862ebeaef9f4db0e7d45c6b2127ea07.jpg
+reference_on_ocr,val,c444a2174871,receipt,customer_copy,False,0.32973109787291544,False,Dataset/Receipt/IMG_20250823_031335_jpg.rf.5a199981b4aa990a64567daf31f4f7c6.jpg
+reference_on_ocr,val,6329716534d8,receipt,customer_copy,False,0.34465080726873737,False,Dataset/Receipt/IMG_20250823_031803_jpg.rf.34405351a39fd281345d6d0597a696f4.jpg
+reference_on_ocr,val,e4c7eb83722c,customer_copy,customer_copy,True,0.41591423628639307,False,Dataset/Customer_Copy/1176-receipt.jpg
+reference_on_ocr,val,1e9226ab9225,customer_copy,customer_copy,True,0.5524605172472878,False,Dataset/Customer_Copy/image_0042.jpg
+reference_on_ocr,val,71fa862a7998,customer_copy,receipt,False,0.34138362128755134,False,Dataset/Customer_Copy/image_1850.jpg
+reference_on_ocr,val,dcd1a6bdfa0a,delivery_note,customer_copy,False,0.3936490389198183,False,Dataset/Dataset-2/Purchase order/IMG_0977.HEIC
+reference_on_ocr,val,12d89294d43a,purchase_order,purchase_order,True,0.4401342417085058,False,Dataset/Dataset-2/Purchase order/IMG_0980.HEIC
+reference_on_ocr,val,ddb01e6bbf91,delivery_note,customer_copy,False,0.34255053508713984,False,Dataset/Dataset-2/Delivery note challan/IMG_0988.HEIC
+reference_on_ocr,val,2c1013e6c832,delivery_note,customer_copy,False,0.3189350797190618,False,Dataset/Dataset-2/Delivery note challan/IMG_0989.HEIC
+reference_on_ocr,val,29bd052c0c45,delivery_note,delivery_note,True,0.3141380098954087,False,Dataset/Dataset-2/Delivery note challan/IMG_0990.HEIC
+reference_on_ocr,val,502854082b30,delivery_note,customer_copy,False,0.34349812706389643,False,Dataset/Dataset-2/Delivery note challan/IMG_0994.HEIC
+reference_on_ocr,val,74a4bb73855d,delivery_note,customer_copy,False,0.32707222920029577,False,Dataset/Dataset-2/Delivery note challan/IMG_0996.HEIC
+reference_on_ocr,val,382ba345a187,customer_copy,receipt,False,0.3190937338648741,False,Dataset/Dataset-2/Customer copy/IMG_1003.HEIC
+reference_on_ocr,val,fb76d6216e2b,customer_copy,customer_copy,True,0.5309833548309715,False,Dataset/Dataset-2/Customer copy/IMG_1006.HEIC
+reference_on_ocr,test,9e24dadfc2de,purchase_order,purchase_order,True,0.5011037816335986,False,Dataset/Purchase_Order/PO-PO - 15.jpg
+reference_on_ocr,test,5564ab2d8b11,receipt,receipt,True,0.47460286953526715,False,Dataset/Receipt/cord-train-0114.jpg
+reference_on_ocr,test,e24acf8b8294,receipt,receipt,True,0.5622184984532105,False,Dataset/Receipt/cord-train-0133.jpg
+reference_on_ocr,test,be13e587ee89,receipt,customer_copy,False,0.3280093325807355,False,Dataset/Receipt/cord-train-0140.jpg
+reference_on_ocr,test,c4e63d9e78fe,receipt,receipt,True,0.5744752070449255,False,Dataset/Receipt/cord-train-0145.jpg
+reference_on_ocr,test,dc0e8749153f,receipt,receipt,True,0.3907441211366715,False,Dataset/Receipt/cord-train-0155.jpg
+reference_on_ocr,test,450255bc884a,delivery_note,purchase_order,False,0.425426082742639,False,Dataset/Delivery_Note/packing-slip-1064.png
+reference_on_ocr,test,4784d328f244,delivery_note,purchase_order,False,0.40537755433642686,False,Dataset/Delivery_Note/packing-slip-1079.png
+reference_on_ocr,test,07b749907de5,delivery_note,purchase_order,False,0.4332052785716565,False,Dataset/Delivery_Note/packing-slip-1087.png
+reference_on_ocr,test,0737a6ca5674,delivery_note,purchase_order,False,0.389642679467129,False,Dataset/Delivery_Note/packing-slip-1094.png
+reference_on_ocr,test,d6174f39143f,delivery_note,purchase_order,False,0.39570255949482064,False,Dataset/Delivery_Note/packing-slip-1111.png
+reference_on_ocr,test,c48efeff07df,customer_copy,customer_copy,True,0.34775708285764256,False,Dataset/Customer_Copy/1073-receipt.jpg
+reference_on_ocr,test,d1f27e35f5f3,customer_copy,customer_copy,True,0.5967657419374087,False,Dataset/Customer_Copy/image_0711.jpg
+reference_on_ocr,test,4ee52bb59124,customer_copy,customer_copy,True,0.4246732260305093,False,Dataset/Customer_Copy/image_0799.jpg
+reference_on_ocr,test,89f5500d9c0a,customer_copy,customer_copy,True,0.4243040186364875,False,Dataset/Customer_Copy/image_1043.jpg
+reference_on_ocr,test,560a1b9a6415,customer_copy,customer_copy,True,0.5895429240735857,False,Dataset/Customer_Copy/image_1748.jpg
+reference_on_ocr,test,8f6f9027cdb3,customer_copy,receipt,False,0.33561307113617816,False,Dataset/Customer_Copy/image_1758.jpg
+reference_on_ocr,test,e18612fb393c,delivery_note,purchase_order,False,0.4263533379601576,False,Dataset/Dataset-2/Purchase order/IMG_0966.HEIC
+reference_on_ocr,test,6ab38289be74,delivery_note,customer_copy,False,0.33314196977064553,False,Dataset/Dataset-2/Purchase order/IMG_0967.HEIC
+reference_on_ocr,test,adab8f169fec,delivery_note,customer_copy,False,0.3190261799736159,False,Dataset/Dataset-2/Purchase order/IMG_0968.HEIC
+reference_on_ocr,test,26fe0fcbc04b,delivery_note,customer_copy,False,0.30050669130144203,False,Dataset/Dataset-2/Purchase order/IMG_0969.HEIC
+reference_on_ocr,test,6b6a915859a2,delivery_note,customer_copy,False,0.3385843629723982,False,Dataset/Dataset-2/Purchase order/IMG_0970.HEIC
+reference_on_ocr,test,63d735225c26,purchase_order,purchase_order,True,0.5029644992065078,False,Dataset/Dataset-2/Purchase order/IMG_0972.HEIC
+reference_on_ocr,test,53ed22a39c62,purchase_order,purchase_order,True,0.5357508210668442,False,Dataset/Dataset-2/Purchase order/IMG_0973.HEIC
+reference_on_ocr,test,558ab17fe557,purchase_order,purchase_order,True,0.44734756657722474,False,Dataset/Dataset-2/Purchase order/IMG_0978.HEIC
+reference_on_ocr,test,11b4da10d765,purchase_order,customer_copy,False,0.3786571876595582,False,Dataset/Dataset-2/Purchase order/IMG_0979.HEIC
+reference_on_ocr,test,772f10ad9975,purchase_order,purchase_order,True,0.38351490752643586,False,Dataset/Dataset-2/Purchase order/IMG_0981.HEIC
+reference_on_ocr,test,c4191b0e458a,purchase_order,purchase_order,True,0.3645862329188976,False,Dataset/Dataset-2/Purchase order/IMG_0982.HEIC
+original_ocr,val,cc6e515ae67f,purchase_order,purchase_order,True,0.5225248144517716,False,Dataset/Purchase_Order/POPO-10.jpg
+original_ocr,val,4840bfe10310,purchase_order,purchase_order,True,0.44586362564494253,False,Dataset/Purchase_Order/POPO-11.jpg
+original_ocr,val,9446fd410ee3,purchase_order,purchase_order,True,0.4658777441796285,False,Dataset/Purchase_Order/POPO-12.jpg
+original_ocr,val,02bfde5bf771,purchase_order,purchase_order,True,0.4335426143016701,False,Dataset/Purchase_Order/POPO-13.jpg
+original_ocr,val,a20b14dd771c,purchase_order,purchase_order,True,0.4870308366384297,False,Dataset/Purchase_Order/POPO-14.jpg
+original_ocr,val,e5a5a0f1a894,purchase_order,purchase_order,True,0.6327482315347553,False,Dataset/Purchase_Order/POPO-8.jpg
+original_ocr,val,ee4df28e7c36,purchase_order,purchase_order,True,0.5976936144906816,False,Dataset/Purchase_Order/POPO-9.jpg
+original_ocr,val,476131eff924,receipt,receipt,True,0.27537811763086123,False,Dataset/Receipt/aaaa_jpg.rf.2e47601f234d7c54e2f7e015491d4cee.jpg
+original_ocr,val,5dffabcb47cb,receipt,receipt,True,0.4429710956157018,False,Dataset/Receipt/cord-train-0008.jpg
+original_ocr,val,7c33fa811984,receipt,receipt,True,0.38737191052313824,False,Dataset/Receipt/cord-train-0015.jpg
+original_ocr,val,684abec37a2d,receipt,receipt,True,0.3413657825267455,False,Dataset/Receipt/cord-train-0750.jpg
+original_ocr,val,6d09ac8fd547,receipt,delivery_note,False,0.28806351727348867,False,Dataset/Receipt/IMG_20250823_030114_jpg.rf.3862ebeaef9f4db0e7d45c6b2127ea07.jpg
+original_ocr,val,c444a2174871,receipt,receipt,True,0.30298637559015423,False,Dataset/Receipt/IMG_20250823_031335_jpg.rf.5a199981b4aa990a64567daf31f4f7c6.jpg
+original_ocr,val,6329716534d8,receipt,receipt,True,0.27364249990120937,False,Dataset/Receipt/IMG_20250823_031803_jpg.rf.34405351a39fd281345d6d0597a696f4.jpg
+original_ocr,val,e4c7eb83722c,customer_copy,customer_copy,True,0.35779252947757995,False,Dataset/Customer_Copy/1176-receipt.jpg
+original_ocr,val,1e9226ab9225,customer_copy,customer_copy,True,0.531154831938019,False,Dataset/Customer_Copy/image_0042.jpg
+original_ocr,val,71fa862a7998,customer_copy,receipt,False,0.3039138293113357,False,Dataset/Customer_Copy/image_1850.jpg
+original_ocr,val,dcd1a6bdfa0a,delivery_note,customer_copy,False,0.352590201816495,False,Dataset/Dataset-2/Purchase order/IMG_0977.HEIC
+original_ocr,val,12d89294d43a,purchase_order,purchase_order,True,0.38705700997933606,False,Dataset/Dataset-2/Purchase order/IMG_0980.HEIC
+original_ocr,val,ddb01e6bbf91,delivery_note,delivery_note,True,0.38324168427594607,False,Dataset/Dataset-2/Delivery note challan/IMG_0988.HEIC
+original_ocr,val,2c1013e6c832,delivery_note,delivery_note,True,0.30958476864928236,False,Dataset/Dataset-2/Delivery note challan/IMG_0989.HEIC
+original_ocr,val,29bd052c0c45,delivery_note,delivery_note,True,0.4476772253437059,False,Dataset/Dataset-2/Delivery note challan/IMG_0990.HEIC
+original_ocr,val,502854082b30,delivery_note,delivery_note,True,0.3690109090663207,False,Dataset/Dataset-2/Delivery note challan/IMG_0994.HEIC
+original_ocr,val,74a4bb73855d,delivery_note,customer_copy,False,0.30758539674210045,False,Dataset/Dataset-2/Delivery note challan/IMG_0996.HEIC
+original_ocr,val,382ba345a187,customer_copy,receipt,False,0.2801694331509621,False,Dataset/Dataset-2/Customer copy/IMG_1003.HEIC
+original_ocr,val,fb76d6216e2b,customer_copy,customer_copy,True,0.549328469896935,False,Dataset/Dataset-2/Customer copy/IMG_1006.HEIC
+original_ocr,test,9e24dadfc2de,purchase_order,purchase_order,True,0.49080745410471033,False,Dataset/Purchase_Order/PO-PO - 15.jpg
+original_ocr,test,5564ab2d8b11,receipt,receipt,True,0.38731034274284826,False,Dataset/Receipt/cord-train-0114.jpg
+original_ocr,test,e24acf8b8294,receipt,receipt,True,0.4695056522628394,False,Dataset/Receipt/cord-train-0133.jpg
+original_ocr,test,be13e587ee89,receipt,delivery_note,False,0.2952022278703953,False,Dataset/Receipt/cord-train-0140.jpg
+original_ocr,test,c4e63d9e78fe,receipt,receipt,True,0.4500998404684461,False,Dataset/Receipt/cord-train-0145.jpg
+original_ocr,test,dc0e8749153f,receipt,receipt,True,0.301351302901777,False,Dataset/Receipt/cord-train-0155.jpg
+original_ocr,test,450255bc884a,delivery_note,purchase_order,False,0.456516612290853,False,Dataset/Delivery_Note/packing-slip-1064.png
+original_ocr,test,4784d328f244,delivery_note,purchase_order,False,0.41408970643348675,False,Dataset/Delivery_Note/packing-slip-1079.png
+original_ocr,test,07b749907de5,delivery_note,purchase_order,False,0.44969516270254695,False,Dataset/Delivery_Note/packing-slip-1087.png
+original_ocr,test,0737a6ca5674,delivery_note,purchase_order,False,0.40824076195126163,False,Dataset/Delivery_Note/packing-slip-1094.png
+original_ocr,test,d6174f39143f,delivery_note,purchase_order,False,0.41583619231754054,False,Dataset/Delivery_Note/packing-slip-1111.png
+original_ocr,test,c48efeff07df,customer_copy,customer_copy,True,0.3045596113427918,False,Dataset/Customer_Copy/1073-receipt.jpg
+original_ocr,test,d1f27e35f5f3,customer_copy,customer_copy,True,0.5305493718004142,False,Dataset/Customer_Copy/image_0711.jpg
+original_ocr,test,4ee52bb59124,customer_copy,customer_copy,True,0.40860013980599175,False,Dataset/Customer_Copy/image_0799.jpg
+original_ocr,test,89f5500d9c0a,customer_copy,customer_copy,True,0.38468902336713523,False,Dataset/Customer_Copy/image_1043.jpg
+original_ocr,test,560a1b9a6415,customer_copy,customer_copy,True,0.5370572988024706,False,Dataset/Customer_Copy/image_1748.jpg
+original_ocr,test,8f6f9027cdb3,customer_copy,customer_copy,True,0.30441187399244524,False,Dataset/Customer_Copy/image_1758.jpg
+original_ocr,test,e18612fb393c,delivery_note,purchase_order,False,0.31750139939663663,False,Dataset/Dataset-2/Purchase order/IMG_0966.HEIC
+original_ocr,test,6ab38289be74,delivery_note,receipt,False,0.30105234917391654,False,Dataset/Dataset-2/Purchase order/IMG_0967.HEIC
+original_ocr,test,adab8f169fec,delivery_note,receipt,False,0.2878504752448593,False,Dataset/Dataset-2/Purchase order/IMG_0968.HEIC
+original_ocr,test,26fe0fcbc04b,delivery_note,delivery_note,True,0.26603858738857905,False,Dataset/Dataset-2/Purchase order/IMG_0969.HEIC
+original_ocr,test,6b6a915859a2,delivery_note,receipt,False,0.31513326621656607,False,Dataset/Dataset-2/Purchase order/IMG_0970.HEIC
+original_ocr,test,63d735225c26,purchase_order,purchase_order,True,0.5770209778454908,False,Dataset/Dataset-2/Purchase order/IMG_0972.HEIC
+original_ocr,test,53ed22a39c62,purchase_order,purchase_order,True,0.462274534478907,False,Dataset/Dataset-2/Purchase order/IMG_0973.HEIC
+original_ocr,test,558ab17fe557,purchase_order,purchase_order,True,0.38035115840093087,False,Dataset/Dataset-2/Purchase order/IMG_0978.HEIC
+original_ocr,test,11b4da10d765,purchase_order,purchase_order,True,0.39221770466579753,False,Dataset/Dataset-2/Purchase order/IMG_0979.HEIC
+original_ocr,test,772f10ad9975,purchase_order,purchase_order,True,0.3808967796851961,False,Dataset/Dataset-2/Purchase order/IMG_0981.HEIC
+original_ocr,test,c4191b0e458a,purchase_order,customer_copy,False,0.36997401326621027,False,Dataset/Dataset-2/Purchase order/IMG_0982.HEIC
+augmented_ocr,val,cc6e515ae67f,purchase_order,purchase_order,True,0.6198900346781808,False,Dataset/Purchase_Order/POPO-10.jpg
+augmented_ocr,val,4840bfe10310,purchase_order,purchase_order,True,0.49829310541547767,False,Dataset/Purchase_Order/POPO-11.jpg
+augmented_ocr,val,9446fd410ee3,purchase_order,purchase_order,True,0.5558374558332179,False,Dataset/Purchase_Order/POPO-12.jpg
+augmented_ocr,val,02bfde5bf771,purchase_order,purchase_order,True,0.48416832282115346,False,Dataset/Purchase_Order/POPO-13.jpg
+augmented_ocr,val,a20b14dd771c,purchase_order,purchase_order,True,0.5739384232470285,False,Dataset/Purchase_Order/POPO-14.jpg
+augmented_ocr,val,e5a5a0f1a894,purchase_order,purchase_order,True,0.7260157812300312,False,Dataset/Purchase_Order/POPO-8.jpg
+augmented_ocr,val,ee4df28e7c36,purchase_order,purchase_order,True,0.6794180461654334,False,Dataset/Purchase_Order/POPO-9.jpg
+augmented_ocr,val,476131eff924,receipt,receipt,True,0.4185791279485102,False,Dataset/Receipt/aaaa_jpg.rf.2e47601f234d7c54e2f7e015491d4cee.jpg
+augmented_ocr,val,5dffabcb47cb,receipt,receipt,True,0.5771475476681287,False,Dataset/Receipt/cord-train-0008.jpg
+augmented_ocr,val,7c33fa811984,receipt,receipt,True,0.46560494949457254,False,Dataset/Receipt/cord-train-0015.jpg
+augmented_ocr,val,684abec37a2d,receipt,receipt,True,0.5320773018477867,False,Dataset/Receipt/cord-train-0750.jpg
+augmented_ocr,val,6d09ac8fd547,receipt,receipt,True,0.4111139918977561,False,Dataset/Receipt/IMG_20250823_030114_jpg.rf.3862ebeaef9f4db0e7d45c6b2127ea07.jpg
+augmented_ocr,val,c444a2174871,receipt,receipt,True,0.40659707314649923,False,Dataset/Receipt/IMG_20250823_031335_jpg.rf.5a199981b4aa990a64567daf31f4f7c6.jpg
+augmented_ocr,val,6329716534d8,receipt,receipt,True,0.3903687837261518,False,Dataset/Receipt/IMG_20250823_031803_jpg.rf.34405351a39fd281345d6d0597a696f4.jpg
+augmented_ocr,val,e4c7eb83722c,customer_copy,receipt,False,0.4370165713384634,False,Dataset/Customer_Copy/1176-receipt.jpg
+augmented_ocr,val,1e9226ab9225,customer_copy,customer_copy,True,0.47358424687137246,False,Dataset/Customer_Copy/image_0042.jpg
+augmented_ocr,val,71fa862a7998,customer_copy,receipt,False,0.5330416044808481,False,Dataset/Customer_Copy/image_1850.jpg
+augmented_ocr,val,dcd1a6bdfa0a,delivery_note,customer_copy,False,0.339152630170154,False,Dataset/Dataset-2/Purchase order/IMG_0977.HEIC
+augmented_ocr,val,12d89294d43a,purchase_order,purchase_order,True,0.3426701886277552,False,Dataset/Dataset-2/Purchase order/IMG_0980.HEIC
+augmented_ocr,val,ddb01e6bbf91,delivery_note,delivery_note,True,0.3744769535181865,False,Dataset/Dataset-2/Delivery note challan/IMG_0988.HEIC
+augmented_ocr,val,2c1013e6c832,delivery_note,receipt,False,0.3181345251886021,False,Dataset/Dataset-2/Delivery note challan/IMG_0989.HEIC
+augmented_ocr,val,29bd052c0c45,delivery_note,delivery_note,True,0.4110622547468319,False,Dataset/Dataset-2/Delivery note challan/IMG_0990.HEIC
+augmented_ocr,val,502854082b30,delivery_note,delivery_note,True,0.36231523392647974,False,Dataset/Dataset-2/Delivery note challan/IMG_0994.HEIC
+augmented_ocr,val,74a4bb73855d,delivery_note,receipt,False,0.4376306649368951,False,Dataset/Dataset-2/Delivery note challan/IMG_0996.HEIC
+augmented_ocr,val,382ba345a187,customer_copy,receipt,False,0.3903675278833518,False,Dataset/Dataset-2/Customer copy/IMG_1003.HEIC
+augmented_ocr,val,fb76d6216e2b,customer_copy,customer_copy,True,0.5837620332585274,False,Dataset/Dataset-2/Customer copy/IMG_1006.HEIC
+augmented_ocr,test,9e24dadfc2de,purchase_order,purchase_order,True,0.6231319503837685,False,Dataset/Purchase_Order/PO-PO - 15.jpg
+augmented_ocr,test,5564ab2d8b11,receipt,receipt,True,0.5201683891336002,False,Dataset/Receipt/cord-train-0114.jpg
+augmented_ocr,test,e24acf8b8294,receipt,receipt,True,0.5424979482808965,False,Dataset/Receipt/cord-train-0133.jpg
+augmented_ocr,test,be13e587ee89,receipt,receipt,True,0.4179569807052571,False,Dataset/Receipt/cord-train-0140.jpg
+augmented_ocr,test,c4e63d9e78fe,receipt,receipt,True,0.6288026675271176,False,Dataset/Receipt/cord-train-0145.jpg
+augmented_ocr,test,dc0e8749153f,receipt,receipt,True,0.4916697945104256,False,Dataset/Receipt/cord-train-0155.jpg
+augmented_ocr,test,450255bc884a,delivery_note,delivery_note,True,0.3451634980909496,False,Dataset/Delivery_Note/packing-slip-1064.png
+augmented_ocr,test,4784d328f244,delivery_note,delivery_note,True,0.32760098961282813,False,Dataset/Delivery_Note/packing-slip-1079.png
+augmented_ocr,test,07b749907de5,delivery_note,delivery_note,True,0.3472003371932324,False,Dataset/Delivery_Note/packing-slip-1087.png
+augmented_ocr,test,0737a6ca5674,delivery_note,delivery_note,True,0.3210684098951101,False,Dataset/Delivery_Note/packing-slip-1094.png
+augmented_ocr,test,d6174f39143f,delivery_note,delivery_note,True,0.3393337129800308,False,Dataset/Delivery_Note/packing-slip-1111.png
+augmented_ocr,test,c48efeff07df,customer_copy,receipt,False,0.5057779314353713,False,Dataset/Customer_Copy/1073-receipt.jpg
+augmented_ocr,test,d1f27e35f5f3,customer_copy,customer_copy,True,0.3914009943509678,False,Dataset/Customer_Copy/image_0711.jpg
+augmented_ocr,test,4ee52bb59124,customer_copy,receipt,False,0.45206177731560093,False,Dataset/Customer_Copy/image_0799.jpg
+augmented_ocr,test,89f5500d9c0a,customer_copy,receipt,False,0.396017851811532,False,Dataset/Customer_Copy/image_1043.jpg
+augmented_ocr,test,560a1b9a6415,customer_copy,customer_copy,True,0.49044508771692225,False,Dataset/Customer_Copy/image_1748.jpg
+augmented_ocr,test,8f6f9027cdb3,customer_copy,receipt,False,0.5434834799013935,False,Dataset/Customer_Copy/image_1758.jpg
+augmented_ocr,test,e18612fb393c,delivery_note,delivery_note,True,0.4092576507957363,False,Dataset/Dataset-2/Purchase order/IMG_0966.HEIC
+augmented_ocr,test,6ab38289be74,delivery_note,receipt,False,0.44672782501041247,False,Dataset/Dataset-2/Purchase order/IMG_0967.HEIC
+augmented_ocr,test,adab8f169fec,delivery_note,receipt,False,0.4108064121591972,False,Dataset/Dataset-2/Purchase order/IMG_0968.HEIC
+augmented_ocr,test,26fe0fcbc04b,delivery_note,delivery_note,True,0.4096729559019886,False,Dataset/Dataset-2/Purchase order/IMG_0969.HEIC
+augmented_ocr,test,6b6a915859a2,delivery_note,receipt,False,0.44841274748048143,False,Dataset/Dataset-2/Purchase order/IMG_0970.HEIC
+augmented_ocr,test,63d735225c26,purchase_order,purchase_order,True,0.5792387377089995,False,Dataset/Dataset-2/Purchase order/IMG_0972.HEIC
+augmented_ocr,test,53ed22a39c62,purchase_order,purchase_order,True,0.41947384505715873,False,Dataset/Dataset-2/Purchase order/IMG_0973.HEIC
+augmented_ocr,test,558ab17fe557,purchase_order,purchase_order,True,0.34231794835260904,False,Dataset/Dataset-2/Purchase order/IMG_0978.HEIC
+augmented_ocr,test,11b4da10d765,purchase_order,purchase_order,True,0.3885477088718304,False,Dataset/Dataset-2/Purchase order/IMG_0979.HEIC
+augmented_ocr,test,772f10ad9975,purchase_order,purchase_order,True,0.3680397747269635,False,Dataset/Dataset-2/Purchase order/IMG_0981.HEIC
+augmented_ocr,test,c4191b0e458a,purchase_order,customer_copy,False,0.40741907799472005,False,Dataset/Dataset-2/Purchase order/IMG_0982.HEIC

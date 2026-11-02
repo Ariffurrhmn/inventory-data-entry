@@ -1,0 +1,27 @@
+{
+  "sample_id": "srd_1173-receipt",
+  "image_sha256": "b5a94088b57ef80c091e59584e26eef273f554f4fbde778c8bea1acf957c6e2f",
+  "views": {
+    "full": "B00 E Grand Ave\r\nLalo's Mexican at Navy Pier\r\nTable O#1\r\n1 Bottled Water $2.45\r\n1 Add Pollo Taco $4.95\r\n1 Add Carnitas Taco $4.95\r\n1 Sour Cream $1.25 |\r\n1 Chihuahua Cheese $1.25\r\nNet Total: $14.85 go\r\nIL Sales $1.52 :\r\n: MPEA Tax $0.15 1\r\nRestaurant $0.04\r\nTOTAL: $16.56\r\nFood: $12.40\r\nBeverage: $2.45 | }\r\nA A Robinson Hill Company po\r\n5 I's The ExpefHience That Counts! i\r\nTell us about your visit! 12\r\nWb PODINSONN LL 1usa, con/guest -survey Sp\r\n",
+    "top_-12": "TC\r\n\r\nog\r\n\r\n[ERNE V)\r\n\r\n1\r\n\r\ni\r\n\r\nY oie\r\n\r\n1\r\n\r\n7:\r\n\r\nbl #-\r\n\r\nTar\r\n\r\nGaz\r\n\r\n42017 5:5\r\n\r\nCli 4\r\n\r\nDE\r\n\r\n# Cle ia\r\n\r\n~~.\r\n\r\n~\r\n\r\n-\r\n",
+    "top_0": "righ Am 0S stds\r\n\r\n}\r\n\r\n1\r\n\r\n[]\r\n\r\n3\r\n\r\nIY\r\n\r\n1\r\n\r\nSiaoy ie\r\n\r\nan ~\r\n\r\nt\r\n\r\nL\r\n\r\n>\r\n\r\n4\r\n\r\nTzalh le\r\n\r\nCl #\r\n\r\nServ: Claudia\r\n\r\nTrans #:\r\n\r\n64142\r\n\r\n# Cust:h\r\n\r\n8/24/2017 5:29 PM\r\n\r\nee\r\n\r\n——\r\n",
+    "top_12": "-n\r\n\r\n4\r\n\r\n1\r\n\r\n5\r\n\r\nid\r\n\r\nA\r\n\r\n: oo iv\r\n\r\n~~\r\n\r\nad\r\n\r\nt\r\n\r\n\"ne\r\n\r\na\r\n\r\ncau\r\n\r\nk\r\n\r\n1\r\n\r\nA\r\n\r\nTe\r\n\r\n4 0D\r\n\r\n$a\r\n\r\nAZ\r\n\r\n£\r\n\r\n6:29 pH\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

@@ -1,0 +1,15 @@
+{
+  "sample_id": "company_d2d988c4d125cbd5",
+  "image_path": "Dataset\\intake\\2026-10-19\\company_documents_v2\\images\\packing_slip\\d2d988c4d125cbd5.jpg",
+  "image_sha256": "a1b8924e7898bf38cd94e17f095ef0a91586827088d9d6d6f53b3a1906ba7eaf",
+  "full_text": "Delta Sports & Co. Ltd\r\nRide further, ride stronger\r\n\r\n464 High Street\r\n\r\nBS1 4DJ Bristol\r\n\r\nUnited Kingdom\r\n\r\nPhone: +44 20 6440622\r\nbilling@deltasports.co.uk\r\nwww.deltasports.co.uk\r\nVAT GB531255379\r\n\r\nBILL TO\r\n\r\nMargaret Gao\r\n\r\n9828 Larch Ct\r\n\r\nSW6 SBY London\r\n\r\nUnited Kingdom\r\n\r\nPhone: 1 (11) 500 555-0122\r\n\r\nItem Description\r\n\r\nPACKING SLIP\r\n\r\nNumber DS-BL-69048\r\nDate 04/01/2025\r\nOrder no. S069048\r\nCustomer ID AWO00016401\r\nCarrier Xrq - Truck Ground\r\n\r\nOrdered Shipped\r\n\r\nTT-M928 Mountain Tire Tube\r\n\r\nSelf-sealing tube.\r\n\r\nHY-1023-70 Hydration Pack - 70 oz.\r\n\r\nVersatile 70 oz hydration pack offers extra storage, easy-fill access, and a waist belt.\r\n\r\nHL-U509-B Sport-100 Helmet, Blue\r\n\r\nUniversal fit, well-vented, lightweight , snap-on visor.\r\n\r\nNOTES\r\n\r\nPackages\r\n\r\nUnits on hand\r\n\r\nReturns accepted within 14 days, items unused and in original packaging.\r\n\r\n1 1\r\n1 1\r\n1 1\r\n1\r\n3\r\n\r\nPacked by\r\n\r\nDelta Sports & Co. Ltd - 464 High Street - BS1 4DJ Bristol - United Kingdom - VAT GB531255379\r\n\r\nPacking Slip DS-BL-69048\r\n\r\nReceived by\r\n\r\nKeep pedalling, we've got you covered.\r\n\r\nPage 1/1\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

@@ -1,0 +1,13 @@
+{
+  "sample_id": "99227d025be4",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "df997f699539a7fbd3a07bbe7bebff781b14e7f5fcc485c783da49892fcf6484",
+  "full_text": "DASALRML 42 000 24 4\r\n\r\noF\r\n\r\n— i\r\n\r\nie\r\n\r\n-——\r\n\r\n=\r\n\r\n———\r\n\r\n————- — ns EX\r\n\r\ntin\r\n\r\n1 A Chicken\r\n\r\n+Monster\r\n\r\n+A +Cheese\r\n\r\n—-—————————_\r\n\r\ntt\r\n\r\nSubtotal\r\n\r\nTotal\r\n\r\na\r\n\r\ni\r\n\r\nCASH\r\n\r\ni\r\n\r\nKania! tan\r\n\r\n}\r\n\r\ntay Ne\r\n\r\n\\\r\n",
+  "status": "unreviewed_OCR_output"
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "4ee52bb59124",
+  "image_path": "services\\document_classifier\\data\\images\\4ee52bb59124.jpg",
+  "image_sha256": "cdcb69801c23ba30cecdb19ce23cacfbf94de035abcfbe868deaac97170bbfd1",
+  "full_text": "Welcome to Chick-fil-A\national Speedway FSU #00866\nDaytona Beach, FL\n386-252-8232\nOperator: Gary Harris\n\nIntern\n\nCUSTOMER COPY\n3/7/2016 11:01:44 AM\nDINE IN\n3 o2 Order Number: 3534366\n\nI\" Meal-SpcySand 6.25\nSpey Sand\nFries MD\nSwt Tea MD\nSub. Total: $6.25\nTax: $0.41\nTotal: $6.66\nChange $0.34\n25 Next Dollar $7.00\n8 Register:7 Tran Seq No: 3534366\n\n= Cashier: Jordan\nIt was pleasure serving you!\n\nHave a wonderful day,\nLike us on FB facebook.con/chickfi1ag66\n\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\4ee52bb59124.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

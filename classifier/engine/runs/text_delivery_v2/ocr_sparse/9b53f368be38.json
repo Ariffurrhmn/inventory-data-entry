@@ -1,0 +1,13 @@
+{
+  "sample_id": "9b53f368be38",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "5b861e636d2f69110dbb9de2e4700c179d333b2548cd4b3db76701fbc5bbb35c",
+  "full_text": "Suraiya Rahman\r\n\r\nPURCHASE\r\n\r\nORDER\r\n\r\nPurchase Order # 6\r\n\r\nBill To:\r\n\r\nShip To:\r\n\r\nMithy Khan\r\n\r\nUrm Islam\r\n\r\nDate:\r\n\r\nOct 8, 2026\r\n\r\nRequired By:\r\n\r\nOct 11, 2026\r\n\r\nItem\r\n\r\nantity\r\n\r\nRate\r\n\r\nAmount\r\n\r\nCeramic Mug\r\n\r\n20\r\n\r\n$2.80\r\n\r\n$56.00\r\n\r\nLED Desk Lamp\r\n\r\n10\r\n\r\n$8.50\r\n\r\n$85.00\r\n\r\nSubtotal:\r\n\r\n$141.00\r\n\r\nTax (0.35%):\r\n\r\n$0.49\r\n\r\nTotal:\r\n\r\n$141.49\r\n",
+  "status": "unreviewed_OCR_output"
+}

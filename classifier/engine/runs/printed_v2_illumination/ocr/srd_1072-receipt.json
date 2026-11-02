@@ -1,0 +1,27 @@
+{
+  "sample_id": "srd_1072-receipt",
+  "image_sha256": "031afe6d14f84a18a3f3e41622ba0984246b530457848aab0694cc22b20b1a37",
+  "views": {
+    "full": "TT —\r\nINF\r\n\"Ce OHANA HAWATTAN BBU\r\n» 4469 SLAUSON AVE\r\na Maywood, CA 80270\r\n5 (323) 771-9888\r\n\r\nPe, 4 Server: karla station: 9\r\nya Order #: 65193 Dine In\r\n| ys a m=\r\nL2G 5> SETTLED <<\r\n\r\nFEY 11/2 M0 1/2 Congo 8.45\r\nLi FRIED SHRIMP\r\n$:% #1 SHORT RIB\r\n\r\nSh ® 11/2 AND 1/2 COMBO 7.95\r\n+4 4 BBO BEEF\r\n\"> or FRIED SHRIMP\r\noof | 2 FOUNTAIN MEDIUM 3.50\r\n\"28 gar Subtotal: 0.00\r\n' pa’ od Food Subtotal: 19.90\r\n£ % Tax 1: 1.79\r\n8.4 me aon ou: $21.69\r\n| Bs Cash Tendered: 22.0\r\n“AY oHaNGE: -0.31\r\nFest |\r\n\r\n\"ut >> Ticket #: 94 <<\r\n> Created: 6/1/2013 7:43:46 PM\r\noa SETTLED: 6/1/2013 7:44:18 PH\r\nlt\r\n5 THANK YOU!\r\nv4\r\n\r\na,\r\n",
+    "top_-12": "® tl\r\n\r\nTim -—\r\n\r\nXx\r\n\r\nHawary\r\n\r\n446g\r\n\r\nLay\r\n\r\nAN BBQ\r\n\r\n5\r\n\r\nMayuoog\r\n\r\nSON VE\r\n\r\n270\r\n\r\nw Vy\r\n\r\n(323) 77, 90\r\n\r\n\"A ee\r\n\r\nServer. k\r\n\r\naria\r\n\r\n~ -\r\n\r\nh tS -—\r\n\r\n—~\r\n\r\n= —.\r\n\r\nStation: 3\r\n\r\n#3 x3\r\n\r\nLIES\r\n\r\n-—\r\n\r\n193\r\n\r\n~~ ae\r\n\r\nTa\r\n\r\n~~\r\n\r\n= a\r\n\r\nsK&\r\n\r\n ———\r\n\r\nDine In\r\n\r\n| 13 Bi\r\n\r\n/2 A\r\n\r\nOM\r\n\r\nSETTLED\r\n\r\nARN\r\n\r\nTe,\r\n\r\nRIp\r\n\r\nSHR]\r\n\r\nSHORT\r\n\r\n8.45\r\n\r\n7 qq\r\n",
+    "top_0": "&_ DM SE S——\r\n\r\nPRs\r\n\r\n>)\r\n\r\n=x\r\n\r\nOHANA HAWATTAN BBQ\r\n\r\n4459 SLAUSON AVE\r\n\r\nMaywood, CA 90270\r\n\r\n[2g\r\n\r\n(323) 771-9688\r\n\r\nStation:\r\n\r\nServer: karla\r\n\r\n-- rr mm = ————— ~ a\r\n\r\n——\r\n\r\n» ve\r\n\r\nDine In\r\n\r\nOrder #: 65133\r\n\r\n—\r\n\r\n-—— rr ————— — mo ——— =\r\n\r\n\"3\r\n\r\n+ «\r\n\r\n) +9\r\n\r\n>> SETTLED <<\r\n\r\n-\r\n\r\n-*\r\n\r\n1 1/2 AND 1/2 COMBO\r\n\r\n8.45\r\n\r\nFRIED SHRIMP\r\n\r\np\"\r\n\r\n7 4\r\n\r\nSHORT RIB\r\n\r\n7 Q&K\r\n",
+    "top_12": "PE\r\n\r\nQHANR\r\n\r\nSTAN\r\n\r\nri\r\n\r\nAA\r\n\r\ngLhLS\r\n\r\n10\r\n\r\n~~\r\n\r\nwayeoo 71-98%\r\n\r\ngrat \\o\" -\r\n\r\n£3\r\n\r\npo\r\n\r\npine 3\r\n\r\ny -\r\n\r\nserve!\r\n\r\n-—\r\n\r\n?\r\n\r\nps\r\n\r\nTo VN\r\n\r\nge\\33\r\n\r\n-\r\n\r\n-—\r\n\r\ng.A9\r\n\r\nrae\r\n\r\n—-\r\n\r\n---\r\n\r\na 1 \\ ED\r\n\r\n7 COM\r\n\r\n1 ok\r\n\r\nFa\r\n\r\nate\r\n\r\n\\ V2 R\r\n\r\nWw\r\n\r\nR10\r\n\r\n“4\r\n\r\n1B\r\n\r\nrR\r\n\r\n® .\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

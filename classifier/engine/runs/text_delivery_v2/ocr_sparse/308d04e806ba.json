@@ -1,0 +1,13 @@
+{
+  "sample_id": "308d04e806ba",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "4a163bebe75ccd4ddca6dd4642f231c1f7ddef5a16b5240ab934ea7828ee55ad",
+  "full_text": "Order\r\n\r\nOrder No\r\n\r\nORD-1229\r\n\r\nOrder Date\r\n\r\n05/10/2026\r\n\r\nRequired By\r\n\r\n10/10/2026\r\n\r\nFrom\r\n\r\nAl-Madina Traders\r\n\r\nBadda, Dhaka\r\n\r\nTo\r\n\r\n¢ Bengal Consumer Goods\r\n\r\nPlease supply the following goods:\r\n\r\nItem\r\n\r\nQty\r\n\r\nRate (Tk)\r\n\r\nAmount (Tk)\r\n\r\n:\r\n\r\n12\r\n\r\n45\r\n\r\n540\r\n\r\n2\r\n\r\n160\r\n\r\n320\r\n\r\n|\r\n\r\ninstant Noodles 8-pack\r\n\r\n| Onion 1kg\r\n\r\n5\r\n\r\n65\r\n\r\n325\r\n\r\n12\r\n\r\n42\r\n\r\n504\r\n\r\n| Salt 1kg\r\n\r\ni\r\n\r\nMilk Powder 500g\r\n\r\n6\r\n\r\n420\r\n\r\n|\r\n\r\n2,520\r\n\r\n—\r\n\r\n|\r\n\r\n:\r\n\r\nTotal:\r\n\r\ni\r\n\r\n: Bi\r\n\r\nFe\r\n\r\nAl-Madina Traders\r\n",
+  "status": "unreviewed_OCR_output"
+}

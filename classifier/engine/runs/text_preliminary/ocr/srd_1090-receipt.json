@@ -1,0 +1,15 @@
+{
+  "sample_id": "srd_1090-receipt",
+  "image_path": "Dataset\\intake\\2026-10-19\\expressexpense_srd\\images\\1090-receipt.jpg",
+  "image_sha256": "5f6f454ca153e917635b3e6833219199c8e7c05a45e66b500bae885b5e63310d",
+  "full_text": "FIVE GUYS\r\n\r\nSTORE # CA-1661\r\n2640 Reynolds Ranch Pkwy - Ste 140\r\nLodi, CA 95240\r\nPhone (208) 333-8750\r\n\r\n5/26/2017\r\n\r\nOrder 1d: AAAP2FGWAEBP\r\n47 ~ FIVE GUYS a\r\nEmployee: Robert C\r\n\r\nittle Hamburger\r\nLettuce\r\nPickles\r\nTomatoes\r\nGrilled Onions\r\nGrilled Mushrooms\r\nMustard\r\nKetchup\r\nJalapeno Peppers\r\n2 Large Fry (5.79)\r\n1 Large Soda\r\n1 Cheeseburger\r\nMayo\r\nLettuce\r\nPickles\r\nBBQ Sauce\r\n1 Regular Soda\r\n\r\nSub Total\r\n\r\nSales Tax\r\nOrder Total\r\n\r\nMasterCard\r\nCard#: ssxvsxsrsess293]\r\nAuthorization: 728767\r\n\r\nOrder Closed <--\r\n\r\nRE PPT Tee Treen\r\nDon't throw away your receipt!!!\r\n\r\ncould win!\r\nVeguys. COn/Survey\r\n1 out a brief survey!\r\n\r\n10 lucky people will win a\r\nFive Guys Gift Card each month\r\nWorth $25 each!\r\n\r\nnecessary\r\n12/31/2017.\r\n\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

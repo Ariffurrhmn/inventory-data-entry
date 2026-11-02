@@ -1,0 +1,16 @@
+{
+  "sample_id": "11d42d9168f2",
+  "image_path": "services\\document_classifier\\data\\images\\11d42d9168f2.jpg",
+  "image_sha256": "675e7ea70d7e086f7360a31c435c0b063027a754f3f5acb3e153d20a6dcb32ef",
+  "full_text": " Karnaphuli Traders\nInvoice\n\n~~\n\nInvoice No: INV-9869. Date: 06/07/2026. |\n\"Bill To / Customer: Green Leaf Mart, Badda, Dhaka.\n\nTew. Qty Rate (Tk) Amount (Tk)\n\nA EE I EE a. El\n\nMiniket Rice 25g 10 Tk 1,880 Tk 18,500\n\nMilk Powder 500g 10 Tk 420 Tk 4,200\n\nTk 1,300\n\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\11d42d9168f2.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

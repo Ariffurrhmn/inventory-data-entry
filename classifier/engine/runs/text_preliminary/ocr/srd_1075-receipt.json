@@ -1,0 +1,15 @@
+{
+  "sample_id": "srd_1075-receipt",
+  "image_path": "Dataset\\intake\\2026-10-19\\expressexpense_srd\\images\\1075-receipt.jpg",
+  "image_sha256": "a1bdd7253ebf3b1a0df4ad42c7038454cecb7f372a70e00f160b994c35294074",
+  "full_text": "smokeBoxBBQ\r\n2361 Whitney Ave\r\nHamden, CT 06518\r\n203 909 6545\r\n\r\nORDERR 39\r\nCASHIE\r\n5/22/2014 2: B 48 PM\r\n\r\n1 FXN DIET BIRCH\r\n1 FULL BOX\r\nSUBTOTAL:\r\nTAX:\r\nSERVER #00000\r\nTOTAL :\r\n\r\nCash\r\nChange\r\n\r\nCLOSED\r\n\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

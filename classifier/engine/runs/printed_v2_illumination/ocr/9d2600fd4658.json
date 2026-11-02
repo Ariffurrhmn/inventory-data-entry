@@ -1,0 +1,27 @@
+{
+  "sample_id": "9d2600fd4658",
+  "image_sha256": "3c448aa7529d43892e8746ce2994f39a5062433c0305ee20c1ce7aa343a04f3c",
+  "views": {
+    "full": "DI i i i i he th aa eR a ha ers hh\r\nDELIVERY CHALLAN\r\nYour Business Name\r\nChallan no. DC-001 Date: 2026-09-04 Place of supply: Maharashtra\r\nSELLER CONSIGNEE\r\nYour Business Name Customer Name\r\nShop 12, Market Road, City — 400001\r\nVehicle no. MIN 01 AB 1234 Purpose: Job work\r\nLJ Description HSN/SAC Qty Rate Taxable GST %\r\n| Rem / service 8083 1.00 1,000.00 21,000.00 8%\r\nTaxable value 1,000.00\r\nCOST ¥90.00\r\nSGST 230.00\r\nGrand total 21,180.00\r\nAmount in wards: One Thousand One Hundred Eighty Rupees Only\r\nNotes: Goods sent for the purpose stated above. Not a sale.\r\n",
+    "top_-12": "OELiveg,\r\n\r\nSigg\r\n\r\nYour &,\r\n\r\nhatian \" pa\r\n\r\n(LT?\r\n\r\nGLI\r\n\r\nO° 2028.05. oy\r\n\r\nShop 1, Marg\r\n\r\nTCO sup\r\n\r\n! Roag City 000\r\n\r\nVaricg ,\r\n\r\nONSIGxe,\r\n\r\nMatarasnyy,\r\n\r\n© AB 13,\r\n\r\nstom, Name\r\n\r\nDeecrintion\r\n\r\nPitpoge oo\r\n\r\nservis\r\n\r\nH3N/s an\r\n\r\n88g,\r\n\r\nOy\r\n\r\nlop\r\n\r\nRate\r\n\r\n$000.90\r\n\r\nTaxapngy\r\n\r\n1000.05\r\n\r\nGsy %\r\n\r\nTavabge Vale\r\n\r\nBy\r\n\r\nSour\r\n\r\n1.000 00\r\n\r\nraed tog\r\n\r\n—\r\n\r\n90.09\r\n\r\n—__ 90.0\r\n\r\n180 to\r\n",
+    "top_0": "L  ]\r\n\r\nDELIVERY CHALLAN\r\n\r\nYour Busines Name\r\n\r\nChatan no DC- 001\r\n\r\nDate 2026-09-04\r\n\r\nPlace of supply: Maharashirs\r\n\r\nSELLER\r\n\r\nCONSIGNEE\r\n\r\nYour Business Name\r\n\r\nCustomer Name\r\n\r\nShop 12 , Market Road, City — 400001\r\n\r\nvenicie no. MH 0 AB 1234\r\n\r\nPutpose Job work\r\n\r\n[J\r\n\r\nDescription\r\n\r\nHSN/SAC\r\n\r\nQty\r\n\r\nRate\r\n\r\nTaxable\r\n\r\nGST %\r\n\r\n1\r\n\r\nfem / service\r\n\r\n8983\r\n\r\n1.00\r\n\r\n01,000.00\r\n\r\n1,000.00\r\n\r\n8%\r\n\r\nTarable value\r\n\r\n1,000.00\r\n\r\nCGST\r\n\r\n90.00\r\n\r\nses?\r\n\r\n90.00\r\n\r\nOrand total\r\n\r\n1,180.00\r\n",
+    "top_12": "wALLAN\r\n\r\nyour ©\r\n\r\nAE horn\r\n\r\neof uP!\r\n\r\not panorattir®\r\n\r\nBae\r\n\r\n2018-094\r\n\r\nHSIONEE\r\n\r\nonab\r\n\r\nanno\r\n\r\ncustome\r\n\r\nast\r\n\r\nsRUER\r\n\r\n_ a0oo0\r\n\r\nqansti®\r\n\r\n\\ feed chy\r\n\r\nwY%\r\n\r\nMarke\r\n\r\nRate\r\n\r\n00000\r\n\r\nshop 12+\r\n\r\nPurpnse do\r\n\r\nay\r\n\r\n©0000?\r\n\r\nio\r\n\r\nap 1234\r\n\r\nno\r\n\r\n290.00\r\n\r\nNa\r\n\r\neo NT\r\n\r\nHENISAC\r\n\r\n400\r\n\r\n19000\r\n\r\navabie vau®\r\n\r\nDesct ot\r\n\r\n9983\r\n\r\nea\r\n\r\npom | 36°\r\n\r\n56ST ——\r\n\r\nrand W¥\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

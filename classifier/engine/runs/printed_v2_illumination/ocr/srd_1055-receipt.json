@@ -1,0 +1,27 @@
+{
+  "sample_id": "srd_1055-receipt",
+  "image_sha256": "7411f2b859d2c3b731008482e46c3780e19a59538b8d1b0ecdf603f0d6ef9b4f",
+  "views": {
+    "full": "WINGS & THINGS\r\n\r\n| 519 FULTON AVE. HEMPSTEAD NY Tw\r\n| THANKS CALL AGAIN 516-483-0936\r\n\r\n“150° #195 IN\r\n\r\nAF 11000 1 47 2c RaB MEAL 5.99\r\n\r\n> 0 ICED TEA os\r\npy 200 re we\r\n500 1 #3 SHING MEAL 6.99 IE\r\n\r\n200 SIERRA 0\r\n\r\ney CHAR 0.00\r\n",
+    "top_-12": "ee,\r\n\r\nSen\r\n\r\nwI\r\n\r\n- ATER!\r\n\r\nTha\r\n\r\n9 ry\r\n\r\nMS cary\r\n\r\nA | 50pc\r\n\r\n\"EMPSTEAD yy\r\n\r\n1N0p¢\r\n\r\n“403-093\r\n\r\nxd\r\n\r\n#7 oop 028 yz,\r\n\r\nIN\r\n",
+    "top_0": "-—y\r\n\r\n—\r\n\r\nCw\r\n\r\nWINGS & THINGS\r\n\r\n519 FULTON AVE\r\n\r\nHEMPSTEAD NY\r\n\r\nTHANKS CALL AGAIN 516-483-0936\r\n\r\n50p¢\r\n\r\n#195\r\n\r\nIN\r\n\r\nWalgielf\r\n\r\n1 #7 2D0 PRR MEAL\r\n\r\nR QQ\r\n",
+    "top_12": "-\r\n\r\nad \\\r\n\r\noo\r\n\r\nNG\r\n\r\nI\r\n\r\nGS &\r\n\r\nVE\r\n\r\nne!\r\n\r\nWpSTERD\r\n\r\n483-\r\n\r\n00306\r\n\r\n§19 FUL!\r\n\r\nON A\r\n\r\nGAIN\r\n\r\n516-\r\n\r\nHANK\r\n\r\nw 00\r\n\r\n.”\r\n\r\n# 95 gn MEM\r\n\r\not\r\n\r\n1 al abt\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

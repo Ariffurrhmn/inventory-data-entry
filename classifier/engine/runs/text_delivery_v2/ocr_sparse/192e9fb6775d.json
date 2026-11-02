@@ -1,0 +1,13 @@
+{
+  "sample_id": "192e9fb6775d",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "e5eb3f45efd630f7755c8022637434dd55f2b531a555a6dc8bbe9feba4080d11",
+  "full_text": "Challan no. DC-009\r\n\r\nDELIVERY CHALLAN\r\n\r\nDate 2026-09-04\r\n\r\nABC Company\r\n\r\nPlace of supply Kolkata\r\n\r\nSELLER\r\n\r\nCONSIGNEE\r\n\r\nABC Company\r\n\r\nSojib\r\n\r\nShop 12, Market Road, City — 400001\r\n\r\nHouse-71, Road- 14, Kolkata\r\n\r\nVehicle no.: MH 01 AB 1234\r\n\r\nPurpose: Job work\r\n\r\nDesc\r\n\r\nRate\r\n\r\nTaxable\r\n\r\nGST\r\n\r\nHSN/SAC\r\n\r\naty\r\n\r\n1\r\n\r\nWireless Mouse\r\n\r\n9056\r\n\r\n150.00\r\n\r\n%750.00\r\n\r\n112,500.00\r\n\r\n20%\r\n\r\n2\r\n\r\nComputer Keyboard\r\n\r\n3541\r\n\r\n250.00\r\n\r\n2900.00\r\n\r\n¥2,25,000.00\r\n\r\n6%\r\n\r\n3\r\n\r\nuss\r\n\r\n1436\r\n\r\n300.00\r\n\r\n3550.00\r\n\r\n%1,65,000.00\r\n\r\n10 %\r\n\r\nTaxable value\r\n\r\n¥5,02,500.00\r\n\r\nCGST\r\n\r\n¥26,250.00\r\n\r\nSGST\r\n\r\n226,250.00\r\n\r\nGrand total\r\n\r\n%5,55,000.00\r\n\r\nAmount in words: Five Lakh Fifty Five Thousand Rupees Only\r\n\r\nNotes: Goods sent for the purpose stated above. Not a sale.\r\n",
+  "status": "unreviewed_OCR_output"
+}

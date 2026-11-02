@@ -1,0 +1,13 @@
+{
+  "sample_id": "a162d6ad43e0",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "c6530360b82a99a5e72ec4b0b3b49919fee78d109ef8fef9408fa7230ec58b68",
+  "full_text": ".\r\n\r\nai\r\n\r\n\"\r\n\r\n.\r\n\r\npo\r\n\r\nif\r\n\r\n%\r\n\r\nA A rn, on SO\r\n\r\nnS nh dr Sp\r\n\r\n1001-Choco Bun\r\n\r\nfo\r\n\r\n22.000\r\n\r\n#1\r\n\r\ntt a\r\n\r\nna\r\n\r\n1032-Bounie Cheddar\r\n\r\n4\r\n\r\n26.000\r\n\r\n3,\r\n\r\n-\r\n\r\n1\r\n\r\ni\r\n\r\na4\r\n\r\nw inn\r\n\r\n6002-Flastic Bag Medium\r\n\r\n23\r\n\r\ni\r\n\r\ni\r\n\r\nTT ST Mh a ek —— TT mmm ta a a en md re SA en es\r\n\r\nTotal Itew.\r\n\r\nTotal\r\n\r\nte\r\n\r\nAy\r\n\r\nDebet Carg\r\n\r\n4\r\n\r\nay\r\n\r\nra\r\n\r\n3:\r\n\r\nSs\r\n\r\ni\r\n\r\noh\r\n\r\nea\r\n\r\nra\r\n\r\not 2\r\n\r\nA\r\n\r\ndir\r\n\r\nSIAR\r\n\r\nos\r\n\r\ni\r\n\r\nTn\r\n\r\n——\r\n\r\n53\r\n\r\nAN\r\n",
+  "status": "unreviewed_OCR_output"
+}

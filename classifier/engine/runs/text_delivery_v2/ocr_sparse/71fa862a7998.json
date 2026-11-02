@@ -1,0 +1,13 @@
+{
+  "sample_id": "71fa862a7998",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "5760b0728e42876efe2cb1f75e9fa9c50bc28e22fcff90890360526731b7bfda",
+  "full_text": "Bias\r\n\r\nis\r\n\r\nJi\r\n\r\nC\r\n\r\n3\r\n\r\n03m\r\n\r\non | 82,0015 00174\r\n\r\nPE\r\n\r\n{ght 22\r\n\r\n5.0\r\n\r\n9.53\r\n\r\nSkin\r\n\r\n|\r\n\r\n1 az Ri 24.93\r\n\r\n|\r\n\r\nFries\r\n\r\nSalad\r\n\r\n1 Boz SIr/NES Ch\r\n\r\n24.98\r\n\r\nMac and Cheese\r\n\r\nLoaded Mashed\r\n\r\n1 Straw Lemonade\r\n\r\nSub-Total:\r\n\r\n£3.15\r\n\r\nTax:\r\n\r\n5.54\r\n\r\n74.69\r\n\r\nota\r\n\r\npue\r\n\r\nRi,\r\n\r\n1\r\n\r\nJ icate #\r\n\r\non Draft\r\n\r\nt $1 pints & 85 Pitchers!\r\n\r\nMONDAY and TUESDAY'S\r\n",
+  "status": "unreviewed_OCR_output"
+}

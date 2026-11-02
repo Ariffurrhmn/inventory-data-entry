@@ -1,0 +1,13 @@
+{
+  "sample_id": "a35a5b21dd98",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "036d73aad1057b9a56f7ff261f118a93e76eeb7f9e0ecc6d9d0291a5780e5fcd",
+  "full_text": "EAI\r\n\r\nFrom (buyer): Meghna Store, Badda, Dhaka .\r\n\r\nTo (supplier): Sonar Bangla Distributors.\r\n\r\nRequired By:| 24/08/2026 |\r\n\r\nPlease SUpDIY the following gents:\r\n\r\nRate (Tk)\r\n\r\nAmount (Tk)\r\n\r\n120\r\n\r\n880\r\n\r\n2,\r\n\r\n5\r\n\r\nSo\r\n\r\nSi\r\n\r\nRe\r\n\r\nin\r\n\r\nSH\r\n\r\n-—\r\n\r\nLo\r\n\r\nay\r\n\r\nJ\r\n\r\nis\r\n\r\nisth\r\n\r\n5\r\n\r\niQ\r\n\r\nas Bo\r\n\r\n2\r\n\r\nod\r\n\r\nol\r\n\r\n5\r\n\r\nin)\r\n\r\nEEN\r\n\r\n2G\r\n\r\ni\r\n\r\nHes\r\n\r\nA\r\n",
+  "status": "unreviewed_OCR_output"
+}

@@ -1,0 +1,27 @@
+{
+  "sample_id": "srd_1108-receipt",
+  "image_sha256": "4bdf3d57effa7037b2cd9e1829d7ea00fb8c8bcd59e62df463f540a37b69a9db",
+  "views": {
+    "full": "Go Nongo BBQ :\r\n6661 Stanford Ranch Rd.\r\nRocklin, CA 95677 :\r\n\r\n916-632-8828\r\nReceipt: mongo-042441\r\nDate: Jan 28, 2018 5:48:07 PM\r\nServed by: Manager\r\nIten Price Qty Value f\r\nmm i 0 0 0 0 |\r\nBBQ Dinner $10.99 x4 $47.15 |\r\nbeverage $2.29 x2 $4.91\r\nItems count: 6 :\r\nSubtotal: $48.54 \\\r\nCA Tax 7.25%: $3.52\r\nTotal $52.08\r\nCash\r\nTendered: $52.06\r\nChange: $0.00\r\n",
+    "top_-12": "6661 stan\r\n\r\nRock1jp\r\n\r\nRanch pq\r\n\r\n95677\r\n\r\n916-63,.\r\n\r\n882\r\n\r\nRece; pt;\r\n\r\nDate\r\n\r\nBongo\r\n\r\n04244;\r\n\r\nStrveq ),\r\n\r\n+ 20}\r\n\r\nge,\r\n\r\n5:49:90 ”\r\n",
+    "top_0": "Go Nongo BBG\r\n\r\n6661 Stanford Ranch Rd.\r\n\r\nRocklin, CA 95677\r\n\r\n916-632-8828\r\n\r\nReceipt:\r\n\r\nmongo-042441\r\n\r\nJan 28, 2018 5:48:07 FM\r\n\r\nDate:\r\n\r\nServed by:\r\n\r\nManager\r\n",
+    "top_12": "go WrS® ®\r\n\r\neh 8\r\n\r\ngor\r\n\r\n9567\r\n\r\nger 5°\r\n\r\ngoct 13?\r\n\r\n2 0828\r\n\r\n-oa2add\r\n\r\n48:07 w\r\n\r\nong®\r\n\r\n2018\r\n\r\naan 2°\r\n\r\npecer®t’\r\n\r\npate\r\n\r\nWanages\r\n\r\ngerved ©\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "76cc99d39da4",
+  "image_path": "services\\document_classifier\\data\\images\\76cc99d39da4.jpg",
+  "image_sha256": "c008a22c1f76dc1b9d9e89cf948d589ec7bc9d64e8119a640c6a8c6af6fd626a",
+  "full_text": ": | ® { |\nTals From Al-Madina Traders, Badda, Dhaka. : ¥\n® To: Dhaka Trade House. .\n°o Order No: ORD-9953. od\nOrder Date: 04/07/2026. ‘|\nRequired By 09/07/2026. ;\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\76cc99d39da4.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

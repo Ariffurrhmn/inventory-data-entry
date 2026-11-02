@@ -1,0 +1,27 @@
+{
+  "sample_id": "srd_1002-receipt",
+  "image_sha256": "7d84106e1b46f24b8802becd1f0ee83b34f1cab6bc331bf5caf734b6b1c5142a",
+  "views": {
+    "full": "2 i 4 Sa pecs a] Lie EA STIR og Cu\r\n7 ; 3 Sy, | 8 Eg g : ; i 3 : i pe\r\nGSE Whkyy Ne En ;\r\n3 i ora Cheney to yo ge A\r\nSry 0 Back of Recejoy fl »\r\nho Loge: 028-455 Zp Arta a o>”\r\ntr tt psy 2 M3 4 F-— 0. \\\r\nPF Eh B- . 4 Spelt i \\\r\nA 121200 Bell 1msgg Pon TS Vi \\ \\\r\n18 (81754, 136 @ on <. <> CJ \\ iE ;\r\noe 91/206 Sang 2 NE Wo ARS we &\r\n“oS Order 378755 Cashier: paso > 4, NA PN A 2\r\n: 1 Power Veg Boy 4.99 oF a rh R.\r\nNo Sour Cream 0.00 8 yo nh wa\r\n” No Cheese 0.00 [y Cis J LC Tin pty & by\r\nj= 1 Rg Orange Crsh Fz l.gg 2 2 A » TAN 4 .\r\nCY |\r\nVisa 761 $k 8 A at my Ay IR\r\nAcct: XXXKXKXX2276 = oo SINE ' FEY\r\n~~ o \\ Y 4\r\n| Approval :571883 2 3 0 YY as, esi \\ 4 f 2\r\n| > ' * SAAT\r\nPp DRIVE Ty pA 2A\r\n3 GX p= Thank you for visiting! & RA! : a - ) yA\r\n— ¢ org ll Inet CF PO\r\n| < 3 - . : ie ny\r\nJ af SX Bl AE £55\r\n<p nll alls; £5\r\n(l= a AE ad Lit : Miz A]\r\n",
+    "top_-12": "Xrey hry\r\n\r\n© Ba\r\n\r\nBoy\r\n\r\nN KEONIIN\r\n\r\n'9an, 20.\r\n\r\nTiny\r\n\r\nane\r\n\r\nen Try\r\n\r\n0,\r\n\r\n“w\r\n\r\nX try\r\n\r\n”\r\n\r\nng,\r\n\r\nPen\r\n\r\nZi\r\n\r\nWy\r\n\r\nJ —~\r\n\r\n=\r\n\r\n7) 111g,\r\n\r\n\"A\r\n\r\nETN bef\r\n\r\ntar | ON,\r\n\r\n[£¢\r\n\r\nty,\r\n\r\nlet\r\n\r\nWy\r\n\r\n4.\r\n\r\n73g\r\n\r\ni)\r\n\r\nPike\r\n\r\n1\r\n\r\nTag\r\n\r\n6226\r\n\r\nhy VS\r\n\r\nba\r\n\r\nEX\r\n\r\n\\\r\n\r\ni\r\n",
+    "top_0": "xx RL,\r\n\r\nirargggy\r\n\r\nSee Back\r\n\r\nOf 5\r\n\r\npe.\r\n\r\nEen\r\n\r\n] —.\r\n\r\nUrve\r\n\r\n8Ce1,q\r\n\r\n5\r\n\r\n79\r\n\r\nXtxxyy\r\n\r\n1 9anos en\r\n\r\n0-211-1\r\n\r\nEl\r\n\r\nNot )\r\n\r\n-\r\n\r\nEO A141\r\n\r\n14\r\n\r\na\r\n\r\nRY\r\n\r\nbis 30\r\n\r\nno\r\n\r\n\\\r\n\r\noo. tr\r\n\r\neton Pike\r\n\r\na\"\r\n\r\n\\\r\n\r\nRETR) 4226\r\n\r\n9/1/2016\r\n\r\nvv Br\r\n",
+    "top_12": "[RY\r\n\r\n|.\r\n\r\n| Ra\r\n\r\nry\r\n\r\n1 Ye\r\n\r\nLESS 2S ERR E288 2834301000 TELE\r\n\r\nFor a Chante to WIN\r\n\r\nSee Back of Peceip\r\n\r\nSurvey Coder O279-4033-101-10\r\n\r\nN\r\n\r\n(Diganos en Espanol)\r\n\r\ni\r\n\r\nple\r\n\r\n\\\\\r\n\r\nKd\r\n\r\nLOCKER KR XKKAX EK XRRKKAK RRR\r\n\r\nFa\r\n\r\nnq\r\n\r\n“\r\n\r\nTaco Bell MATH4\r\n\r\not\r\n\r\n7230 Pendleton Fhe\r\n\r\nid\r\n\r\nLat ete\r\n\r\nBAS ch.\r\n\r\ng/1/2016\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

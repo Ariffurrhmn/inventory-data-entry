@@ -1,0 +1,27 @@
+{
+  "sample_id": "srd_1095-receipt",
+  "image_sha256": "8764b1acc469bf871003c5012c8419b9bb9ffeea921b3289729858a87ca01c9e",
+  "views": {
+    "full": "BY CE\r\n“ a Al ‘\r\nGolden Coin Fi\r\n: 94-450 Ukee St 0\r\nWaipahu, HI 96797 =\r\no (808) 846-0802 4\r\n; I Server: Charito Station: 1 ¢ od\r\n( Order #: 6879 Take Out -\r\nCNL Se « 4\r\nunc oices\r\nlm 8.79 4\r\n| FD PINAPAITAN \\\r\n(7 1 Bar Subtotal: Hy h\r\n\\ A Food Subtotal: 3.00 3 wy\r\n\\ Tax 1: Ah S )\r\n\\ pd... $10.29 -\r\nA Ca aca\r\n",
+    "top_-12": "Sa\r\n\r\n94-4\r\n\r\ntole\r\n\r\nLoin\r\n\r\n» Foy\r\n\r\ndip\r\n\r\nUkeg\r\n\r\n£\r\n\r\n» H\r\n\r\n95797\r\n\r\nA\r\n\r\n(808)\r\n\r\nBryer\r\n\r\nChart\r\n\r\ney\r\n\r\na\r\n\r\na\r\n\r\n~~ -\r\n\r\nStatigy,\r\n\r\n~ aa\r\n\r\n-\r\n\r\nak |\r\n\r\n21h py Ie? +\r\n",
+    "top_0": ":\r\n\r\n2\r\n\r\nGolden Coin\r\n\r\n94-450 Ukee St\r\n\r\nWaipahu, HI 96797\r\n\r\n(808) 848-0802\r\n\r\nStation: 1\r\n\r\nre |\r\n\r\nserver: tharito\r\n\r\n——.\r\n\r\nPp\r\n\r\nnnn\r\n\r\n-\r\n\r\nJR\r\n\r\na\r\n\r\nTale ht\r\n",
+    "top_12": "[ey\r\n\r\n;\r\n\r\nW\r\n\r\nwf\r\n\r\n0 kes\r\n\r\n15 1\r\n\r\nwo\r\n\r\ngration\r\n\r\n-\r\n\r\nft\r\n\r\n-\r\n\r\n\\¥Zal\r\n\r\nthet? we\r\n\r\nq ver:\r\n\r\n—-——\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

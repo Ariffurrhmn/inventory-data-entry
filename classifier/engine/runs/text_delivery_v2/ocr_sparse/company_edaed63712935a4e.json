@@ -1,0 +1,13 @@
+{
+  "sample_id": "company_edaed63712935a4e",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "2d4231b0cbe31a4cd0aff9f459503bea10a0a6345e31da1bbde72fcf4e5516e3",
+  "full_text": "Harbor Velo Co.\r\n\r\nRide farther, live lighter with\r\n\r\narbor Velo.\r\n\r\n88 Elm Avenue\r\n\r\nSuite 817\r\n\r\nPACKING\r\n\r\n80202 Denver, CO\r\n\r\nUSA\r\n\r\nSLIP\r\n\r\nPhone: (407) 555-9878\r\n\r\nbilling@harborvelo.com\r\n\r\nwww.harborvelo.com\r\n\r\nEIN 75-6701454\r\n\r\nNUMBER\r\n\r\nDATE\r\n\r\nORDER NO.\r\n\r\nCUSTOMER ID\r\n\r\nCARRIER\r\n\r\nDN25066413\r\n\r\n5066413\r\n\r\nAW00019340\r\n\r\nFebruary 21,\r\n\r\nXrq - Truck\r\n\r\n2025\r\n\r\nGround\r\n\r\nBILL TO\r\n\r\nRenee Dominguez\r\n\r\nHaberstr 57\r\n\r\n48001 Minster\r\n\r\nGermany\r\n\r\nPhone: 1 (11) 500 555-0169\r\n\r\nItem\r\n\r\nDescription\r\n\r\nUn\r\n\r\nOrdered\r\n\r\nShipped\r\n\r\nBK-T44U-54\r\n\r\nEA\r\n\r\n1\r\n\r\n1\r\n\r\nTouring-2000 Blue, 54\r\n\r\nThe plush custom saddle keeps you riding all day, and there's\r\n\r\nplenty of space to add panniers and bike bags to the newly-\r\n\r\nredesigned carrier. This bike has stability when fully-loaded.\r\n\r\nCA-1098\r\n\r\nAWC Logo Cap\r\n\r\nEA\r\n\r\n1\r\n\r\n1\r\n\r\nTraditional style with a flip-up brim; one-size fits all.\r\n\r\nPackages\r\n\r\n1\r\n\r\nTotal weight\r\n\r\n12.56 kg\r\n\r\nUnits on hand\r\n\r\n2\r\n\r\nPacked by\r\n\r\nReceived by\r\n\r\nThank you for riding with Harbor Velo Co.\r\n\r\nwww.harborvelo.com - billing@harborvelo.com - (407) 555-9878\r\n\r\nPacking Slip DN25066413\r\n\r\nPagel/1\r\n",
+  "status": "unreviewed_OCR_output"
+}

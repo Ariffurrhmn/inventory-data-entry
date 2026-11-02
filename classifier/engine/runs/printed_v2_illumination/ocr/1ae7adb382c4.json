@@ -1,0 +1,27 @@
+{
+  "sample_id": "1ae7adb382c4",
+  "image_sha256": "e31647e5d3d9e85218bd7e55ce163a879323bee7f5133c03c2b78f324f7e8877",
+  "views": {
+    "full": "SELLER CONSIGNEE\r\nABC Company Sojib\r\nShop 12, Market Road, Clty — 400001 House- 71, Road- 14 , Kolkata\r\nVehicle ho. MH 01 AB234 Purpose: Job work\r\n# ‘Description 7 HSNJSAC sous QA Rate oe “Taxable CGST%\r\n:] Wireless Mouse 2056 150.00 2750.00 112,500.00 20%\r\n2 Computer Keyboard 3541 25000 2900.00 €2,25,000.00 6%\r\n3 uss 1436 300.00 $550.00 165,000.00 0%\r\nTaxable value ¥5,02,500.00\r\ncosT ¥26,250.00\r\nSGST ¥286,250.00\r\nGrand total ¥5,55,000.00\r\nAmount in words: Five Lakh Fifty Five Thousand Rupees Only\r\n",
+    "top_-12": "SEL ER\r\n\r\nAsc\r\n\r\n0p 12\r\n\r\n« Maria, Roay cry,\r\n\r\nCONSIONgg\r\n\r\nVehissa ne. My 01 ap ”\r\n\r\nHousg. 5,\r\n\r\nPurpose Job\r\n\r\n+ Roay.\r\n\r\n4 Kolkap,\r\n\r\nress Mogg,\r\n\r\noy\r\n\r\n2056\r\n\r\nComp, Keying\r\n\r\n3544\r\n\r\n150.00\r\n\r\n750.00\r\n\r\n235\r\n\r\n28050\r\n\r\n[¢}\r\n\r\n4\r\n\r\n#9005,\r\n\r\n12.500,0\r\n\r\n300.09\r\n\r\n0,\r\n\r\n3\r\n\r\n25,000.50\r\n\r\n20%\r\n\r\n8%\r\n\r\nBes 000,04\r\n\r\nToxapia va\r\n\r\n0%\r\n\r\nCosy\r\n\r\nSesr\r\n\r\n£502.50\r\n\r\n£26,250\r\n\r\n2.25000\r\n",
+    "top_0": "oo\r\n\r\nLo\r\n\r\nRE\r\n\r\nsal\r\n\r\nSELLER\r\n\r\nCONSIGNEE\r\n\r\nABC Company\r\n\r\n$olib\r\n\r\nShop 12, Market Road, Clty — 400001\r\n\r\nHouse- 71, Road- 14, Kolkata\r\n\r\nvehicle nc. MH 01 AB234\r\n\r\nPurpose: Job work\r\n\r\n1\r\n\r\nWireless Mouse\r\n\r\n2056\r\n\r\n15000\r\n\r\n0750.00\r\n\r\n€) 1.50000\r\n\r\n20%\r\n\r\n2\r\n\r\nComputer Keyboard\r\n\r\n354%\r\n\r\n250.00\r\n\r\n2900.00\r\n\r\n€2,25,000.00\r\n\r\n6%\r\n\r\n3\r\n\r\nuse\r\n\r\n1436\r\n\r\n300.00\r\n\r\n550.00\r\n\r\n165,000.00\r\n\r\n0%\r\n\r\nTaxable vaiue\r\n\r\n¥5,02,500.00\r\n\r\nCGST\r\n\r\n€26,250.00\r\n\r\nSGST\r\n\r\n26,250.00\r\n",
+    "top_12": "oi\r\n\r\noNSENER\r\n\r\ngolf\r\n\r\naa Kola\r\n\r\n1, Road\"\r\n\r\nHouse”\r\n\r\nGAY\r\n\r\nseUVER\r\n\r\n_ ADODO\r\n\r\n20%\r\n\r\nMarke\r\n\r\nXx Road\r\n\r\nSho\r\n\r\nn\r\n\r\naso\r\n\r\n8%\r\n\r\npurpose *®\r\n\r\nse\r\n\r\n® a2\r\n\r\n500%\r\n\r\nD\r\n\r\n0%\r\n\r\nERIEAS\r\n\r\nW000\r\n\r\nyenicte ™°\r\n\r\n10000\r\n\r\n08500090\r\n\r\n2058\r\n\r\n250 no\r\n\r\n2.50000\r\n\r\n15500\r\n\r\n268%\r\n\r\n20000\r\n\r\n283%\r\n\r\nWi\r\n\r\ness WOO\r\n\r\n28.25%\r\n\r\n4436\r\n\r\naxa wae\r\n\r\nCommitt\r\n\r\n6st\r\n\r\n5687\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

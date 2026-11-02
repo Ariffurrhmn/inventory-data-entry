@@ -1,0 +1,14 @@
+{
+  "parent_run": "printed_v1_grouped",
+  "reason": "Adaptive bounded follow-up after poor unseen-template validation; not a prespecified independent test.",
+  "heading_rule_sha256": "f764ebc96771d23a2f0c689efaa5c105d04d19b8b24eb67ab60464ea9118ac4f",
+  "candidate_ocr": [
+    "baseline",
+    "sparse",
+    "combined"
+  ],
+  "statistical_fallback": "Exact persisted baseline TF-IDF/logistic model trained on 150 printed training records; not refitted",
+  "rule": "Unambiguous printed heading selects PO/DN/CC; otherwise trained classifier. Copy/order hybrids are flagged and use statistical fallback.",
+  "selection": "Maximum validation macro-F1; ties prefer baseline, sparse, combined",
+  "test_inputs_opened": 0
+}

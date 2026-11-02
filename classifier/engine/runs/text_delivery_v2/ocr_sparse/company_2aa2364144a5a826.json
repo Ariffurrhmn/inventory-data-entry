@@ -1,0 +1,13 @@
+{
+  "sample_id": "company_2aa2364144a5a826",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "12dfb2136cb07bc2b1e8dfd2848f7527a604d77db0c051096f8663b5b60d8931",
+  "full_text": "Iris Sports Corp.\r\n\r\nPedal power. Ride the future.\r\n\r\n279 Harbor Blvd\r\n\r\nPURCHASE\r\n\r\n80202 Denver, CO\r\n\r\nUSA\r\n\r\nORDER\r\n\r\nPhone: (989) 555-7243\r\n\r\naccounts@irissports.com\r\n\r\nwww.irissports.com\r\n\r\nEIN 79-2440607\r\n\r\nNUMBER\r\n\r\nDATE\r\n\r\nDELIVERY DATE\r\n\r\nACCOUNT NO.\r\n\r\nREQUESTED BY\r\n\r\nCARRIER\r\n\r\n1S-PO-3615\r\n\r\n2025-07-07\r\n\r\n2025-07-16\r\n\r\nLITWARE0001\r\n\r\nEric Kurjan\r\n\r\nCargo\r\n\r\nTransport 5\r\n\r\nVENDOR\r\n\r\nDELIVER TO\r\n\r\nLitware, Inc.\r\n\r\nIris Sports Corp.\r\n\r\n4405 Balboa Court\r\n\r\n279 Harbor Blvd\r\n\r\n95062 Santa Cruz, CA\r\n\r\n80202 Denver, CO\r\n\r\nUnited States\r\n\r\nUSA\r\n\r\nPhone: (989) 555-7243\r\n\r\nItem\r\n\r\nDescription\r\n\r\nQty\r\n\r\nUnit price\r\n\r\nDisc.\r\n\r\nAmount\r\n\r\nAR-5381\r\n\r\nAdjustable Race\r\n\r\n3\r\n\r\n$50.26\r\n\r\n$150.78\r\n\r\nPAYMENT TERMS\r\n\r\nSubtotal\r\n\r\n$150.78\r\n\r\nNet 60 days\r\n\r\nFreight\r\n\r\n$3.77\r\n\r\nPlease confirm this order and quote our PO number on all invoices\r\n\r\nand delivery notes.\r\n\r\nTax 8%\r\n\r\n$12.06\r\n\r\nTotal\r\n\r\n$166.61\r\n\r\nApproved by\r\n\r\nGear up strong and ride safely today.\r\n\r\nWwwirissports.com - accounts @irissports.com - (989) 555-7243\r\n\r\nPurchase Order IS-PO-3615\r\n\r\nPage 1/1\r\n",
+  "status": "unreviewed_OCR_output"
+}

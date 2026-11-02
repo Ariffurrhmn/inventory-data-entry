@@ -1,0 +1,6 @@
+{
+  "sample_id": "ee4df28e7c36",
+  "image_sha256": "fe331cf5597acd422ec0514ddd2e059a8a69d31b0767f98dfcfa3524c81b9dc5",
+  "full_text": "ABC Company PURCHASE ORDER\r\nArifur Rahman\r\n\r\nMirpur-2,\r\n\r\nDhaka,\r\n\r\nBangladesh\r\n\r\nVendor Address: PO# PO-9\r\n\r\nXYZ Company Order Date Oct 05, 2026\r\nMirpur-12,\r\n\r\nDhaka, Delivery Date Oct 07, 2026\r\nBangladesh\r\n\nPurchase Tax (10%) 13.05\r\nTOTAL $143.55\r\nNotes\r\nIt was great doing business with you.\r\nTerms & Conditions\r\nUpon accepting this purchase order, you hereby agree to the terms & conditions.\r\n",
+  "status": "unreviewed_OCR_output"
+}

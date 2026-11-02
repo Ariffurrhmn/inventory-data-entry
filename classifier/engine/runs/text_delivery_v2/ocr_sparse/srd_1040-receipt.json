@@ -1,0 +1,13 @@
+{
+  "sample_id": "srd_1040-receipt",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "1c878488eec0ecff57353e5dadd1f56b7f81aee67fa5d8fee96bc46ec02cbc82",
+  "full_text": "SUKHE THAI\r\n\r\nAl\r\n\r\nUSHI + ASIAN\r\n\r\nSUKHOT H\r\n\r\nUSION\r\n\r\n1\r\n\r\nV\r\n\r\n14\r\n\r\nAVE UNIT\r\n\r\n€\r\n\r\nMIAMI FI\r\n\r\n33196\r\n\r\n{\r\n\r\n{\r\n\r\n(4888\r\n\r\nhttp\r\n\r\nwww. sukhothaius.com\r\n\r\nvw.Sukhothaius.com#***\r\n\r\ns»++Order online \\\r\n\r\nORDER: 0003\r\n\r\nDINE-IN\r\n\r\nCashier: Sergio\r\n\r\n19-Apr-2019 2:02:26P\r\n\r\nTransaction 211209\r\n\r\n1\r\n\r\nChicken Fried Rice And Egg\r\n\r\n$7.99\r\n\r\nLunch\r\n\r\n1\r\n\r\nCalifornia Tropic And Miso\r\n\r\n$7.99\r\n\r\nLunch\r\n\r\n1\r\n\r\nAdd Two Tostones\r\n\r\n$1.00\r\n\r\nI\r\n\r\nSprite\r\n\r\n$2.50\r\n\r\n1\r\n\r\nPerrier Sparkling Water\r\n\r\n$3.50\r\n\r\nSubtotal\r\n\r\n$22.98\r\n\r\nTax\r\n\r\n$1.61\r\n\r\nService fees on tables.\r\n\r\n$3.45\r\n\r\nRestaurant (15.0%)\r\n\r\nTotal\r\n\r\n$28.04\r\n\r\nCREDIT CARD AUTH\r\n\r\n$28.04\r\n",
+  "status": "unreviewed_OCR_output"
+}

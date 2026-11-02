@@ -1,0 +1,27 @@
+{
+  "sample_id": "srd_1040-receipt",
+  "image_sha256": "1c878488eec0ecff57353e5dadd1f56b7f81aee67fa5d8fee96bc46ec02cbc82",
+  "views": {
+    "full": "f STHAI in\r\n: sukHOTHAI SUS! : Som\r\nou 171736 SW 147 AVE UNIT 36\r\n) A 3 MIAMI FL 33196\r\n; [805 (4888\r\nhttp://www.sukhothaius.com\r\ns+++0rder online www.sukhothaius.com#+#*\r\n| ORDER: 0003\r\noe DINE-IN |\r\n4 Cashier: Sergio\r\n> Wo 19-Apr-2019 2:02:26P :\r\n. 4d Transaction 211209 :\r\n8&1 Chicken Fried Rice And Egg $7.99\r\n\r\nRe Lunch 3\r\n\r\n. _§ 1 California Tropic And Miso §799 § ARE\r\n\r\nEo Lunch\r\n\r\n=. 4 1 Add Two Tostones $1.00 :\r\n\r\n. @ 1 Perrier Sparkling Water $3.50 a\r\n: 3 & Subtotal $2298 §\r\nFJ Tax | $161 §\r\n4 Service fees on tables. $345\r\n\r\n#4 Restaurant (15.0%) S50\r\n- #& Total $28.04 p: ne\r\n4 CREDIT CARD AUTH $28.04 §\r\n",
+    "top_-12": "ee THA]\r\n\r\nSUKHOT IA o\r\n\r\n7? 74;\r\n\r\n2 ny\r\n\r\nFy\r\n\r\nSion\r\n\r\n+ Asian\r\n\r\nAMIAn, 15 Av\r\n\r\n37 9g\r\n\r\nI 3¢\r\n\r\nhttp.\r\n\r\norg\r\n\r\n*oh\r\n\r\ntkhothy 5.\r\n\r\nder Online yy,\r\n\r\n1 thajyg c\r\n\r\nOR\r\n\r\nOMmesas,\r\n\r\n0003\r\n",
+    "top_0": "ha,\r\n\r\nSUK THAI\r\n\r\nSUKH\r\n\r\nOTHAI SUSHI + ASIAN\r\n\r\nFUSION\r\n\r\n11735 SW 14/7 AVL UNIT 36\r\n\r\nMINANIL FI\r\n\r\n33190\r\n\r\n[805 (4808\r\n\r\nhttp://www.sukhothaius.com\r\n\r\nw+++0Order online www.sukhothaius.com#s+*\r\n\r\nORDER: 0003\r\n",
+    "top_12": "Tn\r\n\r\n5)\r\n\r\nwit\r\n\r\nctl\r\n\r\nFUS\r\n\r\nOf rit 2\r\n\r\ns wre\r\n\r\n14\r\n\r\nAV 3 [314]\r\n\r\n117°\r\n\r\nTAN!\r\n\r\nido\r\n\r\npothaius ©\r\n\r\nrH\r\n\r\nap: 1\r\n\r\nhotly\r\n\r\naus\r\n\r\nan order ony\r\n\r\n. 0003\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

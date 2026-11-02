@@ -1,0 +1,13 @@
+{
+  "sample_id": "1e9226ab9225",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "c31864b33e12af53102bd96bdd97eafd2449278c67ceb252c2455f2574ebdfd3",
+  "full_text": "25\r\n\r\npo\r\n\r\nMitcheldean Garage\r\n\r\nNew Road\r\n\r\nMitchel dean\r\n\r\nGlos\r\n\r\nGL17 BBA\r\n\r\nMax #4558\r\n\r\nTex 2620\r\n\r\nCUSTOMER COPY\r\n\r\nThis is not UAT recelpt\r\n\r\nliza\r\n\r\n-\r\n\r\nATT: ABEERKHYY\r\n\r\nPy\r\n\r\n31@18\r\n\r\nCARD: #wwsxwexsnexd] 57\r\n\r\nPAN Seq Nr B84\r\n\r\nICC SHALE\r\n\r\nTOTAL\r\n\r\n£15.25\r\n\r\nCustomer PIN verified\r\n\r\nPlease retaln recelpt\r\n\r\nfor Your records\r\n\r\na - p. -\r\n\r\nAuth Coder @B976Y\r\n\r\n1819882\r\n\r\n13-86-15\r\n\r\n14:12 R7%6l\r\n\r\nThan k\r\n\r\nY OL -\r\n",
+  "status": "unreviewed_OCR_output"
+}

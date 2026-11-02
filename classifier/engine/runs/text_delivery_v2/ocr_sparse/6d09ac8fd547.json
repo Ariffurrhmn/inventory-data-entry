@@ -1,0 +1,13 @@
+{
+  "sample_id": "6d09ac8fd547",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "d4c3797babb4190ea0314ba480d0b5a1cb32a4ca4cd7ef5776d5d65978f8e720",
+  "full_text": "GRADIENT CARE\r\n\r\nal Espreseo (siege shot)\r\n\r\n20.00\r\n\r\n3 cora~el Macchuato (leon)\r\n\r\n$10.00\r\n\r\n-l\r\n\r\nBR\r\n\r\nuy =\r\n",
+  "status": "unreviewed_OCR_output"
+}

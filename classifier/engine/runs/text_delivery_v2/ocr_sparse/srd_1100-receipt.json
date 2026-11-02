@@ -1,0 +1,13 @@
+{
+  "sample_id": "srd_1100-receipt",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "640cdb6123dc2e89ef9c4e8eeca6f1a7bcd74a084db007b3ec1d0b58e23ee19b",
+  "full_text": "| Ezaum\r\n\r\nwa\r\n\r\nStony\r\n\r\n16725 Stay Plain Rd\r\n\r\non AB TSP 4A9\r\n\r\nStores: pid Tel#: 780-414-8362\r\n\r\nWelcome to al) day breakfast\r\n\r\nId's\r\n\r\n192\r\n\r\nKS# 1\r\n\r\n03/10/2018 07:39:12 PM\r\n\r\nQTY ITEM\r\n\r\nTOTAL\r\n\r\nI Delivery\r\n\r\n0.00\r\n\r\n1 10 McNuggets EVM\r\n\r\n10.28\r\n\r\n1 Barbeque Sauce\r\n\r\n=\r\n\r\nm\r\n\r\n1 Barbeque Sauce\r\n\r\non\r\n\r\nF\r\n\r\n1 L Coke\r\n\r\n1 M French Fries\r\n\r\nTog\r\n\r\n1 HM GrChs S-Fry Yog\r\n\r\n3.99\r\n\r\n1 Snoopy\r\n\r\n1 HM Apple Juice\r\n\r\n1 6 Cookies\r\n\r\n2.89\r\n\r\n6 Choc Chip Cookie\r\n\r\n1 Baked Apple Pie\r\n\r\n1.19\r\n\r\n1 L French Fries\r\n\r\n3.28\r\n\r\n1 L Iced Tea\r\n\r\n2.99\r\n\r\nSubtotal\r\n\r\n25.04\r\n\r\nGST\r\n\r\n1.n\r\n\r\nTake-Out Total\r\n\r\n26.15\r\n\r\nCREDIT SALES - McDelivery\r\n\r\n26.15\r\n\r\nChange\r\n\r\n0.00\r\n\r\nGST #: 120807092\r\n\r\nEN\r\n\r\nSALE #04kdfugb32\r\n\r\n»\r\n\r\n-\r\n\r\nra, |\r\n\r\ny\r\n",
+  "status": "unreviewed_OCR_output"
+}

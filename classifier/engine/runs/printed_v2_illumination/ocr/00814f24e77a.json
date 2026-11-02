@@ -1,0 +1,27 @@
+{
+  "sample_id": "00814f24e77a",
+  "image_sha256": "e73032680b8e25d0d8b5253126791c37cce83dbbb0bb821718c04f80a6472d95",
+  "views": {
+    "full": "Rena PURCHASE\r\nPurchase Order # 1\r\nBill To: Ship To:\r\nHasan Mahmood Hasnara Begum Date: Oct 8. 2026\r\nRequired By: Oct 16, 2026\r\nItem Quantity Rate Amount\r\nPen 20 $0.15 $3.00\r\nSubtotal: $3.00\r\nTax (0.02%): $0.00\r\nTotal: $3.00\r\n",
+    "top_-12": "itu Raha,\r\n\r\nBill 15.\r\n\r\nSE\r\n\r\nHasa, Mahmopy\r\n\r\nShip To.\r\n\r\nOR\r\n\r\nHasna, Begy,\r\n\r\nUrchage Order 4 ;\r\n\r\ntem\r\n\r\nDate.\r\n\r\nPen\r\n\r\nQUiraq By:\r\n\r\nOct\r\n\r\n8 2026\r\n\r\nCt 18, 202g\r\n\r\nQuantip,\r\n\r\nRate\r\n\r\n20\r\n\r\nAmong\r\n\r\n$0. 15\r\n\r\n$3.00\r\n\r\nSu thirty,\r\n\r\n£20\r\n",
+    "top_0": "Arifur Rahman\r\n\r\nPURCHASE\r\n\r\nORDER\r\n\r\nPurchase Order # 1\r\n\r\nBill To:\r\n\r\nShip To:\r\n\r\nHasan Mahmood\r\n\r\nHasnara Begum\r\n\r\nDate:\r\n\r\nOct 8, 2026\r\n\r\nRequired By:\r\n\r\nOct 16, 2026\r\n\r\nltem\r\n\r\n[\r\n\r\nQuantity\r\n\r\n|\r\n\r\nRate\r\n\r\nAmount\r\n\r\nPen\r\n\r\n20\r\n\r\n$0.15\r\n\r\n$3.00\r\n\r\nSuhintal-\r\n\r\n$300\r\n",
+    "top_12": "HASE\r\n\r\nPURC\r\n\r\npER\r\n\r\nOrder #1\r\n\r\nPur chas\r\n\r\nAxi\r\n\r\nur Reb\r\n\r\nocd 202\r\n\r\nDale\r\n\r\n202\r\n\r\noct 16\r\n\r\nReo\r\n\r\nired BY\r\n\r\ngrip TO:\r\n\r\nBegu™\r\n\r\nHasna?\r\n\r\ngin Tor\r\n\r\nAmount\r\n\r\nmood\r\n\r\nRate\r\n\r\npasan M2\r\n\r\n$3 00\r\n\r\nQuantity\r\n\r\n$0.5\r\n\r\n20\r\n\r\nga 00\r\n\r\nyere\r\n\r\nguint al\r\n\r\npen\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

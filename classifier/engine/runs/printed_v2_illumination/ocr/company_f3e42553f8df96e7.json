@@ -1,0 +1,27 @@
+{
+  "sample_id": "company_f3e42553f8df96e7",
+  "image_sha256": "6c656589809f64b75b618c6470ab72675e672803d2450078471b3989a0fa47c4",
+  "views": {
+    "full": "w Purchase Ord\r\nLo urcnase oraer\r\nHS WheslwnikaLI C Number PO-2025-3212\r\nrecision wheels, smooth riges\r\nall Date 5 Jun 2025\r\n410 Oak Stree Delivery date 14 Jun 2025\r\nSuite 143 Account no. TRIKES0001\r\n02110 Boston, MA N\r\nUSA Requested by Annette Hill\r\nhone: (591) 555-42 Carrier Overnight J-Fast\r\nbl er .\r\nwww.iriswheetworks.com\r\nN 80-1423683 VENDOR\r\nTrikes, Inc.\r\n90 Sunny Ave\r\nEaNCDETLE 94704 Berkeley, CA\r\nBank: Northern ‘Trust Banl United States\r\nItem Description Qty  Unitprice Disc. Amount\r\nTI-M823 HL Mountain Tire 550 $42.51 — $23,380.50\r\nIncredible traction, lightweight carbon\r\nreinforced.\r\nTT- Mountain Tire Tube 550 $5.59 - $3,074.50\r\nM928 Self-sealing tube.\r\nPAYMENT TERMS\r\nSubtotal $26,455.00\r\nNet 45 days\r\n) i Freight $661.38\r\nPlease confirm this order and quote our PO\r\nnumber on all invoices and delivery notes. Tax 8% $2,116.42\r\nTotal $29,232.80\r\nApproved by\r\nYour next ride is just around the corner.\r\nPurchase Order PO-2025-3212 Pagel/1\r\n",
+    "top_-12": "Ad\r\n\r\nPurch,\r\n\r\nNumpg,\r\n\r\nDaye\r\n\r\nSe Orde,\r\n\r\n2025.35,\r\n\r\nDelve, date\r\n\r\nJun 2025\r\n\r\ni\r\n\r\nActoyng no,\r\n\r\n4 Jun 2025\r\n\r\ni\r\n\r\nSQuestey\r\n\r\nby\r\n\r\nTRIKES 0g,\r\n\r\nCarrjgy\r\n\r\nMette Hin\r\n\r\nVernigns J.\r\n\r\nast\r\n\r\nVENDOR\r\n\r\nTrikes\r\n\r\ny Ing.\r\n\r\nHe\r\n\r\n70.\r\n\r\nLi ny Ave\r\n\r\nUnitey S$\r\n\r\neley, Ca\r\n\r\nItem\r\n\r\nStrintio,\r\n\r\nTigo\r\n\r\nMerey, bi\r\n\r\nNain\r\n\r\na\r\n\r\nQty Uniy Price\r\n\r\n“ong\r\n\r\nDigg,\r\n\r\naction ligh, Bight cq, bo,\r\n\r\n550\r\n\r\n$42.5;\r\n\r\nAmoun:\r\n\r\n$23 380.509\r\n",
+    "top_0": "Purchase Order\r\n\r\n1\r\n\r\nWo!\r\n\r\nNumber\r\n\r\nPO-2025-3212\r\n\r\nDate\r\n\r\n5 Jun 2025\r\n\r\n14 Jun 2025\r\n\r\nDelivery date\r\n\r\nAccount no.\r\n\r\nTRIKES0001\r\n\r\nRequested by\r\n\r\nAnnette Hill\r\n\r\nCarrier\r\n\r\nOvernight J-Fast\r\n\r\nit\r\n\r\nOH\r\n\r\nVENDOR\r\n\r\nTrikes, Inc.\r\n\r\n90 Sunny Ave\r\n\r\n94704 Berkeley, CA\r\n\r\nUnited States\r\n\r\nItem\r\n\r\nDescription\r\n\r\nQty\r\n\r\nUnit price\r\n\r\nDisc.\r\n\r\nAmount\r\n\r\nTi-M823\r\n\r\nHL Mountain Tire\r\n\r\n550\r\n\r\n$42.51\r\n\r\n—\r\n\r\n$23,380.50\r\n\r\ndible traction, lightweight carbon\r\n\r\nIncre\r\n\r\n~\r\n\r\nWr\r\n",
+    "top_12": "order\r\n\r\npurcha®\r\n\r\n3212\r\n\r\n2025\r\n\r\n%\r\n\r\nure’\r\n\r\n5M\r\n\r\nun 202\r\n\r\npate\r\n\r\n4 Jun 20%\r\n\r\nae\r\n\r\nWO\r\n\r\npele\r\n\r\nry 021\r\n\r\nTrIKESOOE\r\n\r\nnefte wit\r\n\r\naccount o\r\n\r\nght\r\n\r\nFast\r\n\r\nquest®\r\n\r\ncarrie\r\n\r\nvenooR\r\n\r\nnd\r\n\r\nit\r\n\r\nTrikes:\r\n\r\namount\r\n\r\ngo Sun >\r\n\r\nel\r\n\r\nwee:\r\n\r\nDist\r\n\r\nAi\r\n\r\nuit price\r\n\r\n23.380 50\r\n\r\nUrited 5\r\n\r\n$42 1\r\n\r\n550\r\n\r\npescrinto®\r\n\r\nfre®\r\n\r\nul\r\n\r\naweiaht al\r\n\r\nW\r\n\r\nmed\r\n\r\nered\r\n\r\nole tract\r\n\r\na\r\n\r\n2\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

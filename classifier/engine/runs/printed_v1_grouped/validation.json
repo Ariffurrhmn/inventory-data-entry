@@ -1,0 +1,249 @@
+{
+  "candidates": {
+    "baseline": {
+      "n": 25,
+      "correct": 13,
+      "accuracy": 0.52,
+      "macro_f1": 0.4805555555555555,
+      "class_report": {
+        "purchase_order": {
+          "precision": 1.0,
+          "recall": 0.8,
+          "f1-score": 0.8888888888888888,
+          "support": 10.0
+        },
+        "receipt": {
+          "precision": 0.2,
+          "recall": 1.0,
+          "f1-score": 0.3333333333333333,
+          "support": 3.0
+        },
+        "delivery_note": {
+          "precision": 1.0,
+          "recall": 0.3333333333333333,
+          "f1-score": 0.5,
+          "support": 3.0
+        },
+        "customer_copy": {
+          "precision": 1.0,
+          "recall": 0.1111111111111111,
+          "f1-score": 0.2,
+          "support": 9.0
+        },
+        "accuracy": 0.52,
+        "macro avg": {
+          "precision": 0.8,
+          "recall": 0.5611111111111111,
+          "f1-score": 0.4805555555555555,
+          "support": 25.0
+        },
+        "weighted avg": {
+          "precision": 0.904,
+          "recall": 0.52,
+          "f1-score": 0.5275555555555556,
+          "support": 25.0
+        }
+      },
+      "confusion_matrix": [
+        [
+          8,
+          2,
+          0,
+          0
+        ],
+        [
+          0,
+          3,
+          0,
+          0
+        ],
+        [
+          0,
+          2,
+          1,
+          0
+        ],
+        [
+          0,
+          8,
+          0,
+          1
+        ]
+      ]
+    },
+    "sparse": {
+      "n": 25,
+      "correct": 11,
+      "accuracy": 0.44,
+      "macro_f1": 0.2972222222222222,
+      "class_report": {
+        "purchase_order": {
+          "precision": 1.0,
+          "recall": 0.8,
+          "f1-score": 0.8888888888888888,
+          "support": 10.0
+        },
+        "receipt": {
+          "precision": 0.17647058823529413,
+          "recall": 1.0,
+          "f1-score": 0.3,
+          "support": 3.0
+        },
+        "delivery_note": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 3.0
+        },
+        "customer_copy": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 9.0
+        },
+        "accuracy": 0.44,
+        "macro avg": {
+          "precision": 0.29411764705882354,
+          "recall": 0.45,
+          "f1-score": 0.2972222222222222,
+          "support": 25.0
+        },
+        "weighted avg": {
+          "precision": 0.42117647058823526,
+          "recall": 0.44,
+          "f1-score": 0.3915555555555556,
+          "support": 25.0
+        }
+      },
+      "confusion_matrix": [
+        [
+          8,
+          2,
+          0,
+          0
+        ],
+        [
+          0,
+          3,
+          0,
+          0
+        ],
+        [
+          0,
+          3,
+          0,
+          0
+        ],
+        [
+          0,
+          9,
+          0,
+          0
+        ]
+      ]
+    },
+    "combined": {
+      "n": 25,
+      "correct": 11,
+      "accuracy": 0.44,
+      "macro_f1": 0.2972222222222222,
+      "class_report": {
+        "purchase_order": {
+          "precision": 1.0,
+          "recall": 0.8,
+          "f1-score": 0.8888888888888888,
+          "support": 10.0
+        },
+        "receipt": {
+          "precision": 0.17647058823529413,
+          "recall": 1.0,
+          "f1-score": 0.3,
+          "support": 3.0
+        },
+        "delivery_note": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 3.0
+        },
+        "customer_copy": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 9.0
+        },
+        "accuracy": 0.44,
+        "macro avg": {
+          "precision": 0.29411764705882354,
+          "recall": 0.45,
+          "f1-score": 0.2972222222222222,
+          "support": 25.0
+        },
+        "weighted avg": {
+          "precision": 0.42117647058823526,
+          "recall": 0.44,
+          "f1-score": 0.3915555555555556,
+          "support": 25.0
+        }
+      },
+      "confusion_matrix": [
+        [
+          8,
+          2,
+          0,
+          0
+        ],
+        [
+          0,
+          3,
+          0,
+          0
+        ],
+        [
+          0,
+          3,
+          0,
+          0
+        ],
+        [
+          0,
+          9,
+          0,
+          0
+        ]
+      ]
+    }
+  },
+  "selection": {
+    "selected": "baseline",
+    "ocr_policy": "baseline",
+    "scope_version": "printed-only-v1",
+    "validation_macro_f1": 0.4805555555555555,
+    "validation_accuracy": 0.52,
+    "selection_rule": "Maximum validation macro-F1; ties prefer baseline, sparse, combined in that order",
+    "new_test_result": null,
+    "test_images_opened": 0
+  },
+  "training_records": 150,
+  "validation_records": 25,
+  "historical_test_excluded": 27,
+  "class_order": [
+    "purchase_order",
+    "receipt",
+    "delivery_note",
+    "customer_copy"
+  ],
+  "empty_ocr_by_policy": {
+    "baseline": 7,
+    "sparse": 0,
+    "combined": 0
+  },
+  "limitations": [
+    "Small development validation reused from prior work; not an independent final test.",
+    "Five excluded historical test records share the broader Bridge family with validation; they were not opened or evaluated.",
+    "Validation delivery notes are three synthetic printed Bridge photos, not real new businesses.",
+    "Synthetic generator families grouped using known metadata; exhaustive provenance independence is unproven.",
+    "Existing reviewed labels include unresolved payment/language questions.",
+    "Scores are not calibrated; handwriting detection is not implemented."
+  ]
+}

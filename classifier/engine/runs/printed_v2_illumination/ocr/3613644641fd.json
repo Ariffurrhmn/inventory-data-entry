@@ -1,0 +1,27 @@
+{
+  "sample_id": "3613644641fd",
+  "image_sha256": "24f7327870e06ae8706d7028cff8d2e60f1fbde6146b5c98d36e3c558a25b8ca",
+  "views": {
+    "full": "I\r\n1\r\n1\r\n1\r\nSELLER CONSIGNEE |\r\nABC Company Tanjine ; :\r\nShop 12, Market Road, City — 400001 House- 88, Road- 7, Maharashtra i\r\ni\r\n|\r\nVehicle no MH 01 AB1238 Purpose: Job work :\r\nI\r\n. I\r\ni Pencil Box 8056 100.00 2180.00 18,000.00 5% |\r\n2 Stapler asa 500.00 2150.00 75,000.00 8%\r\nTaxable value 93,000.00\r\nCGST 22,700.00\r\nSGST ¥2,700.00\r\n———————————————————————————————\r\nGrand total ¥98,400.00\r\nAmount in words: Ninety Eight Thousand Four Hundred Rupees Only\r\nNotes: Goods sent for the purpose stated above, Not a sale.\r\n",
+    "top_-12": "on\r\n\r\nSE, LER\r\n\r\nAsc\r\n\r\nShap 15\r\n\r\n«Marker Roay\r\n\r\ni\r\n\r\n= 40000,\r\n\r\nONSionge\r\n\r\nere ng Hoy AB 129,\r\n\r\nHouse. EP)\r\n\r\n050 son\r\n\r\nRo,\r\n\r\nMaharggp\r\n\r\nPack go\r\n\r\nFosar:\r\n\r\n8054\r\n\r\n54\r\n\r\n00.09\r\n\r\nLE\r\n\r\n$00.09\r\n\r\n4150.00)\r\n\r\nfg, 000.09\r\n\r\nGF gy,\r\n\r\n75,000, 00\r\n\r\n5%\r\n\r\nTaxabhy\r\n\r\n8%\r\n\r\nost\r\n\r\nSGsr\r\n\r\n#93.000,00\r\n\r\nGand togay\r\n\r\n*2.700,0\r\n\r\n700.00\r\n\r\ntog 400, oo\r\n",
+    "top_0": "=\r\n\r\nor\r\n\r\nSELLER\r\n\r\nCONSIONEE\r\n\r\nABC Company\r\n\r\nTanjine\r\n\r\nShop 12, Market Road, City — 400001\r\n\r\nHouse- 36, Road- 7, Maharashtra\r\n\r\nVehicie no. MH 01 AB $234\r\n\r\nPurpose Job work\r\n\r\nTY,\r\n\r\nPencil Box\r\n\r\n8056\r\n\r\n100.00\r\n\r\n180.00\r\n\r\n5%\r\n\r\n18,000.00\r\n\r\nStapler\r\n\r\nasa\r\n\r\n500.00\r\n\r\n8150.00\r\n\r\n75,000.00\r\n\r\n8%\r\n\r\nTaxable value\r\n\r\n93,000.00\r\n\r\nCCST\r\n\r\n2,700.00\r\n\r\nSGST\r\n\r\n2,700.00\r\n\r\nGrand total\r\n\r\n€98,400.00\r\n",
+    "top_12": "pe\r\n\r\nCONSY\r\n\r\nQHE\r\n\r\n{enjine\r\n\r\noad”\r\n\r\n1, ppanarass Ww\r\n\r\nHouse”\r\n\r\nra\r\n\r\ngeLlER\r\n\r\n— 400001\r\n\r\n5%\r\n\r\nABC\r\n\r\nparkel\r\n\r\nno28. ©\r\n\r\n08\r\n\r\npoo 00\r\n\r\n8%\r\n\r\nPurp!\r\n\r\nso HOP\r\n\r\n@ ric\r\n\r\na\r\n\r\n00000\r\n\r\n10000\r\n\r\n3000\r\n\r\nyenicie no\r\n\r\nase ®\r\n\r\n7000\r\n\r\n90k\r\n\r\n50000\r\n\r\n@nin®\r\n\r\nBp wate\r\n\r\nPench 80%\r\n\r\n258\r\n\r\ncost\r\n\r\n200.00\r\n\r\n3657\r\n\r\nrund 2\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

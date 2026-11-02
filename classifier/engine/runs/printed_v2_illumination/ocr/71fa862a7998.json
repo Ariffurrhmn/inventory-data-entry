@@ -1,0 +1,27 @@
+{
+  "sample_id": "71fa862a7998",
+  "image_sha256": "5760b0728e42876efe2cb1f75e9fa9c50bc28e22fcff90890360526731b7bfda",
+  "views": {
+    "full": "TEI\r\n\\ YaAEh Baseline Ava ;\r\nFontana, CA. 9335\r\ni (909) 263-2290 i\r\nTol: 31 Gstat 2 Srvrl Asher\r\nDate: 02-15-2015 9:03pm £32,0015.00174\r\n1'8ud Light 22 5.20\r\n1 Plck 3 3.39\r\n{oaded Skine\r\nA Moz: Stix\r\nHot Wings\r\n1 6oz Sirloin/Rib 74.93\r\nFries\r\nSalad\r\n1 Boz SIr/NES Chx 24.98 ;\r\nMac and Cheese '\r\nLoaded Mashed ;\r\n1 Straw Lemonade 3199\r\nSub-Total: 69.15\r\nTax: 5.54\r\nTotal Due: 74.63\r\nPER on Draft $1 pints & $5 Pitchersi!\r\ny MONDAY and TUESDAY'S\r\n",
+    "top_-12": "~~\r\n\r\n[ey\r\n\r\nRY\r\n\r\nXr\r\n\r\nw\r\n\r\nda\r\n\r\nPigd £3\r\n\r\nha\r\n\r\n[17 TI\r\n\r\n333\r\n\r\nJ!\r\n\r\n3,\r\n\r\nBaty [rid\r\n\r\nEla\r\n\r\nSeal\r\n\r\n=o\r\n\r\nvty\r\n\r\nTs,\r\n\r\n...\r\n\r\nlott\r\n\r\na\r\n\r\na\r\n\r\n3) &\r\n\r\n[234\r\n\r\nFo\r\n\r\n2\r\n\r\n-.\r\n\r\n“\r\n\r\n5\r\n\r\n“ir\r\n\r\n2s\r\n\r\nL230\r\n\r\nSay\r\n\r\n3.59\r\n\r\nCO Sta\r\n\r\nUL ayy,\r\n\r\nri\r\n\r\nr Brag\r\n\r\n24 [9\r\n",
+    "top_0": "—-\r\n\r\n.\r\n\r\n1\r\n\r\nIAL:\r\n\r\nFARMS\r\n\r\nFontana\r\n\r\nhO93S\r\n\r\n(A) 253-7290\r\n\r\nTol:\r\n\r\n31 5s\r\n\r\n2 Seat\r\n\r\nAxher\r\n\r\nDate: C2 ri Lats 9:0%ma 2. is. ATA\r\n\r\npp\r\n\r\n--\r\n\r\n--\r\n\r\n--\r\n\r\n! fd 1 font 2\r\n\r\n—\r\n\r\n1 Pica 3\r\n\r\n3.8\r\n\r\n1¢\r\n\r\n1\r\n\r\nA\r\n\r\n“img\r\n\r\nStina\r\n\r\nHot Wingo\r\n\r\n1 Any SirtoinsRib\r\n\r\n724 09\r\n",
+    "top_12": "RI\r\n\r\n2\r\n\r\nbY DI\r\n\r\n0 PLE\r\n\r\n-\r\n\r\nPress)\r\n\r\nfarts . oy 0\r\n\r\n[TI\r\n\r\no 0Ws\r\n\r\nMRED on (NS ah\r\n\r\nLeet\r\n\r\nGet:\r\n\r\n..\r\n\r\nis\r\n\r\nor: 3\r\n\r\n3\r\n\r\nre mE\r\n\r\neet\r\n\r\n5.\r\n\r\npares\r\n\r\nen\r\n\r\nant\r\n\r\n-\r\n\r\n3.8\r\n\r\nfur Lent\r\n\r\n\\ Be\r\n\r\n3\r\n\r\n) 34. Ae\r\n\r\nprod\r\n\r\nbe]\r\n\r\nSin\r\n\r\nTn \\OFY\r\n\r\nb\r\n\r\nFL\r\n\r\nwot\r\n\r\n1\r\n\r\nSAT\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

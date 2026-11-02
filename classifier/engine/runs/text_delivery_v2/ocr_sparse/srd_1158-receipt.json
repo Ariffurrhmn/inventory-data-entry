@@ -1,0 +1,13 @@
+{
+  "sample_id": "srd_1158-receipt",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "459c47ef17e9b8a9779ee6c16117e182c4c1af8518d73f115a6df63fc2d38547",
+  "full_text": "Ay —\r\n\r\nMITASU JAPANESE RESTAURANT SDN BHD\r\n\r\nB-01,CENTRAL PLAZA,\r\n\r\n34, JALAN SULTAN ISMAIL,\r\n\r\n50250 KUALA LUMPUR\r\n\r\nTEL 03-2110 2833\r\n\r\n(GST Reg. No\r\n\r\n001774428160)\r\n\r\nTax Invoice\r\n\r\nTable D2\r\n\r\nB81114:V001-201060\r\n\r\n0dr No: 199535\r\n\r\nDate\r\n\r\n: 29-06-2018 19:59:15\r\n\r\nCashier: AARON\r\n\r\nPax(s):\r\n\r\n11\r\n\r\nna om A A 5\r\n\r\nTotal TAX\r\n\r\nQty\r\n\r\nDescription\r\n\r\nne i dm ft ff 2\r\n\r\n11 (28.01) Adult\r\n\r\nD 709.50 SR\r\n\r\na Fo ff 5 5 2\r\n\r\ngr ty\r\n\r\nSubtotal:\r\n\r\n709.50\r\n\r\nServ. Charge (10%):\r\n\r\n70.95\r\n\r\ni 9\r\n\r\n0.00\r\n\r\n-\r\n\r\nGST Payable (0%):\r\n\r\n780.45\r\n\r\nTotal:\r\n\r\n780\r\n\r\n45\r\n\r\nTOTAL\r\n\r\nae fe\r\n\r\n001\r\n\r\n29-06-2018 21:52:03\r\n\r\nClosed:\r\n\r\nServer:\r\n\r\nAARON\r\n\r\n780.45\r\n\r\nL etererrrnaon\r\n\r\n- LIN CHAT JA\r\n\r\n~r Inn\r\n",
+  "status": "unreviewed_OCR_output"
+}

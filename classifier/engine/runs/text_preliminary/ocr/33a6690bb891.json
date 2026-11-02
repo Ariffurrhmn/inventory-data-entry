@@ -1,0 +1,16 @@
+{
+  "sample_id": "33a6690bb891",
+  "image_path": "services\\document_classifier\\data\\images\\33a6690bb891.jpg",
+  "image_sha256": "d9dad640dc89196079b4f8901cba53d197f240d9d0b08540489588feef9d04b1",
+  "full_text": "i\nLl\n{\n|\n|\n|\n1\n|\nL]\n|\n1\nLl]\n1\n}\n1\n1\n1\n1\n1\n\nKarnaphuli Traders CETONER COPY)\na—\n\nInvoice\n\nInvoice No: INV-3937.\n\nDate: 21/07/2026.\n\nBill To / Customer: Bismillah Store, Tongi, Gazipur.\n\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\33a6690bb891.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

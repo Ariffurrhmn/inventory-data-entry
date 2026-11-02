@@ -1,0 +1,27 @@
+{
+  "sample_id": "srd_1044-receipt",
+  "image_sha256": "77c7af1bedc61cdf504ccd4fe3b147b6a2c817d784c7380e4194be528f341417",
+  "views": {
+    "full": "~~\r\nCHURCH'S CHICKEN 84717\r\n7635 WINNETKA A\r\nCANOGA PARK CA 818 576 0480\r\n#255 =\" DR= 1\r\n19°C LT 8.99\r\nNET 8.98\r\nTXTL 85\r\nTOTL 10.94\r\nCASH 11.00\r\nCHANG .08\r\nIA RRR PETTY\r\nTHANK YOU COME AGAIN !!!\r\nIse 772g\r\n3-20751 302 MAY.21°19  REGO0O2\r\n",
+    "top_-12": "~—\r\n\r\nCl\r\n\r\nuch ANE oa\r\n\r\nCy wr \\\r\n\r\nia C4 pig 576 0409\r\n\r\nRS tk\r\n\r\n.\r\n\r\n~.a\r\n",
+    "top_0": "CANJGA PARK CA R18 S76 Ie\r\n\r\n8253 Ll re\r\n\r\n19% LT\r\n\r\n8.4\r\n\r\nLE Ee\r\n",
+    "top_12": "“\r\n\r\nKEN wil\r\n\r\n£39 wiNnE\r\n\r\na [AL] £16\r\n\r\nsaad\r\n\r\nCANIS\r\n\r\n—e\r\n\r\nASYe\r\n\r\nJ\r\n\r\n1 gn\r\n\r\nju\r\n\r\neee\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

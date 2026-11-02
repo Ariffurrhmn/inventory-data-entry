@@ -1,0 +1,16 @@
+{
+  "sample_id": "d6c285c6c5d0",
+  "image_path": "services\\document_classifier\\data\\images\\d6c285c6c5d0.jpg",
+  "image_sha256": "25f6938be9beb21d5046ce5d6db9cc7fa78d16a08b5fd36c17ef079148cd5a1a",
+  "full_text": "Description HSN/SAC\n\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\d6c285c6c5d0.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

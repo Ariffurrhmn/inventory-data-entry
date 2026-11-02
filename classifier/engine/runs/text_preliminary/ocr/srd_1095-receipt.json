@@ -1,0 +1,15 @@
+{
+  "sample_id": "srd_1095-receipt",
+  "image_path": "Dataset\\intake\\2026-10-19\\expressexpense_srd\\images\\1095-receipt.jpg",
+  "image_sha256": "8764b1acc469bf871003c5012c8419b9bb9ffeea921b3289729858a87ca01c9e",
+  "full_text": "Golden Coin\r\n94-450 Ukee St\r\nWaipahu, HI 96797\r\n(808) 846-0802\r\n\r\nServer: Charito\r\n\r\nrer #: 668\r\n\r\n1 P1t Lunch 2 Choices\r\nBBO\r\nPINAPATTAN\r\n\r\nol Bar Subtotal;\r\nay ood Subtotal:\r\ndy fu ©\r\n\r\n- at.\r\n\r\nET\r\n\r\nSETTLED &\r\n\r\nStation: 1\r\n\r\nTake 0 out\r\n\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

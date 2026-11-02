@@ -1,0 +1,27 @@
+{
+  "sample_id": "fcac4e4559e8",
+  "image_sha256": "e1023ea49154a25f3385ab729553cee92631c8e290985beb5254257d952be313",
+  "views": {
+    "full": "BI fi k : “Hol Fi HoaR ak ES\r\nfT LRA STENR “Af AT KT . £50 Sa\r\n| pad i) ain RET GR TLUR ASIN 145,000 AM vad EE\r\ni oA Rel SERRE, AU LR ik : Hx Hines 58 OF i\r\n{Arad yl =KMEDIUMK= Ne El a TG\r\nat) Ls 1 .CUMI GR JUNJAN | = 129,000 ER AK To\r\nSEGURA CE 1 BIHUN GORENG 3d B7,000 ER ERY Ee\r\ner RELL vill =RMEDIUME= ap Alp ooo TE PH Re ha\r\nEh I i 2 CHINESE TE 14,000 28,000 byl Rn GR\r\nir Tl nTiERs | BO,0O0 (34, BA ho fe 1iu\r\nAne Ee | SUBTOTAL : REE\r\nBast 5, Ax NTA ci 1 PRE het pal Wgea\r\nsd ong DU 092, a BER He\r\nbE NAS 1 EER ————— ” THE SVR ht FH ed 52 it go 3\r\n",
+    "top_-12": "x\r\n\r\nI SOU\r\n\r\nall\r\n\r\nNady\r\n\r\ndaa\r\n\r\n] ee,\r\n\r\not\r\n\r\n—,\r\n\r\nTee\r\n\r\n~~\r\n\r\n-—\r\n\r\nTm\r\n\r\npal\r\n\r\n06 gq\r\n\r\n~———\r\n\r\nLy\r\n\r\nIfe\r\n\r\n—~—\r\n\r\n¥MED\r\n\r\nAST\r\n\r\nify\r\n\r\nSa\r\n\r\nSe ——\r\n\r\ns D0)\r\n",
+    "top_0": "ehnar ar Aaa dl wall es\r\n\r\nbhi AN dil enly\r\n\r\ned rt mn tm od om rt eo me ee ne tm ee\r\n\r\n$\r\n\r\nUDE GR TLUR ASIN\r\n\r\n145,000\r\n\r\n=XMEDIUME=\r\n",
+    "top_12": "Jr\r\n\r\nwark\r\n\r\nPRE\r\n\r\nEx\r\n\r\npried —\r\n\r\nps\r\n\r\n—\r\n\r\nee\r\n\r\n————\r\n\r\nbY en\r\n\r\n———\r\n\r\na\r\n\r\nJI\r\n\r\nStl\r\n\r\na\r\n\r\neu (0\r\n\r\n1)\r\n\r\n1h\r\n\r\nLe\r\n\r\n[RE\r\n\r\n—\"\r\n\r\n, a5l\r\n\r\ngo TLR\r\n\r\n}\r\n\r\nJ!\r\n\r\nk=\r\n\r\nWED TY\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

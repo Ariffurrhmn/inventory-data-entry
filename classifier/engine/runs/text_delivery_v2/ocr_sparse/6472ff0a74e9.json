@@ -1,0 +1,13 @@
+{
+  "sample_id": "6472ff0a74e9",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "3bf6de0f37592e2e5e400a12f9ded6aeb2a074b13d26429e8440bbeb72117c19",
+  "full_text": "Walmart ><\r\n\r\nSave money. Live better.\r\n\r\nNoNpaes GREG BROWN\r\n\r\nWAL-MART STORE # 400\r\n\r\n¢Y\r\n\r\nST# 0400 OP# 00007298 TE# 91 TR# 07395\r\n\r\nMERCHANT# 439900590000400\r\n\r\n¥ux CREDIT ISSUED xxx\r\n\r\nGENERAL MDSE TOTAL\r\n\r\nA\r\n\r\nREFUND\r\n\r\nTERMINA\r\n\r\n1 # WMT00000001\r\n\r\nLayaway ls back for. Electronics,\r\n\r\nToys, and Jewelry. 10/17/11-12/16/11\r\n\r\n/13/11\r\n\r\n14:03:10\r\n\r\n¥#%CUSTOMER COPY\r\n",
+  "status": "unreviewed_OCR_output"
+}

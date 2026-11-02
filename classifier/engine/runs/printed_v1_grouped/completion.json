@@ -1,0 +1,15 @@
+{
+  "activated": {
+    "run": "printed_v1_grouped",
+    "model": "baseline",
+    "model_sha256": "03ac56cddda53c8b6760cc127f48d7060c20c1fe710d2a25635981d1ced27026",
+    "scope_version": "printed-only-v1",
+    "ocr_policy": "baseline",
+    "selected_by": "printed development validation macro-F1",
+    "test_result": null
+  },
+  "protected_files_unchanged": 6,
+  "historical_test_inputs_opened": 0,
+  "train": 150,
+  "validation": 25
+}

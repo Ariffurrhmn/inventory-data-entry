@@ -1,0 +1,17 @@
+{
+  "adaptive_after_previous_validation": true,
+  "training_input": "Uniform illumination-normalized full-page PSM6 OCR, no reference annotations",
+  "selection": "Highest aggregated training-only 3-fold StratifiedGroupKFold macro-F1; candidate order breaks ties. Four candidates, no validation-based hyperparameter selection.",
+  "names": [
+    "wordchar_lr",
+    "char_lr",
+    "complement_nb",
+    "minilm_lr"
+  ],
+  "folds": 3,
+  "seed": 42,
+  "training": 150,
+  "validation": 25,
+  "historical_test_inputs_opened": 0,
+  "feature_fit_within_each_training_fold": true
+}

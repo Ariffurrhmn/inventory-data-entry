@@ -1,0 +1,78 @@
+{
+  "metrics": {
+    "n": 25,
+    "correct": 19,
+    "accuracy": 0.76,
+    "macro_f1": 0.7656882591093117,
+    "class_report": {
+      "purchase_order": {
+        "precision": 1.0,
+        "recall": 0.9,
+        "f1-score": 0.9473684210526315,
+        "support": 10.0
+      },
+      "receipt": {
+        "precision": 0.3333333333333333,
+        "recall": 1.0,
+        "f1-score": 0.5,
+        "support": 3.0
+      },
+      "delivery_note": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 3.0
+      },
+      "customer_copy": {
+        "precision": 1.0,
+        "recall": 0.4444444444444444,
+        "f1-score": 0.6153846153846154,
+        "support": 9.0
+      },
+      "accuracy": 0.76,
+      "macro avg": {
+        "precision": 0.8333333333333333,
+        "recall": 0.836111111111111,
+        "f1-score": 0.7656882591093117,
+        "support": 25.0
+      },
+      "weighted avg": {
+        "precision": 0.92,
+        "recall": 0.76,
+        "f1-score": 0.7804858299595142,
+        "support": 25.0
+      }
+    },
+    "confusion_matrix": [
+      [
+        9,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        3,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        3,
+        0
+      ],
+      [
+        0,
+        5,
+        0,
+        4
+      ]
+    ]
+  },
+  "promoted": true,
+  "parent_accuracy": 0.68,
+  "parent_macro_f1": 0.6848940533151059,
+  "validation_adaptive": true,
+  "test_inputs_opened": 0
+}

@@ -1,0 +1,15 @@
+{
+  "sample_id": "company_ba2bb7b40d08168e",
+  "image_path": "Dataset\\intake\\2026-10-19\\company_documents_v2\\images\\packing_slip\\ba2bb7b40d08168e.jpg",
+  "image_sha256": "2e1149f482bfb9b0915d2b42b55f60d691842a34ab3a3bedd293d05f0ff636fd",
+  "full_text": "Iw Packing Slip\r\n\r\nIris Wheelworks LLC\r\n\r\nNumber PS-66688\r\nPrecision wheels, smooth rides for\r\nall Date 2025-02-25\r\n410 Oak Street Order no S066688\r\nSuite 143 Customer ID AW00026188\r\n02110 Boston, MA\r\nUSA PO number PO-49042\r\nPhone: (591) 555-4212 Carrier Xrq - Truck Ground\r\ncontact@iriswheelworks.com\r\nwww.iriswheelworks.com\r\nEIN 80-1423683 giLTo\r\n\r\nGeoffrey Sara\r\n\r\n7797 Richard Place\r\nBANS PETA 4700 Rockhampton, QLD\r\nBank: Northern Trust Bank Australia\r\n\r\nAccount: 5585791826\r\nRouting no.: 440248973\r\n\r\nPhone: 1 (11) 500 555-0129\r\n\r\nItem Description Unit Ordered Shipped\r\nBK- Road-550-W Yellow, 48 EA 1 i\r\nR64Y-48 Same technology as all of our Road series\r\n\r\nbikes, but the frame is sized for a woman\r\n\r\nPerfect all-around bike for road or racing.\r\n\r\nHL-U509-  Sport-100 Helmet, Blue EA il 1\r\nB Universal fit, well-vented, lightweight , snap.\r\non visor\r\n\r\nPackages 1\r\n\r\nTotal weight 8.47 kg\r\n\r\nUnits on hand 2\r\nPacked by Received by\r\n\r\nYour next ride is just around the corner\r\n\r\nPacking Slip PS-66688 Page 1/1\r\n\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

@@ -1,0 +1,27 @@
+{
+  "sample_id": "684abec37a2d",
+  "image_sha256": "6ac772f1c9699953888f8ca95d3f18a706f023f92d5dc00c022398aa4b4f8f80",
+  "views": {
+    "full": "Fl Aste\r\nLy I > |\r\nL — ‘\r\nview wr sr ZZ 20\r\n1 Cai Mieo 15, 800\r\n1 caisim special 15, 800\r\nVi 1 Carsiupau Ayam 22, 800\r\nf 1 1 Fish Glue 27,800\r\n1 Jamur Isi Ayam 32, 800\r\n] 1 Jamur Kuping 21, 800\r\n4 1 Kailan hongkong 15, 800\r\nj 1 Kuah Kaldu Ayam\r\nA 1 Kue Macok 22, 800\r\n1 1 Pangsit Special 27,800\r\nie 1 Sirloin Roll Enoki 34, 800\r\n1 Sutake Kombinasi 31, 800\r\n - 1 Tahu Jepang 10, 800\r\nJ 1 Tahu Sandwidh 26, 800\r\nJd 1 TOM YAM —\r\nF- 8 1 Udon 19,800 4 \\\r\n2 Chines Tea Green Tea 21,600 © JF\r\n: 2 Tahu Isi Ayam 55.600 § Lf\r\nLee 5 Green tea Dingin 84, 000 oo &\r\nEo, 7 Nasi Putih 68. 600 %\r\na 1 Bakso lon NO 5800 alias.\r\n8% ITEMS TOTAL 605,600 §\r\nBd Promo eo 100,000) Be. he\r\nFn EET 505, 600\r\nNia Services 5% 25, 280 |\r\nhing TAX WY eR 53, 088\r\nTOTAL 583, 968 |\r\na BCA MASTER 583, 968\r\n",
+    "top_-12": "PN\r\n\r\nERY\r\n\r\nEL\r\n\r\nTt\r\n\r\nih\r\n\r\nTe\r\n\r\n—\r\n\r\nCai\r\n\r\nHialelur a\r\n\r\na\r\n\r\nCa\r\n\r\nsn\r\n\r\n| Fj\r\n\r\nCa\r\n\r\nts\r\n\r\nup,\r\n\r\nSPecig)\r\n\r\n22\r\n\r\n800\r\n\r\nsh G)\r\n\r\nY Ayam\r\n\r\n15,\r\n\r\n800\r\n\r\nJa\r\n\r\nan\r\n\r\nS]\r\n\r\n5,\r\n\r\n00\r\n\r\n! K3\r\n\r\nil\r\n\r\nMur f,\r\n\r\nPing\r\n\r\nAvan\r\n\r\n22\r\n\r\na0\r\n\r\nNgkon\r\n\r\n27.8\r\n\r\n2, 800\r\n\r\n15\r\n\r\n800\r\n\r\n800\r\n",
+    "top_0": "pare\r\n\r\nhs ro\r\n\r\nid\r\n\r\nod\r\n\r\nVAN;\r\n\r\n:\r\n\r\nTS a nm et ce a mae a a > Ae Sh on he bn No hb AD am St om\r\n\r\n1 Bakpao\r\n\r\naj\r\n\r\n]\r\n\r\n22, 800\r\n\r\n15, 800\r\n\r\ncaisim special\r\n\r\ntelur asin\r\n\r\n15, 800\r\n\r\n22, 800\r\n\r\n1 Carsiupau Ayam\r\n\r\n1S ue\r\n\r\n27,800\r\n\r\n1 Jamur Isi Ayam\r\n\r\n32, 800\r\n\r\n1 Jamur Kuping\r\n\r\n21,800\r\n\r\n1 Kailan hongkong\r\n\r\n“4 1\r\n",
+    "top_12": "Frais\r\n\r\ntd\r\n\r\nAn\r\n\r\nrd\r\n\r\nee\r\n\r\n72,\r\n\r\nTT\r\n\r\n19,\r\n\r\n800\r\n\r\nJa\r\n\r\nRakpal y\r\n\r\nA asin\r\n\r\n22\r\n\r\n20\r\n\r\nCal Wie\r\n\r\ngpet\r\n\r\njal\r\n\r\n1,\r\n\r\n200\r\n\r\n80\r\n\r\nA cais\\®\r\n\r\nAyal\r\n\r\n32\r\n\r\n200\r\n\r\n1 Car\r\n\r\n1\r\n\r\n800\r\n\r\n1 Fd\r\n\r\nnh G\r\n\r\n1 Ayal\r\n\r\nJam\r\n\r\n¢ Xue\r\n\r\nA Jam\r\n\r\nhong\r\n\r\nkong\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

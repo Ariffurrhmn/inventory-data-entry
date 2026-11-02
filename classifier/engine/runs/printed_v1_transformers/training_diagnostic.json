@@ -1,0 +1,25 @@
+{
+  "bert": {
+    "4": {
+      "training_correct": 123,
+      "training_n": 150,
+      "parameters": 4386436
+    },
+    "8": {
+      "training_correct": 136,
+      "training_n": 150,
+      "parameters": 4386436
+    },
+    "12": {
+      "training_correct": 143,
+      "training_n": 150,
+      "parameters": 4386436
+    }
+  },
+  "versions": {
+    "python": "3.12.14",
+    "torch": "2.14.1+cpu",
+    "transformers": "4.57.6"
+  },
+  "historical_test_inputs_opened": 0
+}

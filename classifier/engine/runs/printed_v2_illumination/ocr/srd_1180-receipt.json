@@ -1,0 +1,27 @@
+{
+  "sample_id": "srd_1180-receipt",
+  "image_sha256": "c6ffb95012a42beabefb3797afecf9583511a3870b5261e7b762500b4e48b44d",
+  "views": {
+    "full": "TI w—ow, M0 Spinach. Served wi a TT 1498 ij NOY\r\nhai sp a CH eset sense 10.98 h 1 3 =\r\ni rst — 10.95 Rd\r\nHo BBQ Sac, roy all 5\r\nta and gniled. Sg ‘ \"Evin al 2]\r\niin ee Tas “=\r\nos BY\r\neli (912)341-8897 it -\r\nand tarts 555 BAR 1 it bo |\r\nich stuffed in our hk 442 AUgR0\" 14 01:20PM a\r\nV Ciianira’ imb \"1 Chips y Salsa ae VE\r\n| cajun seasoning 1 Soft Dik 12.03 BY\r\nh fries or rice & B Cash\r\n| Slots 0.13 +\r\n) , | 1bas 12.08 v\r\nime Pie, Car Total Paid ‘\r\nstate Tax op\r\noooon-—555 Check Closed 7\r\nmem fag30\" 14 01:47PM &\r\n",
+    "top_-12": "ror Mii\r\n\r\nBrac,\r\n\r\nMay,\r\n\r\nYn\r\n\r\n—.,\r\n\r\npL [%%\r\n\r\nTea,\r\n\r\nI\r\n\r\nTe\r\n\r\n* Orgy rs\r\n\r\n10.95\r\n\r\noh\r\n\r\nlo 8g\r\n\r\nring\r\n\r\neee\r\n\r\n~ 13.08\r\n\r\nis\r\n\r\nTe\r\n\r\nLE\r\n\r\n19, »”\r\n\r\nva\r\n\r\nMtg\r\n\r\nSen,\r\n\r\n4]\r\n\r\nvo\r\n\r\n4\r\n\r\nyou,\r\n\r\norg\r\n\r\nra\r\n\r\nou\r\n\r\nsy\r\n\r\n4\r\n\r\nI;\r\n\r\nDR)\r\n\r\n[\r\n\r\nzd\r\n\r\nJ\r\n\r\nLONE\r\n\r\npy\r\n\r\nte\r\n\r\nLot\r\n\r\nIN\r\n",
+    "top_0": "TTT nNOS and spnach Sorced ww ¢\r\n\r\n49s\r\n\r\niy\r\n\r\n>\r\n\r\nSR —\r\n\r\n10.98\r\n\r\ncn\r\n\r\nmatoos, ang Onions\r\n\r\n——\r\n\r\n—\r\n\r\nou 13.98\r\n\r\nVe\r\n\r\nFY\r\n\r\nServed eh a  Maxican wie\r\n\r\n- 8\r\n\r\nId\r\n\r\nta ee,\r\n\r\n10.98\r\n\r\noh\r\n\r\n“x\r\n\r\nlo 88Q Saco. of -\r\n\r\n'\r\n\r\ntila and gniiey PY\r\n\r\nIN AIR\r\n\r\nA\r\n\r\nle\r\n\r\n\" you chorce of 8\r\n\r\nDz2is\r\n\r\nvo\r\n\r\nLR\r\n\r\n.\r\n\r\nEX\r\n\r\nVaurk:\r\n\r\n44\r\n\r\nna\r\n",
+    "top_12": "{in\r\n\r\nont\r\n\r\nRY 4]\r\n\r\nre\r\n\r\nen Sorewd ¥ *\r\n\r\n109%\r\n\r\npa\r\n\r\nwrod\r\n\r\napne wed 17\r\n\r\neemmrre\r\n\r\nVv\r\n\r\n—\r\n\r\n[$3\r\n\r\n<4\r\n\r\nBa\r\n\r\nIS\r\n\r\n10.9%\r\n\r\n“3\r\n\r\nGave\r\n\r\n» Hao\" wed\r\n\r\nSU\r\n\r\nEA\r\n\r\nsmatoos, and Qn\r\n\r\n\"n\r\n\r\n“ ea\r\n\r\nLR\r\n\r\nyo 80 Sauce 1A\r\n\r\nse}\r\n\r\nCS\r\n\r\nS\r\n\r\nia and gro “\r\n\r\nWe\r\n\r\nVE\r\n\r\nnee\r\n\r\nJP\r\n\r\neen?\r\n\r\not8\r\n\r\nof you\r\n\r\n3 CAPR\r\n\r\nw\r\n\r\na\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

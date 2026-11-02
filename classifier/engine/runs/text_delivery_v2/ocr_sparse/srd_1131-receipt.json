@@ -1,0 +1,13 @@
+{
+  "sample_id": "srd_1131-receipt",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "f08f1cb37c0646feacbc426b4f8da35a8d41894d71eeb8939d17766338fac00f",
+  "full_text": "3151\r\n\r\nIAMBURGH RR\r\n\r\nPHONE\r\n\r\nSLAUSON MAYWOOD CA 90270\r\n\r\n3\r\n\r\n588\r\n\r\n1607\r\n\r\nREG\r\n\r\nCASHIER\r\n\r\nMC #01\r\n\r\n11-24-2017 12:13 PM 000072\r\n\r\nM] 1D\r\n\r\n$0.01\r\n\r\n8 CHZ B SPC\r\n\r\n$8.80\r\n\r\nno pickles\r\n\r\nt\r\n\r\nRIES - LRG\r\n\r\n$3.66\r\n\r\nCRISPY\r\n\r\nLRISPY\r\n\r\nf\r\n\r\nRIES - LRG\r\n\r\n'\\\r\n\r\nbt\r\n\r\nCRISPY\r\n\r\nVv\r\n\r\nPt\r\n\r\n{ MED DRINI\r\n\r\n$2.15\r\n\r\nnorchata\r\n\r\nCt\r\n\r\nBURGER SPEC\r\n\r\n$7.57\r\n\r\nrn onions\r\n\r\nEAT-IN\r\n\r\nTAXABLE SALES\r\n\r\n$25.85\r\n\r\n44\r\n\r\nI\r\n\r\n$2.46\r\n\r\n$28.31\r\n\r\nCASH\r\n\r\n$40.00\r\n\r\nCh\r\n\r\n$11.69\r\n\r\nORDER\r\n\r\ntr\r\n\r\n0000000052\r\n\r\nPLEASE HELP U\r\n\r\nJ\r\n\r\nQ Q\r\n\r\nJv\r\n\r\nERVE YOU BETTER\r\n\r\nSERVICE WAS VERY GOOD\r\n\r\n[ ]\r\n\r\nGOOD\r\n\r\n[3]\r\n\r\nPOOR\r\n\r\n[]\r\n",
+  "status": "unreviewed_OCR_output"
+}

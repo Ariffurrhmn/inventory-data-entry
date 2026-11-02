@@ -1,0 +1,16 @@
+{
+  "sample_id": "8c92842adf8d",
+  "image_path": "services\\document_classifier\\data\\images\\8c92842adf8d.jpg",
+  "image_sha256": "e027d8f611a8e866f86abd7f1cb5a76347cb04509a3039b77e358dfd56fc1806",
+  "full_text": "DIZ INDUST RIAL MACHINERY TRADING\n\n228 llaya St., Burol, City of Calamba 4027, Laguna, Philippines\nPANGANIBAN, GLADYS C. - Prop.\nNON-VAT Reg. TIN: 411 344-556-0 0000\n\nSALES INVOICE te oli\nwo JEL eaa -\n\nSOLD Tot RON wiodiee Terms:__{ X_\n\n2\n\nTIN: : OSCA/PWD 1D No.\nBusiness Style: We - SCI/PWD Signature: at\nAddress:\n\nQTY. | UNIT ARTICLES UIPRICE AMOUNT\nDP DECATEC SRR PAS\n\ny= oper\n\noO CATT\nE— I=\n\nZz CONN:\n\nEr : Total Sales —f—\n\nWED Less: SCIPeD-Discount\n\nkd) ;\n[Y 0000028. Se pL\n\n10 Bkits. (£0x2) 000001-000500\n\n.BIR A ty to. Print No. S8eAU20220000008084\n\n2 August 19, 202: py Hd Representative\nENTERP Sd\n\nvi Ea rp hb ah I PLN creditatih No. 056MP 3200000000001\nrok 2, Parian, Calamba City, Laguna * Date sued: 620 20; Expiry Date: 03-01-25\n\nCell. ot oeaa 953 4980\n“THIS DOCUMENT IS NOT VALID FOR CLAIMING INPUT TAXES\"\n\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\8c92842adf8d.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

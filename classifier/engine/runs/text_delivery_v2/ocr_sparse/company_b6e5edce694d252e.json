@@ -1,0 +1,13 @@
+{
+  "sample_id": "company_b6e5edce694d252e",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "80d0d59d7ab74c9c25f466572aa21b89f7475b58d9ef8a10a781cdae3f280688",
+  "full_text": "Boreal Components Co.\r\n\r\nPedal Power, Precision Built\r\n\r\n36 Industrial Pkwy\r\n\r\n80202 Denver,\r\n\r\nco\r\n\r\nUSA\r\n\r\nNumber\r\n\r\nP0-2025-2262\r\n\r\nDate\r\n\r\n03/09/2025\r\n\r\n03/18/2025\r\n\r\nDelivery date\r\n\r\nAccount no.\r\n\r\nSUPERSAL0601\r\n\r\nRequested by\r\n\r\nAnnette Hill\r\n\r\nPURCHASE ORDER\r\n\r\nCarrier\r\n\r\nXrq -\r\n\r\nTruck Ground\r\n\r\nVENDOR\r\n\r\nDELIVER TO\r\n\r\nSUPERSALES INC.\r\n\r\nBoreal Components Co.\r\n\r\n9443 Oaxaca\r\n\r\n36 Industrial Pkwy\r\n\r\n90712 Lakewood, CA\r\n\r\n80202 Denver, CO\r\n\r\nUnited States\r\n\r\nUSA\r\n\r\nItem\r\n\r\nDescription\r\n\r\nQty\r\n\r\nUnit price\r\n\r\nDisc.\r\n\r\nAmount\r\n\r\nDC-8732\r\n\r\nDecal 1\r\n\r\n1,250\r\n\r\n$0.21\r\n\r\n$262.50\r\n\r\nDC-9824\r\n\r\nDecal 2\r\n\r\n1,250\r\n\r\n$0.21\r\n\r\n$262.50\r\n\r\nPAYMENT TERMS\r\n\r\nSubtotal\r\n\r\n$525.00\r\n\r\nNet 30 days\r\n\r\nFreight\r\n\r\n$13.12\r\n\r\nPlease confirm this order and quote our PO number on all\r\n\r\ninvoices and delivery notes.\r\n\r\nTax 8%\r\n\r\n$42.00\r\n\r\nTotal\r\n\r\n$580.12\r\n\r\nApproved by\r\n\r\nRide on, thanks for choosing Boreal\r\n\r\nBank: Northern Trust Bank\r\n\r\nBoreal Components Co\r\n\r\nComponents.\r\n\r\nAccount:\r\n\r\n8815694933\r\n\r\nEIN 59-2005511\r\n\r\nRouting no.: 079558108\r\n\r\nPurchase Order P0-2025-2262\r\n\r\nPage 1 / 1\r\n",
+  "status": "unreviewed_OCR_output"
+}

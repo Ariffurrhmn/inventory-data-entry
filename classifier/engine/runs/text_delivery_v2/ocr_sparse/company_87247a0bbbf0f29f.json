@@ -1,0 +1,13 @@
+{
+  "sample_id": "company_87247a0bbbf0f29f",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "39c3772c6ea7c813100bfceaa4f8bb189a58d741a379c3e09d43160cc3b47690",
+  "full_text": "=]\r\n\r\nJuniper Bikes PLC\r\n\r\nBuilt for every ride\r\n\r\n144 High Street\r\n\r\nBS1 4DJ Bristol - United Kingdom\r\n\r\nNumber\r\n\r\nJB-BL-53202\r\n\r\nDate\r\n\r\n1 Aug 2024\r\n\r\nOrder no.\r\n\r\nS053202\r\n\r\nCustomer ID\r\n\r\nAW00027249\r\n\r\nPO number\r\n\r\nPO-45080\r\n\r\nPacking Slip\r\n\r\nCarrier\r\n\r\nXrq - Truck Ground\r\n\r\nBILL TO\r\n\r\nEmma Cox\r\n\r\n6703 Milburn Dr.\r\n\r\n90401 Santa Monica, CA\r\n\r\nUnited States\r\n\r\nItem\r\n\r\nDescription\r\n\r\nOrdered\r\n\r\nShipped\r\n\r\nTI-T723\r\n\r\nTouring Tire\r\n\r\n1\r\n\r\n1\r\n\r\nPackages\r\n\r\nUnits on hand\r\n\r\nPacked by\r\n\r\nReceived by\r\n\r\nPedal on, from all of us\r\n\r\nJuniper Bikes PLC\r\n\r\nVAT GB883310779\r\n\r\nPacking Slip JB-BL-53202\r\n\r\nPage 1/1\r\n",
+  "status": "unreviewed_OCR_output"
+}

@@ -1,0 +1,27 @@
+{
+  "sample_id": "srd_1196-receipt",
+  "image_sha256": "4b9234e612c6c3eca60958765ca2319500d1b8b5b99d9b8da886fca9755a10bd",
+  "views": {
+    "full": "£ NAME: CHARES 3 Sa\r\nZu CHECKE 7128.1 PAVE\r\n: 77 Closed to Credit Card : A\r\ni DATE/TIME; 12/31/2018 6:06:02 PH Eh\r\n“a2 STATION: 01 : B39 h\r\nZo So happy about your visit! BAR\r\nor Item Count: 8 Ia\r\n“%%,% SEISSIEIIIIICIITIISISSSSESISSISIsIIazIzz Rae Rh\r\nWed 1 TIKKA MASALA $20.00 Rees\r\nBH 1 pau (SIAC sooo Bo\r\n257 1 VEGAN BENGAN BHARTA® $17.00 [45\r\n\r\n74 Subtotal TUss5.00 Fhe\r\n\r\n7% Total before tip: S00 RETA BN\r\n“% Tip amount: —_— EE\r\n",
+    "top_-12": "Pr\r\n\r\nur >\r\n\r\nChi\r\n\r\nAME: cng\r\n\r\nDit yy\r\n\r\nAY\r\n\r\nClg\r\n\r\nSeq\r\n\r\n71128,\r\n\r\n~\r\n\r\n~\r\n\r\nwi\r\n\r\nDare\r\n\r\n~r\r\n\r\n(TIng\r\n\r\nt Carg\r\n\r\n31/2015\r\n\r\n8\r\n",
+    "top_0": "ay\r\n\r\noN\r\n\r\nSE 2\r\n\r\nSSRI EEE:\r\n\r\n4 n\r\n\r\nWN\r\n\r\nNAME: CHARES\r\n\r\nCHECK® 711281\r\n\r\nLR\r\n\r\nClosed to Credit Card\r\n\r\n3\r\n\r\nDATE/TIME; 12/31/2018 6:06:02 PH\r\n",
+    "top_12": ",\r\n\r\nYET\r\n\r\nTLR\r\n\r\nNE\r\n\r\nWE: CHARES\r\n\r\n28.\r\n\r\nJase\r\n\r\nPIETY\r\n\r\ng 6:0\r\n\r\nSod\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

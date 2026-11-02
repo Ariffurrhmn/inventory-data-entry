@@ -1,0 +1,134 @@
+{
+  "sample_id": "5dffabcb47cb",
+  "actual_existing_label": "receipt",
+  "result": {
+    "decision_trace": {
+      "selected_component": "learned_fallback",
+      "heading_matches": [],
+      "ambiguous_heading": false,
+      "normalized_heading_evidence": null,
+      "learned_top_class": "receipt",
+      "learned_alternative_class": "delivery_note",
+      "learned_score_margin": 0.6388934206103997,
+      "scores_calibrated": false,
+      "rule": null,
+      "explanation_method": "Deterministic rule trace or exact n-gram contributions; transformers use fixed-model text omissions"
+    },
+    "label": "receipt",
+    "decision_source": "trained_classifier",
+    "heading_evidence": null,
+    "ambiguous_heading": false,
+    "statistical_label": "receipt",
+    "scores_kind": "statistical_fallback_scores",
+    "scores": {
+      "customer_copy": 0.09230563620399733,
+      "delivery_note": 0.0930461118687306,
+      "purchase_order": 0.08270871944814343,
+      "receipt": 0.7319395324791302
+    },
+    "scores_calibrated": false,
+    "ocr_empty": false,
+    "text_characters": 135,
+    "input_origin": "provided_text",
+    "ocr_text": "i | WE Ee\r\n\r\n© 1x 36.000 + 36.000\r\n\r\n© Kimchi p\r\n\r\n© 1x 0.000 Rr0. 000\r\n\r\n| Fre ice grentea\r\n\r\n1 o*x=[0TAL © 36.000\r\n\r\n. CASH Re51. 000 :\r\nCHANGE % 15.000\r\n",
+    "heading_ocr_text": "il\r\n\r\nfa\r\n\r\nwa,\r\n\r\nhe\r\n\r\naE\r\n\r\nBg\r\n\r\nLol\r\n\r\now:\r\n\r\nBw\r\n\r\nW\r\n\r\nei\r\n\r\nite\r\n\r\nWeak\r\n\r\nhl\r\n\r\ni\r\n\r\n1x 36.000\r\n\r\n36.000\r\n\r\n3\r\n\r\nell\r\n\r\nKimchi p\r\n\r\n1x 0.000\r\n\r\nRe0. 000\r\n\r\nlad\r\n\r\nFre ice grentea\r\n\r\n#x[0[AL Ww» 36. 000\r\n\r\nCASH\r\n\r\nRe51. 000\r\n\r\naie Se\r\n\r\n_--.\r\n\r\n(Wi\r\n\r\n7.\r\n\r\niH\r\n\fTELE\r\n\nnrai. yuu ¥\r\nSe TITY on\r\nRENN\r\nHA\r\nplea Fg ea whe Lite\r\nLEE RN BE\r\n\fi | WE Ee\r\n\r\n© 1x 36.000 + 36.000\r\n\r\n© Kimchi p\r\n\r\n© 1x 0.000 Rr0. 000\r\n\r\n| Fre ice grentea\r\n\r\n1 o*x=[0TAL © 36.000\r\n\r\n. CASH Re51. 000 :\r\nCHANGE % 15.000\r\n\f#4\"\r\n\r\n“ire,\r\n\r\noe,\r\n\r\nty\r\n\r\n¥\r\n\r\nrs\r\n\r\n4\r\n\r\nLT\r\n\r\nyr \"\r\n\r\nsoil\r\n\r\nJi\r\n\r\nh,\r\n\r\n'y\r\n\r\nTv IR nn\r\n\r\n3 Py\r\n\r\n4, NK nnn\r\n\fLENDER\r\n\r\ni\r\n\r\nI\r\n\r\n'\r\n\r\nWw\r\n\r\nLN\r\n\r\n3)\r\n\r\n-\r\n\r\n\"oy\r\n\r\nni\r\n\r\nNow wll\r\n\r\nLL\r\n\r\n8)\r\n\r\n['\r\n\r\nJ\r\n\r\nn\r\n\r\nbi\r\n\r\nLJ\r\n\r\n4 RA |\r\n\r\niv IR NNN\r\n\r\nau [NNN\r\n\fvb\r\n\r\n“3\r\n\r\nva\r\n\r\n13\r\n\r\nA\r\n\r\nwv\r\n\r\nVivi he\r\n\r\nnt\r\n\r\nIx\r\n\r\nL }\r\n\r\nne\r\n\r\na\r\n\r\nan OAR\r\n\r\nan AO0\r\n",
+    "validation_only": true,
+    "run": "printed_v3_explainable",
+    "model": "classifier",
+    "backend": "complement_nb",
+    "model_sha256": "bd1dba65eb03c3f2282697a502400794ce754543c5e16150625b73cea62ce0bd",
+    "scope_version": "printed-only-v1",
+    "ocr_policy": "illumination",
+    "heading_rules": true,
+    "edge_recovery": true,
+    "classes": [
+      "purchase_order",
+      "receipt",
+      "delivery_note",
+      "customer_copy"
+    ],
+    "experimental": true,
+    "heading_module": "heading_rules_v3",
+    "illumination_recovery": true
+  },
+  "explanation": {
+    "label": "receipt",
+    "decision_source": "trained_classifier",
+    "model_run": "printed_v3_explainable",
+    "scores_calibrated": false,
+    "method": "exact_ngram_log_score_contributions",
+    "component": "learned_fallback_only",
+    "alternative_class": "delivery_note",
+    "logit_margin": 2.062602707829047,
+    "intercept_contribution": 0.0,
+    "sum_feature_contributions": 2.062602707829048,
+    "reconstructed_logit_margin": 2.062602707829048,
+    "reconstruction_error": 8.881784197001252e-16,
+    "supporting_features": [
+      {
+        "feature": "cash",
+        "contribution": 0.4400852028911907,
+        "feature_value": 0.16958101011632834
+      },
+      {
+        "feature": "change",
+        "contribution": 0.42964798809411203,
+        "feature_value": 0.18803600823223754
+      },
+      {
+        "feature": "000 cash",
+        "contribution": 0.40576189292012443,
+        "feature_value": 0.26837439752572084
+      },
+      {
+        "feature": "1x",
+        "contribution": 0.37320312617835316,
+        "feature_value": 0.5224097131666425
+      },
+      {
+        "feature": "ice",
+        "contribution": 0.31221105465386256,
+        "feature_value": 0.26837439752572084
+      },
+      {
+        "feature": "15 000",
+        "contribution": 0.2617407522860767,
+        "feature_value": 0.3085435921724625
+      },
+      {
+        "feature": "ee",
+        "contribution": 0.07823019702402231,
+        "feature_value": 0.14608353756381548
+      },
+      {
+        "feature": "we",
+        "contribution": 0.06546524288813906,
+        "feature_value": 0.16453853567972465
+      }
+    ],
+    "opposing_features": [
+      {
+        "feature": "000",
+        "contribution": -0.258769019751419,
+        "feature_value": 0.4356023468499824
+      },
+      {
+        "feature": "36",
+        "contribution": -0.03932907101401966,
+        "feature_value": 0.40246375992351296
+      },
+      {
+        "feature": "15",
+        "contribution": -0.0056446583413942725,
+        "feature_value": 0.15357160263575298
+      }
+    ],
+    "active_feature_count": 11,
+    "interpretation": "Feature value times the learned coefficient difference exactly reconstructs the target-versus-alternative logit margin, including the intercept. Contributions are not probability percentages.",
+    "limitations": [
+      "Correlated word/character n-grams can share evidence.",
+      "A learned association is not proof of document type or real-world causation.",
+      "This explains the learned fallback only; any heading rules are held fixed."
+    ]
+  }
+}

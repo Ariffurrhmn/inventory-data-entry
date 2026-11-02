@@ -1,0 +1,13 @@
+{
+  "sample_id": "11d42d9168f2",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "675e7ea70d7e086f7360a31c435c0b063027a754f3f5acb3e153d20a6dcb32ef",
+  "full_text": "Karnaphuli Traders\r\n\r\nInvoice\r\n\r\n~~\r\n\r\nInvoice No: INV-9869. Date: 06/07/2026\r\n\r\nBill To / Customer: Green Leaf Mart, Badda, Dhaka.\r\n\r\n——\r\n\r\n]\r\n\r\nItem\r\n\r\n7\r\n\r\nQty\r\n\r\nRate (Tk)\r\n\r\nAmount (Tk)\r\n\r\nS.A Ae A ——\r\n\r\n10\r\n\r\nMiniket Rice 25kg\r\n\r\nTk 1,850\r\n\r\nTk 18,500\r\n\r\nMilk Powder 500g\r\n\r\n10\r\n\r\nTk 420\r\n\r\nTk 4,200\r\n\r\n®\r\n\r\n10\r\n\r\nTk 130\r\n\r\non\r\n\r\n5\r\n\r\nTk 1,300\r\n\r\niE;\r\n\r\nfa\r\n\r\nel\r\n\r\nFa\r\n\r\nRU\r\n\r\nTk\r\n\r\n480\r\n\r\nTk 120\r\n\r\n-\r\n\r\n-———\r\n\r\na\r\n\r\n8\r\n\r\nFf\r\n\r\n2)\r\n\r\nLe\r\n\r\n24,480\r\n\r\n2\r\n\r\na\r\n\r\nhe\r\n\r\n-——\r\n\r\nSY\r\n\r\nGt\r\n\r\ni\r\n\r\n=\r\n",
+  "status": "unreviewed_OCR_output"
+}

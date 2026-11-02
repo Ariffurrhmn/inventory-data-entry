@@ -1,0 +1,27 @@
+{
+  "sample_id": "a162d6ad43e0",
+  "image_sha256": "c6530360b82a99a5e72ec4b0b3b49919fee78d109ef8fef9408fa7230ec58b68",
+  "views": {
+    "full": "mas 4\r\n: had Fi\r\n& Sh\r\np39 |\r\nNas “ - sa i\r\n4 2 mio Sirens |\r\n‘Wks 1001-Choco Bun 5\r\nVN 1032-Double Cheddar =\r\n{4 \\ 6002-Plastic Bag Medium BE\r\nTW FER meme hy E:\r\nfa Total me tet en 8\r\nA 4 $Y Debet Cary )\r\nan pe 8.000 ©\r\n",
+    "top_-12": "<5\r\n\r\n€ w\r\n\r\n4.\r\n\r\npi\r\n\r\n¥\r\n\r\n&\r\n\r\n[S54\r\n\r\n|)\r\n\r\n(4d\r\n\r\n2\r\n\r\n2\r\n\r\nNd\r\n\r\na\r\n\r\nFo\r\n\r\nLod\r\n\r\nPhe\r\n\r\nva\r\n\r\nfree\r\n\r\noF\r\n\r\nrw\r\n\r\n~-\r\n\r\nhd\r\n\r\nbo\r\n\r\n1 ¥\r\n",
+    "top_0": "pa\r\n\r\nYr\r\n\r\nA\r\n\r\nHd\r\n\r\n. got\r\n\r\nbe\r\n\r\nAt\r\n\r\nKY\r\n\r\n_-\r\n\r\n5\r\n\r\n1\r\n\r\n~~\r\n\r\nvw\r\n\r\n[=\r\n",
+    "top_12": "NA\r\n\r\ny <\r\n\r\nra\r\n\r\n¥\r\n\r\nIg\r\n\r\nays\r\n\r\nsq\r\n\r\nFe\r\n\r\n. Xr\r\n\r\nLN\r\n\r\nLg\r\n\r\n3\r\n\r\nae\r\n\r\nwe\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

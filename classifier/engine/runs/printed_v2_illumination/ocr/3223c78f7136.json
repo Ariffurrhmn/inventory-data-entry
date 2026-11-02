@@ -1,0 +1,27 @@
+{
+  "sample_id": "3223c78f7136",
+  "image_sha256": "d862bb486ab1aaf3736a58a12b7a1aa31710f5c1c9d9d6ab93edd94b8da0b707",
+  "views": {
+    "full": "Jo a SEE TT Bo =\r\n\r\n35 1X S-Lemon Macchiato 621,000 21,000\r\n\r\nii Less Ice\r\n\r\nwe. 50%\r\n\r\nEh a a. i a Smo on nde ng S00 Wan AA AS (0 po\r\n\r\ni Subtotal: 21,000 =\r\nhis | Total: 21,000 =\r\na Cash: 21,000\r\n\r\nFTE ammo mm rm an nn i me\r\noh nt em on 2\r\n1  —— : SRR\r\nFALCON a TG Cr TR I CR\r\nDons dhe Fao BRE hen\r\n",
+    "top_-12": "VY\r\n\r\n4d\r\n\r\nka\r\n\r\n~\r\n\r\ney\r\n\r\nte\r\n\r\nIw\r\n\r\nte ——\r\n\r\nQ-\r\n\r\nra\r\n\r\nhdl.\r\n\r\n21.00\r\n\r\nhalt\r\n\r\n2]\r\n\r\noo\r\n",
+    "top_0": "LAY\r\n\r\nre\r\n\r\nLe abel\r\n\r\n+4\r\n\r\nht\r\n\r\nNw wl Sh\r\n\r\n~~ —\r\n\r\n1X S-1 emnn Manchiato\r\n\r\n21.000\r\n\r\n21,000\r\n",
+    "top_12": "wi\r\n\r\nPr\r\n\r\nY,\r\n\r\n~..\r\n\r\n=\r\n\r\nRy\r\n\r\naE]\r\n\r\nPad\r\n\r\n~\r\n\r\nA\r\n\r\nwo?\r\n\r\nre\r\n\r\n»\r\n\r\n[YL]\r\n\r\n»\r\n\r\nLabel\r\n\r\n-—\r\n\r\n-t\r\n\r\n——\r\n\r\nve\r\n\r\n-—\r\n\r\n21,000\r\n\r\n——\r\n\r\n———\r\n\r\npo 4\r\n\r\n——\r\n\r\nalo\r\n\r\no-\r\n\r\n[\r\n\r\nend\r\n\r\n#3\r\n\r\nFad\r\n\r\npron\r\n\r\n1 8\r\n\r\nde\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

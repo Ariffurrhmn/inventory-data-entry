@@ -1,0 +1,27 @@
+{
+  "sample_id": "srd_1018-receipt",
+  "image_sha256": "99d4bfa31a48ae1eaf9e103d239e171460fd192c67e735ec3a6897f4ff325907",
+  "views": {
+    "full": "} Bl\r\nba 27 [1 TT 12:49 PM\r\ntom 07\" your GUEST NUMBER 15\r\n§ + 12\r\n4 IN-N-0UT BURGER SANTA CLARA\r\n4 2012-04-27 12:48 PM\r\n176 1 262 1110\r\n© Cashier: KEVIN DU\r\nCheck : 12\r\n»\r\nHAMB 2.00\r\nHh W GR XLXTM Inst pro\r\n| Counter—-Take Out\r\n“7 TAX 8.25% 2500\r\n¢ A Du .\r\nmount e $2 17\r\n4 Cash Tender\r\nFas Change $3.00\r\nTHANK vq $.83\r\n2012-04-21 1p oul\r\n12:49 py\r\n",
+    "top_-12": "4\r\n\r\np75 a-Z7\r\n\r\nL\r\n\r\nYOUR Guest\r\n\r\njm. ig 249 PH\r\n\r\n-\r\n\r\nN-N-gur\r\n\r\n20 12-04\r\n\r\n27\r\n\r\nURGER SanT4 yg\r\n\r\n/\r\n\r\n51262 1714\r\n\r\n12:48 py\r\n\r\n~The\r\n",
+    "top_0": "——\r\n\r\nt,\r\n\r\n12:49 PM\r\n\r\n201%\r\n\r\nor GUEST NUMBER IS\r\n\r\nIN-N-OUT BURGER SANTA CLARA 48 PH\r\n\r\n2012-04-27\r\n\r\n76 1 262 1110\r\n",
+    "top_12": "0:49 F\r\n\r\nAS\r\n\r\nNib CWP\r\n\r\nv) AB pi\r\n\r\n“N-\r\n\r\nBURGER S\r\n\r\n2-0\r\n\r\nA-11\r\n\r\n116\r\n\r\n\\ 762 WO\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

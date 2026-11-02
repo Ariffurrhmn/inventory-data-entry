@@ -1,0 +1,27 @@
+{
+  "sample_id": "srd_1137-receipt",
+  "image_sha256": "4b2a38da0f77615356046ab1679ca8e7ebfb6fdf4bcfc38de12e9156a2851933",
+  "views": {
+    "full": "Haui Teriyaki\r\n27000 Marine Ave #103\r\nRedondo Beach, CA 90278\r\n(310) 973-3500\r\nServer: Annie Station: 1\r\nOrder #: 168479 Phone Order\r\nCustomer Name: LEANNE\r\nGuests: 1\r\n| »» SETTLED «¢\r\n1 Salmon Plate 11.49\r\n1 Extra Shrimp 1.45\r\n| SUB TOTAL: 12.94\r\n| Tax I: 1.23\r\n. | Cash Tendered:; 20,00\r\nCHANGE : Bs a3\r\n» Ticket #: 7 «\r\nCreated: 10/25/2017 11:14:30 AM\r\nSETTLED: 10/25/2017 11:28:31 AM\r\nTHANK You!\r\n",
+    "top_-12": "~o\r\n\r\npry\r\n\r\n2700\r\n\r\nMar;\r\n\r\nery\r\n\r\naki\r\n\r\ndong,\r\n\r\nhe\r\n\r\n(319\r\n\r\nCach\r\n\r\n+ CA\r\n\r\n#10\r\n\r\n~\r\n\r\nServe,\r\n\r\n3-35\r\n\r\n027g\r\n\r\nTee\r\n\r\n-\r\n\r\nic\r\n\r\nha PE\r\n\r\nStopg,\r\n\r\n16\r\n\r\n847,\r\n\r\nJ 4\r\n\r\nest\r\n\r\nNa\r\n\r\ni [J]\r\n\r\nTee\r\n\r\na TO\r\n\r\nStat gy,\r\n\r\nhone\r\n\r\nOrde,\r\n\r\nTre\r\n\r\nEANng\r\n",
+    "top_0": "Vl\r\n\r\nMaui Teri\r\n\r\naki\r\n\r\n000 Marine\r\n\r\n!\r\n\r\nve #103\r\n\r\nnih Beach, CA 90278\r\n\r\n(310) 973- -3500\r\n\r\n-\r\n\r\nServer: Annie\r\n\r\nStation\r\n\r\nTT TT TT TT me\r\n\r\n1 Order ¢:\r\n\r\n168479\r\n\r\n§ Customer Name:\r\n\r\nPhone Order\r\n\r\nLEANNE\r\n\r\nj Guests: 1\r\n\r\n-——— add a\r\n",
+    "top_12": "Vv\r\n\r\ned\r\n\r\naul |\r\n\r\neriyall\r\n\r\nve\r\n\r\n$103\r\n\r\n2700\r\n\r\n0 marine\r\n\r\nASQ\r\n\r\ndo B\r\n\r\n3500\r\n\r\nRedon\r\n\r\n973\r\n\r\ngation\r\n\r\n—\r\n\r\n——\r\n\r\nm=\r\n\r\nrde\r\n\r\ngervefl\r\n\r\nem\r\n\r\nAL\r\n\r\nEANNE\r\n\r\n168479\r\n\r\n« grdel\r\n\r\ner Name\r\n\r\ncusto\r\n\r\n: guests\r\n\r\nJOC\r\n\r\n——— ——\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

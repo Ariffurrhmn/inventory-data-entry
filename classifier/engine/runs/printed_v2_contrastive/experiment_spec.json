@@ -1,0 +1,21 @@
+{
+  "adaptive_validation": true,
+  "seed": 42,
+  "train": 150,
+  "val": 25,
+  "historical_test_inputs_opened": 0,
+  "method": "Supervised contrastive loss with class-balanced batches; two distinct training groups per class per step. Only final two encoder layers trained; rest frozen.",
+  "steps": 40,
+  "checkpoints": [
+    20,
+    40
+  ],
+  "batch": 8,
+  "temperature": 0.1,
+  "lr": 2e-05,
+  "weight_decay": 0.01,
+  "classifier": "Balanced LR C1 on training embeddings only",
+  "input": "Sparse OCR; training first/last256-token sequence, evaluation same first/last254-token separate views as parent",
+  "source_revision": "1110a243fdf4706b3f48f1d95db1a4f5529b4d41",
+  "selection": "Validation macro-F1; no automatic activation"
+}

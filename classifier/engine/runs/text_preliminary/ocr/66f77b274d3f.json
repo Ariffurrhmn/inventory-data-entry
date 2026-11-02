@@ -1,0 +1,16 @@
+{
+  "sample_id": "66f77b274d3f",
+  "image_path": "services\\document_classifier\\data\\images\\66f77b274d3f.jpg",
+  "image_sha256": "e357793fb2062d7e346a5140d443a2b74f7f58dcaf5bb3d0a097b756910fa71f",
+  "full_text": "NL i) hy }\n\n8,000\n9,000\n7,500\n24,500\n24,500\n50,000\n25,500\n\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\66f77b274d3f.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

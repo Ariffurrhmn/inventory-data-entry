@@ -1,0 +1,27 @@
+{
+  "sample_id": "srd_1032-receipt",
+  "image_sha256": "7ed6dd6b5aaefbf2977d0a8606164f398e0f4dbd6b4a6b6723c4510d4db5cfbd",
+  "views": {
+    "full": "WINGS & THINGS\r\n1717 DUTCH BRDY ELMONT, NY 11003\r\nTHANKS CALL AGAIN 516-341-7075\r\n. #168 ouT\r\n1\"MAC&CHZ - A: 1.19\r\n1 COLL GRN - SMALL 1.19\r\n“=<=1 CORN BREAD 62\r\n“T5 WINGS 5.75\r\nSPCY FRY\r\nTXTL 75\r\nTOTL 9.50\r\nCASH 3.50\r\nCHNG .00\r\nTHANK YOU ~~ COME AGAIN\r\nPM #1\r\n0168 20:14 #04 MAR.19'17 REGOOOT\r\na ap\r\n",
+    "top_-12": "i\r\n\r\n1717\r\n\r\nBRpy El\r\n\r\nTH NG\r\n\r\nwr\r\n\r\nN5\r\n\r\nNT Ny\r\n\r\n11003\r\n\r\n1\r\n\r\n&\r\n\r\n1 nny\r\n\r\nOT\r\n\r\n1.19\r\n\r\n1\"\r\n",
+    "top_0": "WINGS & THING\r\n\r\n1717 DUTCH BRDY ELMONT, NY 11003\r\n\r\nTHANKS CALL AGAIN 516-341-7075\r\n\r\nF168\r\n\r\nouT\r\n\r\n1 PALL ADA\r\n\r\nTMACACHZ - S\r\n\r\n(ql ¥) WAN\r\n\r\n\\LL\r\n\r\n4 1M\r\n\r\n1.19\r\n",
+    "top_12": "THl\r\n\r\n11003\r\n\r\nMON\r\n\r\nWIN\r\n\r\n\\ BRD\r\n\r\ny EL\r\n\r\n516-\r\n\r\n34\r\n\r\n_7075\r\n\r\n\\T\\1\r\n\r\nUTE\r\n\r\nAL\r\n\r\nGA\r\n\r\nout\r\n\r\n1.19\r\n\r\n4\r\n\r\n69\r\n\r\nMACRCHL\r\n\r\nfall\r\n\r\nASR\r\n\r\non\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

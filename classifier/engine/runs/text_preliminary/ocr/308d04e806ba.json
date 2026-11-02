@@ -1,0 +1,16 @@
+{
+  "sample_id": "308d04e806ba",
+  "image_path": "services\\document_classifier\\data\\images\\308d04e806ba.jpg",
+  "image_sha256": "4a163bebe75ccd4ddca6dd4642f231c1f7ddef5a16b5240ab934ea7828ee55ad",
+  "full_text": "Order\n\nOrder No : ORD-1229\nOrder Date : 05/10/2026\nRequired By : 10/10/2026\n\nFrom ¢ Al-Madina Traders\nBadda, Dhaka\nTo ¢ Bengal Consumer Goods\n\nPlease supply the following goods:\n\nItem 0}3Y Rate (Tk) Amount (Tk)\n| Instant Noodles 8-pack 2 160 320\n| Onion 1kg 5 65 325 |\n| Saltlkg 12 42 504\n[Sry Ls | = | am |\n| Total: | Tka209\nL FUSS 1 ¢ al\n\nAuthorized by\n(fot\n\nAl-Madina Traders\n\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\308d04e806ba.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

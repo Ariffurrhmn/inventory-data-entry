@@ -1,0 +1,15 @@
+{
+  "sample_id": "company_699124c384c73441",
+  "image_path": "Dataset\\intake\\2026-10-19\\company_documents_v2\\images\\packing_slip\\699124c384c73441.jpg",
+  "image_sha256": "0351abd695afbd947941e3ee4e4bc147b24217024bb08078f0308e086033faa6",
+  "full_text": "Juniper Bikes PLC\r\n\r\nBuilt for every ride\r\n\r\n144 High Street - BS1 4DJ Bristol - United Kingdom\r\n\r\nPacking Slip\r\n\r\nBILL TO\r\n\r\nKristin Andersen\r\nZimmerstr 137\r\n\r\nNumber\r\nDate\r\n\r\nOrder no.\r\nCustomer ID\r\n\r\nCarrier\r\n\r\nJB-BL-47634\r\n09/01/2023\r\nS047634\r\nAWO00011570\r\n\r\nXrq - Truck Ground\r\n\r\n13441 Berlin\r\nGermany\r\nItem Description Unit Ordered Shipped\r\nBK-M68S-46 Mountain-200 Silver, 46 EA i © i\r\nSerious back-country riding. Perfect for all levels of competition. Uses\r\nthe same HL Frame as the Mountain-100.\r\nPackages 1\r\nTotal weight 10.94 kg\r\nUnits on hand 1\r\nNOTES\r\nFree standard delivery on orders over fifty pounds.\r\nPacked by Received by\r\nPedal on, from all of us Bank: Crédit Régional Juniper Bikes PLC\r\nIBAN: GB14 8176 5608 1621 8634 9723 VAT GB883310779\r\nBIC/SWIFT: JUNIGB80\r\nPacking Slip JB-BL-47634 Page 1/1\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

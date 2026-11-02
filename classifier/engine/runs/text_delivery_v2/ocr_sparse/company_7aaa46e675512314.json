@@ -1,0 +1,13 @@
+{
+  "sample_id": "company_7aaa46e675512314",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "a1967e49792686732ced3cd01ba1975cae350ebd5ac24316f1363592830c11aa",
+  "full_text": "Vantage Outdoor Corp.\r\n\r\nRide Further,\r\n\r\nr Smarter\r\n\r\n304 5th Avenue\r\n\r\nSuite 542\r\n\r\nPurchase\r\n\r\n97205 Portland, OR\r\n\r\nUSA\r\n\r\nOrder\r\n\r\nPhone: (442) 555-7651\r\n\r\nsales@vantageoutdoor.com\r\n\r\nwww.vantageoutdoor.com\r\n\r\nEIN 43-3439968\r\n\r\nNUMBER\r\n\r\nDATE\r\n\r\nDELIVERY DATE\r\n\r\nACCOUNT NO.\r\n\r\nREQUESTED BY\r\n\r\nCARRIER\r\n\r\nVO-PO-830\r\n\r\nSeptember 4,\r\n\r\nSeptember 13,\r\n\r\nVARSITY0001\r\n\r\nLinda Meisner\r\n\r\nZy - Express\r\n\r\n2024\r\n\r\n2024\r\n\r\nVENDOR\r\n\r\nDELIVER TO\r\n\r\nVarsity Sport Co.\r\n\r\nVantage Outdoor Corp.\r\n\r\n81 Ana Mile\r\n\r\n304 5th Avenue\r\n\r\n99202 Spokane, WA\r\n\r\nSuite 542\r\n\r\nUnited States\r\n\r\n97205 Portland, OR\r\n\r\nUSA\r\n\r\nPhone: (442) 555-7651\r\n\r\nItem\r\n\r\nDescription\r\n\r\nQty\r\n\r\nUnit price\r\n\r\nDisc.\r\n\r\nAmount\r\n\r\nCH-0234\r\n\r\nChain\r\n\r\n60\r\n\r\n$15.74\r\n\r\n$944.40\r\n\r\nSuperior shifting performance.\r\n\r\nPAYMENT TERMS\r\n\r\nSubtotal\r\n\r\n$944.40\r\n\r\nNet 30 days\r\n\r\n$23.61\r\n\r\nFreight\r\n\r\nPlease confirm this order and quote our PO number on all invoices\r\n\r\nand delivery notes.\r\n\r\nTax 8%\r\n\r\n$75.55\r\n\r\nTotal\r\n\r\n$1,043.56\r\n\r\nApproved by\r\n\r\nThanks for trusting our adventure gear.\r\n\r\nwww.vantageoutdoor.com - sales@vantageoutdoor.com - (442) 555-7651\r\n\r\nPurchase Order VO-PO-830\r\n\r\nPage 1/1\r\n",
+  "status": "unreviewed_OCR_output"
+}

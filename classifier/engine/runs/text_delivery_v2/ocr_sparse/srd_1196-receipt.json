@@ -1,0 +1,13 @@
+{
+  "sample_id": "srd_1196-receipt",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "4b9234e612c6c3eca60958765ca2319500d1b8b5b99d9b8da886fca9755a10bd",
+  "full_text": "x55 7000 %%\r\n\r\nNAME: CHARES\r\n\r\nCHECK# 71128.1\r\n\r\nlosed to Credit Card\r\n\r\nAy\r\n\r\nDATE[IIME 12/31/2018 6:06:02 PM\r\n\r\nSTATION\r\n\r\n01\r\n\r\nSo happy about your visit!\r\n\r\nItem Count: 8\r\n\r\nSETA ee td\r\n\r\nep  ———\r\n\r\n1 TIKKA MASALA\r\n\r\n$20.00\r\n\r\nCHICKEN AHURGH)\r\n\r\n21a\r\n\r\n| PALAL,\r\n\r\nRENACH\r\n\r\n$18.00\r\n\r\nEESE)\r\n\r\n1 VEGAN FEENGAN ARTI\r\n\r\n$17.00\r\n\r\nSubtotal\r\n\r\n$55.00\r\n\r\nld\r\n\r\n3.30\r\n\r\nAre\r\n\r\nTotal before tip\r\n\r\n30\r\n\r\n>)\r\n\r\nx\r\n\r\nTip amount\r\n",
+  "status": "unreviewed_OCR_output"
+}

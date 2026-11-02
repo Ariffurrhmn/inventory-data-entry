@@ -1,0 +1,27 @@
+{
+  "sample_id": "9b53f368be38",
+  "image_sha256": "5b861e636d2f69110dbb9de2e4700c179d333b2548cd4b3db76701fbc5bbb35c",
+  "views": {
+    "full": "Rovatsay PURCHASE\r\nPurchase Order # 6\r\n\r\nBill To: Ship To:\r\nMithy Khan Urm Islam Date: Oct 8. 2026\r\nRequired By: Oct 11, 2026\r\nItem Quantity Rate Amount\r\nCeramic Mug 20 $2.80 $56.00\r\nLED Desk Lamp 10 $8.50 $85.00\r\nSubtotal: $141.00\r\nTax (0.35%): $0.49\r\nTotal: $141.49\r\n",
+    "top_-12": "Uraiya Rahmay,\r\n\r\nBill 15.\r\n\r\nMin, Khan\r\n\r\nSE\r\n\r\nShip To.\r\n\r\nOR\r\n\r\nUrm Is, lam\r\n\r\nUrchage Order 4 5\r\n\r\ntem\r\n\r\nDate.\r\n\r\nQUiraq By:\r\n\r\nOct 8, 202, 5\r\n\r\nCe, aie Mug\r\n\r\nLEp Deg Lay,\r\n\r\nCt 11, 202g\r\n\r\nQuantip,\r\n\r\nRate\r\n\r\n20\r\n\r\n10\r\n\r\nAmong\r\n\r\n$2.80\r\n\r\n$8.50\r\n\r\n$56.00\r\n\r\n$85.00\r\n",
+    "top_0": "Suraiya Rahman\r\n\r\nPURCHASE\r\n\r\nORDER\r\n\r\nPurchase Order # 6\r\n\r\nBill To:\r\n\r\nShip To:\r\n\r\nMithy Khan\r\n\r\nUrm Islam\r\n\r\nDate:\r\n\r\nOct 8, 2026\r\n\r\nRequired By:\r\n\r\nOct 11, 2026\r\n\r\nltem\r\n\r\nRate\r\n\r\nAmount\r\n\r\n[\r\n\r\nQuantity\r\n\r\n|\r\n\r\nCeramic Mug\r\n\r\n20\r\n\r\n$2.80\r\n\r\n$56.00\r\n\r\nLED Desk Lamp\r\n\r\n10\r\n\r\n$8.50\r\n\r\n$85.00\r\n",
+    "top_12": "HASE\r\n\r\nPURC\r\n\r\npER\r\n\r\nOrder #6\r\n\r\nPur chas\r\n\r\nman\r\n\r\nSur\r\n\r\naiya Aa\"\r\n\r\noct 8s 202\r\n\r\nDae\r\n\r\n14,2028\r\n\r\noct\r\n\r\nReo\r\n\r\nred BY\r\n\r\ngrip TO:\r\n\r\nym?\r\n\r\nslam\r\n\r\ngin To!\r\n\r\nAmount\r\n\r\nRate\r\n\r\ni\r\n\r\nA)\r\n\r\nWy Khatt\r\n\r\n586.00\r\n\r\nQuantity\r\n\r\n52 280\r\n\r\n485.00\r\n\r\n$8.50\r\n\r\n20\r\n\r\n10\r\n\r\nWere\r\n\r\nic Mud\r\n\r\ncera!\r\n\r\nLED D\r\n\r\nesk Lame\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

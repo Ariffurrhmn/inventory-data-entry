@@ -1,0 +1,27 @@
+{
+  "sample_id": "e5a5a0f1a894",
+  "image_sha256": "c200e3fa105f75693c6e15936dec6ae9c314f1f46326b736906c25ca607ab528",
+  "views": {
+    "full": "ABC Company PURCHASE ORDER\r\nArifur Rahman\r\nMirpur-2,\r\nDhaka,\r\nBangladesh\r\nVendor Address: PO# PO-8\r\nRZ Company OrderDate Oct 04, 2026\r\nMirpu-12,\r\nDhaka, Delivery Date Oct 06, 2026\r\nBangladesh\r\nCeramic Mug 2 2 4\r\nLED Desk Lamp 1 8.5 8.5\r\nBackpack 1 12 12\r\nSub Total 24.5\r\nPurchase Tax (10%) 2.45\r\nTOTAL $26.95\r\nNotes\r\nIt was great doing business with you.\r\nTerms & Conditions\r\nUpon accepting this purchase order, you hereby agree to the terms & conditions.\r\n",
+    "top_-12": "ABc\r\n\r\nPany\r\n\r\nArifyr R, h\r\n\r\npur\r\n\r\nDhak,\r\n\r\nBanglages h\r\n\r\nPURCHASE ORDER\r\n\r\nendo, Ad, dres\r\n\r\nZz Com an\r\n\r\nMirp,, 12\r\n\r\nDhaj,\r\n\r\nPog\r\n\r\nNgladegy,\r\n\r\nPO. 8\r\n\r\nOrder Date\r\n\r\nliver, Date\r\n",
+    "top_0": "ABC Company\r\n\r\nArifur Rahman\r\n\r\nPURCHASE ORDER\r\n\r\nMirpur-2,\r\n\r\nDhaka,\r\n\r\nBangladesh\r\n\r\nVendor Address:\r\n\r\nPO#\r\n\r\nPO-8\r\n\r\nXYZ Company\r\n\r\nOrder Date\r\n\r\nOct 04, 2026\r\n\r\nMirpu-12,\r\n\r\nDhaka,\r\n\r\nDelivery Date\r\n\r\nOct 06, 2026\r\n\r\nBangladesh\r\n",
+    "top_12": "URCHA\r\n\r\nC company\r\n\r\nArif\r\n\r\nur Ran?\r\n\r\nWIrpYY\r\n\r\n2\r\n\r\npO-8\r\n\r\nphaka .\r\n\r\ngang\r\n\r\nades\r\n\r\npO#\r\n\r\nOct 04 2026\r\n\r\nord\r\n\r\nex pate\r\n\r\nad 06, 202\r\n\r\npeliv\r\n\r\nery pate\r\n\r\nve\r\n\r\nndot pddres\r\n\r\nMirp\r\n\r\nuA\r\n\r\nnaka\r\n\r\nBan\r\n\r\nglades®\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

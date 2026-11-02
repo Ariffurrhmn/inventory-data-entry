@@ -1,0 +1,76 @@
+candidate,sample_id,actual,predicted,source,evidence,correct
+sparse,cc6e515ae67f,purchase_order,purchase_order,printed_heading,PURCHASE ORDER,True
+sparse,4840bfe10310,purchase_order,purchase_order,printed_heading,PURCHASE ORDER,True
+sparse,9446fd410ee3,purchase_order,purchase_order,printed_heading,PURCHASE ORDER,True
+sparse,02bfde5bf771,purchase_order,purchase_order,printed_heading,PURCHASE ORDER,True
+sparse,a20b14dd771c,purchase_order,purchase_order,printed_heading,PURCHASE ORDER,True
+sparse,e5a5a0f1a894,purchase_order,purchase_order,printed_heading,PURCHASE ORDER,True
+sparse,ee4df28e7c36,purchase_order,purchase_order,printed_heading,PURCHASE ORDER,True
+sparse,5dffabcb47cb,receipt,receipt,trained_classifier,,True
+sparse,7c33fa811984,receipt,receipt,trained_classifier,,True
+sparse,684abec37a2d,receipt,receipt,trained_classifier,,True
+sparse,e4c7eb83722c,customer_copy,customer_copy,printed_heading,CUSTOMER COPY,True
+sparse,71fa862a7998,customer_copy,receipt,trained_classifier,,False
+sparse,308d04e806ba,purchase_order,purchase_order,trained_classifier,,True
+sparse,76cc99d39da4,purchase_order,receipt,trained_classifier,,False
+sparse,12d89294d43a,purchase_order,purchase_order,printed_heading,Order Form,True
+sparse,f9918570b903,delivery_note,delivery_note,printed_heading,Challan,True
+sparse,398c6ef688e4,delivery_note,delivery_note,printed_heading,Delivery Challan,True
+sparse,1610534c8b1f,delivery_note,delivery_note,printed_heading,Delivery Note,True
+sparse,cdd7aaa9004d,customer_copy,purchase_order,trained_classifier,,False
+sparse,8b270977a7a7,customer_copy,customer_copy,printed_heading,DUPLICATE,True
+sparse,6639e70671f3,customer_copy,customer_copy,printed_heading,CUSTOMER COPY,True
+sparse,42d9b408c783,customer_copy,customer_copy,printed_heading,CUSTOMER COPY,True
+sparse,11d42d9168f2,customer_copy,customer_copy,printed_heading,CUSTOMER COPY,True
+sparse,33a6690bb891,customer_copy,receipt,trained_classifier,,False
+sparse,e396ade11def,customer_copy,customer_copy,printed_heading,OFFICE COPY,True
+full,cc6e515ae67f,purchase_order,purchase_order,printed_heading,PURCHASE ORDER,True
+full,4840bfe10310,purchase_order,purchase_order,printed_heading,PURCHASE ORDER,True
+full,9446fd410ee3,purchase_order,purchase_order,printed_heading,PURCHASE ORDER,True
+full,02bfde5bf771,purchase_order,purchase_order,printed_heading,PURCHASE ORDER,True
+full,a20b14dd771c,purchase_order,purchase_order,printed_heading,PURCHASE ORDER,True
+full,e5a5a0f1a894,purchase_order,purchase_order,printed_heading,PURCHASE ORDER,True
+full,ee4df28e7c36,purchase_order,purchase_order,printed_heading,PURCHASE ORDER,True
+full,5dffabcb47cb,receipt,receipt,trained_classifier,,True
+full,7c33fa811984,receipt,receipt,trained_classifier,,True
+full,684abec37a2d,receipt,receipt,trained_classifier,,True
+full,e4c7eb83722c,customer_copy,customer_copy,printed_heading,CUSTOMER COPY,True
+full,71fa862a7998,customer_copy,receipt,trained_classifier,,False
+full,308d04e806ba,purchase_order,receipt,trained_classifier,,False
+full,76cc99d39da4,purchase_order,receipt,trained_classifier,,False
+full,12d89294d43a,purchase_order,purchase_order,printed_heading,Order Form,True
+full,f9918570b903,delivery_note,delivery_note,printed_heading,Challan,True
+full,398c6ef688e4,delivery_note,delivery_note,printed_heading,Delivery Challan,True
+full,1610534c8b1f,delivery_note,delivery_note,printed_heading,Delivery Note,True
+full,cdd7aaa9004d,customer_copy,customer_copy,trained_classifier,,True
+full,8b270977a7a7,customer_copy,customer_copy,printed_heading,DUPLICATE,True
+full,6639e70671f3,customer_copy,customer_copy,printed_heading,CUSTOMER COPY,True
+full,42d9b408c783,customer_copy,customer_copy,printed_heading,CUSTOMER COPY,True
+full,11d42d9168f2,customer_copy,customer_copy,printed_heading,CUSTOMER COPY,True
+full,33a6690bb891,customer_copy,customer_copy,trained_classifier,,True
+full,e396ade11def,customer_copy,customer_copy,printed_heading,OFFICE COPY,True
+combined,cc6e515ae67f,purchase_order,purchase_order,printed_heading,PURCHASE ORDER,True
+combined,4840bfe10310,purchase_order,purchase_order,printed_heading,PURCHASE ORDER,True
+combined,9446fd410ee3,purchase_order,purchase_order,printed_heading,PURCHASE ORDER,True
+combined,02bfde5bf771,purchase_order,purchase_order,printed_heading,PURCHASE ORDER,True
+combined,a20b14dd771c,purchase_order,purchase_order,printed_heading,PURCHASE ORDER,True
+combined,e5a5a0f1a894,purchase_order,purchase_order,printed_heading,PURCHASE ORDER,True
+combined,ee4df28e7c36,purchase_order,purchase_order,printed_heading,PURCHASE ORDER,True
+combined,5dffabcb47cb,receipt,receipt,trained_classifier,,True
+combined,7c33fa811984,receipt,receipt,trained_classifier,,True
+combined,684abec37a2d,receipt,receipt,trained_classifier,,True
+combined,e4c7eb83722c,customer_copy,customer_copy,printed_heading,CUSTOMER COPY,True
+combined,71fa862a7998,customer_copy,receipt,trained_classifier,,False
+combined,308d04e806ba,purchase_order,receipt,trained_classifier,,False
+combined,76cc99d39da4,purchase_order,purchase_order,trained_classifier,,True
+combined,12d89294d43a,purchase_order,purchase_order,printed_heading,Order Form,True
+combined,f9918570b903,delivery_note,delivery_note,printed_heading,Challan,True
+combined,398c6ef688e4,delivery_note,delivery_note,printed_heading,Delivery Challan,True
+combined,1610534c8b1f,delivery_note,delivery_note,printed_heading,Delivery Note,True
+combined,cdd7aaa9004d,customer_copy,customer_copy,trained_classifier,,True
+combined,8b270977a7a7,customer_copy,customer_copy,printed_heading,DUPLICATE,True
+combined,6639e70671f3,customer_copy,customer_copy,printed_heading,CUSTOMER COPY,True
+combined,42d9b408c783,customer_copy,customer_copy,printed_heading,CUSTOMER COPY,True
+combined,11d42d9168f2,customer_copy,customer_copy,printed_heading,CUSTOMER COPY,True
+combined,33a6690bb891,customer_copy,delivery_note,trained_classifier,,False
+combined,e396ade11def,customer_copy,customer_copy,printed_heading,OFFICE COPY,True

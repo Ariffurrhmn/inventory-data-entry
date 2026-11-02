@@ -1,0 +1,13 @@
+{
+  "sample_id": "srd_1119-receipt",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "e329e96a53ad5493d8a52a16c955b4a54ad7a907c5972b230fa164197a16987c",
+  "full_text": "Panda Eyre\r\n\r\n5\r\n\r\nBrook\r\n\r\nlyn,\r\n\r\ns 1614\r\n\r\n(718) 2\r\n\r\n46-3898\r\n\r\n12/22/2017 4\r\n\r\n:98:01 pM\r\n\r\nrder: 19681\r\n\r\n2\r\n\r\nServer: Che\r\n\r\n~10 GO-\r\n\r\nryfia M\r\n\r\n1 Plate\r\n\r\nCHOW MEIN-1/\r\n\r\n9.10\r\n\r\nCHOW MEIN-1/\r\n\r\nBROCCOLI BEEF\r\n\r\n_BELJING BEEF\r\n\r\n9.10\r\n\r\nCHOW MEIN-1/2\r\n\r\nCHOW MEIN-1/2\r\n\r\nCKN EGG'ROLL\r\n\r\n0',CKN\r\n\r\n1 XTRA ENTBE\r\n\r\nE\r\n\r\n1.50\r\n\r\n1 [2\r\n\r\n0\r\n\r\n{epi\r\n\r\nOU\r\n\r\nL. TERIYAKI CKN\r\n\r\n1 PEPSI 20 02\r\n\r\n2.00\r\n\r\n2.00\r\n\r\ni\r\n\r\n‘SubTotal\r\n\r\n25.20\r\n\r\n2.24\r\n\r\nTotal\r\n\r\n2.4\r\n\r\ni]\r\n\r\naa\r\n\r\nAL\r\n\r\nVisa\r\n\r\n4\r\n\r\nAcct\r\n\r\n(X0103\r\n\r\n2\r\n\r\nFA\r\n\r\nAuth\r\n\r\nXX kx x\r\n\r\niE\r\n\r\nil\r\n",
+  "status": "unreviewed_OCR_output"
+}

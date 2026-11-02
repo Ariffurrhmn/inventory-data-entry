@@ -1,0 +1,27 @@
+{
+  "sample_id": "ee4df28e7c36",
+  "image_sha256": "fe331cf5597acd422ec0514ddd2e059a8a69d31b0767f98dfcfa3524c81b9dc5",
+  "views": {
+    "full": "ABC Company PURCHASE ORDER\r\nArifur Rahman\r\nMirpur-2,\r\nDhaka,\r\nBangladesh\r\nVendor Address: PO# PO-9\r\nBZ Company OrderDate Oct 05, 2026\r\nMirpur-12,\r\nDhaka, Delivery Date Oct 07, 2026\r\nBangladesh\r\ntem Description Quy Rate | Amount\r\nCeramic Mug 2 2 4\r\nLED Desk Lamp 5 8.5 42.5\r\nBackpack 4 12 48\r\nCotton T-Shirt 3 7 21\r\nDenim Jeans 1 15 15\r\nSub Total 130.5\r\nPurchase Tax (10%) 13.05\r\nTOTAL $143.55\r\nNotes\r\nIt was great doing business with you.\r\nTerms & Conditions\r\nUpon accepting this purchase order, you hereby agree to the terms & conditions.\r\n",
+    "top_-12": "ABc\r\n\r\nPany\r\n\r\nArifur Rahm,\r\n\r\nly Pur.\r\n\r\nDha ka,\r\n\r\nBanglages h\r\n\r\nPURCHASE ORDER\r\n\r\nVengo, Adg ress:\r\n\r\nXyz Com an\r\n\r\nMirpyr. 12\r\n\r\naka\r\n\r\nPog\r\n\r\nBangi, desh\r\n\r\nPO.g\r\n\r\nOrder Date\r\n\r\n05, 20,\r\n\r\nliver, Date\r\n\r\nOct 07, 202¢\r\n",
+    "top_0": "ABC Company\r\n\r\nArifur Rahman\r\n\r\nPURCHASE ORDER\r\n\r\nMirpur-2,\r\n\r\nDhaka,\r\n\r\nBangladesh\r\n\r\nVendor Address:\r\n\r\nPO#\r\n\r\nPO-9\r\n\r\nXYZ Company\r\n\r\nOrder Date\r\n\r\nOct 05, 2026\r\n\r\nMirpur-12,\r\n\r\nDhaka,\r\n\r\nDelivery Date\r\n\r\nOct 07, 2026\r\n\r\nBangladesh\r\n",
+    "top_12": "URCHA\r\n\r\nC company\r\n\r\nArif\r\n\r\nur Ran?\r\n\r\nWIrpYY\r\n\r\n2\r\n\r\np09\r\n\r\nphaka .\r\n\r\ngang\r\n\r\nades\r\n\r\npO#\r\n\r\noat QS,\r\n\r\n2026\r\n\r\nord\r\n\r\nex pate\r\n\r\na 07 ’ 202\r\n\r\npeliv\r\n\r\nery pate\r\n\r\nve\r\n\r\nndot pddres\r\n\r\n12,\r\n\r\nMirpur\r\n\r\nnaka\r\n\r\nBan\r\n\r\nglades®\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

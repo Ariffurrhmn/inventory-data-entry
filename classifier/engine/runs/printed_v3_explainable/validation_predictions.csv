@@ -1,0 +1,26 @@
+sample_id,actual,predicted,fallback,previous,rule_kind,evidence,ocr_section,ambiguous,correct
+cc6e515ae67f,purchase_order,purchase_order,purchase_order,purchase_order,exact_heading,PURCHASE ORDER,-1,False,True
+4840bfe10310,purchase_order,purchase_order,purchase_order,purchase_order,exact_heading,PURCHASE ORDER,-1,False,True
+9446fd410ee3,purchase_order,purchase_order,purchase_order,purchase_order,exact_heading,PURCHASE ORDER,-1,False,True
+02bfde5bf771,purchase_order,purchase_order,purchase_order,purchase_order,exact_heading,PURCHASE ORDER,-1,False,True
+a20b14dd771c,purchase_order,purchase_order,purchase_order,purchase_order,exact_heading,PURCHASE ORDER,-1,False,True
+e5a5a0f1a894,purchase_order,purchase_order,purchase_order,purchase_order,exact_heading,PURCHASE ORDER,-1,False,True
+ee4df28e7c36,purchase_order,purchase_order,purchase_order,purchase_order,exact_heading,PURCHASE ORDER,-1,False,True
+5dffabcb47cb,receipt,receipt,receipt,receipt,,,,False,True
+7c33fa811984,receipt,receipt,receipt,receipt,,,,False,True
+684abec37a2d,receipt,receipt,receipt,receipt,,,,False,True
+e4c7eb83722c,customer_copy,customer_copy,customer_copy,customer_copy,exact_heading,CUSTOMER COPY,-1,False,True
+71fa862a7998,customer_copy,customer_copy,receipt,customer_copy,ocr_tolerant_copy_marker,uplicate,-1,False,True
+308d04e806ba,purchase_order,purchase_order,purchase_order,purchase_order,purchase_request_intent,Order No; Required By; Please supply,-1,False,True
+76cc99d39da4,purchase_order,purchase_order,purchase_order,purchase_order,purchase_request_intent,Order No; Required By; Please supply,-1,False,True
+12d89294d43a,purchase_order,purchase_order,delivery_note,purchase_order,exact_heading,Order Form,-1,False,True
+f9918570b903,delivery_note,delivery_note,delivery_note,delivery_note,exact_heading,Challan,-1,False,True
+398c6ef688e4,delivery_note,delivery_note,delivery_note,delivery_note,exact_heading,Delivery Challan,-1,False,True
+1610534c8b1f,delivery_note,delivery_note,receipt,delivery_note,exact_heading,Delivery Note,-1,False,True
+cdd7aaa9004d,customer_copy,purchase_order,purchase_order,purchase_order,,,,False,False
+8b270977a7a7,customer_copy,customer_copy,purchase_order,customer_copy,exact_heading,DUPLICATE,-1,False,True
+6639e70671f3,customer_copy,customer_copy,delivery_note,customer_copy,exact_heading,CUSTOMER COPY,-1,False,True
+42d9b408c783,customer_copy,customer_copy,purchase_order,customer_copy,exact_heading,CUSTOMER COPY,-1,False,True
+11d42d9168f2,customer_copy,customer_copy,delivery_note,customer_copy,exact_heading,CUSTOMER COPY,-1,False,True
+33a6690bb891,customer_copy,receipt,receipt,receipt,,,,False,False
+e396ade11def,customer_copy,customer_copy,receipt,customer_copy,exact_heading,OFFICE COPY,-1,False,True

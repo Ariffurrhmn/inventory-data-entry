@@ -1,0 +1,15 @@
+{
+  "sample_id": "company_73f4814646431469",
+  "image_path": "Dataset\\intake\\2026-10-19\\company_documents_v2\\images\\packing_slip\\73f4814646431469.jpg",
+  "image_sha256": "ddea6919181a8f3ede539bec6698092b4a173c938876f81b987c59ab2a0e07ed",
+  "full_text": "Iris Sports Corp.\r\nPedal power. Ride the future.\r\n\r\nPACKING tat\r\n80202 Denver, CO\r\n\r\nUSA\r\n\r\nS LI | Phone: (989) 555-7243\r\naccounts@irissports.com\r\n\r\nwww.irissports.com\r\n\r\nEIN 79-2440607\r\n\r\nNUMBER DATE ORDER NO. CUSTOMER ID CARRIER\r\n1S-BL-58856 November 4, 2024 S058856 AW00025882 Xrq - Truck Ground\r\nBILL TO\r\n\r\nEdward Roberts\r\n130 North Main St.\r\n92102 San Diego, CA\r\nUnited States\r\n\r\nPhone: 597-555-0116\r\n\r\nItem Description Unit Ordered Shipped\r\nTT-M928 Mountain Tire Tube EA i 1\r\nTI-M267 LL Mountain Tire EA 1 i\r\nHL-U509-R Sport-100 Helmet, Red EA 1 1\r\nPackages 1\r\nUnits on hand 3\r\n\r\nNOTES\r\n\r\nMountain bikes built for long-distance riders.\r\n\r\nPacked by Received by\r\n\r\nGear up strong and ride safely today.\r\nwww.irissports.com - accounts@irissports.com - (989) 555-7243\r\n\r\nPacking Slip IS-BL-58856 Page 1/1\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

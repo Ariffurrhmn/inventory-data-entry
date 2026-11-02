@@ -1,0 +1,219 @@
+{
+  "candidates": {
+    "sparse": {
+      "n": 25,
+      "correct": 21,
+      "accuracy": 0.84,
+      "macro_f1": 0.8416666666666666,
+      "class_report": {
+        "purchase_order": {
+          "precision": 0.9,
+          "recall": 0.9,
+          "f1-score": 0.9,
+          "support": 10.0
+        },
+        "receipt": {
+          "precision": 0.5,
+          "recall": 1.0,
+          "f1-score": 0.6666666666666666,
+          "support": 3.0
+        },
+        "delivery_note": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 3.0
+        },
+        "customer_copy": {
+          "precision": 1.0,
+          "recall": 0.6666666666666666,
+          "f1-score": 0.8,
+          "support": 9.0
+        },
+        "accuracy": 0.84,
+        "macro avg": {
+          "precision": 0.85,
+          "recall": 0.8916666666666666,
+          "f1-score": 0.8416666666666666,
+          "support": 25.0
+        },
+        "weighted avg": {
+          "precision": 0.9,
+          "recall": 0.84,
+          "f1-score": 0.848,
+          "support": 25.0
+        }
+      },
+      "confusion_matrix": [
+        [
+          9,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          3,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          3,
+          0
+        ],
+        [
+          1,
+          2,
+          0,
+          6
+        ]
+      ]
+    },
+    "full": {
+      "n": 25,
+      "correct": 22,
+      "accuracy": 0.88,
+      "macro_f1": 0.8741830065359477,
+      "class_report": {
+        "purchase_order": {
+          "precision": 1.0,
+          "recall": 0.8,
+          "f1-score": 0.8888888888888888,
+          "support": 10.0
+        },
+        "receipt": {
+          "precision": 0.5,
+          "recall": 1.0,
+          "f1-score": 0.6666666666666666,
+          "support": 3.0
+        },
+        "delivery_note": {
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1-score": 1.0,
+          "support": 3.0
+        },
+        "customer_copy": {
+          "precision": 1.0,
+          "recall": 0.8888888888888888,
+          "f1-score": 0.9411764705882353,
+          "support": 9.0
+        },
+        "accuracy": 0.88,
+        "macro avg": {
+          "precision": 0.875,
+          "recall": 0.9222222222222222,
+          "f1-score": 0.8741830065359477,
+          "support": 25.0
+        },
+        "weighted avg": {
+          "precision": 0.94,
+          "recall": 0.88,
+          "f1-score": 0.8943790849673203,
+          "support": 25.0
+        }
+      },
+      "confusion_matrix": [
+        [
+          8,
+          2,
+          0,
+          0
+        ],
+        [
+          0,
+          3,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          3,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          8
+        ]
+      ]
+    },
+    "combined": {
+      "n": 25,
+      "correct": 22,
+      "accuracy": 0.88,
+      "macro_f1": 0.8573778195488722,
+      "class_report": {
+        "purchase_order": {
+          "precision": 1.0,
+          "recall": 0.9,
+          "f1-score": 0.9473684210526315,
+          "support": 10.0
+        },
+        "receipt": {
+          "precision": 0.6,
+          "recall": 1.0,
+          "f1-score": 0.75,
+          "support": 3.0
+        },
+        "delivery_note": {
+          "precision": 0.75,
+          "recall": 1.0,
+          "f1-score": 0.8571428571428571,
+          "support": 3.0
+        },
+        "customer_copy": {
+          "precision": 1.0,
+          "recall": 0.7777777777777778,
+          "f1-score": 0.875,
+          "support": 9.0
+        },
+        "accuracy": 0.88,
+        "macro avg": {
+          "precision": 0.8375,
+          "recall": 0.9194444444444444,
+          "f1-score": 0.8573778195488722,
+          "support": 25.0
+        },
+        "weighted avg": {
+          "precision": 0.922,
+          "recall": 0.88,
+          "f1-score": 0.8868045112781954,
+          "support": 25.0
+        }
+      },
+      "confusion_matrix": [
+        [
+          9,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          3,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          3,
+          0
+        ],
+        [
+          0,
+          1,
+          1,
+          7
+        ]
+      ]
+    }
+  },
+  "adaptive": true,
+  "historical_test_inputs_opened": 0
+}

@@ -1,0 +1,15 @@
+{
+  "sample_id": "company_f3e42553f8df96e7",
+  "image_path": "Dataset\\intake\\2026-10-19\\company_documents_v2\\images\\purchase_order\\f3e42553f8df96e7.jpg",
+  "image_sha256": "6c656589809f64b75b618c6470ab72675e672803d2450078471b3989a0fa47c4",
+  "full_text": "Iw Purchase Order\r\n\r\nIris Wheelworks LLC\r\n\r\nNumber PO-2025-3212\r\nPrecision wheels, smooth rides for\r\nal Date 5 Jun 2025\r\n410 Oak Street Delivery date 14 Jun 2025\r\nSuite 143 Account no. TRIKES0001\r\n02110 Boston, MA N\r\nUSA Requested by Annette Hill\r\nPhone: (591) 555-4212 Carrier Overnight J-Fast\r\ncontact@iriswheelworks.com\r\nwww.iriswheelworks.com\r\n\r\n/ENDOR\r\n\r\nEIN 80-1423!\r\nTrikes, Inc.\r\n90 Sunny Ave\r\n\r\nBANK DE 94704 Berkeley, CA\r\nBank: Northern Trust Bank United States\r\nAccount: 5585791826\r\n\r\nRouting no.: 440248973\r\n\r\nItem Description Qty Unit price Disc. Amount\r\nTI-M823 HL Mountain Tire 550 $42.51 —- $23,380.50\r\nIncredible traction, lightweight carbor\r\nreinforced\r\nTT- Mountain Tire Tube 550 $5.59 —- $3,074.50\r\nM928 Self-sealing tube\r\nPAYMENT TER\r\nwipaidiy Subtotal $26,455.00\r\nNet 45 days\r\nFreight $661.38\r\nPlease confirm this order and quote our PO\r\nnumber on all invoices and delivery notes. Tax 8% $2,116.42\r\nTotal $29,232.80\r\n\r\nApproved by\r\n\r\nYour next ride is just around the corner\r\n\r\nPurchase Order PO-2025 Page 1/1\r\n\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

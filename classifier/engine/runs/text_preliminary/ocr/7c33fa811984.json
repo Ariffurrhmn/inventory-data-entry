@@ -1,0 +1,16 @@
+{
+  "sample_id": "7c33fa811984",
+  "image_path": "services\\document_classifier\\data\\images\\7c33fa811984.jpg",
+  "image_sha256": "9f576cd0d462b051a9e12bdb95348ee2c6c8bf0842c7426993eabb80ca67438a",
+  "full_text": "BLACK PEPPER MEATBALL 76,500\nQUARTO FORMANGGI PASTA 82,500\nGREEN TEA WITH CRUMBLE 56,000\nORIGINAL BREWED TEA 46,000\nBTTL 261,000\nSVC CHG 6% 15,880\nPB1 10%\n\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\7c33fa811984.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

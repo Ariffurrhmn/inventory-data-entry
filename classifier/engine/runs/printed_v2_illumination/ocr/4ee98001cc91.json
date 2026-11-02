@@ -1,0 +1,27 @@
+{
+  "sample_id": "4ee98001cc91",
+  "image_sha256": "468623d9bb4668cd6e9b364440330f666b5cb0bdf496d2aab437d43d7b58819a",
+  "views": {
+    "full": "GoNGGieas 1 20000 |\r\nBO SSAM 1 320,000\r\nHAEMUL 1 85,000 :\r\nDENJANG =\r\nJJIGAE %\r\nMULNAENGMYO 1 85,000 x\r\nSub Total 510,000 x\r\nService 35,700 |\r\nTax 54,255 Ee\r\nDiscount 0 Po\r\nTOTAL fil 599,955 |\r\n4iddd iil | at I Fir H\r\n",
+    "top_-12": "vel,\r\n\r\nLEI\r\n\r\nTe\r\n\r\nTeel\r\n\r\nCee\r\n\r\nSeen\r\n\r\nCee\r\n",
+    "top_0": "pp\r\n\r\nLIE Bd\r\n\r\nEE EE\r\n\r\n[EE emer meee ammms—eeemcemmm-ammemeo=—-ese==\r\n",
+    "top_12": "eee\r\n\r\n«3\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

@@ -1,0 +1,27 @@
+{
+  "sample_id": "company_9346d42ebda27ba4",
+  "image_sha256": "1dbf8fac2f5dd6e8e33fc9d0277f47ff4917ffebae85ba3fb54003bf7ece7445",
+  "views": {
+    "full": "w Packing Sli\r\nIw acking Slip\r\nhis arr ok i Number PS-71526\r\nrecision wheels, smooth riges\r\nall Date 2025-05-03\r\n410 Oak Stree Customer ID AW00026217\r\nSuite 143 Carrier Xrq - Truck Ground\r\n02110 Boston, MA\r\nPhone: (591) 555-42 BILL TO\r\nSuasifioal clas com| 4312 Wintergreen Court\r\nRe —— BD1 4SJ W. York\r\nUnited Kingdom\r\nBANK DETAILS Phone: 1 (11) 500 555-0184\r\nBank: Northern ‘Trust Banl\r\nRouting no: 440248973 Item Description Unit Ordered Shipped\r\nTT-R982 Road Tire Tube EA 1 1\r\nConventional all-purpose tube.\r\nHL-U509-  Sport-100 Helmet, Red EA 1 il,\r\nR Universal fit, well-vented, lightweight , snap-\r\non visor.\r\nPackages 1\r\nUnits on hand 2\r\nNOTES\r\nAll wheels manufactured in USA factory.\r\nPacked by Received by\r\nYour next ride is just around the corner.\r\nPacking Slip PS-71526 Pagel/1\r\n",
+    "top_-12": "——\r\n\r\nho\r\n\r\niY\r\n\r\nNumg, \"\r\n\r\nIng g;\r\n\r\nIp\r\n\r\nDare\r\n\r\nPs.\r\n\r\n71526\r\n\r\nUstomg, Dn\r\n\r\n2025.95,\r\n\r\nRIC)\r\n\r\nCarrjo,\r\n\r\nq-\r\n\r\nW00g24, 1\r\n\r\ni\r\n\r\nBILL rg\r\n\r\nTruc Groyupg\r\n\r\nPegr,\r\n\r\nlance\r\n\r\n80; 45,\r\n\r\nTeen Coury\r\n\r\nUnit ed Kk,\r\n\r\n1,\r\n\r\nOdom;\r\n\r\nPhone\r\n\r\n11) 500 555.014\r\n\r\nItem\r\n\r\n©SCriptio,\r\n\r\nTT. R9gz\r\n\r\na Tire 1,\r\n\r\nfl\r\n\r\nUnig\r\n\r\nHL.\r\n\r\n4 Plrpose th\r\n\r\n0s- Spo,\r\n\r\noo af a)\r\n\r\nEa\r\n\r\nrderey s hibpeq\r\n\r\n1 Heme Red\r\n\r\nEA\r\n",
+    "top_0": "Packing Slip\r\n\r\n1\r\n\r\nWo\r\n\r\nNumber\r\n\r\nPS-71526\r\n\r\nDate\r\n\r\n2025-05-03\r\n\r\nCustomer ID\r\n\r\nAW00026217\r\n\r\nCarrier\r\n\r\nXrq - Truck Ground\r\n\r\nBILL TO\r\n\r\nit\r\n\r\nPedro Blanco\r\n\r\nOH\r\n\r\n4312 Wintergreen Court\r\n\r\nBD1 4S) W. York\r\n\r\nUnited Kingdom\r\n\r\nPhone: 1 (11) 500 555-0184\r\n\r\nItem\r\n\r\nUnit\r\n\r\nDescription\r\n\r\nOrdered Shipped\r\n\r\nTT-R982\r\n\r\nRoad Tire Tube\r\n\r\nEA\r\n\r\n1\r\n\r\n1\r\n\r\nConventional all-purpose tube.\r\n\r\nHL-U509-\r\n\r\nSport-100 Helmet, Red\r\n\r\nEA\r\n\r\n1\r\n\r\n1\r\n",
+    "top_12": "s\\ip\r\n\r\nps-71528\r\n\r\n20250502\r\n\r\njz\r\n\r\nure’\r\n\r\np0002627\r\n\r\nWO\r\n\r\npate\r\n\r\ncustome?\r\n\r\nck Grout\r\n\r\na - Tew\r\n\r\nca nel\r\n\r\n1h\r\n\r\n[SS\r\n\r\nB\\\r\n\r\nwe\r\n\r\ner\r\n\r\ngen cout\r\n\r\nA312\r\n\r\nYork\r\n\r\nRit\r\n\r\nhice!\r\n\r\n80\r\n\r\nordere\r\n\r\n4 soieeed\r\n\r\nit\r\n\r\ndom 655 0184\r\n\r\nurd ed King\r\n\r\nunit\r\n\r\nphone\r\n\r\nAi\r\n\r\neA\r\n\r\npe\r\n\r\nem\r\n\r\nTi\r\n\r\npose tb\r\n\r\neh\r\n\r\nv-Ro8\r\n\r\n00 wetmet:\r\n\r\nSport\r\n\r\nLa\r\n\r\n509-\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

@@ -1,0 +1,27 @@
+{
+  "sample_id": "f9918570b903",
+  "image_sha256": "bc4e1f5f2758199a5b77f34cba6bedf0a71d78335a9eb2c0a8a6d0e8af7cc60c",
+  "views": {
+    "full": "Surma Food Supply i\r\n\r\nee!\r\nChallan\r\n' Challan No: DC-968.\r\n: Date: 27/07/2026.\r\nFrom: Surma Food Supply.\r\n; To: Meghna Store, Savar, Dhaka.\r\nReceived By Delivered By\r\n",
+    "top_-12": "Uma Fogg Suppyy,\r\n\r\n96g\r\n\r\nhalla),\r\n\r\n27/07/20\r\n\r\nSurm\r\n\r\n° Meghna S 9d Suppyy,\r\n\r\n* Savar, pp, ka\r\n",
+    "top_0": "i\r\n\r\nSurma Food Supply :\r\n\r\nChallan\r\n\r\nChallan No: DC-968.\r\n\r\nDate: 27/07/2026.\r\n\r\nFrom: Surma Food Supply.\r\n\r\nTo: Meghna Store, Savar, Dhaka.\r\n",
+    "top_12": "lan\r\n\r\npPY\r\n\r\nSurm\r\n\r\nphaka\r\n\r\nSav al,\r\n\r\nMeght\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

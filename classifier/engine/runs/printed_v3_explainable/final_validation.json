@@ -1,0 +1,33 @@
+{
+  "selected_run": "printed_v3_explainable",
+  "model_hash_verified": true,
+  "rule_and_ocr_hashes_verified": true,
+  "protected_source_files_unchanged": 6,
+  "validation_predictions_reproduced": 25,
+  "explanations": 25,
+  "max_explanation_reconstruction_error": 2.2648549702353193e-14,
+  "workflow_tests_passed": 30,
+  "ui_javascript_syntax_checked": true,
+  "image_route_test": "Mocked OCR preserves independent section boundaries and excludes heading-only text from learned features",
+  "ui_demonstrated_again": false,
+  "server_restarted": false,
+  "historical_test_inputs_opened": 0,
+  "current_code_sha256": {
+    "inference.py": "97f0d21c697f39ea12cf56b384607da0820db097cc0fcb3409b28860d879452a",
+    "explain.py": "b389014044c8b741f76e209dbe98507d4bcd1faadbd35d6446de9aaec758c47a",
+    "heading_rules.py": "f764ebc96771d23a2f0c689efaa5c105d04d19b8b24eb67ab60464ea9118ac4f",
+    "heading_rules_v2.py": "ca15a69bb18ec8d6b16ec0d69ba5f105eaa0b14b5eec277d1c66b30d618165e3",
+    "heading_rules_v3.py": "97a5277585a9d6146844c91041ecd74457fd708ade065fad350ab7236d156827",
+    "illumination_ocr.py": "0d084cdf427bc9b2ce0533d0ea51f4e92b5a8e9ff21ed89a3b521c5856923bcc",
+    "edge_ocr.py": "153fac0961e85630b54ddb9d394b078dc5f9153ea476880f793662327d976449",
+    "classifier_app.py": "e1b66eb7a1591f109c7234b09316f48c70fab86269fe889d58825ab00aa8f304",
+    "classifier.html": "904f461a9ef4f71ad50161c90e3bb3346af5a420301a591c76849f2e62e7f502",
+    "train_contrastive.py": "5c1b88fd6ae1d00f4eae3ac275628c027b51b1928a568f05093c4d4d1b54c57a",
+    "train_recovered.py": "89f54ce5ac905e6206b1f324bdbdec061c041ecabca60483278f0ebfa6359004",
+    "run_illumination_experiment.py": "6146eaae6783866d042e2dd440a8fa24495a9aec8b7a4fa1b49cb830e4a477c2",
+    "run_rule_recovery.py": "fbba270221b6a371b911df39a35d75c9747a2243650a22b230dd4b401bd8c7e8",
+    "run_section_recovery.py": "56026e69b2ebeee500da15c9f4e0d290acb04ebf2bec6b387349f6fa5609d2ca",
+    "package_explainable.py": "91975b4e318ece5f884ba29bd101da4057a0757f7867cf98e8843905dd35e5b2"
+  },
+  "limitations": "Adaptive reused development evidence; no independent real holdout"
+}

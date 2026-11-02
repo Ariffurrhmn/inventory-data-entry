@@ -1,0 +1,27 @@
+{
+  "sample_id": "e396ade11def",
+  "image_sha256": "b9f12f27d77447b831b0976cf9e4fd4265fb6f17e158cd85528c4bdde5053c00",
+  "views": {
+    "full": "Pm mm a R=\r\n4 o\r\n| Jamuna Wholesale :\r\n| |\r\n| @ Invoice\r\n! : OFFICE COPY i\r\n@ |\r\nInvoice No: INV-9957. Date: 10/09/2026. |\r\n® ' Bill To / Customer: Tazin Super Shop, Dhanmondi 27, Dhaka. |\r\n1 @ | t—~m=msTmmmssmemejeem——————\r\n' | | Item | Qty | Rate (Tk) | Amount (Tk) | |\r\n; as, ae, esi se eeiagarry\r\nof | Toothpaste 100g | 10 | Tk 120 | Tk 1,200 Po\r\nAR\r\n' ® | Exercise Book 1] Tk45 | Tx 45 |\r\n[ FUNRER—\" CS SSS\r\n|\r\n\r\n @ i\r\n; Total: Tk 1,245.\r\n| @\r\n! i\r\n| i\r\n| bid 5 i\r\n1 I\r\n| >\r\ni —————————————————————————————— |\r\nAuthorised Signature\r\ni |\r\n@\r\n\r\ni i RE\r\n",
+    "top_-12": "[ {\r\n\r\nJamyp, Wholeg, 1\r\n\r\nty\r\n\r\norp;\r\n\r\nvoice N\r\n\r\nCopy\r\n\r\nNv-g\r\n\r\n11; To\r\n\r\nFon ~—\r\n\r\nZin Supe\r\n\r\n~~ -\r\n\r\nI Shop, p\r\n\r\nnd)\r\n\r\n~———\r\n\r\n——\r\n",
+    "top_0": "me me mm mm ee ee eee = —\r\n\r\nJamuna Wholesale\r\n\r\n) t\r\n\r\nInvoice\r\n\r\nOFFICE COPY\r\n\r\nInvoice No: INV-9957.\r\n\r\nDate: 10/09/2026.\r\n\r\nJ\r\n\r\nBill To / Customer: Tazin Super Shop, Dhanmondi 27, Dhaka.\r\n\r\n®\r\n\r\nES\r\n",
+    "top_12": "-\r\n\r\nynolesai®\r\n\r\nJapun?\r\n\r\niC\r\n\r\n1nvO\r\n\r\ncor?\r\n\r\ntha\r\n\r\nte\r\n\r\n27s\r\n\r\n-99%\r\n\r\nPe J\r\n\r\n{novo\r\n\r\nice N\r\n\r\n, Tard\r\n\r\npn Super a\r\n\r\nomer:\r\n\r\ngill T\r\n\r\no | C8\r\n\r\na\r\n\r\n——\" - —\r\n\r\n4\"\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

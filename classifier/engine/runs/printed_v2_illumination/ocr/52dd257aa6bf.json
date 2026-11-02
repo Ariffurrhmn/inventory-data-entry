@@ -1,0 +1,27 @@
+{
+  "sample_id": "52dd257aa6bf",
+  "image_sha256": "c9f903151e9e59f9ceaa2a914c3ccad43ed2cbca2651f199e9ceb08121a3334d",
+  "views": {
+    "full": "¥ 1\r\n1 1\r\n1 |\r\nI I\r\n1 |\r\n: HGT Company PURCHASE ORDER\r\n: Shop-12, !\r\n, Panjora, Gazipur, Number: PO-18 y\r\nDhaka, Dato: 2026-09-18 !\r\n: Bunglasesh Due Date: 2026-10-18\r\n:\r\n1 1\r\n} i\r\n| |]\r\n1 .... A. iA YL, a ——————————————— |\r\n} J\r\n1 1}\r\n} I\r\nfl }\r\n1 BILL TO y\r\n1\r\n: XK Company :\r\n|\r\n] Shop-43, i\r\n) Mirpue-10\r\n: Dhaka, i\r\n) Banglasesh ’\r\n;\r\n[\r\n1\r\nI\r\n| Water Bottle 4 $3.50 $16.52 '\r\n1\r\n: Wallet 10 $2.50 $29.50\r\n|\r\n| =r - —— = - x 4\r\nal\r\nLED Desk Lamp 10 $8.61 $101.60\r\nCeramic Mug 1 $4.50 $5.31\r\nEarphones 1 $2.01 $2.37\r\nTaxable Amount: $131.61\r\n— ee\r\nTotal: $155.30\r\n",
+    "top_-12": "GT\r\n\r\nShap.\r\n\r\nOMpany,\r\n\r\nPanjorg,\r\n\r\nour,\r\n\r\nhakg,\r\n\r\nBangiasosy,\r\n\r\nHoy Mbey,\r\n\r\nDay,\r\n\r\nPO. 4\r\n\r\nDue Dag,\r\n\r\n18\r\n\r\n2026.15.14\r\n\r\nBig To\r\n\r\nShy\r\n\r\nk Company,\r\n\r\nLY 10\r\n\r\nakg,\r\n\r\nBanglesegy,\r\n",
+    "top_0": "HGT Company\r\n\r\nPURCHASE ORDER\r\n\r\nShop-12,\r\n\r\nPanjora, Gazipur,\r\n\r\nNumber.\r\n\r\nPO-18\r\n\r\nDhaka,\r\n\r\nDate.\r\n\r\n2026-09-18\r\n\r\nBanglasosh\r\n\r\nDue Date:\r\n\r\n2026-10-18\r\n\r\nBILL TO\r\n\r\nXK Company\r\n\r\nShop-43,\r\n\r\nMirpue-10\r\n\r\nDhaka,\r\n\r\nBanglasesh\r\n",
+    "top_12": "oRDER\r\n\r\noy\r\n\r\nRCHAS\r\n\r\npo-18\r\n\r\npune’\r\n\r\na 0918\r\n\r\nDae.\r\n\r\nq0ee0®\r\n\r\nany\r\n\r\npue DI\r\n\r\nnop 12\r\n\r\npanists:\r\n\r\nGarov'\r\n\r\nDhoird:\r\n\r\npanaie®\r\n\r\nmpeny\r\n\r\nK CO\r\n\r\nhop?\r\n\r\nPip\r\n\r\nue-30\r\n\r\npraks\r\n\r\nJasest\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

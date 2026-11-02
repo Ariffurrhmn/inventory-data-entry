@@ -1,0 +1,29 @@
+source_path,actual,predicted,score,correct
+Dataset/Purchase_Order/PO-PO - 15.jpg,purchase_order,purchase_order,0.6012612581253052,True
+Dataset/Receipt/cord-train-0114.jpg,receipt,receipt,0.5084458589553833,True
+Dataset/Receipt/cord-train-0133.jpg,receipt,customer_copy,0.5369784235954285,False
+Dataset/Receipt/cord-train-0140.jpg,receipt,receipt,0.6548313498497009,True
+Dataset/Receipt/cord-train-0145.jpg,receipt,customer_copy,0.4676155745983124,False
+Dataset/Receipt/cord-train-0155.jpg,receipt,receipt,0.4648863971233368,True
+Dataset/Delivery_Note/packing-slip-1064.png,delivery_note,purchase_order,0.5144829750061035,False
+Dataset/Delivery_Note/packing-slip-1079.png,delivery_note,purchase_order,0.5260969996452332,False
+Dataset/Delivery_Note/packing-slip-1087.png,delivery_note,purchase_order,0.4980485737323761,False
+Dataset/Delivery_Note/packing-slip-1094.png,delivery_note,purchase_order,0.5219283103942871,False
+Dataset/Delivery_Note/packing-slip-1111.png,delivery_note,purchase_order,0.48833420872688293,False
+Dataset/Customer_Copy/1073-receipt.jpg,customer_copy,customer_copy,0.5731102824211121,True
+Dataset/Customer_Copy/image_0711.jpg,customer_copy,receipt,0.6152685880661011,False
+Dataset/Customer_Copy/image_0799.jpg,customer_copy,customer_copy,0.5781443119049072,True
+Dataset/Customer_Copy/image_1043.jpg,customer_copy,customer_copy,0.7874534130096436,True
+Dataset/Customer_Copy/image_1748.jpg,customer_copy,customer_copy,0.7985000610351562,True
+Dataset/Customer_Copy/image_1758.jpg,customer_copy,customer_copy,0.6327442526817322,True
+Dataset/Dataset-2/Purchase order/IMG_0966.HEIC,delivery_note,purchase_order,0.4751860201358795,False
+Dataset/Dataset-2/Purchase order/IMG_0967.HEIC,delivery_note,delivery_note,0.520331084728241,True
+Dataset/Dataset-2/Purchase order/IMG_0968.HEIC,delivery_note,delivery_note,0.547131359577179,True
+Dataset/Dataset-2/Purchase order/IMG_0969.HEIC,delivery_note,delivery_note,0.5413101315498352,True
+Dataset/Dataset-2/Purchase order/IMG_0970.HEIC,delivery_note,purchase_order,0.49761366844177246,False
+Dataset/Dataset-2/Purchase order/IMG_0972.HEIC,purchase_order,customer_copy,0.40009260177612305,False
+Dataset/Dataset-2/Purchase order/IMG_0973.HEIC,purchase_order,customer_copy,0.39196541905403137,False
+Dataset/Dataset-2/Purchase order/IMG_0978.HEIC,purchase_order,customer_copy,0.4655316174030304,False
+Dataset/Dataset-2/Purchase order/IMG_0979.HEIC,purchase_order,purchase_order,0.4914938807487488,True
+Dataset/Dataset-2/Purchase order/IMG_0981.HEIC,purchase_order,customer_copy,0.6026605367660522,False
+Dataset/Dataset-2/Purchase order/IMG_0982.HEIC,purchase_order,customer_copy,0.37536218762397766,False

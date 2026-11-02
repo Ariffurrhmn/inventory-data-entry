@@ -1,0 +1,32 @@
+{
+  "date": "2026-10-19",
+  "purpose": "recover document text lost by automatic page segmentation",
+  "scope": "train/validation only; no new test evaluation",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "candidates": [
+    "sparse_original",
+    "combined_original",
+    "sparse_augmented",
+    "combined_augmented"
+  ],
+  "unchanged_classifier": "word1-2/char_wb3-5 TF-IDF, balanced LR C1, seed42",
+  "selection": "highest validation macro-F1; ties favor fewer training records then sparse policy; promote only if beats frozen selected original_ocr validation macro-F1",
+  "protected_before": {
+    "services\\document_classifier\\labels.csv": "137ea51441c37e2cb64dabfa8acf54baea4015d1838e7a5a2d8a249017710f42",
+    "services\\document_classifier\\data\\manifest.csv": "f4ce768a92308dde08a9d771bae3f9657e29fea07160a0c0e87b4291e47d6e9f",
+    "services\\document_classifier\\data\\splits.csv": "0b73f0153ae37a842289ff313d37fabba52f26d97b6fd38a4913957adeba695b",
+    "services\\document_classifier\\runs\\text_preliminary\\evaluation.json": "657441316478035f57f6e60a0bf878f4389be181a496af8fd3f42ac353577285",
+    "services\\document_classifier\\runs\\text_preliminary\\selection.json": "aa5edff5e5cfbf02757e8696478728f389b3c49b11eeb8d01e3d3f740ea96731",
+    "services\\document_classifier\\runs\\text_preliminary\\original_ocr.joblib": "bb5dde78e37bf65d55d5136ae7ac2d978b789779a9ea87f7bb69a90bdbecf132"
+  },
+  "original_train": 86,
+  "augmented_train": 177,
+  "validation": 26,
+  "test_images_opened": 0
+}

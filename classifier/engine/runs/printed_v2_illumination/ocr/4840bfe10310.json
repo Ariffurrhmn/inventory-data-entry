@@ -1,0 +1,27 @@
+{
+  "sample_id": "4840bfe10310",
+  "image_sha256": "73b72a2cba52c1d2e072d6cf9bc65d5f36c5904ce315b2c0c24f6ffd74dc74ed",
+  "views": {
+    "full": "DEF Company PURCHASE ORDER\r\nShahadat Sarker\r\nUttara-10,\r\nDhaka,\r\nBangladesh\r\nVendor Address: PO# PO-11\r\nRZ Company OrderDate Sep 09, 2026\r\nMirpur-2,\r\nDhaka, Delivery Date Sep 14, 2026\r\nBangladesh\r\ntem Description 1 uy | Rate | Amount\r\nFace Wash 2 4 8\r\nShampoo 400ml 5 4.5 22.5\r\nBody Lotion 4 5 20\r\nCotton T-Shirt 5 7 35\r\nDenim Jeans 2 15 30\r\nToothpaste 1 1.8 1.8\r\nBiscuits 200g 5 0.8 4\r\nInstant Noodles 10 0.4 4\r\nSub Total 125.3\r\nPurchase Tax (10%) 12.53\r\nTOTAL $137.83\r\nNotes\r\nIt was great doing business with you.\r\n",
+    "top_-12": "Der\r\n\r\nPan\r\n\r\nShahaga Sa\r\n\r\nrk\r\n\r\nara-1 ,\r\n\r\nDha ka,\r\n\r\nBanglages h\r\n\r\nPURCHASE ORDER\r\n\r\nVengo, Adg ress:\r\n\r\nXyz Com an\r\n\r\nMirpyr. 2\r\n\r\nDhaj,\r\n\r\nPoy\r\n\r\nBangi, desh\r\n\r\nder D ate\r\n\r\nPO.14\r\n\r\n€p 1\r\n\r\n4, 2026\r\n",
+    "top_0": "DEF Company\r\n\r\nPURCHASE ORDER\r\n\r\nShahadat Sarker\r\n\r\nUttara-10,\r\n\r\nDhaka,\r\n\r\nBangladesh\r\n\r\nVendor Address:\r\n\r\nPO#\r\n\r\nPO-11\r\n\r\nXYZ Company\r\n\r\nOrder Date\r\n\r\nMirpur-2,\r\n\r\nSep 09, 2026\r\n\r\nDhaka,\r\n\r\nDelivery Date\r\n\r\nSep 14, 2026\r\n\r\nBangladesh\r\n",
+    "top_12": "URCHA\r\n\r\ncompa™y\r\n\r\narke’\r\n\r\ncanada\r\n\r\n(Sic\r\n\r\nra-10r\r\n\r\nphaka .\r\n\r\npo-\\\r\n\r\npO#\r\n\r\nangiade™”\r\n\r\n09,20\r\n\r\norder P2*\r\n\r\nSep\r\n\r\n14,20\r\n\r\nyivery P2\"\r\n\r\nvendo\r\n\r\nt padress\r\n\r\nMirpur’\r\n\r\n24\r\n\r\nnaka\r\n\r\ngang\r\n\r\nages\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

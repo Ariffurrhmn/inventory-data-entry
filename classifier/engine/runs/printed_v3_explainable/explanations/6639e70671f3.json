@@ -1,0 +1,89 @@
+{
+  "sample_id": "6639e70671f3",
+  "actual_existing_label": "customer_copy",
+  "result": {
+    "decision_trace": {
+      "selected_component": "printed_heading",
+      "heading_matches": [
+        "customer_copy"
+      ],
+      "ambiguous_heading": false,
+      "normalized_heading_evidence": "CUSTOMER COPY",
+      "learned_top_class": "delivery_note",
+      "learned_alternative_class": "purchase_order",
+      "learned_score_margin": 0.3213955710683802,
+      "scores_calibrated": false,
+      "rule": {
+        "kind": "exact_heading",
+        "evidence": "CUSTOMER COPY",
+        "matched_terms": [
+          "CUSTOMER COPY"
+        ],
+        "ocr_section_index": -1
+      },
+      "explanation_method": "Deterministic rule trace or exact n-gram contributions; transformers use fixed-model text omissions"
+    },
+    "label": "customer_copy",
+    "decision_source": "printed_heading",
+    "heading_evidence": "CUSTOMER COPY",
+    "ambiguous_heading": false,
+    "statistical_label": "delivery_note",
+    "scores_kind": "statistical_fallback_scores",
+    "scores": {
+      "customer_copy": 0.17412784478890367,
+      "delivery_note": 0.5121582323516871,
+      "purchase_order": 0.19076266128330693,
+      "receipt": 0.12295126157609892
+    },
+    "scores_calibrated": false,
+    "ocr_empty": false,
+    "text_characters": 271,
+    "input_origin": "provided_text",
+    "ocr_text": "\\# Surma Food Supply\r\n: EE ———————————————————————————————————\r\n°\r\nInvoice\r\n| Bill To / Customer: Invoice No: INV-5865.\r\nBismillah Store, Tongi, Gazipur. Date: 24/07/2026.\r\n\r\nInstant Noodles 8-pack Tk 160 Tk 1,600\r\n\r\n| | shampoo 340ml Tk 450 Tk 450\r\n\r\nAuthorised Signature\r\n\r\n| T. Sultana\r\n",
+    "heading_ocr_text": "\\'Y 4 Surma Food Supply\r\n\r\nInvoice\r\n\r\nBill To / Customer:\r\n\r\nInvoice No: INV-5865.\r\n\r\nBismillah Store, Tongi, Gazipur.\r\n\r\nDate: 24/07/2026.\r\n\r\n[on [sea | amon]\r\n\r\nCT NE NT\r\n\r\nomen | + | ww | wm\r\n\r\n7 Sulla\r\n\r\nAuthorised Signature\r\n\r\nT. Sultana\r\n\r\nCUSTOMER COPY\r\n\r\nSa I SOR SWE BC Ll eel ede ee fe ee ie\r\n\f\\# Surma Food Supply |\r\nInvoice |\r\n| | Bit To/ customer: Involce No: INV-5865.\r\nBismillah Store, Tongi, Gazipur. Date: 24/07/2026.\r\n\n| otal; 1K'3,509: |\r\n: Authorised Signature\r\n\r\nT. Sultana\r\n! CUSTOMER COPY\r\n\f\\# Surma Food Supply\r\n: EE ———————————————————————————————————\r\n°\r\nInvoice\r\n| Bill To / Customer: Invoice No: INV-5865.\r\nBismillah Store, Tongi, Gazipur. Date: 24/07/2026.\r\n\r\nInstant Noodles 8-pack Tk 160 Tk 1,600\r\n\r\n| | shampoo 340ml Tk 450 Tk 450\r\n\r\nAuthorised Signature\r\n\r\n| T. Sultana\r\n\f\\\r\n\r\nSurm, Fooq upp]\r\n\r\nBismijyap, Stomey,\r\n\r\nZipyr,\r\n\r\nVoice\r\n\r\nDate: 24/0,\r\n\fFEU UO\r\n\r\n—- mm mm moe\r\n\r\n\\ Surma Food Supply\r\n\r\nInvoice\r\n\r\nBill To / Customer:\r\n\r\nInvoice No: INV-5865.\r\n\r\nBismillah Store, Tongi, Gazipur.\r\n\r\nDate: 24/07/2026.\r\n\r\nEC 0\r\n\ffood Supply\r\n\r\nqurma\r\n\r\n\\nvoice\r\n\r\n£865\r\n\r\nnv ol\r\n\r\n(07/2026\r\n\r\n1To | CU°\r\n\r\nSt\r\n\r\n\" Garp\r\n\r\nBi milla\r\n\r\na\r\n",
+    "validation_only": true,
+    "run": "printed_v3_explainable",
+    "model": "classifier",
+    "backend": "complement_nb",
+    "model_sha256": "bd1dba65eb03c3f2282697a502400794ce754543c5e16150625b73cea62ce0bd",
+    "scope_version": "printed-only-v1",
+    "ocr_policy": "illumination",
+    "heading_rules": true,
+    "edge_recovery": true,
+    "classes": [
+      "purchase_order",
+      "receipt",
+      "delivery_note",
+      "customer_copy"
+    ],
+    "experimental": true,
+    "heading_module": "heading_rules_v3",
+    "illumination_recovery": true
+  },
+  "explanation": {
+    "label": "customer_copy",
+    "decision_source": "printed_heading",
+    "model_run": "printed_v3_explainable",
+    "scores_calibrated": false,
+    "method": "deterministic_heading_trace",
+    "rule": {
+      "kind": "exact_heading",
+      "evidence": "CUSTOMER COPY",
+      "matched_terms": [
+        "CUSTOMER COPY"
+      ],
+      "ocr_section_index": -1
+    },
+    "normalized_matched_text": "CUSTOMER COPY",
+    "matched_classes": [
+      "customer_copy"
+    ],
+    "ambiguous": false,
+    "learned_fallback_label": "delivery_note",
+    "reason": "The unique matched printed-text rule selected the class. The learned model did not determine the final label.",
+    "limitations": [
+      "This explains the decision rule, not whether OCR correctly read the source image.",
+      "Heading evidence may come from separate page-region OCR."
+    ]
+  }
+}

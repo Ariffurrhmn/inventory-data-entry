@@ -1,0 +1,16 @@
+{
+  "sample_id": "192e9fb6775d",
+  "image_path": "services\\document_classifier\\data\\images\\192e9fb6775d.jpg",
+  "image_sha256": "e5eb3f45efd630f7755c8022637434dd55f2b531a555a6dc8bbe9feba4080d11",
+  "full_text": "Challan no. DC-009\nDate 2026-09-04\n\nDELIVERY CHALLAN\n\nABC Company Place of supply Kolkata\n\nSELLER CONSIGNEE\nABC Company Sojib\nShop 12, Market Road, City — 400001 House-71, Road- 14, Kolkata\n\nVehicle no.: MH 01 AB 1234 Purpose: Job work\n\nDesc HSN/SAC Rate Taxable GST\n\n1 Wireless Mouse 9056 150.00 %750.00 %1,12,500.00 20%\n\n2 Computer Keyboard 3541 250.00 %900.00 %2,25,000.00 6%\n\n3 uss 1436 300.00 ¥550.00 %1,65,000.00 10 %\nTaxable value ¥5,02,500.00\nCGST ¥26,250.00\nSGST ¥26,250.00\nGrand total %5,55,000.00\n\nAmount in words: Five Lakh Fifty Five Thousand Rupees Only\n\nNotes: Goods sent for the purpose stated above. Not a sale.\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\192e9fb6775d.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

@@ -1,0 +1,27 @@
+{
+  "sample_id": "srd_1017-receipt",
+  "image_sha256": "f30a0d5f4b09e18db02076f158895c17c1e2e1b0bd036e32604d695cc8441db2",
+  "views": {
+    "full": "4 UMIX\r\n4327 N. Expressway 717/83\r\ng56-350-8686\r\nBrownsville, TX 78521\r\n956-543-5089\r\nTicket #215406 User :KRIST\r\nStation:1 Sales Rep KRIST\r\n4/24/2016 6:30:31 PM\r\nItem Qty Price Total\r\nDescription\r\n100027 1 5.25 5.25\r\nPARIS\r\n100026 1 4.95 4.95\r\nLE CLASSIQUE\r\nSubtotal 10. 20\r\nTax 0.84\r\nTotal 11.04\r\nTender:\r\nCASH 20. 00\r\nChange (CASH) -8. 96\r\nNumber of items purchased:?2\r\n",
+    "top_-12": "UMix\r\n\r\n4327 N\r\n\r\n6-350\r\n\r\nWa\r\n\r\nY 77/83\r\n\r\nvi\r\n\r\n\"068\r\n\r\nick\r\n\r\nStation\r\n\r\nso\r\n\r\n78521\r\n\r\nS81 KRIST\r\n\r\nItep\r\n\r\n“P KRIST\r\n\r\n—\r\n\r\na ty\r\n\r\n~\r\n",
+    "top_0": "UMIX\r\n\r\n4327 N. Expressway 11/83\r\n\r\n956-350-8686\r\n\r\nBrownsville, TX 78521\r\n\r\n956-543-5089\r\n\r\nTicket #215406\r\n\r\nUser KRIST\r\n\r\nStation:\r\n\r\nSales Rep KRIST\r\n\r\nItem\r\n\r\nQty Price\r\n\r\nTotal\r\n\r\nDescription\r\n\r\n- —\r\n\r\n—\r\n",
+    "top_12": "UMR\r\n\r\ni 171/83\r\n\r\n© 360\r\n\r\n*\r\n\r\n18521\r\n\r\nRi\r\n\r\nrove, me Ns\r\n\r\nsel\r\n\r\nRIS\r\n\r\ncalles\r\n\r\n1icke\r\n\r\nL¥ oA06\r\n\r\nAY\r\n\r\non)\r\n\r\n6 Ww 3 PH\r\n\r\nTota)\r\n\r\n241200\r\n\r\npric\r\n\r\nau\r\n\r\nten\r\n\r\n—-\r\n\r\nDes\r\n\r\nsCV ciptioh\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

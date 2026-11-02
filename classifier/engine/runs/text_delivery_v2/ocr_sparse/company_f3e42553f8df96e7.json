@@ -1,0 +1,13 @@
+{
+  "sample_id": "company_f3e42553f8df96e7",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "6c656589809f64b75b618c6470ab72675e672803d2450078471b3989a0fa47c4",
+  "full_text": "Iw\r\n\r\nPurchase Order\r\n\r\nIris Wheelworks LLC\r\n\r\nPrecision wheels, smooth rides for\r\n\r\nNumber\r\n\r\nPO-2025-3212\r\n\r\nall.\r\n\r\nDate\r\n\r\n5 Jun 2025\r\n\r\n410 Oak Street\r\n\r\nDelivery date\r\n\r\n14 Jun 2025\r\n\r\nSuite 143\r\n\r\nAccount no.\r\n\r\nTRIKES0001\r\n\r\n02110 Boston, MA\r\n\r\nUSA\r\n\r\nRequested by\r\n\r\nAnnette Hill\r\n\r\nPhone: (591) 555-4212\r\n\r\nCarrier\r\n\r\nOvernight J-Fast\r\n\r\ncontact\r\n\r\nriswheelworks.com\r\n\r\nwww.iriswheelworks.com\r\n\r\nEIN 80-1423\r\n\r\n/ENDOR\r\n\r\nTrikes, Inc.\r\n\r\nBANK DE\r\n\r\n90 Sunny Ave\r\n\r\n94704 Berkeley, CA\r\n\r\nBank: Northern Trust Bank\r\n\r\nAccount: 5585791826\r\n\r\nUnited States\r\n\r\nRouting no.: 440248973\r\n\r\nItem\r\n\r\nDescription\r\n\r\nQty\r\n\r\nUnit price\r\n\r\nDisc.\r\n\r\nAmount\r\n\r\nTI-M823\r\n\r\nHL Mountain Tire\r\n\r\n550\r\n\r\n$42.51\r\n\r\n=\r\n\r\n$23,380.50\r\n\r\nIncredible traction, lightweight carbor\r\n\r\nreinforced\r\n\r\nTT\r\n\r\nMountain Tire Tube\r\n\r\n550\r\n\r\n$5.59\r\n\r\n$3,074.50\r\n\r\nM928\r\n\r\nSelf-sealing tube.\r\n\r\nPAYMENT TER\r\n\r\nSubtotal\r\n\r\n$26,455.00\r\n\r\nNet 45 days\r\n\r\nFreight\r\n\r\n$661.38\r\n\r\nPlease confirm this order and quote our PO\r\n\r\nnumber on all invoices and delivery notes.\r\n\r\nTax 8%\r\n\r\n$2,116.42\r\n\r\nTotal\r\n\r\n$29,232.80\r\n\r\nApproved by\r\n\r\nYour next ride is just around the corner\r\n\r\nPurchase Order PO-202¢\r\n\r\n12\r\n\r\nPage 1/1\r\n",
+  "status": "unreviewed_OCR_output"
+}

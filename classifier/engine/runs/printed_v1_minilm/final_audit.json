@@ -1,0 +1,15 @@
+{
+  "protected_files_unchanged": 9,
+  "active_run": "printed_v1_minilm",
+  "active_hash_verified": true,
+  "cli_existing_validation_ocr_label": "customer_copy",
+  "cli_sample_id": "e4c7eb83722c",
+  "browser_existing_validation_ocr_label": "customer_copy",
+  "browser_sample_id": "e4c7eb83722c",
+  "browser_preview": "services/document_classifier/transformer_preview.png",
+  "browser_demo_only": "Fabricated labelled cash-shop demo classified customer_copy; not measured benchmark data",
+  "workflow_tests_passed": 21,
+  "historical_test_inputs_opened": 0,
+  "executed_training_source_sha256": "7ec1f263e0f582d12762e24411fdaea84c82d737ea1ccc6a99e483e53ec09430",
+  "pinned_rerun_source_sha256": "8010763139f03b2addaddb021f6b15b3b8a34424a654ab88356e61618d35c758"
+}

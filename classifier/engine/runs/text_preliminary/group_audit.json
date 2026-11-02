@@ -1,0 +1,7 @@
+{
+  "original_groups": 52,
+  "original_split_hash": "0b73f0153ae37a842289ff313d37fabba52f26d97b6fd38a4913957adeba695b",
+  "training_only_additions": 91,
+  "excluded_additions": [],
+  "caveat": "Merchant text matching and previous visual/perceptual audits cannot prove exhaustive supplier/template independence. All synthetic additions share one training-only generator group."
+}

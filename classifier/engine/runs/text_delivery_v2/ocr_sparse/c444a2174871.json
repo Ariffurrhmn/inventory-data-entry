@@ -1,0 +1,13 @@
+{
+  "sample_id": "c444a2174871",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "6b7d94e2887580a9b4c5268e1cb827e655f5a899cf497ead13d066f5302a5edd",
+  "full_text": "£oi's\r\n\r\nFE\r\n\r\nLAUNDRY Shoe\r\n\r\nCuvtaine\r\n\r\n780-00\r\n\r\n380.00\r\n\r\nTromes Service\r\n\r\n100 . 00\r\n\r\nfol\r\n\r\nLe =\"\r\n",
+  "status": "unreviewed_OCR_output"
+}

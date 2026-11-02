@@ -1,0 +1,284 @@
+{
+  "sample_id": "cdd7aaa9004d",
+  "actual_existing_label": "customer_copy",
+  "prediction": "purchase_order",
+  "explanation": {
+    "label": "purchase_order",
+    "decision_source": "trained_classifier",
+    "model_run": "printed_v1_minilm",
+    "scores_calibrated": false,
+    "method": "token_block_occlusion",
+    "available": true,
+    "component": "learned_fallback_only",
+    "target_score": 0.44721612334251404,
+    "alternative_class": "customer_copy",
+    "alternative_score": 0.22610525786876678,
+    "score_margin": 0.22111086547374725,
+    "ambiguous_heading": false,
+    "input_tokens": 31,
+    "blocks_evaluated": 16,
+    "supporting_blocks": [
+      {
+        "start": 110,
+        "end": 126,
+        "text": "Mirpur-10, Dhaka",
+        "removed_tokens": 2,
+        "target_score_drop": 0.1657327115535736,
+        "target_vs_alternative_margin_drop": 0.22285981476306915,
+        "label_without_block": "customer_copy",
+        "label_changed_without_block": true
+      },
+      {
+        "start": 5,
+        "end": 20,
+        "text": "Bengal Consumer",
+        "removed_tokens": 2,
+        "target_score_drop": 0.09832510352134705,
+        "target_vs_alternative_margin_drop": 0.16782502830028534,
+        "label_without_block": "purchase_order",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 29,
+        "end": 44,
+        "text": "Invoice Invoice",
+        "removed_tokens": 2,
+        "target_score_drop": 0.06310585141181946,
+        "target_vs_alternative_margin_drop": 0.06321151554584503,
+        "label_without_block": "purchase_order",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 75,
+        "end": 82,
+        "text": "Bill To",
+        "removed_tokens": 2,
+        "target_score_drop": 0.037037670612335205,
+        "target_vs_alternative_margin_drop": 0.05265626311302185,
+        "label_without_block": "purchase_order",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 21,
+        "end": 28,
+        "text": "Goods —",
+        "removed_tokens": 2,
+        "target_score_drop": 0.02100566029548645,
+        "target_vs_alternative_margin_drop": 0.04237431287765503,
+        "label_without_block": "purchase_order",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 58,
+        "end": 74,
+        "text": "Date: 13/08/2026",
+        "removed_tokens": 2,
+        "target_score_drop": 0.02036169171333313,
+        "target_vs_alternative_margin_drop": 0.03253145515918732,
+        "label_without_block": "purchase_order",
+        "label_changed_without_block": false
+      }
+    ],
+    "opposing_blocks": [
+      {
+        "start": 0,
+        "end": 4,
+        "text": "— cv",
+        "removed_tokens": 2,
+        "target_score_drop": -0.06113108992576599,
+        "target_vs_alternative_margin_drop": -0.10036356747150421,
+        "label_without_block": "purchase_order",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 45,
+        "end": 57,
+        "text": "No: INV-9335",
+        "removed_tokens": 2,
+        "target_score_drop": -0.04609861969947815,
+        "target_vs_alternative_margin_drop": -0.07652296125888824,
+        "label_without_block": "purchase_order",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 167,
+        "end": 176,
+        "text": "Signature",
+        "removed_tokens": 1,
+        "target_score_drop": -0.03309527039527893,
+        "target_vs_alternative_margin_drop": -0.04497654736042023,
+        "label_without_block": "purchase_order",
+        "label_changed_without_block": false
+      }
+    ],
+    "all_effects": [
+      {
+        "start": 0,
+        "end": 4,
+        "text": "— cv",
+        "removed_tokens": 2,
+        "target_score_drop": -0.06113108992576599,
+        "target_vs_alternative_margin_drop": -0.10036356747150421,
+        "label_without_block": "purchase_order",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 5,
+        "end": 20,
+        "text": "Bengal Consumer",
+        "removed_tokens": 2,
+        "target_score_drop": 0.09832510352134705,
+        "target_vs_alternative_margin_drop": 0.16782502830028534,
+        "label_without_block": "purchase_order",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 21,
+        "end": 28,
+        "text": "Goods —",
+        "removed_tokens": 2,
+        "target_score_drop": 0.02100566029548645,
+        "target_vs_alternative_margin_drop": 0.04237431287765503,
+        "label_without_block": "purchase_order",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 29,
+        "end": 44,
+        "text": "Invoice Invoice",
+        "removed_tokens": 2,
+        "target_score_drop": 0.06310585141181946,
+        "target_vs_alternative_margin_drop": 0.06321151554584503,
+        "label_without_block": "purchase_order",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 45,
+        "end": 57,
+        "text": "No: INV-9335",
+        "removed_tokens": 2,
+        "target_score_drop": -0.04609861969947815,
+        "target_vs_alternative_margin_drop": -0.07652296125888824,
+        "label_without_block": "purchase_order",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 58,
+        "end": 74,
+        "text": "Date: 13/08/2026",
+        "removed_tokens": 2,
+        "target_score_drop": 0.02036169171333313,
+        "target_vs_alternative_margin_drop": 0.03253145515918732,
+        "label_without_block": "purchase_order",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 75,
+        "end": 82,
+        "text": "Bill To",
+        "removed_tokens": 2,
+        "target_score_drop": 0.037037670612335205,
+        "target_vs_alternative_margin_drop": 0.05265626311302185,
+        "label_without_block": "purchase_order",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 83,
+        "end": 94,
+        "text": "/ Customer:",
+        "removed_tokens": 2,
+        "target_score_drop": -0.01580202579498291,
+        "target_vs_alternative_margin_drop": -0.04574121534824371,
+        "label_without_block": "purchase_order",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 95,
+        "end": 109,
+        "text": "Ruposhi Bazar,",
+        "removed_tokens": 2,
+        "target_score_drop": -0.001002877950668335,
+        "target_vs_alternative_margin_drop": -0.0013578683137893677,
+        "label_without_block": "purchase_order",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 110,
+        "end": 126,
+        "text": "Mirpur-10, Dhaka",
+        "removed_tokens": 2,
+        "target_score_drop": 0.1657327115535736,
+        "target_vs_alternative_margin_drop": 0.22285981476306915,
+        "label_without_block": "customer_copy",
+        "label_changed_without_block": true
+      },
+      {
+        "start": 127,
+        "end": 132,
+        "text": "in Jo",
+        "removed_tokens": 2,
+        "target_score_drop": 0.006151825189590454,
+        "target_vs_alternative_margin_drop": -0.0021159201860427856,
+        "label_without_block": "purchase_order",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 133,
+        "end": 140,
+        "text": "[em [ae",
+        "removed_tokens": 2,
+        "target_score_drop": -0.010010838508605957,
+        "target_vs_alternative_margin_drop": -0.01186169683933258,
+        "label_without_block": "purchase_order",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 141,
+        "end": 147,
+        "text": "EEE TT",
+        "removed_tokens": 2,
+        "target_score_drop": 0.003961682319641113,
+        "target_vs_alternative_margin_drop": 0.01095569133758545,
+        "label_without_block": "purchase_order",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 148,
+        "end": 153,
+        "text": "BT D.",
+        "removed_tokens": 2,
+        "target_score_drop": 0.012404710054397583,
+        "target_vs_alternative_margin_drop": 0.018927276134490967,
+        "label_without_block": "purchase_order",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 154,
+        "end": 166,
+        "text": "Se uthorised",
+        "removed_tokens": 2,
+        "target_score_drop": -0.005485445261001587,
+        "target_vs_alternative_margin_drop": -0.0033265799283981323,
+        "label_without_block": "purchase_order",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 167,
+        "end": 176,
+        "text": "Signature",
+        "removed_tokens": 1,
+        "target_score_drop": -0.03309527039527893,
+        "target_vs_alternative_margin_drop": -0.04497654736042023,
+        "label_without_block": "purchase_order",
+        "label_changed_without_block": false
+      }
+    ],
+    "interpretation": "A positive score drop means omitting this block lowered the fixed model score for the reported class. Scores are model preferences, not calibrated confidence.",
+    "limitations": [
+      "Omission measures sensitivity of this model on this input, not real-world causation or ground truth.",
+      "Blocks can interact; effects do not sum to the prediction.",
+      "Deletion can create unnatural inputs and alter which tokens fit the encoder window.",
+      "For conflicting headings, these omissions explain only the learned fallback; heading rules are held fixed."
+    ]
+  }
+}

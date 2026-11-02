@@ -1,0 +1,15 @@
+{
+  "sample_id": "company_e7913defa53347ff",
+  "image_path": "Dataset\\intake\\2026-10-19\\company_documents_v2\\images\\purchase_order\\e7913defa53347ff.jpg",
+  "image_sha256": "659c27a842c3827d588555463f53f872cac6400de1c42238b30de7884c04f4bb",
+  "full_text": "Iw\r\n\r\nIris Wheelworks LLC\r\nPrecision wheels, smooth rides for\r\nall.\r\n\r\n410 Oak Street\r\n\r\nSuite 143\r\n\r\n02110 Boston, MA\r\n\r\nUSA\r\n\r\nPhone: (591) 555-4212\r\ncontact@iriswheelworks.com\r\nwww.iriswheelworks.com\r\nEIN 80-1423\r\n\r\nBANK DE\r\nBank: Northern Trust Bank\r\nAccount: 5585791826\r\nRouting no.: 440248973\r\n\r\nPurchase Order\r\n\r\nNumber PO-2025-3961\r\nDate July 31, 2025\r\nDelivery date August 9, 2025\r\nAccount no. WIDEWOR0001\r\nRequested by Ben Miller\r\nCarrier Cargo Transport 5\r\n\r\n/ENDOR\r\nWide World Importers\r\n50 Edward Ave\r\n\r\n94519 Concord, CA\r\nUnited States\r\n\r\nItem Description\r\n\r\nKW-4091 Keyed Washer\r\n\r\nPAYMENT TERMS\r\nNet 30 days\r\n\r\nPlease confirm this order and quote our PO\r\nnumber on all invoices and delivery notes\r\n\r\nApproved by\r\n\r\nYour next ride is just around the corner\r\n\r\npurchase Order PO-2025-396\r\n\r\nDELIVER TO\r\n\r\nIris Wheelworks LLC\r\n410 Oak Street\r\n\r\nSuite 143\r\n\r\n02110 Boston, MA\r\n\r\nUSA\r\n\r\nPhone: (591) 555-4212\r\n\r\nQty Unit price\r\n\r\n3 $47.47\r\n\r\nSubtotal\r\nFreight\r\n\r\nTax 8%\r\n\r\nTotal\r\n\r\nAmount\r\n\r\n$142.41\r\n\r\n$142.41\r\n$3.56\r\n\r\n$11.39\r\n\r\n$157.36\r\n\r\nPage 1/1\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

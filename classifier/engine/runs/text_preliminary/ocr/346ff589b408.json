@@ -1,0 +1,16 @@
+{
+  "sample_id": "346ff589b408",
+  "image_path": "services\\document_classifier\\data\\images\\346ff589b408.jpg",
+  "image_sha256": "fdab21fe83fbcef12c9c543009d492ee0a1daa6d9723998852569609f7170e74",
+  "full_text": "DUPLICATE\nFRANCO ANCA\nLONDON\n\nSHAR EI30925\nID; *x4%2312 5409\n\nHANDSET: 1\n\nAMERICAN EXPRESS\n. AD00000025010801\n\nAID:\nAMERICAN EXPRESS\n\ndeer sera wk 1002\nPAN SEQ NO. 00\nCONTACTLESS\n\nSALE\n£13.80\n\nAMOUNT\nTOTAL £13.80\n\nNO CARDHOLDER\nVERIFICATION\nThank You\n\n11/03/16 22:23\nAUTH CODE:47\nTXN 0734\n\nCUSTOMER COPY\nPLEASE RETAIN RECEIPT\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\346ff589b408.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

@@ -1,0 +1,27 @@
+{
+  "sample_id": "company_7aaa46e675512314",
+  "image_sha256": "a1967e49792686732ced3cd01ba1975cae350ebd5ac24316f1363592830c11aa",
+  "views": {
+    "full": "™ ~N Suite 542\r\nurchase Sule 542\r\ny ]\r\nNUMBER DATE DELIVERY DATE ACCOUNT NO. REQUESTED BY CARRIER\r\nVO-PO-830 September 4, September 13, VARSITY0001 Linda Meisner Zy - Express\r\n2024 2024\r\nVENDOR DELIVER TO\r\nVarsity Sport Co. Vantage Outdoor Corp.\r\n81 Ana Mile 304 5th Avenue\r\n99202 Spokane, WA Suite 542\r\nUnited States 97205 Portland, OR\r\nUSA\r\nPhone: (442) 555-7651\r\nItem Description Qty Unit price Disc. Amount\r\nCH-0234 Chain 60 $15.74 - $944.40\r\nSuperior shifting performance.\r\nPAYMENT TERMS\r\nSubtotal $944.40\r\nNet 30 days\r\nFreight $23.61\r\nPlease confirm this order and quote our PO number on all invoices\r\nand delivery notes. Tax 8% $75.55\r\nTotal $1,043.56\r\nApproved by\r\nThanks for trusting our adventure gear.\r\nwww.vantageoutdoor.com - sales@vantageoutdoor.com - (442) 555-7651\r\nPurchase Order VO-PO-830 Pagel/1\r\n",
+    "top_-12": "Urchag\r\n\r\nOrde )\r\n\r\nii\r\n\r\nIga\r\n\r\nNupyg Eq\r\n\r\nQO\r\n\r\n0-P0.53,\r\n\r\nDare\r\n\r\n1\r\n\r\nSept\r\n\r\nMber 4\r\n\r\n20,\r\n\r\nELiveg, Day\r\n\r\nPtem\r\n\r\n202,\r\n\r\nber 13\r\n\r\nACCOyp,\r\n\r\nVEND, or\r\n\r\nARSITv gp,\r\n\r\nFEQuesre sy\r\n\r\nVars;\r\n\r\n81 Ap,\r\n\r\nY Spor Cc\r\n\r\nindy Meisp,,\r\n\r\nCARRE\r\n\r\na M,\r\n\r\nY - Express\r\n\r\nHite Ng ear, Wa\r\n\r\nEliveg\r\n\r\n304 51\r\n\r\ntdooy i,\r\n\r\nlite 54\r\n\r\n9705\r\n\r\nMane yp\r\n",
+    "top_0": "Purchase\r\n\r\na\r\n\r\nSil\r\n\r\nOrder\r\n\r\nNUMBER\r\n\r\nDATE\r\n\r\nDELIVERY DATE\r\n\r\nACCOUNT NO.\r\n\r\nREQUESTED BY\r\n\r\nCARRIER\r\n\r\nVO-PO-830\r\n\r\nVARSITY0001\r\n\r\nLinda Meisner\r\n\r\nSeptember 4,\r\n\r\nSeptember 13,\r\n\r\nZy - Express\r\n\r\n2024\r\n\r\n2024\r\n\r\nVENDOR\r\n\r\nDELIVER TO\r\n\r\nVarsity Sport Co.\r\n\r\nVantage Outdoor Corp.\r\n\r\n81 Ana Mile\r\n\r\n304 5th Avenue\r\n\r\n99202 Spokane, WA\r\n\r\nSuite 542\r\n\r\nI Initad Statee\r\n\r\na72n8% Partland OR\r\n",
+    "top_12": "hat\r\n\r\nys IF\r\n\r\nA\r\n\r\ngeo\r\n\r\nSurchase\r\n\r\nvo orde\r\n\r\nCARRIER\r\n\r\nQUESTE® BY\r\n\r\n2y -EX01%°\r\n\r\nisne\r\n\r\nreco\r\n\r\nun\r\n\r\nLinda Me\r\n\r\nELE\r\n\r\nR phate\r\n\r\nNA\r\n\r\nfT NO\r\n\r\nper 135\r\n\r\ngepte!\r\n\r\npATE\r\n\r\n2024\r\n\r\npie\r\n\r\nber A,\r\n\r\nNUMEER\r\n\r\nOF\r\n\r\n0-830\r\n\r\n2024\r\n\r\nELE\r\n\r\n¢ Corp\r\n\r\ndoo!\r\n\r\nvan\r\n\r\nenue\r\n\r\n304 BN [ad\r\n\r\nSuite\r\n\r\nand O\r\n\r\na770%\r\n\r\nENDO\r\n\r\nCO.\r\n\r\nvarsity\r\n\r\n1 ADS\r\n\r\nol\r\n\r\nKane:\r\n\r\n202 SP\r\n\r\nrates\r\n\r\ny nite h\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

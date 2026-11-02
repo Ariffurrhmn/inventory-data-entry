@@ -1,0 +1,15 @@
+{
+  "sample_id": "srd_1158-receipt",
+  "image_path": "Dataset\\intake\\2026-10-19\\expressexpense_srd\\images\\1158-receipt.jpg",
+  "image_sha256": "459c47ef17e9b8a9779ee6c16117e182c4c1af8518d73f115a6df63fc2d38547",
+  "full_text": "sim— up\r\nMITASU JAPANESE RESTAURANT SDN BHD\r\nB-01,CENTRAL PLAZA,\r\n34, JALAN SULTAN ISMAIL,\r\n50250 KUALA LUMPUR\r\n\r\nTEL 03-2110 2833\r\n(GST Reg. No : 001774428160)\r\nTax Invoice\r\n\r\nTable D2\r\n\r\n8111#:V001-201060 Odr No; 199535\r\npate : 29-06-2018 19:59:15\r\nCashier: AARON Pax(s): 11\r\nQty Description Total TAX\r\n11 (28.01) Adult Dp 708,50 SR\r\nSubtotal: 709.50\r\nServ. Charge (10%): 70.95\r\nGST Payable (0%): 0.00\r\nTotal: 780.45\r\nTOTAL : 780.45\r\nClosed: 001 29-06-2018 21:52:03\r\nServer: AARON\r\nVISA 780.45\r\n= FRRRRRRR 3042\r\n- LIM CHAI JA\r\n\r\n~r Inn\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

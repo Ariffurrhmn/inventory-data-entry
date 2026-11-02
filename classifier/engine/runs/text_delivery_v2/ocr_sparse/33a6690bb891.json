@@ -1,0 +1,13 @@
+{
+  "sample_id": "33a6690bb891",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "d9dad640dc89196079b4f8901cba53d197f240d9d0b08540489588feef9d04b1",
+  "full_text": "—\r\n\r\nKarnaphuli Traders\r\n\r\nHER OP)\r\n\r\ncusto\r\n\r\nInvoice\r\n\r\nInvoice No: INV-3937.\r\n\r\nDate: 21/07/2026.\r\n\r\nBill To / Customer: Bismillah Store, Tongi, Gazipur.\r\n\r\ntem [ov | mateo | amen |\r\n\r\npeg lc Tww T ww |\r\n\r\n7 5\r\n\r\nBiscuits carton\r\n\r\n|» | nom | masa |\r\n\r\nmE\r\n\r\n2 | mm | now |\r\n\r\n3\r\n\r\n-\r\n\r\na\r\n\r\nis\r\n\r\nA\r\n\r\nTk 100\r\n\r\nTk 1,000\r\n\r\nol\r\n\r\nS2\r\n\r\ni\r\n\r\n_—\r\n\r\n-\r\n\r\ni\r\n\r\n38,250\r\n\r\nfe\r\n\r\n36\r\n\r\n-\r\n\r\nct\r\n\r\nol\r\n\r\ni\r\n\r\n=\r\n\r\n85\r\n\r\ni\r\n\r\ni\r\n\r\nE\r\n\r\nat\r\n\r\ni\r\n\r\n-\r\n\r\noe\r\n\r\nGe\r\n\r\n2\r\n\r\nhs\r\n\r\nor\r\n",
+  "status": "unreviewed_OCR_output"
+}

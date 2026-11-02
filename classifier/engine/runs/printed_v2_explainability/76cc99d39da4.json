@@ -1,0 +1,284 @@
+{
+  "sample_id": "76cc99d39da4",
+  "actual_existing_label": "purchase_order",
+  "prediction": "receipt",
+  "explanation": {
+    "label": "receipt",
+    "decision_source": "trained_classifier",
+    "model_run": "printed_v1_minilm",
+    "scores_calibrated": false,
+    "method": "token_block_occlusion",
+    "available": true,
+    "component": "learned_fallback_only",
+    "target_score": 0.4772031009197235,
+    "alternative_class": "delivery_note",
+    "alternative_score": 0.3064388334751129,
+    "score_margin": 0.1707642674446106,
+    "ambiguous_heading": false,
+    "input_tokens": 281,
+    "blocks_evaluated": 16,
+    "supporting_blocks": [
+      {
+        "start": 560,
+        "end": 612,
+        "text": "a EA Go iS PRES 45, 0 - A 32 ey ICE i T Gl eu rh GS,",
+        "removed_tokens": 18,
+        "target_score_drop": 0.05438551306724548,
+        "target_vs_alternative_margin_drop": 0.0868302583694458,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 723,
+        "end": 773,
+        "text": "SEA os 6 Si oe Ni; a in od oy Ha i) i 2% i) % HS 5",
+        "removed_tokens": 18,
+        "target_score_drop": 0.05362880229949951,
+        "target_vs_alternative_margin_drop": 0.07733491063117981,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 451,
+        "end": 505,
+        "text": "eh HEN pes Ss Sea os Lp hid 5 Gl oi fs a = > iN SE he:",
+        "removed_tokens": 18,
+        "target_score_drop": 0.035803258419036865,
+        "target_vs_alternative_margin_drop": 0.03051707148551941,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 613,
+        "end": 670,
+        "text": "ji FH A DAES SEN SRY Se Cy Sg Re RING Eo PA 5 2 id FAL at",
+        "removed_tokens": 18,
+        "target_score_drop": 0.029493629932403564,
+        "target_vs_alternative_margin_drop": 0.03488251566886902,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 398,
+        "end": 450,
+        "text": "Fog re Ce iz oo sy hd 9 20 Tk 65 Tk 300 iH 2 Jo I n-",
+        "removed_tokens": 18,
+        "target_score_drop": 0.029122471809387207,
+        "target_vs_alternative_margin_drop": 0.040325820446014404,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 671,
+        "end": 722,
+        "text": "Ra A Fe DB: a LE vA ax RR ) i RS AES Li Sh AN RN $0",
+        "removed_tokens": 18,
+        "target_score_drop": 0.020417511463165283,
+        "target_vs_alternative_margin_drop": 0.025695085525512695,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      }
+    ],
+    "opposing_blocks": [
+      {
+        "start": 0,
+        "end": 77,
+        "text": "o ® 1 A From Al-Madina Traders \\ » Badda, Dhaka. E To: Dhaka Trade House. . o",
+        "removed_tokens": 18,
+        "target_score_drop": -0.1060151755809784,
+        "target_vs_alternative_margin_drop": -0.17299652099609375,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 78,
+        "end": 163,
+        "text": "Order No: ORD-9953. 3 § “ 3 Order Date: 04/07/2026. 5 4 Required By 09/07/2026. “ L ]",
+        "removed_tokens": 18,
+        "target_score_drop": -0.03216180205345154,
+        "target_vs_alternative_margin_drop": -0.033790767192840576,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 164,
+        "end": 237,
+        "text": "P. ease supply the Following goods: NE pray tn en a + ——————— ee fe 1 | %",
+        "removed_tokens": 18,
+        "target_score_drop": -0.020922183990478516,
+        "target_vs_alternative_margin_drop": -0.04429423809051514,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      }
+    ],
+    "all_effects": [
+      {
+        "start": 0,
+        "end": 77,
+        "text": "o ® 1 A From Al-Madina Traders \\ » Badda, Dhaka. E To: Dhaka Trade House. . o",
+        "removed_tokens": 18,
+        "target_score_drop": -0.1060151755809784,
+        "target_vs_alternative_margin_drop": -0.17299652099609375,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 78,
+        "end": 163,
+        "text": "Order No: ORD-9953. 3 § “ 3 Order Date: 04/07/2026. 5 4 Required By 09/07/2026. “ L ]",
+        "removed_tokens": 18,
+        "target_score_drop": -0.03216180205345154,
+        "target_vs_alternative_margin_drop": -0.033790767192840576,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 164,
+        "end": 237,
+        "text": "P. ease supply the Following goods: NE pray tn en a + ——————— ee fe 1 | %",
+        "removed_tokens": 18,
+        "target_score_drop": -0.020922183990478516,
+        "target_vs_alternative_margin_drop": -0.04429423809051514,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 238,
+        "end": 294,
+        "text": "= 22 A | Qty H dy Ta fa Sw [. B SEE = HAA SA Amount (Tk)",
+        "removed_tokens": 18,
+        "target_score_drop": -0.01678404211997986,
+        "target_vs_alternative_margin_drop": -0.03529095649719238,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 295,
+        "end": 348,
+        "text": "RAS £3 4 a SH he ke 3 2 i 7 FS Tk 44,400 REE ex is oi",
+        "removed_tokens": 18,
+        "target_score_drop": -0.010379552841186523,
+        "target_vs_alternative_margin_drop": -0.01487460732460022,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 349,
+        "end": 397,
+        "text": "hhh HS 2 Ee SCE SE 5 £0 & LJ 26 LE 7 o A 1: + 5S",
+        "removed_tokens": 18,
+        "target_score_drop": 0.018173009157180786,
+        "target_vs_alternative_margin_drop": 0.0368918776512146,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 398,
+        "end": 450,
+        "text": "Fog re Ce iz oo sy hd 9 20 Tk 65 Tk 300 iH 2 Jo I n-",
+        "removed_tokens": 18,
+        "target_score_drop": 0.029122471809387207,
+        "target_vs_alternative_margin_drop": 0.040325820446014404,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 451,
+        "end": 505,
+        "text": "eh HEN pes Ss Sea os Lp hid 5 Gl oi fs a = > iN SE he:",
+        "removed_tokens": 18,
+        "target_score_drop": 0.035803258419036865,
+        "target_vs_alternative_margin_drop": 0.03051707148551941,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 506,
+        "end": 559,
+        "text": "Nz rs ir AAD NR $3: eo Hy of he C3 fn A CH Sa > oy hy",
+        "removed_tokens": 18,
+        "target_score_drop": 0.005501240491867065,
+        "target_vs_alternative_margin_drop": 0.009326338768005371,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 560,
+        "end": 612,
+        "text": "a EA Go iS PRES 45, 0 - A 32 ey ICE i T Gl eu rh GS,",
+        "removed_tokens": 18,
+        "target_score_drop": 0.05438551306724548,
+        "target_vs_alternative_margin_drop": 0.0868302583694458,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 613,
+        "end": 670,
+        "text": "ji FH A DAES SEN SRY Se Cy Sg Re RING Eo PA 5 2 id FAL at",
+        "removed_tokens": 18,
+        "target_score_drop": 0.029493629932403564,
+        "target_vs_alternative_margin_drop": 0.03488251566886902,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 671,
+        "end": 722,
+        "text": "Ra A Fe DB: a LE vA ax RR ) i RS AES Li Sh AN RN $0",
+        "removed_tokens": 18,
+        "target_score_drop": 0.020417511463165283,
+        "target_vs_alternative_margin_drop": 0.025695085525512695,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 723,
+        "end": 773,
+        "text": "SEA os 6 Si oe Ni; a in od oy Ha i) i 2% i) % HS 5",
+        "removed_tokens": 18,
+        "target_score_drop": 0.05362880229949951,
+        "target_vs_alternative_margin_drop": 0.07733491063117981,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 774,
+        "end": 818,
+        "text": "is 5 2 Te 55) 5 Se 7 a 2 5 ay 3 0 ae BA i Fo",
+        "removed_tokens": 18,
+        "target_score_drop": 0.01990985870361328,
+        "target_vs_alternative_margin_drop": 0.017851412296295166,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 819,
+        "end": 871,
+        "text": "2 . By Gi a my a E283 & 44 A G8 SE ion pn EN REN Fat",
+        "removed_tokens": 18,
+        "target_score_drop": 0.01637423038482666,
+        "target_vs_alternative_margin_drop": 0.01728808879852295,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 872,
+        "end": 899,
+        "text": "4 ) IAL x 5 | x 3 'S Aig il",
+        "removed_tokens": 11,
+        "target_score_drop": -0.01741078495979309,
+        "target_vs_alternative_margin_drop": -0.03364560008049011,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      }
+    ],
+    "interpretation": "A positive score drop means omitting this block lowered the fixed model score for the reported class. Scores are model preferences, not calibrated confidence.",
+    "limitations": [
+      "Omission measures sensitivity of this model on this input, not real-world causation or ground truth.",
+      "Blocks can interact; effects do not sum to the prediction.",
+      "Deletion can create unnatural inputs and alter which tokens fit the encoder window.",
+      "For conflicting headings, these omissions explain only the learned fallback; heading rules are held fixed."
+    ]
+  }
+}

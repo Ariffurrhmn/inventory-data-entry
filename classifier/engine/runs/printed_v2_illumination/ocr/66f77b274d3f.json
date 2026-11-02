@@ -1,0 +1,27 @@
+{
+  "sample_id": "66f77b274d3f",
+  "image_sha256": "e357793fb2062d7e346a5140d443a2b74f7f58dcaf5bb3d0a097b756910fa71f",
+  "views": {
+    "full": ": '\r\nae wm me i a. 4 nm\r\n: 1 RB. COKLAT BAR 8,00\r\n$C |\r\n| ) [ b 0\r\n: 1 RB. CREPES TUNA 9,000\r\n3 : bJ\r\n+1 RB. SISIR PANDAN 7,500\r\n\"a |]\r\n§ . [ Fe 3 J\r\nSo ee mt se me ee ne mm\r\n- J\r\n« ITEM:3 SUBTOTAL 24,500\r\n8 8 » 5 50\r\ni PCS 3 DUE 24,500\r\n4 CASH 0\r\nBaie CHANGE 25,500\r\n",
+    "top_-12": ".\r\n\r\n.\r\n\r\nMN .\r\n\r\n~\r\n\r\na\r\n\r\nI\r\n\r\na\r\n\r\n~ —\r\n\r\n-\r\n\r\n- -\r\n\r\nTN -—-\r\n",
+    "top_0": "|\r\n\r\n.\r\n\r\nA A We Ue em WY Me ae me BE re Me we ww cr ee We\r\n\r\nLE\r\n\r\n- em\r\n\r\nEE i\r\n",
+    "top_12": "-—\r\n\r\npo\r\n\r\n—\r\n\r\n—\r\n\r\n--\r\n\r\nor\r\n\r\npl\r\n\r\n—\r\n\r\n- -\r\n\r\n-\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

@@ -1,0 +1,27 @@
+{
+  "sample_id": "company_84ef0dc252763886",
+  "image_sha256": "1a6c4b20e82c8cdc94b6cc67ea83ee66fbe706dca7c7b5f2a233137a4f19ec7c",
+  "views": {
+    "full": "Iris Sports Corp.\r\nPedal power. Ride the future.\r\nPACKING ibe\r\nS L 1 P Phane: (980) 555-7243\r\naccounts@irissports.com\r\nwww.irissports.com!\r\nEIN 79-244060%\r\nNUMBER DATE CUSTOMER ID CARRIER\r\n1S-BL-49312 21 Jan 2024 AW00017086 Xrq - Truck Ground\r\nBILL TO\r\nXavier Anderson\r\nKrénerweg 5615\r\n46236 Bottrop\r\nGermany\r\nPhone: 1 (11) 500 555-0112\r\nItem Description Unit Ordered Shipped\r\nBK-R89R-48 Road-250 Red, 48 EA 1 i\r\nPackages a,\r\nTotal weight 6.86 kg\r\nUnits on hand 1\r\nPacked by Received by\r\nGear up strong and ride safely today.\r\nwww.irissports.com - accounts@irissports.com - (989) 555-7243\r\nPacking Slip I1S-BL-49312 Pagel/1\r\n",
+    "top_-12": "US\r\n\r\nING\r\n\r\nSLIp\r\n\r\nS Spo,\r\n\r\n2\r\n\r\nde the 1g,\r\n\r\n© Harbor B\r\n\r\nNung eg\r\n\r\n9895 5;\r\n\r\nPS @irissp,\r\n\r\nSBLaggy,\r\n\r\nDare\r\n\r\nissporss co\r\n\r\n(62:0\r\n\r\n1 Jan 202, q\r\n\r\nBir To\r\n\r\nCUSTONe,,\r\n\r\nvier\r\n\r\nW001 744\r\n\r\nOne,\r\n\r\ndersoy,\r\n\r\nCARRIeg\r\n\r\n615\r\n\r\n46234\r\n\r\nop\r\n\r\nTruck Groy, \"\r\n\r\nGerman,\r\n\r\nhone; 5 (11) 594 555.\r\n",
+    "top_0": "s Sports Cor\r\n\r\nide the futyl\r\n\r\n79 Harbor Bh\r\n\r\nPACKING\r\n\r\nDeni\r\n\r\n[}\r\n\r\ney\r\n\r\nil\r\n\r\nSLIP\r\n\r\n[E\r\n\r\n980) 555-72:\r\n\r\nnts@irissports.con\r\n\r\nissports.coi\r\n\r\n[9:2440)\r\n\r\n5101\r\n\r\nNUMBER\r\n\r\nDATE\r\n\r\nCUSTOMER ID\r\n\r\nCARRIER\r\n\r\n1S-BL-49312\r\n\r\n21 Jan 2024\r\n\r\nAW00017086\r\n\r\nXrq - Truck Ground\r\n\r\nBILLTO\r\n\r\nXavier Anderson\r\n\r\nKrénerweg 5615\r\n\r\n46236 Bottrop\r\n\r\nGermany\r\n\r\nPhone: 1 (11) 500 555-0112\r\n",
+    "top_12": "5 5p0!\r\n\r\nthe ul\r\n\r\nde\r\n\r\nBeg\r\n\r\n176 Har\r\n\r\n2 pend\r\n\r\n{98°\r\n\r\njy 55517\r\n\r\n£4\r\n\r\nis @is=F\r\n\r\nI\r\n\r\nCARRIER\r\n\r\nground\r\n\r\nq-\r\n\r\nSTOMER\r\n\r\nwoos?\r\n\r\nopt\r\n\r\n3 300 20%\r\n\r\nNUMBER\r\n\r\nSs BLASS\r\n\r\nant T\r\n\r\nerson\r\n\r\nxavier\r\n\r\nRone\r\n\r\n45619\r\n\r\npow oP\r\n\r\n236\r\n\r\nGermany\r\n\r\n3 500\r\n\r\n555-014\r\n\r\nphone\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

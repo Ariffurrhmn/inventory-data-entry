@@ -1,0 +1,27 @@
+{
+  "sample_id": "company_efc28d859270b978",
+  "image_sha256": "4b04a983c69d7d1f977482e0482210f1eb5809222127eb4054e3f088c8e9944d",
+  "views": {
+    "full": "Juniper Bikes PLC\r\nBuilt for every ride\r\n144 High Street - BS1 4DJ Bristol - United Kingdom\r\nNumber JB-BL-51430\r\nDate 2024-06-20\r\nP k - S I - Customer ID AWO00011275\r\naC | n g | P Carrier Xrq - Truck Ground\r\nBILL TO\r\nJenny Rai\r\n1440 Willow Pass Dr.\r\n94014 Colma, CA\r\nUnited States\r\nItem Description Unit Ordered Shipped\r\nBK-M68S-46 Mountain-200 Silver, 46 EA 1 1\r\nSerious back-country riding. Perfect for all levels of competition. Uses\r\nthe same HL Frame as the Mountain-100.\r\nFE-6654 Fender Set - Mountain EA i 1\r\nClip-on fenders fit most mountain bikes.\r\nHL-U509-B Sport-100 Helmet, Blue EA 1 1\r\nUniversal fit, well-vented, lightweight , snap-on visor.\r\nPackages i,\r\nTotal weight 10.94 kg\r\nUnits on hand 3\r\nNOTES\r\nStore your bike indoors and avoid exposure to heavy rain.\r\nPacked by Received by\r\nPedal on, from all of us Bank: Crédit Régional Juniper Bikes PLC\r\nIBAN: GB14 8176 5608 1621 8634 9723 VAT GB883310779\r\nBIC/SWIFT: JUNIGB80\r\nPacking Slip JB-BL-51430 Pagel/1\r\n",
+    "top_-12": "Jun\r\n\r\nIper\r\n\r\nesp\r\n\r\noh 3, reg,\r\n\r\nI for\r\n\r\nTY ik\r\n\r\nBristo Uniteg i; lo)\r\n\r\nPac\r\n\r\nIng g;\r\n\r\nIp\r\n\r\nBig To\r\n\r\nNumb,\r\n\r\nDate\r\n\r\nJIB-g;\r\n\r\n~S1430\r\n\r\nJenny, Raj\r\n\r\nUstome, [5]\r\n\r\n2024.06 20\r\n\r\ndors low Pass Dr,\r\n\r\nArrigr\r\n\r\nUnitey St,\r\n\r\nrg.\r\n\r\nWoog1y,,\r\n\r\nTry Groyng\r\n",
+    "top_0": "a\r\n\r\nJuniper Bikes PLC\r\n\r\nBuilt for every ride\r\n\r\n144 High Street - BS1 4DJ Bristol - United Kingdom\r\n\r\nNumber\r\n\r\nJB-BL-51430\r\n\r\nDate\r\n\r\n2024-06-20\r\n\r\nCustomer ID\r\n\r\nAW00011275\r\n\r\nPacking Slip\r\n\r\nCarrier\r\n\r\nXrq - Truck Ground\r\n\r\nBILL TO\r\n\r\nJenny Rai\r\n\r\n1440 Willow Pass Dr.\r\n\r\n94014 Colma, CA\r\n\r\nUnited States\r\n",
+    "top_12": "es PL\r\n\r\nJu\r\n\r\njt for every\r\n\r\nunited win\r\n\r\nqdo™\r\n\r\n380s!\r\n\r\npL-51430\r\n\r\npic\r\n\r\neet\r\n\r\n022-0520\r\n\r\na HiD Si\r\n\r\number\r\n\r\npate\r\n\r\npwooe1iZ?\r\n\r\ncustome’ v\r\n\r\ned Tv\r\n\r\nwok Grow\r\n\r\ncasier\r\n\r\nsp\r\n\r\npack ng\r\n\r\n©\r\n\r\nant 10\r\n\r\nwy\r\n\r\npass Of\r\n\r\npA\r\n\r\n5 Colma:\r\n\r\n940\r\n\r\nUnite!\r\n\r\n4 Siaies\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

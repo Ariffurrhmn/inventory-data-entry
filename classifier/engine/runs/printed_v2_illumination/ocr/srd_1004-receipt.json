@@ -1,0 +1,27 @@
+{
+  "sample_id": "srd_1004-receipt",
+  "image_sha256": "c27759f40abcac99b1e5f93a0d128f4c84fa17b721bd9760df9c643fb7595c88",
+  "views": {
+    "full": ": gor 210 GARFIELD AVE. el\r\n| lp GATE, CA. 90280 J\r\n-L: (5532) g28-8999 As\r\nREG 05-18-20\" Jol 5s\r\n5-18-2019 11:19 AM B=\r\nManzgar1 MC #01 000147 §\r\nre ORDER+H o0oo0141 §\r\n“4 1 #1 CHKN PLATE $0.30 §\r\n1 + AVOCADO $1.95 § =\r\n1 MD. DRINK $2.29 Be\r\nsk IHERE: Ph ves\r\n| TAX $1.40\r\nroTAL $15.03 §F\r\n| CASH $20.00 §.\r\nCG $4.97 §\r\n",
+    "top_-12": "SO\r\n\r\nSOL\r\n\r\n0 ¢\r\n\r\nARF\r\n\r\nLo\r\n\r\nTey\r\n\r\nATE\r\n\r\n|\r\n\r\n3.\r\n\r\nREG\r\n\r\nS02g(\r\n\r\nI\r\n\r\n9 11:19 4,\r\n\r\nYc\r\n\r\n00144\r\n",
+    "top_0": "LR\r\n\r\n!. ol\r\n\r\nSOLDEN 3owL TERIYAKI\r\n\r\na\r\n\r\niW\r\n\r\n8610 GARFIELD AVE.\r\n\r\nSOUTH GATE, CA. 90280\r\n\r\nIr\r\n\r\nTEL:\r\n\r\nti32) 928-8999\r\n\r\nREG\r\n\r\n05-18-2019 11:19 AM\r\n\r\nManagar1\r\n\r\n000141\r\n\r\nMC #01\r\n",
+    "top_12": "wo.\r\n\r\nVo tay\r\n\r\nbs\r\n\r\nNR 1\r\n\r\nPa\r\n\r\nEL\r\n\r\na\r\n\r\nbad\r\n\r\n30.08\r\n\r\nN BOWL\r\n\r\nGARF\r\n\r\nfe.\r\n\r\n0280\r\n\r\nqQ,.%\r\n\r\ngoU\r\n\r\n(832\r\n\r\n48-209 \\ oa?\r\n\r\noo-\r\n\r\nme #04\r\n\r\nManas=\r\n\r\n=i\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

@@ -1,0 +1,12 @@
+{
+  "selected": "statistical",
+  "ocr_policy": "sparse",
+  "heading_rules": true,
+  "heading_rule_sha256": "f764ebc96771d23a2f0c689efaa5c105d04d19b8b24eb67ab60464ea9118ac4f",
+  "scope_version": "printed-only-v1",
+  "validation_macro_f1": 0.6848940533151059,
+  "validation_accuracy": 0.68,
+  "new_test_result": null,
+  "test_images_opened": 0,
+  "adaptive_validation": true
+}

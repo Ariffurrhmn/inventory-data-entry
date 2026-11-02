@@ -1,0 +1,27 @@
+{
+  "sample_id": "company_8f6b18fd227f9b49",
+  "image_sha256": "a49ab92efe8de0399a5bff3f077cbfa3db78d67d1a90aa0b7c2d785a9080af36",
+  "views": {
+    "full": "Juniper Bikes PLC\r\nBuilt for every ride\r\n144 High Street - BS1 4DJ Bristol - United Kingdom\r\nNumber P0O002594\r\nDate April 13, 2025\r\nDelivery date April 22, 2025\r\nAccount no. PROSE0001\r\nP h (0) d Requested by Fukiko Ogisu\r\nu rc as e r e r Carrier Overseas - Deluxe\r\nVENDOR\r\nProseware, Inc.\r\n50 Big Canyon Road\r\n97355 Lebanon, OR\r\nUnited States\r\nItem Description Qty Unit price Disc. Amount\r\nCA-5965 LL Crankarm 550 £21.38 - £11,759.00\r\nCA-6738 ML Crankarm 550 £26.53 - £14,591.50\r\nPAYMENT TERMS\r\nSubtotal £26,350.50\r\nNet 60 days\r\nFreight £658.68\r\nPlease confirm this order and quote our PO number on all invoices\r\nand delivery notes. Tax 8% £2,107.76\r\nTotal £29,116.94\r\nApproved by\r\nPedal on, from all of us Juniper Bikes PLC\r\nVAT GB883310779\r\nPurchase Order PO002594 Page 1/1\r\n",
+    "top_-12": "Jun\r\n\r\nIper\r\n\r\nI for\r\n\r\nesp\r\n\r\noh 3, reg,\r\n\r\nTY ik\r\n\r\nBristo Uniteg i; lo)\r\n\r\nNumpe,\r\n\r\nDare\r\n\r\nPO00254,\r\n\r\nPure ase Orde,\r\n\r\nVENDoR\r\n\r\nlivery dat\r\n\r\nprif 13, 2025\r\n\r\nAcCoyp, no.\r\n\r\nary\r\n\r\nprif 22, 2025\r\n\r\n50 B;,\r\n\r\n©, Ing\r\n\r\nSQuestay by\r\n\r\n9735,\r\n\r\nROSE 2\r\n\r\non Roag\r\n\r\nCarrier\r\n\r\nUkikg QOgis,\r\n\r\nUniteg S\r\n\r\non, Of\r\n\r\nerse, 8\r\n\r\nDejyy, e\r\n",
+    "top_0": "a\r\n\r\nJuniper Bikes PLC\r\n\r\nBuilt for every ride\r\n\r\n144 High Street - BS1 4DJ Bristol - United Kingdom\r\n\r\nNumber\r\n\r\nP0O002594\r\n\r\nDate\r\n\r\nApril 13, 2025\r\n\r\nDelivery date\r\n\r\nApril 22, 2025\r\n\r\nAccount no.\r\n\r\nPROSE0001\r\n\r\nRequested hy\r\n\r\nFukiko Ogisu\r\n\r\nPurchase Order\r\n\r\nCarrier\r\n\r\nOverseas - Deluxe\r\n\r\nVENDOR\r\n\r\nProseware, Inc.\r\n\r\n50 Big Canyon Road\r\n\r\n97355 Lebanon, OR\r\n\r\nUnited States\r\n",
+    "top_12": "es PL\r\n\r\nJu\r\n\r\njt for every\r\n\r\nunited win\r\n\r\nqdo™\r\n\r\n380s!\r\n\r\np0O0025%4\r\n\r\neet\r\n\r\nApri 13\r\n\r\na HiD Si\r\n\r\nnumpe’\r\n\r\npate\r\n\r\napril\r\n\r\n22,7\r\n\r\noeliver\r\n\r\ny dale\r\n\r\npROSE\r\n\r\nAccount no:\r\n\r\nputike OF\r\n\r\npeur\r\n\r\npeapested °\r\n\r\noverse?®\r\n\r\ncaiel\r\n\r\nrdeY\r\n\r\nchas ©\r\n\r\npur\r\n\r\nVENDO\r\n\r\nosewd\r\n\r\nPr\r\n\r\ncanyo?\r\n\r\n0 Big\r\n\r\n7355\r\n\r\nLe No\r\n\r\nurited 5\r\n\r\n(ates\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

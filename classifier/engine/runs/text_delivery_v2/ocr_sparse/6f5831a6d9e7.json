@@ -1,0 +1,13 @@
+{
+  "sample_id": "6f5831a6d9e7",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "d38d61df40cbb5c4ffe43a00becc543686850f7fd943e9ecc700b4ab091ba43f",
+  "full_text": "DELIVERY CHALLAN\r\n\r\nABC Company\r\n\r\nChallan no.: DC- 004\r\n\r\nDate: 2026-09-04\r\n\r\nPlace of supply: Maharashtra\r\n\r\nSELLER\r\n\r\nCONSIGNEE\r\n\r\nABC Company\r\n\r\nRajib\r\n\r\nShop 12, Market Road, City — 400001\r\n\r\nHouse- 56, Road- 3, Maharashtra\r\n\r\nVehicle no.: MH 01 AB 1234\r\n\r\nPurpose: Job work\r\n\r\nDescription\r\n\r\nHSN/SAC\r\n\r\nQty\r\n\r\nRate\r\n\r\nTaxable\r\n\r\nGST %\r\n\r\n1\r\n\r\nShoes\r\n\r\n9087\r\n\r\n15.00\r\n\r\n%1,800.00\r\n\r\n27,000.00\r\n\r\n15%\r\n\r\n2\r\n\r\nSocks\r\n\r\n3546\r\n\r\n20.00\r\n\r\n%200.00\r\n\r\n24,000.00\r\n\r\n3%\r\n\r\nTaxable value\r\n\r\n31,000.00\r\n\r\nCGST\r\n\r\n¥2,085.00\r\n\r\nSGST\r\n\r\n¥2,085.00\r\n\r\nGrand total\r\n\r\n¥35,170.00\r\n\r\nAmount in words: Thirty Five Thousand One Hundred Seventy Rupees Only\r\n\r\nNotes: Goods sent for the purpose stated above. Not a sale.\r\n",
+  "status": "unreviewed_OCR_output"
+}

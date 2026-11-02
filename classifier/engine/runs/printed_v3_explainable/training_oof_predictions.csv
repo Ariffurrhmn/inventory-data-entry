@@ -1,0 +1,153 @@
+sample_id,actual,predicted,fallback,previous,rule_kind,evidence,ocr_section,ambiguous,correct
+00814f24e77a,purchase_order,purchase_order,purchase_order,purchase_order,exact_heading,Purchase Order # 1,-1,False,True
+c5ffa86a7c34,purchase_order,purchase_order,delivery_note,purchase_order,exact_heading,Purchase Order # 2,-1,False,True
+a9665cd4aaa7,purchase_order,purchase_order,purchase_order,purchase_order,exact_heading,Purchase Order # 3,-1,False,True
+9a3b168b4497,purchase_order,purchase_order,delivery_note,purchase_order,exact_heading,Purchase Order # 4,-1,False,True
+4672e3a30c1f,purchase_order,purchase_order,purchase_order,purchase_order,exact_heading,Purchase Order # 5,-1,False,True
+9b53f368be38,purchase_order,purchase_order,purchase_order,purchase_order,exact_heading,Purchase Order # 6,-1,False,True
+4a87af5776ae,purchase_order,purchase_order,purchase_order,purchase_order,exact_heading,Purchase Order # 7,-1,False,True
+1b128b83e60a,purchase_order,purchase_order,purchase_order,purchase_order,exact_heading,PURCHASE ORDER,-1,False,True
+de306abe6ff8,purchase_order,purchase_order,purchase_order,purchase_order,exact_heading,PURCHASE ORDER,-1,False,True
+fb2283be766d,purchase_order,purchase_order,purchase_order,purchase_order,exact_heading,PURCHASE ORDER,-1,False,True
+b99246952e96,purchase_order,purchase_order,purchase_order,purchase_order,exact_heading,PURCHASE ORDER,-1,False,True
+66f77b274d3f,receipt,receipt,receipt,receipt,,,,False,True
+213305d225b2,receipt,receipt,receipt,receipt,,,,False,True
+3223c78f7136,receipt,receipt,receipt,receipt,,,,False,True
+a162d6ad43e0,receipt,receipt,receipt,receipt,,,,False,True
+4ee98001cc91,receipt,receipt,receipt,receipt,,,,False,True
+c33ada961240,receipt,receipt,receipt,receipt,,,,False,True
+d6b7679bc0a8,receipt,receipt,receipt,receipt,,,,False,True
+7bd460b8c269,receipt,receipt,receipt,receipt,,,,False,True
+fcac4e4559e8,receipt,receipt,receipt,receipt,,,,False,True
+99227d025be4,receipt,receipt,receipt,receipt,,,,False,True
+c671941cf57c,delivery_note,delivery_note,receipt,delivery_note,exact_heading,DELIVERY CHALLAN,-1,False,True
+6f5831a6d9e7,delivery_note,delivery_note,purchase_order,delivery_note,exact_heading,DELIVERY CHALLAN,-1,False,True
+40ba7ce1f258,delivery_note,delivery_note,receipt,delivery_note,exact_heading,DELIVERY CHALLAN,-1,False,True
+f06d5208a0a0,delivery_note,delivery_note,purchase_order,delivery_note,exact_heading,DELIVERY CHALLAN,-1,False,True
+982d3081da15,delivery_note,delivery_note,purchase_order,delivery_note,exact_heading,Challan no  DC-007,-1,False,True
+4a57d261cb80,delivery_note,delivery_note,purchase_order,delivery_note,exact_heading,Challan no  DC-008,-1,False,True
+192e9fb6775d,delivery_note,delivery_note,purchase_order,delivery_note,exact_heading,Challan no  DC-009,-1,False,True
+885c97fddc39,delivery_note,delivery_note,purchase_order,delivery_note,exact_heading,Challan no  DC-010,-1,False,True
+7875077c420c,delivery_note,delivery_note,purchase_order,delivery_note,exact_heading,Challan no  DC-01,-1,False,True
+dad342ae96cd,delivery_note,delivery_note,purchase_order,delivery_note,exact_heading,Challan no  DC-012,-1,False,True
+a7a5a3135540,delivery_note,delivery_note,purchase_order,delivery_note,exact_heading,Challan no  DC-013,-1,False,True
+f8a4d08ece59,delivery_note,delivery_note,purchase_order,delivery_note,exact_heading,DELIVERY CHALLAN,-1,False,True
+3177e03984b6,delivery_note,delivery_note,receipt,delivery_note,exact_heading,Challan no  DC-014,-1,False,True
+4c2e748c6bc8,delivery_note,delivery_note,purchase_order,delivery_note,exact_heading,DELIVERY CHALLAN,-1,False,True
+cbce3b093ee3,delivery_note,delivery_note,purchase_order,delivery_note,exact_heading,Challan no  DC-014,-1,False,True
+54a5c3334a7e,customer_copy,customer_copy,receipt,customer_copy,exact_heading,Customer Copy,-1,False,True
+3f351516323d,customer_copy,customer_copy,receipt,customer_copy,exact_heading,"Customer
+
+Copy",-1,False,True
+943348c8acbb,customer_copy,purchase_order,purchase_order,purchase_order,,,,False,False
+346ff589b408,customer_copy,customer_copy,customer_copy,customer_copy,exact_heading,CUSTOMER COPY,-1,False,True
+f39cc34d6d46,customer_copy,customer_copy,receipt,customer_copy,exact_heading,CUSTOMER COPY,-1,False,True
+723ee7e6a909,customer_copy,customer_copy,receipt,customer_copy,exact_heading,CUSTOMER Copy,-1,False,True
+334d0ebf3186,customer_copy,receipt,receipt,receipt,,,,False,False
+6472ff0a74e9,customer_copy,customer_copy,receipt,customer_copy,exact_heading,CUSTOMER COPY,-1,False,True
+6085360f9c73,purchase_order,purchase_order,purchase_order,purchase_order,exact_heading,PURCHASE ORDER,-1,False,True
+85bbff3bf001,purchase_order,purchase_order,purchase_order,purchase_order,exact_heading,Purchase Order # 7,-1,False,True
+11929597c29a,purchase_order,purchase_order,purchase_order,purchase_order,exact_heading,PURCHASE ORDER,-1,False,True
+52dd257aa6bf,purchase_order,purchase_order,purchase_order,purchase_order,exact_heading,PURCHASE ORDER,-1,False,True
+2a0efadf472e,purchase_order,purchase_order,purchase_order,purchase_order,exact_heading,PURCHASE ORDER,-1,False,True
+9b3146e1da82,delivery_note,delivery_note,receipt,delivery_note,exact_heading,Challan rio  DE-014,-1,False,True
+9c963148c0b7,delivery_note,delivery_note,receipt,delivery_note,exact_heading,DELIVERY CHALLAN,-1,False,True
+e44a9a33b016,delivery_note,delivery_note,receipt,receipt,exact_heading,DELIVERY CHALLAN a,1,False,True
+d6c285c6c5d0,delivery_note,delivery_note,receipt,receipt,exact_heading,DELIVERY CHALLAN,3,False,True
+e0835ab84434,delivery_note,delivery_note,purchase_order,delivery_note,exact_heading,DELIVERY CHALLAN,-1,False,True
+08811c30b08a,delivery_note,delivery_note,purchase_order,purchase_order,exact_heading,DELIVERY CHALLAN Place of supply Kolkata,1,False,True
+3019fd45ae14,delivery_note,delivery_note,purchase_order,delivery_note,exact_heading,DELIVERY CHALLAN,-1,False,True
+9d3c43f5edd8,delivery_note,delivery_note,purchase_order,delivery_note,exact_heading,CHALLAN,-1,False,True
+1ae7adb382c4,delivery_note,purchase_order,purchase_order,purchase_order,,,,False,False
+8e3663ff9c0a,delivery_note,delivery_note,purchase_order,purchase_order,exact_heading,DELIVERY CHALLAN a,1,False,True
+3613644641fd,delivery_note,receipt,receipt,receipt,,,,False,False
+c3288c82627e,delivery_note,delivery_note,receipt,receipt,exact_heading,DELIVERY CHALLAN,1,False,True
+ff15e557fb64,delivery_note,delivery_note,receipt,receipt,exact_heading,DELIVERY CHALLAN,1,False,True
+926169f08e35,delivery_note,delivery_note,receipt,receipt,exact_heading,DELIVERY CHALLAN,1,False,True
+9d2600fd4658,delivery_note,delivery_note,receipt,receipt,exact_heading,DELIVERY CHALLAN,1,False,True
+srd_1002-receipt,receipt,receipt,receipt,receipt,,,,False,True
+srd_1004-receipt,receipt,receipt,receipt,receipt,,,,False,True
+srd_1011-receipt,receipt,receipt,receipt,receipt,,,,False,True
+srd_1013-receipt,receipt,receipt,receipt,receipt,,,,False,True
+srd_1017-receipt,receipt,receipt,receipt,receipt,,,,False,True
+srd_1018-receipt,receipt,receipt,receipt,receipt,,,,False,True
+srd_1022-receipt,receipt,receipt,receipt,receipt,,,,False,True
+srd_1025-receipt,receipt,receipt,receipt,receipt,,,,False,True
+srd_1026-receipt,receipt,receipt,receipt,receipt,,,,False,True
+srd_1028-receipt,receipt,receipt,receipt,receipt,,,,False,True
+srd_1032-receipt,receipt,receipt,receipt,receipt,,,,False,True
+srd_1037-receipt,receipt,receipt,receipt,receipt,,,,False,True
+srd_1039-receipt,receipt,receipt,receipt,receipt,,,,False,True
+srd_1040-receipt,receipt,receipt,receipt,receipt,,,,False,True
+srd_1044-receipt,receipt,receipt,receipt,receipt,,,,False,True
+srd_1045-receipt,receipt,receipt,receipt,receipt,,,,False,True
+srd_1053-receipt,receipt,receipt,receipt,receipt,,,,False,True
+srd_1054-receipt,receipt,receipt,receipt,receipt,,,,False,True
+srd_1055-receipt,receipt,receipt,receipt,receipt,,,,False,True
+srd_1072-receipt,receipt,receipt,receipt,receipt,,,,False,True
+srd_1074-receipt,receipt,receipt,receipt,receipt,,,,False,True
+srd_1075-receipt,receipt,receipt,receipt,receipt,,,,False,True
+srd_1082-receipt,receipt,receipt,receipt,receipt,,,,False,True
+srd_1088-receipt,receipt,receipt,receipt,receipt,,,,False,True
+srd_1090-receipt,receipt,receipt,receipt,receipt,,,,False,True
+srd_1093-receipt,receipt,receipt,receipt,receipt,,,,False,True
+srd_1094-receipt,receipt,receipt,receipt,receipt,,,,False,True
+srd_1095-receipt,receipt,receipt,receipt,receipt,,,,False,True
+srd_1097-receipt,receipt,receipt,receipt,receipt,,,,False,True
+srd_1108-receipt,receipt,receipt,receipt,receipt,,,,False,True
+srd_1113-receipt,receipt,receipt,receipt,receipt,,,,False,True
+srd_1131-receipt,receipt,receipt,receipt,receipt,,,,False,True
+srd_1134-receipt,receipt,receipt,receipt,receipt,,,,False,True
+srd_1136-receipt,receipt,receipt,receipt,receipt,,,,False,True
+srd_1137-receipt,receipt,receipt,receipt,receipt,,,,False,True
+srd_1140-receipt,receipt,receipt,receipt,receipt,,,,False,True
+srd_1144-receipt,receipt,receipt,receipt,receipt,,,,False,True
+srd_1156-receipt,receipt,receipt,receipt,receipt,,,,False,True
+srd_1158-receipt,receipt,receipt,receipt,receipt,,,,False,True
+srd_1159-receipt,receipt,receipt,receipt,receipt,,,,False,True
+srd_1168-receipt,receipt,receipt,receipt,receipt,,,,False,True
+srd_1173-receipt,receipt,receipt,receipt,receipt,,,,False,True
+srd_1175-receipt,receipt,receipt,receipt,receipt,,,,False,True
+srd_1180-receipt,receipt,receipt,receipt,receipt,,,,False,True
+srd_1191-receipt,receipt,receipt,receipt,receipt,,,,False,True
+srd_1196-receipt,receipt,receipt,receipt,receipt,,,,False,True
+company_c6b8b0a1426310d7,purchase_order,purchase_order,receipt,purchase_order,exact_heading,PURCHASE ORDER,-1,False,True
+company_7aaa46e675512314,purchase_order,purchase_order,purchase_order,purchase_order,exact_heading,Purchase Order VO-PO-830 Pagel 1,1,False,True
+company_b6e5edce694d252e,purchase_order,purchase_order,receipt,purchase_order,exact_heading,PURCHASE ORDER,-1,False,True
+company_ff4e11fb5a9afed1,purchase_order,purchase_order,receipt,purchase_order,exact_heading,Purchase Order,-1,False,True
+company_8f6b18fd227f9b49,purchase_order,purchase_order,receipt,purchase_order,exact_heading,Purchase Order,-1,False,True
+company_5a30984a1e54d553,purchase_order,purchase_order,purchase_order,purchase_order,exact_heading,PURCHASE ORDER,-1,False,True
+company_2aa2364144a5a826,purchase_order,purchase_order,receipt,receipt,exact_heading,Purchase Order I1S-PO-3615 Pagel 1,1,False,True
+company_e7913defa53347ff,purchase_order,purchase_order,receipt,purchase_order,exact_heading,Purchase Order,-1,False,True
+company_1f29d3c53f9ab33e,purchase_order,purchase_order,purchase_order,purchase_order,exact_heading,Purchase Order,-1,False,True
+company_7c08e5c3559c0cfe,purchase_order,purchase_order,receipt,receipt,exact_heading,Purchase Order I1S-PO-799 Pagel 1,1,False,True
+company_c62532f47f7eb44b,purchase_order,purchase_order,purchase_order,purchase_order,exact_heading,Purchase Order,-1,False,True
+company_bf97759c9068167e,purchase_order,purchase_order,receipt,receipt,exact_heading,Purchase Order VO-PO-1586 Page1 1,1,False,True
+company_f91175bf24d8351d,purchase_order,purchase_order,receipt,purchase_order,exact_heading,PURCHASE ORDER,-1,False,True
+company_1dfd27cb2f72d330,purchase_order,purchase_order,receipt,receipt,exact_heading,Purchase Order VO-PO-501 Page1 1,1,False,True
+company_917a2d49d857f341,purchase_order,purchase_order,receipt,purchase_order,exact_heading,PURCHASE ORDER,-1,False,True
+company_0c3bc09c853b92d1,purchase_order,purchase_order,receipt,purchase_order,exact_heading,PURCHASE ORDER,-1,False,True
+company_07459a2f7206a271,purchase_order,purchase_order,receipt,purchase_order,exact_heading,Purchase Order,-1,False,True
+company_859bf518770c55ea,purchase_order,purchase_order,purchase_order,purchase_order,exact_heading,PURCHASE ORDER,-1,False,True
+company_27b29669d19d5216,purchase_order,purchase_order,receipt,purchase_order,exact_heading,PURCHASE ORDER,-1,False,True
+company_f3e42553f8df96e7,purchase_order,purchase_order,purchase_order,purchase_order,exact_heading,Purchase Order,-1,False,True
+company_6f60f737faf5faa8,delivery_note,delivery_note,receipt,delivery_note,exact_heading,PACKING SLIP,-1,False,True
+company_17758c3e1e524b8a,delivery_note,delivery_note,receipt,receipt,exact_heading,Packing Slip IS-BL-73550 Pagel 1,1,False,True
+company_87247a0bbbf0f29f,delivery_note,delivery_note,purchase_order,delivery_note,exact_heading,Packing Slip,-1,False,True
+company_f9dd8f3f77f1a87c,delivery_note,delivery_note,receipt,delivery_note,exact_heading,PACKING SLIP,-1,False,True
+company_efc28d859270b978,delivery_note,delivery_note,receipt,delivery_note,exact_heading,Packing Slip,-1,False,True
+company_395f51420a924526,delivery_note,delivery_note,receipt,delivery_note,exact_heading,Packing Slip,-1,False,True
+company_c0388c4866f0e684,delivery_note,delivery_note,purchase_order,delivery_note,exact_heading,Packing Slip,-1,False,True
+company_5ca07c2d98c45fad,delivery_note,delivery_note,receipt,receipt,exact_heading,Packing Slip VO-BL-65885 Page 1 1,1,False,True
+company_73f4814646431469,delivery_note,delivery_note,receipt,receipt,exact_heading,Packing Slip I1S-BL-58856 Pagel 1,1,False,True
+company_699124c384c73441,delivery_note,delivery_note,receipt,delivery_note,exact_heading,Packing Slip,-1,False,True
+company_edaed63712935a4e,delivery_note,delivery_note,receipt,receipt,exact_heading,Packing Slip DN25066413 Pagel 1,1,False,True
+company_84ef0dc252763886,delivery_note,delivery_note,receipt,receipt,exact_heading,Packing Slip I1S-BL-49312 Pagel 1,1,False,True
+company_d2d988c4d125cbd5,delivery_note,delivery_note,receipt,delivery_note,exact_heading,PACKING SLIP,-1,False,True
+company_21446a717a0e76fe,delivery_note,delivery_note,receipt,delivery_note,exact_heading,Packing Slip,-1,False,True
+company_29060e0e98d19833,delivery_note,delivery_note,receipt,delivery_note,exact_heading,PACKING SLIP,-1,False,True
+company_6521e7b53cc02376,delivery_note,delivery_note,receipt,delivery_note,exact_heading,Packing Slip,-1,False,True
+company_f6a4f6649ff672fe,delivery_note,delivery_note,receipt,delivery_note,exact_heading,PACKING SLIP,-1,False,True
+company_ef36a4bca77fde98,delivery_note,delivery_note,receipt,delivery_note,exact_heading,PACKING SLIP,-1,False,True
+company_9346d42ebda27ba4,delivery_note,delivery_note,receipt,delivery_note,exact_heading,Packing Slip,-1,False,True
+company_ba2bb7b40d08168e,delivery_note,delivery_note,receipt,delivery_note,exact_heading,Packing Slip,-1,False,True

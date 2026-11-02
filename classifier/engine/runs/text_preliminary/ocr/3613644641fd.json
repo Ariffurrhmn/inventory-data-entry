@@ -1,0 +1,16 @@
+{
+  "sample_id": "3613644641fd",
+  "image_path": "services\\document_classifier\\data\\images\\3613644641fd.jpg",
+  "image_sha256": "24f7327870e06ae8706d7028cff8d2e60f1fbde6146b5c98d36e3c558a25b8ca",
+  "full_text": "SELLER CONSIONEE\nABC Company Tanjine\nShop 12, Market Road, City — 400001 House- 38, Road- 7, Maharashtra\n\ni Pencil Box 9086 100.00 2180.00 18,000.00 5%\n\n2 Stapler asa 500.00 2150.00 75,000.00 8%\nTaxable value 93,000.00\nCGST €2,700.00\ns6sT €2,700.00\nGrand total ¥98,400.00\n\nAmount in words: Ninety Eight Thousand Four Hundred Rupees Only\n\nNotes: Goods sent for the purpose stated above, Not a sale.\n\n1\nI\nI\nI\n1\n1\ni\n1\n}\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\3613644641fd.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

@@ -1,0 +1,13 @@
+{
+  "sample_id": "4672e3a30c1f",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "4f1ad7fd5aa840d9f82305c41d7892bb4503142e0374ee27ebd52995caddbd1d",
+  "full_text": "Suraiya Rahman\r\n\r\nPURCHASE\r\n\r\nORDER\r\n\r\nPurchase Order # 5\r\n\r\nBill To:\r\n\r\nShip To:\r\n\r\nTithy Khan\r\n\r\nUsha Islam\r\n\r\nDate:\r\n\r\nOct 7, 2026\r\n\r\nRequired By:\r\n\r\nOct 12, 2026\r\n\r\nItem\r\n\r\nantity\r\n\r\nRate\r\n\r\nAmount\r\n\r\nEarphone\r\n\r\n10\r\n\r\n$4.50\r\n\r\n$45.00\r\n\r\nWater Bottle\r\n\r\n$3.50\r\n\r\n$17.50\r\n\r\nMug\r\n\r\n$2.80\r\n\r\n$5.60\r\n\r\nLED Lamp\r\n\r\n$8.50\r\n\r\n$42.50\r\n\r\nSubtotal:\r\n\r\n$110.60\r\n\r\nTax (0.25%):\r\n\r\n$0.28\r\n\r\nTotal:\r\n\r\n$110.88\r\n",
+  "status": "unreviewed_OCR_output"
+}

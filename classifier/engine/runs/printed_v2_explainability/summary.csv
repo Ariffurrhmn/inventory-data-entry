@@ -1,0 +1,7 @@
+sample_id,actual,predicted,method,strongest_support,score_drop
+71fa862a7998,customer_copy,receipt,token_block_occlusion,24.93 | Fries Salad,0.06915932893753052
+76cc99d39da4,purchase_order,receipt,token_block_occlusion,"a EA Go iS PRES 45, 0 - A 32 ey ICE i T Gl eu rh GS,",0.05438551306724548
+cdd7aaa9004d,customer_copy,purchase_order,token_block_occlusion,"Mirpur-10, Dhaka",0.1657327115535736
+33a6690bb891,customer_copy,receipt,token_block_occlusion,— Karnaphuli Traders HER OP) custo,0.07060796022415161
+e396ade11def,customer_copy,receipt,token_block_occlusion,In ice i,0.15558010339736938
+cc6e515ae67f,purchase_order,purchase_order,deterministic_heading_trace,PURCHASE ORDER,

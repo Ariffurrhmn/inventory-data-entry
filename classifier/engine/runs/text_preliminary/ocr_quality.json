@@ -1,0 +1,73 @@
+{
+  "policy": "NFKC, casefold, collapse whitespace; score only whole original records without any bracket marker or explicit uncertainty; exclude other records entirely, including signature-marked pages. Corpus micro CER/WER; not exact-layout scoring.",
+  "all": {
+    "documents": 72,
+    "excluded": 68,
+    "reference_characters": 34092,
+    "reference_words": 5489,
+    "cer": 0.3635456998709375,
+    "wer": 0.4563672800145746
+  },
+  "by_split": {
+    "train": {
+      "documents": 51,
+      "excluded": 35,
+      "reference_characters": 26604,
+      "reference_words": 4231,
+      "cer": 0.40835964516614043,
+      "wer": 0.4920822500590877
+    },
+    "val": {
+      "documents": 12,
+      "excluded": 14,
+      "reference_characters": 4140,
+      "reference_words": 718,
+      "cer": 0.09806763285024155,
+      "wer": 0.17409470752089137
+    },
+    "test": {
+      "documents": 9,
+      "excluded": 19,
+      "reference_characters": 3348,
+      "reference_words": 540,
+      "cer": 0.33572281959378736,
+      "wer": 0.5518518518518518
+    }
+  },
+  "by_class": {
+    "purchase_order": {
+      "documents": 28,
+      "excluded": 7,
+      "reference_characters": 10570,
+      "reference_words": 1763,
+      "cer": 0.2031220435193945,
+      "wer": 0.2824730572887124
+    },
+    "receipt": {
+      "documents": 4,
+      "excluded": 24,
+      "reference_characters": 335,
+      "reference_words": 55,
+      "cer": 0.48955223880597015,
+      "wer": 0.9272727272727272
+    },
+    "delivery_note": {
+      "documents": 30,
+      "excluded": 20,
+      "reference_characters": 19706,
+      "reference_words": 3124,
+      "cer": 0.46762407388612603,
+      "wer": 0.5492957746478874
+    },
+    "customer_copy": {
+      "documents": 10,
+      "excluded": 17,
+      "reference_characters": 3481,
+      "reference_words": 547,
+      "cer": 0.2493536340132146,
+      "wer": 0.43875685557586835
+    }
+  },
+  "preliminary": true,
+  "human_verified": false
+}

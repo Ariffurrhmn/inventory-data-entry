@@ -1,0 +1,89 @@
+{
+  "sample_id": "4840bfe10310",
+  "actual_existing_label": "purchase_order",
+  "result": {
+    "decision_trace": {
+      "selected_component": "printed_heading",
+      "heading_matches": [
+        "purchase_order"
+      ],
+      "ambiguous_heading": false,
+      "normalized_heading_evidence": "PURCHASE ORDER",
+      "learned_top_class": "purchase_order",
+      "learned_alternative_class": "delivery_note",
+      "learned_score_margin": 0.45541911507689753,
+      "scores_calibrated": false,
+      "rule": {
+        "kind": "exact_heading",
+        "evidence": "PURCHASE ORDER",
+        "matched_terms": [
+          "PURCHASE ORDER"
+        ],
+        "ocr_section_index": -1
+      },
+      "explanation_method": "Deterministic rule trace or exact n-gram contributions; transformers use fixed-model text omissions"
+    },
+    "label": "purchase_order",
+    "decision_source": "printed_heading",
+    "heading_evidence": "PURCHASE ORDER",
+    "ambiguous_heading": false,
+    "statistical_label": "purchase_order",
+    "scores_kind": "statistical_fallback_scores",
+    "scores": {
+      "customer_copy": 0.02309149642995374,
+      "delivery_note": 0.2516072097688005,
+      "purchase_order": 0.707026324845698,
+      "receipt": 0.018274968955554055
+    },
+    "scores_calibrated": false,
+    "ocr_empty": false,
+    "text_characters": 492,
+    "input_origin": "provided_text",
+    "ocr_text": "DEF Company PURCHASE ORDER\r\nShahadat Sarker\r\nUttara-10,\r\nDhaka,\r\nBangladesh\r\nVendor Address: PO# PO-11\r\nRZ Company OrderDate Sep 09, 2026\r\nMirpur-2,\r\nDhaka, Delivery Date Sep 14, 2026\r\nBangladesh\r\ntem Description 1 uy | Rate | Amount\r\nFace Wash 2 4 8\r\nShampoo 400ml 5 4.5 22.5\r\nBody Lotion 4 5 20\r\nCotton T-Shirt 5 7 35\r\nDenim Jeans 2 15 30\r\nToothpaste 1 1.8 1.8\r\nBiscuits 200g 5 0.8 4\r\nInstant Noodles 10 0.4 4\r\nSub Total 125.3\r\nPurchase Tax (10%) 12.53\r\nTOTAL $137.83\r\nNotes\r\nIt was great doing business with you.\r\n",
+    "heading_ocr_text": "DEF Company\r\n\r\nPURCHASE ORDER\r\n\r\nShahadat Sarker\r\n\r\nUttara-10,\r\n\r\nDhaka,\r\n\r\nBangladesh\r\n\r\nVendor Address:\r\n\r\nPO#\r\n\r\nPO-11\r\n\r\nXYZ Company\r\n\r\nOrder Date\r\n\r\nSep 09, 2026\r\n\r\nMirpur-2,\r\n\r\nDhaka,\r\n\r\nDelivery Date\r\n\r\nSep 14, 2026\r\n\r\nBangladesh\r\n\r\nItem Description\r\n\r\nQty\r\n\r\nRate\r\n\r\nunt\r\n\r\nFace Wash\r\n\r\n2\r\n\r\n4\r\n\r\nShampoo 400ml\r\n\r\n5\r\n\r\n4.5\r\n\r\n22.5\r\n\r\nBody Lotion\r\n\r\n20\r\n\r\nCotton T-Shirt\r\n\r\n7\r\n\r\n85\r\n\r\nDenim Jeans\r\n\r\n15\r\n\r\n30\r\n\r\n1.8\r\n\r\n1.8\r\n\r\nToothpaste\r\n\r\nBiscuits 200g\r\n\r\n5\r\n\r\n0.8\r\n\r\nInstant Noodles\r\n\r\n10\r\n\r\n0.4\r\n\r\nSub Total\r\n\r\n125.3\r\n\r\nPurchase Tax (10%)\r\n\r\n12.53\r\n\r\nTOTAL\r\n\r\n$137.83\r\n\r\nNotes\r\n\r\nIt was great doing business with you\r\n\fDEF Company PURCHASE ORDER\r\nShahadat Sarker\r\n\r\nUttara-10,\r\n\r\nDhaka,\r\n\r\nBangladesh\r\n\r\nVendor Address: PO# PO-11\r\n\r\nXYZ Company Order Date Sep 09, 2026\r\nMirpur-2,\r\n\r\nDhaka, Delivery Date Sep 14, 2026\r\nBangladesh\r\n\nBISCUITS 2UUg 5 u.8 4\r\nInstant Noodles 10 0.4 4\r\nSub Total 125.3\r\nPurchase Tax (10%) 12.53\r\nTOTAL $137.83\r\nNotes\r\nIt was great doing business with you.\r\n\fDEF Company PURCHASE ORDER\r\nShahadat Sarker\r\nUttara-10,\r\nDhaka,\r\nBangladesh\r\nVendor Address: PO# PO-11\r\nRZ Company OrderDate Sep 09, 2026\r\nMirpur-2,\r\nDhaka, Delivery Date Sep 14, 2026\r\nBangladesh\r\ntem Description 1 uy | Rate | Amount\r\nFace Wash 2 4 8\r\nShampoo 400ml 5 4.5 22.5\r\nBody Lotion 4 5 20\r\nCotton T-Shirt 5 7 35\r\nDenim Jeans 2 15 30\r\nToothpaste 1 1.8 1.8\r\nBiscuits 200g 5 0.8 4\r\nInstant Noodles 10 0.4 4\r\nSub Total 125.3\r\nPurchase Tax (10%) 12.53\r\nTOTAL $137.83\r\nNotes\r\nIt was great doing business with you.\r\n\fDer\r\n\r\nPan\r\n\r\nShahaga Sa\r\n\r\nrk\r\n\r\nara-1 ,\r\n\r\nDha ka,\r\n\r\nBanglages h\r\n\r\nPURCHASE ORDER\r\n\r\nVengo, Adg ress:\r\n\r\nXyz Com an\r\n\r\nMirpyr. 2\r\n\r\nDhaj,\r\n\r\nPoy\r\n\r\nBangi, desh\r\n\r\nder D ate\r\n\r\nPO.14\r\n\r\n€p 1\r\n\r\n4, 2026\r\n\fDEF Company\r\n\r\nPURCHASE ORDER\r\n\r\nShahadat Sarker\r\n\r\nUttara-10,\r\n\r\nDhaka,\r\n\r\nBangladesh\r\n\r\nVendor Address:\r\n\r\nPO#\r\n\r\nPO-11\r\n\r\nXYZ Company\r\n\r\nOrder Date\r\n\r\nMirpur-2,\r\n\r\nSep 09, 2026\r\n\r\nDhaka,\r\n\r\nDelivery Date\r\n\r\nSep 14, 2026\r\n\r\nBangladesh\r\n\fURCHA\r\n\r\ncompa™y\r\n\r\narke’\r\n\r\ncanada\r\n\r\n(Sic\r\n\r\nra-10r\r\n\r\nphaka .\r\n\r\npo-\\\r\n\r\npO#\r\n\r\nangiade™”\r\n\r\n09,20\r\n\r\norder P2*\r\n\r\nSep\r\n\r\n14,20\r\n\r\nyivery P2\"\r\n\r\nvendo\r\n\r\nt padress\r\n\r\nMirpur’\r\n\r\n24\r\n\r\nnaka\r\n\r\ngang\r\n\r\nages\r\n",
+    "validation_only": true,
+    "run": "printed_v3_explainable",
+    "model": "classifier",
+    "backend": "complement_nb",
+    "model_sha256": "bd1dba65eb03c3f2282697a502400794ce754543c5e16150625b73cea62ce0bd",
+    "scope_version": "printed-only-v1",
+    "ocr_policy": "illumination",
+    "heading_rules": true,
+    "edge_recovery": true,
+    "classes": [
+      "purchase_order",
+      "receipt",
+      "delivery_note",
+      "customer_copy"
+    ],
+    "experimental": true,
+    "heading_module": "heading_rules_v3",
+    "illumination_recovery": true
+  },
+  "explanation": {
+    "label": "purchase_order",
+    "decision_source": "printed_heading",
+    "model_run": "printed_v3_explainable",
+    "scores_calibrated": false,
+    "method": "deterministic_heading_trace",
+    "rule": {
+      "kind": "exact_heading",
+      "evidence": "PURCHASE ORDER",
+      "matched_terms": [
+        "PURCHASE ORDER"
+      ],
+      "ocr_section_index": -1
+    },
+    "normalized_matched_text": "PURCHASE ORDER",
+    "matched_classes": [
+      "purchase_order"
+    ],
+    "ambiguous": false,
+    "learned_fallback_label": "purchase_order",
+    "reason": "The unique matched printed-text rule selected the class. The learned model did not determine the final label.",
+    "limitations": [
+      "This explains the decision rule, not whether OCR correctly read the source image.",
+      "Heading evidence may come from separate page-region OCR."
+    ]
+  }
+}

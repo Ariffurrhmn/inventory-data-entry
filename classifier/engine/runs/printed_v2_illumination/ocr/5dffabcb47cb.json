@@ -1,0 +1,27 @@
+{
+  "sample_id": "5dffabcb47cb",
+  "image_sha256": "e51375a245dde8dacc6e43ae9f83726a17363e9cc5cb5210e1c7ed5ab345e2c0",
+  "views": {
+    "full": "i | WE Ee\r\n\r\n© 1x 36.000 + 36.000\r\n\r\n© Kimchi p\r\n\r\n© 1x 0.000 Rr0. 000\r\n\r\n| Fre ice grentea\r\n\r\n1 o*x=[0TAL © 36.000\r\n\r\n. CASH Re51. 000 :\r\nCHANGE % 15.000\r\n",
+    "top_-12": "#4\"\r\n\r\n“ire,\r\n\r\noe,\r\n\r\nty\r\n\r\n¥\r\n\r\nrs\r\n\r\n4\r\n\r\nLT\r\n\r\nyr \"\r\n\r\nsoil\r\n\r\nJi\r\n\r\nh,\r\n\r\n'y\r\n\r\nTv IR nn\r\n\r\n3 Py\r\n\r\n4, NK nnn\r\n",
+    "top_0": "LENDER\r\n\r\ni\r\n\r\nI\r\n\r\n'\r\n\r\nWw\r\n\r\nLN\r\n\r\n3)\r\n\r\n-\r\n\r\n\"oy\r\n\r\nni\r\n\r\nNow wll\r\n\r\nLL\r\n\r\n8)\r\n\r\n['\r\n\r\nJ\r\n\r\nn\r\n\r\nbi\r\n\r\nLJ\r\n\r\n4 RA |\r\n\r\niv IR NNN\r\n\r\nau [NNN\r\n",
+    "top_12": "vb\r\n\r\n“3\r\n\r\nva\r\n\r\n13\r\n\r\nA\r\n\r\nwv\r\n\r\nVivi he\r\n\r\nnt\r\n\r\nIx\r\n\r\nL }\r\n\r\nne\r\n\r\na\r\n\r\nan OAR\r\n\r\nan AO0\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

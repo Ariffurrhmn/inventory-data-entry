@@ -1,0 +1,13 @@
+{
+  "sample_id": "srd_1072-receipt",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "031afe6d14f84a18a3f3e41622ba0984246b530457848aab0694cc22b20b1a37",
+  "full_text": "OHANA HAWATIAN BBO\r\n\r\n4469 SLAUSON AVE\r\n\r\nMaywood, CA 90270\r\n\r\n(323) 771-9888\r\n\r\nstation: 3\r\n\r\nServer karla\r\n\r\n—\r\n\r\nIn\r\n\r\norder $: 65193\r\n\r\na ———\r\n\r\n——\r\n\r\n»> SETTLED\r\n\r\n8.45\r\n\r\n1 1/2 AND 1/2 COMBO\r\n\r\nFRIED SHRIMP\r\n\r\nSHORT RIB\r\n\r\n1 1/2 AND 1/2 COMBO\r\n\r\n7.99\r\n\r\nBBQ BEEF\r\n\r\nFRIED SHRIMP\r\n\r\n3.50\r\n\r\n2 FOUNTAIN MEDIUM\r\n\r\n0.00\r\n\r\nBar Subtotal:\r\n\r\n19.90\r\n\r\nFood Subtotal:\r\n\r\nTax 1:\r\n\r\n1.718\r\n\r\n————————\r\n\r\n$21.89\r\n\r\nAMOUNT DUE:\r\n\r\n22.00\r\n\r\nCash Tendered:\r\n\r\n-—\r\n\r\n-—\r\n\r\n———— i —————\r\n\r\nCHANGE :\r\n\r\n-0.31\r\n\r\n>> Ticket #: 94 <<\r\n\r\nCreated: 6/1/2013 7:43:46 PM\r\n\r\nSETTLED: 6/1/2013 7:44:18 PM\r\n\r\nTHANK YOU!\r\n\r\nBE —\r\n",
+  "status": "unreviewed_OCR_output"
+}

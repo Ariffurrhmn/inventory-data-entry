@@ -1,0 +1,16 @@
+{
+  "sample_id": "9b3146e1da82",
+  "image_path": "services\\document_classifier\\data\\images\\9b3146e1da82.jpg",
+  "image_sha256": "100e2d0efbab590299fb84a42e07a8a5a9b9384736eca8737d4c7d3d31fbbdc4",
+  "full_text": "House- 64, Road- 35, Kolkata\n\n2320.00\n#45000\n2500.00\n\nChallan rio. DE-014\n\nDate 2026-09-04\n\nPlace of supply Kolkata\n\nGST %\n%\n5%\n8%\n\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\9b3146e1da82.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

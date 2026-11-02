@@ -1,0 +1,16 @@
+{
+  "sample_id": "e18612fb393c",
+  "image_path": "services\\document_classifier\\data\\images\\e18612fb393c.jpg",
+  "image_sha256": "b6ad8499f3170c632136f3ae0a8f83bdfea426a744c7bf9cf3031c7a373885b3",
+  "full_text": "; Order 1111\nPacking Slip October 1, 2028\n\n1\n1\n1\n1\n1\n1\n1\nL]\n1\n1\n1\n1\n|]\n1\n1\n1\n\n1\ni\n1B\n\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\e18612fb393c.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

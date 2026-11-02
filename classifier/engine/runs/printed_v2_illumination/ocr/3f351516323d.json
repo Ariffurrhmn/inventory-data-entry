@@ -1,0 +1,27 @@
+{
+  "sample_id": "3f351516323d",
+  "image_sha256": "06ab841151127e8327a4aa6b7389ad9111bea69e0ba45a9570545f89a52b84a7",
+  "views": {
+    "full": "the\r\n~ Y\r\nC( { den\r\n[Péa I:\r\nCafe\r\nEast Hampton, NY\r\n(631) 328-1600\r\nFax (631) 329-1648\r\nww . go 1denpearcafe.com\r\nDate: Aug06’15 11:01AM\r\nCard Type: Visa\r\nAcct #: XXXXXXXXXXXX1T78\r\nExp Date:  XX/XX\r\nAuth Code: 08316C\r\nCheck: 9391\r\nCheck ID: CHINO\r\nServer: 5 Karina\r\nSubtotal: 22.70\r\nIP eerie\r\nTotal ee\r\nSignature — —— =\r\nI agree to pay above total i ik\r\naccording to my card issuer 1 En\r\nin agreement. pg rte\r\na Customer —_— esta\r\nSN m—— Copy A N—\r\nSe AT r a al\r\n",
+    "top_-12": "1\r\n\r\nle»\r\n\r\nO\r\n\r\nen\r\n\r\n2\r\n\r\nfast H\r\n\r\namp\r\n\r\nCate\r\n\r\n31) 3\r\n\r\nFax\r\n\r\n29-~\r\n\r\n18\r\n\r\nDate,\r\n\r\nWy go\r\n\r\nla,\r\n\r\n31) 32\r\n\r\n~164\r\n\r\nCar,\r\n\r\ne.¢\r\n\r\nAcct ”\r\n\r\nd Type,\r\n\r\nJugo ‘15 g\r\n\r\n1:014n\r\n\r\nX00 1779\r\n",
+    "top_0": "Can\r\n\r\nCate\r\n\r\nEast Hampton, NY\r\n\r\n(631) 329-1600\r\n\r\nFax (631) 329-1648\r\n\r\nwww. go Idenpearcafe.com\r\n\r\nDate:\r\n\r\nAug06°15 11:01AM\r\n\r\nCard Type:\r\n\r\nAcct #:\r\n\r\nXXDXKOOKNN 1778\r\n",
+    "top_12": "olden\r\n\r\n* ate\r\n\r\n5AB\r\n\r\nax 3\r\n\r\ngal\r\n\r\ncate Cn\r\n\r\ngotoer®\r\n\r\n5 \\\\\r\n\r\nug\r\n\r\npate:\r\n\r\nvishy\r\n\r\nNRA\r\n\r\ncard\r\n\r\nTyPe:\r\n\r\npect\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

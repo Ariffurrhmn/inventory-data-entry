@@ -1,0 +1,27 @@
+{
+  "sample_id": "308d04e806ba",
+  "image_sha256": "4a163bebe75ccd4ddca6dd4642f231c1f7ddef5a16b5240ab934ea7828ee55ad",
+  "views": {
+    "full": "Order\r\n; i\r\n1 OrderNo : ORD-1229\r\n| OrderDate : 05/10/2026 |\r\n| Required By : 10/10/2026 |\r\nI\r\nI\r\n' From : Al-Madina Traders\r\n' Badda, Dhaka :\r\n| To : Bengal Consumer Goods :\r\n: |\r\n1\r\n|\r\n| Please supply the following goods: i\r\n' | instant Noodies 8-pack | 2 | wm | 320 | |\r\ns | Onion 1kg 5 6 | 325 |\r\ni t i |\r\n| | Saltlkg 12 42 504 |\r\n| Milk Powder 500g Le | wm | 350 |\r\n; Cent PL\r\n| Tota | | Tka,209 |\r\nMR eh EEE Oh SS Bd EG sree\r\nI\r\n;\r\n| Authorized by\r\n1\r\nI\r\nI EL  ————————————————————\r\n| Al-Madina Traders\r\n|\r\n|\r\ni\r\ni\r\n",
+    "top_-12": "—\r\n\r\n—\r\n\r\n-\r\n\r\nReq\r\n\r\nDate ORp. 1\r\n\r\nUireq\r\n\r\nFrom,\r\n\r\n/. /202¢\r\n\r\nTo\r\n\r\nBady,\r\n\r\nDh,\r\n\r\nTrade, rs\r\n\r\nCong,\r\n\r\nPlease Suppyy, .\r\n\r\nIte\r\n\r\nfollow;\r\n\r\nng goo\r\n\r\nMery\r\n",
+    "top_0": "em\r\n\r\nOrder\r\n\r\nOrder No\r\n\r\nORD-1229\r\n\r\nOrder Date\r\n\r\n05/10/2026\r\n\r\nRequired By\r\n\r\n10/10/2026\r\n\r\nFrom\r\n\r\n: Al-Madina Traders\r\n\r\nBadda, Dhaka\r\n\r\nTo\r\n\r\n: Bengal Consumer Goods\r\n\r\nPlease supply the following goods:\r\n\r\nItem\r\n\r\nate\r\n\r\nsunterk)\r\n",
+    "top_12": "0 1222\r\n\r\nOrder RO\r\n\r\n. 05/10/2028\r\n\r\nOrder Date\r\n\r\n10/10/2026\r\n\r\nRequired\r\n\r\nMadind Trad\r\n\r\nA-\r\n\r\nphaka\r\n\r\nFrom\r\n\r\nBaddd,\r\n\r\n. pengd\\C\r\n\r\nTo\r\n\r\ngure)\r\n\r\naxe’ (\r\n\r\nplease supp\r\n\r\nwy the follow!\r\n\r\nTe!\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

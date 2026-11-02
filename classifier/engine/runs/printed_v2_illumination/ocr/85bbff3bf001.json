@@ -1,0 +1,27 @@
+{
+  "sample_id": "85bbff3bf001",
+  "image_sha256": "0770a0de13bbe17c1ee272053ae5c7532a4e3179132222537382396b4b8a0e7b",
+  "views": {
+    "full": "ie PURCHASE\r\n: Purchase Order # 7\r\nBill To: Ship To:\r\n\r\nBillal Khan Rajib Hossain Date: Oct 9, 2028\r\nRequired By: Oct 10, 2026\r\n\r\nCeramic Mug 20 $2.80 $56.00\r\nLED Desk Lamp 10 $8.50 $85.00\r\nBackpack 8 $12.00 $60.00\r\nT-Shirt 10 $2.00 $20.00\r\nDenim Jeans 10 $15.00 $150.00\r\nSubtotal: $371.00\r\n\r\nTax (0.25%): $0.93\r\n\r\nTotal: $371.93\r\n",
+    "top_-12": "Talyy Rapp, an\r\n\r\n8iy To:\r\n\r\nBlitg; Khan\r\n\r\nShip Ta:\r\n\r\nP RCHga\r\n\r\nSE\r\n\r\nRaji, Ho ona\r\n\r\nOR\r\n\r\nUrch, as\r\n\r\n\"der y 5\r\n\r\nDate,\r\n\r\nRequire, a\r\n\r\nOct 5, 200g\r\n\r\nOct 4\r\n\r\na, 200g\r\n\r\nQuan,\r\n\r\nFagg,\r\n\r\nAon\r\n",
+    "top_0": "Suralya Rahman\r\n\r\nPURCHASE\r\n\r\nORDER\r\n\r\nPurchase Order # 7\r\n\r\nBili To:\r\n\r\nShip Ta:\r\n\r\nBillal Khan\r\n\r\nRajib Hoasain\r\n\r\nDate.\r\n\r\nOct 8, 2028\r\n\r\nRequired By\r\n\r\nOct 10, 2026\r\n\r\nQuantity\r\n\r\nat\r\n\r\nAmount\r\n",
+    "top_12": "HASE\r\n\r\nURC\r\n\r\neR\r\n\r\nORD\r\n\r\n87\r\n\r\npure\r\n\r\n11288 Orde\r\n\r\nqurstys RON\r\n\r\n2026\r\n\r\noc 8.\r\n\r\npale\r\n\r\n207%\r\n\r\noct 10\r\n\r\nship 10°\r\n\r\nRequired y\r\n\r\naot\r\n\r\ngn To\r\n\r\npmount\r\n\r\nast Khe?\r\n\r\nPa\r\n\r\nquantity\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

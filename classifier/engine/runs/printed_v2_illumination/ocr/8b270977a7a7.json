@@ -1,0 +1,27 @@
+{
+  "sample_id": "8b270977a7a7",
+  "image_sha256": "a82cf8521b3309da0099905bd6e56866a5f87341269ba7c167e2429b02d42bb6",
+  "views": {
+    "full": "° :\r\n~ Karnaphuli Traders fl\r\nInvoice\r\nBill To / Customer: Invoice No: INV-6897. ]\r\nShapla Grocery, Savar, Dhaka. Date: 24/10/2026.\r\nItem Qty Rate (Tk) Amount (Tk) ;\r\nBath Soap 100g 1 Tk S5 Tk 55 |\r\nHand Wash 200ml 12 Tk 140 Tk 1,680\r\nSoybean Oil 5L 1 Tk 960 Tk 960\r\nTotal: Tk 2,875.\r\nAuthorised Signature\r\n",
+    "top_-12": "Karnaphy;\r\n\r\nTrade re\r\n\r\nty\r\n\r\nBill 1,\r\n\r\nhapia g,.\r\n\r\nUstome,.\r\n\r\ncery,\r\n\r\nSavar Dhg k\r\n\r\n+\r\n\r\nItem,\r\n\r\nV-689;\r\n\r\nRate (Tk)\r\n",
+    "top_0": "Karnaphuli Traders\r\n\r\nra\r\n\r\nInvoice\r\n\r\nInvoice No: INV-6897.\r\n\r\nBill To / Customer:\r\n\r\nShapla Grocery, Savar, Dhaka.\r\n\r\nDate: 24/10/2026.\r\n\r\nJ\r\n\r\nItem\r\n\r\nQty\r\n\r\nRate (Tk)\r\n\r\nAmount (Tk)\r\n",
+    "top_12": "@\r\n\r\nwarmapht!\r\n\r\n\\w-6897¢\r\n\r\n\\nvo!\r\n\r\ninvoice\r\n\r\n[10/2026\r\n\r\nte\r\n\r\ngnto/©\r\n\r\nr, Ona\r\n\r\nnap?\r\n\r\nprov\r\n\r\nnt cw\r\n\r\nate (19\r\n\r\njem\r\n"
+  },
+  "policy": {
+    "version": "illumination-v1",
+    "min_width": 1600,
+    "max_upscale": 3,
+    "background_blur": 24,
+    "foreground_threshold": 190,
+    "full_psm": 6,
+    "top_fraction": 0.4,
+    "top_rotations": [
+      -12,
+      0,
+      12
+    ],
+    "top_psm": 11,
+    "language": "eng"
+  },
+  "status": "unreviewed_OCR_output"
+}

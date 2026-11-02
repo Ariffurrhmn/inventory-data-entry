@@ -1,0 +1,274 @@
+{
+  "sample_id": "71fa862a7998",
+  "actual_existing_label": "customer_copy",
+  "prediction": "receipt",
+  "explanation": {
+    "label": "receipt",
+    "decision_source": "trained_classifier",
+    "model_run": "printed_v1_minilm",
+    "scores_calibrated": false,
+    "method": "token_block_occlusion",
+    "available": true,
+    "component": "learned_fallback_only",
+    "target_score": 0.7797994017601013,
+    "alternative_class": "delivery_note",
+    "alternative_score": 0.09011822193861008,
+    "score_margin": 0.6896811798214912,
+    "ambiguous_heading": false,
+    "input_tokens": 60,
+    "blocks_evaluated": 15,
+    "supporting_blocks": [
+      {
+        "start": 73,
+        "end": 92,
+        "text": "24.93 | Fries Salad",
+        "removed_tokens": 4,
+        "target_score_drop": 0.06915932893753052,
+        "target_vs_alternative_margin_drop": 0.09095323085784912,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 110,
+        "end": 130,
+        "text": "24.98 Mac and Cheese",
+        "removed_tokens": 4,
+        "target_score_drop": 0.03798329830169678,
+        "target_vs_alternative_margin_drop": 0.050976693630218506,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 244,
+        "end": 274,
+        "text": "Pitchers! MONDAY and TUESDAY'S",
+        "removed_tokens": 4,
+        "target_score_drop": 0.03388798236846924,
+        "target_vs_alternative_margin_drop": 0.05199795961380005,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 63,
+        "end": 72,
+        "text": "| 1 az Ri",
+        "removed_tokens": 4,
+        "target_score_drop": 0.022488832473754883,
+        "target_vs_alternative_margin_drop": 0.03229135274887085,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 184,
+        "end": 202,
+        "text": "5.54 74.69 ota pue",
+        "removed_tokens": 4,
+        "target_score_drop": 0.01725912094116211,
+        "target_vs_alternative_margin_drop": 0.029274940490722656,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 203,
+        "end": 216,
+        "text": "Ri, 1 J icate",
+        "removed_tokens": 4,
+        "target_score_drop": 0.01585257053375244,
+        "target_vs_alternative_margin_drop": 0.02355736494064331,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      }
+    ],
+    "opposing_blocks": [
+      {
+        "start": 46,
+        "end": 62,
+        "text": "22 5.0 9.53 Skin",
+        "removed_tokens": 4,
+        "target_score_drop": -0.03521013259887695,
+        "target_vs_alternative_margin_drop": -0.05816131830215454,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 24,
+        "end": 45,
+        "text": "82,0015 00174 PE {ght",
+        "removed_tokens": 4,
+        "target_score_drop": -0.03148692846298218,
+        "target_vs_alternative_margin_drop": -0.046464502811431885,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 0,
+        "end": 12,
+        "text": "Bias is Ji C",
+        "removed_tokens": 4,
+        "target_score_drop": -0.02008920907974243,
+        "target_vs_alternative_margin_drop": -0.046874821186065674,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      }
+    ],
+    "all_effects": [
+      {
+        "start": 0,
+        "end": 12,
+        "text": "Bias is Ji C",
+        "removed_tokens": 4,
+        "target_score_drop": -0.02008920907974243,
+        "target_vs_alternative_margin_drop": -0.046874821186065674,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 13,
+        "end": 23,
+        "text": "3 03m on |",
+        "removed_tokens": 4,
+        "target_score_drop": 0.010793924331665039,
+        "target_vs_alternative_margin_drop": 0.017906785011291504,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 24,
+        "end": 45,
+        "text": "82,0015 00174 PE {ght",
+        "removed_tokens": 4,
+        "target_score_drop": -0.03148692846298218,
+        "target_vs_alternative_margin_drop": -0.046464502811431885,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 46,
+        "end": 62,
+        "text": "22 5.0 9.53 Skin",
+        "removed_tokens": 4,
+        "target_score_drop": -0.03521013259887695,
+        "target_vs_alternative_margin_drop": -0.05816131830215454,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 63,
+        "end": 72,
+        "text": "| 1 az Ri",
+        "removed_tokens": 4,
+        "target_score_drop": 0.022488832473754883,
+        "target_vs_alternative_margin_drop": 0.03229135274887085,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 73,
+        "end": 92,
+        "text": "24.93 | Fries Salad",
+        "removed_tokens": 4,
+        "target_score_drop": 0.06915932893753052,
+        "target_vs_alternative_margin_drop": 0.09095323085784912,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 93,
+        "end": 109,
+        "text": "1 Boz SIr/NES Ch",
+        "removed_tokens": 4,
+        "target_score_drop": 0.009900808334350586,
+        "target_vs_alternative_margin_drop": 0.024573922157287598,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 110,
+        "end": 130,
+        "text": "24.98 Mac and Cheese",
+        "removed_tokens": 4,
+        "target_score_drop": 0.03798329830169678,
+        "target_vs_alternative_margin_drop": 0.050976693630218506,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 131,
+        "end": 152,
+        "text": "Loaded Mashed 1 Straw",
+        "removed_tokens": 4,
+        "target_score_drop": -0.0020436644554138184,
+        "target_vs_alternative_margin_drop": -0.0028082728385925293,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 153,
+        "end": 183,
+        "text": "Lemonade Sub-Total: £3.15 Tax:",
+        "removed_tokens": 4,
+        "target_score_drop": -0.0039778947830200195,
+        "target_vs_alternative_margin_drop": -0.012982308864593506,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 184,
+        "end": 202,
+        "text": "5.54 74.69 ota pue",
+        "removed_tokens": 4,
+        "target_score_drop": 0.01725912094116211,
+        "target_vs_alternative_margin_drop": 0.029274940490722656,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 203,
+        "end": 216,
+        "text": "Ri, 1 J icate",
+        "removed_tokens": 4,
+        "target_score_drop": 0.01585257053375244,
+        "target_vs_alternative_margin_drop": 0.02355736494064331,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 217,
+        "end": 229,
+        "text": "# on Draft t",
+        "removed_tokens": 4,
+        "target_score_drop": 0.012230753898620605,
+        "target_vs_alternative_margin_drop": 0.013371169567108154,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 230,
+        "end": 243,
+        "text": "$1 pints & 85",
+        "removed_tokens": 4,
+        "target_score_drop": 0.0068086981773376465,
+        "target_vs_alternative_margin_drop": 0.010623335838317871,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      },
+      {
+        "start": 244,
+        "end": 274,
+        "text": "Pitchers! MONDAY and TUESDAY'S",
+        "removed_tokens": 4,
+        "target_score_drop": 0.03388798236846924,
+        "target_vs_alternative_margin_drop": 0.05199795961380005,
+        "label_without_block": "receipt",
+        "label_changed_without_block": false
+      }
+    ],
+    "interpretation": "A positive score drop means omitting this block lowered the fixed model score for the reported class. Scores are model preferences, not calibrated confidence.",
+    "limitations": [
+      "Omission measures sensitivity of this model on this input, not real-world causation or ground truth.",
+      "Blocks can interact; effects do not sum to the prediction.",
+      "Deletion can create unnatural inputs and alter which tokens fit the encoder window.",
+      "For conflicting headings, these omissions explain only the learned fallback; heading rules are held fixed."
+    ]
+  }
+}
