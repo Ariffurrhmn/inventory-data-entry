@@ -1,7 +1,0 @@
-.venv/
-data/images/
-data/review_*.jpg
-runs/
-__pycache__/
-.cache/
-runtime.local.json
