@@ -1,0 +1,52 @@
+{
+  "submission_id": "1a0e801d6b1-16-5667",
+  "document_type": "customer_copy",
+  "document_type_confidence": 0.95,
+  "supplier_name": "ACME Beverage Distributors",
+  "supplier_address": "9 College Road, Sylhet",
+  "shop_name": "New Market Traders",
+  "document_date": "2026-02-06",
+  "document_number": "CC-98435",
+  "production_method": "printed",
+  "line_items": [
+    {
+      "raw_text": "Instant Noodles pack",
+      "quantity": 14,
+      "unit_price": 20,
+      "line_total": 280,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Lipton Tea 100g box",
+      "quantity": 9,
+      "unit_price": 95,
+      "line_total": 855,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Chocolate Bar 45g",
+      "quantity": 28,
+      "unit_price": 30,
+      "line_total": 840,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Pran Biscuit Pack",
+      "quantity": 18,
+      "unit_price": 18,
+      "line_total": 324,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Basmati Rice 5kg bag",
+      "quantity": 30,
+      "unit_price": 650,
+      "line_total": 19500,
+      "arithmetic_check": "passed"
+    }
+  ],
+  "grand_total": 21799,
+  "review_required": false,
+  "_synthetic": true,
+  "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+}

@@ -1,0 +1,38 @@
+{
+  "submission_id": "1a0e801d691-17-2251",
+  "document_type": "delivery_note",
+  "document_type_confidence": 0.98,
+  "supplier_name": "Karim Enterprise",
+  "supplier_address": "221 Motijheel C/A, Dhaka",
+  "shop_name": "Sultana Variety Store",
+  "document_date": "2026-04-16",
+  "document_number": "DN-46482",
+  "production_method": "handwritten",
+  "line_items": [
+    {
+      "raw_text": "Potato Chips 60g",
+      "quantity": 12,
+      "unit_price": 25,
+      "line_total": 300,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Pran Mango Juice 250ml",
+      "quantity": 18,
+      "unit_price": 12,
+      "line_total": 216,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Mineral Water 1L",
+      "quantity": 10,
+      "unit_price": 20,
+      "line_total": 200,
+      "arithmetic_check": "passed"
+    }
+  ],
+  "grand_total": 716,
+  "review_required": false,
+  "_synthetic": true,
+  "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+}

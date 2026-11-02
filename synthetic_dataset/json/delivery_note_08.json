@@ -1,0 +1,59 @@
+{
+  "submission_id": "1a0e801d686-7-7898",
+  "document_type": "delivery_note",
+  "document_type_confidence": 0.97,
+  "supplier_name": "Dhaka Wholesale Mart",
+  "supplier_address": "12 New Market, Khulna",
+  "shop_name": "Mamun Store",
+  "document_date": "2026-06-10",
+  "document_number": "DN-59207",
+  "production_method": "thermal",
+  "line_items": [
+    {
+      "raw_text": "Pran Biscuit Pack",
+      "quantity": 20,
+      "unit_price": 18,
+      "line_total": 360,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Bottled Soda Water 1L",
+      "quantity": 3,
+      "unit_price": 22,
+      "line_total": 66,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Sugar 1kg pack",
+      "quantity": 14,
+      "unit_price": 130,
+      "line_total": 1820,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Fresh Milk 1L carton",
+      "quantity": 23,
+      "unit_price": 85,
+      "line_total": 1955,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Potato Chips 60g",
+      "quantity": 19,
+      "unit_price": 25,
+      "line_total": 475,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Instant Noodles pack",
+      "quantity": 6,
+      "unit_price": 20,
+      "line_total": 120,
+      "arithmetic_check": "passed"
+    }
+  ],
+  "grand_total": 4796,
+  "review_required": false,
+  "_synthetic": true,
+  "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+}

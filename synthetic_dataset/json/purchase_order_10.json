@@ -1,0 +1,38 @@
+{
+  "submission_id": "1a0e801d642-9-3490",
+  "document_type": "purchase_order",
+  "document_type_confidence": 0.98,
+  "supplier_name": "Green Valley Foodstuffs Ltd.",
+  "supplier_address": "9 College Road, Sylhet",
+  "shop_name": "Al-Amin General Store",
+  "document_date": "2026-09-26",
+  "document_number": "PO-30103",
+  "production_method": "printed",
+  "line_items": [
+    {
+      "raw_text": "Lipton Tea 100g box",
+      "quantity": 4,
+      "unit_price": 95,
+      "line_total": 380,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Potato Chips 60g",
+      "quantity": 11,
+      "unit_price": 25,
+      "line_total": 275,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Salt 1kg pack",
+      "quantity": 22,
+      "unit_price": 40,
+      "line_total": 880,
+      "arithmetic_check": "passed"
+    }
+  ],
+  "grand_total": 1535,
+  "review_required": false,
+  "_synthetic": true,
+  "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+}

@@ -1,0 +1,31 @@
+{
+  "submission_id": "1a0e801d66e-16-8319",
+  "document_type": "receipt",
+  "document_type_confidence": 0.95,
+  "supplier_name": "Prime Foods Distributors",
+  "supplier_address": "221 Motijheel C/A, Dhaka",
+  "shop_name": "Green Leaf Grocers",
+  "document_date": "2026-07-20",
+  "document_number": "RCPT-16424",
+  "production_method": "thermal",
+  "line_items": [
+    {
+      "raw_text": "Instant Noodles pack",
+      "quantity": 19,
+      "unit_price": 20,
+      "line_total": 380,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Mineral Water 1L",
+      "quantity": 1,
+      "unit_price": 20,
+      "line_total": 80,
+      "arithmetic_check": "failed"
+    }
+  ],
+  "grand_total": 460,
+  "review_required": true,
+  "_synthetic": true,
+  "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+}

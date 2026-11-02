@@ -1,0 +1,31 @@
+{
+  "submission_id": "1a0e801d69a-24-4334",
+  "document_type": "delivery_note",
+  "document_type_confidence": 0.97,
+  "supplier_name": "Nabila Foods Ltd.",
+  "supplier_address": "78 Cantonment Road, Rajshahi",
+  "shop_name": "Bismillah Store",
+  "document_date": "2026-08-20",
+  "document_number": "DN-11360",
+  "production_method": "printed",
+  "line_items": [
+    {
+      "raw_text": "Detergent Powder 1kg",
+      "quantity": 10,
+      "unit_price": 110,
+      "line_total": 1100,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Basmati Rice 5kg bag",
+      "quantity": 17,
+      "unit_price": 650,
+      "line_total": 11050,
+      "arithmetic_check": "passed"
+    }
+  ],
+  "grand_total": 12150,
+  "review_required": false,
+  "_synthetic": true,
+  "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+}

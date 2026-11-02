@@ -1,0 +1,52 @@
+{
+  "submission_id": "1a0e801d650-20-6636",
+  "document_type": "purchase_order",
+  "document_type_confidence": 0.91,
+  "supplier_name": "Dhaka Wholesale Mart",
+  "supplier_address": "78 Cantonment Road, Rajshahi",
+  "shop_name": "Bismillah Store",
+  "document_date": "2026-04-08",
+  "document_number": "PO-61431",
+  "production_method": "printed",
+  "line_items": [
+    {
+      "raw_text": "Sugar 1kg pack",
+      "quantity": 24,
+      "unit_price": 130,
+      "line_total": 3120,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Fresh Milk 1L carton",
+      "quantity": 14,
+      "unit_price": 85,
+      "line_total": 1190,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Wheat Flour 2kg bag",
+      "quantity": 24,
+      "unit_price": 150,
+      "line_total": 3600,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Tibet Toothpaste 100g",
+      "quantity": 20,
+      "unit_price": 60,
+      "line_total": 1200,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Mineral Water 1L",
+      "quantity": 26,
+      "unit_price": 20,
+      "line_total": 520,
+      "arithmetic_check": "passed"
+    }
+  ],
+  "grand_total": 9630,
+  "review_required": false,
+  "_synthetic": true,
+  "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+}

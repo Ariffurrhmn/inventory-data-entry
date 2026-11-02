@@ -1,0 +1,31 @@
+{
+  "submission_id": "1a0e801d65b-29-8565",
+  "document_type": "purchase_order",
+  "document_type_confidence": 0.96,
+  "supplier_name": "Karim Enterprise",
+  "supplier_address": "9 College Road, Sylhet",
+  "shop_name": "Bismillah Store",
+  "document_date": "2026-08-20",
+  "document_number": "PO-34154",
+  "production_method": "handwritten",
+  "line_items": [
+    {
+      "raw_text": "Lux Soap 100g",
+      "quantity": 24,
+      "unit_price": 35,
+      "line_total": 840,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Instant Noodles pack",
+      "quantity": 1,
+      "unit_price": 20,
+      "line_total": 20,
+      "arithmetic_check": "passed"
+    }
+  ],
+  "grand_total": 860,
+  "review_required": false,
+  "_synthetic": true,
+  "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+}

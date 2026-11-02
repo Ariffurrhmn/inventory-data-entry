@@ -1,0 +1,52 @@
+{
+  "submission_id": "1a0e801d680-2-4276",
+  "document_type": "delivery_note",
+  "document_type_confidence": 0.92,
+  "supplier_name": "Farida Household Goods",
+  "supplier_address": "45 Station Bazar, Chattogram",
+  "shop_name": "New Market Traders",
+  "document_date": "2026-07-17",
+  "document_number": "DN-12348",
+  "production_method": "handwritten",
+  "line_items": [
+    {
+      "raw_text": "Bottled Soda Water 1L",
+      "quantity": 8,
+      "unit_price": 22,
+      "line_total": 176,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Pran Mango Juice 250ml",
+      "quantity": 10,
+      "unit_price": 12,
+      "line_total": 120,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Instant Noodles pack",
+      "quantity": 30,
+      "unit_price": 20,
+      "line_total": 600,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Fresh Milk 1L carton",
+      "quantity": 5,
+      "unit_price": 85,
+      "line_total": 425,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Mineral Water 1L",
+      "quantity": 10,
+      "unit_price": 20,
+      "line_total": 200,
+      "arithmetic_check": "passed"
+    }
+  ],
+  "grand_total": 1521,
+  "review_required": false,
+  "_synthetic": true,
+  "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+}

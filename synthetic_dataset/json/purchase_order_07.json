@@ -1,0 +1,31 @@
+{
+  "submission_id": "1a0e801d63d-6-8993",
+  "document_type": "purchase_order",
+  "document_type_confidence": 0.97,
+  "supplier_name": "Rahman & Sons Trading",
+  "supplier_address": "9 College Road, Sylhet",
+  "shop_name": "Mamun Store",
+  "document_date": "2026-03-22",
+  "document_number": "PO-89179",
+  "production_method": "printed",
+  "line_items": [
+    {
+      "raw_text": "Instant Noodles pack",
+      "quantity": 5,
+      "unit_price": 20,
+      "line_total": 100,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Wheat Flour 2kg bag",
+      "quantity": 26,
+      "unit_price": 150,
+      "line_total": 3900,
+      "arithmetic_check": "passed"
+    }
+  ],
+  "grand_total": 4000,
+  "review_required": false,
+  "_synthetic": true,
+  "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+}

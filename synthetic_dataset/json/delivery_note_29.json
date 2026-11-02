@@ -1,0 +1,31 @@
+{
+  "submission_id": "1a0e801d69e-28-7919",
+  "document_type": "delivery_note",
+  "document_type_confidence": 0.91,
+  "supplier_name": "Green Valley Foodstuffs Ltd.",
+  "supplier_address": "123 Market Road, Dhaka",
+  "shop_name": "City Grocery",
+  "document_date": "2026-03-12",
+  "document_number": "DN-59880",
+  "production_method": "printed",
+  "line_items": [
+    {
+      "raw_text": "Cooking Oil 1L bottle",
+      "quantity": 11,
+      "unit_price": 175,
+      "line_total": 2450,
+      "arithmetic_check": "failed"
+    },
+    {
+      "raw_text": "Tibet Toothpaste 100g",
+      "quantity": 8,
+      "unit_price": 60,
+      "line_total": 480,
+      "arithmetic_check": "passed"
+    }
+  ],
+  "grand_total": 2930,
+  "review_required": true,
+  "_synthetic": true,
+  "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+}

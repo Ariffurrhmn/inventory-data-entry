@@ -1,0 +1,31 @@
+{
+  "submission_id": "1a0e801d645-11-5711",
+  "document_type": "purchase_order",
+  "document_type_confidence": 0.91,
+  "supplier_name": "Chittagong Import Co.",
+  "supplier_address": "78 Cantonment Road, Rajshahi",
+  "shop_name": "Mamun Store",
+  "document_date": "2026-02-06",
+  "document_number": "PO-56465",
+  "production_method": "handwritten",
+  "line_items": [
+    {
+      "raw_text": "Bottled Soda Water 1L",
+      "quantity": 29,
+      "unit_price": 22,
+      "line_total": 638,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Pran Biscuit Pack",
+      "quantity": 19,
+      "unit_price": 18,
+      "line_total": 342,
+      "arithmetic_check": "passed"
+    }
+  ],
+  "grand_total": 980,
+  "review_required": false,
+  "_synthetic": true,
+  "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+}

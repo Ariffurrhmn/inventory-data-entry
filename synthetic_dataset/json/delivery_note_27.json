@@ -1,0 +1,45 @@
+{
+  "submission_id": "1a0e801d69c-26-8408",
+  "document_type": "delivery_note",
+  "document_type_confidence": 0.9,
+  "supplier_name": "Karim Enterprise",
+  "supplier_address": "9 College Road, Sylhet",
+  "shop_name": "Mamun Store",
+  "document_date": "2026-05-25",
+  "document_number": "DN-92316",
+  "production_method": "printed",
+  "line_items": [
+    {
+      "raw_text": "Cooking Oil 1L bottle",
+      "quantity": 28,
+      "unit_price": 175,
+      "line_total": 4900,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Salt 1kg pack",
+      "quantity": 9,
+      "unit_price": 40,
+      "line_total": 360,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Wheat Flour 2kg bag",
+      "quantity": 19,
+      "unit_price": 150,
+      "line_total": 2850,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Bottled Soda Water 1L",
+      "quantity": 8,
+      "unit_price": 22,
+      "line_total": 198,
+      "arithmetic_check": "failed"
+    }
+  ],
+  "grand_total": 8308,
+  "review_required": true,
+  "_synthetic": true,
+  "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+}

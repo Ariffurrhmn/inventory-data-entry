@@ -1,0 +1,59 @@
+{
+  "submission_id": "1a0e801d67d-0-8858",
+  "document_type": "delivery_note",
+  "document_type_confidence": 0.95,
+  "supplier_name": "Meghna Beverages",
+  "supplier_address": "45 Station Bazar, Chattogram",
+  "shop_name": "Green Leaf Grocers",
+  "document_date": "2026-08-02",
+  "document_number": "DN-46029",
+  "production_method": "handwritten",
+  "line_items": [
+    {
+      "raw_text": "Potato Chips 60g",
+      "quantity": 11,
+      "unit_price": 25,
+      "line_total": 275,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Wheat Flour 2kg bag",
+      "quantity": 29,
+      "unit_price": 150,
+      "line_total": 4500,
+      "arithmetic_check": "failed"
+    },
+    {
+      "raw_text": "Chocolate Bar 45g",
+      "quantity": 22,
+      "unit_price": 30,
+      "line_total": 660,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Lux Soap 100g",
+      "quantity": 15,
+      "unit_price": 35,
+      "line_total": 525,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Sprite 500ml can",
+      "quantity": 25,
+      "unit_price": 15,
+      "line_total": 375,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Pran Biscuit Pack",
+      "quantity": 4,
+      "unit_price": 18,
+      "line_total": 72,
+      "arithmetic_check": "passed"
+    }
+  ],
+  "grand_total": 6407,
+  "review_required": true,
+  "_synthetic": true,
+  "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+}

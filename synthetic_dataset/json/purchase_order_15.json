@@ -1,0 +1,52 @@
+{
+  "submission_id": "1a0e801d648-14-4569",
+  "document_type": "purchase_order",
+  "document_type_confidence": 0.97,
+  "supplier_name": "Meghna Beverages",
+  "supplier_address": "9 College Road, Sylhet",
+  "shop_name": "Mamun Store",
+  "document_date": "2026-04-26",
+  "document_number": "PO-73350",
+  "production_method": "printed",
+  "line_items": [
+    {
+      "raw_text": "Mineral Water 1L",
+      "quantity": 24,
+      "unit_price": 20,
+      "line_total": 480,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Lipton Tea 100g box",
+      "quantity": 26,
+      "unit_price": 95,
+      "line_total": 2565,
+      "arithmetic_check": "failed"
+    },
+    {
+      "raw_text": "Chocolate Bar 45g",
+      "quantity": 29,
+      "unit_price": 30,
+      "line_total": 870,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Fresh Milk 1L carton",
+      "quantity": 2,
+      "unit_price": 85,
+      "line_total": 170,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Cooking Oil 1L bottle",
+      "quantity": 13,
+      "unit_price": 175,
+      "line_total": 2275,
+      "arithmetic_check": "passed"
+    }
+  ],
+  "grand_total": 6360,
+  "review_required": true,
+  "_synthetic": true,
+  "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+}

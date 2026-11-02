@@ -1,0 +1,52 @@
+{
+  "submission_id": "1a0e801d647-13-8092",
+  "document_type": "purchase_order",
+  "document_type_confidence": 0.94,
+  "supplier_name": "Sonar Bangla Grocers Supply",
+  "supplier_address": "9 College Road, Sylhet",
+  "shop_name": "Mamun Store",
+  "document_date": "2026-04-04",
+  "document_number": "PO-52745",
+  "production_method": "printed",
+  "line_items": [
+    {
+      "raw_text": "Basmati Rice 5kg bag",
+      "quantity": 24,
+      "unit_price": 650,
+      "line_total": 15600,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Lipton Tea 100g box",
+      "quantity": 26,
+      "unit_price": 95,
+      "line_total": 2470,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Instant Noodles pack",
+      "quantity": 30,
+      "unit_price": 20,
+      "line_total": 600,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Wheat Flour 2kg bag",
+      "quantity": 11,
+      "unit_price": 150,
+      "line_total": 1650,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Chocolate Bar 45g",
+      "quantity": 26,
+      "unit_price": 30,
+      "line_total": 780,
+      "arithmetic_check": "passed"
+    }
+  ],
+  "grand_total": 21100,
+  "review_required": false,
+  "_synthetic": true,
+  "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+}

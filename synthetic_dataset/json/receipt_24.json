@@ -1,0 +1,45 @@
+{
+  "submission_id": "1a0e801d676-23-9972",
+  "document_type": "receipt",
+  "document_type_confidence": 0.94,
+  "supplier_name": "Meghna Beverages",
+  "supplier_address": "45 Station Bazar, Chattogram",
+  "shop_name": "Al-Amin General Store",
+  "document_date": "2026-01-25",
+  "document_number": "RCPT-94158",
+  "production_method": "thermal",
+  "line_items": [
+    {
+      "raw_text": "Fresh Eggs (dozen)",
+      "quantity": 3,
+      "unit_price": 140,
+      "line_total": 420,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Pran Mango Juice 250ml",
+      "quantity": 11,
+      "unit_price": 12,
+      "line_total": 132,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Basmati Rice 5kg bag",
+      "quantity": 8,
+      "unit_price": 650,
+      "line_total": 5200,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Bottled Soda Water 1L",
+      "quantity": 22,
+      "unit_price": 22,
+      "line_total": 484,
+      "arithmetic_check": "passed"
+    }
+  ],
+  "grand_total": 6236,
+  "review_required": false,
+  "_synthetic": true,
+  "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+}

@@ -1,0 +1,45 @@
+{
+  "submission_id": "1a0e801d663-4-4839",
+  "document_type": "receipt",
+  "document_type_confidence": 0.97,
+  "supplier_name": "Dhaka Wholesale Mart",
+  "supplier_address": "45 Station Bazar, Chattogram",
+  "shop_name": "New Market Traders",
+  "document_date": "2026-03-17",
+  "document_number": "RCPT-64402",
+  "production_method": "printed",
+  "line_items": [
+    {
+      "raw_text": "Fresh Eggs (dozen)",
+      "quantity": 18,
+      "unit_price": 140,
+      "line_total": 2520,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Detergent Powder 1kg",
+      "quantity": 9,
+      "unit_price": 110,
+      "line_total": 990,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Salt 1kg pack",
+      "quantity": 25,
+      "unit_price": 40,
+      "line_total": 1000,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Wheat Flour 2kg bag",
+      "quantity": 23,
+      "unit_price": 150,
+      "line_total": 3450,
+      "arithmetic_check": "passed"
+    }
+  ],
+  "grand_total": 7960,
+  "review_required": false,
+  "_synthetic": true,
+  "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+}

@@ -1,0 +1,45 @@
+{
+  "submission_id": "1a0e801d652-21-5310",
+  "document_type": "purchase_order",
+  "document_type_confidence": 0.91,
+  "supplier_name": "Prime Foods Distributors",
+  "supplier_address": "123 Market Road, Dhaka",
+  "shop_name": "Corner Store Mart",
+  "document_date": "2026-09-11",
+  "document_number": "PO-18546",
+  "production_method": "printed",
+  "line_items": [
+    {
+      "raw_text": "Bottled Soda Water 1L",
+      "quantity": 20,
+      "unit_price": 22,
+      "line_total": 440,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Detergent Powder 1kg",
+      "quantity": 25,
+      "unit_price": 110,
+      "line_total": 2750,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Salt 1kg pack",
+      "quantity": 28,
+      "unit_price": 40,
+      "line_total": 1120,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Pran Biscuit Pack",
+      "quantity": 6,
+      "unit_price": 18,
+      "line_total": 108,
+      "arithmetic_check": "passed"
+    }
+  ],
+  "grand_total": 4418,
+  "review_required": false,
+  "_synthetic": true,
+  "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+}

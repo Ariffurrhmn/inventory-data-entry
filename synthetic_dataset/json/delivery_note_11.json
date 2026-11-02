@@ -1,0 +1,38 @@
+{
+  "submission_id": "1a0e801d689-10-5956",
+  "document_type": "delivery_note",
+  "document_type_confidence": 0.94,
+  "supplier_name": "ACME Beverage Distributors",
+  "supplier_address": "9 College Road, Sylhet",
+  "shop_name": "City Grocery",
+  "document_date": "2026-02-02",
+  "document_number": "DN-56121",
+  "production_method": "handwritten",
+  "line_items": [
+    {
+      "raw_text": "Lux Soap 100g",
+      "quantity": 22,
+      "unit_price": 35,
+      "line_total": 840,
+      "arithmetic_check": "failed"
+    },
+    {
+      "raw_text": "Chocolate Bar 45g",
+      "quantity": 30,
+      "unit_price": 30,
+      "line_total": 900,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Fresh Eggs (dozen)",
+      "quantity": 2,
+      "unit_price": 140,
+      "line_total": 280,
+      "arithmetic_check": "passed"
+    }
+  ],
+  "grand_total": 2020,
+  "review_required": true,
+  "_synthetic": true,
+  "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+}

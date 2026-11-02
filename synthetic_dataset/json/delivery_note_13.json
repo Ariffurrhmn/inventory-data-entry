@@ -1,0 +1,31 @@
+{
+  "submission_id": "1a0e801d68b-12-6899",
+  "document_type": "delivery_note",
+  "document_type_confidence": 0.96,
+  "supplier_name": "Sonar Bangla Grocers Supply",
+  "supplier_address": "123 Market Road, Dhaka",
+  "shop_name": "Sultana Variety Store",
+  "document_date": "2026-03-12",
+  "document_number": "DN-23057",
+  "production_method": "printed",
+  "line_items": [
+    {
+      "raw_text": "Wheat Flour 2kg bag",
+      "quantity": 24,
+      "unit_price": 150,
+      "line_total": 3600,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Sugar 1kg pack",
+      "quantity": 29,
+      "unit_price": 130,
+      "line_total": 3770,
+      "arithmetic_check": "passed"
+    }
+  ],
+  "grand_total": 7370,
+  "review_required": false,
+  "_synthetic": true,
+  "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+}

@@ -1,0 +1,52 @@
+{
+  "submission_id": "1a0e801d638-3-9183",
+  "document_type": "purchase_order",
+  "document_type_confidence": 0.99,
+  "supplier_name": "Karim Enterprise",
+  "supplier_address": "123 Market Road, Dhaka",
+  "shop_name": "Corner Store Mart",
+  "document_date": "2026-01-12",
+  "document_number": "PO-82617",
+  "production_method": "handwritten",
+  "line_items": [
+    {
+      "raw_text": "Lux Soap 100g",
+      "quantity": 7,
+      "unit_price": 35,
+      "line_total": 245,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Detergent Powder 1kg",
+      "quantity": 19,
+      "unit_price": 110,
+      "line_total": 2090,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Instant Noodles pack",
+      "quantity": 4,
+      "unit_price": 20,
+      "line_total": 80,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Bottled Soda Water 1L",
+      "quantity": 17,
+      "unit_price": 22,
+      "line_total": 374,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Pran Mango Juice 250ml",
+      "quantity": 29,
+      "unit_price": 12,
+      "line_total": 348,
+      "arithmetic_check": "passed"
+    }
+  ],
+  "grand_total": 3137,
+  "review_required": false,
+  "_synthetic": true,
+  "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+}

@@ -1,0 +1,59 @@
+{
+  "submission_id": "1a0e801d659-27-4445",
+  "document_type": "purchase_order",
+  "document_type_confidence": 0.99,
+  "supplier_name": "Chittagong Import Co.",
+  "supplier_address": "123 Market Road, Dhaka",
+  "shop_name": "Bismillah Store",
+  "document_date": "2026-01-26",
+  "document_number": "PO-66553",
+  "production_method": "handwritten",
+  "line_items": [
+    {
+      "raw_text": "Chocolate Bar 45g",
+      "quantity": 20,
+      "unit_price": 30,
+      "line_total": 600,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Tibet Toothpaste 100g",
+      "quantity": 25,
+      "unit_price": 60,
+      "line_total": 1500,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Sugar 1kg pack",
+      "quantity": 27,
+      "unit_price": 130,
+      "line_total": 3510,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Pran Biscuit Pack",
+      "quantity": 22,
+      "unit_price": 18,
+      "line_total": 396,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Cooking Oil 1L bottle",
+      "quantity": 24,
+      "unit_price": 175,
+      "line_total": 4200,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Pran Mango Juice 250ml",
+      "quantity": 30,
+      "unit_price": 12,
+      "line_total": 360,
+      "arithmetic_check": "passed"
+    }
+  ],
+  "grand_total": 10566,
+  "review_required": false,
+  "_synthetic": true,
+  "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+}

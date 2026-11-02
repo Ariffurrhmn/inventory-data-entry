@@ -1,0 +1,31 @@
+{
+  "submission_id": "1a0e801d64d-18-4899",
+  "document_type": "purchase_order",
+  "document_type_confidence": 0.92,
+  "supplier_name": "Green Valley Foodstuffs Ltd.",
+  "supplier_address": "45 Station Bazar, Chattogram",
+  "shop_name": "Green Leaf Grocers",
+  "document_date": "2026-08-08",
+  "document_number": "PO-92704",
+  "production_method": "printed",
+  "line_items": [
+    {
+      "raw_text": "Lux Soap 100g",
+      "quantity": 29,
+      "unit_price": 35,
+      "line_total": 1015,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Chocolate Bar 45g",
+      "quantity": 5,
+      "unit_price": 30,
+      "line_total": 150,
+      "arithmetic_check": "passed"
+    }
+  ],
+  "grand_total": 1165,
+  "review_required": false,
+  "_synthetic": true,
+  "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+}

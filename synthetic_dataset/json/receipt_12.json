@@ -1,0 +1,38 @@
+{
+  "submission_id": "1a0e801d669-11-8310",
+  "document_type": "receipt",
+  "document_type_confidence": 0.96,
+  "supplier_name": "Padma Distribution House",
+  "supplier_address": "9 College Road, Sylhet",
+  "shop_name": "City Grocery",
+  "document_date": "2026-05-12",
+  "document_number": "RCPT-64963",
+  "production_method": "thermal",
+  "line_items": [
+    {
+      "raw_text": "Wheat Flour 2kg bag",
+      "quantity": 13,
+      "unit_price": 150,
+      "line_total": 1950,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Mineral Water 1L",
+      "quantity": 30,
+      "unit_price": 20,
+      "line_total": 600,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Salt 1kg pack",
+      "quantity": 29,
+      "unit_price": 40,
+      "line_total": 1160,
+      "arithmetic_check": "passed"
+    }
+  ],
+  "grand_total": 3710,
+  "review_required": false,
+  "_synthetic": true,
+  "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+}

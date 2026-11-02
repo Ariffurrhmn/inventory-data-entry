@@ -1,0 +1,45 @@
+{
+  "submission_id": "1a0e801d6b3-18-2952",
+  "document_type": "customer_copy",
+  "document_type_confidence": 0.94,
+  "supplier_name": "Dhaka Wholesale Mart",
+  "supplier_address": "221 Motijheel C/A, Dhaka",
+  "shop_name": "Mamun Store",
+  "document_date": "2026-04-14",
+  "document_number": "CC-29430",
+  "production_method": "printed",
+  "line_items": [
+    {
+      "raw_text": "Fresh Milk 1L carton",
+      "quantity": 21,
+      "unit_price": 85,
+      "line_total": 1785,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Wheat Flour 2kg bag",
+      "quantity": 28,
+      "unit_price": 150,
+      "line_total": 4200,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Mineral Water 1L",
+      "quantity": 24,
+      "unit_price": 20,
+      "line_total": 480,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Bottled Soda Water 1L",
+      "quantity": 29,
+      "unit_price": 22,
+      "line_total": 638,
+      "arithmetic_check": "passed"
+    }
+  ],
+  "grand_total": 7103,
+  "review_required": false,
+  "_synthetic": true,
+  "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+}

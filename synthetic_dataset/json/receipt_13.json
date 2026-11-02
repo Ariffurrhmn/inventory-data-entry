@@ -1,0 +1,31 @@
+{
+  "submission_id": "1a0e801d66b-12-3722",
+  "document_type": "receipt",
+  "document_type_confidence": 0.9,
+  "supplier_name": "Meghna Beverages",
+  "supplier_address": "9 College Road, Sylhet",
+  "shop_name": "City Grocery",
+  "document_date": "2026-09-16",
+  "document_number": "RCPT-38736",
+  "production_method": "thermal",
+  "line_items": [
+    {
+      "raw_text": "Chocolate Bar 45g",
+      "quantity": 19,
+      "unit_price": 30,
+      "line_total": 570,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Bottled Soda Water 1L",
+      "quantity": 23,
+      "unit_price": 22,
+      "line_total": 506,
+      "arithmetic_check": "passed"
+    }
+  ],
+  "grand_total": 1076,
+  "review_required": false,
+  "_synthetic": true,
+  "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+}

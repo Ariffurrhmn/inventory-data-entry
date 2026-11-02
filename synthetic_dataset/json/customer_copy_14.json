@@ -1,0 +1,45 @@
+{
+  "submission_id": "1a0e801d6ae-13-9275",
+  "document_type": "customer_copy",
+  "document_type_confidence": 0.95,
+  "supplier_name": "Star Trading Corporation",
+  "supplier_address": "78 Cantonment Road, Rajshahi",
+  "shop_name": "Bismillah Store",
+  "document_date": "2026-02-21",
+  "document_number": "CC-47167",
+  "production_method": "handwritten",
+  "line_items": [
+    {
+      "raw_text": "Cooking Oil 1L bottle",
+      "quantity": 30,
+      "unit_price": 175,
+      "line_total": 5250,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Mineral Water 1L",
+      "quantity": 10,
+      "unit_price": 20,
+      "line_total": 200,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Tibet Toothpaste 100g",
+      "quantity": 17,
+      "unit_price": 60,
+      "line_total": 1020,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Fresh Eggs (dozen)",
+      "quantity": 7,
+      "unit_price": 140,
+      "line_total": 980,
+      "arithmetic_check": "passed"
+    }
+  ],
+  "grand_total": 7450,
+  "review_required": false,
+  "_synthetic": true,
+  "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+}

@@ -1,0 +1,52 @@
+{
+  "submission_id": "1a0e801d654-23-2791",
+  "document_type": "purchase_order",
+  "document_type_confidence": 0.94,
+  "supplier_name": "Karim Enterprise",
+  "supplier_address": "45 Station Bazar, Chattogram",
+  "shop_name": "New Market Traders",
+  "document_date": "2026-03-09",
+  "document_number": "PO-74007",
+  "production_method": "printed",
+  "line_items": [
+    {
+      "raw_text": "Chocolate Bar 45g",
+      "quantity": 28,
+      "unit_price": 30,
+      "line_total": 840,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Sugar 1kg pack",
+      "quantity": 5,
+      "unit_price": 130,
+      "line_total": 650,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Salt 1kg pack",
+      "quantity": 2,
+      "unit_price": 40,
+      "line_total": 80,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Lux Soap 100g",
+      "quantity": 25,
+      "unit_price": 35,
+      "line_total": 875,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Pran Mango Juice 250ml",
+      "quantity": 12,
+      "unit_price": 12,
+      "line_total": 144,
+      "arithmetic_check": "passed"
+    }
+  ],
+  "grand_total": 2589,
+  "review_required": false,
+  "_synthetic": true,
+  "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+}

@@ -1,0 +1,52 @@
+{
+  "submission_id": "1a0e801d6a0-0-2498",
+  "document_type": "customer_copy",
+  "document_type_confidence": 0.93,
+  "supplier_name": "Sonar Bangla Grocers Supply",
+  "supplier_address": "221 Motijheel C/A, Dhaka",
+  "shop_name": "Bismillah Store",
+  "document_date": "2026-05-15",
+  "document_number": "CC-12702",
+  "production_method": "handwritten",
+  "line_items": [
+    {
+      "raw_text": "Basmati Rice 5kg bag",
+      "quantity": 27,
+      "unit_price": 650,
+      "line_total": 17550,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Instant Noodles pack",
+      "quantity": 22,
+      "unit_price": 20,
+      "line_total": 440,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Mineral Water 1L",
+      "quantity": 30,
+      "unit_price": 20,
+      "line_total": 600,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Wheat Flour 2kg bag",
+      "quantity": 12,
+      "unit_price": 150,
+      "line_total": 1800,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Lux Soap 100g",
+      "quantity": 20,
+      "unit_price": 35,
+      "line_total": 700,
+      "arithmetic_check": "passed"
+    }
+  ],
+  "grand_total": 21090,
+  "review_required": false,
+  "_synthetic": true,
+  "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+}

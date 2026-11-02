@@ -1,0 +1,45 @@
+{
+  "submission_id": "1a0e801d636-2-3638",
+  "document_type": "purchase_order",
+  "document_type_confidence": 0.96,
+  "supplier_name": "Sonar Bangla Grocers Supply",
+  "supplier_address": "45 Station Bazar, Chattogram",
+  "shop_name": "Corner Store Mart",
+  "document_date": "2026-05-23",
+  "document_number": "PO-69024",
+  "production_method": "printed",
+  "line_items": [
+    {
+      "raw_text": "Chocolate Bar 45g",
+      "quantity": 5,
+      "unit_price": 30,
+      "line_total": 150,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Salt 1kg pack",
+      "quantity": 23,
+      "unit_price": 40,
+      "line_total": 920,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Wheat Flour 2kg bag",
+      "quantity": 16,
+      "unit_price": 150,
+      "line_total": 2850,
+      "arithmetic_check": "failed"
+    },
+    {
+      "raw_text": "Potato Chips 60g",
+      "quantity": 20,
+      "unit_price": 25,
+      "line_total": 500,
+      "arithmetic_check": "passed"
+    }
+  ],
+  "grand_total": 4420,
+  "review_required": true,
+  "_synthetic": true,
+  "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+}

@@ -1,0 +1,59 @@
+{
+  "submission_id": "1a0e801d677-24-7668",
+  "document_type": "receipt",
+  "document_type_confidence": 0.94,
+  "supplier_name": "Farida Household Goods",
+  "supplier_address": "45 Station Bazar, Chattogram",
+  "shop_name": "Sultana Variety Store",
+  "document_date": "2026-05-10",
+  "document_number": "RCPT-55593",
+  "production_method": "printed",
+  "line_items": [
+    {
+      "raw_text": "Tibet Toothpaste 100g",
+      "quantity": 19,
+      "unit_price": 60,
+      "line_total": 1140,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Fresh Milk 1L carton",
+      "quantity": 14,
+      "unit_price": 85,
+      "line_total": 1190,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Mineral Water 1L",
+      "quantity": 14,
+      "unit_price": 20,
+      "line_total": 280,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Wheat Flour 2kg bag",
+      "quantity": 27,
+      "unit_price": 150,
+      "line_total": 4050,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Bottled Soda Water 1L",
+      "quantity": 29,
+      "unit_price": 22,
+      "line_total": 638,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Lux Soap 100g",
+      "quantity": 7,
+      "unit_price": 35,
+      "line_total": 245,
+      "arithmetic_check": "passed"
+    }
+  ],
+  "grand_total": 7543,
+  "review_required": false,
+  "_synthetic": true,
+  "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+}

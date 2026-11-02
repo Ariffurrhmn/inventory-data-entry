@@ -1,0 +1,59 @@
+{
+  "submission_id": "1a0e801d649-15-4617",
+  "document_type": "purchase_order",
+  "document_type_confidence": 0.93,
+  "supplier_name": "Nabila Foods Ltd.",
+  "supplier_address": "45 Station Bazar, Chattogram",
+  "shop_name": "Al-Amin General Store",
+  "document_date": "2026-03-03",
+  "document_number": "PO-39657",
+  "production_method": "handwritten",
+  "line_items": [
+    {
+      "raw_text": "Cooking Oil 1L bottle",
+      "quantity": 18,
+      "unit_price": 175,
+      "line_total": 3150,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Lipton Tea 100g box",
+      "quantity": 17,
+      "unit_price": 95,
+      "line_total": 1615,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Salt 1kg pack",
+      "quantity": 29,
+      "unit_price": 40,
+      "line_total": 1160,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Tibet Toothpaste 100g",
+      "quantity": 25,
+      "unit_price": 60,
+      "line_total": 1500,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Detergent Powder 1kg",
+      "quantity": 2,
+      "unit_price": 110,
+      "line_total": 110,
+      "arithmetic_check": "failed"
+    },
+    {
+      "raw_text": "Mineral Water 1L",
+      "quantity": 4,
+      "unit_price": 20,
+      "line_total": 80,
+      "arithmetic_check": "passed"
+    }
+  ],
+  "grand_total": 7615,
+  "review_required": true,
+  "_synthetic": true,
+  "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+}

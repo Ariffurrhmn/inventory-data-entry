@@ -1,0 +1,38 @@
+{
+  "submission_id": "1a0e801d673-19-8001",
+  "document_type": "receipt",
+  "document_type_confidence": 0.96,
+  "supplier_name": "Karim Enterprise",
+  "supplier_address": "78 Cantonment Road, Rajshahi",
+  "shop_name": "Sultana Variety Store",
+  "document_date": "2026-07-27",
+  "document_number": "RCPT-89307",
+  "production_method": "thermal",
+  "line_items": [
+    {
+      "raw_text": "Tibet Toothpaste 100g",
+      "quantity": 10,
+      "unit_price": 60,
+      "line_total": 600,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Potato Chips 60g",
+      "quantity": 11,
+      "unit_price": 25,
+      "line_total": 275,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Fresh Eggs (dozen)",
+      "quantity": 23,
+      "unit_price": 140,
+      "line_total": 3500,
+      "arithmetic_check": "failed"
+    }
+  ],
+  "grand_total": 4375,
+  "review_required": true,
+  "_synthetic": true,
+  "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+}

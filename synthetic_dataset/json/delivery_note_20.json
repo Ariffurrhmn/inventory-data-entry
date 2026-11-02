@@ -1,0 +1,31 @@
+{
+  "submission_id": "1a0e801d695-19-4659",
+  "document_type": "delivery_note",
+  "document_type_confidence": 0.92,
+  "supplier_name": "Padma Distribution House",
+  "supplier_address": "78 Cantonment Road, Rajshahi",
+  "shop_name": "Sultana Variety Store",
+  "document_date": "2026-02-07",
+  "document_number": "DN-48461",
+  "production_method": "handwritten",
+  "line_items": [
+    {
+      "raw_text": "Chocolate Bar 45g",
+      "quantity": 3,
+      "unit_price": 30,
+      "line_total": 90,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Mineral Water 1L",
+      "quantity": 10,
+      "unit_price": 20,
+      "line_total": 200,
+      "arithmetic_check": "passed"
+    }
+  ],
+  "grand_total": 290,
+  "review_required": false,
+  "_synthetic": true,
+  "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+}

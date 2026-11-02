@@ -1,0 +1,45 @@
+{
+  "submission_id": "1a0e801d65e-1-6104",
+  "document_type": "receipt",
+  "document_type_confidence": 0.93,
+  "supplier_name": "Star Trading Corporation",
+  "supplier_address": "78 Cantonment Road, Rajshahi",
+  "shop_name": "Green Leaf Grocers",
+  "document_date": "2026-03-08",
+  "document_number": "RCPT-85460",
+  "production_method": "thermal",
+  "line_items": [
+    {
+      "raw_text": "Wheat Flour 2kg bag",
+      "quantity": 26,
+      "unit_price": 150,
+      "line_total": 3900,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Chocolate Bar 45g",
+      "quantity": 26,
+      "unit_price": 30,
+      "line_total": 780,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Basmati Rice 5kg bag",
+      "quantity": 17,
+      "unit_price": 650,
+      "line_total": 11050,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Lux Soap 100g",
+      "quantity": 15,
+      "unit_price": 35,
+      "line_total": 525,
+      "arithmetic_check": "passed"
+    }
+  ],
+  "grand_total": 16255,
+  "review_required": false,
+  "_synthetic": true,
+  "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+}

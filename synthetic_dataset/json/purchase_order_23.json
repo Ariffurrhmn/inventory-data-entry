@@ -1,0 +1,52 @@
+{
+  "submission_id": "1a0e801d653-22-5735",
+  "document_type": "purchase_order",
+  "document_type_confidence": 0.96,
+  "supplier_name": "Green Valley Foodstuffs Ltd.",
+  "supplier_address": "12 New Market, Khulna",
+  "shop_name": "Mamun Store",
+  "document_date": "2026-03-13",
+  "document_number": "PO-54115",
+  "production_method": "printed",
+  "line_items": [
+    {
+      "raw_text": "Pran Biscuit Pack",
+      "quantity": 22,
+      "unit_price": 18,
+      "line_total": 396,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Salt 1kg pack",
+      "quantity": 14,
+      "unit_price": 40,
+      "line_total": 560,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Lux Soap 100g",
+      "quantity": 7,
+      "unit_price": 35,
+      "line_total": 245,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Chocolate Bar 45g",
+      "quantity": 24,
+      "unit_price": 30,
+      "line_total": 720,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Tibet Toothpaste 100g",
+      "quantity": 20,
+      "unit_price": 60,
+      "line_total": 1200,
+      "arithmetic_check": "passed"
+    }
+  ],
+  "grand_total": 3121,
+  "review_required": false,
+  "_synthetic": true,
+  "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+}

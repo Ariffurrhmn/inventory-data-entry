@@ -1,0 +1,38 @@
+{
+  "submission_id": "1a0e801d6ad-12-7295",
+  "document_type": "customer_copy",
+  "document_type_confidence": 0.96,
+  "supplier_name": "Sonar Bangla Grocers Supply",
+  "supplier_address": "45 Station Bazar, Chattogram",
+  "shop_name": "Bismillah Store",
+  "document_date": "2026-06-24",
+  "document_number": "CC-46037",
+  "production_method": "thermal",
+  "line_items": [
+    {
+      "raw_text": "Sugar 1kg pack",
+      "quantity": 30,
+      "unit_price": 130,
+      "line_total": 3900,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Mineral Water 1L",
+      "quantity": 10,
+      "unit_price": 20,
+      "line_total": 200,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Fresh Eggs (dozen)",
+      "quantity": 17,
+      "unit_price": 140,
+      "line_total": 2380,
+      "arithmetic_check": "passed"
+    }
+  ],
+  "grand_total": 6480,
+  "review_required": false,
+  "_synthetic": true,
+  "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+}

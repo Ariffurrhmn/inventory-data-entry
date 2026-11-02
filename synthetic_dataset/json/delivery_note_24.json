@@ -1,0 +1,31 @@
+{
+  "submission_id": "1a0e801d699-23-2185",
+  "document_type": "delivery_note",
+  "document_type_confidence": 0.96,
+  "supplier_name": "Meghna Beverages",
+  "supplier_address": "12 New Market, Khulna",
+  "shop_name": "Sultana Variety Store",
+  "document_date": "2026-07-18",
+  "document_number": "DN-74131",
+  "production_method": "printed",
+  "line_items": [
+    {
+      "raw_text": "Lux Soap 100g",
+      "quantity": 11,
+      "unit_price": 35,
+      "line_total": 385,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Sugar 1kg pack",
+      "quantity": 28,
+      "unit_price": 130,
+      "line_total": 3640,
+      "arithmetic_check": "passed"
+    }
+  ],
+  "grand_total": 4025,
+  "review_required": false,
+  "_synthetic": true,
+  "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+}

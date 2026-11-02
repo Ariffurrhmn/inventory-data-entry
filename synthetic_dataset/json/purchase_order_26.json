@@ -1,0 +1,38 @@
+{
+  "submission_id": "1a0e801d656-25-3010",
+  "document_type": "purchase_order",
+  "document_type_confidence": 0.91,
+  "supplier_name": "Rahman & Sons Trading",
+  "supplier_address": "45 Station Bazar, Chattogram",
+  "shop_name": "City Grocery",
+  "document_date": "2026-03-07",
+  "document_number": "PO-55380",
+  "production_method": "handwritten",
+  "line_items": [
+    {
+      "raw_text": "Pran Biscuit Pack",
+      "quantity": 27,
+      "unit_price": 18,
+      "line_total": 486,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Potato Chips 60g",
+      "quantity": 19,
+      "unit_price": 25,
+      "line_total": 475,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Fresh Milk 1L carton",
+      "quantity": 6,
+      "unit_price": 85,
+      "line_total": 510,
+      "arithmetic_check": "passed"
+    }
+  ],
+  "grand_total": 1471,
+  "review_required": false,
+  "_synthetic": true,
+  "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+}

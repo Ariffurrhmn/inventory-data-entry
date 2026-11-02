@@ -1,0 +1,38 @@
+{
+  "submission_id": "1a0e801d6b2-17-2926",
+  "document_type": "customer_copy",
+  "document_type_confidence": 0.98,
+  "supplier_name": "Karim Enterprise",
+  "supplier_address": "45 Station Bazar, Chattogram",
+  "shop_name": "Mamun Store",
+  "document_date": "2026-02-16",
+  "document_number": "CC-94680",
+  "production_method": "printed",
+  "line_items": [
+    {
+      "raw_text": "Detergent Powder 1kg",
+      "quantity": 6,
+      "unit_price": 110,
+      "line_total": 660,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Tibet Toothpaste 100g",
+      "quantity": 9,
+      "unit_price": 60,
+      "line_total": 540,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Bottled Soda Water 1L",
+      "quantity": 9,
+      "unit_price": 22,
+      "line_total": 198,
+      "arithmetic_check": "passed"
+    }
+  ],
+  "grand_total": 1398,
+  "review_required": false,
+  "_synthetic": true,
+  "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+}

@@ -1,0 +1,38 @@
+{
+  "submission_id": "1a0e801d696-20-6963",
+  "document_type": "delivery_note",
+  "document_type_confidence": 0.96,
+  "supplier_name": "Karim Enterprise",
+  "supplier_address": "78 Cantonment Road, Rajshahi",
+  "shop_name": "Bismillah Store",
+  "document_date": "2026-07-18",
+  "document_number": "DN-96482",
+  "production_method": "thermal",
+  "line_items": [
+    {
+      "raw_text": "Wheat Flour 2kg bag",
+      "quantity": 14,
+      "unit_price": 150,
+      "line_total": 2400,
+      "arithmetic_check": "failed"
+    },
+    {
+      "raw_text": "Potato Chips 60g",
+      "quantity": 4,
+      "unit_price": 25,
+      "line_total": 100,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Bottled Soda Water 1L",
+      "quantity": 9,
+      "unit_price": 22,
+      "line_total": 198,
+      "arithmetic_check": "passed"
+    }
+  ],
+  "grand_total": 2698,
+  "review_required": true,
+  "_synthetic": true,
+  "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+}

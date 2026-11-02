@@ -1,0 +1,45 @@
+{
+  "submission_id": "1a0e801d63f-7-6691",
+  "document_type": "purchase_order",
+  "document_type_confidence": 0.91,
+  "supplier_name": "ACME Beverage Distributors",
+  "supplier_address": "9 College Road, Sylhet",
+  "shop_name": "Corner Store Mart",
+  "document_date": "2026-09-16",
+  "document_number": "PO-88929",
+  "production_method": "handwritten",
+  "line_items": [
+    {
+      "raw_text": "Wheat Flour 2kg bag",
+      "quantity": 11,
+      "unit_price": 150,
+      "line_total": 1650,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Instant Noodles pack",
+      "quantity": 13,
+      "unit_price": 20,
+      "line_total": 260,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Lipton Tea 100g box",
+      "quantity": 3,
+      "unit_price": 95,
+      "line_total": 285,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Chocolate Bar 45g",
+      "quantity": 25,
+      "unit_price": 30,
+      "line_total": 750,
+      "arithmetic_check": "passed"
+    }
+  ],
+  "grand_total": 2945,
+  "review_required": false,
+  "_synthetic": true,
+  "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+}

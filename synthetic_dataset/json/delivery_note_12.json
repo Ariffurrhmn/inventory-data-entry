@@ -1,0 +1,52 @@
+{
+  "submission_id": "1a0e801d68a-11-9064",
+  "document_type": "delivery_note",
+  "document_type_confidence": 0.96,
+  "supplier_name": "Star Trading Corporation",
+  "supplier_address": "78 Cantonment Road, Rajshahi",
+  "shop_name": "Green Leaf Grocers",
+  "document_date": "2026-07-08",
+  "document_number": "DN-69472",
+  "production_method": "handwritten",
+  "line_items": [
+    {
+      "raw_text": "Chocolate Bar 45g",
+      "quantity": 28,
+      "unit_price": 30,
+      "line_total": 840,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Pran Biscuit Pack",
+      "quantity": 21,
+      "unit_price": 18,
+      "line_total": 378,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Fresh Eggs (dozen)",
+      "quantity": 30,
+      "unit_price": 140,
+      "line_total": 4200,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Fresh Milk 1L carton",
+      "quantity": 16,
+      "unit_price": 85,
+      "line_total": 1530,
+      "arithmetic_check": "failed"
+    },
+    {
+      "raw_text": "Cooking Oil 1L bottle",
+      "quantity": 25,
+      "unit_price": 175,
+      "line_total": 4375,
+      "arithmetic_check": "passed"
+    }
+  ],
+  "grand_total": 11323,
+  "review_required": true,
+  "_synthetic": true,
+  "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+}

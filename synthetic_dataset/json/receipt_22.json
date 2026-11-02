@@ -1,0 +1,38 @@
+{
+  "submission_id": "1a0e801d674-21-4820",
+  "document_type": "receipt",
+  "document_type_confidence": 0.91,
+  "supplier_name": "Nabila Foods Ltd.",
+  "supplier_address": "12 New Market, Khulna",
+  "shop_name": "Mamun Store",
+  "document_date": "2026-09-03",
+  "document_number": "RCPT-52568",
+  "production_method": "thermal",
+  "line_items": [
+    {
+      "raw_text": "Basmati Rice 5kg bag",
+      "quantity": 24,
+      "unit_price": 650,
+      "line_total": 15600,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Fresh Milk 1L carton",
+      "quantity": 7,
+      "unit_price": 85,
+      "line_total": 595,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Tibet Toothpaste 100g",
+      "quantity": 10,
+      "unit_price": 60,
+      "line_total": 600,
+      "arithmetic_check": "passed"
+    }
+  ],
+  "grand_total": 16795,
+  "review_required": false,
+  "_synthetic": true,
+  "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+}

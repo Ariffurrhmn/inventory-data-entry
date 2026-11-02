@@ -1,0 +1,38 @@
+{
+  "submission_id": "1a0e801d6af-14-7808",
+  "document_type": "customer_copy",
+  "document_type_confidence": 0.9,
+  "supplier_name": "ACME Beverage Distributors",
+  "supplier_address": "123 Market Road, Dhaka",
+  "shop_name": "Corner Store Mart",
+  "document_date": "2026-05-19",
+  "document_number": "CC-13799",
+  "production_method": "printed",
+  "line_items": [
+    {
+      "raw_text": "Tibet Toothpaste 100g",
+      "quantity": 19,
+      "unit_price": 60,
+      "line_total": 1140,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Lipton Tea 100g box",
+      "quantity": 28,
+      "unit_price": 95,
+      "line_total": 2660,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Lux Soap 100g",
+      "quantity": 17,
+      "unit_price": 35,
+      "line_total": 595,
+      "arithmetic_check": "passed"
+    }
+  ],
+  "grand_total": 4395,
+  "review_required": false,
+  "_synthetic": true,
+  "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+}

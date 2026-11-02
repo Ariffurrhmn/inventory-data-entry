@@ -1,0 +1,59 @@
+{
+  "submission_id": "1a0e801d667-9-5247",
+  "document_type": "receipt",
+  "document_type_confidence": 0.96,
+  "supplier_name": "Padma Distribution House",
+  "supplier_address": "221 Motijheel C/A, Dhaka",
+  "shop_name": "Green Leaf Grocers",
+  "document_date": "2026-08-07",
+  "document_number": "RCPT-90560",
+  "production_method": "thermal",
+  "line_items": [
+    {
+      "raw_text": "Lux Soap 100g",
+      "quantity": 4,
+      "unit_price": 35,
+      "line_total": 140,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Instant Noodles pack",
+      "quantity": 23,
+      "unit_price": 20,
+      "line_total": 460,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Detergent Powder 1kg",
+      "quantity": 20,
+      "unit_price": 110,
+      "line_total": 2200,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Bottled Soda Water 1L",
+      "quantity": 3,
+      "unit_price": 22,
+      "line_total": 66,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Sugar 1kg pack",
+      "quantity": 5,
+      "unit_price": 130,
+      "line_total": 780,
+      "arithmetic_check": "failed"
+    },
+    {
+      "raw_text": "Pran Mango Juice 250ml",
+      "quantity": 15,
+      "unit_price": 12,
+      "line_total": 180,
+      "arithmetic_check": "passed"
+    }
+  ],
+  "grand_total": 3826,
+  "review_required": true,
+  "_synthetic": true,
+  "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+}

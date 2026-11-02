@@ -1,0 +1,31 @@
+{
+  "submission_id": "1a0e801d6b7-21-3545",
+  "document_type": "customer_copy",
+  "document_type_confidence": 0.99,
+  "supplier_name": "Bengal Snacks & Confectionery",
+  "supplier_address": "9 College Road, Sylhet",
+  "shop_name": "Bismillah Store",
+  "document_date": "2026-05-11",
+  "document_number": "CC-48575",
+  "production_method": "printed",
+  "line_items": [
+    {
+      "raw_text": "Lux Soap 100g",
+      "quantity": 11,
+      "unit_price": 35,
+      "line_total": 385,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Cooking Oil 1L bottle",
+      "quantity": 25,
+      "unit_price": 175,
+      "line_total": 4375,
+      "arithmetic_check": "passed"
+    }
+  ],
+  "grand_total": 4760,
+  "review_required": false,
+  "_synthetic": true,
+  "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+}

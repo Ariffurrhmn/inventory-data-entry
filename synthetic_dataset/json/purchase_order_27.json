@@ -1,0 +1,38 @@
+{
+  "submission_id": "1a0e801d657-26-1644",
+  "document_type": "purchase_order",
+  "document_type_confidence": 0.99,
+  "supplier_name": "Dhaka Wholesale Mart",
+  "supplier_address": "123 Market Road, Dhaka",
+  "shop_name": "Corner Store Mart",
+  "document_date": "2026-05-20",
+  "document_number": "PO-42798",
+  "production_method": "printed",
+  "line_items": [
+    {
+      "raw_text": "Potato Chips 60g",
+      "quantity": 13,
+      "unit_price": 25,
+      "line_total": 325,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Fresh Milk 1L carton",
+      "quantity": 22,
+      "unit_price": 85,
+      "line_total": 1870,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Chocolate Bar 45g",
+      "quantity": 15,
+      "unit_price": 30,
+      "line_total": 510,
+      "arithmetic_check": "failed"
+    }
+  ],
+  "grand_total": 2705,
+  "review_required": true,
+  "_synthetic": true,
+  "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+}

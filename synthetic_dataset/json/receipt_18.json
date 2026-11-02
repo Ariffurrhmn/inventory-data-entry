@@ -1,0 +1,45 @@
+{
+  "submission_id": "1a0e801d671-17-9053",
+  "document_type": "receipt",
+  "document_type_confidence": 0.93,
+  "supplier_name": "Nabila Foods Ltd.",
+  "supplier_address": "12 New Market, Khulna",
+  "shop_name": "Corner Store Mart",
+  "document_date": "2026-07-21",
+  "document_number": "RCPT-94108",
+  "production_method": "thermal",
+  "line_items": [
+    {
+      "raw_text": "Tibet Toothpaste 100g",
+      "quantity": 21,
+      "unit_price": 60,
+      "line_total": 1260,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Potato Chips 60g",
+      "quantity": 4,
+      "unit_price": 25,
+      "line_total": 100,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Instant Noodles pack",
+      "quantity": 13,
+      "unit_price": 20,
+      "line_total": 260,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Pran Biscuit Pack",
+      "quantity": 9,
+      "unit_price": 18,
+      "line_total": 162,
+      "arithmetic_check": "passed"
+    }
+  ],
+  "grand_total": 1782,
+  "review_required": false,
+  "_synthetic": true,
+  "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+}

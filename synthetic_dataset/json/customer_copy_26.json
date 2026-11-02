@@ -1,0 +1,38 @@
+{
+  "submission_id": "1a0e801d6bb-25-1420",
+  "document_type": "customer_copy",
+  "document_type_confidence": 0.92,
+  "supplier_name": "Rahman & Sons Trading",
+  "supplier_address": "123 Market Road, Dhaka",
+  "shop_name": "Mamun Store",
+  "document_date": "2026-07-09",
+  "document_number": "CC-99976",
+  "production_method": "thermal",
+  "line_items": [
+    {
+      "raw_text": "Salt 1kg pack",
+      "quantity": 20,
+      "unit_price": 40,
+      "line_total": 800,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Pran Mango Juice 250ml",
+      "quantity": 24,
+      "unit_price": 12,
+      "line_total": 288,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Tibet Toothpaste 100g",
+      "quantity": 17,
+      "unit_price": 60,
+      "line_total": 1200,
+      "arithmetic_check": "failed"
+    }
+  ],
+  "grand_total": 2288,
+  "review_required": true,
+  "_synthetic": true,
+  "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+}

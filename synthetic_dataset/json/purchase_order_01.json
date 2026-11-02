@@ -1,0 +1,38 @@
+{
+  "submission_id": "1a0e801d62c-0-4560",
+  "document_type": "purchase_order",
+  "document_type_confidence": 0.94,
+  "supplier_name": "Prime Foods Distributors",
+  "supplier_address": "12 New Market, Khulna",
+  "shop_name": "Al-Amin General Store",
+  "document_date": "2026-07-19",
+  "document_number": "PO-84686",
+  "production_method": "printed",
+  "line_items": [
+    {
+      "raw_text": "Instant Noodles pack",
+      "quantity": 18,
+      "unit_price": 20,
+      "line_total": 360,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Basmati Rice 5kg bag",
+      "quantity": 28,
+      "unit_price": 650,
+      "line_total": 18200,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Fresh Milk 1L carton",
+      "quantity": 12,
+      "unit_price": 85,
+      "line_total": 1020,
+      "arithmetic_check": "passed"
+    }
+  ],
+  "grand_total": 19580,
+  "review_required": false,
+  "_synthetic": true,
+  "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+}

@@ -1,0 +1,38 @@
+{
+  "submission_id": "1a0e801d646-12-6678",
+  "document_type": "purchase_order",
+  "document_type_confidence": 0.92,
+  "supplier_name": "Green Valley Foodstuffs Ltd.",
+  "supplier_address": "12 New Market, Khulna",
+  "shop_name": "Al-Amin General Store",
+  "document_date": "2026-02-25",
+  "document_number": "PO-85130",
+  "production_method": "printed",
+  "line_items": [
+    {
+      "raw_text": "Cooking Oil 1L bottle",
+      "quantity": 21,
+      "unit_price": 175,
+      "line_total": 3675,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Chocolate Bar 45g",
+      "quantity": 1,
+      "unit_price": 30,
+      "line_total": 30,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Basmati Rice 5kg bag",
+      "quantity": 18,
+      "unit_price": 650,
+      "line_total": 11700,
+      "arithmetic_check": "passed"
+    }
+  ],
+  "grand_total": 15405,
+  "review_required": false,
+  "_synthetic": true,
+  "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+}

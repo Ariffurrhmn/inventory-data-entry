@@ -1,0 +1,45 @@
+{
+  "submission_id": "1a0e801d6a4-3-6373",
+  "document_type": "customer_copy",
+  "document_type_confidence": 0.93,
+  "supplier_name": "Prime Foods Distributors",
+  "supplier_address": "123 Market Road, Dhaka",
+  "shop_name": "Al-Amin General Store",
+  "document_date": "2026-01-12",
+  "document_number": "CC-31169",
+  "production_method": "thermal",
+  "line_items": [
+    {
+      "raw_text": "Instant Noodles pack",
+      "quantity": 27,
+      "unit_price": 20,
+      "line_total": 540,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Sugar 1kg pack",
+      "quantity": 6,
+      "unit_price": 130,
+      "line_total": 780,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Wheat Flour 2kg bag",
+      "quantity": 20,
+      "unit_price": 150,
+      "line_total": 3000,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Salt 1kg pack",
+      "quantity": 27,
+      "unit_price": 40,
+      "line_total": 1080,
+      "arithmetic_check": "passed"
+    }
+  ],
+  "grand_total": 5400,
+  "review_required": false,
+  "_synthetic": true,
+  "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+}

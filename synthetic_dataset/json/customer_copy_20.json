@@ -1,0 +1,45 @@
+{
+  "submission_id": "1a0e801d6b5-19-9308",
+  "document_type": "customer_copy",
+  "document_type_confidence": 0.96,
+  "supplier_name": "Chittagong Import Co.",
+  "supplier_address": "221 Motijheel C/A, Dhaka",
+  "shop_name": "Al-Amin General Store",
+  "document_date": "2026-03-20",
+  "document_number": "CC-64887",
+  "production_method": "printed",
+  "line_items": [
+    {
+      "raw_text": "Fresh Milk 1L carton",
+      "quantity": 13,
+      "unit_price": 85,
+      "line_total": 1105,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Tibet Toothpaste 100g",
+      "quantity": 24,
+      "unit_price": 60,
+      "line_total": 1440,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Chocolate Bar 45g",
+      "quantity": 5,
+      "unit_price": 30,
+      "line_total": 150,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Lipton Tea 100g box",
+      "quantity": 29,
+      "unit_price": 95,
+      "line_total": 2755,
+      "arithmetic_check": "passed"
+    }
+  ],
+  "grand_total": 5450,
+  "review_required": false,
+  "_synthetic": true,
+  "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+}

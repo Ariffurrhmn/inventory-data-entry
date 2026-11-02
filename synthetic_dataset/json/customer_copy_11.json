@@ -1,0 +1,38 @@
+{
+  "submission_id": "1a0e801d6ab-10-6320",
+  "document_type": "customer_copy",
+  "document_type_confidence": 0.97,
+  "supplier_name": "Star Trading Corporation",
+  "supplier_address": "78 Cantonment Road, Rajshahi",
+  "shop_name": "New Market Traders",
+  "document_date": "2026-01-24",
+  "document_number": "CC-97993",
+  "production_method": "printed",
+  "line_items": [
+    {
+      "raw_text": "Instant Noodles pack",
+      "quantity": 15,
+      "unit_price": 20,
+      "line_total": 300,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Mineral Water 1L",
+      "quantity": 14,
+      "unit_price": 20,
+      "line_total": 280,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Chocolate Bar 45g",
+      "quantity": 14,
+      "unit_price": 30,
+      "line_total": 420,
+      "arithmetic_check": "passed"
+    }
+  ],
+  "grand_total": 1000,
+  "review_required": false,
+  "_synthetic": true,
+  "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+}

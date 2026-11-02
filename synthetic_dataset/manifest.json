@@ -1,0 +1,962 @@
+[
+  {
+    "file": "purchase_order_01",
+    "document_type": "purchase_order",
+    "production_method": "printed",
+    "degraded": false,
+    "degrade_type": null,
+    "review_required": false
+  },
+  {
+    "file": "purchase_order_02",
+    "document_type": "purchase_order",
+    "production_method": "printed",
+    "degraded": true,
+    "degrade_type": "degrade-blur",
+    "review_required": false
+  },
+  {
+    "file": "purchase_order_03",
+    "document_type": "purchase_order",
+    "production_method": "printed",
+    "degraded": false,
+    "degrade_type": null,
+    "review_required": true
+  },
+  {
+    "file": "purchase_order_04",
+    "document_type": "purchase_order",
+    "production_method": "handwritten",
+    "degraded": false,
+    "degrade_type": null,
+    "review_required": false
+  },
+  {
+    "file": "purchase_order_05",
+    "document_type": "purchase_order",
+    "production_method": "handwritten",
+    "degraded": false,
+    "degrade_type": null,
+    "review_required": false
+  },
+  {
+    "file": "purchase_order_06",
+    "document_type": "purchase_order",
+    "production_method": "printed",
+    "degraded": false,
+    "degrade_type": null,
+    "review_required": false
+  },
+  {
+    "file": "purchase_order_07",
+    "document_type": "purchase_order",
+    "production_method": "printed",
+    "degraded": false,
+    "degrade_type": null,
+    "review_required": false
+  },
+  {
+    "file": "purchase_order_08",
+    "document_type": "purchase_order",
+    "production_method": "handwritten",
+    "degraded": false,
+    "degrade_type": null,
+    "review_required": false
+  },
+  {
+    "file": "purchase_order_09",
+    "document_type": "purchase_order",
+    "production_method": "printed",
+    "degraded": false,
+    "degrade_type": null,
+    "review_required": false
+  },
+  {
+    "file": "purchase_order_10",
+    "document_type": "purchase_order",
+    "production_method": "printed",
+    "degraded": false,
+    "degrade_type": null,
+    "review_required": false
+  },
+  {
+    "file": "purchase_order_11",
+    "document_type": "purchase_order",
+    "production_method": "printed",
+    "degraded": true,
+    "degrade_type": "degrade-rotate",
+    "review_required": false
+  },
+  {
+    "file": "purchase_order_12",
+    "document_type": "purchase_order",
+    "production_method": "handwritten",
+    "degraded": false,
+    "degrade_type": null,
+    "review_required": false
+  },
+  {
+    "file": "purchase_order_13",
+    "document_type": "purchase_order",
+    "production_method": "printed",
+    "degraded": true,
+    "degrade_type": "degrade-lowcontrast",
+    "review_required": false
+  },
+  {
+    "file": "purchase_order_14",
+    "document_type": "purchase_order",
+    "production_method": "printed",
+    "degraded": true,
+    "degrade_type": "degrade-blur",
+    "review_required": false
+  },
+  {
+    "file": "purchase_order_15",
+    "document_type": "purchase_order",
+    "production_method": "printed",
+    "degraded": false,
+    "degrade_type": null,
+    "review_required": true
+  },
+  {
+    "file": "purchase_order_16",
+    "document_type": "purchase_order",
+    "production_method": "handwritten",
+    "degraded": false,
+    "degrade_type": null,
+    "review_required": true
+  },
+  {
+    "file": "purchase_order_17",
+    "document_type": "purchase_order",
+    "production_method": "printed",
+    "degraded": false,
+    "degrade_type": null,
+    "review_required": false
+  },
+  {
+    "file": "purchase_order_18",
+    "document_type": "purchase_order",
+    "production_method": "handwritten",
+    "degraded": false,
+    "degrade_type": null,
+    "review_required": false
+  },
+  {
+    "file": "purchase_order_19",
+    "document_type": "purchase_order",
+    "production_method": "printed",
+    "degraded": false,
+    "degrade_type": null,
+    "review_required": false
+  },
+  {
+    "file": "purchase_order_20",
+    "document_type": "purchase_order",
+    "production_method": "printed",
+    "degraded": false,
+    "degrade_type": null,
+    "review_required": false
+  },
+  {
+    "file": "purchase_order_21",
+    "document_type": "purchase_order",
+    "production_method": "printed",
+    "degraded": true,
+    "degrade_type": "degrade-blur",
+    "review_required": false
+  },
+  {
+    "file": "purchase_order_22",
+    "document_type": "purchase_order",
+    "production_method": "printed",
+    "degraded": false,
+    "degrade_type": null,
+    "review_required": false
+  },
+  {
+    "file": "purchase_order_23",
+    "document_type": "purchase_order",
+    "production_method": "printed",
+    "degraded": true,
+    "degrade_type": "degrade-blur",
+    "review_required": false
+  },
+  {
+    "file": "purchase_order_24",
+    "document_type": "purchase_order",
+    "production_method": "printed",
+    "degraded": false,
+    "degrade_type": null,
+    "review_required": false
+  },
+  {
+    "file": "purchase_order_25",
+    "document_type": "purchase_order",
+    "production_method": "printed",
+    "degraded": true,
+    "degrade_type": "degrade-rotate",
+    "review_required": false
+  },
+  {
+    "file": "purchase_order_26",
+    "document_type": "purchase_order",
+    "production_method": "handwritten",
+    "degraded": false,
+    "degrade_type": null,
+    "review_required": false
+  },
+  {
+    "file": "purchase_order_27",
+    "document_type": "purchase_order",
+    "production_method": "printed",
+    "degraded": true,
+    "degrade_type": "degrade-lowcontrast",
+    "review_required": true
+  },
+  {
+    "file": "purchase_order_28",
+    "document_type": "purchase_order",
+    "production_method": "handwritten",
+    "degraded": false,
+    "degrade_type": null,
+    "review_required": false
+  },
+  {
+    "file": "purchase_order_29",
+    "document_type": "purchase_order",
+    "production_method": "handwritten",
+    "degraded": false,
+    "degrade_type": null,
+    "review_required": false
+  },
+  {
+    "file": "purchase_order_30",
+    "document_type": "purchase_order",
+    "production_method": "handwritten",
+    "degraded": true,
+    "degrade_type": "degrade-lowcontrast",
+    "review_required": false
+  },
+  {
+    "file": "receipt_01",
+    "document_type": "receipt",
+    "production_method": "thermal",
+    "degraded": false,
+    "degrade_type": null,
+    "review_required": false
+  },
+  {
+    "file": "receipt_02",
+    "document_type": "receipt",
+    "production_method": "thermal",
+    "degraded": true,
+    "degrade_type": "degrade-blur",
+    "review_required": false
+  },
+  {
+    "file": "receipt_03",
+    "document_type": "receipt",
+    "production_method": "printed",
+    "degraded": false,
+    "degrade_type": null,
+    "review_required": false
+  },
+  {
+    "file": "receipt_04",
+    "document_type": "receipt",
+    "production_method": "thermal",
+    "degraded": false,
+    "degrade_type": null,
+    "review_required": false
+  },
+  {
+    "file": "receipt_05",
+    "document_type": "receipt",
+    "production_method": "printed",
+    "degraded": false,
+    "degrade_type": null,
+    "review_required": false
+  },
+  {
+    "file": "receipt_06",
+    "document_type": "receipt",
+    "production_method": "printed",
+    "degraded": false,
+    "degrade_type": null,
+    "review_required": false
+  },
+  {
+    "file": "receipt_07",
+    "document_type": "receipt",
+    "production_method": "thermal",
+    "degraded": true,
+    "degrade_type": "degrade-blur",
+    "review_required": false
+  },
+  {
+    "file": "receipt_08",
+    "document_type": "receipt",
+    "production_method": "thermal",
+    "degraded": false,
+    "degrade_type": null,
+    "review_required": false
+  },
+  {
+    "file": "receipt_09",
+    "document_type": "receipt",
+    "production_method": "thermal",
+    "degraded": true,
+    "degrade_type": "degrade-fade",
+    "review_required": false
+  },
+  {
+    "file": "receipt_10",
+    "document_type": "receipt",
+    "production_method": "thermal",
+    "degraded": false,
+    "degrade_type": null,
+    "review_required": true
+  },
+  {
+    "file": "receipt_11",
+    "document_type": "receipt",
+    "production_method": "thermal",
+    "degraded": true,
+    "degrade_type": "degrade-rotate",
+    "review_required": false
+  },
+  {
+    "file": "receipt_12",
+    "document_type": "receipt",
+    "production_method": "thermal",
+    "degraded": true,
+    "degrade_type": "degrade-rotate",
+    "review_required": false
+  },
+  {
+    "file": "receipt_13",
+    "document_type": "receipt",
+    "production_method": "thermal",
+    "degraded": false,
+    "degrade_type": null,
+    "review_required": false
+  },
+  {
+    "file": "receipt_14",
+    "document_type": "receipt",
+    "production_method": "thermal",
+    "degraded": true,
+    "degrade_type": "degrade-blur",
+    "review_required": false
+  },
+  {
+    "file": "receipt_15",
+    "document_type": "receipt",
+    "production_method": "printed",
+    "degraded": true,
+    "degrade_type": "degrade-rotate",
+    "review_required": false
+  },
+  {
+    "file": "receipt_16",
+    "document_type": "receipt",
+    "production_method": "printed",
+    "degraded": false,
+    "degrade_type": null,
+    "review_required": false
+  },
+  {
+    "file": "receipt_17",
+    "document_type": "receipt",
+    "production_method": "thermal",
+    "degraded": false,
+    "degrade_type": null,
+    "review_required": true
+  },
+  {
+    "file": "receipt_18",
+    "document_type": "receipt",
+    "production_method": "thermal",
+    "degraded": true,
+    "degrade_type": "degrade-lowcontrast",
+    "review_required": false
+  },
+  {
+    "file": "receipt_19",
+    "document_type": "receipt",
+    "production_method": "thermal",
+    "degraded": true,
+    "degrade_type": "degrade-rotate",
+    "review_required": true
+  },
+  {
+    "file": "receipt_20",
+    "document_type": "receipt",
+    "production_method": "thermal",
+    "degraded": false,
+    "degrade_type": null,
+    "review_required": true
+  },
+  {
+    "file": "receipt_21",
+    "document_type": "receipt",
+    "production_method": "thermal",
+    "degraded": true,
+    "degrade_type": "degrade-rotate",
+    "review_required": true
+  },
+  {
+    "file": "receipt_22",
+    "document_type": "receipt",
+    "production_method": "thermal",
+    "degraded": false,
+    "degrade_type": null,
+    "review_required": false
+  },
+  {
+    "file": "receipt_23",
+    "document_type": "receipt",
+    "production_method": "printed",
+    "degraded": false,
+    "degrade_type": null,
+    "review_required": false
+  },
+  {
+    "file": "receipt_24",
+    "document_type": "receipt",
+    "production_method": "thermal",
+    "degraded": false,
+    "degrade_type": null,
+    "review_required": false
+  },
+  {
+    "file": "receipt_25",
+    "document_type": "receipt",
+    "production_method": "printed",
+    "degraded": false,
+    "degrade_type": null,
+    "review_required": false
+  },
+  {
+    "file": "receipt_26",
+    "document_type": "receipt",
+    "production_method": "thermal",
+    "degraded": false,
+    "degrade_type": null,
+    "review_required": false
+  },
+  {
+    "file": "receipt_27",
+    "document_type": "receipt",
+    "production_method": "thermal",
+    "degraded": false,
+    "degrade_type": null,
+    "review_required": false
+  },
+  {
+    "file": "receipt_28",
+    "document_type": "receipt",
+    "production_method": "thermal",
+    "degraded": true,
+    "degrade_type": "degrade-blur",
+    "review_required": false
+  },
+  {
+    "file": "receipt_29",
+    "document_type": "receipt",
+    "production_method": "thermal",
+    "degraded": true,
+    "degrade_type": "degrade-rotate",
+    "review_required": false
+  },
+  {
+    "file": "receipt_30",
+    "document_type": "receipt",
+    "production_method": "thermal",
+    "degraded": true,
+    "degrade_type": "degrade-blur",
+    "review_required": false
+  },
+  {
+    "file": "delivery_note_01",
+    "document_type": "delivery_note",
+    "production_method": "handwritten",
+    "degraded": true,
+    "degrade_type": "degrade-lowcontrast",
+    "review_required": true
+  },
+  {
+    "file": "delivery_note_02",
+    "document_type": "delivery_note",
+    "production_method": "handwritten",
+    "degraded": false,
+    "degrade_type": null,
+    "review_required": false
+  },
+  {
+    "file": "delivery_note_03",
+    "document_type": "delivery_note",
+    "production_method": "handwritten",
+    "degraded": true,
+    "degrade_type": "degrade-rotate",
+    "review_required": false
+  },
+  {
+    "file": "delivery_note_04",
+    "document_type": "delivery_note",
+    "production_method": "handwritten",
+    "degraded": true,
+    "degrade_type": "degrade-lowcontrast",
+    "review_required": false
+  },
+  {
+    "file": "delivery_note_05",
+    "document_type": "delivery_note",
+    "production_method": "printed",
+    "degraded": false,
+    "degrade_type": null,
+    "review_required": true
+  },
+  {
+    "file": "delivery_note_06",
+    "document_type": "delivery_note",
+    "production_method": "thermal",
+    "degraded": false,
+    "degrade_type": null,
+    "review_required": false
+  },
+  {
+    "file": "delivery_note_07",
+    "document_type": "delivery_note",
+    "production_method": "handwritten",
+    "degraded": false,
+    "degrade_type": null,
+    "review_required": false
+  },
+  {
+    "file": "delivery_note_08",
+    "document_type": "delivery_note",
+    "production_method": "thermal",
+    "degraded": false,
+    "degrade_type": null,
+    "review_required": false
+  },
+  {
+    "file": "delivery_note_09",
+    "document_type": "delivery_note",
+    "production_method": "handwritten",
+    "degraded": true,
+    "degrade_type": "degrade-rotate",
+    "review_required": false
+  },
+  {
+    "file": "delivery_note_10",
+    "document_type": "delivery_note",
+    "production_method": "handwritten",
+    "degraded": true,
+    "degrade_type": "degrade-lowcontrast",
+    "review_required": false
+  },
+  {
+    "file": "delivery_note_11",
+    "document_type": "delivery_note",
+    "production_method": "handwritten",
+    "degraded": true,
+    "degrade_type": "degrade-lowcontrast",
+    "review_required": true
+  },
+  {
+    "file": "delivery_note_12",
+    "document_type": "delivery_note",
+    "production_method": "handwritten",
+    "degraded": true,
+    "degrade_type": "degrade-blur",
+    "review_required": true
+  },
+  {
+    "file": "delivery_note_13",
+    "document_type": "delivery_note",
+    "production_method": "printed",
+    "degraded": false,
+    "degrade_type": null,
+    "review_required": false
+  },
+  {
+    "file": "delivery_note_14",
+    "document_type": "delivery_note",
+    "production_method": "printed",
+    "degraded": false,
+    "degrade_type": null,
+    "review_required": false
+  },
+  {
+    "file": "delivery_note_15",
+    "document_type": "delivery_note",
+    "production_method": "printed",
+    "degraded": true,
+    "degrade_type": "degrade-lowcontrast",
+    "review_required": false
+  },
+  {
+    "file": "delivery_note_16",
+    "document_type": "delivery_note",
+    "production_method": "printed",
+    "degraded": true,
+    "degrade_type": "degrade-lowcontrast",
+    "review_required": false
+  },
+  {
+    "file": "delivery_note_17",
+    "document_type": "delivery_note",
+    "production_method": "handwritten",
+    "degraded": true,
+    "degrade_type": "degrade-blur",
+    "review_required": false
+  },
+  {
+    "file": "delivery_note_18",
+    "document_type": "delivery_note",
+    "production_method": "handwritten",
+    "degraded": true,
+    "degrade_type": "degrade-lowcontrast",
+    "review_required": false
+  },
+  {
+    "file": "delivery_note_19",
+    "document_type": "delivery_note",
+    "production_method": "handwritten",
+    "degraded": false,
+    "degrade_type": null,
+    "review_required": false
+  },
+  {
+    "file": "delivery_note_20",
+    "document_type": "delivery_note",
+    "production_method": "handwritten",
+    "degraded": false,
+    "degrade_type": null,
+    "review_required": false
+  },
+  {
+    "file": "delivery_note_21",
+    "document_type": "delivery_note",
+    "production_method": "thermal",
+    "degraded": false,
+    "degrade_type": null,
+    "review_required": true
+  },
+  {
+    "file": "delivery_note_22",
+    "document_type": "delivery_note",
+    "production_method": "handwritten",
+    "degraded": false,
+    "degrade_type": null,
+    "review_required": false
+  },
+  {
+    "file": "delivery_note_23",
+    "document_type": "delivery_note",
+    "production_method": "printed",
+    "degraded": false,
+    "degrade_type": null,
+    "review_required": false
+  },
+  {
+    "file": "delivery_note_24",
+    "document_type": "delivery_note",
+    "production_method": "printed",
+    "degraded": true,
+    "degrade_type": "degrade-blur",
+    "review_required": false
+  },
+  {
+    "file": "delivery_note_25",
+    "document_type": "delivery_note",
+    "production_method": "printed",
+    "degraded": false,
+    "degrade_type": null,
+    "review_required": false
+  },
+  {
+    "file": "delivery_note_26",
+    "document_type": "delivery_note",
+    "production_method": "printed",
+    "degraded": false,
+    "degrade_type": null,
+    "review_required": true
+  },
+  {
+    "file": "delivery_note_27",
+    "document_type": "delivery_note",
+    "production_method": "printed",
+    "degraded": false,
+    "degrade_type": null,
+    "review_required": true
+  },
+  {
+    "file": "delivery_note_28",
+    "document_type": "delivery_note",
+    "production_method": "handwritten",
+    "degraded": false,
+    "degrade_type": null,
+    "review_required": false
+  },
+  {
+    "file": "delivery_note_29",
+    "document_type": "delivery_note",
+    "production_method": "printed",
+    "degraded": false,
+    "degrade_type": null,
+    "review_required": true
+  },
+  {
+    "file": "delivery_note_30",
+    "document_type": "delivery_note",
+    "production_method": "handwritten",
+    "degraded": false,
+    "degrade_type": null,
+    "review_required": false
+  },
+  {
+    "file": "customer_copy_01",
+    "document_type": "customer_copy",
+    "production_method": "handwritten",
+    "degraded": true,
+    "degrade_type": "degrade-blur",
+    "review_required": false
+  },
+  {
+    "file": "customer_copy_02",
+    "document_type": "customer_copy",
+    "production_method": "printed",
+    "degraded": false,
+    "degrade_type": null,
+    "review_required": false
+  },
+  {
+    "file": "customer_copy_03",
+    "document_type": "customer_copy",
+    "production_method": "thermal",
+    "degraded": false,
+    "degrade_type": null,
+    "review_required": false
+  },
+  {
+    "file": "customer_copy_04",
+    "document_type": "customer_copy",
+    "production_method": "thermal",
+    "degraded": false,
+    "degrade_type": null,
+    "review_required": false
+  },
+  {
+    "file": "customer_copy_05",
+    "document_type": "customer_copy",
+    "production_method": "thermal",
+    "degraded": true,
+    "degrade_type": "degrade-fade",
+    "review_required": true
+  },
+  {
+    "file": "customer_copy_06",
+    "document_type": "customer_copy",
+    "production_method": "printed",
+    "degraded": false,
+    "degrade_type": null,
+    "review_required": false
+  },
+  {
+    "file": "customer_copy_07",
+    "document_type": "customer_copy",
+    "production_method": "printed",
+    "degraded": false,
+    "degrade_type": null,
+    "review_required": false
+  },
+  {
+    "file": "customer_copy_08",
+    "document_type": "customer_copy",
+    "production_method": "thermal",
+    "degraded": true,
+    "degrade_type": "degrade-blur",
+    "review_required": false
+  },
+  {
+    "file": "customer_copy_09",
+    "document_type": "customer_copy",
+    "production_method": "printed",
+    "degraded": false,
+    "degrade_type": null,
+    "review_required": true
+  },
+  {
+    "file": "customer_copy_10",
+    "document_type": "customer_copy",
+    "production_method": "printed",
+    "degraded": false,
+    "degrade_type": null,
+    "review_required": true
+  },
+  {
+    "file": "customer_copy_11",
+    "document_type": "customer_copy",
+    "production_method": "printed",
+    "degraded": false,
+    "degrade_type": null,
+    "review_required": false
+  },
+  {
+    "file": "customer_copy_12",
+    "document_type": "customer_copy",
+    "production_method": "thermal",
+    "degraded": true,
+    "degrade_type": "degrade-blur",
+    "review_required": false
+  },
+  {
+    "file": "customer_copy_13",
+    "document_type": "customer_copy",
+    "production_method": "thermal",
+    "degraded": true,
+    "degrade_type": "degrade-fade",
+    "review_required": false
+  },
+  {
+    "file": "customer_copy_14",
+    "document_type": "customer_copy",
+    "production_method": "handwritten",
+    "degraded": false,
+    "degrade_type": null,
+    "review_required": false
+  },
+  {
+    "file": "customer_copy_15",
+    "document_type": "customer_copy",
+    "production_method": "printed",
+    "degraded": true,
+    "degrade_type": "degrade-blur",
+    "review_required": false
+  },
+  {
+    "file": "customer_copy_16",
+    "document_type": "customer_copy",
+    "production_method": "handwritten",
+    "degraded": false,
+    "degrade_type": null,
+    "review_required": false
+  },
+  {
+    "file": "customer_copy_17",
+    "document_type": "customer_copy",
+    "production_method": "printed",
+    "degraded": false,
+    "degrade_type": null,
+    "review_required": false
+  },
+  {
+    "file": "customer_copy_18",
+    "document_type": "customer_copy",
+    "production_method": "printed",
+    "degraded": false,
+    "degrade_type": null,
+    "review_required": false
+  },
+  {
+    "file": "customer_copy_19",
+    "document_type": "customer_copy",
+    "production_method": "printed",
+    "degraded": false,
+    "degrade_type": null,
+    "review_required": false
+  },
+  {
+    "file": "customer_copy_20",
+    "document_type": "customer_copy",
+    "production_method": "printed",
+    "degraded": true,
+    "degrade_type": "degrade-blur",
+    "review_required": false
+  },
+  {
+    "file": "customer_copy_21",
+    "document_type": "customer_copy",
+    "production_method": "handwritten",
+    "degraded": false,
+    "degrade_type": null,
+    "review_required": true
+  },
+  {
+    "file": "customer_copy_22",
+    "document_type": "customer_copy",
+    "production_method": "printed",
+    "degraded": false,
+    "degrade_type": null,
+    "review_required": false
+  },
+  {
+    "file": "customer_copy_23",
+    "document_type": "customer_copy",
+    "production_method": "printed",
+    "degraded": false,
+    "degrade_type": null,
+    "review_required": false
+  },
+  {
+    "file": "customer_copy_24",
+    "document_type": "customer_copy",
+    "production_method": "handwritten",
+    "degraded": false,
+    "degrade_type": null,
+    "review_required": false
+  },
+  {
+    "file": "customer_copy_25",
+    "document_type": "customer_copy",
+    "production_method": "handwritten",
+    "degraded": true,
+    "degrade_type": "degrade-blur",
+    "review_required": false
+  },
+  {
+    "file": "customer_copy_26",
+    "document_type": "customer_copy",
+    "production_method": "thermal",
+    "degraded": false,
+    "degrade_type": null,
+    "review_required": true
+  },
+  {
+    "file": "customer_copy_27",
+    "document_type": "customer_copy",
+    "production_method": "printed",
+    "degraded": false,
+    "degrade_type": null,
+    "review_required": false
+  },
+  {
+    "file": "customer_copy_28",
+    "document_type": "customer_copy",
+    "production_method": "handwritten",
+    "degraded": false,
+    "degrade_type": null,
+    "review_required": false
+  },
+  {
+    "file": "customer_copy_29",
+    "document_type": "customer_copy",
+    "production_method": "handwritten",
+    "degraded": true,
+    "degrade_type": "degrade-rotate",
+    "review_required": false
+  },
+  {
+    "file": "customer_copy_30",
+    "document_type": "customer_copy",
+    "production_method": "printed",
+    "degraded": false,
+    "degrade_type": null,
+    "review_required": false
+  }
+]

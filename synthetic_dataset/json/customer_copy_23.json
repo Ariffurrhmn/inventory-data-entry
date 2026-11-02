@@ -1,0 +1,59 @@
+{
+  "submission_id": "1a0e801d6b8-22-3370",
+  "document_type": "customer_copy",
+  "document_type_confidence": 0.97,
+  "supplier_name": "Bengal Snacks & Confectionery",
+  "supplier_address": "78 Cantonment Road, Rajshahi",
+  "shop_name": "Al-Amin General Store",
+  "document_date": "2026-08-19",
+  "document_number": "CC-12974",
+  "production_method": "printed",
+  "line_items": [
+    {
+      "raw_text": "Chocolate Bar 45g",
+      "quantity": 15,
+      "unit_price": 30,
+      "line_total": 450,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Lux Soap 100g",
+      "quantity": 12,
+      "unit_price": 35,
+      "line_total": 420,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Lipton Tea 100g box",
+      "quantity": 21,
+      "unit_price": 95,
+      "line_total": 1995,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Instant Noodles pack",
+      "quantity": 18,
+      "unit_price": 20,
+      "line_total": 360,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Tibet Toothpaste 100g",
+      "quantity": 23,
+      "unit_price": 60,
+      "line_total": 1380,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Bottled Soda Water 1L",
+      "quantity": 7,
+      "unit_price": 22,
+      "line_total": 154,
+      "arithmetic_check": "passed"
+    }
+  ],
+  "grand_total": 4759,
+  "review_required": false,
+  "_synthetic": true,
+  "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+}

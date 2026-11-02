@@ -1,0 +1,59 @@
+{
+  "submission_id": "1a0e801d666-8-2069",
+  "document_type": "receipt",
+  "document_type_confidence": 0.96,
+  "supplier_name": "Farida Household Goods",
+  "supplier_address": "78 Cantonment Road, Rajshahi",
+  "shop_name": "New Market Traders",
+  "document_date": "2026-03-02",
+  "document_number": "RCPT-74877",
+  "production_method": "thermal",
+  "line_items": [
+    {
+      "raw_text": "Chocolate Bar 45g",
+      "quantity": 10,
+      "unit_price": 30,
+      "line_total": 300,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Sugar 1kg pack",
+      "quantity": 19,
+      "unit_price": 130,
+      "line_total": 2470,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Lux Soap 100g",
+      "quantity": 17,
+      "unit_price": 35,
+      "line_total": 595,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Cooking Oil 1L bottle",
+      "quantity": 18,
+      "unit_price": 175,
+      "line_total": 3150,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Salt 1kg pack",
+      "quantity": 20,
+      "unit_price": 40,
+      "line_total": 800,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Pran Mango Juice 250ml",
+      "quantity": 4,
+      "unit_price": 12,
+      "line_total": 48,
+      "arithmetic_check": "passed"
+    }
+  ],
+  "grand_total": 7363,
+  "review_required": false,
+  "_synthetic": true,
+  "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+}

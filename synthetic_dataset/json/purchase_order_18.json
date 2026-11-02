@@ -1,0 +1,59 @@
+{
+  "submission_id": "1a0e801d64c-17-2355",
+  "document_type": "purchase_order",
+  "document_type_confidence": 0.93,
+  "supplier_name": "Bengal Snacks & Confectionery",
+  "supplier_address": "12 New Market, Khulna",
+  "shop_name": "Mamun Store",
+  "document_date": "2026-09-23",
+  "document_number": "PO-30892",
+  "production_method": "handwritten",
+  "line_items": [
+    {
+      "raw_text": "Lux Soap 100g",
+      "quantity": 25,
+      "unit_price": 35,
+      "line_total": 875,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Tibet Toothpaste 100g",
+      "quantity": 18,
+      "unit_price": 60,
+      "line_total": 1080,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Salt 1kg pack",
+      "quantity": 10,
+      "unit_price": 40,
+      "line_total": 400,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Potato Chips 60g",
+      "quantity": 27,
+      "unit_price": 25,
+      "line_total": 675,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Lipton Tea 100g box",
+      "quantity": 21,
+      "unit_price": 95,
+      "line_total": 1995,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Bottled Soda Water 1L",
+      "quantity": 28,
+      "unit_price": 22,
+      "line_total": 616,
+      "arithmetic_check": "passed"
+    }
+  ],
+  "grand_total": 5641,
+  "review_required": false,
+  "_synthetic": true,
+  "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+}

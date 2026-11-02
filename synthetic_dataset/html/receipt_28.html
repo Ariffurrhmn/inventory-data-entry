@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8"><style>
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@500;600&family=Courier+Prime:wght@400;700&family=Inter:wght@400;500;600;700&display=swap');
+* { box-sizing: border-box; }
+body { margin: 0; padding: 24px; background: #e9e9e9; font-family: Inter, sans-serif; }
+.sheet { width: 720px; margin: 0 auto; background: #fff; padding: 40px 48px; box-shadow: 0 2px 12px rgba(0,0,0,0.15); }
+
+/* printed */
+.sheet.printed { font-family: 'Inter', Arial, sans-serif; color: #1a1a1a; }
+.sheet.printed .supplier-name { font-size: 20px; font-weight: 700; letter-spacing: 0.5px; }
+.sheet.printed .supplier-addr { font-size: 13px; color: #444; margin-bottom: 14px; }
+.sheet.printed .doc-title { font-size: 16px; font-weight: 700; text-align: center; border-top: 2px solid #222; border-bottom: 2px solid #222; padding: 6px 0; margin: 12px 0; letter-spacing: 1px; }
+.sheet.printed .meta-row { display: flex; justify-content: space-between; font-size: 13px; margin-bottom: 4px; color: #333; }
+.sheet.printed table { width: 100%; border-collapse: collapse; margin-top: 16px; font-size: 13px; }
+.sheet.printed th { text-align: left; border-bottom: 1.5px solid #222; padding: 6px 4px; font-weight: 700; }
+.sheet.printed td { padding: 6px 4px; border-bottom: 1px solid #ccc; }
+.sheet.printed .num { text-align: right; }
+.sheet.printed .totals-row { text-align: right; font-weight: 700; font-size: 14px; margin-top: 14px; border-top: 2px solid #222; padding-top: 8px; }
+
+/* thermal */
+.sheet.thermal { font-family: 'Courier Prime', monospace; width: 380px; padding: 24px 20px; color: #111; font-size: 13px; background: #fdfdf7; }
+.sheet.thermal .t-center { text-align: center; }
+.sheet.thermal .t-bold { font-weight: 700; }
+.sheet.thermal .t-dash { letter-spacing: 1px; margin: 6px 0; }
+.sheet.thermal .t-line { display: flex; justify-content: space-between; margin: 4px 0; }
+.sheet.thermal .t-name { flex: 1; }
+.sheet.thermal .t-qtyprice { white-space: nowrap; margin-left: 8px; }
+
+/* handwritten */
+.sheet.handwritten { font-family: 'Caveat', cursive; color: #16305c; font-size: 22px; background: #fffef2; background-image: repeating-linear-gradient(#fffef2, #fffef2 34px, #d9d9c8 35px); }
+.sheet.handwritten .hw-title { font-size: 28px; font-weight: 600; text-decoration: underline; margin-bottom: 8px; }
+.sheet.handwritten .hw-meta { font-size: 20px; margin-bottom: 4px; }
+.sheet.handwritten table.hw-table { width: 100%; margin-top: 10px; border-collapse: collapse; font-size: 20px; }
+.sheet.handwritten th { text-align: left; border-bottom: 2px solid #16305c; padding: 4px; }
+.sheet.handwritten td { padding: 4px; }
+.sheet.handwritten .num { text-align: right; }
+.sheet.handwritten .hw-total { margin-top: 10px; font-size: 24px; font-weight: 600; }
+
+/* degradation overlays */
+.degrade-blur { filter: blur(0.6px) contrast(0.95); }
+.degrade-rotate { transform: rotate(var(--rot, -1.5deg)); }
+.degrade-fade { filter: contrast(0.8) brightness(1.08) saturate(0.7); }
+.degrade-lowcontrast { filter: contrast(0.72) brightness(1.05); }
+
+.wrap { --rot: 0deg; }
+</style></head>
+<body><div class="wrap degrade-blur">
+  <div class="sheet thermal">
+    <div class="t-center t-bold">MEGHNA BEVERAGES</div>
+    <div class="t-center">12 New Market, Khulna</div>
+    <div class="t-dash">------------------------------</div>
+    <div class="t-center t-bold">RECEIPT</div>
+    <div>Date: 2026-02-16</div>
+    <div>No: RCPT-68280</div>
+    <div>Shop: New Market Traders</div>
+    <div class="t-dash">------------------------------</div>
+    
+    <div class="t-line">
+      <div class="t-name">Sprite 500ml can</div>
+      <div class="t-qtyprice">1 x 15.00 = 15.00</div>
+    </div>
+    <div class="t-line">
+      <div class="t-name">Potato Chips 60g</div>
+      <div class="t-qtyprice">17 x 25.00 = 425.00</div>
+    </div>
+    <div class="t-line">
+      <div class="t-name">Tibet Toothpaste 100g</div>
+      <div class="t-qtyprice">30 x 60.00 = 1800.00</div>
+    </div>
+    <div class="t-line">
+      <div class="t-name">Bottled Soda Water 1L</div>
+      <div class="t-qtyprice">3 x 22.00 = 66.00</div>
+    </div>
+    <div class="t-line">
+      <div class="t-name">Wheat Flour 2kg bag</div>
+      <div class="t-qtyprice">3 x 150.00 = 450.00</div>
+    </div>
+    <div class="t-line">
+      <div class="t-name">Sugar 1kg pack</div>
+      <div class="t-qtyprice">5 x 130.00 = 650.00</div>
+    </div>
+    <div class="t-dash">------------------------------</div>
+    <div class="t-bold">TOTAL: 3406.00</div>
+    <div class="t-center">Thank you!</div>
+  </div></div></body></html>

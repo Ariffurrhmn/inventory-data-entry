@@ -1,0 +1,59 @@
+{
+  "submission_id": "1a0e801d6a2-1-4434",
+  "document_type": "customer_copy",
+  "document_type_confidence": 0.95,
+  "supplier_name": "ACME Beverage Distributors",
+  "supplier_address": "12 New Market, Khulna",
+  "shop_name": "Al-Amin General Store",
+  "document_date": "2026-03-18",
+  "document_number": "CC-73448",
+  "production_method": "printed",
+  "line_items": [
+    {
+      "raw_text": "Potato Chips 60g",
+      "quantity": 18,
+      "unit_price": 25,
+      "line_total": 450,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Sugar 1kg pack",
+      "quantity": 10,
+      "unit_price": 130,
+      "line_total": 1300,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Chocolate Bar 45g",
+      "quantity": 7,
+      "unit_price": 30,
+      "line_total": 210,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Lux Soap 100g",
+      "quantity": 20,
+      "unit_price": 35,
+      "line_total": 700,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Cooking Oil 1L bottle",
+      "quantity": 4,
+      "unit_price": 175,
+      "line_total": 700,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Instant Noodles pack",
+      "quantity": 18,
+      "unit_price": 20,
+      "line_total": 360,
+      "arithmetic_check": "passed"
+    }
+  ],
+  "grand_total": 3720,
+  "review_required": false,
+  "_synthetic": true,
+  "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+}

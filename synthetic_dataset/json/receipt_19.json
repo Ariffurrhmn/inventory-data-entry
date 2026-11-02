@@ -1,0 +1,31 @@
+{
+  "submission_id": "1a0e801d672-18-7073",
+  "document_type": "receipt",
+  "document_type_confidence": 0.92,
+  "supplier_name": "Rahman & Sons Trading",
+  "supplier_address": "221 Motijheel C/A, Dhaka",
+  "shop_name": "Sultana Variety Store",
+  "document_date": "2026-07-26",
+  "document_number": "RCPT-28533",
+  "production_method": "thermal",
+  "line_items": [
+    {
+      "raw_text": "Detergent Powder 1kg",
+      "quantity": 17,
+      "unit_price": 110,
+      "line_total": 2090,
+      "arithmetic_check": "failed"
+    },
+    {
+      "raw_text": "Lipton Tea 100g box",
+      "quantity": 6,
+      "unit_price": 95,
+      "line_total": 570,
+      "arithmetic_check": "passed"
+    }
+  ],
+  "grand_total": 2660,
+  "review_required": true,
+  "_synthetic": true,
+  "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+}

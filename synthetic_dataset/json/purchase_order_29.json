@@ -1,0 +1,38 @@
+{
+  "submission_id": "1a0e801d65a-28-2737",
+  "document_type": "purchase_order",
+  "document_type_confidence": 0.97,
+  "supplier_name": "Padma Distribution House",
+  "supplier_address": "221 Motijheel C/A, Dhaka",
+  "shop_name": "City Grocery",
+  "document_date": "2026-01-22",
+  "document_number": "PO-65581",
+  "production_method": "handwritten",
+  "line_items": [
+    {
+      "raw_text": "Basmati Rice 5kg bag",
+      "quantity": 1,
+      "unit_price": 650,
+      "line_total": 650,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Chocolate Bar 45g",
+      "quantity": 28,
+      "unit_price": 30,
+      "line_total": 840,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Bottled Soda Water 1L",
+      "quantity": 3,
+      "unit_price": 22,
+      "line_total": 66,
+      "arithmetic_check": "passed"
+    }
+  ],
+  "grand_total": 1556,
+  "review_required": false,
+  "_synthetic": true,
+  "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+}

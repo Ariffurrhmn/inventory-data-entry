@@ -1,0 +1,59 @@
+{
+  "submission_id": "1a0e801d67e-1-9022",
+  "document_type": "delivery_note",
+  "document_type_confidence": 0.92,
+  "supplier_name": "Karim Enterprise",
+  "supplier_address": "123 Market Road, Dhaka",
+  "shop_name": "City Grocery",
+  "document_date": "2026-02-24",
+  "document_number": "DN-10357",
+  "production_method": "handwritten",
+  "line_items": [
+    {
+      "raw_text": "Fresh Milk 1L carton",
+      "quantity": 29,
+      "unit_price": 85,
+      "line_total": 2465,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Salt 1kg pack",
+      "quantity": 7,
+      "unit_price": 40,
+      "line_total": 280,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Lipton Tea 100g box",
+      "quantity": 2,
+      "unit_price": 95,
+      "line_total": 190,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Cooking Oil 1L bottle",
+      "quantity": 9,
+      "unit_price": 175,
+      "line_total": 1575,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Bottled Soda Water 1L",
+      "quantity": 28,
+      "unit_price": 22,
+      "line_total": 616,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Lux Soap 100g",
+      "quantity": 18,
+      "unit_price": 35,
+      "line_total": 630,
+      "arithmetic_check": "passed"
+    }
+  ],
+  "grand_total": 5756,
+  "review_required": false,
+  "_synthetic": true,
+  "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+}

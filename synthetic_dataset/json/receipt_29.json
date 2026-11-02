@@ -1,0 +1,45 @@
+{
+  "submission_id": "1a0e801d67b-28-2042",
+  "document_type": "receipt",
+  "document_type_confidence": 0.97,
+  "supplier_name": "ACME Beverage Distributors",
+  "supplier_address": "221 Motijheel C/A, Dhaka",
+  "shop_name": "City Grocery",
+  "document_date": "2026-03-08",
+  "document_number": "RCPT-87592",
+  "production_method": "thermal",
+  "line_items": [
+    {
+      "raw_text": "Chocolate Bar 45g",
+      "quantity": 28,
+      "unit_price": 30,
+      "line_total": 840,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Mineral Water 1L",
+      "quantity": 20,
+      "unit_price": 20,
+      "line_total": 400,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Bottled Soda Water 1L",
+      "quantity": 8,
+      "unit_price": 22,
+      "line_total": 176,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Fresh Eggs (dozen)",
+      "quantity": 11,
+      "unit_price": 140,
+      "line_total": 1540,
+      "arithmetic_check": "passed"
+    }
+  ],
+  "grand_total": 2956,
+  "review_required": false,
+  "_synthetic": true,
+  "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+}

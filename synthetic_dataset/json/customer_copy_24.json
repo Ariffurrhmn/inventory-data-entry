@@ -1,0 +1,38 @@
+{
+  "submission_id": "1a0e801d6b9-23-4058",
+  "document_type": "customer_copy",
+  "document_type_confidence": 0.92,
+  "supplier_name": "ACME Beverage Distributors",
+  "supplier_address": "45 Station Bazar, Chattogram",
+  "shop_name": "New Market Traders",
+  "document_date": "2026-01-19",
+  "document_number": "CC-58270",
+  "production_method": "handwritten",
+  "line_items": [
+    {
+      "raw_text": "Instant Noodles pack",
+      "quantity": 7,
+      "unit_price": 20,
+      "line_total": 140,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Pran Biscuit Pack",
+      "quantity": 26,
+      "unit_price": 18,
+      "line_total": 468,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Chocolate Bar 45g",
+      "quantity": 2,
+      "unit_price": 30,
+      "line_total": 60,
+      "arithmetic_check": "passed"
+    }
+  ],
+  "grand_total": 668,
+  "review_required": false,
+  "_synthetic": true,
+  "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+}

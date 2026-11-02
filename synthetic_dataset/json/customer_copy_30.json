@@ -1,0 +1,45 @@
+{
+  "submission_id": "1a0e801d6bf-29-6383",
+  "document_type": "customer_copy",
+  "document_type_confidence": 0.92,
+  "supplier_name": "Padma Distribution House",
+  "supplier_address": "12 New Market, Khulna",
+  "shop_name": "New Market Traders",
+  "document_date": "2026-04-03",
+  "document_number": "CC-34994",
+  "production_method": "printed",
+  "line_items": [
+    {
+      "raw_text": "Instant Noodles pack",
+      "quantity": 27,
+      "unit_price": 20,
+      "line_total": 540,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Detergent Powder 1kg",
+      "quantity": 29,
+      "unit_price": 110,
+      "line_total": 3190,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Pran Biscuit Pack",
+      "quantity": 13,
+      "unit_price": 18,
+      "line_total": 234,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Mineral Water 1L",
+      "quantity": 29,
+      "unit_price": 20,
+      "line_total": 580,
+      "arithmetic_check": "passed"
+    }
+  ],
+  "grand_total": 4544,
+  "review_required": false,
+  "_synthetic": true,
+  "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+}

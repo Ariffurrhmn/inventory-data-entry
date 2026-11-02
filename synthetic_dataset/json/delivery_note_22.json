@@ -1,0 +1,31 @@
+{
+  "submission_id": "1a0e801d697-21-1421",
+  "document_type": "delivery_note",
+  "document_type_confidence": 0.93,
+  "supplier_name": "Dhaka Wholesale Mart",
+  "supplier_address": "12 New Market, Khulna",
+  "shop_name": "City Grocery",
+  "document_date": "2026-08-05",
+  "document_number": "DN-83126",
+  "production_method": "handwritten",
+  "line_items": [
+    {
+      "raw_text": "Lux Soap 100g",
+      "quantity": 22,
+      "unit_price": 35,
+      "line_total": 770,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Bottled Soda Water 1L",
+      "quantity": 19,
+      "unit_price": 22,
+      "line_total": 418,
+      "arithmetic_check": "passed"
+    }
+  ],
+  "grand_total": 1188,
+  "review_required": false,
+  "_synthetic": true,
+  "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+}

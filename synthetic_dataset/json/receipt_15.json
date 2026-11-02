@@ -1,0 +1,31 @@
+{
+  "submission_id": "1a0e801d66c-14-9533",
+  "document_type": "receipt",
+  "document_type_confidence": 0.95,
+  "supplier_name": "Dhaka Wholesale Mart",
+  "supplier_address": "221 Motijheel C/A, Dhaka",
+  "shop_name": "New Market Traders",
+  "document_date": "2026-09-18",
+  "document_number": "RCPT-30716",
+  "production_method": "printed",
+  "line_items": [
+    {
+      "raw_text": "Fresh Milk 1L carton",
+      "quantity": 20,
+      "unit_price": 85,
+      "line_total": 1700,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Mineral Water 1L",
+      "quantity": 8,
+      "unit_price": 20,
+      "line_total": 160,
+      "arithmetic_check": "passed"
+    }
+  ],
+  "grand_total": 1860,
+  "review_required": false,
+  "_synthetic": true,
+  "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+}

@@ -1,0 +1,59 @@
+{
+  "submission_id": "1a0e801d661-3-5634",
+  "document_type": "receipt",
+  "document_type_confidence": 0.93,
+  "supplier_name": "Chittagong Import Co.",
+  "supplier_address": "12 New Market, Khulna",
+  "shop_name": "Bismillah Store",
+  "document_date": "2026-05-01",
+  "document_number": "RCPT-57408",
+  "production_method": "thermal",
+  "line_items": [
+    {
+      "raw_text": "Lux Soap 100g",
+      "quantity": 2,
+      "unit_price": 35,
+      "line_total": 70,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Chocolate Bar 45g",
+      "quantity": 8,
+      "unit_price": 30,
+      "line_total": 240,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Pran Mango Juice 250ml",
+      "quantity": 20,
+      "unit_price": 12,
+      "line_total": 240,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Basmati Rice 5kg bag",
+      "quantity": 29,
+      "unit_price": 650,
+      "line_total": 18850,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Salt 1kg pack",
+      "quantity": 24,
+      "unit_price": 40,
+      "line_total": 960,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Fresh Eggs (dozen)",
+      "quantity": 21,
+      "unit_price": 140,
+      "line_total": 2940,
+      "arithmetic_check": "passed"
+    }
+  ],
+  "grand_total": 23300,
+  "review_required": false,
+  "_synthetic": true,
+  "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+}

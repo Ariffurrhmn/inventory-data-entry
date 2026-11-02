@@ -1,0 +1,52 @@
+{
+  "submission_id": "1a0e801d63a-4-5242",
+  "document_type": "purchase_order",
+  "document_type_confidence": 0.96,
+  "supplier_name": "Star Trading Corporation",
+  "supplier_address": "123 Market Road, Dhaka",
+  "shop_name": "Sultana Variety Store",
+  "document_date": "2026-01-27",
+  "document_number": "PO-20738",
+  "production_method": "handwritten",
+  "line_items": [
+    {
+      "raw_text": "Fresh Milk 1L carton",
+      "quantity": 19,
+      "unit_price": 85,
+      "line_total": 1615,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Pran Mango Juice 250ml",
+      "quantity": 11,
+      "unit_price": 12,
+      "line_total": 132,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Sugar 1kg pack",
+      "quantity": 1,
+      "unit_price": 130,
+      "line_total": 130,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Bottled Soda Water 1L",
+      "quantity": 6,
+      "unit_price": 22,
+      "line_total": 132,
+      "arithmetic_check": "passed"
+    },
+    {
+      "raw_text": "Chocolate Bar 45g",
+      "quantity": 11,
+      "unit_price": 30,
+      "line_total": 330,
+      "arithmetic_check": "passed"
+    }
+  ],
+  "grand_total": 2339,
+  "review_required": false,
+  "_synthetic": true,
+  "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+}
