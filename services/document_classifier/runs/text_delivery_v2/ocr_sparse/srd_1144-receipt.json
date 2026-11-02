@@ -1,0 +1,13 @@
+{
+  "sample_id": "srd_1144-receipt",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "5772787bf3b9d80e5e40da17563d96d911983a2f9bf668c8eeda012435967a9f",
+  "full_text": "CHLOEBT\r\n\r\n81 Ludlow St\r\n\r\nNew York, NY 10002\r\n\r\nTel 212 677-0067\r\n\r\nCheck Name: HWANG,HYUN\r\n\r\nServer: Bar\r\n\r\nDate: 08/03/18\r\n\r\nTable:\r\n\r\nGuests:\r\n\r\n1\r\n\r\nEm\r\n\r\n—[Seat 1 -\r\n\r\n2 HOUSE VODKA\r\n\r\n$24.00\r\n\r\n1 HOUSE TEQUILA\r\n\r\n$1\r\n\r\n2.00\r\n\r\nSubtotal:\r\n\r\n$36.00\r\n\r\nTax::\r\n\r\n$3.19\r\n\r\nSub w/Tax:\r\n\r\n9.19\r\n\r\nGratuity:\r\n\r\n$7.20\r\n\r\n$46.40\r\n\r\n(ft bn\r\n\r\ntp —\r\n\r\nVisa ENV\r\n\r\n$46.40\r\n\r\nThank You\r\n",
+  "status": "unreviewed_OCR_output"
+}

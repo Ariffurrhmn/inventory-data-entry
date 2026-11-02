@@ -1,0 +1,16 @@
+{
+  "sample_id": "de306abe6ff8",
+  "image_path": "services\\document_classifier\\data\\images\\de306abe6ff8.jpg",
+  "image_sha256": "08c55cbe511ad9892b7966badef1881b7b70cdee83e3401d95922df1acf6586f",
+  "full_text": "HGT Company PURCHASE ORDER\n\nShop-12,\nPanjora, Gazipur, Number: PO-18\nF— ; Date: 2026-09-18\nanglases\nDue Date: 2026-10-16\nBILL TO\nXK Company\nShop-43,\nMirpue-10\nDhaka,\nBanglasesh\nDESCRIPTION QTY RATE AMOUNT\nWater Bottle 4 $3.50 $16.52\nWallet 10 $2.50 $29.50\nLED Desk Lamp 10 $8.61 $101.60\nCeramic Mug 1 $4.50 $5.31\nEarphones 1 $2.01 $2.37\n\nTaxable Amount: $131.61\n\nTotal: $155.30\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\de306abe6ff8.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

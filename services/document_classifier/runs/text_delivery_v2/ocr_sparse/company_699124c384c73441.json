@@ -1,0 +1,13 @@
+{
+  "sample_id": "company_699124c384c73441",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "0351abd695afbd947941e3ee4e4bc147b24217024bb08078f0308e086033faa6",
+  "full_text": "=]\r\n\r\nJuniper Bikes PLC\r\n\r\nBuilt for every ride\r\n\r\n144 High Street\r\n\r\nBS1 4DJ Bristol - United Kingdom\r\n\r\nNumber\r\n\r\nJB-BL-47634\r\n\r\nDate\r\n\r\n09/01/2023\r\n\r\nOrder no.\r\n\r\nS047634\r\n\r\nCustomer ID\r\n\r\nAW00011570\r\n\r\nPacking Slip\r\n\r\nCarrier\r\n\r\nXrq - Truck Ground\r\n\r\nBILL TO\r\n\r\nKristin Andersen\r\n\r\nZimmerstr 137\r\n\r\n13441 Berlin\r\n\r\nGermany\r\n\r\nItem\r\n\r\nDescription\r\n\r\nUnit\r\n\r\nOrdered\r\n\r\nShipped\r\n\r\nBK-M68S-46\r\n\r\nMountain-200 Silver, 46\r\n\r\nEA\r\n\r\n1\r\n\r\ni\r\n\r\nSerious back-country riding. Perfect for all levels of competition. Uses\r\n\r\nthe same HL Frame as the Mountain-100.\r\n\r\nPackages\r\n\r\n1\r\n\r\nTotal weight\r\n\r\n10.94 kg\r\n\r\nUnits on hand\r\n\r\n1\r\n\r\nNOTES\r\n\r\nFree standard delivery on orders over fifty pounds.\r\n\r\nPacked by\r\n\r\nReceived by\r\n\r\nPedal on, from all of us\r\n\r\nBank: Crédit Régional\r\n\r\nJuniper Bikes PLC\r\n\r\nIBAN: GB14 8176 5608 1621 8634 9723\r\n\r\nVAT GB883310779\r\n\r\nBIC/SWIFT: JUNIGB80\r\n\r\nPacking Slip JB-BL-47634\r\n\r\nPage 1/1\r\n",
+  "status": "unreviewed_OCR_output"
+}

@@ -1,0 +1,13 @@
+{
+  "sample_id": "f9918570b903",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "bc4e1f5f2758199a5b77f34cba6bedf0a71d78335a9eb2c0a8a6d0e8af7cc60c",
+  "full_text": "Surma Food Supply\r\n\r\nChallan\r\n\r\nChallan No: DC-968.\r\n\r\nDate: 27/07/2026\r\n\r\nFrom: Surma Food Supply.\r\n\r\nTo: Meghna Store, Savar, Dhaka.\r\n\r\n—\r\n\r\n-\r\n\r\nSi\r\n\r\nrom\r\n\r\n[\r\n\r\nCy\r\n\r\n2\r\n\r\nSa\r\n\r\nA\r\n\r\n5\r\n\r\non\r\n\r\nbl\r\n\r\nUa\r\n\r\n——\r\n\r\nre\r\n\r\ni\r\n\r\nBi\r\n\r\n5\r\n\r\nAd\r\n\r\naf\r\n\r\nia\r\n\r\na\r\n\r\na\r\n\r\na\r\n\r\na\r\n\r\ni\r\n\r\nfi\r\n\r\nhE\r\n\r\n6\r\n\r\n’\r\n\r\nis\r\n\r\noh\r\n\r\noF\r\n\r\na\r\n\r\n2\r\n\r\nen\r\n\r\nie\r\n\r\na\r\n\r\n—\r\n\r\nii\r\n\r\nyk\r\n\r\nTS\r\n\r\ni\r\n\r\n4\r\n\r\nTh\r\n\r\nBo\r\n\r\ni\r\n\r\nA\r\n\r\nTa\r\n",
+  "status": "unreviewed_OCR_output"
+}

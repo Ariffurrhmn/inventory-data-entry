@@ -1,0 +1,16 @@
+{
+  "sample_id": "fcd28e1cf903",
+  "image_path": "services\\document_classifier\\data\\images\\fcd28e1cf903.jpg",
+  "image_sha256": "217227bc5ad78231a01fb5a3d6673efb0ca73f71c1f830666309a5713f9cd286",
+  "full_text": "a —\n\na 28 “\n\nDIZ INDUSTRIAL MACHINERY TRADING\n228 Naya St., Burol, City of Calamba 4027, Laguna, Philippines. 7\n\nNIBAN, GLADYS C. - Prop. ~\n\nNON-VAT Reg. TIN: 411-344-556-00000\n\nSALES INVOICE\n\"pate: . re Re\n\nSOLD To Wand wok Terms:\n\na\n\nTIN: OSCA/PWD ID No.:\nBusiness Style: SC/PWD Signature:\nAddress: ne\n\nARTICLES U/PRICE\n\ney]\nEo Less: SCPWD-Discount | |\n\nTOTAL AMOUNT DUE\n\na 1\n\nNS 000003:\n\n19 Bites. (0x2) 000001-000500 ar\nA © Print No. 056AU20220000008084 ;\nDate : August 19, 2022 #5 Cashier/ythorized Representative\nENTERPRISES E>\n£¥89478-095-715-00000 JED, Printer’s Ac\nSubd, 4 \\ No. (56MP 23200000000001\nCell No.: 0833.5 2 eran, Calamba City, Laguna Date Issued: 2-20; Expiry Date: 03-01-25\n\n“THIS DOCUMENT IS NOT VALID FOR CLAIMING INPUT TAXES\"\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\fcd28e1cf903.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

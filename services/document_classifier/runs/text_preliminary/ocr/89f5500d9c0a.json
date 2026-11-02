@@ -1,0 +1,16 @@
+{
+  "sample_id": "89f5500d9c0a",
+  "image_path": "services\\document_classifier\\data\\images\\89f5500d9c0a.jpg",
+  "image_sha256": "76352926fb6caea3393e101b4ab95a5441e9d6a227634c871404edd4ea095a87",
+  "full_text": "Welcome to Chick-fi1-a\n\nMt. Pleasant (#00854)\n(843) 881-6811\nOperator: Josh Malone\n\nCUSTOMER COPY\n7/9/2010 7:20:58 PM\nEAT IN\nOrder Number: 964660\n1 Meal-CGSand\n1 Promo Free\n\n4.64\n\n(1.59)\n\n1 Promo Free (4.64)\n\n1 Dt Lmnde MD 1.59\n\nSub. Total: $0.00\n\nTax: $0.00\n\nTotal: $0.00\n\nDiscount Total: ($6.23)\n\nChange $0.00\n\nExact Dollar $0.00\nRegister:6\n\nTran Seq No:\nCashierids\n\n964660\nDenniso\n\nour pleasure serving you!\n4 ey day.\n\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\89f5500d9c0a.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

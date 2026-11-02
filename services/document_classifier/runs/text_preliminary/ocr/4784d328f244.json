@@ -1,0 +1,16 @@
+{
+  "sample_id": "4784d328f244",
+  "image_path": "services\\document_classifier\\data\\images\\4784d328f244.jpg",
+  "image_sha256": "098d510c93c98c549f5e1876176ba46fc84386f0333fc563d3f8b11334ffcb60",
+  "full_text": "Packing Slip\n\nFrom\n\nCrimson&Co\n\n07 South Bishil Road\n1216\n\nBangladesh\n\nShip to\n\nOrder #1079\nSeptember 11, 2026\n\nOrder Details\n\nQty Item\n1 Heritage Horse Ribbed Tank Top - L\n\n1 Vintage-Style Contrast Ringer Tee - XL\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\4784d328f244.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

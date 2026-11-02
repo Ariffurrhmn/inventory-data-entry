@@ -1,0 +1,25 @@
+{
+  "seed": 2026,
+  "counts": {
+    "train": {
+      "purchase_order": 20,
+      "receipt": 16,
+      "delivery_note": 34,
+      "customer_copy": 16
+    },
+    "val": {
+      "purchase_order": 8,
+      "receipt": 7,
+      "customer_copy": 5,
+      "delivery_note": 6
+    },
+    "test": {
+      "purchase_order": 7,
+      "receipt": 5,
+      "delivery_note": 10,
+      "customer_copy": 6
+    }
+  },
+  "sha256": "0b73f0153ae37a842289ff313d37fabba52f26d97b6fd38a4913957adeba695b",
+  "limitation": "Known original/photo and template relationships grouped by visual review. Small mixed-origin corpus; unknown relationships may remain."
+}

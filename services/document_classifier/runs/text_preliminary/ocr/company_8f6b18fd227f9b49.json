@@ -1,0 +1,15 @@
+{
+  "sample_id": "company_8f6b18fd227f9b49",
+  "image_path": "Dataset\\intake\\2026-10-19\\company_documents_v2\\images\\purchase_order\\8f6b18fd227f9b49.jpg",
+  "image_sha256": "a49ab92efe8de0399a5bff3f077cbfa3db78d67d1a90aa0b7c2d785a9080af36",
+  "full_text": "Juniper Bikes PLC\r\n\r\nBuilt for every ride\r\n144 High Street - BS1 4DJ Bristol - United Kingdom\r\n\r\nNumber P0O002594\r\nDate April 13, 2025\r\nDelivery date April 22, 2025\r\nAccount no. PROSE0001\r\n\r\nRequested by Fukiko Ogisu\r\n\r\nP u rc h as e Oo rd e r Carrier Overseas - Deluxe\r\n\r\nVENDOR\r\nProseware, Inc.\r\n50 Big Canyon Road\r\n\r\n97355 Lebanon, OR\r\nUnited States\r\n\r\nItem Description Qty Unit price Disc. Amount\r\nCA-5965 LL Crankarm 550 £21.38 - £11,759.00\r\nCA-6738 ML Crankarm 550 £26.53 = £14,591.50\r\n\r\nPAYMENT TERMS\r\n\r\nSubtotal £26,350.50\r\nNet 60 days\r\nFreight £658.68\r\nPlease confirm this order and quote our PO number on all invoices\r\nand delivery notes. Tax 8% £2,107.76\r\nTotal £29,116.94\r\nApproved by\r\nPedal on, from all of us Juniper Bikes PLC\r\n\r\nVAT GB883310779\r\n\r\nPurchase Order PO002594 Pagel/1\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

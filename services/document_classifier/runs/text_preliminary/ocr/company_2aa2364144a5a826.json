@@ -1,0 +1,15 @@
+{
+  "sample_id": "company_2aa2364144a5a826",
+  "image_path": "Dataset\\intake\\2026-10-19\\company_documents_v2\\images\\purchase_order\\2aa2364144a5a826.jpg",
+  "image_sha256": "12dfb2136cb07bc2b1e8dfd2848f7527a604d77db0c051096f8663b5b60d8931",
+  "full_text": "PURCHASE\r\n\r\nORDER\r\n\r\nIris Sports Corp.\r\n\r\nPedal power. Ride the future.\r\n279 Harbor Blvd\r\n\r\n80202 Denver, CO\r\n\r\nUSA\r\n\r\nPhone: (989) 555-7243\r\naccounts@irissports.com\r\nwww.irissports.com\r\n\r\nEIN 79-2440607\r\n\r\nNUMBER DATE DELIVERY DATE ACCOUNT NO. REQUESTED BY CARRIER\r\n\r\n1S-PO-3615 2025-07-07 2025-07-16 LITWARE0001 Eric Kurjan Cargo\r\nTransport 5\r\n\r\nVENDOR DELIVER TO\r\n\r\nLitware, Inc. Iris Sports Corp.\r\n\r\n4405 Balboa Court 279 Harbor Blvd\r\n\r\n95062 Santa Cruz, CA 80202 Denver, CO\r\n\r\nUnited States USA\r\n\r\nPhone: (989) 555-7243\r\n\r\nItem Description Qty\r\n\r\nAR-5381 Adjustable Race 3\r\n\r\nPAYMENT TERMS\r\n\r\nSubtotal\r\nNet 60 days\r\ni i Co Freight\r\nPlease confirm this order and quote our PO number on all invoices\r\nand delivery notes. Tax 8%\r\nTotal\r\n\r\nApproved by\r\n\r\nGear up strong and ride safely today.\r\n\r\nUnit price\r\n\r\n$50.26\r\n\r\nwww.irissports.com - accounts @irissports.com - (989) 555-7243\r\n\r\nPurchase Order IS-PO-3615\r\n\r\nDisc. Amount\r\n\r\n= $150.78\r\n\r\n$150.78\r\n$3.77\r\n\r\n$12.06\r\n\r\n$166.61\r\n\r\nPage 1/1\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

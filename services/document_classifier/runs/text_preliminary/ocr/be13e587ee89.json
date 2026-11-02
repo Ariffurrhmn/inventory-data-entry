@@ -1,0 +1,16 @@
+{
+  "sample_id": "be13e587ee89",
+  "image_path": "services\\document_classifier\\data\\images\\be13e587ee89.jpg",
+  "image_sha256": "278a9d3278f1a83fcbb01527a315d6b836c92c50d7bcea8dbaa9d4e72d5a863c",
+  "full_text": "NO\n\nWw\n\nA 5090 0100 0 0 00 0 20 O80 0 0 0 4\n\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\be13e587ee89.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

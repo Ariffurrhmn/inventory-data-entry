@@ -1,0 +1,13 @@
+{
+  "sample_id": "company_5ca07c2d98c45fad",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "7977efec0be6754bda7a80ef3549d010fe72ad7a22f98a3e12407ad9df97c89e",
+  "full_text": "Vantage Outdoor Corp.\r\n\r\nRide Further, Gear Smarter\r\n\r\n304 5th Avenue\r\n\r\nSuite 542\r\n\r\nPacking\r\n\r\n97205 Portland, OR\r\n\r\nUSA\r\n\r\nPhone: (442) 555-7651\r\n\r\nSlip\r\n\r\nsales@vantageoutdoor.com\r\n\r\nwww.vantageoutdoor.com\r\n\r\nEIN 43-3439968\r\n\r\nNUMBER\r\n\r\nDATE\r\n\r\nORDER NO\r\n\r\nCUSTOMER ID\r\n\r\nCARRIER\r\n\r\nVO-BL-65885\r\n\r\n02/13/2025\r\n\r\nS065885\r\n\r\nAW00022155\r\n\r\nXrq - Truck Ground\r\n\r\nBILL TO\r\n\r\nSteve Cai\r\n\r\n2582 South Ranchford Ct.\r\n\r\n3429 Sunbury, VIC\r\n\r\nAustralia\r\n\r\nPhone: 1 (11) 500 555-0110\r\n\r\nItem\r\n\r\nDescription\r\n\r\nOrdered\r\n\r\nShipped\r\n\r\nSH-W890-L\r\n\r\nWomen's Mountain Shorts, L\r\n\r\n1\r\n\r\n1\r\n\r\nHeavy duty, abrasion-resistant shorts feature seamless, lycra inner shorts with anti-bacterial\r\n\r\nchamois for comfort.\r\n\r\nPackages\r\n\r\nUnits on hand\r\n\r\nPacked by\r\n\r\nReceived by\r\n\r\nThanks for trusting our adventure gear.\r\n\r\nwww.vantageoutdoor.com - sales@vantageoutdoor.com\r\n\r\n(442) 555-7651\r\n\r\nPacking Slip VO-BL-65885\r\n\r\nPage 1/1\r\n",
+  "status": "unreviewed_OCR_output"
+}

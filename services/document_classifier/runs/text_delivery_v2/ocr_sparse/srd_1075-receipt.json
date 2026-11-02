@@ -1,0 +1,13 @@
+{
+  "sample_id": "srd_1075-receipt",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "a1bdd7253ebf3b1a0df4ad42c7038454cecb7f372a70e00f160b994c35294074",
+  "full_text": "lhl”\r\n\r\nsmokeBoxBBQ\r\n\r\n2361 Whitney Ave\r\n\r\nHamden,\r\n\r\nCT 06518\r\n\r\n203 909 6545\r\n\r\nem mn\r\n\r\na mm mm hu nm\r\n\r\nORDERR 39\r\n\r\nCASHIE\r\n\r\n|E\r\n\r\n5/22/2014 2: B 48 PM\r\n\r\nQUES\r\n\r\nEE mo we rne  a me m e\r\n\r\n1 FXN DIET BIRC\r\n\r\n1 FULL\r\n\r\nBOX\r\n\r\nSUBTOTAL\r\n\r\nTAX\r\n\r\nT#0\r\n\r\nly\r\n\r\nNN\r\n\r\nJ0000\r\n\r\nSERVER\r\n\r\nral\r\n\r\nTOTAL\r\n\r\nCash\r\n\r\nChange\r\n\r\naU\r\n\r\n-—————\r\n\r\n-\r\n\r\nCLOSED\r\n\r\n~/\r\n\r\n5/\r\n\r\n22/2\r\n\r\nVL,\r\n\r\n-—————————\r\n\r\nTHANK\r\n\r\nYOU!\r\n",
+  "status": "unreviewed_OCR_output"
+}

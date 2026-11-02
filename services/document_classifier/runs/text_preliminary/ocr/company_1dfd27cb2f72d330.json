@@ -1,0 +1,15 @@
+{
+  "sample_id": "company_1dfd27cb2f72d330",
+  "image_path": "Dataset\\intake\\2026-10-19\\company_documents_v2\\images\\purchase_order\\1dfd27cb2f72d330.jpg",
+  "image_sha256": "c449f5f573065894ac9df0cb2d6bb68479aa12e0912c311f0e46ce7d7394812d",
+  "full_text": "Vantage Outdoor Corp.\r\nRide Further, r Smarter\r\n304 5th Avenue\r\n\r\nPurchase Sui 522\r\n\r\n97205 Portland, OR\r\n\r\nUSA\r\n(0) rd e r Phone: (442) 555-7651\r\n\r\nsales@vantageoutdoor.com\r\nWWW. vantageoutdoor.com\r\nEIN 43-3439968\r\n\r\nNUMBER DATE DELIVERY DATE ACCOUNT NO. REQUESTED BY CARRIER\r\nVO-PO-501 08/09/2024 08/18/2024 VISTARO0001 Eric Kurjan Cargo\r\n\r\nTransport 5\r\nVENDOR\r\n\r\nVista Road Bikes\r\n8197 Hermosa\r\n97301 Salem, OR\r\nUnited States\r\n\r\nItem Description Qty Unit price Amount\r\n\r\nTI-M267 LL Mountain Tire 550 $32.25 $17,737.50\r\nComparible traction, less expensive wire bead casing.\r\n\r\nTI-M602 ML Mountain Tire 550 $36.56 $20,108.00\r\nGreat traction, high-density rubber.\r\n\r\nPAYMENT TERMS\r\n\r\nSubtotal $37,845.50\r\nNet 30 days\r\n\r\nFreight $946.09\r\nPlease confirm this order and quote our PO number on all invoices\r\nand delivery notes. Tax 8% $3,027.49\r\n\r\nTotal $41,819.08\r\n\r\nApproved by\r\n\r\nThanks for trusting our adventure gear.\r\nwww.vantageoutdoor.com - sales@vantageoutdoor.com - (442) 555-7651\r\n\r\nPurchase Order VO-PO-501 Pagel/1\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

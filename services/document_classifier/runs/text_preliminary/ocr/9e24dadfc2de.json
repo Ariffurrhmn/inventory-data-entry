@@ -1,0 +1,16 @@
+{
+  "sample_id": "9e24dadfc2de",
+  "image_path": "services\\document_classifier\\data\\images\\9e24dadfc2de.jpg",
+  "image_sha256": "cfcca2f72db16a709f53d1722290a06ee6dc82dddee6e0b6f3fd17523be6ce9d",
+  "full_text": "Purchase Order\n\nGenerated using Mercury\n\nBuyer Shipping Vendor\n\nGHI Company Panjora NPK Company\n\nPanjora Gazipur, Dhaka 1211\n\nGazipur, Dhaka 1211 Bangladesh\n\nBangladesh\n\nItem # / SKU Product description Quantity Unit price\n\nRice 5kg 5 $4.50\nSubtotal\nTotal\n\nTerms Note\n\nPurchase order date 10/04/26\n\nDelivery date 10/13/26\n\nPayment method Credit card\n\nAuthorized signature Date\n\nDetails\n\nPO no. PO -15\n\nAmount\n\n$22.50\n\n$22.50\n\n$22.50\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\9e24dadfc2de.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

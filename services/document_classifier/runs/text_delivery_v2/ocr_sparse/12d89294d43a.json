@@ -1,0 +1,13 @@
+{
+  "sample_id": "12d89294d43a",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "f9886a59e143bc70fab4a28f7ca898d1164e1374669b146f6f02c5b9792dafe3",
+  "full_text": "Order Form\r\n\r\nOrder No\r\n\r\nORD-3455\r\n\r\nOrder Date: 01/07/2026\r\n\r\nRequired By: 06/07/2026\r\n\r\nFrom\r\n\r\nShapla Grocery\r\n\r\nMohammadpur, Dhaka\r\n\r\nTo\r\n\r\nSurma Food Supply\r\n\r\nPlease supply the following goods:\r\n\r\nay | rate [ amount |\r\n\r\nmw | aw\r\n\r\nLB]\r\n\r\nsam\r\n\r\n1,680\r\n\r\nSampoosiont | 10 | a0 | aso\r\n\r\nAE\r\n\r\nTotal:\r\n\r\nTk12,330\r\n\r\nAuthorized by\r\n\r\nfor Shapla Grocery\r\n",
+  "status": "unreviewed_OCR_output"
+}

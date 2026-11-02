@@ -1,0 +1,13 @@
+{
+  "sample_id": "08811c30b08a",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "a3a3c858761a2db9a32e72cd0206f1da7535b3abcb341f7c5d0b829a0b5dcd29",
+  "full_text": "hr\r\n\r\n=\r\n\r\nFalaq Islam\r\n\r\n=\r\n\r\nShop 12\r\n\r\nHouse- 74,\r\n\r\nRoad- 34, Kolkata\r\n\r\ndh\r\n\r\nnk\r\n\r\nTaxable\r\n\r\nOST %\r\n\r\n2%\r\n\r\n2.00\r\n\r\n280.00\r\n\r\n560.00\r\n\r\n5%\r\n\r\n2.00\r\n\r\n1,200.00\r\n\r\n22,400.00\r\n\r\nCotton T- Shirt\r\n\r\n24,800.00\r\n\r\n4%\r\n\r\n=)\r\n\r\nDenim Jeans\r\n\r\n1,200.00\r\n\r\n61.60\r\n\r\nGrand total\r\n\r\nEighty Three\r\n\r\nRupees\r\n\r\nTwenty Paisa Only\r\n\r\nSo\r\n\r\nSES\r\n\r\n%\r\n\r\ns\r\n\r\nEN\r\n\r\n=\r\n\r\noN\r\n\r\nAR\r\n\r\ni\r\n\r\n2\r\n\r\n=\r\n",
+  "status": "unreviewed_OCR_output"
+}

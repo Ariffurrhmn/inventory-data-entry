@@ -1,0 +1,16 @@
+{
+  "sample_id": "2a0efadf472e",
+  "image_path": "services\\document_classifier\\data\\images\\2a0efadf472e.jpg",
+  "image_sha256": "0d56c882c504744f8cbf2dbbe36e1f4341316e2dccb7bc5d5abd9197c798bf67",
+  "full_text": "HGT Company PURCHASE ORDER\n\nShop-12,\nNumber PO 19\n\nPanjora, Gazipur,\nDhaka. Dato: 2026-09-18\n\nBanglasesh Due Date: 20261016\n\nBILL TO\n\nShop-43,\nMirpue-10\nDhaka.\nBanglasesh\n\nAMOUNT\n\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\2a0efadf472e.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

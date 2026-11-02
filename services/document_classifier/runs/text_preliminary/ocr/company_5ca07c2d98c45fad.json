@@ -1,0 +1,15 @@
+{
+  "sample_id": "company_5ca07c2d98c45fad",
+  "image_path": "Dataset\\intake\\2026-10-19\\company_documents_v2\\images\\packing_slip\\5ca07c2d98c45fad.jpg",
+  "image_sha256": "7977efec0be6754bda7a80ef3549d010fe72ad7a22f98a3e12407ad9df97c89e",
+  "full_text": "Vantage Outdoor Corp.\r\nRide Further, Gear Smarter\r\n\r\n304 5th Avenue\r\n\r\nSuite 542\r\n\r\n97205 Portland, OR\r\n\r\nUSA\r\n\r\nPhone: (442) 555-7651\r\nsales@vantageoutdoor.com\r\nwww.vantageoutdoor.com\r\nEIN 43-3439968\r\n\r\nNUMBER DATE ORDER NO CUSTOMER ID CARRIER\r\nVO-BL-65885 02/13/2025 S065885 AW00022155 Xrq - Truck Ground\r\nBILLTO\r\n\r\nSteve Cai\r\n\r\n2582 South Ranchford Ct.\r\n3429 Sunbury, VIC\r\nAustralia\r\n\r\nPhone: 1 (11) 500 555-0110\r\n\r\nItem Description Ordered Shipped\r\n\r\nSH-W890-L Women's Mountain Shorts, L 1 |\r\n\r\nHeavy duty, abrasion-resistant shorts feature seamless, lycra inner shorts with anti-bacterial\r\nchamois for comfort.\r\n\r\nPackages 1\r\nUnits on hand a\r\nPacked by Received by\r\n\r\nThanks for trusting our adventure gear.\r\nwww.vantageoutdoor.com - sales@vantageoutdoor.com - (442) 555-7651\r\n\r\nPacking Slip VO-BL-65885 Page 1/1\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

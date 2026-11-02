@@ -1,0 +1,13 @@
+{
+  "sample_id": "398c6ef688e4",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "180eeab99e09a484252eb3c4c78e46dd880ad60d4c80c03b9e234302b14d0f7b",
+  "full_text": "-—\r\n\r\ni\r\n\r\n—\r\n\r\nDelivery Challan\r\n\r\nChallan No: DC-264.\r\n\r\nDate: 26/08/2026.\r\n\r\nFrom: Dhaka Trade House.\r\n\r\nTo: Tazin Super Shop, Savar, Dhaka.\r\n\r\nS| Memescripion | av. |\r\n\r\nSoybean Oil 5L\r\n\r\ni\r\n\r\n1\"\r\n\r\ni\r\n\r\ngn\r\n\r\nu\r\n\r\n8\r\n\r\n=\r\n\r\ni\r\n\r\n&\r\n\r\nal\r\n\r\nx\r\n\r\n2i¢\r\n\r\na\r\n\r\na\r\n\r\n2\r\n\r\nPi\r\n",
+  "status": "unreviewed_OCR_output"
+}

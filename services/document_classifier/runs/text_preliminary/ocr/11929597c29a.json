@@ -1,0 +1,16 @@
+{
+  "sample_id": "11929597c29a",
+  "image_path": "services\\document_classifier\\data\\images\\11929597c29a.jpg",
+  "image_sha256": "c519e4f253a241e5aa910cc38a0ed9ce164554a5208b4260f270fac4a1523a7f",
+  "full_text": "HGT Company\n\nShop-12\nPanjora, Gazipur,\nDhaka,\nBanglasesh\n\nBILLTO\n\nXK Company\nShop-43,\n\nMirpue-10\nDhaka,\nBanglasesh\n\nWater Bottle\n\nCeramic Mug\n\nPURCHASE ORDER\n\nNumber PO. 16\nDate 2026-00-07\nDue Date 2026-10-20\n\n4 Rs.350.00 Rs.1652.00\n10 Rs.280.00 Rs.3304.00\n1 Rs.850.00 Rs.1003.00\nTaxable Amount: Rs.5050.00\n\nTotal: Rs.5959.00\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\11929597c29a.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

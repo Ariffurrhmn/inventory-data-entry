@@ -1,0 +1,13 @@
+{
+  "sample_id": "srd_1095-receipt",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "8764b1acc469bf871003c5012c8419b9bb9ffeea921b3289729858a87ca01c9e",
+  "full_text": "Golden Coin\r\n\r\n94-450 Ukee St\r\n\r\nHI 96797\r\n\r\nWaipahu,\r\n\r\n(808) 846-0802\r\n\r\nServer: Charito\r\n\r\nStation:\r\n\r\n1\r\n\r\nTake 0\r\n\r\nout\r\n\r\nrer i: 668\r\n\r\n» SETTLED «\r\n\r\nHY\r\n\r\n1 Pt Lunch 2 Choices\r\n\r\n4\r\n\r\nBBQ\r\n\r\nPINAPATTAN\r\n\r\nar Subtotal\r\n\r\n0.00\r\n\r\npod Subtotal\r\n\r\n9,79\r\n\r\npn DE\r\n\r\n0.46\r\n\r\nFE\r\n\r\nsmmEEs\r\n\r\nr=\r\n\r\n===\r\n\r\nas:\r\n\r\n$10.5\r\n\r\n—\r\n\r\n15.00\r\n",
+  "status": "unreviewed_OCR_output"
+}

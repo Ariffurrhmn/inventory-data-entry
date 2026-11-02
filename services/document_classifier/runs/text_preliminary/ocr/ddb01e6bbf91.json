@@ -1,0 +1,16 @@
+{
+  "sample_id": "ddb01e6bbf91",
+  "image_path": "services\\document_classifier\\data\\images\\ddb01e6bbf91.jpg",
+  "image_sha256": "c7c4682c715d8d2fa62ab805c6726b0882fd15da292e55c97b2f8fe1468138bc",
+  "full_text": "Jamuna Wholesale\n\n—— TE HUNROan\nDelivery Challan\n\nChallan No: DC-685 Date:\nFrom: Jamuna Wholesale.\n™ | Hasan Brothers, Tongi, Gazipur.\n\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\ddb01e6bbf91.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

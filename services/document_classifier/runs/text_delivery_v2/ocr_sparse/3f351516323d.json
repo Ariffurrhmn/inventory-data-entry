@@ -1,0 +1,13 @@
+{
+  "sample_id": "3f351516323d",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "06ab841151127e8327a4aa6b7389ad9111bea69e0ba45a9570545f89a52b84a7",
+  "full_text": "Ol 0\r\n\r\nPC a\r\n\r\nate\r\n\r\ntas\r\n\r\nHam pton\r\n\r\npr\r\n\r\n(631) 328-1600\r\n\r\nFax (631) 329-1648\r\n\r\nWii\r\n\r\n).goldenpearcafe.com\r\n\r\nvate\r\n\r\nAug06’15 11:01AM\r\n\r\nard Type\r\n\r\nVisa\r\n\r\nAC\r\n\r\nt#\r\n\r\nXXXXXXXXXXXX1779\r\n\r\nExp Date\r\n\r\nX/ XX\r\n\r\nAuth Cod\r\n\r\n08316C\r\n\r\nCt\r\n\r\n9381\r\n\r\nID\r\n\r\nCHIN\r\n\r\not\r\n\r\ner\r\n\r\n5 Karina\r\n\r\nSubtotal\r\n\r\n22.740\r\n\r\nTir\r\n\r\nJ\r\n\r\notal\r\n\r\ngnature\r\n\r\n=\r\n\r\nagree 10\r\n\r\nabove J\r\n\r\ncording t\r\n\r\nard\r\n\r\n1SSue\r\n\r\ngreement\r\n\r\nCustomer\r\n\r\nCopy\r\n\r\n_-\r\n\r\na\r\n\r\na\r\n",
+  "status": "unreviewed_OCR_output"
+}

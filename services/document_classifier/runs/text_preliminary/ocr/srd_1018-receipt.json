@@ -1,0 +1,15 @@
+{
+  "sample_id": "srd_1018-receipt",
+  "image_path": "Dataset\\intake\\2026-10-19\\expressexpense_srd\\images\\1018-receipt.jpg",
+  "image_sha256": "99d4bfa31a48ae1eaf9e103d239e171460fd192c67e735ec3a6897f4ff325907",
+  "full_text": "12:49 PM\r\n\r\nog L1\r\n27“ JOUR GUEST NUMBER 1S\r\n12\r\n\r\nIN-N-OUT BURGER SANTA CLARA\r\n12:48 PM\r\n\r\n2012-04-21\r\n176 1 262 1110\r\n\r\nCashier: KEVIN DU\r\n\r\nCheck &¢ 12\r\nHAMB 2 00\r\nW GR XL XTMInst pro\r\nCounter—-Take Out\r\nTAX 8.25% 2.00\r\nAmount Due sine\r\nCash Tender 43.00\r\n\r\nChange\r\nTHANK YOU | $.83\r\n\r\n012-0421 LI 1\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

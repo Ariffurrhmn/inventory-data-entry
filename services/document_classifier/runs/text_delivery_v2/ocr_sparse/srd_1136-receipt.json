@@ -1,0 +1,13 @@
+{
+  "sample_id": "srd_1136-receipt",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "8cff792371936b13035845b1069f50f2d85b4452bca5cf7a6770a7cdf1d1a782",
+  "full_text": "—\r\n\r\n———\r\n\r\na ——————\r\n\r\nA—\r\n\r\nmer\r\n\r\nEE\r\n\r\n—\r\n\r\noo —\r\n\r\nEE ss oe ug\r\n\r\nSi\r\n\r\nTL —\r\n\r\n=\r\n\r\nThe Shawarma Factory\r\n\r\na\r\n\r\n14817 S. Western Ave\r\n\r\nApr 10, 2019\r\n\r\n12:34 PM\r\n\r\n—\r\n\r\nGardena, CA 90249\r\n\r\nVince\r\n\r\n=\r\n\r\n—————\r\n\r\n——————————— ALIS CA!\r\n\r\na\r\n\r\nTicket: #29\r\n\r\n———\r\n\r\nAuthorization 173245\r\n\r\n—\r\n\r\nReceipt 03WE\r\n\r\nEe\r\n\r\nee\r\n\r\n—\r\n\r\n_\r\n\r\nVISA DEBIT\r\n\r\nAID AO 00 00 00 03 10 10\r\n\r\nEB\r\n\r\nte —et ————\r\n\r\n_FORPERE\r\n\r\nene\r\n\r\nFlame Broiled Chicken\r\n\r\n$11.99\r\n\r\n1/2 Chicken, Hummus , House Salad\r\n\r\n$11.99\r\n\r\nSubtotal\r\n\r\nSales Tax\r\n\r\n$1.14\r\n\r\n——————————————————— —— ES —S—— TS St A\r\n\r\n$13.13\r\n\r\nTota\r\n\r\nI\r\n\r\nEE ah a Foam\r\n\r\n.\r\n\r\nMAT 11\r\n",
+  "status": "unreviewed_OCR_output"
+}

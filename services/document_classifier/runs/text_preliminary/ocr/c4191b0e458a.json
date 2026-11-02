@@ -1,0 +1,16 @@
+{
+  "sample_id": "c4191b0e458a",
+  "image_path": "services\\document_classifier\\data\\images\\c4191b0e458a.jpg",
+  "image_sha256": "282531cde2350838095cae906af89d7f9ab037b2e3cb3ec78ba0526efe6631d4",
+  "full_text": "YY Rahim General Store\n\noe Jatrabari, Dhaka.\n\nPurchase Order\n\nP.O. No: PO-5120\nOrder Date: 07/10/2026\n\nSupplier: Bill To / Ship To:\nTeesta Enterprise. Rahim General Store,\nJatrabari, Dhaka.\n\nMiniket Rice 25kg Tk 1,850\n\nSugar 1kg ne - Tk135 Tk 270\nPr IT\n\nTk 1,320\n\nAuthorized Signature\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\c4191b0e458a.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

@@ -1,0 +1,13 @@
+{
+  "sample_id": "srd_1045-receipt",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "b665c8d1e971e6f033e4fd29becd6ee1cb7ef18bbde76ed9017b7cb89252aad9",
+  "full_text": "Yu\r\n\r\n‘\r\n\r\nM's RES AURANT\r\n\r\n347\r\n\r\n&\r\n\r\nS\r\n\r\nVings\r\n\r\nf\r\n\r\n7.20\r\n\r\n|\r\n\r\nS.¢\r\n\r\nFr\r\n\r\n7.20\r\n\r\nge\r\n\r\n1S. 4\r\n\r\nnice ol\r\n\r\nmace ail\r\n\r\n1.88\r\n\r\nFood Subtotal\r\n\r\n20.78\r\n\r\nBev Subtotal\r\n\r\n0.00\r\n\r\nFood Tax\r\n\r\nB\r\n\r\nTax\r\n\r\n0.00\r\n\r\nTotal:\r\n\r\n22.03\r\n\r\nRe ceed\r\n\r\n2203\r\n\r\n0.09\r\n\r\nChangs\r\n\r\nPAID Cash\r\n\r\n-\r\n\r\n| hank You\r\n\r\n—\r\n\r\n-\r\n",
+  "status": "unreviewed_OCR_output"
+}

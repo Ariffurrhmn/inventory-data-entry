@@ -1,0 +1,15 @@
+{
+  "sample_id": "srd_1074-receipt",
+  "image_path": "Dataset\\intake\\2026-10-19\\expressexpense_srd\\images\\1074-receipt.jpg",
+  "image_sha256": "0774c1baaf7b55661dc7a5085e67d06c0456a4d0d2d4441fb6ab557bca5a79e3",
+  "full_text": "Lin Buffet\r\n7988 N. Expressway\r\nBrownsville, TX\r\n\r\nTime: 03:22PM\r\nServer: kenve Judith # Guest: 1\r\nBill: 0270\r\n\r\n2 Weekend Buffet\r\n\r\nSubtotal\r\nSales Tax\r\n¢c 33.73%\r\n\r\n33.7%\r\n\r\n3.98\r\nFood 27.18\r\n\r\nOpen Time : Feb 24, 2019 03:22PM\r\n\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

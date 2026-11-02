@@ -1,0 +1,15 @@
+{
+  "sample_id": "srd_1196-receipt",
+  "image_path": "Dataset\\intake\\2026-10-19\\expressexpense_srd\\images\\1196-receipt.jpg",
+  "image_sha256": "4b9234e612c6c3eca60958765ca2319500d1b8b5b99d9b8da886fca9755a10bd",
+  "full_text": "ER RIN ERE\r\n\r\nNAME: CHARES\r\n\r\nCHECK# 71128.1\r\nClosed to Credit Card\r\n\r\nATE/TIME: 12/31/2018 6:06:\r\nDATEL] fa} /31/2018 6:06:02 PM\r\nSTATION: 01\r\nSo happy about your visit!\r\nItem Count: 8\r\n\r\n1 TIKKA MASALA\r\nCHICKEN (MURGH)\r\n| PALAL, lah de ESE)\r\n\r\nR (CH\r\n1 VEGAN FEENGAN BHARTA*\r\n\r\n7 Subtotal\r\neae Jax }\r\nyo Total before tip:\r\n\r\n2%: Tip amount:\r\n\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

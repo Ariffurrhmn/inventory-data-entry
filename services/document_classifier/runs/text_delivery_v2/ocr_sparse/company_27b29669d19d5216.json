@@ -1,0 +1,13 @@
+{
+  "sample_id": "company_27b29669d19d5216",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "26ec87ba186502b76cefb6062de39edf4c5011f8a5a9cda7a435c3b435b59864",
+  "full_text": "PURCHASE ORDER\r\n\r\nNumber\r\n\r\nP0O002572\r\n\r\nDelta Sports & Co. Ltd\r\n\r\nDate\r\n\r\nApril 9, 2025\r\n\r\nRide further, ride stronger\r\n\r\nDelivery date\r\n\r\nApril 18, 2025\r\n\r\n464 High Street\r\n\r\nBS1 4DJ Bristol\r\n\r\nAccount no.\r\n\r\nRELIANCE0001\r\n\r\nUnited Kingdom\r\n\r\nRequested by\r\n\r\nAnnette Hill\r\n\r\nPhone: +44 20 6440622\r\n\r\nCarrier\r\n\r\nCargo Transport 5\r\n\r\nbilling@deltasports.co.uk\r\n\r\nwww.deltasports.co.uk\r\n\r\nVAT GB531255379\r\n\r\nVENDOR\r\n\r\nDELIVER TO\r\n\r\nReliance Fitness, Inc.\r\n\r\nDelta Sports & Co. Ltd\r\n\r\n5514 Grant Street\r\n\r\n464 High Street\r\n\r\n98107 Ballard, WA\r\n\r\nBS1 4DJ Bristol\r\n\r\nUnited States\r\n\r\nUnited Kingdom\r\n\r\nPhone: +44 20 6440622\r\n\r\nItem\r\n\r\nDescription\r\n\r\nQty\r\n\r\nUnit price\r\n\r\nAmount\r\n\r\nFW-5160\r\n\r\nFlat Washer 3\r\n\r\n£37.64\r\n\r\n£112.92\r\n\r\nFW-5800\r\n\r\nFlat Washer 8\r\n\r\n£34.27\r\n\r\n£102.81\r\n\r\nPAYMENT TERMS\r\n\r\nSubtotal\r\n\r\n£215.73\r\n\r\nNet 45 days\r\n\r\nFreight\r\n\r\n£5.40\r\n\r\nPlease confirm this order and quote our PO number on all invoices\r\n\r\nand delivery notes.\r\n\r\nTax 8%\r\n\r\n£17.26\r\n\r\nTotal\r\n\r\n£238.39\r\n\r\nApproved by\r\n\r\nKeep pedalling, we've got you covered.\r\n\r\nDelta Sports & Co. Ltd - 464 High Street - BS1 4DJ Bristol - United Kingdom - VAT GB531255379\r\n\r\nPurchase Order PO002572\r\n\r\nPage 1/1\r\n",
+  "status": "unreviewed_OCR_output"
+}

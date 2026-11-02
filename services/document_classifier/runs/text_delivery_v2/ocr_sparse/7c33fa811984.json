@@ -1,0 +1,13 @@
+{
+  "sample_id": "7c33fa811984",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "9f576cd0d462b051a9e12bdb95348ee2c6c8bf0842c7426993eabb80ca67438a",
+  "full_text": "a,\r\n\r\nhd\r\n\r\nini\r\n\r\n-\r\n\r\n-—\r\n\r\n—_—\r\n\r\n—\r\n\r\n-\r\n\r\n-=\r\n\r\na EE\r\n\r\n=\r\n\r\n=\r\n\r\n—— STC EI-oTIIIIETS\r\n\r\n-\r\n\r\n—\r\n\r\n——\r\n\r\n——\r\n\r\n—\r\n\r\n———— EC ENCES SIITToTSITIEIIEST\r\n\r\nnt tt ce se ee ne\r\n\r\nBLACK PEPPER MEATBALL\r\n\r\n76,500\r\n\r\n—\r\n\r\n7\r\n\r\nQUARTO FORMANGGI PASTA\r\n\r\n82,500\r\n\r\n==\r\n\r\nEEN TEA WITH CRUMBLE\r\n\r\n56,000\r\n\r\nORIGINAL BREWED TEA\r\n\r\n46,000\r\n\r\nSU\r\n\r\n261,000\r\n\r\nSVC CHG 6%\r\n\r\n15,660\r\n\r\nPB1 10%\r\n\r\n27,866\r\n\r\n——————————————— A Vo. o_o on\r\n\r\n304,326\r\n\r\now\r\n\r\nLES\r\n\r\nSey?\r\n\r\nrT\r\n\r\nEE a\r\n\r\npo\"\r\n",
+  "status": "unreviewed_OCR_output"
+}

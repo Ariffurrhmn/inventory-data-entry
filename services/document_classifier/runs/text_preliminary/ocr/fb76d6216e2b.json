@@ -1,0 +1,16 @@
+{
+  "sample_id": "fb76d6216e2b",
+  "image_path": "services\\document_classifier\\data\\images\\fb76d6216e2b.jpg",
+  "image_sha256": "d281f7b9a307a8ff57496d059d105e4699864511670f61e24b02c30a20773297",
+  "full_text": "Jamuna Wholesale\n\nCash Memo\nOFFICE COPY\n\nBill To / Customer:\n\nNabil Departmental Store, UHara Sector 7, Dhaka.\n\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\fb76d6216e2b.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

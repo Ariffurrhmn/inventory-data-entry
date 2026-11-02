@@ -1,0 +1,13 @@
+{
+  "sample_id": "company_5a30984a1e54d553",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "0a3e002290864ab1f98d3abadd677a62c0662c9f9c67c98fc255ca730d659655",
+  "full_text": "Boreal Components Co.\r\n\r\nPedal Power, Precision Built\r\n\r\n36 Industrial Pkwy\r\n\r\n80202 Denver,\r\n\r\nco\r\n\r\nUSA\r\n\r\nNumber\r\n\r\nP0-2025-2895\r\n\r\nDate\r\n\r\n2025-05-11\r\n\r\n2025-05-20\r\n\r\nDelivery date\r\n\r\nAccount no.\r\n\r\nTRAININGOOOL\r\n\r\nRequested by\r\n\r\nEric Kurjan\r\n\r\nPURCHASE ORDER\r\n\r\nCarrier\r\n\r\nCargo Transport 5\r\n\r\nVENDOR\r\n\r\nDELIVER TO\r\n\r\nTraining Systems\r\n\r\nBoreal Components Co.\r\n\r\n6 Dancing Road\r\n\r\n36 Industrial Pkwy\r\n\r\n98168 Burien, WA\r\n\r\n80202 Denver, CO\r\n\r\nUnited States\r\n\r\nUSA\r\n\r\nItem\r\n\r\nDescription\r\n\r\nQty\r\n\r\nUnit price\r\n\r\nDisc.\r\n\r\nAmount\r\n\r\nCB-2903\r\n\r\nChainring Bolts\r\n\r\n3\r\n\r\n$49.64\r\n\r\n$148.92\r\n\r\nCN-6137\r\n\r\nChainring Nut\r\n\r\n3\r\n\r\n$44.32\r\n\r\n$132.96\r\n\r\nCR-7833\r\n\r\nChainring\r\n\r\n60\r\n\r\n$28.70\r\n\r\n$1,722.00\r\n\r\nPAYMENT TERMS\r\n\r\nSubtotal\r\n\r\n$2,003.88\r\n\r\nNet 30 days\r\n\r\n$50.09\r\n\r\nPlease confirm this order and quote our PO number on all\r\n\r\nFreight\r\n\r\ninvoices and delivery notes.\r\n\r\nTax 8%\r\n\r\n$160.29\r\n\r\nTotal\r\n\r\n$2,214.26\r\n\r\nApproved by\r\n\r\nRide on, thanks for choosing Boreal\r\n\r\nBank: Northern Trust Bank\r\n\r\nBoreal Components Co.\r\n\r\nComponents.\r\n\r\nAccount:\r\n\r\n8815694933\r\n\r\nEIN 59-2005511\r\n\r\nRouting no.: 079558108\r\n\r\nPurchase Order P0-2025-2895\r\n\r\nPage 1 / 1\r\n",
+  "status": "unreviewed_OCR_output"
+}

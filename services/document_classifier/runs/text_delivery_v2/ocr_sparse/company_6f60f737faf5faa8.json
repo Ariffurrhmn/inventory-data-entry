@@ -1,0 +1,13 @@
+{
+  "sample_id": "company_6f60f737faf5faa8",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "430a660bed7d5c49f8a8ef41690f4c46cee7ef916d428b3cd6f008fc3289aca6",
+  "full_text": "PACKING SLIP\r\n\r\nNumber\r\n\r\nDS-BL-47362\r\n\r\nDelta Sports & Co. Ltd\r\n\r\nDate\r\n\r\n2023-08-07\r\n\r\nRide further, ride stronger\r\n\r\nOrder no.\r\n\r\nS047362\r\n\r\n464 High Street\r\n\r\nBS1 4DJ Bristol\r\n\r\nCustomer ID\r\n\r\nAW00029803\r\n\r\nUnited Kingdom\r\n\r\nPO number\r\n\r\nP0O17690189228\r\n\r\nPhone: +44 20 6440622\r\n\r\nSalesperson\r\n\r\nJae Pak\r\n\r\nbilling@deltasports.co.uk\r\n\r\nCarrier\r\n\r\nCargo Transport 5\r\n\r\nwww.deltasports.co.uk\r\n\r\nVAT GB531255379\r\n\r\nTracking no.\r\n\r\n41E3-4BA0-99\r\n\r\nBILL TO\r\n\r\nSHIP TO\r\n\r\nGreater Bike Store\r\n\r\nGreater Bike Store\r\n\r\nAttn: Hattie Haemon\r\n\r\n55 Lakeshore Blvd East\r\n\r\n55 Lakeshore Blvd East\r\n\r\nM4B 1V6 Toronto, ON\r\n\r\nM4B 1V6 Toronto, ON\r\n\r\nCanada\r\n\r\nCanada\r\n\r\nItem\r\n\r\nDescription\r\n\r\nOrdered\r\n\r\nShipped\r\n\r\nRW-M762\r\n\r\nML Mountain Rear Wheel\r\n\r\n3\r\n\r\nHB-M763\r\n\r\nML Mountain Handlebars\r\n\r\n5\r\n\r\nBK-M68S-38\r\n\r\nMountain-200 Silver, 38\r\n\r\nBK-M68S-46\r\n\r\nMountain-200 Silver, 46\r\n\r\nBK-M68B-38\r\n\r\nMountain-200 Black, 38\r\n\r\nPackages\r\n\r\n3\r\n\r\nTotal weight\r\n\r\n64.25 kg\r\n\r\nUnits on hand\r\n\r\n14\r\n\r\nNOTES\r\n\r\nReturns accepted within 14 days, items unused and in original packaging.\r\n\r\nPacked by\r\n\r\nReceived by\r\n\r\nKeep pedalling, we've got you covered\r\n\r\nDelta Sports & Co. Ltd - 464 High Street - BS1 4DJ Bristol - United Kingdom - VAT GB531255379\r\n\r\nPacking Slip DS-BL-47362\r\n\r\nPage 1/1\r\n",
+  "status": "unreviewed_OCR_output"
+}

@@ -1,0 +1,13 @@
+{
+  "sample_id": "cbce3b093ee3",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "11eb338ef87a11a19078af60d1253ea1a701fe6f07fae3daf3e3411c85fe791b",
+  "full_text": "Challan no. DC-014\r\n\r\nABC Company\r\n\r\nDate 2026-09-04\r\n\r\nDELIVERY CHALLAN\r\n\r\nPlace of supply Kolkata\r\n\r\nSELLER\r\n\r\nCONSIGNEE\r\n\r\nABC Company\r\n\r\nUrmi Khatun\r\n\r\nShop 12, Market Road, City — 400001\r\n\r\nHouse- 64, Road- 35, Kolkata\r\n\r\nVehicle no. MH 01 AB 1234\r\n\r\nPurpose: Job work\r\n\r\nDescription\r\n\r\nHSN/SAC\r\n\r\nQty\r\n\r\nRate\r\n\r\nTaxable\r\n\r\nGST %\r\n\r\nFace Wash\r\n\r\n1837\r\n\r\n1.00\r\n\r\n2320.00\r\n\r\n2320.00\r\n\r\n%\r\n\r\n8864\r\n\r\n1.00\r\n\r\n%450.00\r\n\r\n2450.00\r\n\r\n5%\r\n\r\nShampoo\r\n\r\nBody lotion\r\n\r\n8778\r\n\r\n1.00\r\n\r\n¥500.00\r\n\r\n¥500.00\r\n\r\n%\r\n\r\nTaxable value\r\n\r\n1,270.00\r\n\r\nCGST\r\n\r\n32.65\r\n\r\nSGST\r\n\r\n32.65\r\n\r\nGrand total\r\n\r\n1,335.30\r\n\r\nAmount in words: One Thousand Three Hundred Thirty Five Rupees and Thirty Paise Only\r\n\r\nNotes: Goods sent for the purpose stated above. Not a sale.\r\n",
+  "status": "unreviewed_OCR_output"
+}

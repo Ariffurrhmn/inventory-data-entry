@@ -1,0 +1,15 @@
+{
+  "sample_id": "srd_1156-receipt",
+  "image_path": "Dataset\\intake\\2026-10-19\\expressexpense_srd\\images\\1156-receipt.jpg",
+  "image_sha256": "507165dd8b2b9c9bb38d239f7f08a64a07a98437f9242ec86f5f44546a93bef3",
+  "full_text": "IKEA FOOD\r\nIKEA MILTON KEYNES 185\r\nVAT: GB 527773320\r\nAddressq\r\n\r\nQty Name Price Total £\r\n\r\n1 Meathal is 10 3.80 3.80\r\n1 Fish & Chips Adult 4,95 4.95\r\n1 Petit Pain - White 0.50 0.50\r\n\r\n1 Wine rose 2.80 2.80\r\n1 Wine red 2.380 2.80\r\nNet SubTotal: 12.37\r\nTax:\r\n\r\n20%VAT 2.48\r\n\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

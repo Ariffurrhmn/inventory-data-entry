@@ -1,0 +1,15 @@
+{
+  "sample_id": "srd_1011-receipt",
+  "image_path": "Dataset\\intake\\2026-10-19\\expressexpense_srd\\images\\1011-receipt.jpg",
+  "image_sha256": "792eceb2a92a091f427d41f62d9316d8a6a164fdc7c849d7027ff474f924855f",
+  "full_text": "man Cake. CA 91401\r\n\r\n55.1280\r\n\r\nBeef Ribs , .\r\nWeight: 1.89 Ibs @ $19.50/bs\r\n\r\nPulled Pork Sand\r\n‘Reg\r\nCreamed Com[Small]\r\nLonghorn Mac & Cheese[sm]\r\nChocolate Cake[Slice] $3.85\r\nFountain Soda $2.25\r\n\r\nSubtotal $59.11\r\nCA Sales Tax $5.32\r\n\r\nTotal $64.43\r\nWells Fargo $64.43\r\n\r\nChange $0.00\r\nThank You for Visiting\r\n\r\nPlease visit our website:\r\nwww.smokecitymarket. com\r\n\r\nEnjoy our BBQ? 'Like' us on\r\nfacebook and Yelp\r\nPlease rate us on Zagat\r\nWW Zagat com/r/smoke-city-market-van-nuy\r\n\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

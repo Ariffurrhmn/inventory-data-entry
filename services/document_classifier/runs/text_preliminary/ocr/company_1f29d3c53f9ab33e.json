@@ -1,0 +1,15 @@
+{
+  "sample_id": "company_1f29d3c53f9ab33e",
+  "image_path": "Dataset\\intake\\2026-10-19\\company_documents_v2\\images\\purchase_order\\1f29d3c53f9ab33e.jpg",
+  "image_sha256": "f908d6e3de097833c6d7e98810f90579745926100b3657b08cdd58058aa513b4",
+  "full_text": "Iw Purchase Order\r\n\r\nIris Wheelworks LLC\r\n\r\nNumber PO-2023-234\r\nPrecision wheels, smooth rides for\r\nal Date 28 Aug 2023\r\n410 Oak Street Delivery date 6 Sep 2023\r\nSuite 143 Account no. VISTARO0001\r\n02110 Boston, MA ~ ~\r\nUSA Requested by ~~ Reinout Hillmann\r\nPhone: (591) 555-4212 Carrier Cargo Transport 5\r\ncontact@iriswheelworks.com\r\nwww.iriswheelworks.com\r\nEIN 80-1423 /ENDOR DELIVER TO\r\nVista Road Bikes Iris Wheelworks LLC\r\n8197 Hermosa 410 Oak Street\r\nBANK DE 97301 Salem, OR Suite 143\r\nLu ha United States 02110 Boston, MA\r\nAccount: 5585791826 USA\r\n\r\nRouting no.: 440248973\r\n\r\nPhone: (591) 555-4212\r\n\r\nItem Description Qty  Unitprice Disc. Amount\r\n\r\nTI-M267 LL Mountain Tire 550 $32.25 —- $17,737.50\r\n\r\nComparible traction, less expensive\r\n\r\nwire be: Sing.\r\n\r\nTI-M602 ML Mountain Tire 550 $36.56 —- $20,108.00\r\nGreat traction, high-density rubber\r\n\r\nPAYMENT TER\r\n\r\nSubtotal $37,845.50\r\nNet 45 days\r\n\r\nFreight $946.09\r\nPlease confirm this order and quote our PO\r\nnumber on all invoices and delivery notes. Tax 8% $3,027.49\r\n\r\nTotal $41,819.08\r\n\r\nApproved by\r\n\r\nYour next ride is\r\n\r\nPurchase Order PO-2C Page 1/1\r\n\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

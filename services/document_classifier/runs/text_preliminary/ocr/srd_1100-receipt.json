@@ -1,0 +1,15 @@
+{
+  "sample_id": "srd_1100-receipt",
+  "image_path": "Dataset\\intake\\2026-10-19\\expressexpense_srd\\images\\1100-receipt.jpg",
+  "image_sha256": "640cdb6123dc2e89ef9c4e8eeca6f1a7bcd74a084db007b3ec1d0b58e23ee19b",
+  "full_text": "Stony __..\r\n16725 Stony Plain Rd\r\nEdmonton AB T5P 4A9\r\nStore#: 3859 Tgl4: 780-414-8362\r\n\r\nWelcome to all day breakfast\r\n0 Mc\r\n\r\nDonald's\r\n—— tt\r\nKS# 1 03/10/2018 07:39:12 PM\r\nQry ITEM TOTAL\r\n1 Delivery 0.00\r\n1 10 McNuggets EWM 10.29\r\n| Barbeque Sauce\r\n| Barbeque Sauce\r\n1 L Coke 0\r\n1 M French Fries i trois.) rid\r\n1 HM GrChs S-Fry Yog 3.98\r\n1 Snoopy\r\n1 HM Apple Juice\r\n1 6 Cookies 2.88\r\n\r\n6 Choc Chip Cookie\r\n\r\n>»\r\n\r\n1 Baked Apple Pie 1.18\r\n1 L French Fries 3.23\r\n1 L Iced Tea 2.99\r\nSubtotal 25.04\r\nGST 1.11\r\nTake-Out Total 26.15\r\n=\r\n| CREDIT SALES - McDelivery 26.15\r\n| Change 0.00\r\n~%\r\nGST #: 120907092\r\n0\r\n“1 SALE #04Kdfug532\r\n\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

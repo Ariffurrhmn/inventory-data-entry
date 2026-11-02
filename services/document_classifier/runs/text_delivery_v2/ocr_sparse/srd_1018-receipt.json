@@ -1,0 +1,13 @@
+{
+  "sample_id": "srd_1018-receipt",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "99d4bfa31a48ae1eaf9e103d239e171460fd192c67e735ec3a6897f4ff325907",
+  "full_text": "=\r\n\r\n12:49 PM\r\n\r\n: YOUR QUEST NUMBER IS\r\n\r\nA\r\n\r\nIN-N-OUT BURGER SANTA CLAR\r\n\r\n2012-04-21\r\n\r\n12:48 PM\r\n\r\n76 1 262 1110\r\n\r\nCashier: KEVIN DU\r\n\r\nCheck\r\n\r\n:¢ 12\r\n\r\n2.00\r\n\r\nW GR XL XTMInst pro\r\n\r\nCounter—-Take Out\r\n\r\n2.00\r\n\r\nTAX 8.25%\r\n\r\nAmount Due\r\n\r\n$2.17\r\n\r\nCash Tender\r\n\r\nChange\r\n\r\n$3.00\r\n\r\nTHANK\r\n\r\n$.83\r\n\r\nYOu i\r\n\r\n2012-0820\r\n\r\nTe\r\n\r\nLTT)\r\n",
+  "status": "unreviewed_OCR_output"
+}

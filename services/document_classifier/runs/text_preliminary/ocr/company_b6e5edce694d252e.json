@@ -1,0 +1,15 @@
+{
+  "sample_id": "company_b6e5edce694d252e",
+  "image_path": "Dataset\\intake\\2026-10-19\\company_documents_v2\\images\\purchase_order\\b6e5edce694d252e.jpg",
+  "image_sha256": "80d0d59d7ab74c9c25f466572aa21b89f7475b58d9ef8a10a781cdae3f280688",
+  "full_text": "Boreal Components Co.\r\nPedal Power, Precision Built\r\n36 Industrial Pkwy - 80202 Denver, CO - USA\r\n\r\nNumber P0-2025-2262\r\nDate 03/09/2025\r\nDelivery date 03/18/2025\r\nAccount no. SUPERSAL0601\r\n\r\nRequested by Annette Hill\r\nPURC HASE ORDER Carrier Xrq - Truck Ground\r\n\r\nVENDOR DELIVER TO\r\n\r\nSUPERSALES INC. Boreal Components Co.\r\n\r\n9443 Oaxaca 36 Industrial Pkwy\r\n\r\n90712 Lakewood, CA 80202 Denver, CO\r\n\r\nUnited States USA\r\n\r\nItem Description Qty Unit price Disc. Amount\r\nDC-8732 Decal 1 1,250 $0.21 = $262.50\r\nDC-9824 Decal 2 1,250 $0.21 = $262.50\r\n\r\nPAYMENT TERMS\r\n\r\nSubtotal $525.00\r\nNet 30 days\r\n\r\nFreight 13.12\r\nPlease confirm this order and quote our PO number on all 9 $\r\ninvoices and delivery notes. Tax 8% $42.00\r\n\r\nTotal $580.12\r\nApproved by\r\nRide on, thanks for choosing Boreal Bank: Northern Trust Bank Boreal Components Co.\r\nComponents. Account: 8815694933 EIN 59-2005511\r\n\r\nRouting no.: 079558108\r\n\r\nPurchase Order P0-2025-2262 Page 1 / 1\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

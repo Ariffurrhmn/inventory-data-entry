@@ -1,0 +1,16 @@
+{
+  "sample_id": "54a5c3334a7e",
+  "image_path": "services\\document_classifier\\data\\images\\54a5c3334a7e.jpg",
+  "image_sha256": "d1550aed36b57b9c9bc35cfa80db900b7283160a4d5bfb7c82b26ec9629b4f3b",
+  "full_text": "CAFE PARISIEN LARCHMONT LLC\n242 N LARCHMONT BLVD\nLOS ANGELES, CA 90004\n(310) 815-8222\n\nDine In\nServer; Kimberly L. Jan 24,2019\nReceipt: YWGH 10:29 AM\nTable: 36\n\nItem(s)\n\nCROISSANT AUX RAISINS $4.00\n\nCappucino $4.75\nLL  —————m——\nSubtotal $8.75\nSales Tax (9.5%) $0.83\nTotal $9.58\n\neT\n\nCustomer Copy\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\54a5c3334a7e.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

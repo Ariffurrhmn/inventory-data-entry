@@ -1,0 +1,13 @@
+{
+  "sample_id": "9a3b168b4497",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "f188b74a6218121d11e5180dd45be2f7f22d7ec5d402dff6b9512bb6194694c8",
+  "full_text": "Arifur Rahman\r\n\r\nPURCHASE\r\n\r\nORDER\r\n\r\nPurchase Order # 4\r\n\r\nBill To:\r\n\r\nShip To:\r\n\r\nMaliha\r\n\r\nUsha\r\n\r\nDate:\r\n\r\nOct 7, 2026\r\n\r\nRequired By:\r\n\r\nOct 12, 2026\r\n\r\nItem\r\n\r\nantity\r\n\r\nRate\r\n\r\nAmount\r\n\r\nUSB Flash Drive\r\n\r\n10\r\n\r\n$5.50\r\n\r\n$55.00\r\n\r\nWireless Mouse\r\n\r\n$7.50\r\n\r\n$37.50\r\n\r\nKeyboard\r\n\r\n$9.00\r\n\r\n$9.00\r\n\r\nUSB-C Cable\r\n\r\n$2.50\r\n\r\n$2.50\r\n\r\nSubtotal:\r\n\r\n$104.00\r\n\r\nTax (0.25%):\r\n\r\n$0.26\r\n\r\nTotal:\r\n\r\n$104.26\r\n",
+  "status": "unreviewed_OCR_output"
+}

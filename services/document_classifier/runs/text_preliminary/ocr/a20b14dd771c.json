@@ -1,0 +1,16 @@
+{
+  "sample_id": "a20b14dd771c",
+  "image_path": "services\\document_classifier\\data\\images\\a20b14dd771c.jpg",
+  "image_sha256": "0f6481d6fd8149fc819b5a1f464fd1dd34d2bbf3155adbe9cdbf940f09b9b24a",
+  "full_text": "DEF Company PURCHASE ORDER\n\nShahadat Sarker\nUttara-10,\nDhaka,\nBangladesh\nVendor Address: PO# PO-14\nXVZ Compaty OrderDate Sep 20,2026\nMirpur-2,\nDhaka, Delivery Date Sep 23, 2026\nBangladesh\nItem Description Qty Rate Amount\nInstant Noodles 10 0.4 4\nWhite Sugar 1kg 1 1.3 1.3\nRed Lentils 1kg 1 15 1.5\nRice 5kg 1 4.5 4.5\nSub Total 11.3\nPurchase Tax (10%) 1.13\nTOTAL $12.43\nNotes\n\nIt was great doing business with you.\n\nTerms & Conditions\n\nUpon accepting this purchase order, you hereby agree to the terms & conditions.\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\a20b14dd771c.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

@@ -1,0 +1,13 @@
+{
+  "sample_id": "company_07459a2f7206a271",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "b421f1915db3050e10e1157fa070b62e7c7f72f7f87d0950d32163a7c2d776bc",
+  "full_text": "Iw\r\n\r\nPurchase Order\r\n\r\nIris Wheelworks LLC\r\n\r\nPrecision wheels, smooth rides for\r\n\r\nNumber\r\n\r\nPO-2024-1126\r\n\r\nall.\r\n\r\nDate\r\n\r\n7 Nov 2024\r\n\r\n410 Oak Street\r\n\r\nDelivery date\r\n\r\n16 Nov 2024\r\n\r\nSuite 143\r\n\r\nAccount no.\r\n\r\nHILLSBI0001\r\n\r\n02110 Boston, MA\r\n\r\nUSA\r\n\r\nRequested by\r\n\r\nReinout Hillmann\r\n\r\nPhone: (591) 555-4212\r\n\r\nCarrier\r\n\r\nZy - Express\r\n\r\ncontact\r\n\r\nriswheelworks.com\r\n\r\nwww.iriswheelworks.com\r\n\r\nEIN 80-1423\r\n\r\n/ENDOR\r\n\r\nDELIVER\r\n\r\nTO\r\n\r\nHill's Bicycle Service\r\n\r\nIris Wheelworks LLC\r\n\r\n3664 Colt Ct.\r\n\r\n410 Oak Street\r\n\r\nBANK DE\r\n\r\n94801 Richmond, CA\r\n\r\nSuite 143\r\n\r\nBank: Northern Trust Bank\r\n\r\nAccount: 5585791826\r\n\r\nUnited States\r\n\r\n02110 Boston, MA\r\n\r\nUSA\r\n\r\nRouting no.: 440248973\r\n\r\nPhone: (591) 555-4212\r\n\r\nItem\r\n\r\nAmount\r\n\r\nDescription\r\n\r\nQty\r\n\r\nUnit price\r\n\r\nSE:\r\n\r\nLL Road Seat/Saddle\r\n\r\n550\r\n\r\n$21.09\r\n\r\n$11,599.50\r\n\r\nR581\r\n\r\nLight\r\n\r\nht foam-padd\r\n\r\nidle\r\n\r\nSE-\r\n\r\nML Road Seat/Saddle\r\n\r\n550\r\n\r\n$30.44\r\n\r\n$16,742.00\r\n\r\nR908\r\n\r\nRubber bumpers absorb bumps\r\n\r\nPAYMENT TERMS\r\n\r\nSubtotal\r\n\r\n$28,341.50\r\n\r\nNet 45 days\r\n\r\nFreight\r\n\r\n$708.59\r\n\r\nPlease confirm this order and quote our PO\r\n\r\nnumber on all invoices and delivery notes\r\n\r\nTax 8%\r\n\r\n$2,267.50\r\n\r\nTotal\r\n\r\n$31,317.59\r\n\r\nApproved by\r\n\r\nYour next ride is just around the corner\r\n\r\nPurchase Order PO-2024-1\r\n\r\nPage 1/1\r\n",
+  "status": "unreviewed_OCR_output"
+}

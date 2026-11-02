@@ -1,0 +1,13 @@
+{
+  "sample_id": "srd_1159-receipt",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "3f00a336baa60544516ad18c9f62289836fced83446abacfa652f9586ca066eb",
+  "full_text": "a4\r\n\r\n14\r\n\r\nDl\r\n\r\n>»248\r\n\r\nJ. OV\r\n\r\n[\r\n\r\nI\r\n\r\nI VE\r\n\r\nThru\r\n\r\nTotal\r\n\r\n6\r\n\r\n59\r\n\r\n1\r\n\r\nChange\r\n\r\n$3.41\r\n\r\nan\r\n",
+  "status": "unreviewed_OCR_output"
+}

@@ -1,0 +1,15 @@
+{
+  "sample_id": "company_7aaa46e675512314",
+  "image_path": "Dataset\\intake\\2026-10-19\\company_documents_v2\\images\\purchase_order\\7aaa46e675512314.jpg",
+  "image_sha256": "a1967e49792686732ced3cd01ba1975cae350ebd5ac24316f1363592830c11aa",
+  "full_text": "Vantage Outdoor Corp.\r\nRide Further, r Smarter\r\n\r\n304 5th Avenue\r\n\r\nPurchase Sui 522\r\n\r\n97205 Portland, OR\r\n\r\nUSA\r\n(0) rd e r Phone: (442) 555-7651\r\n\r\nsales@vantageoutdoor.com\r\nWWW. vantageoutdoor.com\r\nEIN 43-3439968\r\n\r\nNUMBER DATE DELIVERY DATE ACCOUNT NO. REQUESTED BY CARRIER\r\nVO-PO-830 September 4, September 13, VARSITY0001 Linda Meisner Zy - Express\r\n2024 2024\r\nVENDOR DELIVER TO\r\nVarsity Sport Co. Vantage Outdoor Corp.\r\n81 Ana Mile 304 5th Avenue\r\n99202 Spokane, WA Suite 542\r\nUnited States 97205 Portland, OR\r\nUSA\r\n\r\nPhone: (442) 555-7651\r\n\r\nItem Description Qty Unit price Disc. Amount\r\n\r\nCH-0234 Chain 60 $15.74 - $944.40\r\nSuperior shifting performance.\r\n\r\nPAYMENT TERMS\r\n\r\nSubtotal $944.40\r\nNet 30 days\r\n\r\nFreight $23.61\r\nPlease confirm this order and quote our PO number on all invoices\r\nand delivery notes. Tax 8% $75.55\r\n\r\nTotal $1,043.56\r\n\r\nApproved by\r\n\r\nThanks for trusting our adventure gear.\r\nwww.vantageoutdoor.com - sales@vantageoutdoor.com - (442) 555-7651\r\n\r\nPurchase Order VO-PO-830 Pagel/1\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

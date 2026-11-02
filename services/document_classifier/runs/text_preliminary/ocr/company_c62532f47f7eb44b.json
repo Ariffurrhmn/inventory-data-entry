@@ -1,0 +1,15 @@
+{
+  "sample_id": "company_c62532f47f7eb44b",
+  "image_path": "Dataset\\intake\\2026-10-19\\company_documents_v2\\images\\purchase_order\\c62532f47f7eb44b.jpg",
+  "image_sha256": "f613837aabe581c652bbc51e0e61d8ee97de878f07fc89fb72eaaf6618f0a0ec",
+  "full_text": "Juniper Bikes PLC\r\n\r\nBuilt for every ride\r\n144 High Street - BS1 4DJ Bristol - United Kingdom\r\n\r\nNumber P0O002597\r\nDate 04/13/2025\r\nDelivery date 04/22/2025\r\nAccount no BEAUMONTO0001\r\n\r\nRequested by Mikael Sandberg\r\n\r\nP u rchase Order Carrier Cargo Transport 5\r\n\r\nVENDOR\r\n\r\nBeaumont Bikes\r\n2472 Alexander Place\r\n83301 West Covina, ID\r\nUnited States\r\n\r\nItem Description Qty Unit price Disc. Amount\r\nCB-2903 Chainring Bolts 3 £37.50 i £112.50\r\nCN-6137 Chainring Nut 3 £33.81 - £101.43\r\nCR-7833 Chainring 60 £20.08 - £1,204.80\r\n\r\nPAYMENT TERMS\r\n\r\nSubtotal £1,418.73\r\nNet 60 days\r\nFreight £35.47\r\nPlease confirm this order and quote our PO number on all invoices\r\nand delivery notes. Tax 8% £113.51\r\nTotal £1,567.71\r\nApproved by\r\nPedal on, from all of us Juniper Bikes PLC\r\n\r\nVAT GB883310779\r\n\r\nPurchase Order PO002597 Pagel/1\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

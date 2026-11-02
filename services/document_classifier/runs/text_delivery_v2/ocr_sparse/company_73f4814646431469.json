@@ -1,0 +1,13 @@
+{
+  "sample_id": "company_73f4814646431469",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "ddea6919181a8f3ede539bec6698092b4a173c938876f81b987c59ab2a0e07ed",
+  "full_text": "Iris Sports Corp.\r\n\r\nPedal power. Ride the future.\r\n\r\n279 Harbor Blvd\r\n\r\nPACKING\r\n\r\n80202 Denver, CO\r\n\r\nUSA\r\n\r\nSLIP\r\n\r\nPhone: (989) 555-7243\r\n\r\naccounts@irissports.com\r\n\r\nwww.irissports.com\r\n\r\nEIN 79-2440607\r\n\r\nNUMBER\r\n\r\nDATE\r\n\r\nORDER NO\r\n\r\nCUSTOMER ID\r\n\r\nCARRIER\r\n\r\n1S-BL-58856\r\n\r\nNovember 4, 2024\r\n\r\nS058856\r\n\r\nAW00025882\r\n\r\nXrq - Truck Ground\r\n\r\nBILL TO\r\n\r\nEdward Roberts\r\n\r\n130 North Main St.\r\n\r\n92102 San Diego, CA\r\n\r\nUnited States\r\n\r\nPhone: 597-555-0116\r\n\r\nItem\r\n\r\nUnit\r\n\r\nOrdered\r\n\r\nDescription\r\n\r\nShipped\r\n\r\nTT-M928\r\n\r\nMountain Tire Tube\r\n\r\ni\r\n\r\n1\r\n\r\nTI-M267\r\n\r\nLL Mountain Tire\r\n\r\nEA\r\n\r\n1\r\n\r\ni\r\n\r\nHL-U509-R\r\n\r\nSport-100 Helmet, Red\r\n\r\nEA\r\n\r\nPackages\r\n\r\nUnits on hand\r\n\r\nNOTES\r\n\r\nMountain bikes built for long-distance riders.\r\n\r\nPacked by\r\n\r\nReceived by\r\n\r\nGear up strong and ride safely today.\r\n\r\nwww.irissports.com - accounts@irissports.com - (989) 555-7243\r\n\r\nPacking Slip IS-BL-58856\r\n\r\nPage 1/1\r\n",
+  "status": "unreviewed_OCR_output"
+}

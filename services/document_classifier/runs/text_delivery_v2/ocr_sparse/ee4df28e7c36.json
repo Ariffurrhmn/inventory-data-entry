@@ -1,0 +1,13 @@
+{
+  "sample_id": "ee4df28e7c36",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "fe331cf5597acd422ec0514ddd2e059a8a69d31b0767f98dfcfa3524c81b9dc5",
+  "full_text": "ABC Company\r\n\r\nPURCHASE ORDER\r\n\r\nArifur Rahman\r\n\r\nMirpur-2,\r\n\r\nDhaka,\r\n\r\nBangladesh\r\n\r\nVendor Address:\r\n\r\nPO#\r\n\r\nPO-9\r\n\r\nXYZ Company\r\n\r\nOrder Date\r\n\r\nOct 05, 2026\r\n\r\nMirpur-12,\r\n\r\nDhaka,\r\n\r\nDelivery Date\r\n\r\nOct 07, 2026\r\n\r\nBangladesh\r\n\r\nItem Description\r\n\r\nQty\r\n\r\nRate\r\n\r\nunt\r\n\r\n2\r\n\r\n2\r\n\r\nCeramic Mug\r\n\r\nLED Desk Lamp\r\n\r\n5\r\n\r\n85\r\n\r\n42.5\r\n\r\nBackpack\r\n\r\n4\r\n\r\n12\r\n\r\n48\r\n\r\nCotton T-Shirt\r\n\r\n3\r\n\r\n7\r\n\r\n21\r\n\r\nDenim Jeans\r\n\r\n1\r\n\r\n15\r\n\r\n15\r\n\r\nSub Total\r\n\r\n130.5\r\n\r\nPurchase Tax (10%)\r\n\r\n13.05\r\n\r\nTOTAL\r\n\r\n$143.55\r\n\r\nNotes\r\n\r\nIt was great doing business with you.\r\n\r\nTerms & Conditions\r\n\r\nUpon accepting this purchase order, you hereby agree to the terms & conditions.\r\n",
+  "status": "unreviewed_OCR_output"
+}

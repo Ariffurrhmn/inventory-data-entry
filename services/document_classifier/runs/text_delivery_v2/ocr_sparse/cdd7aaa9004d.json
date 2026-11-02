@@ -1,0 +1,13 @@
+{
+  "sample_id": "cdd7aaa9004d",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "3a782087b6f7af63728eddc13354e6be20247ab1b24e0cb01b6168ffee2287b3",
+  "full_text": "—\r\n\r\ncv\r\n\r\nBengal Consumer Goods\r\n\r\n—\r\n\r\nInvoice\r\n\r\nInvoice No: INV-9335\r\n\r\nDate: 13/08/2026\r\n\r\nBill To / Customer: Ruposhi Bazar, Mirpur-10, Dhaka\r\n\r\nin Jo [em [ae\r\n\r\nEEE TT BT\r\n\r\nD. Se\r\n\r\nuthorised Signature\r\n",
+  "status": "unreviewed_OCR_output"
+}

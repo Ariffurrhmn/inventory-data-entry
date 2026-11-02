@@ -1,0 +1,16 @@
+{
+  "sample_id": "29bd052c0c45",
+  "image_path": "services\\document_classifier\\data\\images\\29bd052c0c45.jpg",
+  "image_sha256": "6c8e5bc7cf1ef8b49c55cb5d1f732a56876bf525f69f6af3afcfc8fbaca3c202",
+  "full_text": "Delivery Challan\n\nDate: 13/0%\n\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\29bd052c0c45.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

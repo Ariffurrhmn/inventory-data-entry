@@ -1,0 +1,15 @@
+{
+  "sample_id": "srd_1045-receipt",
+  "image_path": "Dataset\\intake\\2026-10-19\\expressexpense_srd\\images\\1045-receipt.jpg",
+  "image_sha256": "b665c8d1e971e6f033e4fd29becd6ee1cb7ef18bbde76ed9017b7cb89252aad9",
+  "full_text": "Y\r\n1: Um 5 RES AURANT\r\n\r\n6/5 Walk In\r\n\r\nnba Sl\r\nt Sauce el\r\n' nemagce ial pia\r\nFood Subtotal: 20.78\r\n308 Vv Subtot | 0 0\r\n\r\nfood Ts 1X 1 25\r\nTax 0.00\r\n\r\nT tal: 22.03\r\n\r\nReceived: 2203\r\nChanges. 0.09\r\n\r\nPAID Cash\r\n\r\n| hank You\r\n\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

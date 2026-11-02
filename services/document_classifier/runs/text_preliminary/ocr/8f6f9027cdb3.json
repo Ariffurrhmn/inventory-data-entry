@@ -1,0 +1,16 @@
+{
+  "sample_id": "8f6f9027cdb3",
+  "image_path": "services\\document_classifier\\data\\images\\8f6f9027cdb3.jpg",
+  "image_sha256": "1b75d1a43cc9e76f12e7458ec76e85a1ea0423b278576a198afffe5bda2692ff",
+  "full_text": "Welc Ome to chick\n\n11-A\nSaxon Bou) evard FSU. (401125)\n\n7016 10: 8 103 AM\n5/6/2\n! DINE IN\n\nOrder Numbers 233291\n\n1 Meal- -SpeySand...\n\nSpey San\nFries MD\nsut Tea\nSub. Total: $6.75\nChange $0.34\nCash $7.00\nTran Seq No: 4233281\n\nRegister:d\nCashier: Christopher\nIt Was our pleasure serving you:\n\nHave a wonderful day.\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\8f6f9027cdb3.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

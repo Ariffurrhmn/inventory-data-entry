@@ -1,0 +1,15 @@
+{
+  "sample_id": "srd_1054-receipt",
+  "image_path": "Dataset\\intake\\2026-10-19\\expressexpense_srd\\images\\1054-receipt.jpg",
+  "image_sha256": "5882295058e47aaf30853204e7de9e56c18752aab7fea7378f1af7248af148cc",
+  "full_text": "BIG JO'S\r\n1955 BROADWAY Jan 25, 2018\r\nSANTA MONICA, CA 90404 11:47 AM\r\n\r\n(310) 828-3191\r\n\r\nwww.bigjosburgers.com\r\n———————————————\r\nCash\r\n\r\nTicket: Shirley\r\nReceipt Qlxi\r\n\r\nPICKUP mL\r\nHB $4.00\r\nRegular Price\r\n\r\nFrench Fries x 2 $5.00\r\n\r\n($2.50 each)\r\n$8.85\r\n\r\nTurkey Burger\r\n\r\nCombo\r\n$8.35\r\n\r\nHB\r\nCombo, Grilled Onion ($0.75)\r\n$15.70\r\n\r\nCB x2\r\n($7.85 each)\r\n\r\nCombo\r\n$5.00\r\n\r\nCB\r\nRegular Price, Grilled Onion ($0.75)\r\n\r\nChill Fries $4.35\r\n\r\nSubtotal $51.25\r\nSales Tax $5.25\r\n\r\nTotal $56.50\r\nCash $60.00\r\nChange $3.50\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

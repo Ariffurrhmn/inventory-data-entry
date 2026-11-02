@@ -1,0 +1,13 @@
+{
+  "sample_id": "4c2e748c6bc8",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "372adf4bb2d29110f99b35e87ebd9721de55c631c546dea792ab4c462048a339",
+  "full_text": "DELIVERY CHALLAN\r\n\r\nABC Company\r\n\r\nChallan no.: DC- 014\r\n\r\nDate: 2026-09-04\r\n\r\nPlace of supply: Kolkata\r\n\r\nSELLER\r\n\r\nCONSIGNEE\r\n\r\nABC Company\r\n\r\nKhadiza Khatun\r\n\r\nShop 12, Market Road, City — 400001\r\n\r\nHouse- 65, Road- 25, Kolkata\r\n\r\nVehicle no.: MH 01 AB 1234\r\n\r\nPurpose: Job work\r\n\r\nDescription\r\n\r\nHSN/SAC\r\n\r\naty\r\n\r\nRate\r\n\r\nTaxable\r\n\r\nGST %\r\n\r\nFace Wash\r\n\r\n1837\r\n\r\n1.00\r\n\r\n2320.00\r\n\r\n2320.00\r\n\r\n%\r\n\r\nShampoo\r\n\r\n8864\r\n\r\n1.00\r\n\r\n2450.00\r\n\r\n2450.00\r\n\r\n5%\r\n\r\nBody lotion\r\n\r\n8778\r\n\r\n1.00\r\n\r\n2500.00\r\n\r\n2500.00\r\n\r\n6%\r\n\r\nToothpaste\r\n\r\n9753\r\n\r\n1.00\r\n\r\n2180.00\r\n\r\n180.00\r\n\r\n2%\r\n\r\nHand Wash\r\n\r\n5487\r\n\r\n2.00\r\n\r\n2220.00\r\n\r\n2440.00\r\n\r\n8%\r\n\r\nBiscuits\r\n\r\n5423\r\n\r\n10.00\r\n\r\n280.00\r\n\r\n2800.00\r\n\r\n%\r\n\r\nTaxable value\r\n\r\n22,690.00\r\n\r\ncGsT\r\n\r\n264.05\r\n\r\nSGST\r\n\r\n264.05\r\n\r\nGrand total\r\n\r\n¥2,818.10\r\n\r\nAmount in words: Two Thousand Eight Hundred Eighteen Rupees and Ten Paise Only\r\n\r\nNotes: Goods sent for the purpose stated above. Not a sale.\r\n",
+  "status": "unreviewed_OCR_output"
+}

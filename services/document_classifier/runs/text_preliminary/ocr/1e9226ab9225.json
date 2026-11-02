@@ -1,0 +1,16 @@
+{
+  "sample_id": "1e9226ab9225",
+  "image_path": "services\\document_classifier\\data\\images\\1e9226ab9225.jpg",
+  "image_sha256": "c31864b33e12af53102bd96bdd97eafd2449278c67ceb252c2455f2574ebdfd3",
+  "full_text": "Mitcheldean Garaje\nNew Road\nMitcheldean\n\nGlos\nGL17 BBX\n\n[Max #45585 Tex#% 2628\nCUSTOMER COPY\n\nUlsa\n\nAID: ABEERBREE31 ALY\nCARD: #wwsxwexsnexd] 57\nPAN Seq Nr B84\n\nICC SALE\n\nTOTAL £15.25\n\nCustomer PIN verified\nPlease retaln recelpt\nfor Your records\n\n16190882\n13/86/15 14:12 R796l\nThank You.\n\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\1e9226ab9225.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

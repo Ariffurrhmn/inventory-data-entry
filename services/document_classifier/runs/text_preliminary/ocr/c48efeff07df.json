@@ -1,0 +1,16 @@
+{
+  "sample_id": "c48efeff07df",
+  "image_path": "services\\document_classifier\\data\\images\\c48efeff07df.jpg",
+  "image_sha256": "e5a61c54bafeae7ca4a149de0e306f67ad96d3cd16307577b45ff330e0989638",
+  "full_text": "Sutway#44969-0 Phone 626-565-9999\n625 S Fair Oaks Ave\nPasadena, CA, 91105\n\nServed by: 41 5/1/2018 2:25:37 pa\n\nTerm 10-Transe 1/A-297424\n\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\c48efeff07df.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

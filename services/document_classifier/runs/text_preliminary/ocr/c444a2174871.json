@@ -1,0 +1,16 @@
+{
+  "sample_id": "c444a2174871",
+  "image_path": "services\\document_classifier\\data\\images\\c444a2174871.jpg",
+  "image_sha256": "6b7d94e2887580a9b4c5268e1cb827e655f5a899cf497ead13d066f5302a5edd",
+  "full_text": "Fol’s tAunDRYy Shor\n\n6 Cuvtoing 780-00\n1 Corofoter (king) 380.00\nTromes Service 100. 00\n\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\c444a2174871.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

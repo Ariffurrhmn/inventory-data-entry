@@ -1,0 +1,13 @@
+{
+  "sample_id": "company_1dfd27cb2f72d330",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "c449f5f573065894ac9df0cb2d6bb68479aa12e0912c311f0e46ce7d7394812d",
+  "full_text": "Vantage Outdoor Corp.\r\n\r\nRide Further,\r\n\r\nr Smarter\r\n\r\n304 5th Avenue\r\n\r\nSuite 542\r\n\r\nPurchase\r\n\r\n97205 Portland, OR\r\n\r\nUSA\r\n\r\nOrder\r\n\r\nPhone: (442) 555-7651\r\n\r\nsales@vantageoutdoor.com\r\n\r\nwww.vantageoutdoor.com\r\n\r\nEIN 43-3439968\r\n\r\nNUMBER\r\n\r\nDATE\r\n\r\nDELIVERY DATE\r\n\r\nACCOUNT NO.\r\n\r\nREQUESTED BY\r\n\r\nCARRIER\r\n\r\nVO-PO-501\r\n\r\n08/09/2024\r\n\r\n08/18/2024\r\n\r\nVISTARO0001\r\n\r\nEric Kurjan\r\n\r\nCargo\r\n\r\nTransport 5\r\n\r\nVENDOR\r\n\r\nVista Road Bikes\r\n\r\n8197 Hermosa\r\n\r\n97301 Salem, OR\r\n\r\nUnited States\r\n\r\nItem\r\n\r\nDescription\r\n\r\nQty\r\n\r\nUnit price\r\n\r\nAmount\r\n\r\nTI-M267\r\n\r\nLL Mountain Tire\r\n\r\n550\r\n\r\n$32.25\r\n\r\n$17,737.50\r\n\r\nComparible traction, less expensive wire bead casing.\r\n\r\nTI-M602\r\n\r\nML Mountain Tire\r\n\r\n550\r\n\r\n$36.56\r\n\r\n$20,108.00\r\n\r\nGreat traction, high-density rubber.\r\n\r\nPAYMENT TERMS\r\n\r\nSubtotal\r\n\r\n$37,845.50\r\n\r\nNet 30 days\r\n\r\n$946.09\r\n\r\nFreight\r\n\r\nPlease confirm this order and quote our PO number on all invoices\r\n\r\nand delivery notes.\r\n\r\nTax 8%\r\n\r\n$3,027.49\r\n\r\nTotal\r\n\r\n$41,819.08\r\n\r\nApproved by\r\n\r\nThanks for trusting our adventure gear.\r\n\r\nwww.vantageoutdoor.com - sales@vantageoutdoor.com - (442) 555-7651\r\n\r\nPurchase Order VO-PO-501\r\n\r\nPage 1/1\r\n",
+  "status": "unreviewed_OCR_output"
+}

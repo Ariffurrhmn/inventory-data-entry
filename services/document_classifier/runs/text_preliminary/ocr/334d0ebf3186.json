@@ -1,0 +1,16 @@
+{
+  "sample_id": "334d0ebf3186",
+  "image_path": "services\\document_classifier\\data\\images\\334d0ebf3186.jpg",
+  "image_sha256": "ce2322e6ef6b6bb1d64ca4d6cff12988dddc8369139e0bf90bf3e578a1f08174",
+  "full_text": "| |\n: ila ’ :\n13 Hil i ei ne\n\ni\n\na\n\nAVIS LG —\n\nCAR WASH & LUBE CENTERS\n\nMister Car Wash 002/102\n1038 Gessner Rd\nHouston, TX 77055\n113-461-0541\nMS\n002- WCash2, 02/20/16, 04:39 PM\nShift 1s iudd 1539, Sale # 735835148682\n\nLE Sp\n\np Ei] —— 39.99\n1 Dissolve-All 20.00\n\n1 Lube Wash Coupon# -13.99\n(Lube Free Wash,Bal: 0)\nSubtotal 46.00\n\nSales Tax 0.00\n\nTotal 46.00\n\n-————————\n\nAMEX x2526 46.00\n(Sale Appr # 344020: +284179)\n(Merchant # 196026) A\n\nCar# 630\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\334d0ebf3186.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

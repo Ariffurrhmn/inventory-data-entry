@@ -1,0 +1,13 @@
+{
+  "sample_id": "e396ade11def",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "b9f12f27d77447b831b0976cf9e4fd4265fb6f17e158cd85528c4bdde5053c00",
+  "full_text": "Er\r\n\r\n-—\r\n\r\n-—\r\n\r\n|\r\n\r\nJamuna Wholesale\r\n\r\nIn\r\n\r\nice\r\n\r\ni\r\n\r\nHe\r\n\r\nNo:\r\n\r\n026.\r\n\r\nek\r\n\r\not\r\n\r\ni\r\n\r\ni\r\n\r\n4\r\n\r\nJ\r\n\r\nfi\r\n\r\nco\r\n\r\n=\r\n\r\n3,\r\n\r\n2\r\n\r\n3\r\n\r\n—_—_—-\r\n\r\n-\r\n\r\nhe\r\n\r\nio\r\n\r\n®\r\n\r\ni\r\n\r\na\r\n\r\nag\r\n\r\n0\r\n\r\n:\r\n\r\ni\r\n\r\nSi\r\n\r\nbd\r\n\r\n5\r\n\r\n—— a\r\n",
+  "status": "unreviewed_OCR_output"
+}

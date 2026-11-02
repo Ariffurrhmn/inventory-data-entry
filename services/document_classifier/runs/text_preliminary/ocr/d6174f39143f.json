@@ -1,0 +1,16 @@
+{
+  "sample_id": "d6174f39143f",
+  "image_path": "services\\document_classifier\\data\\images\\d6174f39143f.jpg",
+  "image_sha256": "aaa8e7e7ee7e9c88f0c433212c1dd8a4ea8a765ea56519390a62c0a1abdc31d2",
+  "full_text": "Packing Slip\n\nFrom Ship to\nCrimson&Co\n\n07 South Bishil Road\n\n1216\n\nBangladesh\n\nOrder #1111\nOctober 1, 2026\n\nOrder Details\n\nQty Item\n1 Premium Ribbed Tank Top - Heritage Edition - M\n1 Natural Raw 12-Ounce Ecru Heavy Denim Jeans - 32\n\n1 The Ascot Check Boxy Shirt - L\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\d6174f39143f.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

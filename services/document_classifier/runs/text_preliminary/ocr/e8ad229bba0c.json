@@ -1,0 +1,16 @@
+{
+  "sample_id": "e8ad229bba0c",
+  "image_path": "services\\document_classifier\\data\\images\\e8ad229bba0c.jpg",
+  "image_sha256": "9a48f682693cbfa6005f70710c75a550bc1b3a60afe589c14ea1722333416ca0",
+  "full_text": "Date: 0 jos] 28\" oh\n\n~vpors Purchase Order A\nrad erdierre Mobile No: . 816/616 75D AE\n\nTENN: 14 ALRITE prise erverersssssosssoronsisihrmiciiis session\nProject Name: .. 23s. Jp fC pdt? QAP Como\n\nDelivery Address: Name of Item\n\nFaas by /\" Recommend by\nye\n\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\e8ad229bba0c.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

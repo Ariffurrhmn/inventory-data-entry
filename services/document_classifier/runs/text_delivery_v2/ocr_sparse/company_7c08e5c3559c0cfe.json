@@ -1,0 +1,13 @@
+{
+  "sample_id": "company_7c08e5c3559c0cfe",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "28a634fd001dbf8af2391fc76519552305c9c542ceb37f9b13dd6ffcdbd095d5",
+  "full_text": "Iris Sports Corp.\r\n\r\nPedal power. Ride the future.\r\n\r\n279 Harbor Blvd\r\n\r\nPURCHASE\r\n\r\n80202 Denver, CO\r\n\r\nUSA\r\n\r\nORDER\r\n\r\nPhone: (989) 555-7243\r\n\r\naccounts@irissports.com\r\n\r\nwww.irissports.com\r\n\r\nEIN 79-2440607\r\n\r\nNUMBER\r\n\r\nDATE\r\n\r\nDELIVERY DATE\r\n\r\nACCOUNT NO.\r\n\r\nREQUESTED BY\r\n\r\nCARRIER\r\n\r\n1S-PO-799\r\n\r\n2 Sep 2024\r\n\r\n11 Sep 2024\r\n\r\nINLINEA0001\r\n\r\nMikael\r\n\r\nCargo\r\n\r\nSandberg\r\n\r\nTransport 5\r\n\r\nVENDOR\r\n\r\nDELIVER TO\r\n\r\nInline Accessories\r\n\r\nIris Sports Corp.\r\n\r\n5 Madrid\r\n\r\n279 Harbor Blvd\r\n\r\n94519 Concord, CA\r\n\r\n80202 Denver, CO\r\n\r\nUnited States\r\n\r\nUSA\r\n\r\nPhone: (989) 555-7243\r\n\r\nItem\r\n\r\nDescription\r\n\r\nQty\r\n\r\nUnit price\r\n\r\nDisc.\r\n\r\nAmount\r\n\r\nPD-M562\r\n\r\nHL Mountain Pedal\r\n\r\n550\r\n\r\n$62.99\r\n\r\n$34,644.50\r\n\r\nPAYMENT TERMS\r\n\r\nSubtotal\r\n\r\n$34,644.50\r\n\r\nNet 45 days\r\n\r\nFreight\r\n\r\n$866.11\r\n\r\nPlease confirm this order and quote our PO number on all invoices\r\n\r\nand delivery notes.\r\n\r\nTax 8%\r\n\r\n$2,771.54\r\n\r\nTotal\r\n\r\n$38,282.15\r\n\r\nApproved by\r\n\r\nGear up strong and ride safely today.\r\n\r\nWwwirissports.com - accounts @irissports.com - (989) 555-7243\r\n\r\nPurchase Order I1S-PO-799\r\n\r\nPage 1/1\r\n",
+  "status": "unreviewed_OCR_output"
+}

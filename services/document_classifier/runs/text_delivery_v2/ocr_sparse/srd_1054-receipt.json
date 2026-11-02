@@ -1,0 +1,13 @@
+{
+  "sample_id": "srd_1054-receipt",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "5882295058e47aaf30853204e7de9e56c18752aab7fea7378f1af7248af148cc",
+  "full_text": "BIG JO'S\r\n\r\n1955 BROADWAY\r\n\r\nJan 25, 2018\r\n\r\n11:47 AM\r\n\r\nSANTA MONICA, CA 90404\r\n\r\n(310) 828-3191\r\n\r\nwww.bigjosburgers.com\r\n\r\n—————————————————\r\n\r\nCash\r\n\r\nTicket: Shirley\r\n\r\nReceipt Qlxi\r\n\r\n—\r\n\r\n—\r\n\r\nPICKUP\r\n\r\nHB\r\n\r\n$4.00\r\n\r\nRegular Price\r\n\r\nFrench Fries x 2\r\n\r\n$5.00\r\n\r\n($2.50 each)\r\n\r\nTurkey Burger\r\n\r\n$8.85\r\n\r\nCombo\r\n\r\nHB\r\n\r\n$8.35\r\n\r\nCombo, Grilled Onion ($0.75)\r\n\r\nCB x2\r\n\r\n$15.70\r\n\r\n($7.85 each)\r\n\r\nCombo\r\n\r\ncB\r\n\r\n$5.00\r\n\r\nRegular Price, Grilled Onion ($0.75)\r\n\r\nChili Fries\r\n\r\n$4.35\r\n\r\nSubtotal\r\n\r\n$51.25\r\n\r\nSales Tax\r\n\r\n$5.25\r\n\r\nTotal\r\n\r\n$56.50\r\n\r\nCash\r\n\r\n$60.00\r\n\r\nChange\r\n\r\n$3.50\r\n",
+  "status": "unreviewed_OCR_output"
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "dc0e8749153f",
+  "image_path": "services\\document_classifier\\data\\images\\dc0e8749153f.jpg",
+  "image_sha256": "c7308e0b5e1707c375a50c4bffd24b97c9370212e436239e478e2c6b3f2bf37d",
+  "full_text": "\"3BQ Chicken\n- Tidak Pedas\n\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\dc0e8749153f.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

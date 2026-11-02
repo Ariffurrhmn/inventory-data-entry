@@ -1,0 +1,13 @@
+{
+  "sample_id": "9c963148c0b7",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "aab436c097c5cb474e6df7b93d76d2b919598594635e4d9c31ee86a348c2385e",
+  "full_text": "ra\r\n\r\nDELIVERY CHALLAN\r\n\r\nABC Company\r\n\r\nChallan no. DC-014\r\n\r\nDate: 2026-09-04\r\n\r\nPlace of supply:\r\n\r\nSELLER\r\n\r\nCONSIGNEE\r\n\r\nKhadiza Khatun\r\n\r\nABC Company\r\n\r\nShop 12, Market Road, City = 400001\r\n\r\nHouse- 85, Road- 25, Kolkata\r\n\r\necient MH 01 AB 1234\r\n\r\nPurpeia: Job werk\r\n\r\n*\r\n\r\nDescription\r\n\r\nRSN/SAC\r\n\r\nRate\r\n\r\nTaxable\r\n\r\nGST%\r\n\r\nSE\r\n\r\nshjrshs\r\n\r\nrma\r\n\r\nFace Wash\r\n\r\n1837\r\n\r\n1.00\r\n\r\n320.00\r\n\r\n320.00\r\n\r\na%\r\n\r\nShampoo\r\n\r\n8364\r\n\r\n1.00\r\n\r\n2450.00\r\n\r\n450.00\r\n\r\n5%\r\n\r\nBady lotion\r\n\r\n8778\r\n\r\n500.00\r\n\r\n“Toothpaste\r\n\r\n753\r\n\r\n1.00\r\n\r\nHand Wash\r\n\r\n5487\r\n\r\n2.00\r\n\r\n220.00\r\n\r\n8%\r\n\r\nBiscuits\r\n\r\n5423\r\n\r\n10.00\r\n\r\n3%\r\n\r\nTaratie yom\r\n\r\nCGST\r\n\r\nGrand total\r\n\r\n2,818.10\r\n\r\nin\r\n\r\n»\r\n\r\na\r\n\r\nNE\r\n\r\nSe\r\n\r\nEighteen\r\n\r\nPaise Only\r\n\r\nNotwe: Goods sent for the purpose stated above. Not 3 sale.\r\n",
+  "status": "unreviewed_OCR_output"
+}

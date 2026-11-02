@@ -1,0 +1,13 @@
+{
+  "sample_id": "srd_1028-receipt",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "0a46baab3fa5f88f22848fea2b61659d55635c40fbe8c380a03b7a5dafe6aeda",
+  "full_text": "Bard sh § bud sis bsrok al § £3\r\n\r\nbased\r\n\r\nAp\r\n\r\n.\r\n\r\nRar\r\n\r\nXo\r\n\r\n4\r\n\r\nAS BURGERS #15\r\n\r\na\r\n\r\nnasnington Blvd\r\n\r\nAp\r\n\r\nhitter,\r\n\r\nCalif 50805\r\n\r\n(562) 693~ 744\r\n\r\nat\r\n\r\n-\r\n\r\nCc heck 2001 8\r\n\r\nRac\r\n\r\n2/08/18\r\n\r\noan\r\n\r\nRae\r\n\r\ni=\r\n\r\nLi\r\n\r\nLiou\r\n\r\n33\r\n\r\n*\r\n\r\nfries *\r\n\r\nass\r\n\r\nsaserican\r\n\r\n0.70\r\n\r\n:\r\n\r\nJ 0aco\r\n\r\n2\r\n\r\n93\r\n\r\n*gril onions#\r\n\r\n1 SUB ZUCCHINI\r\n\r\n2.48\r\n\r\nRaspberry Ice Te\r\n\r\nourge\r\n\r\n£ 00\r\n\r\n* sesame bun +\r\n\r\n*REGULAR#*\r\n\r\n.\r\n\r\ns3add baconss\r\n\r\naq\r\n\r\n1 *%add avocados\r\n\r\nAE oO\r\n\r\nnr\r\n\r\nMAKE\r\n\r\nNN\r\n\r\nPECIAL\r\n\r\n3.20\r\n\r\n* onions rings *\r\n\r\n2.48\r\n\r\n* lemonade *\r\n\r\n—\r\n\r\nSERV\r\n\r\n{ARG\r\n\r\n-\\\r\n\r\nZA\r\n\r\nEr\r\n\r\nSS\r\n\r\nTr\r\n\r\nS=AZIDIIInIIISISSS\r\n\r\nSr  —_—\r\n\r\n—\r\n\r\nSub/Tt1\r\n\r\nie\r\n\r\n24\r\n\r\nTax\r\n\r\n2.87\r\n\r\n*DRV THRU\r\n\r\n34\r\n\r\n21\r\n\r\nCash\r\n",
+  "status": "unreviewed_OCR_output"
+}

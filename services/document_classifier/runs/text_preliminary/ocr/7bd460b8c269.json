@@ -1,0 +1,16 @@
+{
+  "sample_id": "7bd460b8c269",
+  "image_path": "services\\document_classifier\\data\\images\\7bd460b8c269.jpg",
+  "image_sha256": "029ec635aace590319bc3adbd5d7210d44e6a792362b7aa18a6a0d99fe19c4a8",
+  "full_text": "jot\n\n00\n\non a eh i de ed £5 te ht\n\ndel\n\n000\n\n(3\nFai 2°\n\nKN HNY 1\n\nmaT\n\ni CHIC\n\nFRIED\n\nwhitotal\nBris\n\no\nbs\n\n291,975\n\n~~\na)\n\n1 2370\n\n14\n\n5\n\nX\nko soe ne nS. i\n\n1:\n\n-\n\non ot Ao\n\n. wn i oe i a\n}; Le me i 7 —\nso p\n—-— E .\na.\n-\nGi\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\7bd460b8c269.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

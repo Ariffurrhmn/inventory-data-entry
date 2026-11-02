@@ -1,0 +1,13 @@
+{
+  "sample_id": "srd_1094-receipt",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "2a937a6cd8be5cc207df77664181eef9987237f007d2c346f4a593873fbafa18",
+  "full_text": "he\r\n\r\nA\r\n\r\nPokeatery cv\r\n\r\n189\r\n\r\n0a\r\n\r\n3 Lake Chabot\r\n\r\nDecember 29 2018\r\n\r\n2:01 Pp\r\n\r\nig Valley, CA\r\n\r\nReceipt: 3zCw\r\n\r\nRamee §\r\n\r\nfRierston 06007)\r\n\r\n-~\r\n\r\nCHASE Visa\r\n\r\n[pro 000000 03 10 10\r\n\r\nPoke Box\r\n\r\n$13.50\r\n\r\n>\r\n\r\n—\r\n\r\nBegun: Avocado ($1.00)\r\n\r\n=\r\n\r\nSubtotg|\r\n\r\n$1350\r\n\r\nSento Valley Sales Tax\r\n\r\n$1.25\r\n\r\nTotal a\r\n\r\na\r\n\r\nlt\r\n\r\nVisa 0642 (Chip)\r\n\r\n$16.23\r\n\r\n$16.23\r\n\r\nI.\r\n\r\ned\r\n",
+  "status": "unreviewed_OCR_output"
+}

@@ -1,0 +1,13 @@
+{
+  "sample_id": "srd_1013-receipt",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "1b194784844014873be7a421665d207b44312a42399bb2510a043b679c758052",
+  "full_text": "ALBETOS\r\n\r\nMEXICAN FOOD\r\n\r\n11732 ARTESIA BLVD.\r\n\r\nARTESIA, CA.\r\n\r\nPh: (562) 860-2530\r\n\r\nPHONE ORDERS WELCOME\r\n\r\nORDER # 01029\r\n\r\n3 ASADA TACO\r\n\r\n8.10\r\n\r\nATM CHARGE\r\n\r\n0.75\r\n\r\nSUBTOTAL\r\n\r\n$\r\n\r\n8.85\r\n\r\nTAX TOTAL\r\n\r\n$\r\n\r\n0.73\r\n\r\nTOTAL\r\n\r\n9.58\r\n\r\nATM\r\n\r\n9.58\r\n\r\nRECALL\r\n\r\n1636\r\n",
+  "status": "unreviewed_OCR_output"
+}

@@ -1,0 +1,15 @@
+{
+  "sample_id": "srd_1013-receipt",
+  "image_path": "Dataset\\intake\\2026-10-19\\expressexpense_srd\\images\\1013-receipt.jpg",
+  "image_sha256": "1b194784844014873be7a421665d207b44312a42399bb2510a043b679c758052",
+  "full_text": "ALBETOS\r\nMEXICAN FOOD\r\n11732 ARTESIA BLVD.\r\n\r\nARTESIA, CA.\r\nPh: (562) 860-2530\r\nPHONE ORDERS WELCOME\r\n\r\nORDER # 01029\r\n\r\n3 ASADA TACO\r\nATM CHARGE\r\nSUBTOTAL $\r\nTAX TOTAL $\r\nTOTAL $\r\nATM 4\r\n\r\nRECALL :636\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

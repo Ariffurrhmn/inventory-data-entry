@@ -1,0 +1,15 @@
+{
+  "sample_id": "srd_1094-receipt",
+  "image_path": "Dataset\\intake\\2026-10-19\\expressexpense_srd\\images\\1094-receipt.jpg",
+  "image_sha256": "2a937a6cd8be5cc207df77664181eef9987237f007d2c346f4a593873fbafa18",
+  "full_text": "$\r\n Pokeatery cy\r\n\r\n18911 Lake Chabot December 29 2018\r\nRoaq 2.01 py\r\nCastro Valley, CA\r\n94546\r\n\r\nAuthorizatic,. 06007)\r\n\r\nCHASE vis,\r\nID A000 gg go 031010\r\nPoke Box $13.50\r\nRegular, Avocado ($1.00)\r\n\r\nSubtotg| $1350\r\nCastro Valley Sales Tax $1.25\r\nTp $1.48\r\n\r\nVisa 0642 (Chip)\r\n\r\n$16.23\r\n\r\nRamee §\r\n\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

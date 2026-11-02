@@ -1,0 +1,13 @@
+{
+  "sample_id": "42d9b408c783",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "bfc211fa8df7c5268caf912fbecb25cf8214e9faa6b428bd88e7b7f3231284ae",
+  "full_text": "ie\r\n\r\nSe\r\n\r\n-——\r\n\r\na\r\n\r\ni\r\n\r\nme\r\n\r\nana ab\r\n\r\nai\r\n\r\noe\r\n\r\ni\r\n\r\nShop: Padma Distribution Ltd\r\n\r\nInvoice No: INV-4532\r\n\r\nDate: 13/09/2026\r\n\r\nSales Invoice\r\n\r\nCustomer: Kashem Enterprise, Jatrabari, Dhaka.\r\n\r\nEE TH TN\r\n\r\nRestos | | mow | mae\r\n\r\n“Ball Pen box\r\n\r\nLe | wwe | mar |\r\n\r\n1h\r\n\r\nTotal:\r\n\r\nfr\r\n\r\n1\r\n\r\n{5\r\n\r\nLei\r\n\r\njit\r\n\r\niE\r\n\r\ni\r\n\r\n2%\r\n\r\nSE\r\n\r\nHire\r\n\r\nHe\r\n\r\nih\r\n\r\nAU\r\n\r\nGr\r\n\r\nbo\r\n\r\nos\r\n\r\nof\r\n\r\nRi)\r\n\r\nx\r\n\r\ni\r\n\r\na)\r\n\r\nFi\r\n\r\nJr\r\n\r\na\r\n",
+  "status": "unreviewed_OCR_output"
+}

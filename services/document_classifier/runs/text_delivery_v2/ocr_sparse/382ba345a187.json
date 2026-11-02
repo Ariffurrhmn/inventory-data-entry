@@ -1,0 +1,13 @@
+{
+  "sample_id": "382ba345a187",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "623e9fdaadbb56b0dd6169a287c3a964c1433e3a2598dacfc6901b40cbcdeaea",
+  "full_text": "i —\r\n\r\n——-\r\n\r\nDhaka Trade House\r\n\r\nC\r\n\r\nash Memo\r\n\r\nBill To / Customer:\r\n\r\nTazin $\r\n\r\nSho\r\n\r\n, Mohammad\r\n\r\n, Dhaka.\r\n\r\ninvoice No;\r\n\r\nINV-35/4.\r\n\r\n06/10/2026.\r\n\r\n(Tk)\r\n\r\nAmount (Tk)\r\n\r\n12 ‘Test | Tk £bo\r\n\r\nm—\r\n\r\n7%\r\n\r\nFo\r\n\r\nTo\r\n\r\nL\r\n\r\nBel R\r\n\r\niy\r\n\r\n2\r\n\r\n3\r\n\r\n5\r\n\r\nWw\r\n\r\na\r\n\r\nos\r\n\r\n[E\r\n\r\n1)\r\n\r\n7\r\n\r\nB\r\n\r\nAil\r\n\r\n5\r\n\r\ni\r\n\r\nAa\r\n\r\nit\r\n\r\nrr\r\n\r\n3\r\n\r\ni\r\n\r\nTH\r\n\r\n0\r\n\r\nTE\r\n\r\n3\r\n\r\nN32\r\n\r\nTe\r\n\r\nf),\r\n\r\naE\r\n\r\not\r\n\r\nae\r\n\r\nfas\r\n\r\n.\r\n\r\n9\r\n",
+  "status": "unreviewed_OCR_output"
+}

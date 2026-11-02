@@ -1,0 +1,16 @@
+{
+  "sample_id": "f9918570b903",
+  "image_path": "services\\document_classifier\\data\\images\\f9918570b903.jpg",
+  "image_sha256": "bc4e1f5f2758199a5b77f34cba6bedf0a71d78335a9eb2c0a8a6d0e8af7cc60c",
+  "full_text": "Surma Food Supply\n\nChallan\n\nChailan No: DC-968.\nDate: 27/07/2026.\n\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\f9918570b903.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

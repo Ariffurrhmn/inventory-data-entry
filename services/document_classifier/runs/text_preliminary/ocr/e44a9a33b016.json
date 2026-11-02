@@ -1,0 +1,16 @@
+{
+  "sample_id": "e44a9a33b016",
+  "image_path": "services\\document_classifier\\data\\images\\e44a9a33b016.jpg",
+  "image_sha256": "d7da144f879faf81c3fb86ac33e0dbb65f3eeb1e9f51cdf3fa7d33fdfb135167",
+  "full_text": "°450.00 450.00 5%\n¥500.00 0500.00 6%\n¥180.00 ¥180.00 2%\n2220.00 440.00 a%\nToxablo value = 1,890.00\ncesT 52.05\nSGST = €52.05\nGrand total 21,994.10\n\nAmount in words: One Thousand Nine Hundred Ninety Four Rupees and Ten Paise Only\n\nfiotas: Goods sent for the purpose stated above. Not a sale.\n\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\e44a9a33b016.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

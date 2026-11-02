@@ -1,0 +1,15 @@
+{
+  "sample_id": "srd_1037-receipt",
+  "image_path": "Dataset\\intake\\2026-10-19\\expressexpense_srd\\images\\1037-receipt.jpg",
+  "image_sha256": "454ba7e8ee946d22347602b7d1f3752005abf214b20062eba5b34e2a0200f3d2",
+  "full_text": "Store #1201\r\n\r\nPanda Express\r\nEverett, WA\r\n(425)710-\r\n3/16/2013 Ne PM\r\nOrder: 177437 Server: Tameka J\r\n1 PARTY PK 18-22 139.00\r\nCHOW MEIN\r\nFRIED RICE\r\nFRIED/C MEIN\r\nORANGE CKN\r\nGRILL TERIYAKI CKN\r\nPEPPERCORN SHRIMP 12.00\r\nSubTotal 151.00\r\nTAX 13.89\r\nTotal 164.89\r\nCash 200,00\r\nChange $11\r\n\r\nKEXKKKEKKEKKEKKKKKKKKKKKK KKK KK XK KK KK KAKA K\r\nKEXKKKXKKKKLKKKKKKKKKKKKKKK KKK KKK KKK KK\r\n\r\nFREE ENTREE ITEM!\r\nHE VALUE YOUR OPINTON!\r\n\r\nCall 1-888-51-PANDA(72632) or\r\nVisit pandaexpress.com/guest\r\n\r\nX XX %X %¥ > >\r\n¥ XX MX % >E >€\r\n\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

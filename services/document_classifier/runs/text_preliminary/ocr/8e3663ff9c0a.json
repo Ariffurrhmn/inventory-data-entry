@@ -1,0 +1,16 @@
+{
+  "sample_id": "8e3663ff9c0a",
+  "image_path": "services\\document_classifier\\data\\images\\8e3663ff9c0a.jpg",
+  "image_sha256": "b824f72e5b821df6a9366df291596be021c99a998d543927727b6a87d1acfc6a",
+  "full_text": "DELIVERY CHALLAN\n\nSELLER CONSIONEE\nABC Company Tahmina\n\nShop 12, Market Road, City — 400001 House- 76, Road- 34, Kolkata\n\nVehicle no: MH 01 AB 1238 Purpose: Job work\n\n1 Pencil Box 9056 150.00 180.00 227,000.00 5%\n\n2 Stapler KEL] 250.00 150.00 ?37,500.00 6%\n\n3 use 1436 300.00 ¥550.00 165,000.00 10 %\nTaxable value ¥2,29,500.00\nCast 10,050.00\nSGST 10,050.00\n————————————————————————\nGrand total ¥2,49,600.00\n\nAmount in words: Two Lakh Forty Nine Thousand Six Hundred Rupees Only\n\nNotes: Goods sent for the purpose stated above. Not a sale.\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\8e3663ff9c0a.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

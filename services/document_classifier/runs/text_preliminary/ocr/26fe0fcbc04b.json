@@ -1,0 +1,16 @@
+{
+  "sample_id": "26fe0fcbc04b",
+  "image_path": "services\\document_classifier\\data\\images\\26fe0fcbc04b.jpg",
+  "image_sha256": "b5eece8f67910551b26c11954212a07398673f511d6a6119e49f758845e5e4b8",
+  "full_text": "Packing Slip September 14, 2026\n\nFrom\n\nCrimson&Co Bs\n07 South Bishil Road\n1216\n\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\26fe0fcbc04b.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

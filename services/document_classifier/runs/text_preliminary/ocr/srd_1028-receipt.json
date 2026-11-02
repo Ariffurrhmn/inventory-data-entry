@@ -1,0 +1,15 @@
+{
+  "sample_id": "srd_1028-receipt",
+  "image_path": "Dataset\\intake\\2026-10-19\\expressexpense_srd\\images\\1028-receipt.jpg",
+  "image_sha256": "0a46baab3fa5f88f22848fea2b61659d55635c40fbe8c380a03b7a5dafe6aeda",
+  "full_text": "EHH HIE\r\n\r\nUGLAS BURGERS #15\r\n| 5 Wasnaington Blvd\r\nWhitter, Calif S080%\r\n(562) 699~ 744\r\n\r\nCheck 20018\r\nSAT 2/03/18 5:30pm\r\n\r\nLEN LONDU 3.93\r\n¥iries »\r\n: yi nerican c 0.70\r\nsari] onions\r\nBd | SUB ZUCCHINI 2.48\r\n+ Raspberry Ice Te\r\n1 Burger (1 5.089\r\nby! ¥ sesame bun +\r\nSB 1 #%add bacon 1.88\r\nBI} 1 ++add avocados 1.99\r\noi MAKE SPECIAL 3.00\r\nFH ¥ onions rings * 2.49\r\nfo * Raa *\r\nSub/Tt]\r\nof *DRV THRU\r\n\r\nCash\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

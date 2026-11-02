@@ -1,0 +1,13 @@
+{
+  "sample_id": "srd_1113-receipt",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "7b80f67f02dce82cc075ac17099627fd2733d19d850bc7ce3f5f1ec830117953",
+  "full_text": "Vv T9PT\r\n\r\nhadh)\r\n\r\nGolden Panda Buffet\r\n\r\nid\r\n\r\n14428 Ramona Blvd. #70\r\n\r\nBaldwin Park, CA 91706\r\n\r\nTel: 626-337-5666\r\n\r\nStation: 1\r\n\r\n6/02/2018 04:18:31 PM\r\n\r\nCashier: 010\r\n\r\nInvoice #68554\r\n\r\nT# hot food\r\n\r\n23.98\r\n\r\nAchult Dinner\r\n\r\n2\r\n\r\nSoda\r\n\r\n2\r\n\r\n3.38\r\n\r\na —————————\r\n\r\n27.36\r\n\r\nSubtotal\r\n\r\nTax\r\n\r\n2.60\r\n\r\nGrand Total\r\n\r\n29.96\r\n\r\nAmount Tendered\r\n\r\n29.96\r\n\r\nDebit Card sale\r\n\r\n29.96\r\n\r\na ————\r\n\r\nThank you very much\r\n\r\nOrder # 152\r\n",
+  "status": "unreviewed_OCR_output"
+}

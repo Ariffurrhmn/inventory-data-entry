@@ -1,0 +1,16 @@
+{
+  "sample_id": "6d09ac8fd547",
+  "image_path": "services\\document_classifier\\data\\images\\6d09ac8fd547.jpg",
+  "image_sha256": "d4c3797babb4190ea0314ba480d0b5a1cb32a4ca4cd7ef5776d5d65978f8e720",
+  "full_text": "F | GRADIENT CAE\n\n1 Espreseo (siege Shot) 20.00\n2 caramel Macchiato (leo) 510-00\n\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\6d09ac8fd547.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

@@ -1,0 +1,13 @@
+{
+  "sample_id": "29bd052c0c45",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "6c8e5bc7cf1ef8b49c55cb5d1f732a56876bf525f69f6af3afcfc8fbaca3c202",
+  "full_text": "Deliv\r\n\r\n€\r\n\r\nery Challan\r\n\r\nChallan No: _DC—2.08\r\n\r\nDate: |3/0%/2026\r\n\r\nFrom:\r\n\r\nhaka Trade House .\r\n\r\n2+, Dhaka .\r\n\r\nTo:\r\n\r\ni\r\n\r\nItem Description\r\n\r\nQty.\r\n\r\nhs\r\n\r\ni\r\n\r\nea\r\n\r\nof\r\n\r\na\r\n\r\n4S\r\n\r\n1\r\n\r\n4\r\n\r\nif\r\n\r\na\r\n\r\nic\r\n\r\nds\r\n\r\n—-—\r\n\r\ni\r\n\r\nA\r\n\r\n-—\r\n\r\nSs\r\n\r\nRe\r\n\r\neh\r\n\r\n3\r\n\r\no\r\n\r\nEa\r\n\r\n7\r\n",
+  "status": "unreviewed_OCR_output"
+}

@@ -1,0 +1,13 @@
+{
+  "sample_id": "srd_1003-receipt",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "90d65fc9ab533710cfd41cb55acd42037dc85f55a208118c618e17960e4fdff8",
+  "full_text": "E EL ran Nar de Plt\r\n\r\nhe\r\n\r\n305) 386-6638\r\n\r\nServer: Kayra\r\n\r\nStation: 10\r\n\r\n—\r\n\r\n—————— i\r\n\r\nOrder #: 8262\r\n\r\n———————\r\n\r\nbz Tab: Bar Tab\r\n\r\n2 Sm «\r\n\r\ni\r\n\r\nUB TOT\r\n\r\nales Tax:\r\n\r\nAL\r\n\r\n9. UU\r\n\r\n35\r\n\r\nemer\r\n\r\n——————\r\n\r\n-\r\n\r\nTOTAL\r\n\r\n$3\r\n\r\nash Tendered\r\n\r\nJ.J\r\n\r\nhi\r\n\r\n0.00\r\n\r\n» Ticket #: 35 «\r\n\r\nCreated: 4/20/2017 10:13:17 PM\r\n\r\nSETTLED: 4/20/2017 10:13:25 PM\r\n\r\nTHANK YOU!\r\n\r\nNU\r\n\r\n5%)\r\n\r\nan\r\n\r\nEW\r\n\r\nNw\r\n\r\nIJ\r\n",
+  "status": "unreviewed_OCR_output"
+}

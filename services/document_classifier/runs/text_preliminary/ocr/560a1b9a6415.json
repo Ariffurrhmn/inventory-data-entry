@@ -1,0 +1,16 @@
+{
+  "sample_id": "560a1b9a6415",
+  "image_path": "services\\document_classifier\\data\\images\\560a1b9a6415.jpg",
+  "image_sha256": "04824ae22b4f7bace98777a89e8056edfbe0053a9be8acbf2ec41f825b386dcb",
+  "full_text": "SERAPHINE KENSINGTON\nOLYWPIA 0\n\n6917\nSCH 1D: MDS TCDD H1106\nHANDSET: )\n\nMASTERCARD DEBIT\nAID: A0O0O00000041010\n\nDebit MasterCard\n\nAW ’ 8902\nPAN SEQ NO. 00\n1CC\n\nPRE-AUTHORISATION\n\nAMOUNT £10.00\n\nPIN VERIFIED\nThank You\n\n06/11/16 16:23\nAUTH CODE:B82400\n\nCUSTOMER COPY\nPLEASE RETAIN RECEIPT\n\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\560a1b9a6415.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

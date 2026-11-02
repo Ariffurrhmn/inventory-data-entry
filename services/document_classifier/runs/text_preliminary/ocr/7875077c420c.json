@@ -1,0 +1,16 @@
+{
+  "sample_id": "7875077c420c",
+  "image_path": "services\\document_classifier\\data\\images\\7875077c420c.jpg",
+  "image_sha256": "8728d58145202a298b8391c0e08e2289f493f4857541de7fcbebe28adf661d09",
+  "full_text": "Challan no. DC-01\nDate 2026-09-04\nABC Company Place of supply Kolkata\n\nDELIVERY CHALLAN\n\nSELLER CONSIGNEE\nABC Company Fatiha\nShop 12, Market Road, City — 400001 House- 73, Road- 34, Kolkata\n\nVehicle no.: MH 01 AB 1234 Purpose: Job work\n\nDescription HSN/SAC Rate Taxable GST %\n1 Earphones 9207 30.00 2450.00 213,500.00 20%\n2 Computer Keyboard 3541 20.00 %900.00 ?18,000.00 6%\n3 USB-C Cable 1436 10.00 2250.00 22,500.00 5%\na Water Bottle 8764 15.00 2350.00 25,250.00 5%\n\nTaxable value 239,250.00\n\ncesT 22,083.75\n\nSGST %2,083.75\n\nGrand total 43,417.50\n\nAmount in words: Forty Three Thousand Four Hundred Seventeen Rupees and Fifty Paise Only\n\nNotes: Goods sent for the purpose stated above. Not a sale.\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\7875077c420c.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

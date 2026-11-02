@@ -1,0 +1,13 @@
+{
+  "sample_id": "213305d225b2",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "9fb73094f6ab871bb1e2a4ac19beb964c38efd4b3fde1db168465785a806b8bf",
+  "full_text": "J\r\n\r\nRgharny\r\n\r\nNn\r\n\r\n'\r\n\r\naL\r\n\r\nan\r\n\r\n—\r\n\r\non\r\n\r\nWATUKAL\r\n\r\n26,000\r\n\r\nBUBUR UNGU\r\n\r\nDISC ITEM\r\n\r\n-30.000%\r\n\r\nAMOUNT\r\n\r\n-1,800\r\n\r\nSENDOK BEBEK\r\n\r\n0\r\n\r\nHAJIK\r\n\r\n7,000\r\n\r\n~30.000%\r\n\r\nDISC ITEM\r\n\r\n-2,100\r\n\r\nAMOUNT\r\n\r\n5,500\r\n\r\nCENTIK MANIS\r\n\r\nDISC ITEM\r\n\r\n~-30.000%\r\n\r\nAMOUNT\r\n\r\n-1,650\r\n\r\nPLASTIK SEDANG\r\n\r\n0\r\n\r\nSUBTOTAL\r\n\r\n26,950\r\n\r\nTaTAL\r\n\r\n26,950\r\n\r\nCASH\r\n\r\n26,950\r\n\r\nney\r\n\r\n-e\r\n\r\nnS\r\n\r\na il\r\n",
+  "status": "unreviewed_OCR_output"
+}

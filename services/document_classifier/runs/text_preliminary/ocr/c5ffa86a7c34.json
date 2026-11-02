@@ -1,0 +1,16 @@
+{
+  "sample_id": "c5ffa86a7c34",
+  "image_path": "services\\document_classifier\\data\\images\\c5ffa86a7c34.jpg",
+  "image_sha256": "050ddbc828302312bc5d38336cceec23310650b812a516839a62b7d37aa37fc8",
+  "full_text": "Arifur Rahman P U RC HAS E\nORDER\n\nPurchase Order # 2\n\nBill To: Ship To:\nRamisa Akhi Date: Oct 7, 2026\nRequired By: Oct 13, 2026\nItem Rate Amount\nPen 10 $0.15 $1.50\nNotebook 5 $1.20 $6.00\n1 $0.12 $0.12\nPencil Box 2 $1.80 $3.60\nStapler 3 $1.50 $4.50\nSubtotal: $15.72\nTax (0.15%): $0.02\n\nTotal: $15.74\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\c5ffa86a7c34.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

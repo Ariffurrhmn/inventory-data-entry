@@ -1,0 +1,13 @@
+{
+  "sample_id": "c5ffa86a7c34",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "050ddbc828302312bc5d38336cceec23310650b812a516839a62b7d37aa37fc8",
+  "full_text": "Arifur Rahman\r\n\r\nPURCHASE\r\n\r\nORDER\r\n\r\nPurchase Order # 2\r\n\r\nBill To:\r\n\r\nShip To:\r\n\r\nRamisa\r\n\r\nAkhi\r\n\r\nDate:\r\n\r\nOct 7, 2026\r\n\r\nRequired By:\r\n\r\nOct 13, 2026\r\n\r\nItem\r\n\r\nantity\r\n\r\nRate\r\n\r\nAmount\r\n\r\nPen\r\n\r\n10\r\n\r\n$0.15\r\n\r\n$1.50\r\n\r\nNotebook\r\n\r\n$1.20\r\n\r\n$6.00\r\n\r\n$0.12\r\n\r\n$0.12\r\n\r\nPencil Box\r\n\r\n$1.80\r\n\r\n$3.60\r\n\r\n$1.50\r\n\r\n$4.50\r\n\r\nStapler\r\n\r\nSubtotal:\r\n\r\n$15.72\r\n\r\nTax (0.15%):\r\n\r\n$0.02\r\n\r\nTotal:\r\n\r\n$15.74\r\n",
+  "status": "unreviewed_OCR_output"
+}

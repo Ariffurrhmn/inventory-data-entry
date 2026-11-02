@@ -1,0 +1,16 @@
+{
+  "sample_id": "dcd1a6bdfa0a",
+  "image_path": "services\\document_classifier\\data\\images\\dcd1a6bdfa0a.jpg",
+  "image_sha256": "8e9c13ff858fbb096022de7281629f61b0e64d836fb780f9909d0e0d239e3c0b",
+  "full_text": ":\n1\n\n|\n\nFrem: Jamuna Wholesale.\n\nTo: Polim\n\nGeneral Store, Mirpur-10, Dhaka.\n\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\dcd1a6bdfa0a.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

@@ -1,0 +1,15 @@
+{
+  "sample_id": "srd_1022-receipt",
+  "image_path": "Dataset\\intake\\2026-10-19\\expressexpense_srd\\images\\1022-receipt.jpg",
+  "image_sha256": "a58086293a115683a9b8c493bc8c69c38f33123095e2342730825cd37e2c2d7a",
+  "full_text": "Moonstar Restaurant\r\nert Blvd.\r\n(650) 992\r\n\r\nPRID REPRINT\r\nl0:332\r\n\r\nNAME\r\nJINNER $29.8\r\n29.88\r\n4.48\r\n3.01\r\n1 8\r\n\r\nVAN]\r\n\r\n17.37\r\n\r\n2\r\n\r\n62. ng\r\n\r\nI i\r\n\r\n10/29/2018 19:\r\n\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

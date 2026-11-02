@@ -1,0 +1,16 @@
+{
+  "sample_id": "a162d6ad43e0",
+  "image_path": "services\\document_classifier\\data\\images\\a162d6ad43e0.jpg",
+  "image_sha256": "c6530360b82a99a5e72ec4b0b3b49919fee78d109ef8fef9408fa7230ec58b68",
+  "full_text": "A A rn, on SO\n\n1001-Choco Bun\n\n1032-Bounie Cheddar\n6002-Flastic Bag Medium\n\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\a162d6ad43e0.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

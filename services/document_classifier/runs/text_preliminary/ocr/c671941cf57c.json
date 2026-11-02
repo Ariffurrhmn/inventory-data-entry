@@ -1,0 +1,16 @@
+{
+  "sample_id": "c671941cf57c",
+  "image_path": "services\\document_classifier\\data\\images\\c671941cf57c.jpg",
+  "image_sha256": "2b946ffed9ef4bd002a9accfb739beebad1f7f9276766d31324c36e937f4a92f",
+  "full_text": "DELIVERY CHALLAN\n\nYour Business Name\n\nChallan no.: DC- 001 Date: 2026-09-04 Place of supply: Maharashtra\n\nSELLER CONSIGNEE\nYour Business Name Customer Name\nShop 12, Market Road, City — 400001\n\nVehicle no.: MH 01 AB 1234 Purpose: Job work\n\n# Description HSN/SAC Qty Rate Taxable GST %\n\n1 Item / service 9983 1.00 1,000.00 %1,000.00 18 %\nTaxable value %1,000.00\nCGST %90.00\nSGST %90.00\nGrand total %1,180.00\n\nAmount in words: One Thousand One Hundred Eighty Rupees Only\n\nNotes: Goods sent for the purpose stated above. Not a sale.\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\c671941cf57c.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

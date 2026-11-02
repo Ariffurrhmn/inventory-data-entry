@@ -1,0 +1,15 @@
+{
+  "sample_id": "company_efc28d859270b978",
+  "image_path": "Dataset\\intake\\2026-10-19\\company_documents_v2\\images\\packing_slip\\efc28d859270b978.jpg",
+  "image_sha256": "4b04a983c69d7d1f977482e0482210f1eb5809222127eb4054e3f088c8e9944d",
+  "full_text": "Juniper Bikes PLC\r\n\r\nBuilt for every ride\r\n\r\n144 High Street - BS1 4DJ Bristol - United Kingdom\r\n\r\nPacking Slip\r\n\r\nBILLTO\r\n\r\nJenny Rai\r\n\r\n1440 Willow Pass Dr.\r\n94014 Colma, CA\r\nUnited States\r\n\r\nNumber\r\nDate\r\nCustomer ID\r\n\r\nCarrier\r\n\r\nJB-BL-51430\r\n2024-06-20\r\nAWO00011275\r\n\r\nXrq - Truck Ground\r\n\r\nItem Description Unit Ordered Shipped\r\nBK-M68S-46 Mountain-200 Silver, 46 EA 1 1\r\nSerious back-country riding. Perfect for all levels of competition. Uses\r\nthe same HL Frame as the Mountain-100.\r\nFE-6654 Fender Set - Mountain EA 1 1\r\nClip-on fenders fit most mountain bikes.\r\nHL-U509-B Sport-100 Helmet, Blue EA 1 1\r\nUniversal fit, well-vented, lightweight , snap-on visor.\r\nPackages 1\r\nTotal weight 10.94 kg\r\nUnits on hand 3\r\n\r\nNOTES\r\nStore your bike indoors and avoid exposure to heavy rain.\r\n\r\nPacked by Received by\r\n\r\nPedal on, from all of us Bank: Crédit Régional\r\nIBAN: GB14 8176 5608 1621 8634 9723\r\nBIC/SWIFT: JUNIGB80\r\n\r\nPacking Slip JB-BL-51430\r\n\r\nJuniper Bikes PLC\r\nVAT GB883310779\r\n\r\nPage 1/1\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

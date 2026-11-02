@@ -1,0 +1,16 @@
+{
+  "sample_id": "63d735225c26",
+  "image_path": "services\\document_classifier\\data\\images\\63d735225c26.jpg",
+  "image_sha256": "2df1161323753b627e14cbb2c6cf7d0755230c0d5675ece1c28568799e0538f7",
+  "full_text": "Purchase Order\n\nOrder No: PO- 8484 Order Date: 08/07/2026\nRequired By: 13/01] 2026\n\nFrom (Buyer):\nHasan Brothers\nDhanmondi 23, Dhaka.\n\nTo (Supplier):\n\nSonar Bangla Distributors.\n\nEE\nPEE rmranmery\nMiniket Rice 254 (2 lum] am |\nBiscuits carton 7 320\n\nLE\n\n\" For Hasan Brothers.\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\63d735225c26.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "e396ade11def",
+  "image_path": "services\\document_classifier\\data\\images\\e396ade11def.jpg",
+  "image_sha256": "b9f12f27d77447b831b0976cf9e4fd4265fb6f17e158cd85528c4bdde5053c00",
+  "full_text": "Q\n®\no\nS\n=\n§\n3\n\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\e396ade11def.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "772f10ad9975",
+  "image_path": "services\\document_classifier\\data\\images\\772f10ad9975.jpg",
+  "image_sha256": "408a0ff6d8982542a7f63395e2de131affd5f610c912f1e8e0d2d93392396a56",
+  "full_text": "Purchase Order\n\nP.O. No: PO-8226 Order Date: 26/10/2026\n\nSupplier:\nBengal Consumer Goods.\n\nBill To: Ship To:\nShapla Grocery, Shapla Grocery,\nSavar, Dhaka. Savar, Dhaka.\n\nUnit Price (Tk) | Amount (Tk)\n\nGrand Total: Tk 1,190\n\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\772f10ad9975.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

@@ -1,0 +1,13 @@
+{
+  "sample_id": "srd_1173-receipt",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "b5a94088b57ef80c091e59584e26eef273f554f4fbde778c8bea1acf957c6e2f",
+  "full_text": "AH\r\n\r\niD |\r\n\r\n3 PM\r\n\r\ni\r\n\r\nCe ost\r\n\r\nauan\r\n\r\nDes SC 1 t\r\n\r\nI Bott led Water\r\n\r\ni 45\r\n\r\n1 Add Pollo Taco\r\n\r\n$4.95\r\n\r\nAdd Carnitas Taco\r\n\r\n$4.95\r\n\r\nSour Cream\r\n\r\n$1.25\r\n\r\nChihuahua Cheese\r\n\r\n$1.25\r\n\r\n—\r\n\r\n—— en nt a om mr St ts Pe i et a es eB Se\r\n\r\nme.\r\n\r\n————mT=\r\n\r\nNet Total:\r\n\r\n$14.85\r\n\r\nIL Sales\r\n\r\n$1.52\r\n\r\nMPEA Tax\r\n\r\n$0.15\r\n\r\nRestaurant\r\n\r\n=\r\n\r\nTn em em ee\r\n\r\n$0.04\r\n\r\n———\r\n\r\n===\r\n\r\n—====Z===c\r\n\r\nOTA:\r\n\r\n$16.56\r\n\r\nFood: $12.40\r\n\r\nBeverage:\r\n\r\n$2.45\r\n\r\nre oF\r\n\r\nSSS\r\n\r\na non tt Sd tr. Se mf\r\n\r\nEMVUS\r\n\r\n7\r\n\r\n$16.56\r\n\r\n———————mSIRREEEs\r\n\r\nl\r\n\r\nA Robins on HILL Company\r\n\r\nlhe ExpeRHience That Counts!\r\n\r\nlel] us about your visit!\r\n\r\nwi ron Lnsonil | Lusa, com/guest =survey\r\n\r\ndoh\r\n\r\noh\r\n\r\nLh\r\n\r\n{pois 8\r\n\r\n‘Af\r\n",
+  "status": "unreviewed_OCR_output"
+}

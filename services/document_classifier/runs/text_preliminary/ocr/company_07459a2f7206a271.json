@@ -1,0 +1,15 @@
+{
+  "sample_id": "company_07459a2f7206a271",
+  "image_path": "Dataset\\intake\\2026-10-19\\company_documents_v2\\images\\purchase_order\\07459a2f7206a271.jpg",
+  "image_sha256": "b421f1915db3050e10e1157fa070b62e7c7f72f7f87d0950d32163a7c2d776bc",
+  "full_text": "Iw\r\n\r\nIris Wheelworks LLC\r\nPrecision wheels, smooth rides for\r\nall.\r\n\r\n410 Oak Street\r\n\r\nSuite 143\r\n\r\n02110 Boston, MA\r\n\r\nUSA\r\n\r\nPhone: (591) 555-4212\r\ncontact@iriswheelworks.com\r\nwww.iriswheelworks.com\r\nEIN 80-1423\r\n\r\nBANK DE\r\n\r\nBank: Northern Trust Bank\r\nAccount: 5585791826\r\nRouting no.: 440248973\r\n\r\nPurchase Order\r\n\r\nNumber\r\nDate\r\nDelivery date\r\n\r\nAccount no.\r\n\r\nRequested by\r\n\r\nCarrier\r\n\r\n/ENDOR\r\n\r\nHill's Bicycl\r\n3664 Colt Ct.\r\n94801 Richm\r\n\r\nPO-2024-1126\r\n\r\n7 Nov 2024\r\n\r\n16 Nov 2024\r\nHILLSBI0001\r\nReinout Hillmann\r\n\r\nZy - Express\r\n\r\nle Service\r\n\r\nond, CA\r\n\r\nUnited States\r\n\r\nItem\r\n\r\nSE-\r\nR581\r\n\r\nSE-\r\nR908\r\n\r\nPAYMENT TER\r\n\r\nNet 45 days\r\n\r\nPlease confiri\r\nnumber on all\r\n\r\nDescription\r\n\r\nLL Road Seat/Saddle\r\nLightw\r\n\r\njht foam-padd\r\nML Road Seat/Saddle\r\nRubber bumpers absorb bumps;\r\n\r\n'm this order and quote our PO\r\n| invoices and delivery notes\r\n\r\nApproved by\r\n\r\nYour next ride is just around the corner\r\n\r\nPurchase Order PO-2024-112€\r\n\r\nDELIVER TO\r\n\r\nIris Wheelworks LLC\r\n410 Oak Street\r\n\r\nSuite 143\r\n\r\n02110 Boston, MA\r\n\r\nUSA\r\n\r\nPhone: (591) 555-4212\r\n\r\nQty Unit price\r\n\r\n550 $21.09\r\n\r\n550 $30.44\r\n\r\nSubtotal\r\nFreight\r\n\r\nTax 8%\r\n\r\nTotal\r\n\r\nAmount\r\n\r\n$11,599.50\r\n\r\n$16,742.00\r\n\r\n$28,341.50\r\n$708.59\r\n\r\n$2,267.50\r\n\r\n$31,317.59\r\n\r\nPage 1/1\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

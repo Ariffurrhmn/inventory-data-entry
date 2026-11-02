@@ -1,0 +1,13 @@
+{
+  "sample_id": "346ff589b408",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "fdab21fe83fbcef12c9c543009d492ee0a1daa6d9723998852569609f7170e74",
+  "full_text": "LEN 002s\r\n\r\n5409\r\n\r\nID: #5452312\r\n\r\nHANDSET: 1\r\n\r\nAMERICAN EXP\r\n\r\nRESS\r\n\r\n025010801\r\n\r\nA000000\r\n\r\nERT\r\n\r\nCAN EXPRESS\r\n\r\ndeer sera wk 1002\r\n\r\nCONTACTLESS\r\n\r\nPAN SEQ NO. 00\r\n\r\nSALE\r\n\r\n£13.80\r\n\r\n£13.80\r\n\r\nTor\r\n\r\nVERIFICATIO\r\n\r\nNO CARDHOLD\r\n\r\nER\r\n\r\nThank You\r\n\r\nT\r\n\r\nCUSTOMER COPY\r\n\r\nPLEASE RETAIN RECEIPT\r\n",
+  "status": "unreviewed_OCR_output"
+}

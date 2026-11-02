@@ -1,0 +1,15 @@
+{
+  "sample_id": "company_7c08e5c3559c0cfe",
+  "image_path": "Dataset\\intake\\2026-10-19\\company_documents_v2\\images\\purchase_order\\7c08e5c3559c0cfe.jpg",
+  "image_sha256": "28a634fd001dbf8af2391fc76519552305c9c542ceb37f9b13dd6ffcdbd095d5",
+  "full_text": "PURCHASE\r\n\r\nORDER\r\n\r\nIris Sports Corp.\r\n\r\nPedal power. Ride the future.\r\n279 Harbor Blvd\r\n\r\n80202 Denver, CO\r\n\r\nUSA\r\n\r\nPhone: (989) 555-7243\r\naccounts@irissports.com\r\nwww.irissports.com\r\n\r\nEIN 79-2440607\r\n\r\nNUMBER DATE DELIVERY DATE ACCOUNT NO. REQUESTED BY CARRIER\r\n\r\n1S-PO-799 2 Sep 2024 11 Sep 2024 INLINEA0001 Mikael Cargo\r\nSandberg Transport 5\r\n\r\nVENDOR DELIVER TO\r\n\r\nInline Accessories Iris Sports Corp.\r\n\r\n5 Madrid 279 Harbor Blvd\r\n\r\n94519 Concord, CA 80202 Denver, CO\r\n\r\nUnited States USA\r\n\r\nPhone: (989) 555-7243\r\n\r\nItem Description Qty\r\n\r\nPD-M562 HL Mountain Pedal 550\r\n\r\nPAYMENT TERMS\r\n\r\nSubtotal\r\nNet 45 days\r\ni i Co Freight\r\nPlease confirm this order and quote our PO number on all invoices\r\nand delivery notes. Tax 8%\r\nTotal\r\n\r\nApproved by\r\n\r\nGear up strong and ride safely today.\r\n\r\nUnit price\r\n\r\n$62.99\r\n\r\nwww.irissports.com - accounts @irissports.com - (989) 555-7243\r\n\r\nPurchase Order I1S-PO-799\r\n\r\nDisc. Amount\r\n\r\n= $34,644.50\r\n\r\n$34,644.50\r\n$866.11\r\n\r\n$2,771.54\r\n\r\n$38,282.15\r\n\r\nPage 1/1\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

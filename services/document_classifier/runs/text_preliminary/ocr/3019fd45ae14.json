@@ -1,0 +1,16 @@
+{
+  "sample_id": "3019fd45ae14",
+  "image_path": "services\\document_classifier\\data\\images\\3019fd45ae14.jpg",
+  "image_sha256": "43e7e585fd9e240ea1bbbf91efef266ceab9286e4c687e025b3a08ce818ae33f",
+  "full_text": "DELIVERY CHALLAN\n\nSELLER CONSIONEE\nABC Company Fatiha\nShop 12, Market Road, City — 400001 House- 73, Road- 34, Kolkata\n\nVehicle no.: MH 01 ABA234 Purpose: Job work\n\n1 Earphones 9207 30.00 450,00 13,500.00 20%\n2 Computer Keyboard asa 20.00 ¥800.00 18,000.00 6%\n3 USB- C Cable 1438 10,00 $250.00 2,500.00 5%\n4 Water Bottle 8764 15.00 ¥350.00 5,250.00 5%\nTaxable vaiue ¥39,250.00\nCGST 22,083.78\nsesT ¥2,083.78\nGrand total ¥43,417.80\n\nAmount in words: Forty Three Thousand Four Hundred Seventeen Rupeas and Fifty Paise Only\n\nNotes: Goods sent for the purpose stated above. Not a sale.\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\3019fd45ae14.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

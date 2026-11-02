@@ -1,0 +1,15 @@
+{
+  "sample_id": "srd_1055-receipt",
+  "image_path": "Dataset\\intake\\2026-10-19\\expressexpense_srd\\images\\1055-receipt.jpg",
+  "image_sha256": "7411f2b859d2c3b731008482e46c3780e19a59538b8d1b0ecdf603f0d6ef9b4f",
+  "full_text": "Ww]\r\n\r\nWINGS & THI NGS\r\n519 FULTON AVE. HEMPSTEAD NY\r\nTHANKS CALL AGAIN 516-483-0936\r\n\r\n\\ 50P¢\" #195 IN\r\nNS 1000 1 47 2PC R&B MEAL 5.99\r\n> 0 ICED TEA\r\n-— | 209% SUB CORNBREAD\r\nBl 0p 1 #3 SWING MEAL 6.99\r\nHe SIERRA\r\n1 SUB FIXN\r\nMAC&CHZ\r\n1 #3 SWING MEAL 6.99\r\nICED TEA\r\n1 SUB FIXN\r\nSP RICE\r\n1 #3 SWING MEAL\r\nICED TEA\r\n1 SUB FIXN\r\nMAC&CHZ\r\n1 COLL GRN - SmaLL\r\n\r\ni tr me TE\r\n\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

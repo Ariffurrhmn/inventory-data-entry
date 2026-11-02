@@ -1,0 +1,13 @@
+{
+  "sample_id": "srd_1044-receipt",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "77c7af1bedc61cdf504ccd4fe3b147b6a2c817d784c7380e4194be528f341417",
+  "full_text": "CHURCH'S\r\n\r\nKEN 84717\r\n\r\n7635 WINNETKA\r\n\r\n~\r\n\r\nCANOGA PARK CA\r\n\r\n818 576-0486\r\n\r\n18°C LT\r\n\r\n2.39\r\n\r\nNT\r\n\r\n: 8.98\r\n\r\nIL\r\n\r\n10.95\r\n\r\n11.00\r\n\r\n6\r\n\r\nFEbreskis\r\n\r\nJUREE\r\n\r\n'19 REGOCO2\r\n",
+  "status": "unreviewed_OCR_output"
+}

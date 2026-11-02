@@ -1,0 +1,15 @@
+{
+  "sample_id": "company_917a2d49d857f341",
+  "image_path": "Dataset\\intake\\2026-10-19\\company_documents_v2\\images\\purchase_order\\917a2d49d857f341.jpg",
+  "image_sha256": "2c0067a0067c5ec2638770d15375244e51fd3bdaf89947955f7c205d08cda915",
+  "full_text": "PURCHASE ORDER\r\n\r\nNumber PO000389\r\nDelta Sports & Co. Ltd\r\nRide further, ride stronger Dae 23 May 2024\r\n464 High Street Delivery date 6 Jun 2024\r\nBS1 4DJ Bristol Account no. VARSITY0001\r\nUnited Kingdom Requested by Ben Miller\r\nPhone: +44 20 6440622 Carrier Zy - Express\r\nbilling@deltasports.co.uk\r\nwww.deltasports.co.uk\r\nVAT GB531255379\r\nVENDOR DELIVER TO\r\nVarsity Sport Co. Delta Sports & Co. Ltd\r\n81 Ana Mile 464 High Street\r\n99202 Spokane, WA BS1 4DJ Bristol\r\nUnited States United Kingdom\r\nPhone: +44 20 6440622\r\nItem Description Qty Unit price Disc. Amount\r\nCH-0234 Chain 60 £12.43 - £745.80\r\n\r\nSuperior shifting performance.\r\n\r\nPAYMENT TERMS\r\n\r\nSubtotal £745.80\r\nNet 60 days\r\ni i Co Freight £18.65\r\nPlease confirm this order and quote our PO number on all invoices\r\nand delivery notes. Tax 8% £59.68\r\nTotal £824.13\r\n\r\nApproved by\r\n\r\nKeep pedalling, we've got you covered.\r\nDelta Sports & Co. Ltd - 464 High Street - BS1 4DJ Bristol - United Kingdom - VAT GB531255379\r\n\r\nPurchase Order PO000389 Pagel/1\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

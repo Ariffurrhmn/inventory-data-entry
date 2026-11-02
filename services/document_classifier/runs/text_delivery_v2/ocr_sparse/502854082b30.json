@@ -1,0 +1,13 @@
+{
+  "sample_id": "502854082b30",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "300ba2d75879a0b38536d5e76c0b487445dc0b34a6a96f07b3998d5ea4e98d5e",
+  "full_text": "Deliver\r\n\r\nChallan\r\n\r\n4\r\n\r\n_ Challan No\r\n\r\n—\r\n\r\nDC- 361.\r\n\r\nDate: 12/08/2026.\r\n\r\n=\r\n\r\nFrom: Karnaphuli Traders.\r\n\r\n40 Grow Leaf Mart,\r\n\r\nbmw, Db\r\n\r\nON HA eis\r\n\r\nRR\r\n\r\nin\r\n\r\na\r\n\r\npes\r\n\r\nQty\r\n\r\n0.\r\n",
+  "status": "unreviewed_OCR_output"
+}

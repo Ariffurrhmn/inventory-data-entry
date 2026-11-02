@@ -1,0 +1,16 @@
+{
+  "sample_id": "f94a1cc40a05",
+  "image_path": "services\\document_classifier\\data\\images\\f94a1cc40a05.jpg",
+  "image_sha256": "2f67b394e16a9e726c635926a09d6a70e5bafe2ebee3196d88abe56b07ff3a00",
+  "full_text": "A RE A a aE\n\nIZINDUSTRIAL MACHINERY TRADIN\n\n228 llaya St, Burdl, City of Calamba 4027, Laguna, ‘Philippines\nNIBAN, GLADYS C. - Prop.\nNON-VAT Reg. TIN: 411-344-556-00000 £\n\na\n\nSALES INVOICE 2\n> Date: ahve pr 7\nSOLD roto WDRKSL © Terms: A&C DA YL\n\nTIN: OSCA/PWD ID No:\n\nN2 0000008\n\n10 ks. (50x2) 000001-000500\nity to Print No. 056AU20220000008084\nDa : August 1 19, 19,2022 gh\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\f94a1cc40a05.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

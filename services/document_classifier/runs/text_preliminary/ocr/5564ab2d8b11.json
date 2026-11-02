@@ -1,0 +1,16 @@
+{
+  "sample_id": "5564ab2d8b11",
+  "image_path": "services\\document_classifier\\data\\images\\5564ab2d8b11.jpg",
+  "image_sha256": "614df76c45a004d91dca5f7ddebbb3c73b80422171584c29b2a005f5409e7f98",
+  "full_text": "Silky Lychee\n\nSilky Mango 1%\nSilky Cotton Candy 1X\nSilky Green Tea 1%\nSilky Chocolat 1X\nSub Total 70,000\nGRAND TOTAL 70,000\nEe\n\n-IDJDEBERREDC BF 70,000\n\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\5564ab2d8b11.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

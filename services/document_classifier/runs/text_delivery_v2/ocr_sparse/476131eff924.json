@@ -1,0 +1,13 @@
+{
+  "sample_id": "476131eff924",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "43bd5b5fe19a30d856094c8e36af77f50c9b7745bbbc27e0b92c48036597a525",
+  "full_text": "Colo\r\n\r\n1\r\n\r\n2\r\n\r\n1\r\n\r\nOO\r\n\r\nH\r\n\r\nf\r\n\r\n| Cw eof (offF¢\r\n\r\nq0 Ql\r\n\r\nJ te |\r\n",
+  "status": "unreviewed_OCR_output"
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "c33ada961240",
+  "image_path": "services\\document_classifier\\data\\images\\c33ada961240.jpg",
+  "image_sha256": "b4ab7fbd5137cdbfcdc9352ec25ab370ece87e08d787094148108f25610d4230",
+  "full_text": "0 MOUSSE\nAPE JELLY\n\n20, 000\n13,000\n30, 000\n-3. 000\nO00\n\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\c33ada961240.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

@@ -1,0 +1,16 @@
+{
+  "sample_id": "f39cc34d6d46",
+  "image_path": "services\\document_classifier\\data\\images\\f39cc34d6d46.jpg",
+  "image_sha256": "a31d265c79d38914d1424b93bb4108142704e4c1026749379721d9df19a0b27f",
+  "full_text": "WELCOME TO\nVINELAND SHELL\n\nSHELL 57 542 985501\n8783 VINELAND RO SI1E0733\nORLANDO FL 92821\n\ndescr. qty amount\n\n<CUSTOMER COPY>\nINLD CR #07 4.2516 25.50\nSELF @ 5.889/ 6\n\nSub Total 25.50\nTax 0.00\nTOTAL 25.50\n\nCREDIT $ 25.50\n\nXXX XXX XXXX 7231 DISCOVER\nINVOICE: 444547 AUTH #: 021698\n\nTHANKS , COME AGAIN\nREG 0002 CSHE 012 DRE 01 TRAWE 26966\n03/21/16 19:43:54 ST# VINE!\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\f39cc34d6d46.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

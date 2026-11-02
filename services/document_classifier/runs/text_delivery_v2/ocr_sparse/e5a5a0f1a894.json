@@ -1,0 +1,13 @@
+{
+  "sample_id": "e5a5a0f1a894",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "c200e3fa105f75693c6e15936dec6ae9c314f1f46326b736906c25ca607ab528",
+  "full_text": "ABC Company\r\n\r\nPURCHASE ORDER\r\n\r\nArifur Rahman\r\n\r\nMirpur-2,\r\n\r\nDhaka,\r\n\r\nBangladesh\r\n\r\nVendor Address:\r\n\r\nPO#\r\n\r\nPO-8\r\n\r\nXYZ Company\r\n\r\nOrder Date\r\n\r\nOct 04, 2026\r\n\r\nMirpu-12,\r\n\r\nDhaka,\r\n\r\nDelivery Date\r\n\r\nOct 06, 2026\r\n\r\nBangladesh\r\n\r\nItem Description\r\n\r\nQty\r\n\r\nRate\r\n\r\nAmount\r\n\r\nCeramic Mug\r\n\r\n2\r\n\r\n2\r\n\r\n4\r\n\r\nLED Desk Lamp\r\n\r\n1\r\n\r\n85\r\n\r\n85\r\n\r\nBackpack\r\n\r\n1\r\n\r\n12\r\n\r\n12\r\n\r\nSub Total\r\n\r\n24.5\r\n\r\n245\r\n\r\nPurchase Tax (10%)\r\n\r\nTOTAL\r\n\r\n$26.95\r\n\r\nNotes\r\n\r\nIt was great doing business with you.\r\n\r\nTerms & Conditions\r\n\r\nUpon accepting this purchase order, you hereby agree to the terms & conditions.\r\n",
+  "status": "unreviewed_OCR_output"
+}

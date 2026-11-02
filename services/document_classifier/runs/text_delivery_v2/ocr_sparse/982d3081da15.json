@@ -1,0 +1,13 @@
+{
+  "sample_id": "982d3081da15",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "b0724c4389735a62a2dab62042b750127f915833369fd79c9c9f486f8e6d8f81",
+  "full_text": "Challan no. DC-007\r\n\r\nDELIVERY CHALLAN\r\n\r\nDate 2026-09-04\r\n\r\nABC Company\r\n\r\nPlace of supply Maharashtra\r\n\r\nSELLER\r\n\r\nCONSIGNEE\r\n\r\nABC Company\r\n\r\nTanjina\r\n\r\nShop 12, Market Road, City — 400001\r\n\r\nHouse- 36, Road- 7, Maharashtra\r\n\r\nVehicle no.: MH 01 AB 1234\r\n\r\nPurpose: Job work\r\n\r\nDescri\r\n\r\nHSN/SAC\r\n\r\nQty\r\n\r\nRate\r\n\r\nTaxable\r\n\r\nGST\r\n\r\nPencil Box\r\n\r\n9056\r\n\r\n100.00\r\n\r\n2180.00\r\n\r\n218,000.00\r\n\r\n%\r\n\r\n2\r\n\r\nStapler\r\n\r\n3541\r\n\r\n500.00\r\n\r\n150.00\r\n\r\n¥75,000.00\r\n\r\n6%\r\n\r\nTaxable value\r\n\r\n¥93,000.00\r\n\r\nCGST\r\n\r\n¥2,700.00\r\n\r\nSGST\r\n\r\n¥2,700.00\r\n\r\nGrand total\r\n\r\n298,400.00\r\n\r\nAmount in words: Ninety Eight Thousand Four Hundred Rupees Only\r\n\r\nNotes: Goods sent for the purpose stated above. Not a sale.\r\n",
+  "status": "unreviewed_OCR_output"
+}

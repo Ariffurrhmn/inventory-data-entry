@@ -1,0 +1,13 @@
+{
+  "sample_id": "e0835ab84434",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "94c4546db1c6ed008623417b3d235e3386223c5d4dd3d3b93028cb7ecc5b95b4",
+  "full_text": "NE Tm Se aie i TP Ge\r\n\r\nChalian no. DC-013\r\n\r\nABC Company\r\n\r\nDate 2026-09-04\r\n\r\nDELIVERY CHALLAN\r\n\r\nPlace of supply Kolkata\r\n\r\nSELLER\r\n\r\nCONSIGNEE\r\n\r\nABC Company\r\n\r\nDina islam\r\n\r\nShop 12 , Market Road, City — 400001\r\n\r\nHouse- 64, Road- 35, Kolkata\r\n\r\nVenicle no MH O01 AB1234\r\n\r\nJob work\r\n\r\n[J\r\n\r\nDescription\r\n\r\nHSN/SAC\r\n\r\nTaxable\r\n\r\nGST %\r\n\r\n1\r\n\r\nCotton T- Shirt\r\n\r\n437\r\n\r\n40.00\r\n\r\n#320.00\r\n\r\n12,800.00\r\n\r\n8%\r\n\r\n2\r\n\r\n2\r\n\r\nDenim Jeans\r\n\r\n8784\r\n\r\n20.00\r\n\r\n¥20,000.00\r\n\r\n0%\r\n\r\n1,000.00\r\n\r\nvalue\r\n\r\n¥32,800.00\r\n\r\n1,512.00\r\n\r\n1,512.00\r\n\r\nGrand total\r\n\r\n¥35,824.00\r\n\r\n=\r\n\r\nAmount i= words: Thifty Five Thousand Eight Hundred Twenty Four Rupees Only\r\n\r\nNotes: Goods sent for the purpose stated above. Not a sale.\r\n",
+  "status": "unreviewed_OCR_output"
+}

@@ -1,0 +1,13 @@
+{
+  "sample_id": "srd_1097-receipt",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "60268709424d114136b1193186d8265a9072f96da1a96167e8bafaa15ece4121",
+  "full_text": "Vid\r\n\r\n— - a\r\n\r\n257 LIDIA H*\r\n\r\nhk 1924\r\n\r\n———— en\r\n\r\nJunz8' 17 05: 3 Toot\r\n\r\nDrive Thru\r\n\r\n1 Burrito Cmb\r\n\r\n8.28\r\n\r\nChk Ranchero Bur\r\n\r\nAvo Slcs\r\n\r\nInd Chips\r\n\r\nSM DRINK\r\n\r\nZ Bur-BRC @ 1.89\r\n\r\nas\r\n\r\n13.255\r\n\r\nFood\r\n\r\n12.06\r\n\r\nTax\r\n\r\n1.06\r\n\r\nPayment\r\n\r\n13.12\r\n\r\nChange Due\r\n\r\n3\r\n\r\nA ————————\r\n\r\n257 Check Closed-------- er.\r\n\r\na ———————\r\n\r\nJun28'17 05: fil gr\r\n\r\nLoo RR A BJ\r\n\r\nFm\r\n\r\nBe.\r\n",
+  "status": "unreviewed_OCR_output"
+}

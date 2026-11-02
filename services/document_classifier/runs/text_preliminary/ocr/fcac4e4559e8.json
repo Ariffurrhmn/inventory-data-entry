@@ -1,0 +1,16 @@
+{
+  "sample_id": "fcac4e4559e8",
+  "image_path": "services\\document_classifier\\data\\images\\fcac4e4559e8.jpg",
+  "image_sha256": "e1023ea49154a25f3385ab729553cee92631c8e290985beb5254257d952be313",
+  "full_text": "Ld 20 NPY\n\nUDG GR TLUR ASIN 145,000\n=XMEDIUMY=\nSAPO TH SEAFOOD 129,000\n=¥MEDIUMY=\n\n. CUMI BR’ JUNJAN 129,000\n\n=XMEDILIME=\nBIHUN GORENG JJ 87.000\n=¥MEDILMk=\n\nOYONG 3 TELOR 84,000\n\nFAMED IUMY=\n\n| GURAME FILLET M 163,000\nASAM MANIS\n\nCHINESE TE 14,000 28,000\nCRYSANTNUM\n\n\"NAST PUTIH 10,000 80,000\n\nHOT TEA 12,000 | 36,000\n\nICED TEA 12,000. 36,000\n\nFOOD 757,000\nBEVERAGES 100,000\nOTHERS BO, 000\nSUBTOTAL 937,000\nSERVICE CHARGE 56,220\nTdx 10% 99,322\n\nDu 1, 092, ME\n\nTHE\n\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\fcac4e4559e8.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

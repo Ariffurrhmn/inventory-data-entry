@@ -1,0 +1,15 @@
+{
+  "sample_id": "srd_1117-receipt",
+  "image_path": "Dataset\\intake\\2026-10-19\\expressexpense_srd\\images\\1117-receipt.jpg",
+  "image_sha256": "d8bf0339a7187fc6683298ed74f1a7c51b38da663190fce20c0dee69789ca7a6",
+  "full_text": "JAPANESE STEAK\r\nKOBG38 HIGHHAY 1 ! bss\r\nAGE. CA.\r\nRANCHO HIRso 324-1717\r\n\r\nServer ID: 1\r\n\r\nSale\r\n\r\nxnoooood dT\r\nEntry Method: Chip\r\n\r\nAmount: $ 158.07\r\nTip: \\9 00\r\n\r\nTotal: WB A\r\n\r\n0 Pll: 12\r\nInv H: 00000061 Aver Code: 3300\r\norc: Online i a\r\nVISA UBL\r\n\r\nAID: ADAGRAAG31010\r\nTVR: 80 80 00 800\r\nIS]: 68°60\r\n\r\nCustomer Copy\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

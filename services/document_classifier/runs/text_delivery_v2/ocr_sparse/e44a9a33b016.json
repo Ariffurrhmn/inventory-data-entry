@@ -1,0 +1,13 @@
+{
+  "sample_id": "e44a9a33b016",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "d7da144f879faf81c3fb86ac33e0dbb65f3eeb1e9f51cdf3fa7d33fdfb135167",
+  "full_text": "IN\r\n\r\n0\r\n\r\nAid id\r\n\r\nERS\r\n\r\n=\r\n\r\nPl\r\n\r\nhae\r\n\r\nfos\r\n\r\n—\r\n\r\nSr\r\n\r\nou\r\n\r\nGf\r\n\r\nEy\r\n\r\nia\r\n\r\nFE\r\n\r\nBy\r\n\r\nad,\r\n\r\n400001\r\n\r\nHouse- 84,\r\n\r\n35, Kolkata\r\n\r\nFw\r\n\r\nPurprse: Job\r\n\r\na\r\n\r\nHSN/SAC\r\n\r\nRate\r\n\r\n6ST %\r\n\r\nSa\r\n\r\n2\r\n\r\nFace Wash\r\n\r\n1837\r\n\r\n1.00\r\n\r\n2320.00\r\n\r\n2320.00\r\n\r\n4%\r\n\r\n0450.00\r\n\r\n450.00\r\n\r\n5%\r\n\r\nBody lotion\r\n\r\n1.00\r\n\r\n500.00\r\n\r\n0500.00\r\n\r\n6%\r\n\r\nToothpaste\r\n\r\n9753\r\n\r\n1.00\r\n\r\n¥180.00\r\n\r\n¥180.00\r\n\r\n2%\r\n\r\noo\r\n\r\n2.00\r\n\r\n2220.00\r\n\r\n440.00\r\n\r\na%\r\n\r\nHand Wash\r\n\r\nTaxable value\r\n\r\n1,890.00\r\n\r\ncost\r\n\r\n52.05\r\n\r\nSGST\r\n\r\n52.05\r\n\r\nGrand total\r\n\r\n21,994.10\r\n\r\nom\r\n\r\n=\r\n\r\n.\r\n\r\n=\r\n\r\naE\r\n\r\non Poise ony\r\n\r\nAmount In words: One Thousand Nine Hundred Ninety Four Rupees and\r\n\r\nMatos: Goods sent for the purpose stated Soa Not a sale.\r\n\r\nox\r\n",
+  "status": "unreviewed_OCR_output"
+}

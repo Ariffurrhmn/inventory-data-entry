@@ -1,0 +1,13 @@
+{
+  "sample_id": "srd_1017-receipt",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "f30a0d5f4b09e18db02076f158895c17c1e2e1b0bd036e32604d695cc8441db2",
+  "full_text": "UMIX\r\n\r\n4327 N. Expressway 717/83\r\n\r\n956-350-8686\r\n\r\nBrownsville, TX 78521\r\n\r\n956-543-5089\r\n\r\nUser :KRIST\r\n\r\ne-\r\n\r\nTicket F2uet0\r\n\r\nStation\r\n\r\nSales Rep KRIST\r\n\r\nas 6:30:31 PM\r\n\r\nee\r\n\r\n———\r\n\r\na tn |\r\n\r\nItem\r\n\r\nQty\r\n\r\nPrice\r\n\r\nTotal\r\n\r\nDescription\r\n\r\nee Be et et t,t ee ee\r\n\r\n100027\r\n\r\n1\r\n\r\n5.25\r\n\r\n5.25\r\n\r\nPARIS\r\n\r\n100026\r\n\r\n1\r\n\r\n4.95\r\n\r\n4.95\r\n\r\nLE CLASSIQUE\r\n\r\nmm ee en\r\n\r\nSubtotal\r\n\r\n10.20\r\n\r\nTax\r\n\r\n0.84\r\n\r\n————— ad\r\n\r\n11.04\r\n\r\nTotal\r\n\r\n—— a 3 rn\r\n\r\n—  .\r\n\r\n20.00\r\n\r\n-8.96\r\n",
+  "status": "unreviewed_OCR_output"
+}

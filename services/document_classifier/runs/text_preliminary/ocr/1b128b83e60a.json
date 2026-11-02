@@ -1,0 +1,16 @@
+{
+  "sample_id": "1b128b83e60a",
+  "image_path": "services\\document_classifier\\data\\images\\1b128b83e60a.jpg",
+  "image_sha256": "c18ab20bb05b411e9fc71988aa7802741083faee57be3a7d9101935d5f3f719e",
+  "full_text": "HGT Company PURCHASE ORDER\n\nShop-12,\nPanjora, Gazipur, Number: PO-16\n. - . Date: 2026-09-07\nanglases\nDue Date: 2026-10-20\nBILLTO\nXK Company\nShop-43,\nMirpue-10\nDhaka,\nBanglasesh\nDESCRIPTION TY RATE AMO\nWater Bottle 4 Rs.350.00 Rs.1652.00\nCeramic Mug 10 Rs.280.00 Rs.3304.00\nLED Desk Lamp 1 Rs.850.00 Rs.1003.00\n\nTaxable Amount: Rs.5050.00\n\nTotal: Rs.5959.00\n\nThank you for your business!\nPowered by HGT Company\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\1b128b83e60a.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

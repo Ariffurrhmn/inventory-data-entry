@@ -1,0 +1,16 @@
+{
+  "sample_id": "02bfde5bf771",
+  "image_path": "services\\document_classifier\\data\\images\\02bfde5bf771.jpg",
+  "image_sha256": "58fb9dddcaa75ef819dbfa6f9ab0f5d7313b9b3652a0b0512f227c0f0c0a9532",
+  "full_text": "DEF Company PURCHASE ORDER\n\nShahadat Sarker\nUttara-10,\nDhaka,\nBangladesh\nVendor Address: PO# PO-13\nXVZ Compaty OrderDate Sep 20,2026\nMirpur-2,\nDhaka, Delivery Date Sep 23, 2026\nBangladesh\nItem Description Qty Rate\nFace Wash 2 4 8\nShampoo 400ml 1 4.5 4.5\nToothpaste 10 1.8 18\nBiscuits 200g 5 0.8 4\nInstant Noodles 10 0.4 4\nWhite Sugar 1kg 1 1.3 1.3\nRed Lentils 1kg 1 1.5 1:5\nRice 5kg 1 4.5 4.5\nSub Total 45.8\nPurchase Tax (10%) 4.58\nTOTAL $50.38\nNotes\n\nIt was great doing business with you.\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\02bfde5bf771.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

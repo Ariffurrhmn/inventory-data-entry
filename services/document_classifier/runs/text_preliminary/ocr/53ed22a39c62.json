@@ -1,0 +1,16 @@
+{
+  "sample_id": "53ed22a39c62",
+  "image_path": "services\\document_classifier\\data\\images\\53ed22a39c62.jpg",
+  "image_sha256": "086454427cab417caf0a9e2ac4d9323d7f06a35cb5faf50793e81dd12aab7560",
+  "full_text": "NS Meghna Store\n\nMirpur-10, Dhaka.\n\nOrder Slip\n\nTo:\n\nOrderNo:  ORD-2611\nSurma Food Supply\n\nOrder Date: 11/10/2026\nRequired By: 16/10/2026\n\nPlease supply the following goods:\n\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\53ed22a39c62.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

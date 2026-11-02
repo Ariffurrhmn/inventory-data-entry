@@ -1,0 +1,13 @@
+{
+  "sample_id": "srd_1082-receipt",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "b469446a9a8d353551b91991c5456178f9d254d3578a3ed70343845ab76b2505",
+  "full_text": "SURATI FARSAN MART\r\n\r\n11814 186TH STREET\r\n\r\nARTESIA, CA 90701\r\n\r\n562-860-2310\r\n\r\nWWH. SURATIFARSAN. COM\r\n\r\n16 Daksh D\r\n\r\ni —————— . — i —\r\n\r\nChk 45\r\n\r\n14\r\n\r\nGst\r\n\r\nAug08 1S. 07:33PM\r\n\r\n2 —-\r\n\r\na\r\n\r\n1 Chole Samosa **keT0 GO *¥*\r\n\r\n5.99\r\n\r\nRRKKXNXXXAXXB402\r\n\r\nVISA\r\n\r\n6.96\r\n\r\nFoaD\r\n\r\n§.99\r\n\r\nTA\r\n\r\n4)\r\n\r\n0.57\r\n\r\nPAY\r\n\r\nM\r\n\r\nNT\r\n\r\n6.56\r\n\r\ni\r\n\r\n16 Check Cicsed\r\n\r\n-—————\r\n\r\nAug08' 19 07:34PM\r\n\r\na ———\r\n\r\nThank You fer. your business\r\n\r\nFree ground Shiesing on orders\r\n\r\nWl SURATIFARSAN COM\r\n",
+  "status": "unreviewed_OCR_output"
+}

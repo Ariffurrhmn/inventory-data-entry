@@ -1,0 +1,15 @@
+{
+  "sample_id": "srd_1144-receipt",
+  "image_path": "Dataset\\intake\\2026-10-19\\expressexpense_srd\\images\\1144-receipt.jpg",
+  "image_sha256": "5772787bf3b9d80e5e40da17563d96d911983a2f9bf668c8eeda012435967a9f",
+  "full_text": "CHLOE81\r\n81 Ludlow St\r\nNew York, NY 10002\r\nTel 212 677-0067\r\n\r\nCheck Name: HWANG ,HYUN\r\nServer: Bar\r\n\r\nPate: 08/03/18\r\nTable: Guests: 1\r\n\r\n[Seat 1]—\r\n2 HOUSE VODKA\r\n1 HOUSE TEQUILA\r\n\r\nSubtotal:\r\nTax::\r\n\r\nSub w/Tax:\r\nGratuity:\r\nAnt Due:\r\n\r\nVisa EMV\r\n\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

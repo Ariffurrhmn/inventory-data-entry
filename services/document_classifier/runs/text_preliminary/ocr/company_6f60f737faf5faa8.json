@@ -1,0 +1,15 @@
+{
+  "sample_id": "company_6f60f737faf5faa8",
+  "image_path": "Dataset\\intake\\2026-10-19\\company_documents_v2\\images\\packing_slip\\6f60f737faf5faa8.jpg",
+  "image_sha256": "430a660bed7d5c49f8a8ef41690f4c46cee7ef916d428b3cd6f008fc3289aca6",
+  "full_text": "Delta Sports & Co. Ltd\r\nRide further, ride stronger\r\n464 High Street\r\n\r\nBS1 4DJ Bristol\r\n\r\nUnited Kingdom\r\n\r\nPhone: +44 20 6440622\r\nbilling@deltasports.co.uk\r\nwww.deltasports.co.uk\r\nVAT GB531255379\r\n\r\nBILL TO\r\n\r\nGreater Bike Store\r\nAttn: Hattie Haemon\r\n\r\n55 Lakeshore Blvd East\r\nM4B 1V6 Toronto, ON\r\n\r\nCanada\r\nItem Description\r\nRW-M762 ML Mountain Rear Wheel\r\nHB-M763 ML Mountain Handlebars\r\n\r\nBK-M68S-38 Mountain-200 Silver, 38\r\nBK-M68S-46 Mountain-200 Silver, 46\r\n\r\nBK-M68B-38 Mountain-200 Black, 38\r\n\r\nNOTES\r\n\r\nPACKING SLIP\r\n\r\nNumber DS-BL-47362\r\nDate 2023-08-07\r\nOrder no. S047362\r\nCustomer ID AW00029803\r\nPO number P017690189228\r\nSalesperson Jae Pak\r\nCarrier Cargo Transport 5\r\nTracking no. 41E3-4BA0-99\r\n\r\nSHIP TO\r\n\r\nGreater Bike Store\r\n55 Lakeshore Blvd East\r\nM4B 1V6 Toronto, ON\r\nCanada\r\n\r\nOrdered\r\n\r\nPackages\r\n\r\nTotal weight\r\n\r\nUnits on hand\r\n\r\nReturns accepted within 14 days, items unused and in original packaging.\r\n\r\nShipped\r\n3\r\n\r\n5\r\n\r\n3\r\n64.25 kg\r\n\r\n14\r\n\r\nPacked by\r\n\r\nReceived by\r\n\r\nKeep pedalling, we've got you covered\r\n\r\nDelta Sports & Co. Ltd - 464 High Street - BS1 4DJ Bristol - United Kingdom - VAT GB531255379\r\n\r\nPacking Slip DS-BL-47362\r\n\r\nPage 1/1\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

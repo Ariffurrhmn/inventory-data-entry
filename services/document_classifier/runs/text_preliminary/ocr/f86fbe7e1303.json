@@ -1,0 +1,16 @@
+{
+  "sample_id": "f86fbe7e1303",
+  "image_path": "services\\document_classifier\\data\\images\\f86fbe7e1303.jpg",
+  "image_sha256": "254d3b9e57b842edcbbfda79e10b1edd3f28fedc565815540ebd0a650a999c65",
+  "full_text": "",
+  "origin": "Dataset\\annotations\\ocr_drafts\\f86fbe7e1303.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

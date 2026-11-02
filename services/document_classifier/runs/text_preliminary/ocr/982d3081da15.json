@@ -1,0 +1,16 @@
+{
+  "sample_id": "982d3081da15",
+  "image_path": "services\\document_classifier\\data\\images\\982d3081da15.jpg",
+  "image_sha256": "b0724c4389735a62a2dab62042b750127f915833369fd79c9c9f486f8e6d8f81",
+  "full_text": "DELIVERY CHALLAN Challan no. DC-007\n\nDate 2026-09-04\n\nABC Company\n\nSELLER CONSIGNEE\nABC Company Tanjina\nShop 12, Market Road, City — 400001 House- 36, Road- 7, Maharashtra\n\nVehicle no.: MH 01 AB 1234 Purpose: Job work\n\nPlace of supply Maharashtra\n\nDescri HSN/SAC Rate Taxable GST\n1 Pencil Box 9056 100.00 2180.00 218,000.00 5%\n2 Stapler 3541 500.00 150.00 ¥75,000.00 6%\nTaxable value ¥93,000.00\nCGST ¥2,700.00\nSGST ¥2,700.00\nGrand total 298,400.00\n\nAmount in words: Ninety Eight Thousand Four Hundred Rupees Only\n\nNotes: Goods sent for the purpose stated above. Not a sale.\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\982d3081da15.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

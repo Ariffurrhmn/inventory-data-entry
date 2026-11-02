@@ -1,0 +1,13 @@
+{
+  "sample_id": "4a57d261cb80",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "b8487749e1e751586636a56493385eb53206adc0c5d225906aa83aad6e1b23a7",
+  "full_text": "Challan no. DC-008\r\n\r\nDELIVERY CHALLAN\r\n\r\nDate 2026-09-04\r\n\r\nABC Company\r\n\r\nPlace of supply Kolkata\r\n\r\nSELLER\r\n\r\nCONSIGNEE\r\n\r\nABC Company\r\n\r\nTahmina\r\n\r\nShop 12, Market Road, City — 400001\r\n\r\nHouse- 76, Road- 34, Kolkata\r\n\r\nVehicle no.: MH 01 AB 1234\r\n\r\nPurpose: Job work\r\n\r\nDescri\r\n\r\nRate\r\n\r\nTaxable\r\n\r\nGST\r\n\r\nHSN/SAC\r\n\r\naty\r\n\r\nPencil Box\r\n\r\n9056\r\n\r\n150.00\r\n\r\n180.00\r\n\r\n%27,000.00\r\n\r\n%\r\n\r\n2\r\n\r\nStapler\r\n\r\n3541\r\n\r\n250.00\r\n\r\n%150.00\r\n\r\n¥37,500.00\r\n\r\n6%\r\n\r\n3\r\n\r\nusB\r\n\r\n1436\r\n\r\n300.00\r\n\r\n¥550.00\r\n\r\n%1,65,000.00\r\n\r\n10 %\r\n\r\nTaxable value\r\n\r\n¥2,29,500.00\r\n\r\nCGST\r\n\r\n%10,050.00\r\n\r\nSGST\r\n\r\n10,050.00\r\n\r\nGrand total\r\n\r\n%2,49,600.00\r\n\r\nAmount in words: Two Lakh Forty Nine Thousand Six Hundred Rupees Only\r\n\r\nNotes: Goods sent for the purpose stated above. Not a sale.\r\n",
+  "status": "unreviewed_OCR_output"
+}

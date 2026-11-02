@@ -1,0 +1,16 @@
+{
+  "sample_id": "684abec37a2d",
+  "image_path": "services\\document_classifier\\data\\images\\684abec37a2d.jpg",
+  "image_sha256": "6ac772f1c9699953888f8ca95d3f18a706f023f92d5dc00c022398aa4b4f8f80",
+  "full_text": " Pakenc telur i asin\n\nCai Mien\n\ncaisim special\n\narsiupau Ayam\n\nish Glue\n\nJamur Ayam\n\nJamur Kuping\n\nKailan hongkong\n\nKuah Kaldu Ayam\n\nKue Macok\n\nPangsit Special\n\nSirloin Roll Enoki\n\nSutake Kombinasi\n\nTahu Jepang\n\nTon Sandwidh\nvA\n\nnen GIR GR SE IT PR SE SE ES RR RE BE EE DE\neC Tn\n\n2 HA Tea Green Tea\n2 Tahu Isi Ayam\n\n5 Green 1) Dingin\n\n7 Nasi Put\n\n1 Bakso A\n\nS TOTAL\n\nTAL\nSUBTOTAL 5%\nTax 10%\n\n2, 800\n\n605, 600\n(100, 600)\n\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\684abec37a2d.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

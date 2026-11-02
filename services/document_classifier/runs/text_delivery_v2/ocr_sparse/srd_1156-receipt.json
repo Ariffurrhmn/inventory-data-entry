@@ -1,0 +1,13 @@
+{
+  "sample_id": "srd_1156-receipt",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "507165dd8b2b9c9bb38d239f7f08a64a07a98437f9242ec86f5f44546a93bef3",
+  "full_text": "IKEA FooD\r\n\r\nIKEA MILTON KEYNES 18%\r\n\r\nVAT: GB 527773320\r\n\r\nAddressq\r\n\r\nQty Name\r\n\r\n-\r\n\r\n-\r\n\r\na\r\n\r\nPrice Total £\r\n\r\na\r\n\r\n-\r\n\r\n1\r\n\r\nMeatballs 10\r\n\r\n3.80\r\n\r\n3.80\r\n\r\nbe\r\n\r\nFish & Chips Adult\r\n\r\n4,95\r\n\r\n4.95\r\n\r\nPetit Pain - White\r\n\r\n0.50\r\n\r\n0.50\r\n\r\n1\r\n\r\nWine rose\r\n\r\n2.80\r\n\r\n2.80\r\n\r\n1\r\n\r\n2.80\r\n\r\n2.80\r\n\r\nWine: red\r\n\r\na\r\n\r\na\r\n\r\nLT Se —\r\n\r\nNet SubTotal:\r\n\r\na ————\r\n\r\n12.37\r\n\r\nTax:\r\n\r\n20%VRT\r\n\r\n2.48\r\n\r\n-\r\n\r\na\r\n\r\nTotal to Pay\r\n\r\n14.85\r\n\r\n-\r\n\r\n-—\r\n\r\nRecelv\r\n\r\nVISA\r\n\r\n-—-——\r\n",
+  "status": "unreviewed_OCR_output"
+}

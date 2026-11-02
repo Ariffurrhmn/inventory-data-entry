@@ -1,0 +1,13 @@
+{
+  "sample_id": "f39cc34d6d46",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "a31d265c79d38914d1424b93bb4108142704e4c1026749379721d9df19a0b27f",
+  "full_text": "WELCOME TO\r\n\r\nVINELAND SHELL\r\n\r\nSHELL\r\n\r\n57 542 985501\r\n\r\nS1E0733\r\n\r\n8783 VINELAND RO\r\n\r\nORLANDO\r\n\r\nFL 32821\r\n\r\ndescr\r\n\r\nqty\r\n\r\namount\r\n\r\n—\r\n\r\n————\r\n\r\n<CUSTOMER COPY>\r\n\r\nNLD CR #07\r\n\r\n4.2516\r\n\r\n25.50\r\n\r\nSELF @ 5.889/ 6\r\n\r\n—\r\n\r\nSub Total\r\n\r\n25.\r\n\r\n80\r\n\r\nTax\r\n\r\n0.00\r\n\r\n25.50\r\n\r\nTOTAL\r\n\r\nCREDIT $\r\n\r\n25.50\r\n\r\nXXX XXX XXXX 7231\r\n\r\nDISCOVER\r\n\r\nAUTH #: 021698\r\n\r\nINVOICE: 444547\r\n\r\nTHAN\r\n\r\nSs ,COME AGAIN\r\n\r\nREG 0002 CSHE 012 DRE 01\r\n\r\nTRANS 26968\r\n\r\n19:43:54\r\n\r\nST# VINE!\r\n\r\n03/21/16\r\n",
+  "status": "unreviewed_OCR_output"
+}

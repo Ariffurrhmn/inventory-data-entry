@@ -1,0 +1,16 @@
+{
+  "sample_id": "926169f08e35",
+  "image_path": "services\\document_classifier\\data\\images\\926169f08e35.jpg",
+  "image_sha256": "29931fa42a89a651229dd4fb9504dfb00bdf68559c9820c19c95a2410a319a44",
+  "full_text": "",
+  "origin": "Dataset\\annotations\\ocr_drafts\\926169f08e35.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

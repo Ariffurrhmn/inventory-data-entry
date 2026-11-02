@@ -1,0 +1,15 @@
+{
+  "sample_id": "company_0c3bc09c853b92d1",
+  "image_path": "Dataset\\intake\\2026-10-19\\company_documents_v2\\images\\purchase_order\\0c3bc09c853b92d1.jpg",
+  "image_sha256": "91edc478a631a83c1956d4de8e5efcbb3e72cbc36428ef7926ad322b087ef92a",
+  "full_text": "Delta Sports & Co. Ltd\r\nRide further, ride stronger\r\n464 High Street\r\n\r\nBS1 4DJ Bristol\r\n\r\nUnited Kingdom\r\n\r\nPhone: +44 20 6440622\r\nbilling@deltasports.co.uk\r\nwww.deltasports.co.uk\r\nVAT GB531255379\r\n\r\nVENDOR\r\nHill's Bicycle Service\r\n3664 Colt Ct.\r\n\r\n94801 Richmond, CA\r\nUnited States\r\n\r\nItem Description\r\nSE-R581 LL Road Seat/Saddle\r\nSE-R908 ML Road Seat/Saddle\r\n\r\nPAYMENT TERMS\r\nNet 45 days\r\n\r\nPURCHASE ORDER\r\n\r\nNumber PO000198\r\nDate 2023-06-25\r\nDelivery date 2023-07-04\r\nAccount no. HILLSBI0001\r\nRequested by Frank Pellow\r\nCarrier Zy - Express\r\n\r\nDELIVER TO\r\n\r\nDelta Sports & Co. Ltd\r\n464 High Street\r\n\r\nBS1 4DJ Bristol\r\n\r\nUnited Kingdom\r\n\r\nPhone: +44 20 6440622\r\n\r\nQty Unit price\r\n550 £16.66\r\n\r\n550 £24.05\r\n\r\nSubtotal\r\n\r\nFreight\r\n\r\nPlease confirm this order and quote our PO number on all invoices\r\n\r\nand delivery notes.\r\n\r\nApproved by\r\n\r\nTax 8%\r\n\r\nTotal\r\n\r\nKeep pedalling, we've got you covered.\r\n\r\nDisc.\r\n\r\nDelta Sports & Co. Ltd - 464 High Street - BS1 4DJ Bristol - United Kingdom - VAT GB531255379\r\n\r\nPurchase Order PO000198\r\n\r\nAmount\r\n£9,163.00\r\n\r\n£13,227.50\r\n\r\n£22,390.50\r\n£559.79\r\n\r\n£1,791.33\r\n\r\n£24,741.62\r\n\r\nPage 1/1\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

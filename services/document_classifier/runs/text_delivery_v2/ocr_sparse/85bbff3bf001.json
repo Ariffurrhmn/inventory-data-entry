@@ -1,0 +1,13 @@
+{
+  "sample_id": "85bbff3bf001",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "0770a0de13bbe17c1ee272053ae5c7532a4e3179132222537382396b4b8a0e7b",
+  "full_text": "Suralya Rahman\r\n\r\nPURCHASE\r\n\r\nORDER\r\n\r\nPurchase Order # 7\r\n\r\nBill To:\r\n\r\nShip Ta:\r\n\r\nBillal Khan\r\n\r\nRajib Hossain\r\n\r\nDate\r\n\r\nOct 9, 2028\r\n\r\nRequired By:\r\n\r\nOct 10, 2026\r\n\r\ni a as (es\r\n\r\nCeramic Mug\r\n\r\n20\r\n\r\n$2.80\r\n\r\n$56.00\r\n\r\nLED Desk Lamp\r\n\r\n10\r\n\r\n$8.50\r\n\r\n$85.00\r\n\r\nBackpack\r\n\r\n8\r\n\r\n$12.00\r\n\r\n$60.00\r\n\r\nT-Shirt\r\n\r\n10\r\n\r\n$2.00\r\n\r\n$20.00\r\n\r\nDenim Jeans\r\n\r\n10\r\n\r\n$15.00\r\n\r\n$150.00\r\n\r\nSubtotal:\r\n\r\n$371.00\r\n\r\nTax (0.25%):\r\n\r\n$0.93\r\n\r\nTotal:\r\n\r\n$371.93\r\n",
+  "status": "unreviewed_OCR_output"
+}

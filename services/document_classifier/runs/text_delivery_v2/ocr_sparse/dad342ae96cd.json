@@ -1,0 +1,13 @@
+{
+  "sample_id": "dad342ae96cd",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "62d8d41b95088c73ba86111fc44237ceeea8169af3abed18fd93eff83c38d22a",
+  "full_text": "Challan no. DC-012\r\n\r\nABC Company\r\n\r\nDate 2026-09-04\r\n\r\nDELIVERY CHALLAN\r\n\r\nPlace of supply Kolkata\r\n\r\nSELLER\r\n\r\nCONSIGNEE\r\n\r\nFalaq Islam\r\n\r\nABC Company\r\n\r\nShop 12, Market Road, City — 400001\r\n\r\nHouse- 74, Road- 34, Kolkata\r\n\r\nVehicle no: MH 01 AB 1234\r\n\r\nPurpose: Job work\r\n\r\n#\r\n\r\nDescription\r\n\r\nHSN/SAC\r\n\r\nQty\r\n\r\nRate\r\n\r\nTaxable\r\n\r\nGST %\r\n\r\n8207\r\n\r\n2.00\r\n\r\n2280.00\r\n\r\n%560.00\r\n\r\n2%\r\n\r\nCeramic Mug\r\n\r\nBackpack\r\n\r\n2541\r\n\r\n2.00\r\n\r\n%1,200.00\r\n\r\n%2,400.00\r\n\r\n5%\r\n\r\nCotton T- Shirt\r\n\r\n1437\r\n\r\n15.00\r\n\r\n¥320.00\r\n\r\n%4,800.00\r\n\r\n4%\r\n\r\nDenim Jeans\r\n\r\n8764\r\n\r\n15.00\r\n\r\n%1,200.00\r\n\r\n18,000.00\r\n\r\n5%\r\n\r\nTaxable value\r\n\r\n¥25,760.00\r\n\r\nCGST\r\n\r\n%611.60\r\n\r\nSGST\r\n\r\n611.60\r\n\r\nGrand total\r\n\r\n26,983.20\r\n\r\nAmount in words: Twenty Six Thousand Nine Hundred Eighty Three Rupees and Twenty Paise Only\r\n\r\nNotes: Goods sent for the purpose stated above. Not a sale.\r\n",
+  "status": "unreviewed_OCR_output"
+}

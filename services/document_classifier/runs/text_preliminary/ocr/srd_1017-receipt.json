@@ -1,0 +1,15 @@
+{
+  "sample_id": "srd_1017-receipt",
+  "image_path": "Dataset\\intake\\2026-10-19\\expressexpense_srd\\images\\1017-receipt.jpg",
+  "image_sha256": "f30a0d5f4b09e18db02076f158895c17c1e2e1b0bd036e32604d695cc8441db2",
+  "full_text": "UMIX\r\n\r\n4327 N. Expressway 71/83\r\n\r\n956-350-8686\r\nBrownsville, TX 78521\r\n\r\n956-543-5089\r\nTicket F2uet0 User :KRIST\r\nStation Sales Rep KRIST\r\na 6:30:31 PM\r\nItem Qty Price Total\r\nDescription\r\n100027 1 5.25 5.25\r\nPARIS\r\n100026 1 4.95 4.95\r\n\r\nLE CLASSIQUE\r\nSubtotal\r\n\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

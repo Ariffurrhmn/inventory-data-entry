@@ -1,0 +1,16 @@
+{
+  "sample_id": "a35a5b21dd98",
+  "image_path": "services\\document_classifier\\data\\images\\a35a5b21dd98.jpg",
+  "image_sha256": "036d73aad1057b9a56f7ff261f118a93e76eeb7f9e0ecc6d9d0291a5780e5fcd",
+  "full_text": "+ From (buyer): Meghna Store, Badda, Dhaka.\n| To (supplier): Sonar Bangla Distributors .\nwos 2200 02 |\n\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\a35a5b21dd98.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

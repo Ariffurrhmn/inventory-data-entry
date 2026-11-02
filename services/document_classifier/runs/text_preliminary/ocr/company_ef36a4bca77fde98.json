@@ -1,0 +1,15 @@
+{
+  "sample_id": "company_ef36a4bca77fde98",
+  "image_path": "Dataset\\intake\\2026-10-19\\company_documents_v2\\images\\packing_slip\\ef36a4bca77fde98.jpg",
+  "image_sha256": "b414a46cdcd984e978a567fefb5c47042d5f7d8e69b4e0a864ea9e0fc6e4b3b4",
+  "full_text": "Delta Sports & Co. Ltd\r\nRide further, ride stronger\r\n464 High Street\r\n\r\nBS1 4DJ Bristol\r\n\r\nUnited Kingdom\r\n\r\nPhone: +44 20 6440622\r\nbilling@deltasports.co.uk\r\nwww.deltasports.co.uk\r\nVAT GB531255379\r\n\r\nBILL TO\r\n\r\nMelanie Morris\r\n8042 Dent Way\r\n94536 Fremont, CA\r\nUnited States\r\n\r\nPhone: 135-555-0115\r\n\r\nItem Description\r\nBK-T18Y-44 Touring-3000 Yellow, 44\r\n\r\nHL-U509 Sport-100 Helmet, Black\r\n\r\nNOTES\r\n\r\nPACKING SLIP\r\n\r\nNumber DS-BL-64664\r\nDate January 26, 2025\r\nOrder no. S064664\r\nCustomer ID AWO00025081\r\nCarrier Xrq - Truck Ground\r\nOrdered\r\n1\r\n1\r\nPackages\r\nTotal weight\r\n\r\nUnits on hand\r\n\r\nFrame warranty: 2 years; components covered per manufacturer guidelines.\r\n\r\nShipped\r\n1\r\n\r\ni\r\n\r\n1\r\n13.05 kg\r\n\r\n2\r\n\r\nPacked by\r\n\r\nReceived by\r\n\r\nKeep pedalling, we've got you covered\r\n\r\nDelta Sports & Co. Ltd - 464 High Street - BS1 4DJ Bristol - United Kingdom - VAT GB531255379\r\n\r\nPacking Slip DS-BL-64664\r\n\r\nPage 1/1\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

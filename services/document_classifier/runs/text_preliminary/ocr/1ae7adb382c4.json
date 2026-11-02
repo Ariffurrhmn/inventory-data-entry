@@ -1,0 +1,16 @@
+{
+  "sample_id": "1ae7adb382c4",
+  "image_path": "services\\document_classifier\\data\\images\\1ae7adb382c4.jpg",
+  "image_sha256": "e31647e5d3d9e85218bd7e55ce163a879323bee7f5133c03c2b78f324f7e8877",
+  "full_text": "CONSIGNEE\n\nSELLER\nABC Company Sojib\nShop 12, Market Road, Clty — 400001 House= 71, Road- 14 , Kolkata\n\nVehicle ho. MH 01 ABA234 Purpose! Job work\n\nTaxable\n\n3 Wireless Mouse 2056 150.00 2750.00 112,500.00 20%\n\n2 Computer Keyboard 3541 250.00 900.00 225,000.00 6%\n\n3 use 1436 300.00 ?550.00 165,000.00 10%\nTaxable value ¥5,02,500.00\nCOST ¥26,250.00\nSGST 286,250.00\nGrand total ¥5,55,000.00\n\nAmount in words: Five Lakh Fifty Five Thousand Rupees Only\n\nNotes: Goods sent for the purpose stated above. Not a sale.\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\1ae7adb382c4.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

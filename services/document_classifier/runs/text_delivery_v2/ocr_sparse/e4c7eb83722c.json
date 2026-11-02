@@ -1,0 +1,13 @@
+{
+  "sample_id": "e4c7eb83722c",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "95786ca0cbfc968680f20019e0be9f3263aa37be92178b90f01c69e0531e092a",
+  "full_text": "=\r\n\r\net\r\n\r\nHEDLEYS\r\n\r\n640 N ROBER\r\n\r\nBLVD\r\n\r\nCA 90069\r\n\r\nHOL!\r\n\r\n310-659-2009\r\n\r\n3430\r\n\r\n251\r\n\r\noo\r\n\r\nmmm\r\n\r\neo ewe et Ft\r\n\r\n2:52 PM\r\n\r\n\\ A\r\n\r\nDIT S/\r\n\r\n9395\r\n\r\n065231\r\n\r\n$41.45\r\n\r\nee ee mn en\r\n\r\nph\r\n\r\nce\r\n",
+  "status": "unreviewed_OCR_output"
+}

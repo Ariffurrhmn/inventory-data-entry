@@ -1,0 +1,16 @@
+{
+  "sample_id": "476131eff924",
+  "image_path": "services\\document_classifier\\data\\images\\476131eff924.jpg",
+  "image_sha256": "43bd5b5fe19a30d856094c8e36af77f50c9b7745bbbc27e0b92c48036597a525",
+  "full_text": "Colo\n\n] “Panis h Late (45\n1 Ho {\n\n00\n\nby ewe] (offe 90 (01)\n\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\476131eff924.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

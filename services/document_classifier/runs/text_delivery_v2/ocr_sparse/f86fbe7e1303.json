@@ -1,0 +1,13 @@
+{
+  "sample_id": "f86fbe7e1303",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "254d3b9e57b842edcbbfda79e10b1edd3f28fedc565815540ebd0a650a999c65",
+  "full_text": "Teesta Enterprise\r\n\r\nDelivery Note\r\n\r\nChallan No: DC - 362.\r\n\r\nDate: 06/09/2026.\r\n\r\nesta\r\n\r\ni\r\n\r\nhd\r\n\r\nHy\r\n\r\njis\r\n\r\nor\r\n\r\ni\r\n\r\n5\r\n\r\n7\r\n\r\n¥\r\n\r\ni\r\n\r\nAl\r\n\r\nPe\r\n\r\ni\r\n\r\ni\r\n\r\nLo\r\n\r\na\"\r\n\r\nHi\r\n\r\na\r\n\r\nTB\r\n\r\n1\r\n\r\nty\r\n\r\n4\r\n\r\nis\r\n\r\ni\r\n\r\nx\r\n\r\nis\r\n\r\n4\r\n",
+  "status": "unreviewed_OCR_output"
+}

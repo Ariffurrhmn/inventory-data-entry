@@ -1,0 +1,13 @@
+{
+  "sample_id": "9d3c43f5edd8",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "b9febd188fbbc841d644b5ae5b109230385ab5a8d80baef6e078e37a44f9c693",
+  "full_text": "iif\r\n\r\n1%\r\n\r\na\r\n\r\nDELIVERY\r\n\r\nCHALLAN\r\n\r\nSELLER\r\n\r\nCONSIGNEE\r\n\r\nABC Company\r\n\r\nUsha\r\n\r\nShop 12 , Market Road, City — 400001\r\n\r\nHouse- 72, Road- 24, Kolkata\r\n\r\nVehicle no MH 01 AB 1234 Purpose: Job work\r\n\r\nprio:\r\n\r\nSA\r\n\r\nQty\r\n\r\nHa\r\n\r\nxa\r\n\r\nGST\r\n\r\nWireless Mouse\r\n\r\n9207\r\n\r\n50.00\r\n\r\n£750.00\r\n\r\n237,500.00\r\n\r\n20%\r\n\r\nComputer Keyboard\r\n\r\nas41\r\n\r\n250.00\r\n\r\n960.00\r\n\r\n¥2,25,000.00\r\n\r\n%\r\n\r\nUSB-C Cable\r\n\r\n1438\r\n\r\n500.00\r\n\r\n£250.00\r\n\r\n#1,25,000.00\r\n\r\n5%\r\n\r\nTaxable value\r\n\r\n¥3,87,500.00\r\n\r\nCGST\r\n\r\n13,625.00\r\n\r\nSGST\r\n\r\n?13,625.00\r\n\r\nGrand total\r\n\r\n¥4,14,750.00\r\n\r\nAmount in words: Four Lakh Fourteen Thousand Seven Hundred Fifty Rupees Only\r\n\r\nNotes: Goods sent for the purpose stated above. Not a sale.\r\n",
+  "status": "unreviewed_OCR_output"
+}

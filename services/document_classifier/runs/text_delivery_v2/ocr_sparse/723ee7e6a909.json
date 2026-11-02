@@ -1,0 +1,13 @@
+{
+  "sample_id": "723ee7e6a909",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "4e8d89a26cc472d6e88558d324e30f8fa3481ba47e8d522a9bca2028894407eb",
+  "full_text": "T-ELEVEN wiscpy 00M\r\n\r\n2 BRENTWQQD BLVD\r\n\r\nSHERWOOD PARK pn T8A 2H6\r\n\r\nEL (780) 467-2055\r\n\r\nTERM ID: Ka474643\r\n\r\nSHIFTH: 001\r\n\r\nBATCH#: 825\r\n\r\nSale\r\n\r\nMCAR\r\n\r\nINWVH\r\n\r\nBOVBVBBBBZ2S\r\n\r\nChip\r\n\r\nSEQH: 6250010816825\r\n\r\nfipplication Label: MasterCard\r\n\r\nALD: ABBBOBDVG41010\r\n\r\nTVR: 0\r\n\r\nwxkrxxrnkekx9581\r\n\r\nTSI1:ES 008\r\n\r\nTotal: CAD$\r\n\r\ntld\r\n\r\nAPPROVED 110338\r\n\r\n13-Feb -14\r\n\r\n09:03:37\r\n\r\nCUSTOMER Copy\r\n\r\nTHANK YOU\r\n",
+  "status": "unreviewed_OCR_output"
+}

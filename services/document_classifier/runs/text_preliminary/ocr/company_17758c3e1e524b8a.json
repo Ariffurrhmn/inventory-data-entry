@@ -1,0 +1,15 @@
+{
+  "sample_id": "company_17758c3e1e524b8a",
+  "image_path": "Dataset\\intake\\2026-10-19\\company_documents_v2\\images\\packing_slip\\17758c3e1e524b8a.jpg",
+  "image_sha256": "28d1e2bb9e4b517d5ddc2eccab8c7f9ab512bd632b526d32114ed1fb60559226",
+  "full_text": "Iris Sports Corp.\r\nPedal power. Ride the future.\r\n\r\nPACKING tat\r\n80202 Denver, CO\r\n\r\nUSA\r\n\r\nS LI | Phone: (989) 555-7243\r\naccounts@irissports.com\r\n\r\nwww.irissports.com\r\n\r\nEIN 79-2440607\r\n\r\nNUMBER DATE ORDER NO. CUSTOMER ID CARRIER\r\n1S-BL-73550 May 28, 2025 S073550 AW00016300 Xrq - Truck Ground\r\nBILL TO\r\n\r\nOrlando Martin\r\n\r\n7064 Alpha Way\r\n\r\nAS23 Stoke-on-Trent\r\nUnited Kingdom\r\nPhone: 1 (11) 500 555-0138\r\n\r\nItem Description Ordered Shipped\r\nTT-T092 Touring Tire Tube 1 1\r\nHL-U509-B Sport-100 Helmet, Blue 1 1\r\nPackages 1\r\nUnits on hand 2\r\n\r\nPacked by Received by\r\n\r\nGear up strong and ride safely today.\r\nWww.irissports.com - accounts @irissports.com - (989) 555-7243\r\n\r\nPacking Slip IS-BL-73550 Page 1/1\r\n",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

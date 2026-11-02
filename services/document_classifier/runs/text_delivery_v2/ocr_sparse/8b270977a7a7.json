@@ -1,0 +1,13 @@
+{
+  "sample_id": "8b270977a7a7",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "a82cf8521b3309da0099905bd6e56866a5f87341269ba7c167e2429b02d42bb6",
+  "full_text": "LY\r\n\r\nKarnaphuli Traders\r\n\r\nInvoice\r\n\r\nBill To / Customer:\r\n\r\nInvoice No: INV-6897.\r\n\r\nShapla Grocery, Savar, Dhaka.\r\n\r\nDate: 24/10/2026.\r\n\r\nItem\r\n\r\nQty\r\n\r\nRate (Tk)\r\n\r\nAmount (Tk)\r\n\r\n1\r\n\r\nTk S5\r\n\r\nTk 55\r\n\r\nBath Soap 100g\r\n\r\nExercise Book\r\n\r\n4\r\n\r\nTk 45\r\n\r\nTk 180\r\n\r\nHand Wash 200ml\r\n\r\n12\r\n\r\nTk 140\r\n\r\nTk 1,680\r\n\r\n2)\r\n\r\n2,875.\r\n\r\nDUPLICATE\r\n\r\nDP Ody\r\n\r\nAuthorised Signature\r\n",
+  "status": "unreviewed_OCR_output"
+}

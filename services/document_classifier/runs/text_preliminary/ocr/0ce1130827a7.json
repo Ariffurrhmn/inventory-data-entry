@@ -1,0 +1,16 @@
+{
+  "sample_id": "0ce1130827a7",
+  "image_path": "services\\document_classifier\\data\\images\\0ce1130827a7.jpg",
+  "image_sha256": "2145ed86a3e22429e8529402d69165b98486eed5109b592891206afee8aecd54",
+  "full_text": "ESE\n\nDIZ INDUSTRIAL MACHINERY TRADING |\n\nlaya St., Burol, City of Calamba 4027, Leguna, Ehilippines\n\nPANGANIBAN, GLADYS C. - Pro\nNON-VAT Reg. TING: 411 000\nSALES INVOICE “i ;\n\nSey rl mg,\n\n1\n: solo T TO. Rp, Lo Terms:\nTIN: : 2 ___ QSCA/PWDID No:\n\nBusiness style SCIPWD Signature:\n\nAddress:\nUNIT ARTICI ES\nacs, Tmancc\n\nN° 0000030\n\n10 Bits. God) oat -000500\n\n. BRA Print No. 056AU202200000 ig eo ee\nFE 19, Eo 90084 & Cashier/Apthorized Representative\nWV 178-095 718 00500 : : af hy, 056M 0000000700\nPrinters Acard iaion 3\nne ia ok. 2 Par Parian, Calamba City, Laguna Date Issued: 03-02-: 20 Br ont 3\n: “THIS DOCUMENT IS NOT MALID FOR CLAIMING INPUT TAXES”\n",
+  "origin": "Dataset\\annotations\\ocr_drafts\\0ce1130827a7.json",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 3,
+    "min_width": 1400,
+    "max_upscale": 3,
+    "normalization": "NFKC; collapse whitespace; casefold for CER/WER"
+  },
+  "status": "unreviewed_OCR_output"
+}

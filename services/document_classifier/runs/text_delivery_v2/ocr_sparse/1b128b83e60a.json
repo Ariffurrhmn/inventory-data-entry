@@ -1,0 +1,13 @@
+{
+  "sample_id": "1b128b83e60a",
+  "policy": {
+    "engine": "Tesseract",
+    "language": "eng",
+    "psm": 11,
+    "min_width": 1400,
+    "max_upscale": 3
+  },
+  "image_sha256": "c18ab20bb05b411e9fc71988aa7802741083faee57be3a7d9101935d5f3f719e",
+  "full_text": "HGT Company\r\n\r\nPURCHASE ORDER\r\n\r\nShop-12,\r\n\r\nPanjora, Gazipur,\r\n\r\nNumber:\r\n\r\nPO-16\r\n\r\nDhaka,\r\n\r\nDate:\r\n\r\n2026-09-07\r\n\r\nBanglasesh\r\n\r\nDue Date:\r\n\r\n2026-10-20\r\n\r\nBILLTO\r\n\r\nXK Company\r\n\r\nShop-43,\r\n\r\nMirpue-10\r\n\r\nDhaka,\r\n\r\nBanglasesh\r\n\r\nDESCRIPTION\r\n\r\nTY\r\n\r\nRATE\r\n\r\nAMO\r\n\r\nWater Bottle\r\n\r\n4\r\n\r\nRs.350.00\r\n\r\nRs.1652.00\r\n\r\nCeramic Mug\r\n\r\n10\r\n\r\nRs.280.00\r\n\r\nRs.3304.00\r\n\r\nLED Desk Lamp\r\n\r\nRs.850.00\r\n\r\nRs.1003.00\r\n\r\nTaxable Amount:\r\n\r\nRs.5050.00\r\n\r\nTotal:\r\n\r\nRs.5959.00\r\n\r\nThank you for your business!\r\n\r\nPowered by HGT Company\r\n",
+  "status": "unreviewed_OCR_output"
+}
