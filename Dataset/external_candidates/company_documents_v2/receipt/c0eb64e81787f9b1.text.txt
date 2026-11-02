@@ -1,0 +1,54 @@
+Receipt
+Number R-375
+Date 07/07/2013
+Time 00:00
+Transaction Online order 375
+Served by Margaret Park
+CUSTOMER
+Heather Leacock
+120 S Orange Ave
+32801 Orlando, FL
+USA
+Phone: +1 (407) 999-7788
+Description Qty Unit price Amount
+Hit The Lights
+Metallica · Kill 'Em All
+1 $0.99 $0.99
+Phantom Lord
+Metallica · Kill 'Em All
+1 $0.99 $0.99
+The House Jack Built
+Metallica · Load
+1 $0.99 $0.99
+Poor Twisted Me
+Metallica · Load
+1 $0.99 $0.99
+Battery
+Metallica · Master Of Puppets
+1 $0.99 $0.99
+Orion
+Metallica · Master Of Puppets
+1 $0.99 $0.99
+Better Than You
+Metallica · ReLoad
+1 $0.99 $0.99
+Low Man's Lyric
+Metallica · ReLoad
+1 $0.99 $0.99
+Fade To Black
+Metallica · Ride The Lightning
+1 $0.99 $0.99
+QM
+Quarry Music LLC
+201 Industrial Pkwy
+Building D
+97205 Portland, OR
+USA
+Phone: (397) 555-9348
+contact@quarrymusic.com
+www.quarrymusic.com
+Discover Beats, Stream
+Instantly – Your Music,
+Your Way
+EIN 59-9051418
+Receipt R-375 Page 1 / 2

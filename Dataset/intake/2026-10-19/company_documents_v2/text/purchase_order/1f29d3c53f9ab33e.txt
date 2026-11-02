@@ -1,0 +1,54 @@
+Purchase Order
+Number PO-2023-234
+Date 28 Aug 2023
+Delivery date 6 Sep 2023
+Account no. VISTARO0001
+Requested by Reinout Hillmann
+Carrier Cargo Transport 5
+VENDOR
+Vista Road Bikes
+8197 Hermosa
+97301 Salem, OR
+United States
+DELIVER TO
+Iris Wheelworks LLC
+410 Oak Street
+Suite 143
+02110 Boston, MA
+USA
+Phone: (591) 555-4212
+Item Description Qty Unit price Disc. Amount
+TI-M267 LL Mountain Tire
+Comparible traction, less expensive
+wire bead casing.
+550 $32.25 – $17,737.50
+TI-M602 ML Mountain Tire
+Great traction, high-density rubber.
+550 $36.56 – $20,108.00
+PAYMENT TERMS
+Net 45 days
+Please confirm this order and quote our PO
+number on all invoices and delivery notes.
+Subtotal $37,845.50
+Freight $946.09
+Tax 8% $3,027.49
+Total $41,819.08
+Approved by
+Your next ride is just around the corner.
+Bank: Northern Trust Bank
+Account: 5585791826
+Routing no.: 440248973
+IW
+Iris Wheelworks LLC
+410 Oak Street
+Suite 143
+02110 Boston, MA
+USA
+Phone: (591) 555-4212
+contact@iriswheelworks.com
+www.iriswheelworks.com
+Precision wheels, smooth rides for
+all.
+EIN 80-1423683
+BANK DETAILS
+Purchase Order PO-2023-234 Page 1 / 1

@@ -1,0 +1,28 @@
+Gordon Rassay Steak
+Paris Las Vegas
+
+say Steak
+
+Check: 2042367 Table: T-35
+onberto Guests: 2
+2
+
+Regular
+
+1 Pima's Cp 14.00
+2 The Drifter 28.00
+14.00
+1 Kobe Beef Slider 18.00
+1 ew York 63.00
+1 Aner Kobe Filet 79.00
+1 Lobster Tail 38.00
+1 Potato Puree 12.00
+1 Gr11d Asparagus 13.00
+1 Peppercorn 6.00
+1 Peps 6.00
+1 Choe Pot De Crem 13.00
+
+Subtotal 290.00
+2.49
+
+313.49

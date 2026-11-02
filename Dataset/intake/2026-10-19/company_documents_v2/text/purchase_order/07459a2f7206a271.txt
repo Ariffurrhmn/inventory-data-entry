@@ -1,0 +1,55 @@
+Purchase Order
+Number PO-2024-1126
+Date 7 Nov 2024
+Delivery date 16 Nov 2024
+Account no. HILLSBI0001
+Requested by Reinout Hillmann
+Carrier Zy - Express
+VENDOR
+Hill's Bicycle Service
+3664 Colt Ct.
+94801 Richmond, CA
+United States
+DELIVER TO
+Iris Wheelworks LLC
+410 Oak Street
+Suite 143
+02110 Boston, MA
+USA
+Phone: (591) 555-4212
+Item Description Qty Unit price Amount
+SE￾R581
+LL Road Seat/Saddle
+Lightweight foam-padded saddle.
+550 $21.09 $11,599.50
+SE￾R908
+ML Road Seat/Saddle
+Rubber bumpers absorb bumps.
+550 $30.44 $16,742.00
+PAYMENT TERMS
+Net 45 days
+Please confirm this order and quote our PO
+number on all invoices and delivery notes.
+Subtotal $28,341.50
+Freight $708.59
+Tax 8% $2,267.50
+Total $31,317.59
+Approved by
+Your next ride is just around the corner.
+Bank: Northern Trust Bank
+Account: 5585791826
+Routing no.: 440248973
+IW
+Iris Wheelworks LLC
+410 Oak Street
+Suite 143
+02110 Boston, MA
+USA
+Phone: (591) 555-4212
+contact@iriswheelworks.com
+www.iriswheelworks.com
+Precision wheels, smooth rides for
+all.
+EIN 80-1423683
+BANK DETAILS
+Purchase Order PO-2024-1126 Page 1 / 1

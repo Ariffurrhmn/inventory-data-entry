@@ -1,0 +1,314 @@
+{
+ "format": "parquet",
+ "pages": 404514,
+ "documents": {
+  "train": 259497,
+  "validation": 47114,
+  "test": 46969
+ },
+ "scans": {
+  "validation": 15829,
+  "train": 88799,
+  "test": 15895
+ },
+ "by_type": {
+  "account_statement": 728,
+  "credit_note": 47747,
+  "employment_certificate": 290,
+  "goods_received_note": 3689,
+  "inventory_report": 51,
+  "invoice": 48158,
+  "packing_slip": 47740,
+  "payslip": 290,
+  "purchase_order": 50313,
+  "quote": 47746,
+  "receipt": 16456,
+  "shipping_order": 47747,
+  "work_order": 42625
+ },
+ "by_source": {
+  "adventureworks": 208870,
+  "northwind": 127842,
+  "chinook": 824,
+  "sakila": 16044
+ },
+ "by_locale": {
+  "en": 203657,
+  "fr": 149923
+ },
+ "by_layout": {
+  "modern/fresh": 22218,
+  "sidebar/plain": 23519,
+  "modern/plain": 15029,
+  "letterhead/mono": 14211,
+  "sidebar/fresh": 23604,
+  "letterhead/corporate": 23624,
+  "modern/corporate": 14951,
+  "modern/mono": 14916,
+  "sidebar/corporate": 22350,
+  "classic/warm": 23740,
+  "letterhead/plain": 23677,
+  "modern/warm": 23451,
+  "sidebar/warm": 23426,
+  "letterhead/warm": 22561,
+  "classic/corporate": 23559,
+  "letterhead/fresh": 8574,
+  "classic/fresh": 9685,
+  "classic/mono": 9763,
+  "sidebar/mono": 9667,
+  "classic/plain": 1055
+ },
+ "by_type_split": {
+  "account_statement": {
+   "train": 522,
+   "validation": 99,
+   "test": 107
+  },
+  "credit_note": {
+   "train": 35107,
+   "test": 6303,
+   "validation": 6337
+  },
+  "employment_certificate": {
+   "train": 202,
+   "test": 45,
+   "validation": 43
+  },
+  "goods_received_note": {
+   "train": 2667,
+   "validation": 512,
+   "test": 510
+  },
+  "inventory_report": {
+   "train": 35,
+   "test": 10,
+   "validation": 6
+  },
+  "invoice": {
+   "train": 35342,
+   "validation": 6446,
+   "test": 6370
+  },
+  "packing_slip": {
+   "train": 35040,
+   "validation": 6456,
+   "test": 6244
+  },
+  "payslip": {
+   "train": 231,
+   "validation": 30,
+   "test": 29
+  },
+  "purchase_order": {
+   "train": 36908,
+   "validation": 6598,
+   "test": 6807
+  },
+  "quote": {
+   "train": 35004,
+   "test": 6429,
+   "validation": 6313
+  },
+  "receipt": {
+   "train": 12105,
+   "validation": 2218,
+   "test": 2133
+  },
+  "shipping_order": {
+   "train": 35182,
+   "test": 6291,
+   "validation": 6274
+  },
+  "work_order": {
+   "train": 31152,
+   "validation": 5782,
+   "test": 5691
+  }
+ },
+ "by_type_source": {
+  "account_statement": {
+   "adventureworks": 635,
+   "northwind": 93
+  },
+  "credit_note": {
+   "adventureworks": 31465,
+   "northwind": 16282
+  },
+  "employment_certificate": {
+   "adventureworks": 290
+  },
+  "goods_received_note": {
+   "adventureworks": 3689
+  },
+  "inventory_report": {
+   "adventureworks": 13,
+   "northwind": 38
+  },
+  "invoice": {
+   "adventureworks": 31464,
+   "chinook": 412,
+   "northwind": 16282
+  },
+  "packing_slip": {
+   "adventureworks": 31458,
+   "northwind": 16282
+  },
+  "payslip": {
+   "adventureworks": 290
+  },
+  "purchase_order": {
+   "adventureworks": 4012,
+   "northwind": 46301
+  },
+  "quote": {
+   "adventureworks": 31464,
+   "northwind": 16282
+  },
+  "receipt": {
+   "chinook": 412,
+   "sakila": 16044
+  },
+  "shipping_order": {
+   "adventureworks": 31465,
+   "northwind": 16282
+  },
+  "work_order": {
+   "adventureworks": 42625
+  }
+ },
+ "by_type_scan_split": {
+  "account_statement": {
+   "validation": 43,
+   "train": 208,
+   "test": 37
+  },
+  "credit_note": {
+   "train": 10627,
+   "test": 1862,
+   "validation": 1914
+  },
+  "employment_certificate": {
+   "train": 72,
+   "test": 12,
+   "validation": 11
+  },
+  "goods_received_note": {
+   "train": 838,
+   "validation": 154,
+   "test": 144
+  },
+  "inventory_report": {
+   "test": 5,
+   "train": 20,
+   "validation": 1
+  },
+  "invoice": {
+   "train": 12885,
+   "test": 2293,
+   "validation": 2308
+  },
+  "packing_slip": {
+   "train": 13193,
+   "test": 2375,
+   "validation": 2375
+  },
+  "payslip": {
+   "train": 133,
+   "validation": 21,
+   "test": 9
+  },
+  "purchase_order": {
+   "validation": 1913,
+   "train": 11076,
+   "test": 2033
+  },
+  "quote": {
+   "train": 12426,
+   "test": 2323,
+   "validation": 2243
+  },
+  "receipt": {
+   "train": 5176,
+   "validation": 756,
+   "test": 687
+  },
+  "shipping_order": {
+   "train": 12729,
+   "validation": 2333,
+   "test": 2377
+  },
+  "work_order": {
+   "train": 9416,
+   "validation": 1757,
+   "test": 1738
+  }
+ },
+ "companies": {
+  "train": [
+   "atlas-records-inc",
+   "boreal-components-co",
+   "boreal-films-inc",
+   "boreal-wholesale-ltd",
+   "delta-commerce-sarl",
+   "delta-components-sprl",
+   "delta-sports-co-ltd",
+   "ember-wholesale-sa",
+   "fjord-beats-sprl",
+   "granite-merchants-llc",
+   "harbor-beats-llc",
+   "harbor-films-sarl",
+   "harbor-velo-co",
+   "iris-distribution-inc",
+   "iris-reels-co",
+   "iris-sports-corp",
+   "iris-wheelworks-llc",
+   "juniper-audio-sas",
+   "juniper-bikes-plc",
+   "juniper-components-sa",
+   "juniper-merchants-inc",
+   "juniper-movies-sas",
+   "keystone-components-srl",
+   "keystone-music-co-ltd",
+   "keystone-reels-plc",
+   "meridian-media-sa",
+   "meridian-merchants-sprl",
+   "northgate-rentals-srl",
+   "pioneer-records-srl",
+   "quarry-films-ltd",
+   "quarry-foods-plc",
+   "quarry-music-llc",
+   "quarry-recordings-plc",
+   "riverside-cinema-inc",
+   "summit-partners-ltd",
+   "tidewater-foods-sas",
+   "tidewater-rentals-sarl",
+   "union-foods-corp",
+   "union-reels-srl",
+   "union-sound-corp",
+   "vantage-outdoor-corp",
+   "vantage-outdoor-sa",
+   "willow-screen-co-ltd",
+   "zenith-audio-plc"
+  ],
+  "validation": [
+   "atlas-cycles-plc",
+   "boreal-audio-plc",
+   "cobalt-beats-sarl",
+   "meridian-components-co-ltd",
+   "quarry-entertainment-ltd",
+   "riverside-commerce-sa",
+   "zenith-trading-sprl",
+   "zenith-video-corp"
+  ],
+  "test": [
+   "cobalt-wholesale-ltd",
+   "delta-sound-sa",
+   "ember-bikes-sarl",
+   "harbor-movies-srl",
+   "lumen-media-corp",
+   "union-sports-sas",
+   "vantage-cinema-llc",
+   "vantage-imports-sas"
+  ]
+ }
+}

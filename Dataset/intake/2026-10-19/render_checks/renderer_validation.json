@@ -1,0 +1,202 @@
+[
+  {
+    "number": 201,
+    "mean_absolute_thumbnail_difference": 0.601,
+    "renderer": "Poppler"
+  },
+  {
+    "number": 202,
+    "mean_absolute_thumbnail_difference": 0.785,
+    "renderer": "Poppler"
+  },
+  {
+    "number": 203,
+    "mean_absolute_thumbnail_difference": 0.468,
+    "renderer": "Poppler"
+  },
+  {
+    "number": 204,
+    "mean_absolute_thumbnail_difference": 0.687,
+    "renderer": "Poppler"
+  },
+  {
+    "number": 205,
+    "mean_absolute_thumbnail_difference": 0.417,
+    "renderer": "Poppler"
+  },
+  {
+    "number": 206,
+    "mean_absolute_thumbnail_difference": 0.549,
+    "renderer": "Poppler"
+  },
+  {
+    "number": 207,
+    "mean_absolute_thumbnail_difference": 0.718,
+    "renderer": "Poppler"
+  },
+  {
+    "number": 208,
+    "mean_absolute_thumbnail_difference": 0.614,
+    "renderer": "Poppler"
+  },
+  {
+    "number": 209,
+    "mean_absolute_thumbnail_difference": 0.656,
+    "renderer": "Poppler"
+  },
+  {
+    "number": 210,
+    "mean_absolute_thumbnail_difference": 0.725,
+    "renderer": "Poppler"
+  },
+  {
+    "number": 211,
+    "mean_absolute_thumbnail_difference": 0.474,
+    "renderer": "Poppler"
+  },
+  {
+    "number": 212,
+    "mean_absolute_thumbnail_difference": 0.773,
+    "renderer": "Poppler"
+  },
+  {
+    "number": 213,
+    "mean_absolute_thumbnail_difference": 0.574,
+    "renderer": "Poppler"
+  },
+  {
+    "number": 214,
+    "mean_absolute_thumbnail_difference": 0.778,
+    "renderer": "Poppler"
+  },
+  {
+    "number": 215,
+    "mean_absolute_thumbnail_difference": 0.497,
+    "renderer": "Poppler"
+  },
+  {
+    "number": 216,
+    "mean_absolute_thumbnail_difference": 0.512,
+    "renderer": "Poppler"
+  },
+  {
+    "number": 217,
+    "mean_absolute_thumbnail_difference": 0.659,
+    "renderer": "Poppler"
+  },
+  {
+    "number": 218,
+    "mean_absolute_thumbnail_difference": 0.535,
+    "renderer": "Poppler"
+  },
+  {
+    "number": 219,
+    "mean_absolute_thumbnail_difference": 0.503,
+    "renderer": "Poppler"
+  },
+  {
+    "number": 220,
+    "mean_absolute_thumbnail_difference": 0.614,
+    "renderer": "Poppler"
+  },
+  {
+    "number": 221,
+    "mean_absolute_thumbnail_difference": 0.613,
+    "renderer": "Poppler"
+  },
+  {
+    "number": 222,
+    "mean_absolute_thumbnail_difference": 0.647,
+    "renderer": "Poppler"
+  },
+  {
+    "number": 223,
+    "mean_absolute_thumbnail_difference": 0.354,
+    "renderer": "Poppler"
+  },
+  {
+    "number": 224,
+    "mean_absolute_thumbnail_difference": 0.458,
+    "renderer": "Poppler"
+  },
+  {
+    "number": 225,
+    "mean_absolute_thumbnail_difference": 0.472,
+    "renderer": "Poppler"
+  },
+  {
+    "number": 226,
+    "mean_absolute_thumbnail_difference": 0.686,
+    "renderer": "Poppler"
+  },
+  {
+    "number": 227,
+    "mean_absolute_thumbnail_difference": 0.386,
+    "renderer": "Poppler"
+  },
+  {
+    "number": 228,
+    "mean_absolute_thumbnail_difference": 0.669,
+    "renderer": "Poppler"
+  },
+  {
+    "number": 229,
+    "mean_absolute_thumbnail_difference": 0.692,
+    "renderer": "Poppler"
+  },
+  {
+    "number": 230,
+    "mean_absolute_thumbnail_difference": 0.406,
+    "renderer": "Poppler"
+  },
+  {
+    "number": 231,
+    "mean_absolute_thumbnail_difference": 0.695,
+    "renderer": "Poppler"
+  },
+  {
+    "number": 232,
+    "mean_absolute_thumbnail_difference": 0.63,
+    "renderer": "Poppler"
+  },
+  {
+    "number": 233,
+    "mean_absolute_thumbnail_difference": 0.48,
+    "renderer": "Poppler"
+  },
+  {
+    "number": 234,
+    "mean_absolute_thumbnail_difference": 0.614,
+    "renderer": "Poppler"
+  },
+  {
+    "number": 235,
+    "mean_absolute_thumbnail_difference": 0.59,
+    "renderer": "Poppler"
+  },
+  {
+    "number": 236,
+    "mean_absolute_thumbnail_difference": 0.57,
+    "renderer": "Poppler"
+  },
+  {
+    "number": 237,
+    "mean_absolute_thumbnail_difference": 0.399,
+    "renderer": "Poppler"
+  },
+  {
+    "number": 238,
+    "mean_absolute_thumbnail_difference": 0.468,
+    "renderer": "Poppler"
+  },
+  {
+    "number": 239,
+    "mean_absolute_thumbnail_difference": 0.57,
+    "renderer": "Poppler"
+  },
+  {
+    "number": 240,
+    "mean_absolute_thumbnail_difference": 0.592,
+    "renderer": "Poppler"
+  }
+]

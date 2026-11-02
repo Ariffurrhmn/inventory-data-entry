@@ -1,0 +1,50 @@
+PURCHASE
+ORDER
+NUMBER
+IS-PO-3615
+DATE
+2025-07-07
+DELIVERY DATE
+2025-07-16
+ACCOUNT NO.
+LITWARE0001
+REQUESTED BY
+Eric Kurjan
+CARRIER
+Cargo
+Transport 5
+VENDOR
+Litware, Inc.
+4405 Balboa Court
+95062 Santa Cruz, CA
+United States
+DELIVER TO
+Iris Sports Corp.
+279 Harbor Blvd
+80202 Denver, CO
+USA
+Phone: (989) 555-7243
+Item Description Qty Unit price Disc. Amount
+AR-5381 Adjustable Race 3 $50.26 – $150.78
+PAYMENT TERMS
+Net 60 days
+Please confirm this order and quote our PO number on all invoices
+and delivery notes.
+Subtotal $150.78
+Freight $3.77
+Tax 8% $12.06
+Total $166.61
+Approved by
+Gear up strong and ride safely today.
+www.irissports.com · accounts@irissports.com · (989) 555-7243
+IS
+Iris Sports Corp.
+279 Harbor Blvd
+80202 Denver, CO
+USA
+Phone: (989) 555-7243
+accounts@irissports.com
+www.irissports.com
+Pedal power. Ride the future.
+EIN 79-2440607
+Purchase Order IS-PO-3615 Page 1 / 1

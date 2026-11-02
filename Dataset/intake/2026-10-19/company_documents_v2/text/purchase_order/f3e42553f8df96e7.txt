@@ -1,0 +1,48 @@
+Purchase Order
+Number PO-2025-3212
+Date 5 Jun 2025
+Delivery date 14 Jun 2025
+Account no. TRIKES0001
+Requested by Annette Hill
+Carrier Overnight J-Fast
+VENDOR
+Trikes, Inc.
+90 Sunny Ave
+94704 Berkeley, CA
+United States
+Item Description Qty Unit price Disc. Amount
+TI-M823 HL Mountain Tire
+Incredible traction, lightweight carbon
+reinforced.
+550 $42.51 – $23,380.50
+TT￾M928
+Mountain Tire Tube
+Self-sealing tube.
+550 $5.59 – $3,074.50
+PAYMENT TERMS
+Net 45 days
+Please confirm this order and quote our PO
+number on all invoices and delivery notes.
+Subtotal $26,455.00
+Freight $661.38
+Tax 8% $2,116.42
+Total $29,232.80
+Approved by
+Your next ride is just around the corner.
+Bank: Northern Trust Bank
+Account: 5585791826
+Routing no.: 440248973
+IW
+Iris Wheelworks LLC
+410 Oak Street
+Suite 143
+02110 Boston, MA
+USA
+Phone: (591) 555-4212
+contact@iriswheelworks.com
+www.iriswheelworks.com
+Precision wheels, smooth rides for
+all.
+EIN 80-1423683
+BANK DETAILS
+Purchase Order PO-2025-3212 Page 1 / 1

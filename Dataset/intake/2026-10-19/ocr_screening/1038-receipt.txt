@@ -1,0 +1,20 @@
+Micros Demo System
+A2lzone to Yogurtland
+12302 North Kendall Drive
+jemi, FL 33186
+(405) 279-3478
+Date: Sep07'18 09:28PM
+Card Typ: VISA
+Acct #: XXXXXXXXXXXX3862
+Card Entry: SWIPED
+Trans Type: PURCHASE .
+Trans Key: 111008007193348
+Auth Coda: 071410 ]
+Checl:: 1082
+Server: 1041 melanie
+
+Tota 17.8008
+
+##NO SIGYATURE REQUIRED
+[IR PURCHASES UNDER $20.00%%
+

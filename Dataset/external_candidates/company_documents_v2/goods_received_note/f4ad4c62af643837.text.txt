@@ -1,0 +1,36 @@
+Goods Received
+Note
+NUMBER
+VO-REC-3378
+DATE
+07/01/2025
+ORDER DATE
+06/19/2025
+PO REFERENCE
+VO-PO-3378
+CARRIER
+Cargo Transport 5
+SUPPLIER
+Litware, Inc.
+4405 Balboa Court
+95062 Santa Cruz, CA
+United States
+Item Description Ordered Received Rejected Accepted
+AR-5381 Adjustable Race 3 3 0 3
+Total ordered 3
+Total received 3
+Total rejected 0
+Total accepted 3
+Received by Linda Meisner
+Inspected by
+Thanks for trusting our adventure gear.
+www.vantageoutdoor.com · sales@vantageoutdoor.com · (442) 555-7651
+VO
+Vantage Outdoor Corp.
+304 5th Avenue
+Suite 542
+97205 Portland, OR
+USA
+Ride Further, Gear Smarter
+EIN 43-3439968
+Goods Received Note VO-REC-3378 Page 1 / 1

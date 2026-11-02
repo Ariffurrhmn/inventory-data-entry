@@ -1,0 +1,32 @@
+100 SERVER
+
+10301 jas9 6ST
+25006717 8:03PH
+
+Dining
+1 Avion Silver RX 18.00
+margarita rx
+11 stauh
+1 Avion Silver BX 16.00
+: margarita rx
+100A Delsonico 14 62.00
+) 1 Truftle fries 13.00
+_ 1 Mac/Cheese 12.00
+1 Asparagus 13.00
+) 1 BAKED COOKIE 10.00
+9 SUBTOTAL 142.00
+) Add-On Tax Food 70
+
+7
+Add-on Tax Bev 2
+Resort Tax pe
+TOTAL DUE $154.7
+
+For your convenience
+suggested gratuities
+are shown below
+
+18% gratuity $25.56
+20% gratuity $28.40
+22% gratuity $31.24
+

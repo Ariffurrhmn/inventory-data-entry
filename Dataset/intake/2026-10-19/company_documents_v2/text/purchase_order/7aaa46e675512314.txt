@@ -1,0 +1,55 @@
+Purchase
+Order
+NUMBER
+VO-PO-830
+DATE
+September 4,
+2024
+DELIVERY DATE
+September 13,
+2024
+ACCOUNT NO.
+VARSITY0001
+REQUESTED BY
+Linda Meisner
+CARRIER
+Zy - Express
+VENDOR
+Varsity Sport Co.
+81 Ana Mile
+99202 Spokane, WA
+United States
+DELIVER TO
+Vantage Outdoor Corp.
+304 5th Avenue
+Suite 542
+97205 Portland, OR
+USA
+Phone: (442) 555-7651
+Item Description Qty Unit price Disc. Amount
+CH-0234 Chain
+Superior shifting performance.
+60 $15.74 – $944.40
+PAYMENT TERMS
+Net 30 days
+Please confirm this order and quote our PO number on all invoices
+and delivery notes.
+Subtotal $944.40
+Freight $23.61
+Tax 8% $75.55
+Total $1,043.56
+Approved by
+Thanks for trusting our adventure gear.
+www.vantageoutdoor.com · sales@vantageoutdoor.com · (442) 555-7651
+VO
+Vantage Outdoor Corp.
+304 5th Avenue
+Suite 542
+97205 Portland, OR
+USA
+Phone: (442) 555-7651
+sales@vantageoutdoor.com
+www.vantageoutdoor.com
+Ride Further, Gear Smarter
+EIN 43-3439968
+Purchase Order VO-PO-830 Page 1 / 1

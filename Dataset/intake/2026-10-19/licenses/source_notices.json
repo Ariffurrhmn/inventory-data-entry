@@ -1,0 +1,22 @@
+[
+  {
+    "path": "licenses/adventureworks_MIT.txt",
+    "source_url": "https://huggingface.co/datasets/AyoubChLin/Company-document-dataset-v2/resolve/0e9f5198e7e09f858834e544f96ec12436fdbb5e/licenses/adventureworks_MIT.txt",
+    "sha256": "201f3705979e932c92cd3c6ddbddf4dc3c71dcc5a82089a1e4018227cfe1cf09"
+  },
+  {
+    "path": "licenses/chinook_MIT.md",
+    "source_url": "https://huggingface.co/datasets/AyoubChLin/Company-document-dataset-v2/resolve/0e9f5198e7e09f858834e544f96ec12436fdbb5e/licenses/chinook_MIT.md",
+    "sha256": "5064d720db431474b0a0b0cef9d2b5e362b6c6f80602b35c6443b07cbc979f77"
+  },
+  {
+    "path": "licenses/northwind-sqlite3_MIT.txt",
+    "source_url": "https://huggingface.co/datasets/AyoubChLin/Company-document-dataset-v2/resolve/0e9f5198e7e09f858834e544f96ec12436fdbb5e/licenses/northwind-sqlite3_MIT.txt",
+    "sha256": "c28e204be6418b87ae1c83127096aad9c9e1a218c365f8f4d630e84d8ba96c47"
+  },
+  {
+    "path": "licenses/sakila_BSD-2.txt",
+    "source_url": "https://huggingface.co/datasets/AyoubChLin/Company-document-dataset-v2/resolve/0e9f5198e7e09f858834e544f96ec12436fdbb5e/licenses/sakila_BSD-2.txt",
+    "sha256": "1f1f3467bc7e7ba6277f20ddd7925e2ec2165d3bd56bdaf2eb26ea84c3953279"
+  }
+]

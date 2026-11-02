@@ -1,0 +1,52 @@
+Purchase
+Order
+NUMBER
+VO-PO-1586
+DATE
+31 Dec 2024
+DELIVERY DATE
+9 Jan 2025
+ACCOUNT NO.
+CONSUMER0001
+REQUESTED BY
+Reinout
+Hillmann
+CARRIER
+Zy - Express
+VENDOR
+Consumer Cycles
+3 Chablis Court
+90505 Torrance, CA
+United States
+DELIVER TO
+Vantage Outdoor Corp.
+304 5th Avenue
+Suite 542
+97205 Portland, OR
+USA
+Phone: (442) 555-7651
+Item Description Qty Unit price Disc. Amount
+NI-9522 HL Nipple 3 $19.98 – $59.94
+PAYMENT TERMS
+Net 45 days
+Please confirm this order and quote our PO number on all invoices
+and delivery notes.
+Subtotal $59.94
+Freight $1.50
+Tax 8.0% $4.80
+Total $66.24
+Approved by
+Thanks for trusting our adventure gear.
+www.vantageoutdoor.com · sales@vantageoutdoor.com · (442) 555-7651
+VO
+Vantage Outdoor Corp.
+304 5th Avenue
+Suite 542
+97205 Portland, OR
+USA
+Phone: (442) 555-7651
+sales@vantageoutdoor.com
+www.vantageoutdoor.com
+Ride Further, Gear Smarter
+EIN 43-3439968
+Purchase Order VO-PO-1586 Page 1 / 1

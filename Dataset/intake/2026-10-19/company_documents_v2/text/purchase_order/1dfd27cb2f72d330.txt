@@ -1,0 +1,50 @@
+Purchase
+Order
+NUMBER
+VO-PO-501
+DATE
+08/09/2024
+DELIVERY DATE
+08/18/2024
+ACCOUNT NO.
+VISTARO0001
+REQUESTED BY
+Eric Kurjan
+CARRIER
+Cargo
+Transport 5
+VENDOR
+Vista Road Bikes
+8197 Hermosa
+97301 Salem, OR
+United States
+Item Description Qty Unit price Amount
+TI-M267 LL Mountain Tire
+Comparible traction, less expensive wire bead casing.
+550 $32.25 $17,737.50
+TI-M602 ML Mountain Tire
+Great traction, high-density rubber.
+550 $36.56 $20,108.00
+PAYMENT TERMS
+Net 30 days
+Please confirm this order and quote our PO number on all invoices
+and delivery notes.
+Subtotal $37,845.50
+Freight $946.09
+Tax 8% $3,027.49
+Total $41,819.08
+Approved by
+Thanks for trusting our adventure gear.
+www.vantageoutdoor.com · sales@vantageoutdoor.com · (442) 555-7651
+VO
+Vantage Outdoor Corp.
+304 5th Avenue
+Suite 542
+97205 Portland, OR
+USA
+Phone: (442) 555-7651
+sales@vantageoutdoor.com
+www.vantageoutdoor.com
+Ride Further, Gear Smarter
+EIN 43-3439968
+Purchase Order VO-PO-501 Page 1 / 1

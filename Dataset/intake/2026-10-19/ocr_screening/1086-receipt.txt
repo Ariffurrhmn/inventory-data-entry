@@ -1,0 +1,19 @@
+Table #2
+Trans #: 137017 Serv: Manager 2
+4/20/2018 8:29 PM # Cust:4
+
+1 Shrimp Scampi $27.00
+
+2 Chicken Milanese $46.00
+
+1 Veal Milanese $27.00
+3 Grey Goose $30.00
+1 Pineapple Juice $3.00
+1 Belvedere $12.00
+1 Becks Non Alcoholic $6. 00
+1 Corona $6.00
+1 Comp Item ($12. 00)
+
+TOTAL: $157.51
+Amount Due: $167.51
+

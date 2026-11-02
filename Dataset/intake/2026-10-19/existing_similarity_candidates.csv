@@ -1,0 +1,7 @@
+number,sample_id,existing_sample_id,existing_path,phash_hamming,status
+17,srd_1016-receipt,476131eff924,Dataset/Receipt/aaaa_jpg.rf.2e47601f234d7c54e2f7e015491d4cee.jpg,8,similarity_candidate_not_identity
+58,srd_1057-receipt,54a5c3334a7e,Dataset/Customer_Copy/1057-receipt.jpg,0,known_exact_excluded
+74,srd_1073-receipt,c48efeff07df,Dataset/Customer_Copy/1073-receipt.jpg,0,known_exact_excluded
+86,srd_1085-receipt,943348c8acbb,Dataset/Customer_Copy/express_srd_1085-receipt.jpg,0,known_exact_excluded
+165,srd_1164-receipt,3f351516323d,Dataset/Customer_Copy/1164-receipt.jpg,0,known_exact_excluded
+177,srd_1176-receipt,e4c7eb83722c,Dataset/Customer_Copy/1176-receipt.jpg,0,known_exact_excluded

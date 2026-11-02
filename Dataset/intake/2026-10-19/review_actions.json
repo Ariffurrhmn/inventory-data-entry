@@ -1,0 +1,1446 @@
+{
+  "1": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "green-field",
+    "evidence": "No explicit tender or settled-payment evidence visible."
+  },
+  "2": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "grand-lux-cafe",
+    "evidence": "Restaurant check; total only, no clear tender."
+  },
+  "3": {
+    "label": "receipt",
+    "decision": "accepted_visual_review",
+    "merchant": "taco-bell",
+    "evidence": "Visa amount and approval printed."
+  },
+  "4": {
+    "label": "receipt",
+    "decision": "accepted_visual_review",
+    "merchant": "el-gran-mar-de-plata",
+    "evidence": "SETTLED, cash tendered and zero balance."
+  },
+  "5": {
+    "label": "receipt",
+    "decision": "accepted_visual_review",
+    "merchant": "golden-bowl-teriyaki",
+    "evidence": "Cash tender and change printed."
+  },
+  "6": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "saskas",
+    "evidence": "Positive Balance Due."
+  },
+  "7": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "akira",
+    "evidence": "Explicit Unpaid."
+  },
+  "8": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "katana-sushi",
+    "evidence": "Total and handwritten amount; payment unconfirmed."
+  },
+  "9": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "dona-mercedes",
+    "evidence": "Mostly Spanish item names; no clear tender."
+  },
+  "10": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "bella-pasta",
+    "evidence": "Restaurant check; no payment evidence."
+  },
+  "11": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "friendly-reds",
+    "evidence": "Positive Balance Due."
+  },
+  "12": {
+    "label": "receipt",
+    "decision": "accepted_visual_review",
+    "merchant": "smoke-city-market",
+    "evidence": "Wells Fargo payment equals total; zero change."
+  },
+  "13": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "hp-pho-ga",
+    "evidence": "Restaurant check with suggested tip; no clear tender."
+  },
+  "14": {
+    "label": "receipt",
+    "decision": "accepted_visual_review",
+    "merchant": "albetos",
+    "evidence": "ATM payment equals total."
+  },
+  "15": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "loaded-cafe",
+    "evidence": "TOTAL DUE; no payment shown."
+  },
+  "16": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "hammocks-trading",
+    "evidence": "Total Due; no payment shown."
+  },
+  "17": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "chef-wang",
+    "evidence": "Restaurant check; total only, payment unconfirmed."
+  },
+  "18": {
+    "label": "receipt",
+    "decision": "accepted_visual_review",
+    "merchant": "umix",
+    "evidence": "Cash tender and change."
+  },
+  "19": {
+    "label": "receipt",
+    "decision": "accepted_visual_review",
+    "merchant": "in-n-out",
+    "evidence": "Cash tender and change."
+  },
+  "20": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "grotto-pizzeria",
+    "evidence": "Total only; no tender or settlement."
+  },
+  "21": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "deccan-spice",
+    "evidence": "Order total and tip; payment unconfirmed."
+  },
+  "22": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "hawwi-ethiopian",
+    "evidence": "Lower payment section cut off; CREDIT CARD AUTH alone insufficient."
+  },
+  "23": {
+    "label": "receipt",
+    "decision": "accepted_visual_review",
+    "merchant": "moonstar",
+    "evidence": "Explicit PAID REPRINT; cash and change. Reprint is not automatically Duplicate class."
+  },
+  "24": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "thai-gusto",
+    "evidence": "GUEST CHECK; explicitly This is not a receipt."
+  },
+  "25": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "new-asia-buffet",
+    "evidence": "Amex sticker is not payment evidence; total/tip only."
+  },
+  "26": {
+    "label": "receipt",
+    "decision": "accepted_visual_review",
+    "merchant": "mcdonalds",
+    "evidence": "Cashless payment, transaction amount and authorization."
+  },
+  "27": {
+    "label": "receipt",
+    "decision": "accepted_visual_review",
+    "merchant": "chriss-hamburgers",
+    "evidence": "CASH equals total."
+  },
+  "28": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "longboards",
+    "evidence": "Handwritten gratuity/total without confirmed tender."
+  },
+  "29": {
+    "label": "receipt",
+    "decision": "accepted_visual_review",
+    "merchant": "douglas-burgers",
+    "evidence": "Cash amount equals total."
+  },
+  "30": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "rincon-mexicano",
+    "evidence": "Order bill without payment evidence; multilingual items."
+  },
+  "31": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "villa-deste",
+    "evidence": "Total only; no tender or settled cue."
+  },
+  "32": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "laurel-tavern",
+    "evidence": "Total Due; no payment shown."
+  },
+  "33": {
+    "label": "receipt",
+    "decision": "accepted_visual_review",
+    "merchant": "wings-things",
+    "evidence": "Cash tender and zero change."
+  },
+  "34": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "uncle-julios",
+    "evidence": "Positive Balance Due."
+  },
+  "35": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "la-source",
+    "evidence": "French-language bill; no clear payment."
+  },
+  "36": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "argonaut-diner",
+    "evidence": "Copy of Receipt has unspecified recipient; Please Pay at Cashier; UI overlay."
+  },
+  "37": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "pappadeaux",
+    "evidence": "Gift-card entry line is blank; payment unconfirmed."
+  },
+  "38": {
+    "label": "receipt",
+    "decision": "accepted_visual_review",
+    "merchant": "panda-express",
+    "evidence": "Cash tender and change."
+  },
+  "39": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "yogurtland-micros-demo",
+    "evidence": "Card purchase printed but header explicitly Micros Demo System; authenticity unclear."
+  },
+  "40": {
+    "label": "receipt",
+    "decision": "accepted_visual_review",
+    "merchant": "carls-jr",
+    "evidence": "Credit payment and zero change."
+  },
+  "41": {
+    "label": "receipt",
+    "decision": "accepted_visual_review",
+    "merchant": "sukhothai",
+    "evidence": "CREDIT CARD AUTH amount equals total; lower source cropped."
+  },
+  "42": {
+    "label": "",
+    "decision": "excluded_intake_duplicate",
+    "merchant": "la-source",
+    "evidence": "French bill; visually same document as 1034, rescaled.",
+    "duplicate_of": "srd_1034-receipt"
+  },
+  "43": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "fairview-unknown",
+    "evidence": "Amt Due; item void does not establish payment."
+  },
+  "44": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "bk-soul-food",
+    "evidence": "Total only; payment unconfirmed."
+  },
+  "45": {
+    "label": "receipt",
+    "decision": "accepted_visual_review",
+    "merchant": "churchs-chicken",
+    "evidence": "Cash tender and change."
+  },
+  "46": {
+    "label": "receipt",
+    "decision": "accepted_visual_review",
+    "merchant": "yums-restaurant",
+    "evidence": "PAID Cash."
+  },
+  "47": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "araxi-burger",
+    "evidence": "Total only; Discover wallet is not payment proof."
+  },
+  "48": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "730-tavern",
+    "evidence": "Positive Balance Due."
+  },
+  "49": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "daily-grill",
+    "evidence": "Positive Balance Due."
+  },
+  "50": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "kickin-kajun",
+    "evidence": "Split receipt total; no clear payment, lower tip section cut."
+  },
+  "51": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "hollywood-cafe",
+    "evidence": "Total only; no tender."
+  },
+  "52": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "general-poors",
+    "evidence": "Amt Due; no tender."
+  },
+  "53": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "nancys",
+    "evidence": "TOTAL DUE; lower source cropped."
+  },
+  "54": {
+    "label": "receipt",
+    "decision": "accepted_visual_review",
+    "merchant": "primo-family",
+    "evidence": "Mastercard payment equals total; zero Amount Due."
+  },
+  "55": {
+    "label": "receipt",
+    "decision": "accepted_visual_review",
+    "merchant": "big-jos",
+    "evidence": "Cash tender and change."
+  },
+  "56": {
+    "label": "receipt",
+    "decision": "accepted_visual_review",
+    "merchant": "wings-things",
+    "evidence": "Cash 40 exceeds total; change section clipped."
+  },
+  "57": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "zoca",
+    "evidence": "Payment section cropped; many Spanish items."
+  },
+  "58": {
+    "label": "customer_copy",
+    "decision": "excluded_existing_duplicate",
+    "merchant": "cafe-parisien",
+    "evidence": "Customer Copy; exact existing duplicate 1057."
+  },
+  "59": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "caldera-brewery",
+    "evidence": "Positive Balance Due."
+  },
+  "60": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "landfall",
+    "evidence": "Total only; no payment."
+  },
+  "61": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "wnl-1660-india",
+    "evidence": "Positive Balance Due."
+  },
+  "62": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "chilis",
+    "evidence": "Positive Balance Due."
+  },
+  "63": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "marianaccis",
+    "evidence": "Total only; no payment."
+  },
+  "64": {
+    "label": "receipt",
+    "decision": "excluded_intake_duplicate",
+    "merchant": "primo-family",
+    "evidence": "Same dated check 137 and card payment as SRD 1053; cropped/rescaled derivative.",
+    "duplicate_of": "srd_1053-receipt"
+  },
+  "65": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "in-n-out",
+    "evidence": "Amount Due and cropped tender section."
+  },
+  "66": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "taco-maria",
+    "evidence": "Positive Order Balance due."
+  },
+  "67": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "bellagio-ristorante",
+    "evidence": "Italian bill; not English-first."
+  },
+  "68": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "anjappar",
+    "evidence": "Total only; payment section cropped."
+  },
+  "69": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "cafe-eugene",
+    "evidence": "Cropped total section; no payment shown."
+  },
+  "70": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "river-village",
+    "evidence": "Pay at the cash register."
+  },
+  "71": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "mr-ms-wings",
+    "evidence": "Total only; no payment evidence."
+  },
+  "72": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "trinity",
+    "evidence": "Total Due."
+  },
+  "73": {
+    "label": "receipt",
+    "decision": "accepted_visual_review",
+    "merchant": "ohana-hawaiian-bbq",
+    "evidence": "SETTLED, cash tender and change."
+  },
+  "74": {
+    "label": "customer_copy",
+    "decision": "excluded_existing_duplicate",
+    "merchant": "subway",
+    "evidence": "CUSTOMER COPY; exact existing duplicate 1073."
+  },
+  "75": {
+    "label": "receipt",
+    "decision": "accepted_visual_review",
+    "merchant": "lin-buffet",
+    "evidence": "Visa payment equals total."
+  },
+  "76": {
+    "label": "receipt",
+    "decision": "accepted_visual_review",
+    "merchant": "smokebox-bbq",
+    "evidence": "Cash tender, change and CLOSED."
+  },
+  "77": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "paradise-restaurant",
+    "evidence": "Credit Purchase line is cut off before payment amount; incomplete."
+  },
+  "78": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "naanching",
+    "evidence": "Total only; no payment evidence."
+  },
+  "79": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "tay-ho-oakland",
+    "evidence": "Positive Order Balance due."
+  },
+  "80": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "falmouth-raw-bar",
+    "evidence": "Total only; no tender."
+  },
+  "81": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "newark-buffet",
+    "evidence": "Total only; guest check in background is not Guest Copy."
+  },
+  "82": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "brasas",
+    "evidence": "Order total and online link; no tender shown."
+  },
+  "83": {
+    "label": "receipt",
+    "decision": "accepted_visual_review",
+    "merchant": "surati-farsan",
+    "evidence": "Visa PAYMENT equals total; Check Closed."
+  },
+  "84": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "king-taco",
+    "evidence": "Paid Visa but mostly Spanish document text; language hold."
+  },
+  "85": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "trattoria-saporito",
+    "evidence": "Grand total only; no payment."
+  },
+  "86": {
+    "label": "customer_copy",
+    "decision": "excluded_existing_duplicate",
+    "merchant": "pita-pita",
+    "evidence": "Guest Copy; exact existing duplicate 1085."
+  },
+  "87": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "calageros",
+    "evidence": "Positive Amount Due."
+  },
+  "88": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "noches-de-colombia",
+    "evidence": "Amt Due; source cropped."
+  },
+  "89": {
+    "label": "receipt",
+    "decision": "accepted_visual_review",
+    "merchant": "mooyah",
+    "evidence": "CASH equals total."
+  },
+  "90": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "firepoint-grill",
+    "evidence": "Positive Balance Due."
+  },
+  "91": {
+    "label": "receipt",
+    "decision": "accepted_visual_review",
+    "merchant": "five-guys",
+    "evidence": "Mastercard, authorization and Order Closed."
+  },
+  "92": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "city-taste",
+    "evidence": "Total only; no payment."
+  },
+  "93": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "kaiseki",
+    "evidence": "Total and recommended tips; no payment."
+  },
+  "94": {
+    "label": "receipt",
+    "decision": "accepted_visual_review",
+    "merchant": "popeyes",
+    "evidence": "Credit equals total; zero change. Source upside down."
+  },
+  "95": {
+    "label": "receipt",
+    "decision": "accepted_visual_review",
+    "merchant": "pokeatery",
+    "evidence": "Visa Chip amount equals total."
+  },
+  "96": {
+    "label": "receipt",
+    "decision": "accepted_visual_review",
+    "merchant": "golden-coin",
+    "evidence": "SETTLED and cash tender. Source rotated."
+  },
+  "97": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "covina-223-citrus",
+    "evidence": "Total only; no payment."
+  },
+  "98": {
+    "label": "receipt",
+    "decision": "accepted_visual_review",
+    "merchant": "el-pollo-loco",
+    "evidence": "Cash, Payment, Change Due and Check Closed."
+  },
+  "99": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "nicks-tuscan",
+    "evidence": "Minimum card payment policy is not tender."
+  },
+  "100": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "san-jose-mexican",
+    "evidence": "Positive Balance Due."
+  },
+  "101": {
+    "label": "customer_copy",
+    "decision": "accepted_visual_review",
+    "merchant": "mcdonalds",
+    "evidence": "Explicit DUPLICATE header."
+  },
+  "102": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "kaz-ramen",
+    "evidence": "Order total only; no payment."
+  },
+  "103": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "om-indian-food",
+    "evidence": "Invoice and total only; payment unconfirmed."
+  },
+  "104": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "crisfield-seafood",
+    "evidence": "Last Serviced is not payment evidence; no tender."
+  },
+  "105": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "don-juan",
+    "evidence": "Circled total and thank-you handwriting; no payment proof."
+  },
+  "106": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "place-2-be",
+    "evidence": "Source cut off after Total; payment unknown."
+  },
+  "107": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "lan-sheng",
+    "evidence": "Total only; no payment."
+  },
+  "108": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "mikuni",
+    "evidence": "Total Due."
+  },
+  "109": {
+    "label": "receipt",
+    "decision": "accepted_visual_review",
+    "merchant": "go-mongo",
+    "evidence": "Cash Tendered equals total, zero change."
+  },
+  "110": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "breadfish",
+    "evidence": "Bilingual Chinese/English; no tender."
+  },
+  "111": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "chelokababi",
+    "evidence": "Total only; no payment."
+  },
+  "112": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "commanders-palace",
+    "evidence": "Total only; no payment."
+  },
+  "113": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "columbus",
+    "evidence": "Total only; handwriting does not clearly confirm payment."
+  },
+  "114": {
+    "label": "receipt",
+    "decision": "accepted_visual_review",
+    "merchant": "golden-panda",
+    "evidence": "Amount Tendered and Debit Card Sale equal total."
+  },
+  "115": {
+    "label": "",
+    "decision": "excluded_intake_duplicate",
+    "merchant": "la-source",
+    "evidence": "Same French La Source document as SRD 1034/1041.",
+    "duplicate_of": "srd_1034-receipt"
+  },
+  "116": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "rosebud",
+    "evidence": "Explicit THIS IS ROSEBUDS COPY; merchant copy excluded under current taxonomy."
+  },
+  "117": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "villaggio",
+    "evidence": "Total Due."
+  },
+  "118": {
+    "label": "customer_copy",
+    "decision": "accepted_visual_review",
+    "merchant": "kobe-japanese",
+    "evidence": "Explicit Customer Copy."
+  },
+  "119": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "wendys",
+    "evidence": "Positive Balance Due."
+  },
+  "120": {
+    "label": "receipt",
+    "decision": "accepted_visual_review",
+    "merchant": "panda-express",
+    "evidence": "Visa payment and AuthCode; PURCHASE is transaction type, not purchase order."
+  },
+  "121": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "red-hot-ii",
+    "evidence": "Total only; no tender."
+  },
+  "122": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "heart-of-portugal",
+    "evidence": "Total only; no payment."
+  },
+  "123": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "el-meson",
+    "evidence": "Total only; no payment."
+  },
+  "124": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "el-gato-negro",
+    "evidence": "Memo Check; no payment."
+  },
+  "125": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "firefly",
+    "evidence": "Total only; no tender."
+  },
+  "126": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "chatpata",
+    "evidence": "Order total and online link; no tender."
+  },
+  "127": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "sage-cafe",
+    "evidence": "Total only; no payment."
+  },
+  "128": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "pizza-hut",
+    "evidence": "Positive Balance Due."
+  },
+  "129": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "kalaveras",
+    "evidence": "Order total only; no payment."
+  },
+  "130": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "hiro-japanese",
+    "evidence": "Total only; no payment."
+  },
+  "131": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "boa",
+    "evidence": "Restaurant check with suggested gratuity; no payment."
+  },
+  "132": {
+    "label": "receipt",
+    "decision": "accepted_visual_review",
+    "merchant": "chriss-hamburgers",
+    "evidence": "Cash tender and change."
+  },
+  "133": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "via-emilia",
+    "evidence": "Total only; no payment."
+  },
+  "134": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "moonstar",
+    "evidence": "Total and Tip Guide; no payment."
+  },
+  "135": {
+    "label": "receipt",
+    "decision": "accepted_visual_review",
+    "merchant": "kfc",
+    "evidence": "ETender Credit equals total; zero change; charge detail SALE."
+  },
+  "136": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "e-baldi",
+    "evidence": "Total only; no payment."
+  },
+  "137": {
+    "label": "receipt",
+    "decision": "accepted_visual_review",
+    "merchant": "shawarma-factory",
+    "evidence": "Visa Debit and Authorization; payment footer partly cropped."
+  },
+  "138": {
+    "label": "receipt",
+    "decision": "accepted_visual_review",
+    "merchant": "maui-teriyaki",
+    "evidence": "SETTLED, cash tender and change."
+  },
+  "139": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "casa-chan",
+    "evidence": "Order total only; no tender."
+  },
+  "140": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "ss-paradise",
+    "evidence": "Bill total only; payment unconfirmed."
+  },
+  "141": {
+    "label": "receipt",
+    "decision": "accepted_visual_review",
+    "merchant": "shake-shack",
+    "evidence": "Visa amount, Auth and Check Closed."
+  },
+  "142": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "yauatcha",
+    "evidence": "Total Due."
+  },
+  "143": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "blue-bear-tavern",
+    "evidence": "Total only; no payment."
+  },
+  "144": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "arthurs",
+    "evidence": "Total Due."
+  },
+  "145": {
+    "label": "receipt",
+    "decision": "accepted_visual_review",
+    "merchant": "chloe81",
+    "evidence": "Visa EMV payment equals amount due."
+  },
+  "146": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "miguels",
+    "evidence": "PLEASE PAY YOUR SERVER."
+  },
+  "147": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "rihannas",
+    "evidence": "Order total only; source cropped."
+  },
+  "148": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "new-delhi",
+    "evidence": "INVOICE; total only, no payment."
+  },
+  "149": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "sonic",
+    "evidence": "Total Due."
+  },
+  "150": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "dennys",
+    "evidence": "Total only; no payment, lower source clipped."
+  },
+  "151": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "hms-esquire",
+    "evidence": "AMOUNT DUE."
+  },
+  "152": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "collectors-choice",
+    "evidence": "Tip Helper and cash discount offer are not payment evidence."
+  },
+  "153": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "kalookis",
+    "evidence": "Total only; no payment."
+  },
+  "154": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "gordon-ramsay",
+    "evidence": "Total only; no payment, source clipped."
+  },
+  "155": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "via-mar",
+    "evidence": "AMOUNT DUE and Please Pay your server."
+  },
+  "156": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "marco-pierre-white",
+    "evidence": "Balance Due."
+  },
+  "157": {
+    "label": "receipt",
+    "decision": "accepted_visual_review",
+    "merchant": "ikea",
+    "evidence": "Received VISA amount matches Total to Pay."
+  },
+  "158": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "russells",
+    "evidence": "Amount Due; PLEASE PAY CASHIER."
+  },
+  "159": {
+    "label": "receipt",
+    "decision": "accepted_visual_review",
+    "merchant": "mitasu",
+    "evidence": "Closed and VISA amount equals total."
+  },
+  "160": {
+    "label": "receipt",
+    "decision": "accepted_visual_review",
+    "merchant": "taco-time",
+    "evidence": "Cash tender and change."
+  },
+  "161": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "angelos-pizza",
+    "evidence": "Total only; no payment."
+  },
+  "162": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "dominican-restaurant",
+    "evidence": "Guest Check, blank total charge; no payment."
+  },
+  "163": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "juniper-ivy",
+    "evidence": "Total only; no payment."
+  },
+  "164": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "bens-bayside",
+    "evidence": "Total and suggested gratuity; no payment."
+  },
+  "165": {
+    "label": "customer_copy",
+    "decision": "excluded_existing_duplicate",
+    "merchant": "golden-pear",
+    "evidence": "Customer Copy; exact existing duplicate 1164."
+  },
+  "166": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "el-chico",
+    "evidence": "Amount Due; Home Delivery is not a delivery note."
+  },
+  "167": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "pappadeaux",
+    "evidence": "Total only; no payment."
+  },
+  "168": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "casa-rubio",
+    "evidence": "Total only; no payment."
+  },
+  "169": {
+    "label": "receipt",
+    "decision": "accepted_visual_review",
+    "merchant": "carls-jr",
+    "evidence": "Cash tender and change."
+  },
+  "170": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "delmonicos",
+    "evidence": "Positive Balance Due."
+  },
+  "171": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "buca-di-beppo",
+    "evidence": "Positive Balance Due."
+  },
+  "172": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "pop-tates",
+    "evidence": "Bill grand total only; no payment."
+  },
+  "173": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "el-valle",
+    "evidence": "Total only; no payment."
+  },
+  "174": {
+    "label": "receipt",
+    "decision": "accepted_visual_review",
+    "merchant": "lalos",
+    "evidence": "EMVJ payment amount equals total."
+  },
+  "175": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "ipanema",
+    "evidence": "Pay This Amount; no payment."
+  },
+  "176": {
+    "label": "receipt",
+    "decision": "accepted_visual_review",
+    "merchant": "bar-louie",
+    "evidence": "Cash tender/change and Check Closed."
+  },
+  "177": {
+    "label": "customer_copy",
+    "decision": "excluded_existing_duplicate",
+    "merchant": "hedleys",
+    "evidence": "CUSTOMER COPY; exact existing duplicate 1176."
+  },
+  "178": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "el-charro",
+    "evidence": "Positive Balance Due."
+  },
+  "179": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "gourdoughs",
+    "evidence": "Total only; no payment."
+  },
+  "180": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "fourth-street-mill",
+    "evidence": "Multiple partial documents; main itemized bill has no payment evidence."
+  },
+  "181": {
+    "label": "receipt",
+    "decision": "accepted_visual_review",
+    "merchant": "lizzy-tequilas",
+    "evidence": "Cash and Total Paid; Check Closed."
+  },
+  "182": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "del-friscos",
+    "evidence": "TOTAL DUE. Source rotated."
+  },
+  "183": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "finnegans-way",
+    "evidence": "Total and optional tip; no payment."
+  },
+  "184": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "jalisco",
+    "evidence": "Positive BALANCE DUE."
+  },
+  "185": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "unknown-t5-dining",
+    "evidence": "Total only; header and footer cropped."
+  },
+  "186": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "jts-diner",
+    "evidence": "Positive Balance Due."
+  },
+  "187": {
+    "label": "receipt",
+    "decision": "excluded_intake_duplicate",
+    "merchant": "primo-family",
+    "evidence": "Same check 137, date and Mastercard 6170 as SRD 1053; cropped derivative.",
+    "duplicate_of": "srd_1053-receipt"
+  },
+  "188": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "spiral-diner",
+    "evidence": "Positive Order Balance due."
+  },
+  "189": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "new-china",
+    "evidence": "Total only; no payment."
+  },
+  "190": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "miguels",
+    "evidence": "PLEASE PAY YOUR SERVER."
+  },
+  "191": {
+    "label": "receipt",
+    "decision": "accepted_visual_review",
+    "merchant": "bombay-grill",
+    "evidence": "CREDIT CARD AUTH and Mastercard amount; signed."
+  },
+  "192": {
+    "label": "receipt",
+    "decision": "accepted_visual_review",
+    "merchant": "mod-pizza",
+    "evidence": "Visa amount equals total; card and tip printed."
+  },
+  "193": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "stanfords",
+    "evidence": "TOTAL DUE."
+  },
+  "194": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "marie-callenders",
+    "evidence": "Total only; no payment."
+  },
+  "195": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "bar-rua",
+    "evidence": "REPRINTED is not explicit Duplicate; total only, no payment."
+  },
+  "196": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "amici",
+    "evidence": "Positive Balance Due."
+  },
+  "197": {
+    "label": "receipt",
+    "decision": "accepted_visual_review",
+    "merchant": "unknown-chicken-tikka",
+    "evidence": "Closed to Credit Card."
+  },
+  "198": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "san-montano",
+    "evidence": "Italian fiscal receipt; not English-first."
+  },
+  "199": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "stx-miami",
+    "evidence": "TOTAL DUE."
+  },
+  "200": {
+    "label": "",
+    "decision": "hold_ambiguous",
+    "merchant": "nonna",
+    "evidence": "Total Due."
+  },
+  "201": {
+    "label": "purchase_order",
+    "decision": "accepted_visual_review",
+    "merchant": "synthetic-company-v2",
+    "evidence": "English buyer-issued Purchase Order heading, vendor/deliver-to fields and ordered-item table; synthetic."
+  },
+  "202": {
+    "label": "purchase_order",
+    "decision": "accepted_visual_review",
+    "merchant": "synthetic-company-v2",
+    "evidence": "English buyer-issued Purchase Order heading, vendor/deliver-to fields and ordered-item table; synthetic."
+  },
+  "203": {
+    "label": "purchase_order",
+    "decision": "accepted_visual_review",
+    "merchant": "synthetic-company-v2",
+    "evidence": "English buyer-issued Purchase Order heading, vendor/deliver-to fields and ordered-item table; synthetic."
+  },
+  "204": {
+    "label": "purchase_order",
+    "decision": "accepted_visual_review",
+    "merchant": "synthetic-company-v2",
+    "evidence": "English buyer-issued Purchase Order heading, vendor/deliver-to fields and ordered-item table; synthetic."
+  },
+  "205": {
+    "label": "purchase_order",
+    "decision": "accepted_visual_review",
+    "merchant": "synthetic-company-v2",
+    "evidence": "English buyer-issued Purchase Order heading, vendor/deliver-to fields and ordered-item table; synthetic."
+  },
+  "206": {
+    "label": "purchase_order",
+    "decision": "accepted_visual_review",
+    "merchant": "synthetic-company-v2",
+    "evidence": "English buyer-issued Purchase Order heading, vendor/deliver-to fields and ordered-item table; synthetic."
+  },
+  "207": {
+    "label": "purchase_order",
+    "decision": "accepted_visual_review",
+    "merchant": "synthetic-company-v2",
+    "evidence": "English buyer-issued Purchase Order heading, vendor/deliver-to fields and ordered-item table; synthetic."
+  },
+  "208": {
+    "label": "purchase_order",
+    "decision": "accepted_visual_review",
+    "merchant": "synthetic-company-v2",
+    "evidence": "Apparent missing content in overview preview; complete alternate Poppler render visually checked. Stored-image thumbnail differences are small; source corruption was not established. English Purchase Order."
+  },
+  "209": {
+    "label": "purchase_order",
+    "decision": "accepted_visual_review",
+    "merchant": "synthetic-company-v2",
+    "evidence": "English buyer-issued Purchase Order heading, vendor/deliver-to fields and ordered-item table; synthetic."
+  },
+  "210": {
+    "label": "purchase_order",
+    "decision": "accepted_visual_review",
+    "merchant": "synthetic-company-v2",
+    "evidence": "English buyer-issued Purchase Order heading, vendor/deliver-to fields and ordered-item table; synthetic."
+  },
+  "211": {
+    "label": "purchase_order",
+    "decision": "accepted_visual_review",
+    "merchant": "synthetic-company-v2",
+    "evidence": "English buyer-issued Purchase Order heading, vendor/deliver-to fields and ordered-item table; synthetic."
+  },
+  "212": {
+    "label": "purchase_order",
+    "decision": "accepted_visual_review",
+    "merchant": "synthetic-company-v2",
+    "evidence": "English buyer-issued Purchase Order heading, vendor/deliver-to fields and ordered-item table; synthetic."
+  },
+  "213": {
+    "label": "purchase_order",
+    "decision": "accepted_visual_review",
+    "merchant": "synthetic-company-v2",
+    "evidence": "English buyer-issued Purchase Order heading, vendor/deliver-to fields and ordered-item table; synthetic."
+  },
+  "214": {
+    "label": "purchase_order",
+    "decision": "accepted_visual_review",
+    "merchant": "synthetic-company-v2",
+    "evidence": "English buyer-issued Purchase Order heading, vendor/deliver-to fields and ordered-item table; synthetic."
+  },
+  "215": {
+    "label": "purchase_order",
+    "decision": "accepted_visual_review",
+    "merchant": "synthetic-company-v2",
+    "evidence": "English buyer-issued Purchase Order heading, vendor/deliver-to fields and ordered-item table; synthetic."
+  },
+  "216": {
+    "label": "purchase_order",
+    "decision": "accepted_visual_review",
+    "merchant": "synthetic-company-v2",
+    "evidence": "English buyer-issued Purchase Order heading, vendor/deliver-to fields and ordered-item table; synthetic."
+  },
+  "217": {
+    "label": "purchase_order",
+    "decision": "accepted_visual_review",
+    "merchant": "synthetic-company-v2",
+    "evidence": "English buyer-issued Purchase Order, vendor/deliver-to fields and item table; synthetic."
+  },
+  "218": {
+    "label": "purchase_order",
+    "decision": "accepted_visual_review",
+    "merchant": "synthetic-company-v2",
+    "evidence": "English buyer-issued Purchase Order, vendor/deliver-to fields and item table; synthetic."
+  },
+  "219": {
+    "label": "purchase_order",
+    "decision": "accepted_visual_review",
+    "merchant": "synthetic-company-v2",
+    "evidence": "English buyer-issued Purchase Order, vendor/deliver-to fields and item table; synthetic."
+  },
+  "220": {
+    "label": "purchase_order",
+    "decision": "accepted_visual_review",
+    "merchant": "synthetic-company-v2",
+    "evidence": "English buyer-issued Purchase Order, vendor/deliver-to fields and item table; synthetic."
+  },
+  "221": {
+    "label": "delivery_note",
+    "decision": "accepted_visual_review",
+    "merchant": "synthetic-company-v2",
+    "evidence": "English Packing Slip, ordered/shipped quantities and packing/receiving fields; synthetic."
+  },
+  "222": {
+    "label": "delivery_note",
+    "decision": "accepted_visual_review",
+    "merchant": "synthetic-company-v2",
+    "evidence": "English Packing Slip, ordered/shipped quantities and packing/receiving fields; synthetic."
+  },
+  "223": {
+    "label": "delivery_note",
+    "decision": "accepted_visual_review",
+    "merchant": "synthetic-company-v2",
+    "evidence": "English Packing Slip, ordered/shipped quantities and packing/receiving fields; synthetic."
+  },
+  "224": {
+    "label": "delivery_note",
+    "decision": "accepted_visual_review",
+    "merchant": "synthetic-company-v2",
+    "evidence": "English Packing Slip, ordered/shipped quantities and packing/receiving fields; synthetic."
+  },
+  "225": {
+    "label": "delivery_note",
+    "decision": "accepted_visual_review",
+    "merchant": "synthetic-company-v2",
+    "evidence": "English Packing Slip, ordered/shipped quantities and packing/receiving fields; synthetic."
+  },
+  "226": {
+    "label": "delivery_note",
+    "decision": "accepted_visual_review",
+    "merchant": "synthetic-company-v2",
+    "evidence": "English Packing Slip, ordered/shipped quantities and packing/receiving fields; synthetic."
+  },
+  "227": {
+    "label": "delivery_note",
+    "decision": "accepted_visual_review",
+    "merchant": "synthetic-company-v2",
+    "evidence": "Apparent missing content in overview preview; complete alternate Poppler render visually checked. Stored-image thumbnail differences are small; source corruption was not established. English Packing Slip."
+  },
+  "228": {
+    "label": "delivery_note",
+    "decision": "accepted_visual_review",
+    "merchant": "synthetic-company-v2",
+    "evidence": "English Packing Slip, ordered/shipped quantities and packing/receiving fields; synthetic."
+  },
+  "229": {
+    "label": "delivery_note",
+    "decision": "accepted_visual_review",
+    "merchant": "synthetic-company-v2",
+    "evidence": "English Packing Slip, ordered/shipped quantities and packing/receiving fields; synthetic."
+  },
+  "230": {
+    "label": "delivery_note",
+    "decision": "accepted_visual_review",
+    "merchant": "synthetic-company-v2",
+    "evidence": "English Packing Slip, ordered/shipped quantities and packing/receiving fields; synthetic."
+  },
+  "231": {
+    "label": "delivery_note",
+    "decision": "accepted_visual_review",
+    "merchant": "synthetic-company-v2",
+    "evidence": "English Packing Slip, ordered/shipped quantities and packing/receiving fields; synthetic."
+  },
+  "232": {
+    "label": "delivery_note",
+    "decision": "accepted_visual_review",
+    "merchant": "synthetic-company-v2",
+    "evidence": "English Packing Slip, ordered/shipped quantities and packing/receiving fields; synthetic."
+  },
+  "233": {
+    "label": "delivery_note",
+    "decision": "accepted_visual_review",
+    "merchant": "synthetic-company-v2",
+    "evidence": "English Packing Slip, ordered/shipped quantities and packing/receiving fields; synthetic."
+  },
+  "234": {
+    "label": "delivery_note",
+    "decision": "accepted_visual_review",
+    "merchant": "synthetic-company-v2",
+    "evidence": "English Packing Slip, ordered/shipped quantities and packing/receiving fields; synthetic."
+  },
+  "235": {
+    "label": "delivery_note",
+    "decision": "accepted_visual_review",
+    "merchant": "synthetic-company-v2",
+    "evidence": "English Packing Slip, ordered/shipped quantities and packing/receiving fields; synthetic."
+  },
+  "236": {
+    "label": "delivery_note",
+    "decision": "accepted_visual_review",
+    "merchant": "synthetic-company-v2",
+    "evidence": "English Packing Slip, ordered/shipped quantities and packing/receiving fields; synthetic."
+  },
+  "237": {
+    "label": "delivery_note",
+    "decision": "accepted_visual_review",
+    "merchant": "synthetic-company-v2",
+    "evidence": "Apparent missing content in overview preview; complete alternate Poppler render visually checked. Stored-image thumbnail differences are small; source corruption was not established. English Packing Slip."
+  },
+  "238": {
+    "label": "delivery_note",
+    "decision": "accepted_visual_review",
+    "merchant": "synthetic-company-v2",
+    "evidence": "English Packing Slip, ordered/shipped quantities and packing/receiving fields; synthetic."
+  },
+  "239": {
+    "label": "delivery_note",
+    "decision": "accepted_visual_review",
+    "merchant": "synthetic-company-v2",
+    "evidence": "English Packing Slip, ordered/shipped quantities and packing/receiving fields; synthetic."
+  },
+  "240": {
+    "label": "delivery_note",
+    "decision": "accepted_visual_review",
+    "merchant": "synthetic-company-v2",
+    "evidence": "Apparent missing content in overview preview; complete alternate Poppler render visually checked. Stored-image thumbnail differences are small; source corruption was not established. English Packing Slip."
+  }
+}

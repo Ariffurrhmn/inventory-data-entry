@@ -1,0 +1,39 @@
+[ LL Ld
+RESTAURANTS, INC
+
+King Taco # 30
+Exquisitamente. . _
+a la Mexicana 1
+FERRER RR hf
+
+1 SOPE ASADA
+
+CON TODD
+COPA S.ROJA
+1 TACO ASADA 1.59
+CON CEBOLLA
+COPA S.ROJA
+1 TACO PASTOR 1.59
+NO CEBOLLA
+COPA S.ROJA
+1 QUESADILLA ASADA 4.89
+1 ORDEN CHIPS 1.50
+Sub/Tt1 12.67
+Tax 8.75% 1.1
+To-Go 13.78
+Vish 13.78
+
+Acct: XXXXXKXXXXXXB381
+Auth: 042402
+Trans ID: 274999
+
+in 11:24pm
+Cashier 12875 CYNTHIA
+Terminal 01 RECIBO # 10368
+
+NUMERO DE ORDEN
+
+H TTT
+Muchas Gracias Por su visita!
+Rt kg opis
+

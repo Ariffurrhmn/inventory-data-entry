@@ -1,0 +1,51 @@
+PURCHASE
+ORDER
+NUMBER
+IS-PO-799
+DATE
+2 Sep 2024
+DELIVERY DATE
+11 Sep 2024
+ACCOUNT NO.
+INLINEA0001
+REQUESTED BY
+Mikael
+Sandberg
+CARRIER
+Cargo
+Transport 5
+VENDOR
+Inline Accessories
+5 Madrid
+94519 Concord, CA
+United States
+DELIVER TO
+Iris Sports Corp.
+279 Harbor Blvd
+80202 Denver, CO
+USA
+Phone: (989) 555-7243
+Item Description Qty Unit price Disc. Amount
+PD-M562 HL Mountain Pedal 550 $62.99 – $34,644.50
+PAYMENT TERMS
+Net 45 days
+Please confirm this order and quote our PO number on all invoices
+and delivery notes.
+Subtotal $34,644.50
+Freight $866.11
+Tax 8% $2,771.54
+Total $38,282.15
+Approved by
+Gear up strong and ride safely today.
+www.irissports.com · accounts@irissports.com · (989) 555-7243
+IS
+Iris Sports Corp.
+279 Harbor Blvd
+80202 Denver, CO
+USA
+Phone: (989) 555-7243
+accounts@irissports.com
+www.irissports.com
+Pedal power. Ride the future.
+EIN 79-2440607
+Purchase Order IS-PO-799 Page 1 / 1

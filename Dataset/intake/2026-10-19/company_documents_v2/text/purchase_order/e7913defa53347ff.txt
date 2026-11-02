@@ -1,0 +1,48 @@
+Purchase Order
+Number PO-2025-3961
+Date July 31, 2025
+Delivery date August 9, 2025
+Account no. WIDEWOR0001
+Requested by Ben Miller
+Carrier Cargo Transport 5
+VENDOR
+Wide World Importers
+50 Edward Ave
+94519 Concord, CA
+United States
+DELIVER TO
+Iris Wheelworks LLC
+410 Oak Street
+Suite 143
+02110 Boston, MA
+USA
+Phone: (591) 555-4212
+Item Description Qty Unit price Amount
+KW-4091 Keyed Washer 3 $47.47 $142.41
+PAYMENT TERMS
+Net 30 days
+Please confirm this order and quote our PO
+number on all invoices and delivery notes.
+Subtotal $142.41
+Freight $3.56
+Tax 8% $11.39
+Total $157.36
+Approved by
+Your next ride is just around the corner.
+Bank: Northern Trust Bank
+Account: 5585791826
+Routing no.: 440248973
+IW
+Iris Wheelworks LLC
+410 Oak Street
+Suite 143
+02110 Boston, MA
+USA
+Phone: (591) 555-4212
+contact@iriswheelworks.com
+www.iriswheelworks.com
+Precision wheels, smooth rides for
+all.
+EIN 80-1423683
+BANK DETAILS
+Purchase Order PO-2025-3961 Page 1 / 1

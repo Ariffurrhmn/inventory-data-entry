@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-19",
+  "staged": 240,
+  "assistant_visual_reviewed": 240,
+  "human_verified": 0,
+  "accepted_for_staging": 91,
+  "accepted_classes": {
+    "receipt": 49,
+    "customer_copy": 2,
+    "purchase_order": 20,
+    "delivery_note": 20
+  },
+  "accepted_sources": {
+    "expressexpense_srd": 51,
+    "company_documents_v2": 40
+  },
+  "held": 140,
+  "excluded_existing_duplicates": 5,
+  "excluded_intake_derivatives": 4,
+  "accepted_unique_image_hashes": 91,
+  "source_hashes_validated": 240,
+  "protected_files_unchanged": 144,
+  "existing_training_samples": 140,
+  "merged": 0,
+  "new_splits_assigned": 0,
+  "synthetic_revision": "0e9f5198e7e09f858834e544f96ec12436fdbb5e",
+  "screening_candidate_rows": 6,
+  "limitations": [
+    "Assistant label review; not independent human verification.",
+    "Held bills are not negative training labels.",
+    "No full transcription gold truth was created for additions; screening OCR and publisher PDF text remain distinct.",
+    "No claim of exhaustive crop/rotation duplicate detection.",
+    "Synthetic set has four layout styles, one generator family; training supplement only."
+  ]
+}
