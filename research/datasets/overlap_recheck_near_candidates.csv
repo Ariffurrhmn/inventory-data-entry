@@ -1,0 +1,3 @@
+candidate,existing,sample_id,phash_hamming_63,status
+Dataset\external_candidates\cord\viewer\train\8\image.jpg,Dataset/Receipt/cord-train-0008.jpg,5dffabcb47cb,2,screening_candidate_only_not_confirmed
+ExpressExpense SRD archive::1016-receipt.jpg,Dataset/Receipt/aaaa_jpg.rf.2e47601f234d7c54e2f7e015491d4cee.jpg,476131eff924,8,screening_candidate_only_not_confirmed

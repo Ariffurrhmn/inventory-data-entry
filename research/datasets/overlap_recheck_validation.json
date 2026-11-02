@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-19",
+  "existing_manifest_rows": 145,
+  "included_comparison_images": 140,
+  "retained_and_archive_image_entries": 274,
+  "cached_srd_images": 200,
+  "unique_candidate_image_bytes": 266,
+  "exact_correspondences": 5,
+  "near_screening_candidates": 2,
+  "errors": [],
+  "limitation": "Bounded retained samples plus cached SRD archive if present; no claim of full-release disjointness. Perceptual hash similarity is not identity.",
+  "exact_original_bytes_rehashed": 5,
+  "confirmed_visual_derivatives": 1,
+  "rejected_visual_candidates": 1,
+  "confirmed_corresponding_documents": 6
+}

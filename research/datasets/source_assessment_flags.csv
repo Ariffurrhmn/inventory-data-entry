@@ -1,0 +1,12 @@
+dataset_id,dataset_name,already_used_flag,assessment,source_url,checked_date
+company_documents_v2,Company Documents v2,not_established_do_not_infer_disjointness,usable_synthetic_supplement,https://huggingface.co/datasets/AyoubChLin/Company-document-dataset-v2,2026-10-19
+expressexpense_srd,ExpressExpense SRD,confirmed_5_byte_identical_documents,usable_after_copy_payment_and_duplicate_review,https://expressexpense.com/blog/free-receipt-images-ocr-machine-learning-dataset/,2026-10-19
+docile,DocILE,not_established_do_not_infer_disjointness,conditional_access_terms_and_PO_verification,https://docile.rossum.ai/,2026-10-19
+sroie,ICDAR 2019 SROIE,not_established_do_not_infer_disjointness,conditional_original_terms_and_version,https://rrc.cvc.uab.es/?ch=13,2026-10-19
+cord,CORD v2,confirmed_1_visual_derivative,already_used_low_priority_English,https://github.com/clovaai/cord,2026-10-19
+wildreceipt,WildReceipt,not_established_do_not_infer_disjointness,hold_dataset_terms_unresolved,https://arxiv.org/html/2103.14470,2026-10-19
+roboflow_purchase_order_set2,PURCHSE ORDER_SET2,not_established_do_not_infer_disjointness,conditional_full_resolution_and_provenance,https://universe.roboflow.com/purchase-order/purchse-order_set2,2026-10-19
+senga_header_10_03,Senga header-dataset-10-03,not_established_do_not_infer_disjointness,hold_access_unavailable,https://huggingface.co/datasets/senga-ml/header-dataset-10-03,2026-10-19
+chic,CHIC,not_established_do_not_infer_disjointness,low_priority_unverified_target_yield,https://arxiv.org/html/2305.01054,2026-10-19
+fatura,FATURA,not_established_do_not_infer_disjointness,unsuitable_initial_class_mapping,https://zenodo.org/records/8261508,2026-10-19
+rvl_cdip,RVL-CDIP,not_established_do_not_infer_disjointness,skip_bulk_indirect_class_mapping,https://adamharley.com/rvl-cdip/,2026-10-19

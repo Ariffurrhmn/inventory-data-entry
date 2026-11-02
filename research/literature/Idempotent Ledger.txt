@@ -1,0 +1,1 @@
+https://medium.com/@adeyemi_malik/the-idempotent-ledger-solving-the-duplicate-event-problem-in-high-throughput-financial-systems-e41dfa390f25

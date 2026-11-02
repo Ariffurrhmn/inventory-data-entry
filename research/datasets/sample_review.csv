@@ -1,0 +1,29 @@
+dataset_id,source_sample,proposed_mapping,review_status,review_date,notes
+company_documents_v2,goods_received_note/2f2deea384fde8f7.pdf,pending,visually_inspected,2026-10-19,English synthetic printed PDF; goods received note needs taxonomy decision
+company_documents_v2,goods_received_note/f4ad4c62af643837.pdf,pending,visually_inspected,2026-10-19,English synthetic printed PDF; goods received note needs taxonomy decision
+company_documents_v2,packing_slip/17758c3e1e524b8a.pdf,delivery_note,visually_inspected,2026-10-19,English synthetic printed PDF; clear document title; source is synthetic
+company_documents_v2,packing_slip/6f60f737faf5faa8.pdf,delivery_note,visually_inspected,2026-10-19,English synthetic printed PDF; clear document title; source is synthetic
+company_documents_v2,purchase_order/7aaa46e675512314.pdf,purchase_order,visually_inspected,2026-10-19,English synthetic printed PDF; clear document title; source is synthetic
+company_documents_v2,purchase_order/c6b8b0a1426310d7.pdf,purchase_order,visually_inspected,2026-10-19,English synthetic printed PDF; clear document title; source is synthetic
+company_documents_v2,receipt/c0eb64e81787f9b1.pdf,receipt,visually_inspected,2026-10-19,English synthetic printed PDF; clear document title; source is synthetic
+expressexpense_srd,1057-receipt.jpg,customer_copy,visually_inspected,2026-10-19,"Explicit Customer/Guest Copy; SHA256 match to current corpus, not new data"
+expressexpense_srd,1073-receipt.jpg,customer_copy,visually_inspected,2026-10-19,"Explicit Customer/Guest Copy; SHA256 match to current corpus, not new data"
+expressexpense_srd,1078-receipt.jpg,receipt,visually_inspected,2026-10-19,additional receipt candidate; confirm full-page copy status on intake
+expressexpense_srd,1085-receipt.jpg,customer_copy,visually_inspected,2026-10-19,"Explicit Customer/Guest Copy; SHA256 match to current corpus, not new data"
+expressexpense_srd,1164-receipt.jpg,customer_copy,visually_inspected,2026-10-19,"Explicit Customer/Guest Copy; SHA256 match to current corpus, not new data"
+expressexpense_srd,1176-receipt.jpg,customer_copy,visually_inspected,2026-10-19,"Explicit Customer/Guest Copy; SHA256 match to current corpus, not new data"
+sroie,img/000.jpg,receipt,visually_inspected,2026-10-19,Printed Malaysian receipt; cash/payment indication; no visible copy cue; rights pending
+sroie,img/001.jpg,receipt,visually_inspected,2026-10-19,Printed Malaysian receipt; cash/payment indication; no visible copy cue; rights pending
+cord,viewer/train/0/image.jpg,receipt,visually_inspected,2026-10-19,Indonesian; exclude English-first addition; photograph with background
+cord,viewer/train/8/image.jpg,receipt,visually_inspected,2026-10-19,Indonesian; exclude English-first addition; confirmed same visual document as current cord-train-0008.jpg
+wildreceipt,wildreceipt/image_files/Image_36/16/03b67cb7689a0831aea807ab021b364d122744e5.jpeg,receipt_candidate,visually_inspected,2026-10-19,Printed retail/restaurant receipt photo; field labels not document labels; rights pending; copy status needs full-resolution intake review
+wildreceipt,wildreceipt/image_files/Image_36/16/03dd7bee9110ab404811a8a9a151023677998706.jpeg,receipt_candidate,visually_inspected,2026-10-19,Printed retail/restaurant receipt photo; field labels not document labels; rights pending; copy status needs full-resolution intake review
+wildreceipt,wildreceipt/image_files/Image_36/15/da97d0d5c54c8d692aadf6cca53c85351dace46a.jpeg,receipt_candidate,visually_inspected,2026-10-19,Printed retail/restaurant receipt photo; field labels not document labels; rights pending; copy status needs full-resolution intake review
+wildreceipt,wildreceipt/image_files/Image_36/15/dcd763c440c68ca913df407bb3c07f19a13224ff.jpeg,receipt_candidate,visually_inspected,2026-10-19,Printed retail/restaurant receipt photo; field labels not document labels; rights pending; copy status needs full-resolution intake review
+wildreceipt,wildreceipt/image_files/Image_36/15/f4bb5ce76d2bc39f560fade5d3bc8aee9edaee6a.jpeg,receipt_candidate,visually_inspected,2026-10-19,Printed retail/restaurant receipt photo; field labels not document labels; rights pending; copy status needs full-resolution intake review
+wildreceipt,wildreceipt/image_files/Image_36/15/f3197cd8604f987b456077f741d9390a21f35554.jpeg,receipt_candidate,visually_inspected,2026-10-19,Printed retail/restaurant receipt photo; field labels not document labels; rights pending; copy status needs full-resolution intake review
+wildreceipt,wildreceipt/image_files/Image_36/15/e9bb4a254724a00ec61c998e8e5ad18bb5ce70bd.jpeg,receipt_candidate,visually_inspected,2026-10-19,Printed retail/restaurant receipt photo; field labels not document labels; rights pending; copy status needs full-resolution intake review
+wildreceipt,wildreceipt/image_files/Image_36/15/ffcc8f54f6d52a4a8514a5ab6e9181bf4dd7c021.jpeg,receipt_candidate,visually_inspected,2026-10-19,Printed retail/restaurant receipt photo; field labels not document labels; rights pending; copy status needs full-resolution intake review
+docile,pdfs/516f2d61ea404b30a9192a72.pdf,exclude,visually_inspected,2026-10-19,"Sample invoice, metadata tax_invoice; not verified payment receipt or PO"
+roboflow_purchase_order_set2,02ONWPxdYgODsd6hIRgh/thumb.jpg,purchase_order_candidate,visually_inspected,2026-10-19,Visible PURCHASE ORDER title; thumbnail insufficient for OCR acquisition
+roboflow_purchase_order_set2,04uLn8l5jyHQhCUbXOOX/thumb.jpg,pending,visually_inspected,2026-10-19,Low-resolution monochrome form; cannot reliably confirm document class
