@@ -1,0 +1,3 @@
+docs\design\swot_feasibility.md
+research\literature\literature_review_draft.md
+synthetic_dataset\README.md
