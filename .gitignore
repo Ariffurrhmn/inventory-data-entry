@@ -1,0 +1,34 @@
+# ---- OS / sync-client noise -------------------------------------------------
+desktop.ini
+Thumbs.db
+.DS_Store
+
+# ---- Python / Node build and runtime artefacts -------------------------------
+__pycache__/
+*.pyc
+node_modules/
+.venv/
+venv/
+hf-cache/
+
+# Local server state: logs, PID files, SQLite scratch databases, QA data.
+# Reviewer records that matter live in Dataset/annotations/human_review/.
+.runtime/
+
+# Machine-specific interpreter path (see classifier/README.md for setup)
+classifier/engine/runtime.local.json
+
+# ---- Material deliberately NOT published ------------------------------------
+# Third-party samples whose redistribution rights are unresolved
+# (see research/datasets/sources.csv). Provenance notes stay in the repo; the
+# source files can be re-fetched from the URLs recorded there.
+Dataset/external_candidates/sroie/img/
+Dataset/external_candidates/sroie/box/
+Dataset/external_candidates/wildreceipt/wildreceipt/
+Dataset/external_candidates/docile/annotations/
+Dataset/external_candidates/docile/ocr/
+Dataset/external_candidates/docile/pdfs/
+Dataset/external_candidates/roboflow_purchase_order_set2/*/
+
+# Supervisor-meeting audio recording (contains a third party's voice)
+docs/meetings/*.mp4

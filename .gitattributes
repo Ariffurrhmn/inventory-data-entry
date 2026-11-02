@@ -1,0 +1,26 @@
+# Store every file byte-for-byte. No end-of-line conversion anywhere.
+#
+# This project keeps SHA-256 hashes of datasets, annotations and signed
+# deliverables as evidence (see Context/ and Dataset/annotations/), and the
+# submitted report is the source of truth. A checkout on any platform must
+# therefore return exactly the bytes that were committed.
+* -text
+
+# Binary formats: never diff or merge as text.
+*.pdf   binary
+*.docx  binary
+*.pptx  binary
+*.zip   binary
+*.png   binary
+*.jpg   binary
+*.jpeg  binary
+*.HEIC  binary
+*.heic  binary
+*.mp4   binary
+*.safetensors binary
+*.pt    binary
+*.pth   binary
+*.joblib binary
+*.npy   binary
+*.sqlite3 binary
+*.traineddata binary
