@@ -1,0 +1,13 @@
+Create an image of a PURCHASE ORDER from a Bangladeshi shop to its supplier.
+Style: company letterhead with a small colored logo at the top, clean modern table.
+Title: "Purchase Order". P.O. No: PO-5120. Order Date: 07/10/2026.
+Bill To / Ship To: Rahim General Store, Jatrabari, Dhaka.
+Supplier: Teesta Enterprise.
+Table columns: Item, Qty, Unit Price (Tk), Amount (Tk). Rows:
+- Miniket Rice 25kg | Qty 5 | Unit Price Tk 1,850 | Amount Tk 9,250
+- Sugar 1kg | Qty 2 | Unit Price Tk 135 | Amount Tk 270
+- Red Lentils 1kg | Qty 12 | Unit Price Tk 110 | Amount Tk 1,320
+Grand Total: Tk 10,840.
+An 'Authorized Signature' line at the bottom.
+
+The image must show ONLY the document: flat, straight, filling the whole frame, no table, no hands, no background, no shadows. It will be printed and photographed later. All text and every number must be spelled exactly as given and be clearly readable. Do not add any items, numbers, or totals that are not listed here.

@@ -1,0 +1,18 @@
+Create an image of an order sent by a Bangladeshi shop (the buyer) to its supplier, asking the supplier to supply goods.
+Style: pre-printed purchase order book page filled in by hand with a blue ballpoint pen.
+Title: "Purchase Order".
+Order No: PO-8484. Order Date: 08/07/2026. Required By: 13/07/2026.
+From (buyer): Hasan Brothers, Dhanmondi 27, Dhaka.
+To (supplier): Sonar Bangla Distributors.
+Line above the table: "Please supply the following goods:"
+Table columns: Item, Qty, Rate (Tk), Amount (Tk). Rows:
+- Exercise Book | Qty 1 | Unit Price Tk 45 | Amount Tk 45
+- Hand Wash 200ml | Qty 20 | Unit Price Tk 140 | Amount Tk 2,800
+- Miniket Rice 25kg | Qty 2 | Unit Price Tk 1,850 | Amount Tk 3,700
+- Biscuits carton | Qty 24 | Unit Price Tk 720 | Amount Tk 17,280
+- Atta 2kg | Qty 10 | Unit Price Tk 130 | Amount Tk 1,300
+Total: Tk 25,125.
+At the bottom: 'Authorized by' with a signature, for Hasan Brothers.
+Use normal document-size text (not huge headings), thin lines, a compact practical layout.
+
+The image must show ONLY the document: flat, straight, filling the whole frame, no table, no hands, no background, no shadows. It will be printed and photographed later. All text and every number must be spelled exactly as given and be clearly readable. Do not add any items, numbers, or totals that are not listed here.

@@ -1,0 +1,15 @@
+Create an image of a DELIVERY CHALLAN (delivery note) from a Bangladeshi wholesaler.
+Style: page from a carbon-copy challan book, filled in by hand with a blue ballpoint pen, slight carbon smudges.
+Title: "Delivery Challan".
+Challan No: DC-208. Date: 13/07/2026.
+From: Dhaka Trade House.
+To: Green Leaf Mart, Dhanmondi 27, Dhaka.
+Table columns: Sl, Item Description, Qty. NO prices anywhere. Rows:
+- 1. Sugar 1kg | Qty 24
+- 2. Milk Powder 500g | Qty 5
+- 3. Salt 1kg | Qty 20
+- 4. Atta 2kg | Qty 10
+At the bottom: a 'Received By' line with a signature and a 'Delivered By' line.
+Use normal document-size text (not huge headings), thin lines, a compact practical layout.
+
+The image must show ONLY the document: flat, straight, filling the whole frame, no table, no hands, no background, no shadows. It will be printed and photographed later. All text and every number must be spelled exactly as given and be clearly readable. Do not add any items, numbers, or totals that are not listed here.

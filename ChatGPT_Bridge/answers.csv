@@ -1,0 +1,30 @@
+doc_id,class,method,title,number,date,shop,supplier,copy_mark,items,total_tk,status
+PO_01,purchase_order,printed,Purchase Order,PO-8226,26/10/2026,Shapla Grocery,Bengal Consumer Goods,,Bath Soap 100g x20 @55; Exercise Book x2 @45,1190,approved
+PO_02,purchase_order,printed,Purchase Order,PO-5120,07/10/2026,Rahim General Store,Teesta Enterprise,,Miniket Rice 25kg x5 @1850; Sugar 1kg x2 @135; Red Lentils 1kg x12 @110,10840,approved
+PO_03,purchase_order,printed,Purchase Order,PO-1405,05/09/2026,Bismillah Store,Sonar Bangla Distributors,,Toothpaste 100g x6 @120; Shampoo 340ml x2 @450; Exercise Book x20 @45; Sugar 1kg x20 @135,5220,approved
+PO_04,purchase_order,printed,Purchase Order,PO-7880,13/09/2026,Al-Madina Traders,Sonar Bangla Distributors,,Toothpaste 100g x10 @120; Onion 1kg x24 @65; Milk Powder 500g x20 @420; Sugar 1kg x12 @135,12780,approved
+PO_05,purchase_order,handwritten,Purchase Order,PO-8484,08/07/2026,Hasan Brothers,Sonar Bangla Distributors,,Exercise Book x1 @45; Hand Wash 200ml x20 @140; Miniket Rice 25kg x2 @1850; Biscuits carton x24 @720; Atta 2kg x10 @130,25125,approved
+PO_06,purchase_order,printed,Order Form,ORD-3455,01/07/2026,Shapla Grocery,Surma Food Supply,,Ball Pen box x20 @100; Instant Noodles 8-pack x20 @160; Hand Wash 200ml x12 @140; Shampoo 340ml x10 @450; Detergent 500g x10 @95,12330,approved
+PO_07,purchase_order,printed,Order Slip,ORD-2611,11/10/2026,Meghna Store,Surma Food Supply,,Exercise Book x12 @45; Mustard Oil 1L x12 @290; Toothpaste 100g x20 @120; Tea 400g x12 @240; Instant Noodles 8-pack x10 @160,10900,approved
+PO_08,purchase_order,printed,Order,ORD-1229,05/10/2026,Al-Madina Traders,Bengal Consumer Goods,,Exercise Book x12 @45; Instant Noodles 8-pack x2 @160; Onion 1kg x5 @65; Salt 1kg x12 @42; Milk Powder 500g x6 @420,4209,approved
+PO_09,purchase_order,printed,(none),ORD-9953,04/07/2026,Al-Madina Traders,Dhaka Trade House,,Miniket Rice 25kg x24 @1850; Onion 1kg x20 @65,45700,approved
+PO_10,purchase_order,handwritten,(none),ORD-9269,19/08/2026,Meghna Store,Sonar Bangla Distributors,,Toothpaste 100g x24 @120; Atta 2kg x24 @130; Miniket Rice 25kg x12 @1850; Bath Soap 100g x3 @55,28365,approved
+DN_01,delivery_note,handwritten,Delivery Challan,DC-208,13/07/2026,Green Leaf Mart,Dhaka Trade House,,Sugar 1kg x24; Milk Powder 500g x5; Salt 1kg x20; Atta 2kg x10,,approved
+DN_02,delivery_note,handwritten,Delivery Challan,DC-685,16/10/2026,Hasan Brothers,Jamuna Wholesale,,Sugar 1kg x1; Soybean Oil 5L x20; Toothpaste 100g x12; Ball Pen box x6; Miniket Rice 25kg x5,,approved
+DN_03,delivery_note,handwritten,Delivery Challan,DC-660,22/07/2026,Kashem Enterprise,Dhaka Trade House,,Atta 2kg x4; Mineral Water 1.5L x10; Exercise Book x24,,approved
+DN_04,delivery_note,printed,Delivery Challan,DC-264,26/08/2026,Tazin Super Shop,Dhaka Trade House,,Soybean Oil 5L x12; Tea 400g x4; Salt 1kg x12; Hand Wash 200ml x1; Exercise Book x3,,approved
+DN_05,delivery_note,handwritten,Delivery Challan,DC-369,12/08/2026,Green Leaf Mart,Karnaphuli Traders,,Shampoo 340ml x20; Instant Noodles 8-pack x10; Milk Powder 500g x2,,approved
+DN_06,delivery_note,printed,Challan,DC-968,27/07/2026,Meghna Store,Surma Food Supply,,Mustard Oil 1L x6; Milk Powder 500g x20; Detergent 500g x12; Onion 1kg x12; Salt 1kg x2,,approved
+DN_07,delivery_note,printed,Delivery Note,DC-460,12/08/2026,Meghna Store,Padma Distribution Ltd.,,Biscuits carton x12; Miniket Rice 25kg x6; Sugar 1kg x10,,approved
+DN_08,delivery_note,handwritten,Challan,DC-198,04/09/2026,Bismillah Store,Karnaphuli Traders,,Red Lentils 1kg x24; Instant Noodles 8-pack x4; Ball Pen box x24,,approved
+DN_09,delivery_note,handwritten,Delivery Note,DC-362,06/09/2026,Al-Madina Traders,Teesta Enterprise,,Salt 1kg x2; Red Lentils 1kg x20; Soybean Oil 5L x6; Toothpaste 100g x5; Hand Wash 200ml x24,,approved
+DN_10,delivery_note,handwritten,(none),DC-417,08/07/2026,Rahim General Store,Jamuna Wholesale,,Miniket Rice 25kg x5; Milk Powder 500g x10,,approved
+CC_01,customer_copy,printed,Invoice,INV-4532,13/09/2026,Kashem Enterprise,Padma Distribution Ltd.,CUSTOMER COPY,Red Lentils 1kg x24 @110; Ball Pen box x6 @100,3240,approved
+CC_02,customer_copy,printed,Invoice,INV-5865,24/07/2026,Bismillah Store,Surma Food Supply,CUSTOMER COPY,Red Lentils 1kg x5 @110; Toothpaste 100g x6 @120; Exercise Book x1 @45; Instant Noodles 8-pack x10 @160; Shampoo 340ml x1 @450,3365,approved
+CC_03,customer_copy,handwritten,Invoice,INV-9562,02/08/2026,Nabil Departmental Store,Jamuna Wholesale,OFFICE COPY,Mineral Water 1.5L x4 @30; Miniket Rice 25kg x20 @1850; Ball Pen box x1 @100; Bath Soap 100g x2 @55,37330,approved
+CC_04,customer_copy,printed,Invoice,INV-9869,06/07/2026,Green Leaf Mart,Karnaphuli Traders,CUSTOMER COPY,Miniket Rice 25kg x10 @1850; Milk Powder 500g x10 @420; Atta 2kg x10 @130; Toothpaste 100g x4 @120,24480,approved
+CC_05,customer_copy,printed,Invoice,INV-3937,21/07/2026,Bismillah Store,Karnaphuli Traders,CUSTOMER COPY,Atta 2kg x5 @130; Biscuits carton x20 @720; Miniket Rice 25kg x12 @1850; Ball Pen box x10 @100,38250,approved
+CC_06,customer_copy,printed,Invoice,INV-6897,24/10/2026,Shapla Grocery,Karnaphuli Traders,DUPLICATE,Bath Soap 100g x1 @55; Exercise Book x4 @45; Hand Wash 200ml x12 @140; Soybean Oil 5L x1 @960,2875,approved
+CC_07,customer_copy,handwritten,Invoice,INV-3519,06/10/2026,Tazin Super Shop,Dhaka Trade House,CUSTOMER COPY,Bath Soap 100g x12 @55; Tea 400g x12 @240; Toothpaste 100g x20 @120; Ball Pen box x12 @100,7140,approved
+CC_08,customer_copy,printed,Invoice,INV-9957,10/09/2026,Tazin Super Shop,Jamuna Wholesale,OFFICE COPY,Toothpaste 100g x10 @120; Exercise Book x1 @45,1245,approved
+CC_09,customer_copy,printed,Invoice,INV-9335,13/08/2026,Ruposhi Bazar,Bengal Consumer Goods,CUSTOMER COPY,Red Lentils 1kg x4 @110; Miniket Rice 25kg x24 @1850; Ball Pen box x5 @100,45340,approved

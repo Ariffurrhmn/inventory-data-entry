@@ -1,0 +1,14 @@
+Create an image of a sales invoice / cash memo from a Bangladeshi shop that is clearly a COPY.
+Style: printed half-page invoice from a dot-matrix printer, monospace font.
+The words "OFFICE COPY" must appear as printed in small bold capitals under the title, clearly visible.
+Seller: Jamuna Wholesale, shown as the letterhead/name at the top (no "Shop:" label).
+Bill To / Customer: Tazin Super Shop, Dhanmondi 27, Dhaka.
+At the bottom: an 'Authorised Signature' line with a signature (new signer name).
+Invoice No: INV-9957. Date: 10/09/2026.
+Table columns: Item, Qty, Rate (Tk), Amount (Tk). Rows:
+- Toothpaste 100g | Qty 10 | Unit Price Tk 120 | Amount Tk 1,200
+- Exercise Book | Qty 1 | Unit Price Tk 45 | Amount Tk 45
+Total: Tk 1,245.
+Use normal document-size text (not huge headings), thin lines, a compact practical layout.
+
+The image must show ONLY the document: flat, straight, filling the whole frame, no table, no hands, no background, no shadows. It will be printed and photographed later. All text and every number must be spelled exactly as given and be clearly readable. Do not add any items, numbers, or totals that are not listed here.

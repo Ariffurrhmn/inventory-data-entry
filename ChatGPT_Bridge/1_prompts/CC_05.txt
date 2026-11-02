@@ -1,0 +1,16 @@
+Create an image of a sales invoice / cash memo from a Bangladeshi shop that is clearly a COPY.
+Style: printed A4 invoice, black-and-white, plain table.
+The words "CUSTOMER COPY" must appear as a red rubber stamp, slightly tilted, in the top-right corner, clearly visible.
+Seller: Karnaphuli Traders, shown as the letterhead/name at the top (no "Shop:" label).
+Bill To / Customer: Bismillah Store, Tongi, Gazipur.
+At the bottom: an 'Authorised Signature' line with a signature (new signer name).
+Invoice No: INV-3937. Date: 21/07/2026.
+Table columns: Item, Qty, Rate (Tk), Amount (Tk). Rows:
+- Atta 2kg | Qty 5 | Unit Price Tk 130 | Amount Tk 650
+- Biscuits carton | Qty 20 | Unit Price Tk 720 | Amount Tk 14,400
+- Miniket Rice 25kg | Qty 12 | Unit Price Tk 1,850 | Amount Tk 22,200
+- Ball Pen box | Qty 10 | Unit Price Tk 100 | Amount Tk 1,000
+Total: Tk 38,250.
+Use normal document-size text (not huge headings), thin lines, a compact practical layout.
+
+The image must show ONLY the document: flat, straight, filling the whole frame, no table, no hands, no background, no shadows. It will be printed and photographed later. All text and every number must be spelled exactly as given and be clearly readable. Do not add any items, numbers, or totals that are not listed here.

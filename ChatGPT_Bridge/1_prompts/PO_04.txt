@@ -1,0 +1,14 @@
+Create an image of a PURCHASE ORDER from a Bangladeshi shop to its supplier.
+Style: old-style printed form from a dot-matrix printer, monospace font.
+Title: "Purchase Order". P.O. No: PO-7880. Order Date: 13/09/2026.
+Bill To / Ship To: Al-Madina Traders, Chashara, Narayanganj.
+Supplier: Sonar Bangla Distributors.
+Table columns: Item, Qty, Unit Price (Tk), Amount (Tk). Rows:
+- Toothpaste 100g | Qty 10 | Unit Price Tk 120 | Amount Tk 1,200
+- Onion 1kg | Qty 24 | Unit Price Tk 65 | Amount Tk 1,560
+- Milk Powder 500g | Qty 20 | Unit Price Tk 420 | Amount Tk 8,400
+- Sugar 1kg | Qty 12 | Unit Price Tk 135 | Amount Tk 1,620
+Grand Total: Tk 12,780.
+An 'Authorized Signature' line at the bottom.
+
+The image must show ONLY the document: flat, straight, filling the whole frame, no table, no hands, no background, no shadows. It will be printed and photographed later. All text and every number must be spelled exactly as given and be clearly readable. Do not add any items, numbers, or totals that are not listed here.

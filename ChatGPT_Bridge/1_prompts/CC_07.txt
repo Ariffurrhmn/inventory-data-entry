@@ -1,0 +1,16 @@
+Create an image of a sales invoice / cash memo from a Bangladeshi shop that is clearly a COPY.
+Style: pre-printed cash memo book page filled in by hand with a blue pen.
+The words "CUSTOMER COPY" must appear as printed in bold capitals at the very bottom, clearly visible.
+Seller: Dhaka Trade House, shown as the letterhead/name at the top (no "Shop:" label).
+Bill To / Customer: Tazin Super Shop, Mohammadpur, Dhaka.
+At the bottom: an 'Authorised Signature' line with a signature (new signer name).
+Invoice No: INV-3519. Date: 06/10/2026.
+Table columns: Item, Qty, Rate (Tk), Amount (Tk). Rows:
+- Bath Soap 100g | Qty 12 | Unit Price Tk 55 | Amount Tk 660
+- Tea 400g | Qty 12 | Unit Price Tk 240 | Amount Tk 2,880
+- Toothpaste 100g | Qty 20 | Unit Price Tk 120 | Amount Tk 2,400
+- Ball Pen box | Qty 12 | Unit Price Tk 100 | Amount Tk 1,200
+Total: Tk 7,140.
+Use normal document-size text (not huge headings), thin lines, a compact practical layout.
+
+The image must show ONLY the document: flat, straight, filling the whole frame, no table, no hands, no background, no shadows. It will be printed and photographed later. All text and every number must be spelled exactly as given and be clearly readable. Do not add any items, numbers, or totals that are not listed here.

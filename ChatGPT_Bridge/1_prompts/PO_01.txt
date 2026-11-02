@@ -1,0 +1,12 @@
+Create an image of a PURCHASE ORDER from a Bangladeshi shop to its supplier.
+Style: simple black-and-white printed form, plain table with thin borders.
+Title: "Purchase Order". P.O. No: PO-8226. Order Date: 26/10/2026.
+Bill To / Ship To: Shapla Grocery, Savar, Dhaka.
+Supplier: Bengal Consumer Goods.
+Table columns: Item, Qty, Unit Price (Tk), Amount (Tk). Rows:
+- Bath Soap 100g | Qty 20 | Unit Price Tk 55 | Amount Tk 1,100
+- Exercise Book | Qty 2 | Unit Price Tk 45 | Amount Tk 90
+Grand Total: Tk 1,190.
+An 'Authorized Signature' line at the bottom.
+
+The image must show ONLY the document: flat, straight, filling the whole frame, no table, no hands, no background, no shadows. It will be printed and photographed later. All text and every number must be spelled exactly as given and be clearly readable. Do not add any items, numbers, or totals that are not listed here.

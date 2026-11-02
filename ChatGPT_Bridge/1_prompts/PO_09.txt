@@ -1,0 +1,15 @@
+Create an image of an order sent by a Bangladeshi shop (the buyer) to its supplier, asking the supplier to supply goods.
+Style: old-style printed form from a dot-matrix printer, monospace font.
+NO title or heading of any kind. The page starts directly with the buyer and supplier details.
+Order No: ORD-9953. Order Date: 04/07/2026. Required By: 09/07/2026.
+From (buyer): Al-Madina Traders, Badda, Dhaka.
+To (supplier): Dhaka Trade House.
+Line above the table: "Please supply the following goods:"
+Table columns: Item, Qty, Rate (Tk), Amount (Tk). Rows:
+- Miniket Rice 25kg | Qty 24 | Unit Price Tk 1,850 | Amount Tk 44,400
+- Onion 1kg | Qty 20 | Unit Price Tk 65 | Amount Tk 1,300
+Total: Tk 45,700.
+At the bottom: 'Authorized by' with a signature, for Al-Madina Traders.
+Use normal document-size text (not huge headings), thin lines, a compact practical layout.
+
+The image must show ONLY the document: flat, straight, filling the whole frame, no table, no hands, no background, no shadows. It will be printed and photographed later. All text and every number must be spelled exactly as given and be clearly readable. Do not add any items, numbers, or totals that are not listed here.

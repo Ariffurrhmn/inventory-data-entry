@@ -1,0 +1,18 @@
+Create an image of an order sent by a Bangladeshi shop (the buyer) to its supplier, asking the supplier to supply goods.
+Style: simple black-and-white printed form, plain table with thin borders.
+Title: "Order Form".
+Order No: ORD-3455. Order Date: 01/07/2026. Required By: 06/07/2026.
+From (buyer): Shapla Grocery, Mohammadpur, Dhaka.
+To (supplier): Surma Food Supply.
+Line above the table: "Please supply the following goods:"
+Table columns: Item, Qty, Rate (Tk), Amount (Tk). Rows:
+- Ball Pen box | Qty 20 | Unit Price Tk 100 | Amount Tk 2,000
+- Instant Noodles 8-pack | Qty 20 | Unit Price Tk 160 | Amount Tk 3,200
+- Hand Wash 200ml | Qty 12 | Unit Price Tk 140 | Amount Tk 1,680
+- Shampoo 340ml | Qty 10 | Unit Price Tk 450 | Amount Tk 4,500
+- Detergent 500g | Qty 10 | Unit Price Tk 95 | Amount Tk 950
+Total: Tk 12,330.
+At the bottom: 'Authorized by' with a signature, for Shapla Grocery.
+Use normal document-size text (not huge headings), thin lines, a compact practical layout.
+
+The image must show ONLY the document: flat, straight, filling the whole frame, no table, no hands, no background, no shadows. It will be printed and photographed later. All text and every number must be spelled exactly as given and be clearly readable. Do not add any items, numbers, or totals that are not listed here.
