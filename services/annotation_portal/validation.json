@@ -1,0 +1,28 @@
+{
+  "inventory": {
+    "total": 236,
+    "reference": 140,
+    "ocr_only": 91,
+    "no_recorded_text": 5,
+    "flagged": 45,
+    "human_reviews": 0
+  },
+  "linked_images_exist": 236,
+  "backend_tests_passed": 6,
+  "browser_checks": [
+    "source image and editor side by side",
+    "OCR-only filter: 91",
+    "existing text sources display",
+    "isolated disk save and revision history",
+    "unsaved draft restored after navigation",
+    "second save persists after reload",
+    "zoom and rotation",
+    "save controls visible"
+  ],
+  "production_reviews_created_by_agent": 0,
+  "qa_database": ".runtime/qa/reviews.sqlite3",
+  "qa_revisions": 2,
+  "qa_human_verified": 0,
+  "source_annotations_overwritten": false,
+  "classifier_training_or_evaluation": false
+}
