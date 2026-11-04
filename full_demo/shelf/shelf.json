@@ -1,0 +1,469 @@
+[
+ {
+  "id": "purchase_order_01",
+  "title": "Purchase order - clean print",
+  "kind": "clean",
+  "image": "purchase_order_01.jpg",
+  "note": "Heading rule fires, every field is read, and the line totals add up to the printed grand total. The happy path (under the strict contract it still waits for a printed subtotal and tax).",
+  "group": "Clean synthetic documents",
+  "provenance": "Synthetic document rendered from HTML (synthetic_dataset/). Fabricated data.",
+  "expected_type": "purchase_order",
+  "truth": {
+   "submission_id": "1a0e801d62c-0-4560",
+   "document_type": "purchase_order",
+   "document_type_confidence": 0.94,
+   "supplier_name": "Prime Foods Distributors",
+   "supplier_address": "12 New Market, Khulna",
+   "shop_name": "Al-Amin General Store",
+   "document_date": "2026-07-19",
+   "document_number": "PO-84686",
+   "production_method": "printed",
+   "line_items": [
+    {
+     "raw_text": "Instant Noodles pack",
+     "quantity": 18,
+     "unit_price": 20,
+     "line_total": 360,
+     "arithmetic_check": "passed"
+    },
+    {
+     "raw_text": "Basmati Rice 5kg bag",
+     "quantity": 28,
+     "unit_price": 650,
+     "line_total": 18200,
+     "arithmetic_check": "passed"
+    },
+    {
+     "raw_text": "Fresh Milk 1L carton",
+     "quantity": 12,
+     "unit_price": 85,
+     "line_total": 1020,
+     "arithmetic_check": "passed"
+    }
+   ],
+   "grand_total": 19580,
+   "review_required": false,
+   "_synthetic": true,
+   "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+  }
+ },
+ {
+  "id": "customer_copy_02",
+  "title": "Customer copy - clean print",
+  "kind": "clean",
+  "image": "customer_copy_02.jpg",
+  "note": "A \"CUSTOMER COPY\" heading decides the class even though the layout looks like an invoice.",
+  "group": "Clean synthetic documents",
+  "provenance": "Synthetic document rendered from HTML (synthetic_dataset/). Fabricated data.",
+  "expected_type": "customer_copy",
+  "truth": {
+   "submission_id": "1a0e801d6a2-1-4434",
+   "document_type": "customer_copy",
+   "document_type_confidence": 0.95,
+   "supplier_name": "ACME Beverage Distributors",
+   "supplier_address": "12 New Market, Khulna",
+   "shop_name": "Al-Amin General Store",
+   "document_date": "2026-03-18",
+   "document_number": "CC-73448",
+   "production_method": "printed",
+   "line_items": [
+    {
+     "raw_text": "Potato Chips 60g",
+     "quantity": 18,
+     "unit_price": 25,
+     "line_total": 450,
+     "arithmetic_check": "passed"
+    },
+    {
+     "raw_text": "Sugar 1kg pack",
+     "quantity": 10,
+     "unit_price": 130,
+     "line_total": 1300,
+     "arithmetic_check": "passed"
+    },
+    {
+     "raw_text": "Chocolate Bar 45g",
+     "quantity": 7,
+     "unit_price": 30,
+     "line_total": 210,
+     "arithmetic_check": "passed"
+    },
+    {
+     "raw_text": "Lux Soap 100g",
+     "quantity": 20,
+     "unit_price": 35,
+     "line_total": 700,
+     "arithmetic_check": "passed"
+    },
+    {
+     "raw_text": "Cooking Oil 1L bottle",
+     "quantity": 4,
+     "unit_price": 175,
+     "line_total": 700,
+     "arithmetic_check": "passed"
+    },
+    {
+     "raw_text": "Instant Noodles pack",
+     "quantity": 18,
+     "unit_price": 20,
+     "line_total": 360,
+     "arithmetic_check": "passed"
+    }
+   ],
+   "grand_total": 3720,
+   "review_required": false,
+   "_synthetic": true,
+   "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+  }
+ },
+ {
+  "id": "delivery_note_06",
+  "title": "Delivery note - clean print",
+  "kind": "clean",
+  "image": "delivery_note_06.jpg",
+  "note": "Quantity table with prices; routed by its printed heading.",
+  "group": "Clean synthetic documents",
+  "provenance": "Synthetic document rendered from HTML (synthetic_dataset/). Fabricated data.",
+  "expected_type": "delivery_note",
+  "truth": {
+   "submission_id": "1a0e801d684-5-2028",
+   "document_type": "delivery_note",
+   "document_type_confidence": 0.93,
+   "supplier_name": "Prime Foods Distributors",
+   "supplier_address": "123 Market Road, Dhaka",
+   "shop_name": "Bismillah Store",
+   "document_date": "2026-07-15",
+   "document_number": "DN-83164",
+   "production_method": "thermal",
+   "line_items": [
+    {
+     "raw_text": "Potato Chips 60g",
+     "quantity": 7,
+     "unit_price": 25,
+     "line_total": 175,
+     "arithmetic_check": "passed"
+    },
+    {
+     "raw_text": "Pran Biscuit Pack",
+     "quantity": 11,
+     "unit_price": 18,
+     "line_total": 198,
+     "arithmetic_check": "passed"
+    },
+    {
+     "raw_text": "Wheat Flour 2kg bag",
+     "quantity": 2,
+     "unit_price": 150,
+     "line_total": 300,
+     "arithmetic_check": "passed"
+    }
+   ],
+   "grand_total": 673,
+   "review_required": false,
+   "_synthetic": true,
+   "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+  }
+ },
+ {
+  "id": "purchase_order_03",
+  "title": "Purchase order - printed total is wrong",
+  "kind": "caught",
+  "image": "purchase_order_03.jpg",
+  "note": "The document itself contains an arithmetic inconsistency (injected by the generator). The checks catch it and flag the record.",
+  "group": "Clean synthetic documents",
+  "provenance": "Synthetic document rendered from HTML (synthetic_dataset/). Fabricated data.",
+  "expected_type": "purchase_order",
+  "truth": {
+   "submission_id": "1a0e801d636-2-3638",
+   "document_type": "purchase_order",
+   "document_type_confidence": 0.96,
+   "supplier_name": "Sonar Bangla Grocers Supply",
+   "supplier_address": "45 Station Bazar, Chattogram",
+   "shop_name": "Corner Store Mart",
+   "document_date": "2026-05-23",
+   "document_number": "PO-69024",
+   "production_method": "printed",
+   "line_items": [
+    {
+     "raw_text": "Chocolate Bar 45g",
+     "quantity": 5,
+     "unit_price": 30,
+     "line_total": 150,
+     "arithmetic_check": "passed"
+    },
+    {
+     "raw_text": "Salt 1kg pack",
+     "quantity": 23,
+     "unit_price": 40,
+     "line_total": 920,
+     "arithmetic_check": "passed"
+    },
+    {
+     "raw_text": "Wheat Flour 2kg bag",
+     "quantity": 16,
+     "unit_price": 150,
+     "line_total": 2850,
+     "arithmetic_check": "failed"
+    },
+    {
+     "raw_text": "Potato Chips 60g",
+     "quantity": 20,
+     "unit_price": 25,
+     "line_total": 500,
+     "arithmetic_check": "passed"
+    }
+   ],
+   "grand_total": 4420,
+   "review_required": true,
+   "_synthetic": true,
+   "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+  }
+ },
+ {
+  "id": "customer_copy_09",
+  "title": "Customer copy - printed total is wrong",
+  "kind": "caught",
+  "image": "customer_copy_09.jpg",
+  "note": "Same idea on another document type: a line total that does not equal quantity x unit price.",
+  "group": "Clean synthetic documents",
+  "provenance": "Synthetic document rendered from HTML (synthetic_dataset/). Fabricated data.",
+  "expected_type": "customer_copy",
+  "truth": {
+   "submission_id": "1a0e801d6a9-8-4411",
+   "document_type": "customer_copy",
+   "document_type_confidence": 0.92,
+   "supplier_name": "Farida Household Goods",
+   "supplier_address": "123 Market Road, Dhaka",
+   "shop_name": "Mamun Store",
+   "document_date": "2026-04-26",
+   "document_number": "CC-57914",
+   "production_method": "printed",
+   "line_items": [
+    {
+     "raw_text": "Coca-Cola 500ml can",
+     "quantity": 3,
+     "unit_price": 15,
+     "line_total": 45,
+     "arithmetic_check": "passed"
+    },
+    {
+     "raw_text": "Pran Biscuit Pack",
+     "quantity": 2,
+     "unit_price": 18,
+     "line_total": 18,
+     "arithmetic_check": "failed"
+    },
+    {
+     "raw_text": "Instant Noodles pack",
+     "quantity": 23,
+     "unit_price": 20,
+     "line_total": 460,
+     "arithmetic_check": "passed"
+    }
+   ],
+   "grand_total": 523,
+   "review_required": true,
+   "_synthetic": true,
+   "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+  }
+ },
+ {
+  "id": "purchase_order_09",
+  "title": "Purchase order - OCR misreads an item name",
+  "kind": "limit",
+  "image": "purchase_order_09.jpg",
+  "note": "LIMITATION: OCR reads \"5kg\" as \"S5kg\" in an item name. The numbers still add up, so nothing is flagged. Arithmetic cannot catch a wrong text value.",
+  "group": "Clean synthetic documents",
+  "provenance": "Synthetic document rendered from HTML (synthetic_dataset/). Fabricated data.",
+  "expected_type": "purchase_order",
+  "truth": {
+   "submission_id": "1a0e801d640-8-3437",
+   "document_type": "purchase_order",
+   "document_type_confidence": 0.94,
+   "supplier_name": "Green Valley Foodstuffs Ltd.",
+   "supplier_address": "12 New Market, Khulna",
+   "shop_name": "Green Leaf Grocers",
+   "document_date": "2026-02-17",
+   "document_number": "PO-18959",
+   "production_method": "printed",
+   "line_items": [
+    {
+     "raw_text": "Sugar 1kg pack",
+     "quantity": 29,
+     "unit_price": 130,
+     "line_total": 3770,
+     "arithmetic_check": "passed"
+    },
+    {
+     "raw_text": "Mineral Water 1L",
+     "quantity": 14,
+     "unit_price": 20,
+     "line_total": 280,
+     "arithmetic_check": "passed"
+    },
+    {
+     "raw_text": "Salt 1kg pack",
+     "quantity": 20,
+     "unit_price": 40,
+     "line_total": 800,
+     "arithmetic_check": "passed"
+    },
+    {
+     "raw_text": "Basmati Rice 5kg bag",
+     "quantity": 2,
+     "unit_price": 650,
+     "line_total": 1300,
+     "arithmetic_check": "passed"
+    }
+   ],
+   "grand_total": 6150,
+   "review_required": false,
+   "_synthetic": true,
+   "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+  }
+ },
+ {
+  "id": "receipt_13",
+  "title": "Thermal receipt - routed correctly",
+  "kind": "limit",
+  "image": "receipt_13.jpg",
+  "note": "Receipts have no heading rule, so the trained model decides (correctly here). OCR reads \"1L\" as \"iL\" in an item name, which arithmetic cannot catch.",
+  "group": "Clean synthetic documents",
+  "provenance": "Synthetic document rendered from HTML (synthetic_dataset/). Fabricated data.",
+  "expected_type": "receipt",
+  "truth": {
+   "submission_id": "1a0e801d66b-12-3722",
+   "document_type": "receipt",
+   "document_type_confidence": 0.9,
+   "supplier_name": "Meghna Beverages",
+   "supplier_address": "9 College Road, Sylhet",
+   "shop_name": "City Grocery",
+   "document_date": "2026-09-16",
+   "document_number": "RCPT-38736",
+   "production_method": "thermal",
+   "line_items": [
+    {
+     "raw_text": "Chocolate Bar 45g",
+     "quantity": 19,
+     "unit_price": 30,
+     "line_total": 570,
+     "arithmetic_check": "passed"
+    },
+    {
+     "raw_text": "Bottled Soda Water 1L",
+     "quantity": 23,
+     "unit_price": 22,
+     "line_total": 506,
+     "arithmetic_check": "passed"
+    }
+   ],
+   "grand_total": 1076,
+   "review_required": false,
+   "_synthetic": true,
+   "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+  }
+ },
+ {
+  "id": "receipt_20",
+  "title": "Thermal receipt - classifier miss",
+  "kind": "miss",
+  "image": "receipt_20.jpg",
+  "note": "LIMITATION: this receipt is routed to delivery_note (receipts rely on the weaker learned model). Its arithmetic error is still caught, but the wrong type would reach the ERP.",
+  "group": "Clean synthetic documents",
+  "provenance": "Synthetic document rendered from HTML (synthetic_dataset/). Fabricated data.",
+  "expected_type": "receipt",
+  "truth": {
+   "submission_id": "1a0e801d673-19-8001",
+   "document_type": "receipt",
+   "document_type_confidence": 0.96,
+   "supplier_name": "Karim Enterprise",
+   "supplier_address": "78 Cantonment Road, Rajshahi",
+   "shop_name": "Sultana Variety Store",
+   "document_date": "2026-07-27",
+   "document_number": "RCPT-89307",
+   "production_method": "thermal",
+   "line_items": [
+    {
+     "raw_text": "Tibet Toothpaste 100g",
+     "quantity": 10,
+     "unit_price": 60,
+     "line_total": 600,
+     "arithmetic_check": "passed"
+    },
+    {
+     "raw_text": "Potato Chips 60g",
+     "quantity": 11,
+     "unit_price": 25,
+     "line_total": 275,
+     "arithmetic_check": "passed"
+    },
+    {
+     "raw_text": "Fresh Eggs (dozen)",
+     "quantity": 23,
+     "unit_price": 140,
+     "line_total": 3500,
+     "arithmetic_check": "failed"
+    }
+   ],
+   "grand_total": 4375,
+   "review_required": true,
+   "_synthetic": true,
+   "_note": "Synthetic ground-truth record generated as a stand-in for real vendor/customer documents. Not real data."
+  }
+ },
+ {
+  "id": "76cc99d39da4",
+  "title": "Phone photo - purchase request",
+  "kind": "photo",
+  "image": "76cc99d39da4.jpg",
+  "note": "Real camera noise and shadows. The table rows are too noisy to read reliably, so quantities stay empty rather than guessed, and the total \"Tk 45,700\" has a thousands comma that fails the literal-evidence rule. Flagged for review.",
+  "group": "Phone photos of printed documents",
+  "provenance": "Photograph of a printed synthetic document \u00b7 recorded OCR analysis",
+  "expected_type": "purchase_order",
+  "truth": null
+ },
+ {
+  "id": "5dffabcb47cb",
+  "title": "Phone photo - thermal retail receipt",
+  "kind": "photo",
+  "image": "5dffabcb47cb.jpg",
+  "note": "Hard photo with little readable text. The system finds no item rows and does not invent any, so it is flagged.",
+  "group": "Phone photos of printed documents",
+  "provenance": "Existing development document \u00b7 recorded OCR analysis",
+  "expected_type": "receipt",
+  "truth": null
+ },
+ {
+  "id": "f9918570b903",
+  "title": "Phone photo - delivery challan",
+  "kind": "photo",
+  "image": "f9918570b903.jpg",
+  "note": "The \"Challan\" heading routes it correctly, but OCR garbles the table. No rows are extracted, and the record is flagged.",
+  "group": "Phone photos of printed documents",
+  "provenance": "Photograph of a printed synthetic document \u00b7 recorded OCR analysis",
+  "expected_type": "delivery_note",
+  "truth": null
+ },
+ {
+  "id": "e396ade11def",
+  "title": "Phone photo - office copy invoice",
+  "kind": "photo",
+  "image": "e396ade11def.jpg",
+  "note": "An \"OFFICE COPY\" heading routes this to customer_copy. Noisy rows then fail the literal-evidence check, so it is flagged.",
+  "group": "Phone photos of printed documents",
+  "provenance": "Photograph of a printed synthetic document \u00b7 recorded OCR analysis",
+  "expected_type": "customer_copy",
+  "truth": null
+ },
+ {
+  "id": "cdd7aaa9004d",
+  "title": "Phone photo - faint copy stamp",
+  "kind": "photo",
+  "image": "cdd7aaa9004d.jpg",
+  "note": "A faint stamp. The project's recorded evaluation mispredicted this one; with this machine's OCR data it routes correctly. Treat that as one observation, not a fix. Rows are unreadable, so it is flagged.",
+  "group": "Phone photos of printed documents",
+  "provenance": "Photograph of a printed synthetic document \u00b7 recorded OCR analysis",
+  "expected_type": "customer_copy",
+  "truth": null
+ }
+]

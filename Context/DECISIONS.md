@@ -116,3 +116,14 @@ Source: user requested sustained downstream localization, isolated no-paid-API e
 Keep AI candidates human_verified=false even when mechanical review_required=false. Passing schema, evidence substring or arithmetic cannot establish field truth. Separate field review is an offline evaluation workflow, not an ERP approval loop. Independent accuracy requires actual human image-first transcription, explicit reviewer/attestation, source/candidate hashes, row completeness and missing/spurious-row accounting. Preserve assisted reviews separately from independent references; never generate truth from agent outputs. Clarify future raw_text as the item-description cell alone; keep earlier whole-row agent responses unchanged and disclose the semantic mismatch in comparisons.
 
 No unattended model promotion: current inspected installation lacks generative weights/runtime endpoint and has limited free memory. Offline load failure is not inference latency or proof CPU extraction is impossible. Do not download large weights or claim model resource/schema/accuracy results without a bounded provisioned trial and actual measurement. Codex agents remain isolated experimental extraction transport only.
+
+## End-to-end demo scope and policy defaults — 2026-11-04
+
+Source: user asked for a complete demo of the whole system for a teacher/supervisor decision, mobile client as a PWA. Lives in full_demo/; reuses the classifier, gateway.Store and contract.py unchanged (no edits to existing code or the selected model).
+
+Extraction in the demo is a labelled rule-based stand-in (never described as an LLM), with an --extractor-cmd hook; any external output passes through the same literal-evidence and Decimal verification. ERP is a labelled stand-in inbox that never changes stock. No LLM accuracy or real-document accuracy is claimed.
+
+Verification default for the demo is demo_reconcile, an OPT-IN policy implemented in full_demo/verify.py and not in contract.py: with only a grand total printed, compare it with the sum of line totals (assumes no tax/discount) and flag missing document number/date/total. Rationale: under the strict contract 84 of 86 synthetic documents are flagged, which makes the demo uninformative. Disclosure: a persistent header badge, per-result toggle back to strict, the Evidence page with both outcome bars (21 wrong records unflagged under demo_reconcile), and README/DEMO_SCRIPT. Whether to adopt it for the product is UNRESOLVED and listed as a supervisor decision; contract.py stays strict.
+
+Phone access: pairing code (6 digits, rate-limited) and a dashboard session issued only to direct loopback requests (refused behind a proxy/tunnel). Uploaded demo photos are kept under full_demo/.runtime/uploads (git-ignored) until Reset; they never enter training or annotation data. PWA installability/offline cache needs https or localhost; plain-HTTP LAN works for capture only.
+

@@ -1,0 +1,436 @@
+{
+ "tesseract": "tesseract 5.3.4",
+ "model_sha256": "bd1dba65eb03c3f2282697a502400794ce754543c5e16150625b73cea62ce0bd",
+ "docs": {
+  "purchase_order_01": {
+   "label": "purchase_order",
+   "decision_source": "printed_heading",
+   "ocr_text": "Prime Foods Distributors\n12 New Market, Khulna\nPURCHASE ORDER\n\nDate: 2026-07-19 PO No: PO-84686\n\nBill To: Al-Amin General Store\n\nItem Qty Unit Price Line Total\n\nInstant Noodles pack 18 20.00 360.00\n\nBasmati Rice 5kg bag 28 650.00 18200.00\n\nFresh Milk 1L carton 12 85.00 1020.00\nGrand Total: 19580.00\n"
+  },
+  "purchase_order_02": {
+   "label": "purchase_order",
+   "decision_source": "printed_heading",
+   "ocr_text": "Dhaka Wholesale Mart\n9 College Road, Syinet\nPURCHASE ORDER\n\nDate: 2026-06-26 PO No: PO-88441\n\nBim To: Cay Grocery\n\nnem Qty Unit Price Line Total\n\nLipton Tea 100g box 23 95.00 2185.00\n\nSprite SOOmi can 23 15.00 345.00\n\nMineral Water 1. 24 20.00 480.00\nGrand Total: 3010.00\n"
+  },
+  "purchase_order_03": {
+   "label": "purchase_order",
+   "decision_source": "printed_heading",
+   "ocr_text": "Sonar Bangla Grocers Supply\n45 Station Bazar, Chattogram\nPURCHASE ORDER\n\nDate: 2026-05-23 PO No: PO-69024\n\nBill To: Corner Store Mart\n\nItem Qty Unit Price Line Total\n\nChocolate Bar 45g 5 30.00 150.00\n\nSalt 1kg pack 23 40.00 920.00\n\nWheat Flour 2kg bag 16 150.00 2850.00\n\nPotato Chips 60g 20 25.00 500.00\nGrand Total: 4420.00\n"
+  },
+  "purchase_order_06": {
+   "label": "purchase_order",
+   "decision_source": "printed_heading",
+   "ocr_text": "Prime Foods Distributors\n12 New Market, Khulna\nPURCHASE ORDER\n\nDate: 2026-02-26 PO No: PO-98814\n\nBill To: Corner Store Mart\n\nItem Qty Unit Price Line Total\n\nFresh Milk 1L carton 6 85.00 510.00\n\nWheat Flour 2kg bag 1 150.00 150.00\n\nLux Soap 100g 72 35.00 70.00\n\nSprite 500m! can 18 15.00 270.00\n\nBasmati Rice 5kg bag 30 650.00 19500.00\n\nSalt 1kg pack 9 40.00 360.00\nGrand Total: 20860.00\n"
+  },
+  "purchase_order_07": {
+   "label": "purchase_order",
+   "decision_source": "printed_heading",
+   "ocr_text": "Rahman & Sons Trading\n9 College Road, Sylhet\nPURCHASE ORDER\n\nDate: 2026-03-22 PO No: PO-89179\n\nBill To: Mamun Store\n\nItem Qty Unit Price Line Total\n\nInstant Noodles pack 5 20.00 100.00\n\nWheat Flour 2kg bag 26 150.00 3900.00\nGrand Total: 4000.00\n"
+  },
+  "purchase_order_09": {
+   "label": "purchase_order",
+   "decision_source": "printed_heading",
+   "ocr_text": "Green Valley Foodstuffs Ltd.\n12 New Market, Khulna\nPURCHASE ORDER\n\nDate: 2026-02-17 PO No: PO-18959\n\nBill To: Green Leaf Grocers\n\nItem Qty Unit Price Line Total\n\nSugar 1kg pack 29 130.00 3770.00\n\nMineral Water 1L 14 20.00 280.00\n\nSalt 1kg pack 20 40.00 800.00\n\nBasmati Rice S5kg bag 2 650.00 1300.00\nGrand Total: 6150.00\n"
+  },
+  "purchase_order_10": {
+   "label": "purchase_order",
+   "decision_source": "printed_heading",
+   "ocr_text": "Green Valley Foodstuffs Ltd.\n9 College Road, Sylhet\nPURCHASE ORDER\n\nDate: 2026-09-26 PO No: PO-30103\n\nBill To: Al-Amin General Store\n\nItem Qty Unit Price Line Total\n\nLipton Tea 100g box 4 95.00 380.00\n\nPotato Chips 60g 11 25.00 275.00\n\nSalt 1kg pack 22 40.00 880.00\nGrand Total: 1535.00\n"
+  },
+  "purchase_order_11": {
+   "label": "purchase_order",
+   "decision_source": "printed_heading",
+   "ocr_text": "Star Trading Corporation\n12 New Market, Khulna\nPURCHASE ORDER\n\nDate: 2026-05-25 PO No: PO-21425\n\nBill To: Al-Amin General Store\nItem Qty Unit Price Line Total\nSalt 1kg pack 27 40.00 1080.00\nLipton Tea 100g box 21 95.00 1995.00\nPran Biscuit Pack 12 18.00 216.00\nFresh Eggs (dozen) 9 140.00 1260.00\nLux Soap 100g 19 35.00 665.00\nMineral Water 1L 12 20.00 240.00\n\nGrand Total: 5456.00\n"
+  },
+  "purchase_order_13": {
+   "label": "purchase_order",
+   "decision_source": "printed_heading",
+   "ocr_text": "Green Valley Foodstuffs Ltd.\n12 New Market, Khuina\nPURCHASE ORDER\n\nDate: 2026-02-25 PO No: PO-85130\n\nBill To: Al-Amin General Store\n\nItem Qty Unit Price Line Total\n\nCooking Oil 1L bottle 21 175.00 3675.00\n\nChocolate Bar 45g 1 30.00 30.00\n\nBasmati Rice 5kg bag 18 650.00 11700.00\nGrand Total: 15405.00\n"
+  },
+  "purchase_order_14": {
+   "label": "purchase_order",
+   "decision_source": "printed_heading",
+   "ocr_text": "Sonar Bangla Grocers Supply\n9 College Road, Sytnet\nPURCHASE ORDER\n\nDate: 2026-04-04 PO No: PO-52745\n\nBil To: Mamun Store\n\ntem Qty Unit Price Line Total\n\nBasmati Rice Skg bag 24 650.00 1$600.00\n\nLipton Tea 100g box 26 95.00 2470.00\n\ninstant Noodles pack 30 20.00 600.00\n\nWheat Flour 2kg bag n 150.00 1650.00\n\nChocolate Bar 45g 26 30.00 780.00\nGrand Total: 21100.00\n"
+  },
+  "purchase_order_15": {
+   "label": "purchase_order",
+   "decision_source": "printed_heading",
+   "ocr_text": "Meghna Beverages\n9 College Road, Sylhet\nPURCHASE ORDER\n\nDate: 2026-04-26 PO No: PO-73350\n\nBill To: Mamun Store\n\nItem Qty Unit Price Line Total\n\nMineral Water 1L 24 20.00 480.00\n\nLipton Tea 100g box 26 95.00 2565.00\n\nChocolate Bar 45g 29 30.00 870.00\n\nFresh Milk 1L carton 2 85.00 170.00\n\nCooking Oil 1L bottle 13 175.00 2275.00\nGrand Total: 6360.00\n"
+  },
+  "purchase_order_17": {
+   "label": "purchase_order",
+   "decision_source": "printed_heading",
+   "ocr_text": "Green Valley Foodstuffs Ltd.\n12 New Market, Khulna\nPURCHASE ORDER\n\nDate: 2026-05-16 PO No: PO-81591\n\nBill To: Bismillah Store\n\nItem Qty Unit Price Line Total\n\nSugar 1kg pack 30 130.00 3900.00\n\nSalt 1kg pack 19 40.00 760.00\n\nLipton Tea 100g box 22 95.00 2090.00\n\nFresh Eggs (dozen) 13 140.00 1820.00\n\nDetergent Powder 1kg 18 110.00 1980.00\n\nSprite 500m! can 24 15.00 360.00\nGrand Total: 10910.00\n"
+  },
+  "purchase_order_19": {
+   "label": "purchase_order",
+   "decision_source": "printed_heading",
+   "ocr_text": "Green Valley Foodstuffs Ltd.\n45 Station Bazar, Chattogram\nPURCHASE ORDER\n\nDate: 2026-08-08 PO No: PO-92704\n\nBill To: Green Leaf Grocers\n\nItem Qty Unit Price Line Total\n\nLux Soap 100g 29 35.00 1015.00\n\nChocolate Bar 45g 5 30.00 150.00\nGrand Total: 1165.00\n"
+  },
+  "purchase_order_20": {
+   "label": "purchase_order",
+   "decision_source": "printed_heading",
+   "ocr_text": "Star Trading Corporation\n45 Station Bazar, Chattogram\nPURCHASE ORDER\n\nDate: 2026-01-16 PO No: PO-17297\n\nBill To: Sultana Variety Store\n\nItem Qty Unit Price Line Total\n\nSprite 500m! can 26 15.00 390.00\n\nTibet Toothpaste 100g 14 60.00 840.00\nGrand Total: 1230.00\n"
+  },
+  "purchase_order_21": {
+   "label": "purchase_order",
+   "decision_source": "printed_heading",
+   "ocr_text": "Dhaka Wholesale Mart\n78 Cartonment Road, Rajshati\nPURCHASE ORDER\n\nDate: 2026-04-08 PO No: PO-61431\n\nBi To: Bismiitan Store\n\nnem Qty Unit Price Line Total\n\nSugar tkg pack 24 130.00 3120.00\n\nFresh Milk 1 carton \u201c 85.00 1190.00\n\nWheat Flour 2kg bag 24 150.00 3600.00\n\nTibet Toothpaste 100g 20 60.00 1200.00\n\nMinera! Water 1. 26 20.00 520.00\nGrand Total: 9630.00\n"
+  },
+  "purchase_order_22": {
+   "label": "purchase_order",
+   "decision_source": "printed_heading",
+   "ocr_text": "Prime Foods Distributors\n123 Market Road, Dhaka\nPURCHASE ORDER\n\nDate: 2026-09-11 PO No: PO-18546\n\nBill To: Corner Store Mart\n\nItem Qty Unit Price Line Total\n\nBottled Soda Water 1L 20 22.00 440.00\n\nDetergent Powder 1kg 25 110.00 2750.00\n\nSalt 1kg pack 28 40.00 1120.00\n\nPran Biscuit Pack 6 18.00 108.00\nGrand Total: 4418.00\n"
+  },
+  "purchase_order_23": {
+   "label": "purchase_order",
+   "decision_source": "printed_heading",
+   "ocr_text": "Green Valley Foodstuffs Ltd.\n12 New Market, Knuina\nPURCHASE ORDER\n\nDate: 2026-03-13 PO No: PO-S4115\n\nBil To: Mamun Store\n\nnem Qty Unit Price Line Total\n\nPran Biscuit Pack 22 18.00 396.00\n\nSat tkg pack \u201c 40.00 $60.00\n\nLux Soap 100g ? 35.00 245.00\n\nChocolate Bar 45g 24 30.00 720.00\n\nTibet Toothpaste 100g 20 60.00 1200.00\nGrand Total: 3121.00\n"
+  },
+  "purchase_order_24": {
+   "label": "purchase_order",
+   "decision_source": "printed_heading",
+   "ocr_text": "Karim Enterprise\n45 Station Bazar, Chattogram\nPURCHASE ORDER\n\nDate: 2026-03-09 PO No: PO-74007\n\nBill To: New Market Traders\n\nItem Qty Unit Price Line Total\n\nChocolate Bar 45g 28 30.00 840.00\n\nSugar 1kg pack 5 130.00 650.00\n\nSalt 1kg pack 2 40.00 80.00\n\nLux Soap 100g 25 35.00 875.00\n\nPran Mango Juice 250ml 12 12.00 144.00\nGrand Total: 2589.00\n"
+  },
+  "purchase_order_25": {
+   "label": "purchase_order",
+   "decision_source": "printed_heading",
+   "ocr_text": "Dhaka Wholesale Mart\n221 Motijhee! C/A, Dhaka\noo \u2014\u2014\u2014\u2014\u2014<\u2014S\nPURCHASE ORDER\n$<\nDate: 2026-09-22 PO No: PO-24487\nBill To: New Market Traders\nItem Qty Unit Price Line Total\noe\nPotato Chips 60g 5 25.00 125.00\nWheat Flour 2kg bag 6 150.00 900.00\nMineral Water 1L 12 20.00 240.00\nCoca-Cola S00mi can 13 15.00 195.00\nCooking Oil 1L bottle 25 175.00 4375.00\nTibet Toothpaste 100g 6 60.00 360.00\nI\nGrand Total: 6195.00\n"
+  },
+  "purchase_order_27": {
+   "label": "purchase_order",
+   "decision_source": "printed_heading",
+   "ocr_text": "Dhaka Wholesale Mart\n123 Market Road, Dhaka\nPURCHASE ORDER\n\nDate: 2026-05-20 PO No: PO-42798\n\nBill To: Corner Store Mart\n\nItem Qty Unit Price Line Total\n\nPotato Chips 60g 13 25.00 325.00\n\nFresh Milk 1L carton 22 85.00 1870.00\n\nChocolate Bar 45g 15 30.00 510.00\nGrand Total: 2705.00\n"
+  },
+  "receipt_01": {
+   "label": "purchase_order",
+   "decision_source": "trained_classifier",
+   "ocr_text": "GREEN VALLEY FOODSTUFFS LTD.\n78 Cantonment Road, Rajshahi\nRECEIPT\nDate: 2026-09-02\nNo: RCPT-14721\nShop: Mamun Store\nCoca-Cola 500ml can 17 x 15.00 = 255.00\nCooking Oil iL bottle 3 x 175.00 = 525.00\nTibet Toothpaste 100g 19 x 60.00 = 1140.00\nLux Soap 100g 7 x 35.00 = 245.00\nTOTAL: 2165.00\nThank you!\n"
+  },
+  "receipt_02": {
+   "label": "receipt",
+   "decision_source": "trained_classifier",
+   "ocr_text": "STAR TRADING CORPORATION\n78 Cantonment Roed, Rajshahi\nRECEIPT\nDate: 2026-03-06\nNo: RCPT-65460\nShop: Green Leaf Grocers\nWheat Flour 2kg bag 26 = 150.00 = 3900.00\nChocolate Bar 45g 26 =z 30.00 \u00a9 780.00\nBasmati Rice Skg beg i7 =x 650.00 = 11050.00\nLax Soap 100g 1S =z 35.00 \u00ab= $25.00\nTOTAL: 16255.00\nThank you!\n"
+  },
+  "receipt_03": {
+   "label": "delivery_note",
+   "decision_source": "trained_classifier",
+   "ocr_text": "Green Valley Foodstuffs Ltd.\n123 Market Road, Dhaka\n\nRECEIPT\nDate: 2026-02-27\nBill To: Corner Store Mart\nItem Qty\nFresh Eggs (dozen) 30\nMineral Water 1L 26\nPran Biscuit Pack 11\nWheat Flour 2kg bag 14\nLux Soap 100g 22\nCoca-Cola 500ml can 29\n"
+  },
+  "receipt_04": {
+   "label": "delivery_note",
+   "decision_source": "trained_classifier",
+   "ocr_text": "CHITTAGONG IMPORT CO.\n12 New Market, Khulna\nRECEIPT\nDate: 2026-05-01\nNo: RCPT-57408\nShop: Bismillah Store\nLux Soap 100g 2 x 35.00 = 70.00\nChocolate Bar 45g 8 x 30.00 = 240.00\nPran Mango Juice 250ml 20 x 12.00 = 240.00\nBasmati Rice 5kg bag 29 x 650.00 = 18850.00\nSalt ikg pack 24 x 40.00 = 960.00\nFresh Eggs (dozen) 21 x 140.00 = 2940.00\nTOTAL: 23300.00\nThank you!\n"
+  },
+  "receipt_05": {
+   "label": "receipt",
+   "decision_source": "trained_classifier",
+   "ocr_text": "Dhaka Wholesale Mart\n45 Station Bazar, Chattogram\n\nRECEIPT\nDate: 2026-03-17\nBill To: New Market Traders\nItem Qty\nFresh Eggs (dozen) 18\nDetergent Powder 1kg 9\nSalt 1kg pack 25\nWheat Flour 2kg bag 23\n"
+  },
+  "receipt_06": {
+   "label": "delivery_note",
+   "decision_source": "trained_classifier",
+   "ocr_text": "Padma Distribution House\n78 Cantonment Road, Rajshahi\n\nRECEIPT\nDate: 2026-08-25\nBill To: Green Leaf Grocers\nItem Qty\nTibet Toothpaste 100g 28\nSprite 500m! can 20\nPran Biscuit Pack 17\n"
+  },
+  "receipt_07": {
+   "label": "receipt",
+   "decision_source": "trained_classifier",
+   "ocr_text": "GREEN VALLEY FOODSTUFTS LTD.\n12 New Market, Khulna\nRECEIPT\nDate: 2026-07-20\nNo: RCPT-69273\nShop: City Grocery\nCoce-Cole $00m1 can 23 = 15.00 = 165.00\nPren Mango Juice 250m] i = 12.00 \u00a9 12.00\nChocolate Bar 45g 28 =x 30.00 = 840.00\nFresh Eggs (dozen) 18 = 140.00 = 2520.00\nTOTAL: 3537.00\nThank you!\n"
+  },
+  "receipt_08": {
+   "label": "delivery_note",
+   "decision_source": "trained_classifier",
+   "ocr_text": "DHAKA WHOLESALE MART\n12 New Market, Khulna\nRECEIPT\nDate: 2026-09-24\nNo: RCPT-35956\nShop: Mamun Store\nCooking O11 1L bottle 22 x 175.00 = 3850.00\nFresh Milk iL carton 11 x 85.00 = 935.00\nBasmati Rice 5Skg bag 6 x 650.00 = 3900.00\nLipton Tea 100g box 26 x 95.00 = 2470.00\nSprite 500ml can 22 x 15.00 = 330.00\nSalt ikg pack 14 x 40.00 = 560.00\nTOTAL: 12045.00\nThank you!\n"
+  },
+  "receipt_09": {
+   "label": "delivery_note",
+   "decision_source": "trained_classifier",
+   "ocr_text": "FARIDA HOUSEHOLD GOODS\n78 Cantonment Road, Rajshahi\nRECEIPT\nDate: 2026-03-02\nNo: RCPT-74877\nShop: New Market Traders\nChocolate Bar 45g 10 x 30.00 = 300.00\nSugar ikg pack 19 x 130.00 = 2470.00\nLux Soap 100g a7 x. 35.00 = 595.00\nCooking O11 1L bottle 18 x 175.00 = 3150.00\nSalt ikg pack 20 x 40.00 = 800.00\nPran Mango Juice 250ml 4 x 12.00 = 48.00\nTOTAL: 7363.00\nThank you!\n"
+  },
+  "receipt_10": {
+   "label": "delivery_note",
+   "decision_source": "trained_classifier",
+   "ocr_text": "PADMA DISTRIBUTION HOUSE\n221 Motijheel C/A, Dhaka\nRECEIPT\nDate: 2026-08-07\nNo: RCPT-90560\nShop: Green Leaf Grocers\nLux Soap 100g 4 x 35.00 = 140.00\nInstant Noodles pack 23 x 20.00 = 460.00\nDetergent Powder ikg 20 x 110.00 = 2200.00\nBottled Soda Water iL 3 x 22.00 = 66.00\nSugar ikg pack 5 x 130.00 = 780.00\nPran Mango Juice 250ml 15 x 12.00 = 180.00\nTOTAL: 3826.00\nThank you!\n"
+  },
+  "receipt_11": {
+   "label": "purchase_order",
+   "decision_source": "trained_classifier",
+   "ocr_text": "NABILA FOODS LTD.\n45 Station Bazar, Chattogram\nRECEIPT\nDate: 2026-08-26\nNo: RCPT-12704\nShop: City Grocery\nDetergent Powder ikg 10 x 110.00 = 1100.00\nPran Biscuit Pack 21 x 18.00 = 378.00\nTOTAL: 1478.00\nThank you!\n"
+  },
+  "receipt_12": {
+   "label": "delivery_note",
+   "decision_source": "trained_classifier",
+   "ocr_text": "PADMA DISTRIBUTION HOUSE\n9 College Road, Sylhet\n\nRECEIPT\nDate: 2026-05-12\nNo: RCPT-64963\nShop: City Grocery\nWheat Flour 2kg bag 43 x 150.00 = 1950.00\nMineral Water iL 30 x 20.00 = 600.00\nSalt ikg pack 29 x 40.00 = 1160.00\nTOTAL: 3710.00\n\nThank you!\n"
+  },
+  "receipt_13": {
+   "label": "receipt",
+   "decision_source": "trained_classifier",
+   "ocr_text": "MEGHNA BEVERAGES\n9 College Road, Sylhet\nRECEIPT\nDate: 2026-09-16\nNo: RCPT-38736\nShop: City Grocery\nChocolate Bar 45g 19 x 30.00 = 570.00\nBottled Soda Water iL 23 x 22.00 = 506.00\nTOTAL: 1076.00\nThank you!\n"
+  },
+  "receipt_14": {
+   "label": "receipt",
+   "decision_source": "trained_classifier",
+   "ocr_text": "RAHMAN & SONS TRADING\n45 Station Bazar, Chattogram\nRECEIPT\n\nDate: 2026-07-14\nBo: RCPT-26013\nShop: Al-Amin General Store\nCoce-Cole $00m1 can 23 =z 18.00 = 345.00\nLipton Tea 100g box 22 = 9$.00 = 2090.00\nTibet Toothpaste 100g 23 = 60.00 = 1380.00\nWheat Flour 2kg beg 12 = 150.00 = 1800.00\nMineral Water iL 3 = 20.00 = 60.00\nTOTAL: $675.00\n\nThank you!\n"
+  },
+  "receipt_15": {
+   "label": "purchase_order",
+   "decision_source": "trained_classifier",
+   "ocr_text": "Dhaka Wholesale Mart\n221 Motijheel C/A, Dhaka\n\nRECEIPT\nDate: 2026-09-18\nBill To: New Market Traders\nItem Qty\nFresh Milk 1L carton 20\nMineral Water 7L 8\n"
+  },
+  "receipt_16": {
+   "label": "receipt",
+   "decision_source": "trained_classifier",
+   "ocr_text": "Prime Foods Distributors\n221 Motijheel C/A, Dnaka\n\nRECEIPT\nDate: 2026-01-19\nBill To: Bismillah Store\nItem Qty\nLux Soap 100g 27,\nCoca-Cola 500ml can 2\nInstant Noodles pack 13\nWheat Flour 2kg bag 7\n"
+  },
+  "receipt_17": {
+   "label": "purchase_order",
+   "decision_source": "trained_classifier",
+   "ocr_text": "PRIME FOODS DISTRIBUTORS\n221 Motijheel C/A, Dhaka\nRECEIPT\nDate: 2026-07-20\nNo: RCPT-16424\nShop: Green Leaf Grocers\nInstant Noodles pack 19 x 20.00 = 380.00\nMineral Water 1L 1 x 20.00 = 80.00\nTOTAL: 460.00\nThank you!\n"
+  },
+  "receipt_18": {
+   "label": "delivery_note",
+   "decision_source": "trained_classifier",
+   "ocr_text": "NABILA FOODS LTD.\n12 New Market, Khulna\nRECEIPT\nDate: 2026-07-21\nNo: RCPT-94108\nShop: Corner Store Mart\nTibet Toothpaste 100g 21 x 60.00 = 1260.00\nPotato Chips 60g 4 x 25.00 = 100.00\nInstant Noodles pack 13 x 20.00 = 260.00\nPran Biscuit Pack 9 x 18.00 = 162.00\nTOTAL: 1782.00\nThank you!\n"
+  },
+  "receipt_19": {
+   "label": "purchase_order",
+   "decision_source": "trained_classifier",
+   "ocr_text": "RAHMAN & SONS TRADING\n221 Motijheel c/A, Dhaka\n\nRECEIPT\npate: 2026-07-26\nNo: RCPT-28533\nShop: Suitana variety Store\nDetergent powder ikg 417 x 110.00 = 2090.00\nLipton Tea 100g box 6 x 95.00 = 570.00\nTOTAL: 2660.00\n\nThank you!\n"
+  },
+  "receipt_20": {
+   "label": "delivery_note",
+   "decision_source": "trained_classifier",
+   "ocr_text": "KARIM ENTERPRISE\n78 Cantonment Road, Rajshahi\nRECEIPT\n\nDate: 2026-07-27\nNo: RCPT-89307\nShop: Sultana Variety Store\nTibet Toothpaste 100g 10 x 60.00 = 600.00\nPotato Chips 60g 11 x 25.00 = 275.00\nFresh Eggs (dozen) 23 x 140.00 = 3500.00\nTOTAL: 4375.00\n\nThank you!\n"
+  },
+  "receipt_21": {
+   "label": "delivery_note",
+   "decision_source": "trained_classifier",
+   "ocr_text": "NABILA FOODS LTD.\n12 New Market, Khulna\nRECEIPT\nDate: 2026-03-02\nNo: RCPT-57634\nShop: New Market Traders\nPotato Chips 60g 10 x 25.00 = 300.00\nCooking Oil iL bottle 15 x 175.00 = 2625.00\nTOTAL: 2925.00\nThank you!\n"
+  },
+  "receipt_22": {
+   "label": "delivery_note",
+   "decision_source": "trained_classifier",
+   "ocr_text": "NABILA FOODS LTD.\n12 New Market, Khulna\nRECEIPT\n\nDate: 2026-09-03\nNo: RCPT-52568\nShop: Mamun Store\nBasmati Rice 5kg bag 24 x 650.00 = 15600.00\nFresh Milk iL carton 7 x 85.00 = 595.00\nTibet Toothpaste 100g 10 x 60.00 = 600.00\nTOTAL: 16795.00\n\nThank you!\n"
+  },
+  "receipt_23": {
+   "label": "purchase_order",
+   "decision_source": "trained_classifier",
+   "ocr_text": "ACME Beverage Distributors\n9 College Road, Sylhet\n\nRECEIPT\nDate: 2026-06-16\nBill To: Al-Amin General Store\nItem Qty\nSprite 500m! can 15\nInstant Noodles pack 2\nSugar 1kg pack 12\nFresh Eggs (dozen) 12\nDetergent Powder 1kg 16\n"
+  },
+  "receipt_24": {
+   "label": "receipt",
+   "decision_source": "trained_classifier",
+   "ocr_text": "MEGHNA BEVERAGES\n45 Station Bazar, Chattogram\nRECEIPT\n\nDate: 2026-01-25\nNo: RCPT-94158\nShop: Al-Amin General Store\nFresh Eggs (dozen) 3 x 140.00 = 420.00\nPran Mango Juice 250ml 11 x 12.00 = 132.00\nBasmati Rice 5kg bag 8 x 650.00 = 5200.00\nBottled Soda Water iL 22 x 22.00 = 484.00\nTOTAL: 6236.00\n\nThank you!\n"
+  },
+  "receipt_25": {
+   "label": "receipt",
+   "decision_source": "trained_classifier",
+   "ocr_text": "Farida Household Goods\n45 Station Bazar, Chattogram\n\nRECEIPT\nDate: 2026-05-10\nBill To: Sultana Variety Store\nItem Qty\nTibet Toothpaste 100g 19\nFresh Milk 1L carton 14\nMineral Water 1L 14\nWheat Flour 2kg bag 27\nBottled Soda Water 1L 29\nLux Soap 100g 7\n"
+  },
+  "receipt_26": {
+   "label": "delivery_note",
+   "decision_source": "trained_classifier",
+   "ocr_text": "BENGAL SNACKS & CONFECTIONERY\n123 Market Road, Dhaka\nRECEIPT\n\nDate: 2026-09-17\nNo: RCPT-46974\nShop: Mamun Store\nSalt ikg pack 12 x 40.00 = 480.00\nFresh Eggs (dozen) 21 x 140.00 = 2940.00\nPran Mango Juice 250ml 13 x 12.00 = 156.00\nSprite 500ml can 21 x 15.00 = 315.00\nWheat Flour 2kg bag 1 x 150.00 = 150.00\nTOTAL: 4041.00\n\nThank you!\n"
+  },
+  "receipt_27": {
+   "label": "delivery_note",
+   "decision_source": "trained_classifier",
+   "ocr_text": "NABILA FOODS LTD.\n45 Station Bazar, Chattogram\nRECEIPT\nDate: 2026-02-26\nNo: RCPT-26172\nShop: Bismillah Store\nSalt ikg pack 20 x 40.00 = 800.00\nPran Mango Juice 250ml 30 x 12.00 = 360.00\nDetergent Powder ikg i x 110.00 = 110.00\nLux Soap 100g 21 x 35.00 = 735.00\nInstant Noodles pack 3 x 20.00 = 60.00\nPran Biscuit Pack 2 x 18.00 = 36.00\nTOTAL: 2101.00\nThank you!\n"
+  },
+  "receipt_28": {
+   "label": "delivery_note",
+   "decision_source": "trained_classifier",
+   "ocr_text": "MEGHNA BEVERAGES\n12 New Market, Khulna\nRECEIPT\nDate: 2026-02-16\nBo: RCPT-66280\nShop: New Market Traders\nSprite 500ml can i = 18.00 \u00ab= 15.00\nPotato Chips 60g 17 = 25.00 = 425.00\nTibet Toothpaste 100g 30 = 60.00 = 1800.00\nBottled Soda Water iL 3 =x 22.00 = 66.00\nWheat Flour 2kg bag 3 = 180.00 \u00ab= 450.00\nSuger ikg peck S =z 130.00 = 650.00\nTOTAL: 3406.00\nThank you!\n"
+  },
+  "receipt_29": {
+   "label": "receipt",
+   "decision_source": "trained_classifier",
+   "ocr_text": "ACME BEVERAGE DISTRIBUTORS\n221 Motijheel C/A, Dhaka\nRECEIPT\nDate: 2026-03-08\nNo: RCPT-87592\nShop: City Grocery\nChocolate Bar 459 28 x 30.00 = 840.00\nMineral Water iL 20 x 20.00 = 400.00\nBottled Soda Water iL 8 x 22.00 = 176.00\nFresh Eggs (dozen) 41 x 140.00 = 1540.00\nTOTAL: 2956.00\nThank you!\n"
+  },
+  "receipt_30": {
+   "label": "delivery_note",
+   "decision_source": "trained_classifier",
+   "ocr_text": "DHAKA WHOLESALE MART\n9 College Roed, Sylhet\nRECEIPT\nDate: 2026-02-15\nNo: RCPT-71664\nShop: New Market Traders\nFresh Eggs (dozen) 9 x 140.00 = 1260.00\nCooking Oil iL bottle 10 = 175.00 = 1750.00\nFresh Milk iL carton 30 = 65.00 = 2550.00\nDetergent Powder ikg i3 = 110.00 = 1430.00\nSprite 500ml can 6 =z 18.00 = 90.00\nBottled Soda Water iL 10 = 22.00 = 220.00\nTOTAL: 7300.00\nThank you!\n"
+  },
+  "delivery_note_05": {
+   "label": "delivery_note",
+   "decision_source": "printed_heading",
+   "ocr_text": "Sonar Bangla Grocers Supply\n123 Market Road, Dhaka\nDELIVERY NOTE\n\nDate: 2026-09-07 DN No: DN-86960\nBill To: Sultana Variety Store\nItem Qty Unit Price Line Total\nTibet Toothpaste 100g 25 60.00 1500.00\nInstant Noodles pack 25 20.00 500.00\nMineral Water 1L 8 20.00 160.00\nCoca-Cola 500ml can 3 15.00 45.00\nPotato Chips 60g 12 25.00 375.00\nSprite 500m! can nN 15.00 165.00\n\nGrand Total: 2745.00\n"
+  },
+  "delivery_note_06": {
+   "label": "delivery_note",
+   "decision_source": "printed_heading",
+   "ocr_text": "PRIME FOODS DISTRIBUTORS\n123 Market Road, Dhaka\nDELIVERY NOTE\nDate: 2026-07-15\nNo: DN-83164\nShop: Bismillah Store\nPotato Chips 60g 7 x 25.00 = 175.00\nPran Biscuit Pack 11 x 18.00 = 198.00\nWheat Flour 2kg bag 2 x 150.00 = 300.00\nTOTAL: 673.00\nThank you!\n"
+  },
+  "delivery_note_08": {
+   "label": "delivery_note",
+   "decision_source": "printed_heading",
+   "ocr_text": "DHAKA WHOLESALE MART\n12 New Market, Khulna\nDELIVERY NOTE\nDate: 2026-06-10\nNo: DN-59207\nShop: Mamun Store\nPran Biscuit Pack 20 x 18.00 = 360.00\nBottled Soda Water iL 3 x 22.00 = 66.00\nSugar ikg pack 14 x 130.00 = 1820.00\nFresh Milk iL carton 23 x 85.00 = 1955.00\nPotato Chips 60g 19 x 25.00 = 475.00\nInstant Noodles pack 6 x 20.00 = 120.00\nTOTAL: 4796.00\nThank you!\n"
+  },
+  "delivery_note_13": {
+   "label": "delivery_note",
+   "decision_source": "printed_heading",
+   "ocr_text": "Sonar Bangla Grocers Supply\n123 Market Road, Dhaka\nDELIVERY NOTE\n\nDate: 2026-03-12 DN No: DN-23057\nBill To: Sultana Variety Store\nItem Qty Unit Price Line Total\nWheat Flour 2kg bag 24 150.00 3600.00\nSugar 1kg pack 29 130.00 3770.00\n\nGrand Total: 7370.00\n"
+  },
+  "delivery_note_14": {
+   "label": "delivery_note",
+   "decision_source": "printed_heading",
+   "ocr_text": "Karim Enterprise\n9 College Road, Sylhet\nDELIVERY NOTE\n\nDate: 2026-02-20 DN No: DN-94865\nBill To: City Grocery\nItem Qty Unit Price Line Total\nDetergent Powder 1kg 4 110.00 440.00\nSprite 500m! can 20 15.00 300.00\nFresh Eggs (dozen) 20 140.00 2800.00\nSalt 1kg pack 29 40.00 1160.00\nWheat Flour 2kg bag \"1 150.00 1650.00\nSugar 1kg pack 26 130.00 3380.00\n\nGrand Total: 9730.00\n"
+  },
+  "delivery_note_15": {
+   "label": "delivery_note",
+   "decision_source": "printed_heading",
+   "ocr_text": "Padma Distribution House\n221 Motijheel C/A, Dhaka\nDELIVERY NOTE\n\nDate: 2026-02-02 DN No: DN-44673\nBill To: Green Leaf Grocers\nItem Qty Unit Price Line Total\nPran Mango Juice 250ml 9 12.00 108.00\nCooking Oil 1L bottle 19 175.00 3325.00\nFresh Milk 1L carton 26 85.00 2210.00\nLux Soap 100g 27 35.00 945.00\nSprite 500ml! can 25 15.00 375.00\nSalt 1kg pack 29 40.00 1160.00\n\nGrand Total: 8123.00\n"
+  },
+  "delivery_note_16": {
+   "label": "delivery_note",
+   "decision_source": "printed_heading",
+   "ocr_text": "Nabila Foods Ltd.\n123 Market Road, Dhaka\nDELIVERY NOTE\n\nDate: 2026-01-21 DN No: DN-22259\nBill To: New Market Traders\nItem Qty Unit Price Line Total\nSprite 500m! can af 15.00 105.00\nLipton Tea 100g box 24 95.00 2280.00\n\nGrand Total: 2385.00\n"
+  },
+  "delivery_note_21": {
+   "label": "delivery_note",
+   "decision_source": "printed_heading",
+   "ocr_text": "KARIM ENTERPRISE\n78 Cantonment Road, Rajshahi\nDELIVERY NOTE\nDate: 2026-07-18\nNo: DN-96482\nShop: Bismillah Store\nWheat Flour 2kg bag 14 x 150.00 = 2400.00\nPotato Chips 60g 4 x 25.00 = 100.00\nBottled Soda Water iL 9 x 22.00 = 198.00\nTOTAL: 2698.00\nThank you!\n"
+  },
+  "delivery_note_23": {
+   "label": "delivery_note",
+   "decision_source": "printed_heading",
+   "ocr_text": "Karim Enterprise\n9 College Road, Sylhet\nDELIVERY NOTE\n\nDate: 2026-07-25 DN No: DN-82259\nBill To: Green Leaf Grocers\nItem Qty Unit Price Line Total\nSprite 500m! can 15 15.00 225.00\nSalt 1kg pack 25 40.00 1000.00\n\nGrand Total: 1225.00\n"
+  },
+  "delivery_note_24": {
+   "label": "delivery_note",
+   "decision_source": "printed_heading",
+   "ocr_text": "Meghna Beverages\n12 New Market, Knuina\nDELIVERY NOTE\n\nDate: 2026-07-18 ON No: ON-74131\nBim To: Sutana Variety Store\nnem Qty Unit Price Line Total\nLux Soap 100g nN 35.00 385.00\nSugar tkg pack 28 130.00 3640.00\n\nGrand Total: 4025.00\n"
+  },
+  "delivery_note_25": {
+   "label": "delivery_note",
+   "decision_source": "printed_heading",
+   "ocr_text": "Nabila Foods Ltd.\n78 Cantonment Road, Rajshahi\nDELIVERY NOTE\n\nDate: 2026-08-20 DN No: DN-11360\nBill To: Bismillah Store\nItem Qty Unit Price Line Total\nDetergent Powder 1kg 10 110.00 1100.00\nBasmati Rice 5kg bag 17 650.00 11050.00\n\nGrand Total: 12150.00\n"
+  },
+  "delivery_note_26": {
+   "label": "delivery_note",
+   "decision_source": "printed_heading",
+   "ocr_text": "Sonar Bangla Grocers Supply\n9 College Road, Sylhet\nDELIVERY NOTE\n\nDate: 2026-08-22 DN No: DN-25861\nBill To: City Grocery\nItem Qty Unit Price Line Total\nChocolate Bar 45g 4 30.00 120.00\nSprite 500m! can 3 15.00 45.00\nBottled Soda Water 1L 27 22.00 594.00\nFresh Milk 1L carton 25 85.00 2125.00\nLipton Tea 100g box 15 95.00 1520.00\nCooking Oil 1L bottle 27 175.00 4725.00\n\nGrand Total: 9129.00\n"
+  },
+  "delivery_note_27": {
+   "label": "delivery_note",
+   "decision_source": "printed_heading",
+   "ocr_text": "Karim Enterprise\n9 College Road, Sylhet\nDELIVERY NOTE\n\nDate: 2026-05-25 DN No: DN-92316\nBill To: Mamun Store\nItem Qty Unit Price Line Total\nCooking Oil 1L bottle 28 175.00 4900.00\nSalt 1kg pack 9 40.00 360.00\nWheat Flour 2kg bag 19 150.00 2850.00\nBottled Soda Water 1L 8 22.00 198.00\n\nGrand Total: 8308.00\n"
+  },
+  "delivery_note_29": {
+   "label": "delivery_note",
+   "decision_source": "printed_heading",
+   "ocr_text": "Green Valley Foodstuffs Ltd.\n123 Market Road, Dhaka\nDELIVERY NOTE\n\nDate: 2026-03-12 DN No: DN-59880\nBill To: City Grocery\nItem Qty Unit Price Line Total\nCooking Oil 1L bottle 1 175.00 2450.00\nTibet Toothpaste 100g 8 60.00 480.00\n\nGrand Total: 2930.00\n"
+  },
+  "customer_copy_02": {
+   "label": "customer_copy",
+   "decision_source": "printed_heading",
+   "ocr_text": "ACME Beverage Distributors\n12 New Market, Khulna\nCUSTOMER COPY\n\nDate: 2026-03-18 CC No: CC-73448\n\nBill To: Al-Amin General Store\n\nItem Qty Unit Price Line Total\n\nPotato Chips 60g 18 25.00 450.00\n\nSugar 1kg pack 10 130.00 1300.00\n\nChocolate Bar 45g 7 30.00 210.00\n\nLux Soap 100g 20 35.00 700.00\n\nCooking Oil 1L bottle 4 175.00 700.00\n\nInstant Noodles pack 18 20.00 360.00\nGrand Total: 3720.00\n"
+  },
+  "customer_copy_03": {
+   "label": "customer_copy",
+   "decision_source": "printed_heading",
+   "ocr_text": "RAHMAN & SONS TRADING\n45 Station Bazar, Chattogram\nCUSTOMER COPY\nDate: 2026-08-25\nNo: CC-71188\nShop: Bismillah Store\nCoca-Cola 500ml can 12 x 15.00 = 180.00\nFresh Milk iL carton 29 x 85.00 = 2465.00\nTibet Toothpaste 100g 3 x 60.00 = 180.00\nLux Soap 100g 28 x 35.00 = 980.00\nTOTAL: 3805.00\nThank you!\n"
+  },
+  "customer_copy_04": {
+   "label": "customer_copy",
+   "decision_source": "printed_heading",
+   "ocr_text": "PRIME FOODS DISTRIBUTORS\n123 Market Road, Dhaka\nCUSTOMER COPY\nDate: 2026-01-12\nNo: CC-31169\nShop: Al-Amin General Store\nInstant Noodles pack 27 x 20.00 = 540.00\nSugar ikg pack 6 x 130.00 = 780.00\nWheat Flour 2kg bag 20 x 150.00 = 3000.00\nSalt ikg pack 27 x 40.00 = 1080.00\nTOTAL: 5400.00\nThank you!\n"
+  },
+  "customer_copy_05": {
+   "label": "customer_copy",
+   "decision_source": "printed_heading",
+   "ocr_text": "NABILA FOODS LTD.\n45 Station Bazar, Chattogram\nCUSTOMER COPY\n\nDate: 2026-06-15\nNo: CC-41790\nShop: Sultana Variety Store\nMineral Water iL 2 x 20.00 = 20.00\nPran Biscuit Pack 29 x 18.00 = 522.00\nFresh Eggs (dozen) 2 x 140.00 = 280.00\nCooking Oi1 iL bottle 16 x 175.00 = 2800.00\nTOTAL: 3622.00\n\nThank you!\n"
+  },
+  "customer_copy_06": {
+   "label": "customer_copy",
+   "decision_source": "printed_heading",
+   "ocr_text": "ACME Beverage Distributors\n9 College Road, Sylhet\nCUSTOMER COPY\n\nDate: 2026-07-12 CC No: CC-89611\n\nBill To: New Market Traders\n\nItem Qty Unit Price Line Total\n\nDetergent Powder 1kg 8 110.00 880.00\n\nBottled Soda Water 1L 2 22.00 44.00\n\nWheat Flour 2kg bag 28 150.00 4200.00\n\nFresh Milk 1L carton 14 85.00 1190.00\n\nSalt 1kg pack 26 40.00 1040.00\n\nSugar 1kg pack 17 130.00 2210.00\nGrand Total: 9564.00\n"
+  },
+  "customer_copy_07": {
+   "label": "customer_copy",
+   "decision_source": "printed_heading",
+   "ocr_text": "Rahman & Sons Trading\n78 Cantonment Road, Rajshahi\nCUSTOMER COPY\n\nDate: 2026-03-01 CC No: CC-50235\n\nBill To: Mamun Store\n\nItem Qty Unit Price Line Total\n\nCooking Oil 1L bottle 13 175.00 2275.00\n\nSalt 1kg pack 10 40.00 400.00\n\nCoca-Cola 500m! can 26 15.00 390.00\n\nLux Soap 100g 23 35.00 805.00\n\nPran Mango Juice 250ml 19 12.00 228.00\nGrand Total: 4098.00\n"
+  },
+  "customer_copy_08": {
+   "label": "customer_copy",
+   "decision_source": "printed_heading",
+   "ocr_text": "STAR TRADING CORPORATION\n45 Station Bazar, Chattogram\nCUSTOMER COPY\nDate: 2026-09-04\nNo: CC-16348\nShop: Mamun Store\nBasmati Rice Skg bag S x 650.00 = 3250.00\nCoce-Cola $00m] can 7 = 15.00 \u00a9 105.00\nInstant Noodles peck 26 = 20.00 = $20.00\nCooking O11 iL bottle 16 = 175.00 = 2800.00\nLux Soap 100g 19 =x 35.00 = 665.00\nFresh Eggs (dozen) 22 = 140.00 = 3060.00\nTOTAL: 10420.00\nThank you!\n"
+  },
+  "customer_copy_09": {
+   "label": "customer_copy",
+   "decision_source": "printed_heading",
+   "ocr_text": "Farida Household Goods\n123 Market Road, Dhaka\nCUSTOMER COPY\n\nDate: 2026-04-26 CC No: CC-57914\n\nBill To: Mamun Store\n\nItem Qty Unit Price Line Total\n\nCoca-Cola 500ml can 3 15.00 45.00\n\nPran Biscuit Pack 2 18.00 18.00\n\nInstant Noodles pack 23 20.00 460.00\nGrand Total: 523.00\n"
+  },
+  "customer_copy_10": {
+   "label": "customer_copy",
+   "decision_source": "printed_heading",
+   "ocr_text": "Prime Foods Distributors\n78 Cantonment Road, Rajshahi\nCUSTOMER COPY\n\nDate: 2026-09-26 CC No: CC-45352\n\nBill To: City Grocery\n\nItem Qty Unit Price Line Total\n\nWheat Flour 2kg bag 22) 150.00 3300.00\n\nPotato Chips 60g 18 25.00 450.00\n\nSugar 1kg pack 13 130.00 1690.00\n\nCoca-Cola 500ml can 6 15.00 120.00\n\nPran Mango Juice 250ml 5 12.00 60.00\n\nLux Soap 100g 26 35.00 910.00\nGrand Total: 6530.00\n"
+  },
+  "customer_copy_11": {
+   "label": "customer_copy",
+   "decision_source": "printed_heading",
+   "ocr_text": "Star Trading Corporation\n78 Cantonment Road, Rajshahi\nCUSTOMER COPY\n\nDate: 2026-01-24 CC No: CC-97993\n\nBill To: New Market Traders\n\nItem Qty Unit Price Line Total\n\nInstant Noodles pack 15 20.00 300.00\n\nMineral Water 1L 14 20.00 280.00\n\nChocolate Bar 45g 14 30.00 420.00\nGrand Total: 1000.00\n"
+  },
+  "customer_copy_12": {
+   "label": "customer_copy",
+   "decision_source": "printed_heading",
+   "ocr_text": "STAR TRADING CORPORATION\n45 Station Bazar, Chattogram\nCUSTOMER COPY\nDate: 2026-05-05\nBo: CC-908691\nShop: Green Leaf Grocers\nBottled Soda Water iL 13 = 22.00 = 266.00\nChocolate Bar 45g 14 =z 30.00 \u00a9 420.00\nPren Mango Juice 250ml 23 = 12.00 = 276.00\nTOTAL: 962.00\nThank you!\n"
+  },
+  "customer_copy_13": {
+   "label": "customer_copy",
+   "decision_source": "printed_heading",
+   "ocr_text": "SONAR BANGLA GROCERS SUPPLY\n45 Station Bazar, Chattogram\nCUSTOMER COPY\nDate: 2026-06-24\nNo: CC-46037\nShop: Bismillah Store\nSugar ikg pack 30 x 130.00 = 3900.00\nMineral Water iL 10 x 20.00 = 200.00\nFresh Eggs (dozen) 17 x 140.00 = 2380.00\nTOTAL: 6480.00\nThank you!\n"
+  },
+  "customer_copy_15": {
+   "label": "customer_copy",
+   "decision_source": "printed_heading",
+   "ocr_text": "ACME Beverage Distributors\n123 Market Road, Onaka\nCUSTOMER COPY\n\nDate: 2026-05-19 CC No: CC-13799\n\nBil To: Corner Store Mart\n\ntem Qty Unit Price Line Total\n\nTibet Toothpaste 100g 9 60.00 140.00\n\nLipton Tea 100g box 28 95.00 2660.00\n\nLux Soap 100g 7 35.00 $95.00\nGrand Total: 4395.00\n"
+  },
+  "customer_copy_17": {
+   "label": "customer_copy",
+   "decision_source": "printed_heading",
+   "ocr_text": "ACME Beverage Distributors\n9 College Road, Sylhet\nCUSTOMER COPY\n\nDate: 2026-02-06 CC No: CC-98435\n\nBill To: New Market Traders\n\nItem Qty Unit Price Line Total\n\nInstant Noodles pack 14 20.00 280.00\n\nLipton Tea 100g box 9 95.00 855.00\n\nChocolate Bar 45g 28 30.00 840.00\n\nPran Biscuit Pack 18 18.00 324.00\n\nBasmati Rice Skg bag 30 650.00 19500.00\nGrand Total: 21799.00\n"
+  },
+  "customer_copy_18": {
+   "label": "customer_copy",
+   "decision_source": "printed_heading",
+   "ocr_text": "Karim Enterprise\n45 Station Bazar, Chattogram\nCUSTOMER COPY\n\nDate: 2026-02-16 CC No: CC-94680\n\nBill To: Mamun Store\n\nItem Qty Unit Price Line Total\n\nDetergent Powder 1kg 6 110.00 660.00\n\nTibet Toothpaste 100g 9 60.00 540.00\n\nBottled Soda Water 1L 9 22.00 198.00\nGrand Total: 1398.00\n"
+  },
+  "customer_copy_19": {
+   "label": "customer_copy",
+   "decision_source": "printed_heading",
+   "ocr_text": "Dhaka Wholesale Mart\n221 Motijheel C/A, Dhaka\nCUSTOMER COPY\n\nDate: 2026-04-14 CC No: CC-29430\n\nBill To: Mamun Store\n\nItem Qty Unit Price Line Total\n\nFresh Milk 1L carton 21 85.00 1785.00\n\nWheat Flour 2kg bag 28 150.00 4200.00\n\nMineral Water 1L 24 20.00 480.00\n\nBottled Soda Water 1L 29 22.00 638.00\nGrand Total: 7103.00\n"
+  },
+  "customer_copy_20": {
+   "label": "customer_copy",
+   "decision_source": "printed_heading",
+   "ocr_text": "Chittagong Import Co.\n221 Motijnee! C/A, Oneka\nCUSTOMER COPY\n\nDate: 2026-03-20 CC No: CC-64887\n\nBil To: Al-Amin General Store\n\ntem Qty Unit Price Line Total\n\nFresh Milk 1. carton 3 85.00 1105.00\n\nTibet Toothpaste 100g 24 60.00 1440.00\n\nChocolate Bar 45g 5 30.00 150.00\n\nLipton Tea 100g box 29 95.00 2755.00\nGrand Total: 5450.00\n"
+  },
+  "customer_copy_22": {
+   "label": "customer_copy",
+   "decision_source": "printed_heading",
+   "ocr_text": "Bengal Snacks & Confectionery\n9 College Road, Sylhet\nCUSTOMER COPY\n\nDate: 2026-05-11 CC No: CC-48575\n\nBill To: Bismillah Store\n\nItem Qty Unit Price Line Total\n\nLux Soap 100g 11 35.00 385.00\n\nCooking Oil 1L bottle 25 175.00 4375.00\nGrand Total: 4760.00\n"
+  },
+  "customer_copy_23": {
+   "label": "customer_copy",
+   "decision_source": "printed_heading",
+   "ocr_text": "Bengal Snacks & Confectionery\n78 Cantonment Road, Rajshahi\nCUSTOMER COPY\n\nDate: 2026-08-19 CC No: CC-12974\n\nBill To: Al-Amin General Store\n\nItem Qty Unit Price Line Total\n\nChocolate Bar 45g 15 30.00 450.00\n\nLux Soap 100g 12 35.00 420.00\n\nLipton Tea 100g box 21 95.00 1995.00\n\nInstant Noodles pack 18 20.00 360.00\n\nTibet Toothpaste 100g 23 60.00 1380.00\n\nBottled Soda Water 1L 7 22.00 154.00\nGrand Total: 4759.00\n"
+  },
+  "customer_copy_26": {
+   "label": "customer_copy",
+   "decision_source": "printed_heading",
+   "ocr_text": "RAHMAN & SONS TRADING\n123 Market Road, Dhaka\nCUSTOMER COPY\nDate: 2026-07-09\nNo: CC-99976\nShop: Mamun Store\nSalt ikg pack 20 x 40.00 = 800.00\nPran Mango Juice 250ml 24 x 12.00 = 288.00\nTibet Toothpaste 100g 17 x 60.00 = 1200.00\nTOTAL: 2288.00\nThank you!\n"
+  },
+  "customer_copy_27": {
+   "label": "customer_copy",
+   "decision_source": "printed_heading",
+   "ocr_text": "Green Valley Foodstuffs Ltd.\n123 Market Road, Dhaka\nCUSTOMER COPY\n\nDate: 2026-04-17 CC No: CC-69052\n\nBill To: Mamun Store\n\nItem Qty Unit Price Line Total\n\nSprite 500m! can 28 15.00 420.00\n\nSugar 1kg pack 27 130.00 3510.00\n\nDetergent Powder 1kg n 110.00 1210.00\n\nPran Mango Juice 250mI 7 12.00 84.00\nGrand Total: 5224.00\n"
+  },
+  "customer_copy_30": {
+   "label": "customer_copy",
+   "decision_source": "printed_heading",
+   "ocr_text": "Padma Distribution House\n12 New Market, Khulna\nCUSTOMER COPY\n\nDate: 2026-04-03 CC No: CC-34994\n\nBill To: New Market Traders\n\nItem Qty Unit Price Line Total\n\nInstant Noodles pack 2h 20.00 540.00\n\nDetergent Powder 1kg 29 110.00 3190.00\n\nPran Biscuit Pack 13 18.00 234.00\n\nMineral Water 1L 29 20.00 580.00\nGrand Total: 4544.00\n"
+  }
+ }
+}

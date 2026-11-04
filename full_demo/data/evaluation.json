@@ -1,0 +1,1349 @@
+{
+ "scope": "86 printed/thermal synthetic documents (handwritten excluded). Clean renders; not a real-world estimate.",
+ "ocr_environment": {
+  "tesseract": "tesseract 5.3.4",
+  "classifier_model_sha256": "bd1dba65eb03c3f2282697a502400794ce754543c5e16150625b73cea62ce0bd"
+ },
+ "documents": 86,
+ "classifier": {
+  "routed_correctly": 65,
+  "accuracy": 0.7558,
+  "by_class": {
+   "purchase_order": {
+    "n": 20,
+    "correct": 20,
+    "by_decision_source": {
+     "purchase_order|printed_heading": 20
+    }
+   },
+   "receipt": {
+    "n": 30,
+    "correct": 9,
+    "by_decision_source": {
+     "delivery_note|trained_classifier": 15,
+     "purchase_order|trained_classifier": 6,
+     "receipt|trained_classifier": 9
+    }
+   },
+   "delivery_note": {
+    "n": 14,
+    "correct": 14,
+    "by_decision_source": {
+     "delivery_note|printed_heading": 14
+    }
+   },
+   "customer_copy": {
+    "n": 22,
+    "correct": 22,
+    "by_decision_source": {
+     "customer_copy|printed_heading": 22
+    }
+   }
+  },
+  "by_decision_source": {
+   "printed_heading": {
+    "n": 56,
+    "correct": 56
+   },
+   "trained_classifier": {
+    "n": 30,
+    "correct": 9
+   }
+  }
+ },
+ "extraction": {
+  "extractor": "rules-standin",
+  "documents_with_all_fields_exact": 27,
+  "documents_with_any_error": 59,
+  "error_field_counts": {
+   "description": 46,
+   "unit_price": 20,
+   "line_total": 21,
+   "quantity": 19,
+   "document_number": 15,
+   "date": 2,
+   "line_count": 9,
+   "grand_total": 9
+  },
+  "note": "Documents are counted wrong if any header, total, row count or row value differs from generator truth. Classifier misroutes are counted separately."
+ },
+ "verification": {
+  "strict": {
+   "wrong_unflagged_by_cause": {
+    "header_or_number_error": 2
+   },
+   "flagged": 84,
+   "injected_error_docs": 17,
+   "injected_error_docs_flagged": 17,
+   "outcomes": {
+    "correct_flagged": 24,
+    "wrong_flagged": 60,
+    "wrong_unflagged": 2
+   }
+  },
+  "demo_reconcile": {
+   "wrong_unflagged_by_cause": {
+    "item_description_only": 14,
+    "other": 6,
+    "misrouted_type_only": 1
+   },
+   "flagged": 47,
+   "injected_error_docs": 17,
+   "injected_error_docs_flagged": 17,
+   "outcomes": {
+    "correct_passed": 18,
+    "wrong_flagged": 41,
+    "correct_flagged": 6,
+    "wrong_unflagged": 21
+   }
+  }
+ },
+ "verification_notes": {
+  "strict": "Project contract unchanged: needs printed subtotal, tax and discount for the grand-total check, so most documents are flagged.",
+  "demo_reconcile": "Demo option: compare sum of line totals with a printed grand total (assumes no tax or discount) and require document number, date and grand total."
+ },
+ "documents_detail": [
+  {
+   "file": "purchase_order_01",
+   "true_type": "purchase_order",
+   "routed_type": "purchase_order",
+   "decision_source": "printed_heading",
+   "production_method": "printed",
+   "truth_review_required": false,
+   "field_errors": [],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": false
+  },
+  {
+   "file": "purchase_order_02",
+   "true_type": "purchase_order",
+   "routed_type": "purchase_order",
+   "decision_source": "printed_heading",
+   "production_method": "printed",
+   "truth_review_required": false,
+   "field_errors": [
+    "description",
+    "description",
+    "quantity",
+    "unit_price",
+    "line_total"
+   ],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": true
+  },
+  {
+   "file": "purchase_order_03",
+   "true_type": "purchase_order",
+   "routed_type": "purchase_order",
+   "decision_source": "printed_heading",
+   "production_method": "printed",
+   "truth_review_required": true,
+   "field_errors": [],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": true
+  },
+  {
+   "file": "purchase_order_06",
+   "true_type": "purchase_order",
+   "routed_type": "purchase_order",
+   "decision_source": "printed_heading",
+   "production_method": "printed",
+   "truth_review_required": false,
+   "field_errors": [
+    "quantity",
+    "description"
+   ],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": true
+  },
+  {
+   "file": "purchase_order_07",
+   "true_type": "purchase_order",
+   "routed_type": "purchase_order",
+   "decision_source": "printed_heading",
+   "production_method": "printed",
+   "truth_review_required": false,
+   "field_errors": [],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": false
+  },
+  {
+   "file": "purchase_order_09",
+   "true_type": "purchase_order",
+   "routed_type": "purchase_order",
+   "decision_source": "printed_heading",
+   "production_method": "printed",
+   "truth_review_required": false,
+   "field_errors": [
+    "description"
+   ],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": false
+  },
+  {
+   "file": "purchase_order_10",
+   "true_type": "purchase_order",
+   "routed_type": "purchase_order",
+   "decision_source": "printed_heading",
+   "production_method": "printed",
+   "truth_review_required": false,
+   "field_errors": [],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": false
+  },
+  {
+   "file": "purchase_order_11",
+   "true_type": "purchase_order",
+   "routed_type": "purchase_order",
+   "decision_source": "printed_heading",
+   "production_method": "printed",
+   "truth_review_required": false,
+   "field_errors": [],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": false
+  },
+  {
+   "file": "purchase_order_13",
+   "true_type": "purchase_order",
+   "routed_type": "purchase_order",
+   "decision_source": "printed_heading",
+   "production_method": "printed",
+   "truth_review_required": false,
+   "field_errors": [],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": false
+  },
+  {
+   "file": "purchase_order_14",
+   "true_type": "purchase_order",
+   "routed_type": "purchase_order",
+   "decision_source": "printed_heading",
+   "production_method": "printed",
+   "truth_review_required": false,
+   "field_errors": [
+    "description",
+    "quantity",
+    "unit_price",
+    "line_total",
+    "description",
+    "description",
+    "quantity",
+    "unit_price",
+    "line_total"
+   ],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": true
+  },
+  {
+   "file": "purchase_order_15",
+   "true_type": "purchase_order",
+   "routed_type": "purchase_order",
+   "decision_source": "printed_heading",
+   "production_method": "printed",
+   "truth_review_required": true,
+   "field_errors": [],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": true
+  },
+  {
+   "file": "purchase_order_17",
+   "true_type": "purchase_order",
+   "routed_type": "purchase_order",
+   "decision_source": "printed_heading",
+   "production_method": "printed",
+   "truth_review_required": false,
+   "field_errors": [
+    "description"
+   ],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": false
+  },
+  {
+   "file": "purchase_order_19",
+   "true_type": "purchase_order",
+   "routed_type": "purchase_order",
+   "decision_source": "printed_heading",
+   "production_method": "printed",
+   "truth_review_required": false,
+   "field_errors": [],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": false
+  },
+  {
+   "file": "purchase_order_20",
+   "true_type": "purchase_order",
+   "routed_type": "purchase_order",
+   "decision_source": "printed_heading",
+   "production_method": "printed",
+   "truth_review_required": false,
+   "field_errors": [
+    "description"
+   ],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": false
+  },
+  {
+   "file": "purchase_order_21",
+   "true_type": "purchase_order",
+   "routed_type": "purchase_order",
+   "decision_source": "printed_heading",
+   "production_method": "printed",
+   "truth_review_required": false,
+   "field_errors": [
+    "description",
+    "description",
+    "quantity",
+    "description",
+    "quantity",
+    "unit_price",
+    "line_total"
+   ],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": true
+  },
+  {
+   "file": "purchase_order_22",
+   "true_type": "purchase_order",
+   "routed_type": "purchase_order",
+   "decision_source": "printed_heading",
+   "production_method": "printed",
+   "truth_review_required": false,
+   "field_errors": [],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": false
+  },
+  {
+   "file": "purchase_order_23",
+   "true_type": "purchase_order",
+   "routed_type": "purchase_order",
+   "decision_source": "printed_heading",
+   "production_method": "printed",
+   "truth_review_required": false,
+   "field_errors": [
+    "document_number",
+    "description",
+    "quantity",
+    "unit_price",
+    "line_total",
+    "description",
+    "quantity",
+    "unit_price",
+    "line_total"
+   ],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": true
+  },
+  {
+   "file": "purchase_order_24",
+   "true_type": "purchase_order",
+   "routed_type": "purchase_order",
+   "decision_source": "printed_heading",
+   "production_method": "printed",
+   "truth_review_required": false,
+   "field_errors": [],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": false
+  },
+  {
+   "file": "purchase_order_25",
+   "true_type": "purchase_order",
+   "routed_type": "purchase_order",
+   "decision_source": "printed_heading",
+   "production_method": "printed",
+   "truth_review_required": false,
+   "field_errors": [
+    "description"
+   ],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": false
+  },
+  {
+   "file": "purchase_order_27",
+   "true_type": "purchase_order",
+   "routed_type": "purchase_order",
+   "decision_source": "printed_heading",
+   "production_method": "printed",
+   "truth_review_required": true,
+   "field_errors": [],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": true
+  },
+  {
+   "file": "receipt_01",
+   "true_type": "receipt",
+   "routed_type": "purchase_order",
+   "decision_source": "trained_classifier",
+   "production_method": "thermal",
+   "truth_review_required": false,
+   "field_errors": [
+    "description"
+   ],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": false
+  },
+  {
+   "file": "receipt_02",
+   "true_type": "receipt",
+   "routed_type": "receipt",
+   "decision_source": "trained_classifier",
+   "production_method": "thermal",
+   "truth_review_required": false,
+   "field_errors": [
+    "document_number",
+    "date",
+    "line_count"
+   ],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": true
+  },
+  {
+   "file": "receipt_03",
+   "true_type": "receipt",
+   "routed_type": "delivery_note",
+   "decision_source": "trained_classifier",
+   "production_method": "printed",
+   "truth_review_required": false,
+   "field_errors": [
+    "document_number",
+    "grand_total",
+    "unit_price",
+    "line_total",
+    "unit_price",
+    "line_total",
+    "unit_price",
+    "line_total",
+    "unit_price",
+    "line_total",
+    "unit_price",
+    "line_total",
+    "unit_price",
+    "line_total"
+   ],
+   "strict_flagged": false,
+   "demo_reconcile_flagged": true
+  },
+  {
+   "file": "receipt_04",
+   "true_type": "receipt",
+   "routed_type": "delivery_note",
+   "decision_source": "trained_classifier",
+   "production_method": "thermal",
+   "truth_review_required": false,
+   "field_errors": [
+    "description"
+   ],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": false
+  },
+  {
+   "file": "receipt_05",
+   "true_type": "receipt",
+   "routed_type": "receipt",
+   "decision_source": "trained_classifier",
+   "production_method": "printed",
+   "truth_review_required": false,
+   "field_errors": [
+    "document_number",
+    "grand_total",
+    "unit_price",
+    "line_total",
+    "unit_price",
+    "line_total",
+    "unit_price",
+    "line_total",
+    "unit_price",
+    "line_total"
+   ],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": true
+  },
+  {
+   "file": "receipt_06",
+   "true_type": "receipt",
+   "routed_type": "delivery_note",
+   "decision_source": "trained_classifier",
+   "production_method": "printed",
+   "truth_review_required": false,
+   "field_errors": [
+    "document_number",
+    "grand_total",
+    "unit_price",
+    "line_total",
+    "description",
+    "unit_price",
+    "line_total",
+    "unit_price",
+    "line_total"
+   ],
+   "strict_flagged": false,
+   "demo_reconcile_flagged": true
+  },
+  {
+   "file": "receipt_07",
+   "true_type": "receipt",
+   "routed_type": "receipt",
+   "decision_source": "trained_classifier",
+   "production_method": "thermal",
+   "truth_review_required": false,
+   "field_errors": [
+    "document_number",
+    "line_count"
+   ],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": true
+  },
+  {
+   "file": "receipt_08",
+   "true_type": "receipt",
+   "routed_type": "delivery_note",
+   "decision_source": "trained_classifier",
+   "production_method": "thermal",
+   "truth_review_required": false,
+   "field_errors": [
+    "description",
+    "description",
+    "description",
+    "description"
+   ],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": false
+  },
+  {
+   "file": "receipt_09",
+   "true_type": "receipt",
+   "routed_type": "delivery_note",
+   "decision_source": "trained_classifier",
+   "production_method": "thermal",
+   "truth_review_required": false,
+   "field_errors": [
+    "line_count",
+    "description",
+    "description",
+    "quantity",
+    "unit_price",
+    "line_total",
+    "description",
+    "quantity",
+    "unit_price",
+    "line_total",
+    "description",
+    "quantity",
+    "unit_price",
+    "line_total"
+   ],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": true
+  },
+  {
+   "file": "receipt_10",
+   "true_type": "receipt",
+   "routed_type": "delivery_note",
+   "decision_source": "trained_classifier",
+   "production_method": "thermal",
+   "truth_review_required": true,
+   "field_errors": [
+    "description",
+    "description",
+    "description"
+   ],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": true
+  },
+  {
+   "file": "receipt_11",
+   "true_type": "receipt",
+   "routed_type": "purchase_order",
+   "decision_source": "trained_classifier",
+   "production_method": "thermal",
+   "truth_review_required": false,
+   "field_errors": [
+    "description"
+   ],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": false
+  },
+  {
+   "file": "receipt_12",
+   "true_type": "receipt",
+   "routed_type": "delivery_note",
+   "decision_source": "trained_classifier",
+   "production_method": "thermal",
+   "truth_review_required": false,
+   "field_errors": [
+    "quantity",
+    "description",
+    "description"
+   ],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": true
+  },
+  {
+   "file": "receipt_13",
+   "true_type": "receipt",
+   "routed_type": "receipt",
+   "decision_source": "trained_classifier",
+   "production_method": "thermal",
+   "truth_review_required": false,
+   "field_errors": [
+    "description"
+   ],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": false
+  },
+  {
+   "file": "receipt_14",
+   "true_type": "receipt",
+   "routed_type": "receipt",
+   "decision_source": "trained_classifier",
+   "production_method": "thermal",
+   "truth_review_required": false,
+   "field_errors": [
+    "document_number",
+    "grand_total",
+    "line_count"
+   ],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": true
+  },
+  {
+   "file": "receipt_15",
+   "true_type": "receipt",
+   "routed_type": "purchase_order",
+   "decision_source": "trained_classifier",
+   "production_method": "printed",
+   "truth_review_required": false,
+   "field_errors": [
+    "document_number",
+    "grand_total",
+    "unit_price",
+    "line_total",
+    "description",
+    "unit_price",
+    "line_total"
+   ],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": true
+  },
+  {
+   "file": "receipt_16",
+   "true_type": "receipt",
+   "routed_type": "receipt",
+   "decision_source": "trained_classifier",
+   "production_method": "printed",
+   "truth_review_required": false,
+   "field_errors": [
+    "document_number",
+    "grand_total",
+    "unit_price",
+    "line_total",
+    "unit_price",
+    "line_total",
+    "unit_price",
+    "line_total",
+    "unit_price",
+    "line_total"
+   ],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": true
+  },
+  {
+   "file": "receipt_17",
+   "true_type": "receipt",
+   "routed_type": "purchase_order",
+   "decision_source": "trained_classifier",
+   "production_method": "thermal",
+   "truth_review_required": true,
+   "field_errors": [],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": true
+  },
+  {
+   "file": "receipt_18",
+   "true_type": "receipt",
+   "routed_type": "delivery_note",
+   "decision_source": "trained_classifier",
+   "production_method": "thermal",
+   "truth_review_required": false,
+   "field_errors": [],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": false
+  },
+  {
+   "file": "receipt_19",
+   "true_type": "receipt",
+   "routed_type": "purchase_order",
+   "decision_source": "trained_classifier",
+   "production_method": "thermal",
+   "truth_review_required": true,
+   "field_errors": [
+    "date",
+    "description",
+    "quantity"
+   ],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": true
+  },
+  {
+   "file": "receipt_20",
+   "true_type": "receipt",
+   "routed_type": "delivery_note",
+   "decision_source": "trained_classifier",
+   "production_method": "thermal",
+   "truth_review_required": true,
+   "field_errors": [],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": true
+  },
+  {
+   "file": "receipt_21",
+   "true_type": "receipt",
+   "routed_type": "delivery_note",
+   "decision_source": "trained_classifier",
+   "production_method": "thermal",
+   "truth_review_required": true,
+   "field_errors": [
+    "description"
+   ],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": true
+  },
+  {
+   "file": "receipt_22",
+   "true_type": "receipt",
+   "routed_type": "delivery_note",
+   "decision_source": "trained_classifier",
+   "production_method": "thermal",
+   "truth_review_required": false,
+   "field_errors": [
+    "description"
+   ],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": false
+  },
+  {
+   "file": "receipt_23",
+   "true_type": "receipt",
+   "routed_type": "purchase_order",
+   "decision_source": "trained_classifier",
+   "production_method": "printed",
+   "truth_review_required": false,
+   "field_errors": [
+    "document_number",
+    "grand_total",
+    "description",
+    "unit_price",
+    "line_total",
+    "unit_price",
+    "line_total",
+    "unit_price",
+    "line_total",
+    "unit_price",
+    "line_total",
+    "unit_price",
+    "line_total"
+   ],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": true
+  },
+  {
+   "file": "receipt_24",
+   "true_type": "receipt",
+   "routed_type": "receipt",
+   "decision_source": "trained_classifier",
+   "production_method": "thermal",
+   "truth_review_required": false,
+   "field_errors": [
+    "description"
+   ],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": false
+  },
+  {
+   "file": "receipt_25",
+   "true_type": "receipt",
+   "routed_type": "receipt",
+   "decision_source": "trained_classifier",
+   "production_method": "printed",
+   "truth_review_required": false,
+   "field_errors": [
+    "document_number",
+    "grand_total",
+    "unit_price",
+    "line_total",
+    "unit_price",
+    "line_total",
+    "unit_price",
+    "line_total",
+    "unit_price",
+    "line_total",
+    "unit_price",
+    "line_total",
+    "unit_price",
+    "line_total"
+   ],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": true
+  },
+  {
+   "file": "receipt_26",
+   "true_type": "receipt",
+   "routed_type": "delivery_note",
+   "decision_source": "trained_classifier",
+   "production_method": "thermal",
+   "truth_review_required": false,
+   "field_errors": [
+    "description"
+   ],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": false
+  },
+  {
+   "file": "receipt_27",
+   "true_type": "receipt",
+   "routed_type": "delivery_note",
+   "decision_source": "trained_classifier",
+   "production_method": "thermal",
+   "truth_review_required": false,
+   "field_errors": [
+    "line_count",
+    "description",
+    "description",
+    "quantity",
+    "unit_price",
+    "line_total",
+    "description",
+    "quantity",
+    "unit_price",
+    "line_total",
+    "description",
+    "quantity",
+    "unit_price",
+    "line_total"
+   ],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": true
+  },
+  {
+   "file": "receipt_28",
+   "true_type": "receipt",
+   "routed_type": "delivery_note",
+   "decision_source": "trained_classifier",
+   "production_method": "thermal",
+   "truth_review_required": false,
+   "field_errors": [
+    "document_number",
+    "line_count"
+   ],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": true
+  },
+  {
+   "file": "receipt_29",
+   "true_type": "receipt",
+   "routed_type": "receipt",
+   "decision_source": "trained_classifier",
+   "production_method": "thermal",
+   "truth_review_required": false,
+   "field_errors": [
+    "description",
+    "quantity",
+    "unit_price",
+    "line_total",
+    "description",
+    "description",
+    "quantity"
+   ],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": true
+  },
+  {
+   "file": "receipt_30",
+   "true_type": "receipt",
+   "routed_type": "delivery_note",
+   "decision_source": "trained_classifier",
+   "production_method": "thermal",
+   "truth_review_required": false,
+   "field_errors": [
+    "document_number",
+    "line_count"
+   ],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": true
+  },
+  {
+   "file": "delivery_note_05",
+   "true_type": "delivery_note",
+   "routed_type": "delivery_note",
+   "decision_source": "printed_heading",
+   "production_method": "printed",
+   "truth_review_required": true,
+   "field_errors": [
+    "description",
+    "quantity",
+    "unit_price",
+    "line_total"
+   ],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": true
+  },
+  {
+   "file": "delivery_note_06",
+   "true_type": "delivery_note",
+   "routed_type": "delivery_note",
+   "decision_source": "printed_heading",
+   "production_method": "thermal",
+   "truth_review_required": false,
+   "field_errors": [],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": false
+  },
+  {
+   "file": "delivery_note_08",
+   "true_type": "delivery_note",
+   "routed_type": "delivery_note",
+   "decision_source": "printed_heading",
+   "production_method": "thermal",
+   "truth_review_required": false,
+   "field_errors": [
+    "description",
+    "description",
+    "description"
+   ],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": false
+  },
+  {
+   "file": "delivery_note_13",
+   "true_type": "delivery_note",
+   "routed_type": "delivery_note",
+   "decision_source": "printed_heading",
+   "production_method": "printed",
+   "truth_review_required": false,
+   "field_errors": [],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": false
+  },
+  {
+   "file": "delivery_note_14",
+   "true_type": "delivery_note",
+   "routed_type": "delivery_note",
+   "decision_source": "printed_heading",
+   "production_method": "printed",
+   "truth_review_required": false,
+   "field_errors": [
+    "description",
+    "quantity"
+   ],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": true
+  },
+  {
+   "file": "delivery_note_15",
+   "true_type": "delivery_note",
+   "routed_type": "delivery_note",
+   "decision_source": "printed_heading",
+   "production_method": "printed",
+   "truth_review_required": false,
+   "field_errors": [
+    "description"
+   ],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": false
+  },
+  {
+   "file": "delivery_note_16",
+   "true_type": "delivery_note",
+   "routed_type": "delivery_note",
+   "decision_source": "printed_heading",
+   "production_method": "printed",
+   "truth_review_required": false,
+   "field_errors": [
+    "description",
+    "quantity",
+    "unit_price",
+    "line_total"
+   ],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": true
+  },
+  {
+   "file": "delivery_note_21",
+   "true_type": "delivery_note",
+   "routed_type": "delivery_note",
+   "decision_source": "printed_heading",
+   "production_method": "thermal",
+   "truth_review_required": true,
+   "field_errors": [
+    "description"
+   ],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": true
+  },
+  {
+   "file": "delivery_note_23",
+   "true_type": "delivery_note",
+   "routed_type": "delivery_note",
+   "decision_source": "printed_heading",
+   "production_method": "printed",
+   "truth_review_required": false,
+   "field_errors": [
+    "description"
+   ],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": false
+  },
+  {
+   "file": "delivery_note_24",
+   "true_type": "delivery_note",
+   "routed_type": "delivery_note",
+   "decision_source": "printed_heading",
+   "production_method": "printed",
+   "truth_review_required": false,
+   "field_errors": [
+    "document_number",
+    "description",
+    "quantity",
+    "unit_price",
+    "line_total",
+    "description"
+   ],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": true
+  },
+  {
+   "file": "delivery_note_25",
+   "true_type": "delivery_note",
+   "routed_type": "delivery_note",
+   "decision_source": "printed_heading",
+   "production_method": "printed",
+   "truth_review_required": false,
+   "field_errors": [],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": false
+  },
+  {
+   "file": "delivery_note_26",
+   "true_type": "delivery_note",
+   "routed_type": "delivery_note",
+   "decision_source": "printed_heading",
+   "production_method": "printed",
+   "truth_review_required": true,
+   "field_errors": [
+    "description"
+   ],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": true
+  },
+  {
+   "file": "delivery_note_27",
+   "true_type": "delivery_note",
+   "routed_type": "delivery_note",
+   "decision_source": "printed_heading",
+   "production_method": "printed",
+   "truth_review_required": true,
+   "field_errors": [],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": true
+  },
+  {
+   "file": "delivery_note_29",
+   "true_type": "delivery_note",
+   "routed_type": "delivery_note",
+   "decision_source": "printed_heading",
+   "production_method": "printed",
+   "truth_review_required": true,
+   "field_errors": [
+    "quantity"
+   ],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": true
+  },
+  {
+   "file": "customer_copy_02",
+   "true_type": "customer_copy",
+   "routed_type": "customer_copy",
+   "decision_source": "printed_heading",
+   "production_method": "printed",
+   "truth_review_required": false,
+   "field_errors": [],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": false
+  },
+  {
+   "file": "customer_copy_03",
+   "true_type": "customer_copy",
+   "routed_type": "customer_copy",
+   "decision_source": "printed_heading",
+   "production_method": "thermal",
+   "truth_review_required": false,
+   "field_errors": [
+    "description"
+   ],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": false
+  },
+  {
+   "file": "customer_copy_04",
+   "true_type": "customer_copy",
+   "routed_type": "customer_copy",
+   "decision_source": "printed_heading",
+   "production_method": "thermal",
+   "truth_review_required": false,
+   "field_errors": [
+    "description",
+    "description"
+   ],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": false
+  },
+  {
+   "file": "customer_copy_05",
+   "true_type": "customer_copy",
+   "routed_type": "customer_copy",
+   "decision_source": "printed_heading",
+   "production_method": "thermal",
+   "truth_review_required": true,
+   "field_errors": [
+    "description",
+    "description"
+   ],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": true
+  },
+  {
+   "file": "customer_copy_06",
+   "true_type": "customer_copy",
+   "routed_type": "customer_copy",
+   "decision_source": "printed_heading",
+   "production_method": "printed",
+   "truth_review_required": false,
+   "field_errors": [],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": false
+  },
+  {
+   "file": "customer_copy_07",
+   "true_type": "customer_copy",
+   "routed_type": "customer_copy",
+   "decision_source": "printed_heading",
+   "production_method": "printed",
+   "truth_review_required": false,
+   "field_errors": [
+    "description"
+   ],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": false
+  },
+  {
+   "file": "customer_copy_08",
+   "true_type": "customer_copy",
+   "routed_type": "customer_copy",
+   "decision_source": "printed_heading",
+   "production_method": "thermal",
+   "truth_review_required": false,
+   "field_errors": [
+    "line_count"
+   ],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": true
+  },
+  {
+   "file": "customer_copy_09",
+   "true_type": "customer_copy",
+   "routed_type": "customer_copy",
+   "decision_source": "printed_heading",
+   "production_method": "printed",
+   "truth_review_required": true,
+   "field_errors": [],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": true
+  },
+  {
+   "file": "customer_copy_10",
+   "true_type": "customer_copy",
+   "routed_type": "customer_copy",
+   "decision_source": "printed_heading",
+   "production_method": "printed",
+   "truth_review_required": true,
+   "field_errors": [],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": true
+  },
+  {
+   "file": "customer_copy_11",
+   "true_type": "customer_copy",
+   "routed_type": "customer_copy",
+   "decision_source": "printed_heading",
+   "production_method": "printed",
+   "truth_review_required": false,
+   "field_errors": [],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": false
+  },
+  {
+   "file": "customer_copy_12",
+   "true_type": "customer_copy",
+   "routed_type": "customer_copy",
+   "decision_source": "printed_heading",
+   "production_method": "thermal",
+   "truth_review_required": false,
+   "field_errors": [
+    "document_number",
+    "grand_total",
+    "line_count"
+   ],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": true
+  },
+  {
+   "file": "customer_copy_13",
+   "true_type": "customer_copy",
+   "routed_type": "customer_copy",
+   "decision_source": "printed_heading",
+   "production_method": "thermal",
+   "truth_review_required": false,
+   "field_errors": [
+    "description",
+    "description"
+   ],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": false
+  },
+  {
+   "file": "customer_copy_15",
+   "true_type": "customer_copy",
+   "routed_type": "customer_copy",
+   "decision_source": "printed_heading",
+   "production_method": "printed",
+   "truth_review_required": false,
+   "field_errors": [
+    "quantity",
+    "line_total",
+    "quantity",
+    "line_total"
+   ],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": true
+  },
+  {
+   "file": "customer_copy_17",
+   "true_type": "customer_copy",
+   "routed_type": "customer_copy",
+   "decision_source": "printed_heading",
+   "production_method": "printed",
+   "truth_review_required": false,
+   "field_errors": [
+    "description"
+   ],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": false
+  },
+  {
+   "file": "customer_copy_18",
+   "true_type": "customer_copy",
+   "routed_type": "customer_copy",
+   "decision_source": "printed_heading",
+   "production_method": "printed",
+   "truth_review_required": false,
+   "field_errors": [],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": false
+  },
+  {
+   "file": "customer_copy_19",
+   "true_type": "customer_copy",
+   "routed_type": "customer_copy",
+   "decision_source": "printed_heading",
+   "production_method": "printed",
+   "truth_review_required": false,
+   "field_errors": [],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": false
+  },
+  {
+   "file": "customer_copy_20",
+   "true_type": "customer_copy",
+   "routed_type": "customer_copy",
+   "decision_source": "printed_heading",
+   "production_method": "printed",
+   "truth_review_required": false,
+   "field_errors": [
+    "description",
+    "quantity",
+    "unit_price",
+    "line_total"
+   ],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": true
+  },
+  {
+   "file": "customer_copy_22",
+   "true_type": "customer_copy",
+   "routed_type": "customer_copy",
+   "decision_source": "printed_heading",
+   "production_method": "printed",
+   "truth_review_required": false,
+   "field_errors": [],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": false
+  },
+  {
+   "file": "customer_copy_23",
+   "true_type": "customer_copy",
+   "routed_type": "customer_copy",
+   "decision_source": "printed_heading",
+   "production_method": "printed",
+   "truth_review_required": false,
+   "field_errors": [],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": false
+  },
+  {
+   "file": "customer_copy_26",
+   "true_type": "customer_copy",
+   "routed_type": "customer_copy",
+   "decision_source": "printed_heading",
+   "production_method": "thermal",
+   "truth_review_required": true,
+   "field_errors": [
+    "description"
+   ],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": true
+  },
+  {
+   "file": "customer_copy_27",
+   "true_type": "customer_copy",
+   "routed_type": "customer_copy",
+   "decision_source": "printed_heading",
+   "production_method": "printed",
+   "truth_review_required": false,
+   "field_errors": [
+    "description",
+    "description",
+    "quantity",
+    "unit_price",
+    "line_total",
+    "description"
+   ],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": true
+  },
+  {
+   "file": "customer_copy_30",
+   "true_type": "customer_copy",
+   "routed_type": "customer_copy",
+   "decision_source": "printed_heading",
+   "production_method": "printed",
+   "truth_review_required": false,
+   "field_errors": [
+    "description",
+    "quantity",
+    "unit_price",
+    "line_total"
+   ],
+   "strict_flagged": true,
+   "demo_reconcile_flagged": true
+  }
+ ]
+}

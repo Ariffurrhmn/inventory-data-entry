@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Capture · Inventory Data Entry</title>
+<meta name="theme-color" content="#0f1720">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Capture">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/icon-192.png">
+<link rel="apple-touch-icon" href="icons/icon-192.png">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <div class="brand"><span class="logo" aria-hidden="true"></span><div><h1>Capture</h1><p>Inventory data entry</p></div></div>
+  <div class="conn" id="conn" role="status" aria-live="polite"><span class="dot"></span><span id="connText">Checking…</span></div>
+</header>
+
+<main id="app">
+  <!-- Pairing -->
+  <section id="pairView" class="view" hidden>
+    <div class="card pad">
+      <h2>Connect to the gateway</h2>
+      <p class="muted">Open the dashboard on the computer, then type the 6-digit pairing code it shows. You only do this once per phone.</p>
+      <form id="pairForm" autocomplete="off">
+        <label for="pin">Pairing code</label>
+        <input id="pin" inputmode="numeric" pattern="[0-9]{6}" maxlength="6" placeholder="••••••" autocomplete="one-time-code" required>
+        <button class="btn primary block" type="submit">Connect</button>
+        <p id="pairError" class="error" role="alert"></p>
+      </form>
+    </div>
+  </section>
+
+  <!-- Capture -->
+  <section id="captureView" class="view" hidden>
+    <div class="hero card">
+      <div class="guide" aria-hidden="true"><i></i><i></i><i></i><i></i></div>
+      <h2>Photograph a document</h2>
+      <p class="muted">Purchase order, receipt, delivery note or customer copy. Lay it flat in good light and fill the frame.</p>
+      <label class="btn primary block big" for="camInput">Take photo</label>
+      <input id="camInput" type="file" accept="image/*" capture="environment" hidden>
+      <div class="row2">
+        <label class="btn block" for="galInput">From gallery</label>
+        <input id="galInput" type="file" accept="image/*" hidden>
+        <button class="btn block" id="liveBtn" type="button" hidden>Live camera</button>
+      </div>
+      <button class="btn ghost block" id="installBtn" type="button" hidden>Install app</button>
+      <p class="hint" id="iosHint" hidden>On iPhone: Share → Add to Home Screen to install.</p>
+    </div>
+
+    <div class="listhead"><h3>Recent</h3><span class="muted" id="queueInfo"></span></div>
+    <ul id="items" class="items"></ul>
+    <p id="empty" class="muted center">Nothing captured yet.</p>
+    <p class="foot"><button class="link" id="forget" type="button">Forget this device</button></p>
+  </section>
+</main>
+
+<!-- Live camera -->
+<div id="camModal" class="modal" hidden>
+  <video id="video" playsinline muted></video>
+  <div class="frame" aria-hidden="true"></div>
+  <div class="camBar"><button class="btn" id="camClose" type="button">Cancel</button><button class="shutter" id="shutter" type="button" aria-label="Capture"></button><span></span></div>
+</div>
+
+<!-- Result sheet -->
+<div id="sheet" class="sheet" hidden>
+  <div class="sheetBody" role="dialog" aria-modal="true" aria-labelledby="sheetTitle">
+    <div class="grab"></div>
+    <button class="close" id="sheetClose" type="button" aria-label="Close">×</button>
+    <div id="sheetContent"></div>
+  </div>
+</div>
+
+<div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+<script src="/reasons.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

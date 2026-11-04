@@ -151,6 +151,11 @@ The report designs a mobile-to-cloud gateway for printed *and* handwritten docum
 <img src="classifier/docs/demo-preview.png" alt="Document Lab: the classifier demo" width="820">
 
 <sub><b>Document Lab</b>, the local classifier demo. Pick an example or upload a slip, and it shows the predicted type and the evidence behind it.</sub>
+
+<br><br>
+<img src="full_demo/docs/screenshots/03-error-caught.png" alt="End-to-end demo: a document with a printed arithmetic error is read correctly and flagged" width="820">
+
+<sub><b>End-to-end demo</b> (<a href="full_demo/README.md">full_demo/</a>): a phone PWA sends a photo through OCR, classification, extraction and verification into an ERP inbox. Here the printed total is wrong, and the checks flag it. Walkthrough: <a href="full_demo/DEMO_SCRIPT.md">DEMO_SCRIPT.md</a>.</sub>
 </div>
 
 ---
@@ -171,6 +176,7 @@ This creates a virtual environment and writes `classifier/engine/runtime.local.j
 
 | App | Launcher | Opens at |
 |---|---|---|
+| 🌐 **End-to-end demo**: phone PWA → OCR → classify → extract → verify → ERP | `full_demo/Open Demo.cmd` (or `Open Demo (phone).cmd`; `./full_demo/run.sh` elsewhere) | <http://127.0.0.1:8790> |
 | 🔬 **Document Lab**, the classifier demo | `classifier/Open Demo.cmd` | <http://127.0.0.1:8770> |
 | 🎓 **Supervisor showcase** | `supervisor_showcase/Open Showcase.cmd` | <http://127.0.0.1:8780> |
 | 🔁 **Document pipeline**, the gateway | `services/document_pipeline/Open Pipeline.cmd` | <http://127.0.0.1:8772> |
@@ -180,7 +186,7 @@ Add `-RegionOcr` to `services/document_pipeline/start.ps1` to turn on automatic 
 
 **3 · Tests** sit beside the code: `classifier/tests/`, `classifier/engine/test_*.py`, `services/document_pipeline/test_*.py`, `services/annotation_portal/test_portal.py` and `supervisor_showcase/tests/`. Some historical engine tests need PyTorch, which the demo does not require.
 
-Component guides: [classifier](classifier/README.md) · [document pipeline](services/document_pipeline/README.md) · [annotation portal](services/annotation_portal/README.md) · [supervisor showcase](supervisor_showcase/README.md)
+Component guides: [end-to-end demo](full_demo/README.md) · [classifier](classifier/README.md) · [document pipeline](services/document_pipeline/README.md) · [annotation portal](services/annotation_portal/README.md) · [supervisor showcase](supervisor_showcase/README.md)
 
 ---
 
@@ -200,6 +206,7 @@ Component guides: [classifier](classifier/README.md) · [document pipeline](serv
 │   ├── document_pipeline/      OCR → classify → extract → verify → submit
 │   ├── annotation_portal/      Transcription review app
 │   └── document_classifier/    Legacy location; keeps old paths resolving
+├── 🌐 full_demo/             End-to-end demo: phone PWA, dashboard, ERP stand-in, script
 ├── 🎓 supervisor_showcase/   Supervisor-meeting app + saved decisions
 └── 🧠 Context/               Shared project memory: status, decisions, handoffs
 ```

@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Inventory Data Entry · End-to-end demo</title>
+<link rel="icon" href="/m/icons/icon-192.png">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="bar">
+  <div class="brand"><span class="logo" aria-hidden="true"></span><div><h1>Automated Inventory Data Entry</h1><p>End-to-end demo · phone → reading → checking → ERP</p></div></div>
+  <nav class="tabs" role="tablist" aria-label="Demo sections">
+    <button role="tab" data-tab="live" aria-selected="true">Live demo</button>
+    <button role="tab" data-tab="phone" aria-selected="false">Phone app</button>
+    <button role="tab" data-tab="erp" aria-selected="false">ERP inbox <span class="count" id="erpCount" hidden>0</span></button>
+    <button role="tab" data-tab="evidence" aria-selected="false">Evidence</button>
+  </nav>
+  <div class="badges" id="badges"></div>
+</header>
+
+<main>
+  <!-- ============ LIVE DEMO ============ -->
+  <section id="tab-live" class="tab">
+    <div class="flow" id="flow" aria-label="Processing pipeline"></div>
+    <div class="grid2">
+      <aside class="panel" aria-label="Documents">
+        <h2>Choose a document</h2>
+        <p class="muted small">Each button sends the photo through the same gateway the phone uses.</p>
+        <div id="shelf"></div>
+        <h3 class="sub">Your own document</h3>
+        <label class="drop" id="drop" for="fileIn" tabindex="0">
+          <strong>Drop a photo here</strong><span>or click to choose a file (JPG, PNG, HEIC)</span>
+        </label>
+        <input type="file" id="fileIn" accept="image/*,.heic,.heif" hidden>
+        <details class="paste"><summary>Paste OCR text instead</summary>
+          <textarea id="pasteText" rows="6" placeholder="Paste text read from a printed document…"></textarea>
+          <button class="btn" id="pasteBtn" type="button">Send text</button>
+        </details>
+      </aside>
+      <section class="panel run" id="run" aria-live="polite"></section>
+    </div>
+  </section>
+
+  <!-- ============ PHONE ============ -->
+  <section id="tab-phone" class="tab" hidden>
+    <div class="grid2 phonegrid">
+      <div class="panel">
+        <h2>Use it from a real phone</h2>
+        <div id="phoneInfo"></div>
+        <h3 class="sub">Photos arriving from phones</h3>
+        <ul class="feed" id="phoneFeed"></ul>
+      </div>
+      <div class="panel center">
+        <h2>The phone app (PWA), shown here</h2>
+        <p class="muted small">This is the same installable web app, running in a phone-sized frame. Use <em>Take photo</em> or <em>From gallery</em>.</p>
+        <div class="phone"><div class="notch"></div><iframe id="phoneFrame" title="Phone app preview" allow="camera"></iframe></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ ERP ============ -->
+  <section id="tab-erp" class="tab" hidden>
+    <div class="panel">
+      <div class="ph"><h2>ERP inbox <span class="tag">stand-in</span></h2><button class="btn small" id="resetBtn" type="button">Reset demo data</button></div>
+      <p class="muted">This stands in for the customer's existing inventory or ERP system. The gateway sends it one JSON record per document. Records that did not pass the checks arrive <strong>blocked for review</strong>. This stand-in never changes stock: <code>inventory_updated</code> is always <code>false</code>.</p>
+      <div class="tablewrap"><table class="data" id="erpTable"><thead><tr><th>Received</th><th>Type</th><th>Document no.</th><th>Date</th><th>Total</th><th>Rows</th><th>Status</th><th></th></tr></thead><tbody></tbody></table></div>
+      <p id="erpEmpty" class="muted center">Nothing has been delivered yet. Send a document from the Live demo tab.</p>
+    </div>
+  </section>
+
+  <!-- ============ EVIDENCE ============ -->
+  <section id="tab-evidence" class="tab" hidden><div id="evidence"></div></section>
+</main>
+
+<div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+<script src="/reasons.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

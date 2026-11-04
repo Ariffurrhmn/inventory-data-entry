@@ -1,0 +1,17 @@
+{
+  "name": "Inventory Data Entry — Capture",
+  "short_name": "Capture",
+  "description": "Photograph a printed business document and send it to the document-digitisation gateway.",
+  "id": "/m/",
+  "start_url": "/m/",
+  "scope": "/m/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f1720",
+  "theme_color": "#0f1720",
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
