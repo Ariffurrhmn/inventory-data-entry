@@ -227,3 +227,25 @@ Validation with the new runtime: classifier demo tests 5/5, document pipeline 49
 ## CSE 498B plan created — 2026-10-30
 
 User asked for a phased capstone plan (5–8 h/week, team where the user does most work). Saved docs/design/capstone_plan_498B_2026-10-30.md: phases, 40-task table with done-when checks, critical path, risks, cut order, this-week list and weekly hours. Deadlines (assumed submit Tue 15 Dec, defense Tue 22 Dec, mid-review ~19 Nov), rubric/template and supervisor scope expectations (local demo vs mobile/cloud) are unconfirmed ASSUMPTIONS. Proposed holdout target lowered from 80 to 40 real documents pending supervisor approval. No code, data or model changed. Next: tasks A1–A3 (confirm dates/scope, start teammate document collection); update the plan file in place as progress is reported.
+
+## Sprint 0 foundations — 2026-11-25 (branch claude/funny-pascal-bdjexm)
+
+Source: user sprint direction 2026-11-25. Branch created from main (no remote branch of that name existed). No PR opened.
+
+**Done (with evidence):**
+- Task 1, /health on all interfaces: services/document_pipeline/health_server.py bound to 0.0.0.0:8790. Local GET /health returned 200 "OK" from 127.0.0.1, and a request from the laptop's LAN address 192.168.168.33 returned 200. Log: services/document_pipeline/.runtime/health_server.log.
+- Task 5, classifier on OCR text: classifier runtime D:\DocumentLab\python-env (classifier/engine/runtime.local.json) returned label purchase_order (printed_v3_explainable) on the stand-in OCR text. Used a stand-in photo, not a phone photo (see below).
+- Task 7, UI decision: Context/DECISIONS.md entry "Sprint 0 foundations UI decision — 2026-11-25".
+
+**Partly done:**
+- Task 4, OCR: Tesseract (classifier/engine/.cache/tessdata/eng.traineddata) ran and produced 139 characters of text from a stand-in image (classifier/engine/data/images/42d9b408c783.jpg, a derived copy of a training-split printed Dataset-2 photo). This verifies the wiring only. It is NOT a phone photo, so Task 4 is not marked done.
+
+**Failed / stopped:**
+- Task 3, Anthropic key: ANTHROPIC_API_KEY is not set in the process, User, or Machine environment. Per the sprint's rule the task stopped; no test call was made. The key was not requested in chat and was not written anywhere.
+- Task 6, Haiku JSON: blocked by the same missing key. services/document_pipeline/sprint0_pipeline.py stops with "STOP: ANTHROPIC_API_KEY is not set" after OCR and the classifier hint (exit 1; run output in .runtime/sprint0/).
+
+**Not started / needs the user:**
+- Task 2, phone check of /health: needs a phone on the same network. The laptop's Wi-Fi profile is Public, so Windows Firewall may block inbound connections until Python is allowed. The user must allow it; nothing was changed in the firewall. Fallback: phone hotspot.
+- Task 4, real phone photo of a printed document: needs the photo from the user.
+
+**Next:** set ANTHROPIC_API_KEY at User scope in the user's own terminal and open a new shell, then run `sprint0_pipeline.py <phone photo>` from services/document_pipeline with the classifier runtime interpreter. Allow Python through the firewall, then open http://<laptop-LAN-IP>:8790/health on the phone.
