@@ -11,6 +11,7 @@ classifier model code) plus the anthropic SDK:
 
 The API key is read only from the ANTHROPIC_API_KEY environment variable. If it
 is unset the script stops after OCR and the classifier hint and exits with code 2.
+Exit codes: 0 success, 1 pipeline error, 2 missing API key.
 """
 import argparse
 import json
@@ -49,22 +50,33 @@ def enable_heic():
         log.warning("HEIC opener unavailable (%s); JPEG/PNG only", exc)
 
 
-def classify(text):
-    """Return (label, error). On any error the caller continues with no hint."""
+def ocr_and_classify(photo):
+    """Same image path the gateway uses: Predictor.predict_image (saved OCR policy,
+    heading rules). Returns (ocr_text, label_or_None, classifier_error_or_None).
+
+    A classifier failure is logged and the run continues without the hint. OCR
+    failures are not caught here and stop the run.
+    """
+    from inference import Predictor
     try:
-        from inference import Predictor
-        result = Predictor().predict_text(text, origin="ocr_text")
-        return result["label"], None
+        predictor = Predictor()
+    except Exception as exc:
+        log.exception("classifier load error, continuing without hint: %s", exc)
+        return ocr_image(photo), None, f"{type(exc).__name__}: {exc}"
+    try:
+        result = predictor.predict_image(photo)
+        return result["ocr_text"], result["label"], None
     except Exception as exc:
         log.exception("classifier error, continuing without hint: %s", exc)
-        return None, f"{type(exc).__name__}: {exc}"
+        return predictor.extract(photo), None, f"{type(exc).__name__}: {exc}"
 
 
 def call_haiku(ocr_text, hint):
     key = os.environ.get("ANTHROPIC_API_KEY", "")
     if not key:
-        raise SystemExit("STOP: ANTHROPIC_API_KEY is not set in this environment. "
-                         "Sprint 0 Tasks 3 and 6 stop here (no key, no Haiku call).")
+        log.error("STOP: ANTHROPIC_API_KEY is not set in this environment. "
+                  "Sprint 0 Tasks 3 and 6 stop here (no key, no Haiku call).")
+        sys.exit(2)
     import anthropic  # official SDK, per project rule for Python code
 
     label = hint or "none"
@@ -94,12 +106,10 @@ def main():
     enable_heic()
     stem = args.photo.stem
 
-    log.info("OCR start: %s", args.photo)
-    ocr_text = ocr_image(args.photo)
+    log.info("OCR + classifier start: %s", args.photo)
+    ocr_text, hint, hint_error = ocr_and_classify(args.photo)
     (RUNTIME / f"{stem}_ocr.txt").write_text(ocr_text, encoding="utf-8")
     log.info("OCR done: %d characters -> %s_ocr.txt", len(ocr_text), stem)
-
-    hint, hint_error = classify(ocr_text)
     log.info("classifier hint: %s (error: %s)", hint, hint_error)
 
     raw = call_haiku(ocr_text, hint)

@@ -234,15 +234,15 @@ Source: user sprint direction 2026-11-25. Branch created from main (no remote br
 
 **Done (with evidence):**
 - Task 1, /health on all interfaces: services/document_pipeline/health_server.py bound to 0.0.0.0:8790. Local GET /health returned 200 "OK" from 127.0.0.1, and a request from the laptop's LAN address 192.168.168.33 returned 200. Log: services/document_pipeline/.runtime/health_server.log.
-- Task 5, classifier on OCR text: classifier runtime D:\DocumentLab\python-env (classifier/engine/runtime.local.json) returned label purchase_order (printed_v3_explainable) on the stand-in OCR text. Used a stand-in photo, not a phone photo (see below).
+- Task 5, classifier hint: partly done. The first run used the wrong path (plain OCR and predict_text, no heading rules) and returned purchase_order, which is discarded. The driver was then changed to the gateway's own path, Predictor.predict_image (saved illumination OCR policy and heading_rules_v3). On the stand-in Dataset/Dataset-2/Customer copy/IMG_1002.HEIC it returned customer_copy, decision_source printed heading, matching the 2026-10-29 STATUS result. Classifier error handling is exercised only by code reading, not by a forced failure. Caveat: selection.json has new_test_result null, so validation_only is true and the model is not validated on a new test set.
 - Task 7, UI decision: Context/DECISIONS.md entry "Sprint 0 foundations UI decision — 2026-11-25".
 
 **Partly done:**
-- Task 4, OCR: Tesseract (classifier/engine/.cache/tessdata/eng.traineddata) ran and produced 139 characters of text from a stand-in image (classifier/engine/data/images/42d9b408c783.jpg, a derived copy of a training-split printed Dataset-2 photo). This verifies the wiring only. It is NOT a phone photo, so Task 4 is not marked done.
+- Task 4, OCR: partly done. Tesseract (classifier/engine/.cache/tessdata/eng.traineddata) ran through the project's illumination OCR path on the stand-in Dataset/Dataset-2/Customer copy/IMG_1002.HEIC (training split, HEIC path). Output: 141 characters, saved to services/document_pipeline/.runtime/sprint0/IMG_1002_ocr.txt. The text is the invoice header only (shop, invoice number, date, customer); the line-item table was not captured. This verifies the wiring only. It is NOT a phone photo, so Task 4 is not marked done.
 
 **Failed / stopped:**
 - Task 3, Anthropic key: ANTHROPIC_API_KEY is not set in the process, User, or Machine environment. Per the sprint's rule the task stopped; no test call was made. The key was not requested in chat and was not written anywhere.
-- Task 6, Haiku JSON: blocked by the same missing key. services/document_pipeline/sprint0_pipeline.py stops with "STOP: ANTHROPIC_API_KEY is not set" after OCR and the classifier hint (exit 1; run output in .runtime/sprint0/).
+- Task 6, Haiku JSON: blocked by the same missing key. services/document_pipeline/sprint0_pipeline.py stops with "STOP: ANTHROPIC_API_KEY is not set" after OCR and the classifier hint (exit 2; log in services/document_pipeline/.runtime/sprint0/sprint0_run.log). The Haiku path has never run, so the first successful run with a key is the evidence for Tasks 3 and 6.
 
 **Not started / needs the user:**
 - Task 2, phone check of /health: needs a phone on the same network. The laptop's Wi-Fi profile is Public, so Windows Firewall may block inbound connections until Python is allowed. The user must allow it; nothing was changed in the firewall. Fallback: phone hotspot.
